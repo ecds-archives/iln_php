@@ -161,7 +161,7 @@ and telegrams to the 15th, inst.</p>
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
            <biblScope type="issue">no. 1119</biblScope> 
-           <biblScope type="pages">p. 538-539</biblScope> 
+           <biblScope type="pages">p. 540-541</biblScope> 
            <date value="1861-11-30">November 30, 1861</date>
 	</bibl>
 
@@ -179,30 +179,41 @@ and telegrams to the 15th, inst.</p>
 
 <p>The second success of the fleet will be highly welcome to the Administration and the Commander-in-Chief, for two reasons- one political and one military. The Northern people had again grown impatient at the inaction or disasters of the two armies on the Lower and Upper Potomac. They demanded a victory, and demanded it in vain. General M'Clellan obstinately inculcated "patience," that virtue so difficult for an excited Democracy to observe. The universal feeling was," Something must be done; we want some equivalent for our money and other sacrifices." Popular enthusiasm threatened to flag, the subscriptions to the national loan fell off, and murmurs against the Administration began to make themselves heard. The achievements of the fleet will calm this dangerous mood of the public mind and give the Commander-in-Chief a few more weeks to mature his plans. In a military point of view, the 15,000 men at Beaufort will operate as an invaluable diversion of the enemy's forces. The invaders are within sixteen miles' distance of the Charleston and Savannah Railroad, whose wooden bridges and trestle-work are easily destructible, and whose iron tires if once thrown into the river cannot now be replaced. The Confederates have to make head against a force of, say, 350,000 Federals pressing upon them on a line of 1500 miles, stretching from the Atlantic to the Missouri. Up to the present time they have done so with a fair amount of success. But can the Confederate Generals create new armies to watch every body of men whom the Federal fleet may throw upon their almost undefended coast? Or can they detach a sufficient number of men from the frontier without leaving the road to Richmond, Nashville, and Memphis open to their foes? It is evident that General Scott, for one, does not so believe, for his last words to time New Yorkers were, that by April or May next the "rebellion" would be surely crushed.</p>
 
-<p>If the South still preserves the advantage of greater earnestness and singleness of purpose, the superior financial strength of the North begins to tell. The appeal of the planters to the Confederate Secretary of the Treasury and the reply thereto are signs that the South is "shortwinded" in this respect. Doubtless this difficulty would vanish if the South could make sale of her cotton, rice, and tobacco; but here the Federal fleet sails in and pitilessly relegates the South to her native resources. The Federal Government is well supported by the banks of the three chief cities of the North, and the people relieve the banks of the seven-and-three-tenths per cent Treasury notes nearly, but not quite, so fast as they are issued Northern patriotism, as expressed in
+<p>If the South still preserves the advantage of greater earnestness and singleness of purpose, the superior financial strength of the North begins to tell. The appeal of the planters to the Confederate Secretary of the Treasury and the reply thereto are signs that the South is "shortwinded" in this respect. Doubtless this difficulty would vanish if the South could make sale of her cotton, rice, and tobacco; but here the Federal fleet sails in and pitilessly relegates the South to her native resources. The Federal Government is well supported by the banks of the three chief cities of the North, and the people relieve the banks of the seven-and-three-tenths per cent Treasury notes nearly, but not quite, so fast as they are issued Northern patriotism, as expressed in <pb n="540"/>
 
-{PROOFING UP TO THIS POINT}
+the readiness to take the Government loan, has by no means equalled the superabundant enthusiasm we are accustomed to witness in France on similar occasions, but seems to have exceeded the lagging offerings of the Italians for their late loan. American national sentiment, valued in dollars, stands midway between that of France and Italy. The immense quantities of grain and flour which the North has all this year been selling to British and French purchasers keep the exchange in favour of the Americans, and enable their banks, in spite of the stoppage of the usual export from the South, to retain the specie in their vaults. Thus confidence is maintained; the banks have not suspended specie payments and, notwithstanding Mr. Seward's uncalled-for and reckless circulars, Government and railroad stocks of loyal States are higher now than they have been since the Presidential election.</p>
 
-
-'the readiness to take the Government loan, has by no means equalled the superabundant enthusiasm we are accustomed to witness in France on similar occaions, bat seems to have exceeded the lagging offerings of the Italians for their late loan. American national sentiment, valued in dollars, stands midway between that of France and Italy. The immense quantities of grain and flour which the North has all this year been selling to British and French purchasers keep the exchange in favour of the Americans, and enable their banks, in spite of the stoppage of the usual export from the South, to retain the specie in their vaults. Thus confidence is maintained; the banks have not suspended specie payments and, notwithstanding Mr. Seward's uncalled-for and reckless circulars, Government and railroad stocks of loyal States are higher now than they have been since the Presidential election.
-
-In the mean time, among the mountains of Western Virginia a revolutionary movement has been progressing which is judepetidcnl, to some extent, of both North and South. The people of thirtynine contiguous counties of the trans-Allegheny section of Virginia, occupying an area about twice the size cC Wales, and numbering 282,000, of whom only 9000 are slaves, have declared their independence of the State of Virginia, and, organised themselves, with great unanimity, into a new slate, called Kanawhia, from the river of that name, which traverses it. Although the Kanawhans occupy a territory of giant value to the United States, and although the region has been liberated from Confederate armies by MCle1lais and flosencranz, yet this demonstration meets with no favour from the Federal Government, which cannot now afford to countenance We right of revolution, even when it is made in behalf of lIe Union and the old flag. Separated as these People are from Eastern Virginia by physical barriers similar to those which divide Savoy from Italy, and united to the adjacent free-labour
-
-RI
-
-ates by similar pursuits and moral and political sympathies, it is very improbable, come what may, that the old territorial arrangements will ever be restored. But the incident furnishes ,another proof that the air of America was charged with revolution, and that the time was ripe for a recombination .of the heterogeneous lcments of which the United States for the last forty years have been composed.
-
+<p>In the mean time, among the mountains of Western Virginia a revolutionary movement has been progressing which is independent, to some extent, of both North and South. The people of thirty-nine contiguous counties of the trans-Allegheny section of Virginia, occupying an area about twice the size of Wales, and numbering 282,000, of whom only 9000 are slaves, have declared their independence of the State of Virginia, and, organised themselves, with great unanimity, into a new state, called Kanawha, from the river of that name, which traverses it. Although the Kanawhans occupy a territory of giant value to the United States, and although the region has been liberated from Confederate armies by M'Clellan and Rosencranz, yet this demonstration meets with no favour from the Federal Government, which cannot now afford to countenance the right of revolution, even when it is made in behalf of the Union and the old flag. Separated as these people are from Eastern Virginia by physical barriers similar to those which divide Savoy from Italy, and united to the adjacent free-labour States by similar pursuits and moral and political sympathies, it is very improbable, come what may, that the old territorial arrangements will ever be restored. But the incident furnishes another proof that the air of America was charged with revolution, and that the time was ripe for a recombination of the heterogeneous elements of which the United States for the last forty years have been composed.</p>
+</div2>
 
 {Vol. 39 Issue 1119 11-30-1861 Pg. 541}
 
-It appears from the report of the Post maiter4encral that. Cotipti! the (oveul1me subity with the nitittbr of lcttora, each letter foiwerdcd to America ii I) ah ly packet lnvoivcd a lo of abaut six shillings.
+<div2>
+<head> [It appears from the report of the Postmaster-General] </head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1119</biblScope> 
+           <biblScope type="pages">p. 541</biblScope> 
+           <date value="1861-11-30">November 30, 1861</date>
+	</bibl>
+
+<p>It appears from the report of the Postmaster-General that, comparing the Government subsidy with the number of letters, each letter forwarded to America vi&aacute: Galway packet lnvolved a loss of about six shillings.</p>
+</div2>
 
 {Vol. 39 Issue 1119 11-30-1861 Pg. 541}
 
-FORT MONTGOMERY.
+<div2>
+<head> FORT MONTGOMERY. </head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1119</biblScope> 
+           <biblScope type="pages">p. 562</biblScope> 
+           <date value="1861-11-30">November 30, 1861</date>
+	</bibl>
 
-Mecu interest is felt in the recent determination of the Federal Government to fortify its coast, lake, and frontier line,, as conveyed in Mr. Seward's instructions of the 14th of October. The Amemican Government, however, have for some time past been repairing and enlarging the system of fortifications on the Canadian frontier. One of the strongest of the enlarged works is Fort Montgomery, at Rowse's Point, at the head of Lake Champlain. This fort has been nicknamed Fort Blunder, because erected upon British soil, afterwards given up, under treaty, to the United States. The fort has been considerably eilarged,and is now nearly completed. It will mount sixty-five
 
-guns in position, and twenty-five en barhette. It is protected on the land side by a moat and rampart of earth; and, on the whole, it is a very formidable work. Rowse's Point is about thirtyeight miles from Montreal, and upon the mail! line of railway communication between Boston, New York, and Canada. Lake Champlain, which lies between the States of New York and Vermont, extending for four miles into Lower Canada, is 105 miles in length, north to south, its breadth 'varying from ten miles to half a mile. It contains numerous islands, receives several rivers, and discharges its superfluous wders by the Richelieu river into the St. Lumwr,nce. This lake was the centre of
 
-I many important military operations during the revolutionary war, and now forms an important medium of commerce.
+<P>M<hi rend="smallcaps">UCH</hi> interest is felt in the recent determination of the Federal Government to fortify its coast, lake, and frontier line, as conveyed in Mr. Seward's instructions of the 14th of October. The American Government, however, have for some time past been repairing and enlarging the system of fortifications on the Canadian frontier. One of the strongest of the enlarged works is Fort Montgomery, at Rowse's Point, at the head of Lake Champlain. This fort has been nicknamed Fort Blunder, because erected upon British soil, afterwards given up, under treaty, to the United States. The fort has been considerably enlarged, and is now nearly completed. It will mount sixty-five guns in position, and twenty-five en barbette. It is protected on the land side by a moat and rampart of earth; and, on the whole, it is a very formidable work. Rowse's Point is about thirty-eight miles from Montreal, and upon the main line of railway communication between Boston, New York, and Canada. Lake Champlain, which lies between the States of New York and Vermont, extending for four miles into Lower Canada, is 105 miles in length, north to south, its breadth varying from ten miles to half a mile. It contains numerous islands, receives several rivers, and discharges its superfluous waters by the Richelieu river into the St. Lawrence. This lake was the centre of  many important military operations during the revolutionary war, and now forms an important medium of commerce.</p>
+</div2>
