@@ -4,82 +4,84 @@ VOLUME 39
 
 {VOL. 39 ISSUE 1124 12-28-1861 PG. 660}
 
-LONDON, SATURDAY, DECEMBER 28, 1861.
+<div2>
+<head> [LONDON, SATURDAY, DECEMBER 28, 1861.]</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1124</biblScope> 
+           <biblScope type="pages">p. 660</biblScope> 
+           <date value="1861-12-28">December 28, 1861</date>
+	</bibl>
 
-a few days from the time of our publication England will, in all probability, hemade aware of the intentions of the American Government. II Mr. Lincoln has the courage to act up to his own convictions, and to defy the menaces of an infuriated mob, Messrs. Mason and Slidell are by this time oil their way to our shores. But we have no great hope that such will be the freight of the vessel now hastening to Liverpool. It is true that ultimately the Government that shall provoke a contest with England will go down in disgrace when the ignorant and angry myriads who now denounce us are excited to frenzy by the chastisement which, in the event of war, England will inflict. It is true that, in the presence of disasters, no American Government, save that of military despotism, will be able to endure; and therefore that it is a choice of evils which the Lincoln Cabinet has before it. But with a certain class of minds the immediate danger is always more terrible than the remote one, and these are the chances for Messrs. Lincoln and
+<p><hi rend="italic">LONDON, SATURDAY, DECEMBER 28, 1861.</hi>
 
-SI
+<p>I<hi rend="smallcaps">N</hi> a few days from the time of our publication England will, in all probability, bemade aware of the intentions of the American Government. If Mr. Lincoln has the courage to act up to his own convictions, and to defy the menaces of an infuriated mob, Messrs. Mason and Slidell are by this time on their way to our shores. But we have no great hope that such will be the freight of the vessel now hastening to Liverpool. It is true that ultimately the Government that shall provoke a contest with England will go down in disgrace when the ignorant and angry myriads who now denounce us are excited to frenzy by the chastisement which, in the event of war, England will inflict. It is true that, in the presence of disasters, no American Government, save that of military despotism, will be able to endure; and therefore that it is a choice of evils which the Lincoln Cabinet has before it. But with a certain class of minds the immediate danger is always more terrible than the remote one, and these are the chances for Messrs. Lincoln and Seward to reckon upon-the possible capital to be made out of a great success by General M'Clellan, and the possible interposition of European Powers between England and the Northern States. Of two evils choose the most distant, is a favourite variation upon a well-known rule; and we are disposed to believe that Mr. Lincoln will prefer to hear the distant cannon of Britain rather than the yell of a mob under the windows of the White house. Therefore we do not look for a message of peace, though we hope for it, so far as hope is consistent with a calm examination of the case.</p>
 
-eward to reckon upon-the possible capital to be made out of a great success by General M'Clchlan, and the possible interposition of European Powers between England and the Northern States. Of two evils choose the most distant, is a farourito variation upon a well-known rule and we are disposed to believe that Mr. Lincoln will prefer to hear the distant cannon of liuitairi rather than the yell of a mob under the windows of the White house. Tlicrforo we do not look for a message of peace, though we hope for it, so far as hope is consistent with a cubit examination of the case.
-
-At the same time we arc glad to believe that the French notification will have us weight with the American Government. Nothing can 1)0 more distinct than this document, null it points out so lucidly to Mr. Lincoln that Captain Wilks has committed an outrage, that the reasoning must be convincing, whatever the resolutions of the President may be. Thero can be 110 doubt f the valuable character of this State )ctpar, inasinuclI as it testifies to the European world that the first of the Continental rowers takes the side of England. It may also have the advantage of inducing Mr. Lincoln to reconsider his position and to devise some means of extricating himself from it without the fatal appeal. We speak, of course, of the document, not as if it had been composed at the period at winch it was isncd, but as the embodiment of a decision which was ulonl Itless perfectly well known to our Foreign Minister when lie sent the despatch to America. We cannot suppose that diplornatists acting in concert, as those of France and England are understood to do tarried for the issue of a formal despatch. They must have been in perfect accord at the time the demand of England left these shores; and the President was at once made aware that. though England desires no physical aid in any contest into which she may be called to cuter, she has, and is glad to have, the moral support of the Imperial Government. We can only say again that we wish to believe Mr. Lincoln strong enough to listen to reason and justice.
+<p>At the same time we are glad to believe that the French notification will have its weight with the American Government. Nothing can be more distinct than this document, and it points out so lucidly to Mr. Lincoln that Captain Wilks has committed an outrage, that the reasoning must be convincing, whatever the resolutions of the President may be. There can be no doubt of the valuable character of this State paper, inasmuch as it testifies to the European world that the first of the Continental Powers takes the side of England. It may also have the advantage of inducing Mr. Lincoln to reconsider his position and to devise some means of extricating himself from it without the fatal appeal. We speak, of course, of the document, not as if it had been composed at the period at which it was issued, but as the embodiment of a decision which was doubtless perfectly well known to our Foreign Minister when he sent the despatch to America. We cannot suppose that diplomatists acting in concert, as those of France and England are understood to do tarried for the issue of a formal despatch. They must have been in perfect accord at the time the demand of England left these shores; and the President was at once made aware that though England desires no physical aid in any contest into which she may be called to enter, she has, and is glad to have, the moral support of the Imperial Government. We can only say again that we wish to believe Mr. Lincoln strong enough to listen to reason and justice.</p>
+	  </div2>
 
 
 {VOL. 39 ISSUE 1124 12-28-1861 PG. 660}
 
- THE COURT.
+<div2>
+<head>  THE COURT.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1124</biblScope> 
+           <biblScope type="pages">p. 660</biblScope> 
+           <date value="1861-12-28">December 28, 1861</date>
+	</bibl>
 
-The bulletins of the Queen's health from 0-,borne ccmtiuie to describe her Maj sly as bearing her grief with calmncs and resieatioa. Dr. Jenner lemainsin ntteudance.
 
-lhcC'rorrn Prince of Prussia arrived at Osborne 1-ester lay se'nuight from 1k rite, The Duke of Saxe-CoblI rg and the Prince a liohenloho also arrived on a visit of condolence to her Majesty.
+<p>The bulletins of the Queen's health from 0sborne continue to describe her Majesty as bearing her grief with calmness and resignation. Dr. Jenner remains in attendance.</p>
 
-The I ftlc de Brabant and the Comic de Flaadr arrirel at Windsor Castle on Saturday from Brussels.
+<p>The Crown Prince of Prussia arrived at Osborne yesterday se'nnight from Berlin. The Duke of Saxe-Coburg and the PrincessHohenlohe also arrived on a visit of condolence to her Majesty.</p>
 
-On Monday the funeral of the Piince Consort took place in St.
+<p>The Duc de Bradant and the Comte de Flandre arrived at Windsor Castle on Saturday from Brussels.</p>
 
-George's Chapel. Early in the morning the Duke of Sare-Coburg, the
+<p>On Monday the funeral of the Prince Consort took place in St. George's Chapel. Early in the morning the Duke of Saxe-Coburg, the Crown Prince of Prussia, and Prince Louis of Hesse arrived at Windsor Castle from Osborne. Prince Edward of Saxe-Weimar and the Duc de Nemours also arrived. His Royal Highness the Prince of Wales and his Royal Highness Prince Arthur joined the illustrious Princes in the oak-room shortly before twelve o'clock, and afterwards proceeded in privates carriages to the chapter-room of St. George's Chapel. The funeral precession entered the chapel at ten minutes past twelve o'clock, and the corpse was lowered into the grave at one o'clock. The Dean of Windsor read the Burial Service, and Sir Charles Young, Garter King of Arms, proclaimed the style of his late Royal Highness.</p>
 
-Crown Prince of Prussia, and PrlneC huts of ilesse arrived at Windsor Castle from Osborne. l'rincn Edward of Saxc-Weitnar and the Due do Nemours also nrrivcd. I Ii, Royal I I ighncas the Prince of \Yalcs and his Royal Iligllness Prince Arthur joined the ihliistrioi'
+<p>The Prince of Wales remained at Windsor Castle with the Crown Prince of Prussia on Monday night.</p>
 
-Zrbiccs in the oak-room shortly before twelve o'clock, and afterwards pi occcded in privates carriages to the chapter-room of S. Gsorgss Chapel. The funeral precession entered the clll[)Cl at ten illinhitel past. twelve o'clock, and the corpse was lowered into the grave at one o'clock. The Dean of Windsor read the Burial Service, and Sir Charles Young, Gorky Ring of Arms, proclaimed the style of his late Royal Highness.
+<p>The Duke of Saxe-Coburg, Prince Arthur, and Prince Louis of Hesse returned to Osborne, where the Due de Brabant and the Comte de Flandre also arrived on Tuesday, to pay a visit of condolence, before proceeding to Brussels.</p>
 
-The Prince of Wales remained at Windsor Castle with the Crown Prince of Prussia on Months' night.
+<p>His Royal Highness the Prince of Wales arrived at Osborne on Christmas Eve, after having completed the last melancholy duties connected with the funeral of his lamented father. His royal Highness remains on a visit with his illustrious mother.</p>
+____________
 
-The Duke of Saxe.Coburg, Prince Arthur, and Prince L-iuis of Hense returned to Osborne, where the Due de Brabant and the Conatc de Fianllre also arrived on Tuesday, to pay a visit of condolence, before proceeding to Brussels.
+<p>His Royal Highness the Duke of Cambridge, who has been confined to Gloucester House for some days by a severe cold, is much better.</p>
 
-Ihi Royal lbghness the Prince of Wales arrived at Osborne on Christians Eve, after having completed the last melancholy duti
+<p>The Duke of Newcastle has left town on a visit to the Earl of Clarendon at his seat, The Grove, near Watford.</p>
 
-connected with the funeral of his lamented father. His royal Highness remains on a visit with his illustrious mother,
+<p>Viscount Palmerston is fast recovering from his late severe attack of gout.</p>
 
-His Royal Highness the Duke of Cambridge, who has becis
+<p>The Chancellor of the Exchequer left London on Tuesday for Hawarden Castle, Cheshire.</p>
 
-confined to Gloucester house for some nays by a severe cold, is much better.
+<p>Sir George Grey left town on Tucsday for Highworth.</p>
 
-The Duke of Ness-castle 1105 left town on a visit to the Earl of Clarendon at his seat, The Grove, near Watford.
-
-viscount rairnerston is lust recovering from his late severe Dttstk of gout.
-
-The Chancellor of the Exchequer left London on Tuesday for
-
-Hswardeu Castle, Cheshire.
-
-Sir George Grey left town on Tucsday for Jtigliworth.
-
-The remains of General Sir Edward Bowater were l'roughtt ems Monday front Cannes, by the Itoulogno and Folkestone route, to loudon.
+<p>The remains of General Sir Edward Bowater were brought on Monday from Cannes, by the Boulogne and Folkestone route, to Loudon.</p>
+   </div2>   
 
 {VOL.39 ISSUE 1124 12-28-1861 PG. 661}
 
-NAVAL AND MILITARY INTELLIGENCE.
+<div2>
+<head> NAVAL AND MILITARY INTELLIGENCE.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1124</biblScope> 
+           <biblScope type="pages">p. 660</biblScope> 
+           <date value="1861-12-28">December 28, 1861</date>
+	</bibl>
 
-REINFORCEMENTS FOR CANADA.
+<p rend="center">REINFORCEMENTS FOR CANADA.</p>
 
-The Tower has lately been the ecene of great bustle, owing to the popactioeo fer hug military stores to Canada. Night and day, on Sunday e, aell other days, ness have been engaged packing arms, clothing, and othoi
+<p>The Tower has lately been the scene of great bustle, owing to the preparations for sending military stores to Canada. Night and day, on Sundays as well as other days, men have been engaged packing arms, clothing, and other necessaries to a great amount, which are placed on sailing-barges moored alongside the quays; the stores are taken thence down the river, and shipped on board the transports now off Deptford and Woolwich.</p>
 
-I icciriatiries to a great amount, which are placed on sailing-barges moored olotugoite the quays ; the stores are token thence down the river, and shipped on board the transports now oil Deptford and Woolwich.
+<p>On the morning of Thursday week a great number of persons assembled at an early hour at the Wellington Barracks, St. James's Park, on the occasion of the departure of the 1st battalion of the Grenadier Guards and of the 2nd battalion of the Fusilier Guards for Canada. The 1st battalion of the Grenadier Guards, 800 strong, under the command of Colonel the Hon. Hugh Manvers Percy, C.B. (Victoria Cross), assembled, shortly after six o'clock, on the parade at the Wellington Barracks, preparatory to their departure for Southampton. After a due inspection, and after partaking of breakfast, at half-past seven o'clock the battalion left for the Waterloo station of the South-Western Railway. Owing to the death of the Prince Consort the regimental baud did not accompany the battalion to the station. On their arrival at the terminus the men were told off in fours, and with the greatest facility--the system having been initiated by the late General Torrens-the train started at eight o'clock with its gallant burden; so that the entire battalion, each man carrying his rifle and a cooked ration, left quarters and started by railway to their destinations within half an hour. The men were loudly cheered as they proceeded to the railway. The 2nd battalion of the Scots Fusilier, of the same strength, commanded by Colonel William John Ridley, left the Wellington Barracks at eight o'clock, and pursued the same route--along Birdcage-walk. Great George-street, and across Westminster-bridge. The same excellent arrangements were observed, and without slightest confusion or delay the battalion departed at half-past eight o'clock for its destination. As the detatchments reached the docks on arriving at Southampton, they were received by the Southampton Volunteer Rifle Corps, and escorted to their respective ships by the band. The troops were cheered as they left the docks an immense crowd of persons.</p>
 
-On liii' morning of Thnreday week a great number of persons ao,emb'.aI at all early hour at theWoiiingts, Barracks, St. James's Park, on the oeeo.io,s of the 1epartnre of the 1st battalion of the Grenadier U ,mris and of the lad luittol ion of the Guards for Canada. The let l,attailon of chad rerdlcr 011t,,its, 501) string, uniter the conimanti of Colonel the ho,,. Hugh Manvers Percy, Cli. (Victoria Cross), nsi'mble,l, shortly if tee six o'clock, on the parade ht the Wellii:gton lineracko, preparatory to their departure for So,itli'intpt. Ether it due iii-pection, tt,sd after partaking of breakfu',t, at tail-past soSek o'clock the battalion left for the Waterloo rtatioa of the South-Westorit Jbiiiwoy. Owing to the death of the Prince Consort the regimsttsi baud did not accompany the battalion to the station. On their arrival at the ters-inug tile own Were told off in fouro, anti with the greatest facility--the system
-
-toying bent initiated by the late (b-neral Torreng-the train started at olgit o'clock 0 itt, its gallant burden ; no that the entire battalion, each man reirry lug his sub and a cooSed ration, left quarters and etarted by railway to their ']eetittatioui within half an hoot'. The men were loudly cheered as they peah,ecdt;l to the railway. The hei battalion of the Scots F,,sllier, of the scene -Irt-egthi, commanded by Colonel William John itilley, left the Wellington Itairiteks at, eight o'clock, and pursued the Caine route--along ltirdet,go-walk.
-
- 1 teat (leorge-etreet, and across Westininster-britige. The saran excellent to ,,tgeinenCn were otwerved, and Without Cite Wightestcolifudull or (letter the batttuiio,i deit,trteil at half-putt eight o'clock for its ,leslinattou. Li the ,letuel,mc-itts rencliesl the clocks on arriving at Southampton, they west, received by the boethauupton Colunt,avi'.ulle Corps, anti eseisrteti to their res1teolls-e eluults by the basal. The Coops were Chccto:,I as they left the- docks in I,,tmcnt ii crowd of persouci.
-
-The eteouier Adilotie, with the (Irenadhcr Guards, and tb, I'itrana, with tIm
-
-Scols luti-Ihber liutituls nuti the eighteenth company of the ltoyal Engineers. left, the docks shout two o'clock iii the afternoon and anchored in the river. ii slit viCotis soiled for their destieatlnus en ely on the following morning, 'l'tse l'arr,ios htitl a let thi in the uloels close to the Nashville, the UonfederCn manof-war. As site was leaving her bend,, with., the (I cards on board, the basil -it tick sip the tutu', '' I'll' oil to Charleston soi early in the morning,'' Ttt
-
-tilliurs of thu It asits itic were wistchibtg the departure of the Peraoa with
-
-it itpotenthy eo,tslthcrattte interest.
+<p>The steamer Adriatic, with the Grenadier Guards, and the Parana, with the Scots Fusilier Guards and the eighteenth company of the Royal Engineers, left the docks about two o'clock in the afternoon and anchored in the river. Both vessels sailed for their destination early on the following morning.The Parana had a berth in the docks close to the Nashville, the Confederate man-of-war. As she was leaving her berth, with the Guards on board, the band struck up the tune, "I'm off to Charleston so early in the morning," The officers of the Nashville were watching the departure of the Parana with apparently considerable interest.</p>
 
 Each riddler them-lined for Canada, on steppIng on hoard of his transport. I, cis cectir for huts two pairs of iV(ethhi it draw eon, osi jeroey, two lilt-nun otitler-vost;, two lair of wor,tetl ttckhutga, one comfort or, soot' ehi',nois leather wiiistt'ostt, out' ci uisiiIo cop with caretltthhti'rs, One ir of aealoltii, SuitS, on,, will, of I 'autattititu hoots, auth pile, sitcttpsliui coat,
 
