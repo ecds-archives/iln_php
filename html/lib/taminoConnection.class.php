@@ -40,24 +40,25 @@ class taminoConnection {
     $this->base_url = "http://$this->host/tamino/$this->db/$this->coll?";
 
     // variables for highlighting search terms
-    $this->begin_hi[0]  = "<span class='term1'><b>";
-    $this->begin_hi[1] = "<span class='term2'><b>";
-    $this->begin_hi[2] = "<span class='term3'><b>";
-    $this->end_hi = "</b></span>";
+    $this->begin_hi[0]  = "<span class='term1'>";
+    $this->begin_hi[1] = "<span class='term2'>";
+    $this->begin_hi[2] = "<span class='term3'>";
+    $this->end_hi = "</span>";
   }
 
   // send an xquery to tamino & get xml result
   // returns  tamino error code (0 for success, non-zero for failure)
   function xquery ($query, $position = NULL, $maxdisplay = NULL) {
-    $myurl = $this->base_url . "_xquery=" . $this->encode_xquery($query);
+    $myurl = $this->base_url . "_xquery=" . $this->encode_xquery($query) . "&_encoding=utf-8";
     if (isset($position) && isset($maxdisplay)) {
-      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague&_encoding=utf-8";
+      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague";
     }
     if ($this->debug) {
       print "DEBUG: In function taminoConnection::xquery, url is $myurl.<p>";
     }
 
     $this->xmlContent = file_get_contents($myurl);
+
     if ($this->xmlContent) {
       $this->initializeXML();
       if ($this->debug) {
@@ -67,7 +68,7 @@ class taminoConnection {
       if (!($this->xq_rval)) {    // tamino Error code (0 = success)
          $this->getXQueryCursor();
       } else if ($this->xq_rval == "8306") {
-      // invalid cursor position (also returned when there are no matches)
+      // invalid cursor position (returned when there are no matches)
         $this->count = $this->position = $this->quantity = 0;
         if ($debug) {
   	  print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
@@ -157,6 +158,7 @@ class taminoConnection {
 
    // transform the tamino XML with a specified stylesheet
    function xslTransform ($xsl_file, $xsl_params = NULL) {
+
      /* load xsl & xml as DOM documents */
      $xsl = new DomDocument();
      $xsl->load("xsl/$xsl_file");
@@ -174,12 +176,17 @@ class taminoConnection {
    }
 
    function printResult ($term = NULL) {
-     if (isset($term[0])) {
-       //       print "DEBUG: calling function highlight.<br>\n";
-       //$this->highlightXML($term);
-     }
      if ($this->xsl_result) {
-       print $this->xsl_result->saveXML();
+       if (isset($term[0])) {
+         $this->highlightXML($term);
+         // this is a bit of a hack: the <span> tags used for
+         // highlighting are strings, and not structural xml; this
+         // allows them to display properly, rather than with &gt; and
+         // &lt; entities
+         print html_entity_decode($this->xsl_result->saveXML());
+       } else {
+         print $this->xsl_result->saveXML();
+       }
      }
 
    }
@@ -198,13 +205,23 @@ class taminoConnection {
        $str = preg_replace("/([^=|']\b)($_term)(\b)/i",
 	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
      }
+     return $str;
    }
 
+   // highlight text in the xml structure
    function highlightXML ($term) {
-     $this->xpath->registerNamespace("xq", "http://namespaces.softwareag.com/tamino/XQuery/result");
-     $result = $this->xpath->query("/ino:response/xq:result");
-      for ($i = 0; $result->item($i); $i++) {
-       $result->item($i)->textContent = $this->highlightString($result->item($i)->textContent, $term);  
+     $this->highlight_node($this->xsl_result, $term);
+   }
+
+   // recursive function to highlight search terms in xml text
+   function highlight_node ($n, $term) {
+     $children = $n->childNodes;
+     foreach ($children as $c) {
+       if ($c instanceof domElement) {
+	 $this->highlight_node($c, $term);
+       } else if ($c instanceof DOMCharacterData) {
+	 $c->nodeValue = $this->highlightString($c->nodeValue, $term);
+       }
      }
    }
    
