@@ -1,4 +1,4 @@
-<!ENTITY name SYSTEM "/chaucer/data/iln/images/ILNv38p129.jpg" NDATA JPEG>
+<!ENTITY v38p129 SYSTEM "/chaucer/data/iln/images/ILNv38p129.jpg" NDATA JPEG>
 <!ENTITY v38p138a SYSTEM "/chaucer/data/iln/images/ILNv38p138a.jpg" NDATA JPEG>
 <!ENTITY v38p138b SYSTEM "/chaucer/data/iln/images/ILNv38p138b.jpg" NDATA JPEG>
 <!ENTITY v38p139 SYSTEM "/chaucer/data/iln/images/ILNv38p139.jpg" NDATA JPEG>
