@@ -55,7 +55,7 @@ London News Perspective</title>
             <head>Illustrated London News: Volume 40</head>
             <docDate>Jan to June 1862</docDate>
 
-<div2 id="iln40.1125.001" n="[And here it becomes necessary]" type="Article">
+<div2 id="iln40.1125.001" n="And here it becomes necessary" type="Article">
 
 <head>[And here it becomes necessary]</head>
       <bibl> 
@@ -279,7 +279,7 @@ surrendered. The <hi rend="italic">World</hi> however, says that they
 will not.</p>
 	</div2>
 
-<div2 id="iln40.1125.004" n="[ANNUAL EMIGRATION RETURNS-EXTRAORDINARY FALLING-]" type="Article">
+<div2 id="iln40.1125.004" n="ANNUAL EMIGRATION RETURNS-EXTRAORDINARY FALLING-" type="Article">
 
 <head>[ANNUAL EMIGRATION RETURNS-EXTRAORDINARY FALLING-]</head>
       <bibl> 
@@ -331,8 +331,6 @@ forwarded through agents to bring people from America. The tide of
 emigration to Australia flows slowly but steadily, and has hardly
 received any impetus from the deranged state of American affairs.</p>
 	</div2>
-
-<div2 id="iln40.1125.007" n="" type="Illustration"></div2>
 
 <div2 id="iln40.1125.006" n="THE ILLUSTRATED LONDON NEWS" type="Article">
 
@@ -577,7 +575,7 @@ Government with funds expressing loudest of all their discontent. It
 appears to me that the plan of the Cabinet is to operate on the
 Southern seaboard by means of naval expeditions, and I suspect they
 hope to draw off from the centre the troops of the Carolinas,
-Louisiana, &c., for the protection of their various States. The
+Louisiana, &amp;c., for the protection of their various States. The
 success of such strategy would have the effect of weakening the
 Confederate forces at Centreville and Manassas, where it is reported
 they have an army of over 70,000 men, strongly intrenched[sic], and
@@ -722,7 +720,18 @@ the Conservative party.</p>
 slave trade was entered into. The "right of visit" was tacitly
 allowed, and the Americans agreed to keep a squadron on the African
 coast to guard against the abuse of the American flag.</p>
-<p>The case of the Virginian brig Creole arose in October, 1841. While this vessel was on its way from Norfolk to New Orleans, some slaves, who formed part of the cargo, obtained possession of the ship, wounded the captain and some of the crew, killed a passenger who owned some of the slaves, aud[sic] carried the vessel into the British port of Nassau, New Providence. Of the 123 slaves on board nineteen were arrested, on the requisition of the American consul, on the charge of mutiny and murder. The case against the negroes was pressed with zeal by the Federal Government, but the law officers and law peers of Great Britain were unanimous that there was no law by which the negroes could be tried or detained. The nineteen prisoners were therefore set free.</p>
+<p>The case of the Virginian brig Creole arose in October, 1841. While
+this vessel was on its way from Norfolk to New Orleans, some slaves,
+who formed part of the cargo, obtained possession of the ship, wounded
+the captain and some of the crew, killed a passenger who owned some of
+the slaves, aud[sic] carried the vessel into the British port of
+Nassau, New Providence. Of the 123 slaves on board nineteen were
+arrested, on the requisition of the American consul, on the charge of
+mutiny and murder. The case against the negroes was pressed with zeal
+by the Federal Government, but the law officers and law peers of Great
+Britain were unanimous that there was no law by which the negroes
+could be tried or detained. The nineteen prisoners were therefore set
+free.</p>
 <p>The Maine boundary question had hardly been settled when the Oregon
 or North-Western boundary dispute acquired highly-dangerous
 proportions. Even so early as 1822 Lord Castlereagh told the American
@@ -836,8 +845,8 @@ avoided.</p>
 	    </div2>
 
 
-<div2 id="iln40.1125.009" n="[The Norfolk Daybook, a Virginian
-      newspaper]" type="Article">
+<div2 id="iln40.1125.009" n="The Norfolk Daybook, a Virginian
+      newspaper" type="Article">
 
 <head>[The Norfolk Daybook, a Virginian newspaper]</head>
       <bibl> 
@@ -853,7 +862,7 @@ avoided.</p>
 newspaper, has been making its appearance on brown wrapping-paper.</p>
 	    </div2>
 
-<div2 id="iln40.1125.010" n="[PNEUMATIC PILE-BRIDGE]" type="Article">
+<div2 id="iln40.1125.010" n="PNEUMATIC PILE-BRIDGE" type="Article">
 
 <head>[PNEUMATIC PILE-BRIDGE]</head>
       <bibl> 
@@ -885,7 +894,7 @@ rend="italic">Journal of the Franklin Institute</hi>, Philadelphia,
 appears an interesting account of the process of sinking the
 cylinders, with illustrative woodcuts. Two portions of cylinder are
 made airtight by whitelead, and held in proper position by "guys,"
-&c. The pumps are set in action, and the cylinder sinks into the sand
+&amp;c. The pumps are set in action, and the cylinder sinks into the sand
 (about six feet in three minutes) on the application of a vacuum. As
 the process proceeds, a syphon pipe and other apparatus are
 employed. When at last a stopcock is opened, and the compressed air is
@@ -1379,8 +1388,8 @@ unkindness, she ever retains a warmer sympathy than she can feel for
 any other nation in the world.</p>
 	      </div2>
 
-<div2 id="iln40.1125.015" n="[AMONG the Illustrations of the civil war
-      in America]" type="Article">
+<div2 id="iln40.1125.015" n="AMONG the Illustrations of the civil war
+      in America" type="Article">
 
 <head>[AMONG the Illustrations of the civil war
       in America]</head>
@@ -1422,7 +1431,7 @@ reserve was ordered to fire, and four other shots were fired, one of
 which entered his eye, and another his mouth, and he fell
 dead.</p></div2>
  
-<div2 id="iln40.1125.016" n="[The privateer Sumter]" type="Article">
+<div2 id="iln40.1125.016" n="The privateer Sumter" type="Article">
 
 <head>[The privateer Sumter]</head>
       <bibl> 
@@ -1442,7 +1451,8 @@ port. The American Consul demanded that this request should be
 refused, but, the Government having been consulted, the Sumter was
 admitted into the port without being saluted.</p></div2>
 
-<div2 id="iln40.1125.017" n="[Mr. Wendell Phillips delivered a speech]" type="Article">
+<div2 id="iln40.1125.017" n="Mr. Wendell Phillips delivered a speech"
+      type="Article">
 
 <head>[Mr. Wendell Phillips delivered a speech]</head>
       <bibl> 
@@ -1674,10 +1684,10 @@ out of the strong came forth sweetness."</p></div2>
 New York to the 4th inst. The chief points of interest are the
 departure of Messrs. Mason and Slidell and their secretaries, and the
 suspension of cash payments by the United-States' Treasury and the
-banks.
+banks.</p>
 
 <p rend="center">THE DEPARTURE OF MESSRS. MAS0N AND SLIDELL.</p>
-The Boston <hi rend="italic">Traveller</hi> of the 30th ult. says:-
+<p>The Boston <hi rend="italic">Traveller</hi> of the 30th ult. says:-
 There was no communication with Port Warren on the 28th, in
 consequence of the gale, and the prisoners taken from the Trent were
 ignorant of the decision of the National Government in favour of their
@@ -1811,7 +1821,7 @@ Germans, 2182; Russian Poles, 27; French, 10; United States' Citizens,
 United States.</p></div2>
 
 <div2 id="iln40.1125.020" n="ADDITIONAL OFFICIAL CORRESPONDENCE ON
-      THE<lb/> TRENT AFFAIR" type="Article">
+      THE TRENT AFFAIR" type="Article">
 
 <head>ADDITIONAL OFFICIAL CORRESPONDENCE ON THE<lb/>TRENT AFFAIR</head>
       <bibl> 
@@ -1864,174 +1874,316 @@ repeat acts for which the British Government will have to ask for
 redress and which the United States' Government cannot undertake to
 justify."</p></div2>
 
-ILLUSTRATION OF TEE WAR IN AMERICA.
+<div2 id="iln40.1125.021" n="ILLUSTRATION OF THE WAR IN AMERICA."
+      type="Article">
 
-THE ADVANCED 1'OST OF GENERAL BTAKER'S DIVISION SUAPRISED BY CONFEDERATE CAVALRY.
+<head>ILLUSTRATION OF THE WAR IN AMERICA.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1127</biblScope> 
+           <biblScope type="pages">p. 62</biblScope> 
+           <date value="1861-07-06">Jan. 18, 1862</date>
+         <extent>3 paragraphs</extent>
+	</bibl>
 
-Vein Special Artist in the Federal camp, visiting the advanced posts
+<p rend="center">THE ADVANCED POST OF GENERAL BLENKER'S DIVISION
+SURPRISED<lb/> BY CONFEDERATE CAVALRY.</p>
 
-on the 12th nit., came upon General Blenker's pickets at Anandale, about ten miles from Washington. Whilst he was in the neighbou.r hood a dash was made at them by a squadron of Confederate cavalry_ fine, rough-looking fellows, dressed in nondescript uniforms, red shirts, grey tenics; some with boots and some without; armed with sabres
+<p>O<hi rend="smallcaps">UR</hi> Special Artist in the Federal camp,
+visiting the advanced posts on the 12th ult., came upon General
+Blenker's pickets at Auandale, about ten miles from Washington. Whilst
+he was in the neighbourhood a dash was made at them by a squadron of
+Confederate cavalry- fine, rough-looking fellows, dressed in
+nondescript uniforms, red shirts, grey tunics; some with boots and
+some without; armed with sabres and revolvers. Many of them were very
+powerfully built, and as they rushed in among the men of the 45th New
+York they clutched at them and dragged thirteen off at a gallop. Three
+or four were killed on each side. An Engraving of this dashing attack,
+from a sketch by our Special Artist, is given at page 61.</p></div2>
 
-nd revolvers. Many of them were very powerfully built, and as they rushed in among the men of the 45th New York they clutched at them and dragged thirteen off at a gallop. Three or four were killed on each aide. An Engraving of this dashing attack, from a sketch by our Special Artist, is given at page 61.
-Inn 'JÅˆITfl  y&!][Å•'
+<div2 id="iln40.1125.022" n="The Queen has approved of Mr. James
+      Q. Howard" type="Article"> 
 
-The Queen has approved o Mr. James Q. Howard as  I
+<head>[The Queen has approved of Mr. James Q. Howard]</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1127</biblScope> 
+           <biblScope type="pages">p. 66</biblScope> 
+           <date value="1861-07-06">Jan. 18, 1862</date>
+         <extent>1 paragraph</extent>
+	</bibl>
 
-at St. John, New ]lrunswiek, for the United. States of America; of Mr. If. S.uncnkalb as Consul at Point do Galls, Ceylon, for the King of Prussia ; of Mr. ltodolph Zapp as Consul at Singapore, for the King of Ifonover; aaI of Don Pio de Emparo.nza am Consul, and of Don Naroioo Perez PetiCto
+<p>The Queen has approved of Mr. James Q. Howard as Consul at St. John,
+New Brunswick, for the United States of America; of Mr. H. Sonnenkalb
+as Consul at Point de Galle, Ceylon, for the King of Prussia; of
+Mr. Randolph Zapp as Consul at Singapore, for the King of Honover; and
+of Don Pio de Emparanza as Consul, and of Don Narciso Perez Petinto as
+Vice-Consul at Sierra Leone, for the Queen of Spain.</p></div2>
 
-V03Consul ab Sierra Leone, for the Queen of Spain.
-TEE GREAT INTERNATIONAL RAILWAY SUSPENSION
+<div2 id="iln40.1125.023" n="THE GREAT INTERNATIONAL RAILWAY
+      SUSPENSION BRIDGE OVER THE NIAGRA RIVER." type="Article"> 
 
-BRIDGE OVER THE- NIMI-LEL RIVER.
+<head>THE GREAT INTERNATIONAL RAILWAY SUSPENSION<lb/> BRIDGE OVER THE
+NIAGRA RIVER.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1127</biblScope> 
+           <biblScope type="pages">p. 67-68</biblScope> 
+           <date value="1861-07-06">Jan. 18, 1862</date>
+         <extent>7 paragraphs</extent>
+	</bibl>
 
-Tans magnificent work was erected for the purpose of connecting the New York Central and the Great Western of Canada Railways, and the oust was contributed by both companies in equal portions. It is by means of this bridge only that an unbroken journey can be made from New York, or Boston, to the western part of Canada, without changing carriages; the consequence of which is, that the best and cheapest route to the west, not only of Canada, but also of the United States, is still by the New York Central and the Great Western of Canada Railways, although many other western routes have sprung into existence since this was completed. Chicago and the western prairie country generally are raohed by this route more easily than by any other, as is also Detroit and all parts of Michigan.
+<p>T<hi rend="smallcaps">HIS</hi> magnificent work was erected for the
+purpose of connecting the New York Central and the Great Western of
+Canada Railways, and the cost was contributed by both companies in
+equal portions. It is by means of this bridge only that an unbroken
+journey can be made from New York, or Boston, to the western part of
+Canada, without changing carriages; the consequence of which is, that
+the best and cheapest route to the west, not only of Canada, but also
+of the United States, is still by the New York Central and the Great
+Western of Canada Railways, although many other western routes have
+sprung into existence since this was completed. Chicago and the
+western prairie country generally are reached by this route more
+easily than by any other, as is also Detroit and all parts of
+Michigan.</p> 
+<p>The great bridge the subject of our present notice was not the
+first of the kind which spanned the gorge of the Niagara River, an
+ingenious suspension-bridge having been constructed across it many
+years ago by Mr. C. Ellett, but of very fragile and temporary
+character when compared with the present work.</p>
+<p>The Niagara Railway Suspension-bridge was erected from the designs,
+and under the personal superintendence, of Mr. John A. Roebling, at a
+cost of 400,000 dols. The first engine crossed over it on the 8th of
+March, 1855. It carries a double line of rails on the upper part, and
+an ample roadway for carriages below.</p>
+<p>The plan adopted in the construction of this suspension-bridge
+differs materially from those usually built in England. Instead of
+flat wrought-iron plate-links, connected together by pins passing
+through their extremities, Mr. Roebling uses a simple wire-cable, or
+rather four wire cables, each lOin. in diameter, and composed of 3640
+separate wires, the whole of the cables being capable of bearing a
+weight of 12,000 tons; the actual load they carry never exceeds 1000
+tons. The wire ropes are securely anchored in the solid rook,
+30ft. below the surface; they pass over the summits of four solid
+stone towers, 8Oft. in height. Beside the wire cables there are 624
+suspending-rods, whose ultimate strength is equal to 18,720 tons;
+these support the roadway at different parts, and are connected with
+the cables above. There are also sixty-four over-floor stays, whose
+ultimate strength is 1920 tons, and fifty-six river-stays, whose
+ultimate strength is 1680 tons; these latter stays extend from the
+bridge to the rocks on either side of the ravine. The total length of
+span between the towers is 8OOft., and the "railway track," as it is
+always called in America, is 250ft, above the surface of the water in
+the river.</p>
+<p>The great object sought to be obtained in this remarkable bridge
+after strength to carry its load, was rigidity; for in all
+suspension-bridges, as ordinarily constructed, the deflection and
+oscillation would be such as to entirely prevent their being used for
+the purposes of carrying railway traffic. The Niagara Suspension
+Railway-bridge, although not perfectly rigid, is sufficiently so to
+allow of heavily-laden trains passing over it at a maximum speed of
+five miles per hour; even then a very considerable deflection takes
+place, but not such as to in any way betray weakness; on the contrary,
+it is rather an indication<pb n="68"/> of strength, as showing the
+correct action of all its parts, by which means a true bearing is
+obtained over every part of it.</p>
+<p>A wonderful amount of ingenuity and mechanical skill is displayed
+in the construction of the roadway, which forms a species of lattice
+or tubular girder, the railway track being on the top outside, and the
+carriage roadway on the bottom inside. The frequent admixture of wood
+and iron, and the numberless small bolts and screws passing through
+the former material, will require constant care and supervision to
+prevent decay occurring, and may probably cause the cost of
+maintenance of the bridge to be excessive. Portions are now being
+constantly renewed, and always with an increased strengthening of the
+parts. The bridge, however, taken as a whole, must be looked upon as a
+decided success and a triumph of American engineering skill; while the
+advantages of a perfect communication between the United States and
+the most valuable portions of the British possessions in North America
+cannot be overrated. The general effect of the Niagara
+Suspension-bridge is that of extreme lightness and beauty; the
+situation in which it is placed is exceedingly fine, being in view of
+the Great Falls, while below it the Niagara River rushes through its
+confined channel, a foaming, noisy rapid 15Oft. deep, almost as
+terrible in its roar and force as the mighty cataract itself.</p>
+<p>A bridge similar to the Niagara Suspension-bridge, and of even
+greater span, but only carrying an ordinary roadway, ha[sic] been
+built over the River St. John, in the city of St. John, in New
+Brunswick. This bridge, some time after it was erected, gave way
+during a terrific gale of wind. The suspension cables remained sound
+and fully equal to their duty; but the roadway had been insecurely
+connected with the abutments, and it broke adrift at that point. The
+whole length of roadway oscillated many feet clear of the abutment
+altogether, yet only a portion of it gave way, the bridge proving
+itself in all other respects equal to withstanding strains that it
+never was expected to be subjected to.</p></div2>
 
-The great bridge the subject of our present notice'was not the first of the kind which spanned the gorge of the Niagara River, an ingenious suspension-bridge having been constructed across it many years ago by Mr. C. Ellet.t, but of very fragile and temporary character when compared with the present work.
+<div2 id="iln40.1125.024" n="On the 26th of December the Government
+      stables at Washington were destroyed by fire." type="Article"> 
 
-The Niagara Railway Suspension-bridge was erected prom the
+<head>[On the 26th of December the Government stables at Washington
+were destroyed by fire.]</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1127</biblScope> 
+           <biblScope type="pages">p. 74</biblScope> 
+           <date value="1861-07-06">Jan. 18, 1862</date>
+         <extent>1 paragraph</extent>
+	</bibl>
 
-designs, and under the personal superintendence, of Mr. John A. Roebling, at a cost of 400,000 dols. The first engine crossed over is on the 8th of March, 1855. It carries a double line of rails on the upper part-, and an ample roadway for carriages below.
+<p>On the 26th of December the Government stables at Washington were
+destroyed by fire. Between 200 and 300 homes were either burnt to
+death or received such injuries that it was deemed humane to destroy them. More than 1000 sets of harness were also destroyed.</p></div2>
 
-- The plan adopted in the construction of this suspension-bridge differs
+<div2 id="iln40.1125.025" n="AMERICA." type="Article"> 
 
-materially from those usually built in England. Instead of flat wrought
+<head>AMERICA.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 80-81</biblScope> 
+           <date value="1861-07-06">Jan. 25, 1862</date>
+         <extent>28 paragraphS</extent>
+	</bibl>
 
-iron plate-links, connected together by pins passing through their
+<p>By the arrival of the Etna we have news from New York to the
+evening of the 11th inst.</p>
 
-extremities, Mr. Roebling uses a simple wire-cable or rather four wire
+<p rend="center">WAR NEWS.</p>
+<p>General M'Clellan had not yet fully recovered from his attack of
+typhoid fever, but had taken several airings in a carriage.</p>
+<p>General Bnrnside's expedition had left Annapolis and would
+rendezvous at Hampton Roads. The precise destination of this
+expedition has been kept a profound secret. The Boston <hi
+rend="italic">Traveller</hi> announces that several divisions of the
+army of the Potomac will reinforce this expedition.</p>
+<p>A fight is reported to have taken place at Huntersville, in Western
+Virginia, in which the Confederates retired with loss in killed,
+wounded, clothing, and stores.</p>
+<p>A portion of the Mississippi expedition had already started on its
+mission, which is supposed to be an attack on Nashville.</p>
+<p>The steamer Vanderbilt had arrived in New York from Port Royal with
+about 700 full bales of Sea Island cotton.</p><pb n="81"/>
 
-cables, each lOin, in diameter, and composed of 3670 separate wires, the whole of the cables being capable of bearing a weight of 12,000 tons
-
-the actual load they carry never exceeds 1000 tons. The wire ropes are securely anchored in the solid rook, OOIt. below the surface; they pass over the summits of four solid stone towers, SOft, in height. Beside the wire cables there are 624 suspending-rods, whose ultimate strength is equal to 18,720 tons; these support the roadway at different parts, and are connected with the cables above. There are also sixtyfour over-floor stays, 'whose ultimate strength is 1920 tons, and fifty-sin river-stays, whose ultimate strength is 1080 teas; these latter stave extend from the bridge to the rocks on either side of the ravine. The total length of span lbetween the towers is SOOft., and the "railway track," as it is always celled in America, is 850ft, above the surface of the water in the river.
-
-The great object sought 'to be obtained in this remarkable bridge
-
-after strength to carry its load, was, rigidity; for in all suspension
-
-bridges, as ordinarily constructed, the deflection and oseillation would
-
-be such as to entirely prevent their being used for the purposes o
-
-carrying railway traffic. - The liagaxa Suspeusiosi Railwaybridge although not perfectly rigid, Is sufficiently so to allow of heavily-laden trains passing over it at a maximum speed of five miles per hour; even
-
-I then a very considerable deflection takes place, but not such as to in.
-
-any way betray weakness on the oontrary1 it is rather en 1ndicatioz
-of strength, as showing the correct action of all its parts, by which means a true bearing is obtained over every part of it.
-
-A wonderful amount of ingenuity and mechanical skill is displayed in the construction of the roadway, which forms a species of lattice or tubular girder, the railway track being on the top outside, and the carriage roadway on the -bottom inside. The frequent admixture of wood and iron, and the numberless small bolts and screws passing through the former material, will require .constatic care and supervision to prevent decay occurring, and may probably cause the cost of maintenance of the bridge to be excessive. Portons are now being constantly renewed, and always with an increased strengthening of the parts. The bridge, however, taken as a whole, must be looked upon a decided success and a triumph of American engineering skill; while the advantages of a perfect communication between the United States and the most valuable portions of the British possessions in North America cannot be overrated. The general effect of the Niagara Suspension-bridge is thtt of extreme lightness and beauty; -the situation in which it is placed is exceedingly fine, being in view of the Great Falls, while below, it the Niagara River rushes through its confined channel, a: foaming, noisy rapid löOft. deep, almost as terrible in its roar and force as the mighty cataract itself. -
-
-A. bridge similar to the Niagara Suspension-bridge, and of even greater
-
-span, but only carrying an ordinary roadway, ha- been built over the River
-
-& John, in the city of St. John, in New Brunswick. This bridge, some
-
-time after it was erected, gave way during a terrific gale of wind. The am
-
-pension cables remained sound and fully equal to their duty; but the roadway had been insecurely connected with the abutments, and it broke adrift at that point. The whole length of roadway oscillated many feet clear of the abutment altogether, yet only a portion of it gave way, the bridge proving itself in all other respects equal to withstanding strains that it never was expected to be subjected to.
-I
-
-On the 26th of December the Government stables at Wash
-
-ington were destroyed by fire. Between 200 and 300 homes were either burnt
-
-to death or received such injuries that it was deemed huinano to destroy
-
-them More than 1000 sets of harness were also destroyed
-
-__t__ -I---- --------
-AERIOA,
-
-By the arrival of the Etna we have news from New York to the, evening of the 11th mat.
-
-WAIL NEWS.
-
-General M'Cielian had not yet fully recovered from his attack of typhoid fever, but had taken several airings in a carriage.
-
-General Bnrnside' expedition had left Annapolis and would rendezvous at Hampton Roads. The precise destination of this expedition has been kept a profound secret. The Boston Traveller atmonaces that several divisions of the army of the Potomac will reinforce this expedition.
-
-A fight is reported to have taken place at Hnntersvjlle, in Western
-
-Virginia, in which the Confederates retired with loss in hued, wounded, clothing, and stores,
-
-A portion of the Mississippi expedition had already started on
-
-mission, which is supposed to be an attack on Nashville.
-
-The steamer Vanderbilt had arrived in New York from Port Royal with about 700 full bales -of Sea Island cotton.
-MR. SEWARD'S COURTESY.
-
-Mr. Seward has tendered to Lord Lyons permission to the BrAish
-
+<p rend="center">MR. SEWARD'S COURTESY.</p>
+<p>Mr. Seward has tendered to Lord Lyons permission to the British
 troops en route to Canada to land at Portland, and proceed by railroad
+through Maine to their destination.</p>
 
-through Maine to their destination.
-
-THE CONFEDERATE STATES.
-
-The Richmond papers declare that their army is suTerim' severely
-
+<p rend="center">THE CONFEDERATE STATES.</p>
+<p>The Richmond papers declare that their army is suffering severely
 from the cold and that it is to a great extent demoralised. They think
+that Great Britain will not be satisfied with Mr. Seward's despatch
+upon the Trent question, and will make further demands. The Richmond
+<hi rend="italic">Whig</hi> thinks that the sinking the stone fleet
+will do no harm to the city of Charleston, but will render it
+impregnable to a sea attack. Since the sinking of that fleet the
+steamer Ella Warley, from Nassau, ran into Charleston with a cargo of
+arms, medicines, and other stores. Several vessels have left the
+harbour and run to sea by other channels, one of which has recently
+arrived in Liverpool. The Captain saw nothing of the blockading
+fleet.</p>
 
-that Great Britain will not be satisfied with M. Seward's despatch
+<p rend="center">CONGRESS.</p>
+<p>In a debate in the House of Representatives on the Trent question
+Mr. Vallandigham expressed himself dissatisfied with the surrender of
+Messrs. Mason and Slidell. He said that America would be at war with
+England in less than three months unless the Federal Government tamely
+submit to the recognition of the South and the raising of the
+blockade. Mr. Hutchins, of Ohio, considered that Mr. Vallandigham
+wanted war with England for the benefit of the South. Mr. Thomas, of
+Massachusetts, was of opinion that England had done that which had
+implanted in the American breast a sense of wrong which would wait the
+opportunity to strike a blow of retributive justice.</p>
+<p>Charles Sumner, Chairman of the Senate's Committee of Foreign
+Affairs, has spoken in the Senate, and taken positions similar to
+those of M. Thouvenel and in advance of those taken by Mr. Seward. He
+said:-</p>
+<p>If Captain Wilks suspected the Trent he should have taken her into
+port for decision. No Federal court, however, recognising American
+precedents, could have lawfully condemned the Trent or detained the
+Commissioner. The American Government has committed itself fully and
+unreservedly to the right of a neutral flag to cover civil
+passengers. The question has been argued with the greatest ability and
+thoroughness by the most eminent American statesmen, including
+Jefferson, Madison, Monroe, and other Presidents, and the whole record
+of American diplomacy is luminous with arguments against such acts as
+that of Captain Wilks. Captain Wilks, misled by a British law book,
+violated American principles. England, by demanding the Commissioners,
+stultified her history and virtually acknowledged the justice of a
+position long maintained by America. The American people (concluded
+Mr. Sumner) are indebted to Captain Wilke's act and Mr. Seward's
+statesmanship for a great political triumph.</p>
+<p>The Naval Committee has reported on a bill for the construction of
+twenty iron-plated steam gun-boats.</p>
+<p>The Committee of Ways and Means have reported a bill authorising
+the issue of 100,000,000 dols. worth of demand notes, which will
+constitute a legal tender, be receivable for Government dues, and
+exchangeable at any time for Six per Cent Bonds, redeemable in twenty
+years.</p>
 
-npon the Treat question, and will make further demands. The Richmond Whip thinks that the sinking the stone fleet will do no harm to the city of Charleston, but will render it impregnable to a sea attack. Since the sinking of that fleet the steamer Ella Warley, from Nassau, ran into Charleston with a cargo of arms, medicines, and other stores. Several vessels have left the harbour and run to sea by other channels, one of which has recently arrived in Liverpool. The Captain saw nothing of the blockading fleet.
+<p rend="center">TRADE AND FINANCE.</p>
+<p>Exchange on London has risen to 114; gold to 4 per cent premium,
+and silver to 1&fract12; per cent premium. The imports of foreign dry
+goods into the port of New York for the year 1861 amount to 43,600,000
+dols., against 101,800,000 in 1860, being a fall in one year of 63 per
+cent. In the year after the celebrated financial crisis (1858) the
+imports amounted to 61,000,000 dols. The arrivals in New York of
+passengers from foreign ports were 80,790 in 1861, against 266,627 in
+1860; of passengers from California, 9117 against 10,710 in 1860.</p>
 
-CONGRESS.
+<p rend="center">ADDRESS OF CONDOLENCE WITH THE QUEEN.</p>
+<p>At a crowded meeting of British residents held at the English
+Cosulate in New York an address of sympathy and condolence with the
+Queen was adopted.</p>
 
-In a debate in the House of Representatives on the Treat question Mr. Vallandighani expressed himself dissatisfied with the surrender of Messrs. Mason and Slidell. He said that America would be at war with England in less than three months unless the Federal Government tamely submit to the recognition of the South and the raising of the blockade. Mr. Hutcidits, of Ohio, considered that Mr. Vallandigham wanted war with England for the benefit of the South. Mr. Thomas, of Massachusetts, was of opinion that England had done that which had implanted in the American breast a sense of wrong which would wait the opportunity to strike a blow of retributive justice.
+<p rend="center">NEWSPAPER CENSORSHIP IN MISSOURI.</p>
+<p>The Provost Marshal of St. Louis has notified to all newspapers
+appearing outside that city that a copy of each issue must be sent him
+for inspection, under penalty of suppression.</p>
 
- Charles Sumner, Chairman of the Senate's Committee of Foreign
+<p rend="center">THE GOVERNORS' MESSAGES.</p>
+<p>The opening of the year is the season when most of the State
+Governors present their annual messages to their respective
+Legislatures. The Governor of the Border State of Maine complains of
+the deep and bitter hostility of large numbers of the people of New
+Brunswick and Canada. He thinks that Portland should be made the
+Quebec and Halifax of the United States, and that with only present
+means of defence Portland would in the event of a war with Great
+Britain soon be in possession of the enemy. It is requisite for these
+purposes not only to construct military works on the coast, but
+military railroads for their connexion with one another. If the United
+States do not at once set about these works, Maine must do so on her
+own account. He complains that the attitude of England has been marked
+by many exhibitions of the most positive unkindness and ill-will,
+while her friendship for the rebels has been manifested by an unbroken
+succession of favours, valuable in themselves, but more valuable for
+the hopes encouraged by the ostentatious manner in which they were
+conferred. "We have all thought till recently that war with England
+was scarcely within the category of possible events. That she should
+make a war which she must know this country would feel and history
+would record was waged by her in the history of barbarism and wrong,
+and designed to inflict an irreparable and unprovoked injury upon a
+nation which had been, in honest faith, her best friend and, as far as
+the wishes of its people were concerned, her truest ally, was what the
+American people could not believe."</p>
+<p>The Governor of Michigan, another Border State, speaks "of the
+manifest disposition of foreign Powers to intermeddle with our
+domestic affairs," and recommends the Federal Government to establish
+at some convenient point in the north-west an arsenal and manufactory
+of arms, and also a naval station, to be located in Michigan.</p>
+<p>The Mayor of New York, in his Message, urges that rafts or other
+barriers should be anchored at the Narrows, in readiness to obstruct
+the channel, if necessary.</p>
 
-airs, has spoken in the Senate, and taken positions similar to those of M. Thouvenel and in advance of those taken by Mr. Seward. He
-
-If Captain Wilks enorected the Treat be should have taken her into port
-
-for decision. 81o Federal court, however, recognising American precedents, ,could have lawfully condemned the Trout or detained the Commissioner. The American Government has co,nssitted itself fully and unreservedly to the right of a neutral flag to cover civil passengers. The question has boon argued with the greatest ability and thoroughness by the most eminent American statesmen, including Jellereou. Madison, Monroe, and other Presidents, and the whole record of American diplomacy is luminous with arguments aga'nst such acts as that of Captain WOks. Captain Wilier, misled by a British law book, violated American principles. England, by demanding the Commissioners, stultified her history and virtually acknowledged the justice of a position long maintained by 'America. The American people (concluded Mr. Sumner) are indebted to Captain Wilke'a act and Mr. Seward's statesmanship for a great political triumph.
-
-The Naval Committee has reported on a bill for the construction of twenty iron-plated steam gunboats.
-
-.The Committee of Ways and Means have reported a bill authorising
-
-the issue of 100,000,000 dols. worth of demand notes, which will con
-
-stitute a legal tender, be receivable for Government dues, arid exchangeable at any the for Ex per Cent Bonds, redeemable in twenty years.
-
- 'TRADE AND FINANCE,
-
-Exchange on London has risen to 114; gold to 4 per cent premium,
-
-and silver to 1 per cent premium. The imports of foreign dry goods
-
-into the post of New York for the year 1861 amount to 43,600,000 dols., against 101,800,000 in 1860, being a fell in one year of 68 per cent. In the year after the celebrated financial crisis (1S58) the imports amounted to 61,000, 000 dols. The arrivals iii Now York of passengers from foreign ports were 80,790 in 1861, against 266,627 in 1800; of passengers from California, 9117 against 10,710 in 1800.
-
-ADDRESS OF CONDOLENCE WTTII THE QUEEN.
-
-At a crowded meeting of British residents held at the English Cosulatc in New York an address of sympathy and condolence with the Queen was adopted.
-
-NEWSPAPER CENSORSHIP IN MISSOURI.
-
-The Provost Marshal of St. Louis has notified to all newspapers appearing outside that city that a copy of each issue must be sent him for inspection, under penalty of suppression.
-
-THE GOVEREORS' MESSAGES.
-
-The opening of the year is the season when most of the State
-
-Governors present their annual messages to their respective Legislatures.
-
-The Governor of the Border State of Maine complains of the deep and bitter hostility of large numbers of the people of New Brunswick and Canada. He thinks that Portland should be made the Quebec and Halifax of the United States, and that with only present means of defence Portland would in the event of a war with Great Britain soon beta possession of the enemy.** It is requisite for these purposes not only to construct military works on the coast, but military railroads for their connexion with one another. If the United States do not at once set about these works, Maine must do so on herown account. He complains that the attitude of England has been marked by many exhibitions of the most positive tinkinciness and ill-will, while her friendship for the rebels has been manifested by an unbroken succession of favours, valuable in themselves, but more valuable for the hopes encouraged by the ostentatious manner in which they were conferred. "We have all thought till recently that war with England was scarcely within the category of possible events. That she should make a war which she must know this country would feel and history would record was waged by her in the history of barbarism and wrong, and designed to inflict an irreparable and unprovoked injury upon a nation which had been, in honest faith, her best friend and, 55 far as the wishes of its people were concerned, her truest ally, waa what the American people could not believe."
-
-The Governor of Michigan, another Border State, speaks ' of the manifest disposition of foreign Powers to intermeddle with our domestic affairs," and recommends the Federal Government to establish at some convenient point in the north-west an arsenal and manufactory of arms, and also a naval station, to be located in Michigan.
-
-The Mayor of New York, in his Message, urges that rafts or other barriers should be anchored at the Narrows, in readiness to obatrnct the
-
-channel, if necessary. -
-DBSPAI'CwIiS FROM LORD LYONS TO RAP.L RUSSELL.
-
-la 'Priday's Gazette were published copies of some despatches from
-
-Lord Lyons. The lust informs Earl Russell that Messrs. Zacharie and Rogue, taken from on board the Eugenia Smith, under the British flag, and confined in ]?orb Lafayette, had been released, and the act disavowed; a second refers to a case in which a captured British schooner, the James Campbell, was taken into port with the British flag flying under the American-a proceeding which has been rebuked by Mr. Seward, end ordere, not to be repeated; and the third relates that certain English seamen, captured for a break of blockade, having been required to take an oath never to be engaged in such a proceeding again, have been declared by Mr. Seward absolved from such oath,
+<p rend="center">DESPATCHES FROM LORD LYONS TO EARL RUSSELL.</p>
+<p>In Friday's <hi rend="smallcaps">Gazette</hi> were published copies
+of some despatches from Lord Lyons. The first informs Earl Russell that Messrs. Zacharie and Rogers, taken from on board the Eugenia Smith, under the British flag, and confined in Fort Lafayette, had been released, and the act disavowed; a second refers to a case in which a captured British schooner, the James Campbell, was taken into port with the British flag flying under the American-a proceeding which has been rebuked by Mr. Seward, and ordered not to be repeated; and the third relates that certain English seamen, captured for a break of blockade, having been required to take an oath never to be engaged in such a proceeding again, have been declared by Mr. Seward absolved from such oath.</p></div2>
 
 THE TUSCARORA IN SOUTHAMPTON WATER.
 
