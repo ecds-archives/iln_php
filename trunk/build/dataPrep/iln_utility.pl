@@ -2,21 +2,28 @@
 
 ## iln_utility.pl : a utility script for the iln xml file
 ## this script can do any of the following: 
-## -entity-name	fix names of image entities to match image files
-## -entity-list	generate entity list according to entities in file
-## -imgsize	calculate & insert image sizes (for image viewer)
-## -divsize	calculate & insert div lengths in paragraphs
-## -f file	specify iln file to use or modify
-## -v vol	specify volume of ILN (e.g., 38)
+## -entity-name	 fix names of image entities to match image files
+## -entity-list	 generate entity list according to entities in file
+## -entity-check sanity check on figure entities
+## -imgsize	 calculate & insert image sizes (for image viewer)
+## -divsize	 calculate & insert div lengths in paragraphs
+## -f file	 specify iln file to use or modify
+## -v vol	 specify volume of ILN (e.g., 38)
 ##
 ## Rebecca Sutton Koeser, February 2003
 
-$usage = "iln_utility.pl [mode] -f filename -v volume
+$usage = "iln_utility.pl [mode] -f filename -v volume [-o output file]
 where [mode] is one of:
   -entity-name	fix names of image entities to match image files
   -entity-list	generate entity list according to entities in files
+  -entity-check verify figure entities
   -imgsize	calculate & insert image sizes (for ILN image viewer)
   -divsize	calculate & insert div lengths in paragraphs
+
+options:
+  -f		file to process
+  -v		ILN volume (i.e., 38, 39, etc.)
+  -o		output file (defaults to filename.new)
 
 Note: volume *must* be specified for all modes except divsize.
 ";
@@ -34,10 +41,21 @@ $debug = 1;
 # mode variables
 $entity_name = 0;
 $entity_list = 0;
+$entity_check = 0;
 $imgsize = 0;
 $divsize = 0;
 $file_next = 0;
 $vol_next = 0;
+$outfile_next = 0;
+
+# variables for entity-check mode
+$checked = 0;
+$missing = 0;
+$zerosize = 0;
+$pagematch = 0;
+@unused = ();
+@used = ();
+
 
 ## determine what mode we are in, get any command-line options
 foreach $arg (@ARGV) {
@@ -45,6 +63,8 @@ foreach $arg (@ARGV) {
     $entity_name = 1;
   } elsif ($arg =~ "-entity-list") {
     $entity_list = 1;
+  } elsif ($arg =~ "-entity-check") {
+    $entity_check = 1;
   } elsif ($arg =~ "-imgsize") {
     $imgsize = 1;
   } elsif ($arg =~ "-divsize" ) {
@@ -61,16 +81,21 @@ foreach $arg (@ARGV) {
   } elsif ($vol_next) {
     $vol = $arg;	# grab volume number
     $vol_next = 0;
+  } elsif ($arg =~ "-o") {
+    $outfile_next = 1;
+  } elsif ($outfile_next) {
+    $outfile = $arg;
+    $outfile_next = 0;
   }
 }
 
 ## no default mode
-if (!($entity_name || $entity_list || $imgsize || $divsize)) {
+if (!($entity_name || $entity_list || $entity_check || $imgsize || $divsize)) {
   print "Error! Mode must be specified!\n\n";
   print "Usage:\n";
   print $usage;
   exit();
-} elsif (($entity_name || $entity_list || $imgsize)  && (! $vol)) {
+} elsif (($entity_name || $entity_list || $entity_check || $imgsize)  && (! $vol)) {
  print "Error!  Volume must be specified in this mode!\n\n";
  print "Usage:\n";
  print $usage;
@@ -79,12 +104,13 @@ if (!($entity_name || $entity_list || $imgsize || $divsize)) {
 
 
 
+
 if ($imgsize) {
   use Image::Size;
 }
 
 # do prep work for entity-name & list modes (generate list of image files)
-if ($entity_name || $entity_list) {
+if ($entity_name || $entity_list || $entity_check) {
   opendir(IMAGEDIR, $image_dir) || die("Couldn't open dir $image_dir: $!");
   #@files = grep("ILNv38.*jpg", readdir(IMAGEDIR));
   ## why doesn't this grep work?!?
@@ -108,26 +134,34 @@ if ($entity_list) {
     $ent = entity($f);
     print "<!ENTITY $ent SYSTEM \"../images/$f\" NDATA jpeg>\n";
   }
-} 
+} elsif ($entity_check) {	# set up a hash to check that all image files are used
+  foreach $f (@files) {
+    $imglist{$f} = 0;
+  }
+}
 
-if ($entity_name || $imgsize || $divsize) {
+if ($entity_name || $entity_check || $imgsize || $divsize) {
   # open input/output files (mode = entity names, imgsize, or divsize)
   open(ILN, "$iln_file") || die("Couldn't open file $iln_file: $!");
-  $new_file = `basename $iln_file`;  # output file in current directory
-  chop($new_file);  # get rid of newline
-  open(OUT, ">$new_file.new") 
-    || die("Couldn't open output file $new_file.new: $!");
-  
+  unless ($entity_check) {    ## no change to output
+    unless ($outfile) { 	# use outfile name from command line, if specified
+      $new_file = `basename $iln_file`;  # output file in current directory
+      chop($new_file);  # get rid of newline
+      $outfile = "$new_file.new";
+    }
+    open(OUT, ">$outfile") 
+      || die("Couldn't open output file $outfile: $!");
+  }
 
   while(<ILN>) {
     # grab current page # from pb or biblScope
-    if ($entity_name && /<pb n="(\d+)"/ ) {
+    if (($entity_name || $entity_check) && /<pb n="(\d+)"/ ) {
       $cur_page = $1;
       #    if ($debug) { print "hit <pb>, page is $cur_page\n"; }
-    } elsif ($entity_name && /<biblScope type="pages">p+.\s*(\d+)-*\d*</ ) {
+    } elsif (($entity_name || $entity_check) && /<biblScope type="pages">p+.\s*(\d+)-*\d*</ ) {
       $cur_page = $1;
       #    if ($debug) { print "hit <biblScope>, page is $cur_page\n"; }
-    } elsif (($entity_name || $imgsize) && /<figure entity="(.*)">/) {
+    } elsif (($entity_name || $imgsize || $entity_check) && /<figure entity="(\w*)"/) {
       $entity = $1;
       if ($entity_name) {
 	## fix entity value
@@ -140,7 +174,10 @@ if ($entity_name || $imgsize || $divsize) {
 	print "page $cur_page: replacing $entity with $new_fig\n";
 	s/entity=".*">/entity="$new_fig">/;
 	$i++;
-      } # end if ($entity_name)
+       # end if ($entity_name)
+      } elsif ($entity_check) {
+	sanity_check($entity, $cur_page);
+      }
       if ($imgsize) {
 	# insert image dimensions into xml file
 	($x, $y) = imgsize("$image_dir/ILN$entity.jpg");
@@ -179,11 +216,48 @@ if ($entity_name || $imgsize || $divsize) {
 #      </bibl>\n";    # seeking overrides </bibl> line
       seek(OUT, $cur_pos, SEEK_SET);
     }
-  print OUT $_;
+    if (! $entity_check) {   ## no change to file in this mode
+      print OUT $_;
+    }
   }
 
 close(ILN);
 close(OUT);
+
+  ## print out results
+  if ($entity_check) {
+    print "
+Results:
+  Checked $checked figure entities in $iln_file.
+  Missing image files:   $missing
+  Zero size image files: $zerosize
+  Mismatched pages:      $pagematch
+
+";
+
+    foreach $f (sort keys(%imglist)) {
+      if ($imglist{$f}) {
+	push(@used, $f);
+      } else {
+	push(@unused, $f);
+      }
+    }
+     if ($#unused >= 0 ) {   ## FIXME: is this right?
+       $total = $#unused + 1;
+       if ($total == 1) {
+	 print "$total volume $vol image was not used:\n\t@unused\n";
+       } else {
+	 print "$total volume $vol images were not used:\n";
+	 foreach $l (@unused) {
+	   print "\t$l\n";
+	 }
+       }
+    } else {
+      print "All images for volume $vol were used.\n";
+    }
+
+  }
+
 
 }
 
@@ -220,4 +294,28 @@ sub bypage {
   } else {
     page($a) <=> page($b);
   }
+}
+
+## run a couple of checks on the figure entity, to verify it
+sub sanity_check {
+ my($entity, $page) = @_;
+ my($filename, $entity_page, $imgfile);
+ $imgfile = "ILN$entity.jpg";
+ $filename = "$image_dir/$imgfile";
+ $entity_page = page($imgfile);   ## page subroutine expects full filename
+ $imglist{$imgfile} = 1;	# mark this image as being used
+
+ $checked++;
+ if (! -e $filename) {
+  print "Warning: $filename does not exist!\n";
+  $missing++;
+ } elsif ( -z $filename) {
+  print "Warning: $filename has zero size!\n";
+  $zerosize++;
+ }
+ if ($page != $entity_page) {
+   print "Warning: entity page numbers do not match! ($entity [$entity_page] occurs on $page)\n";
+   $pagematch++;
+ }
+
 }
