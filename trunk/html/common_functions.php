@@ -2,19 +2,43 @@
 
 // php functions & variables used by more than one ILN php page
 
+/* Check browser & OS and determine which css file to use
+   (only checking for IE -- the only one that needs different css ) 
+*/
+function getCSS () {
+  $HTTP_USER_AGENT = getenv("HTTP_USER_AGENT");
+
+  if (eregi ("MSIE", $HTTP_USER_AGENT)) { $browser = "MSIE"; }
+  if (eregi ("mac",  $HTTP_USER_AGENT)) { $os = "mac"; }
+  else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
+  
+  // $css_basepath = "http://chaucer.library.emory.edu/iln/";
+  $css_basepath = "http://arachne.library.emory.edu/rebecca/ilnweb/";
+  $css = "iln.css"; 
+  if ($browser == "MSIE") {
+    if ($os == "mac") {
+      $css = "iln-iemac.css";
+    } else if ($os == "win") {
+      $css = "iln-iewin.css";
+    }
+  }
+  return "$css_basepath$css";
+}
+
 
 function html_head ($mode) {
+  $mycss = getCSS();
 print "<html>
  <head>
  <title>$mode - The Civil War in America from The Illustrated London News</title>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
-<script language=\"Javascript\" 
-	src=\"http://chaucer.library.emory.edu/iln/browser-css.js\"></script>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">
 <script language=\"Javascript\" 
 	src=\"http://chaucer.library.emory.edu/iln/content-list.js\"></script>
 <script language=\"Javascript\" 
 	src=\"http://chaucer.library.emory.edu/iln/image_viewer/launchViewer.js\"></script>
-<link rel=\"stylesheet\" type=\"text/css\" href=\"http://chaucer.library.emory.edu/iln/contents.css\">
+<link rel=\"stylesheet\" type=\"text/css\" href=\"http://arachne.library.emory.edu/rebecca/ilnweb/contents.css\">
+
  </head>";
 }
 
