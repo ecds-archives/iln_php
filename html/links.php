@@ -36,15 +36,19 @@ $result = transform($xmlContent, $xsl_file);
 print $result; */
 
 $sort = $_GET["sort"]; // options: title|contrib|date
+$subject = $_GET['subj'];
 
 $args = array('host' => "vip.library.emory.edu",
 	      'db' => "BECKCTR",
 	      'coll' => 'iln_links',
+	      'limit_subject' => $subject[0],
 	      'sort' => $sort);
 
 $linkset = new LinkCollection($args);
 
 $linkset->printSortOptions("links.php");
+$linkset->printSubjectOptions("links.php", $subject);
+print "<hr width='50%'>";
 $linkset->printSummary();
 
 
