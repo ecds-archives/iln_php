@@ -218,6 +218,26 @@ the readiness to take the Government loan, has by no means equalled the superabu
 <p>It appears from the report of the Postmaster-General that, comparing the Government subsidy with the number of letters, each letter forwarded to America vi&aacute: Galway packet lnvolved a loss of about six shillings.</p>
 </div2>
 
+
+
+<div2>
+               <head> [FORT MONTGOMERY]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1119</biblScope> 
+                  <biblScope type="pages">p. 562</biblScope> 
+                  <date value="1861-11-30">November 30, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> FORT MONTGOMERY</head>
+                  </figure>
+               </p>
+  </div2>
+
+
 {Vol. 39 Issue 1119 11-30-1861 Pg. 541}
 
 <div2>
