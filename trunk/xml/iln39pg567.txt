@@ -6,6 +6,22 @@ VOLUME 39
 
 SATURDAY, DECEMBER 7, 1861. 
 
+<div2>
+               <head> [FEDERAL PICKET ON THE POTOMAC]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1120</biblScope> 
+                  <biblScope type="pages">p. 566</biblScope> 
+                  <date value="1861-12-07">December 7, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CIVIL WAR IN AMERICA: FEDERAL PICKET ON THE POTOMAC, IN FRONT OF THE CONFEDERATE BATTERIES.- FROM A SPECIAL ARTIST.- SEE PAGE 570.</head>
+                  </figure>
+               </p>
+  </div2>
 
 <div2>
 <head> THE TRENT AND THE SAN JACINTO. </head>
@@ -136,6 +152,25 @@ __________
 <p>A numerously-attended meeting of American residents in Paris assembled a few days ago at, the Hotel Westminster, to present their respects to General Scott, on the occasion of his arrival in that city. His Excellency Mr. Dayton, the United States Minister, in addressing the General on behalf of his countrymen in Paris, assured him of their respect for himself personally, and their high appreciation of the value of his long services to his country, referring particularly to the activity and energy displayed in his recent loyal defence of the capital when threatened by the Confederates of the South,, and declaring that his countrymen would ever cherish in their hearts a grateful recollection of his name. He expressed their regret at the feeble state of his health, and their wishes for his speedy restoration; and trusted that, on his return home, he would find his country once more happy and united,and  more prosperous than ever. General Scott, who seemed much affected at the compliment paid him, replied in suitable terms.</p>
 	</div2>
 
+
+<div2>
+               <head> [MY RECONNAISSANCE WITH GENERAL SICKLES]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1120</biblScope> 
+                  <biblScope type="pages">p. 570</biblScope> 
+                  <date value="1861-12-07">December 7, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CIVIL WAR IN AMERICA: "MY RECONNAISSANCE WITH GENREAL SICKLES IN THE POTOMAC."- FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
+                  </figure>
+               </p>
+  </div2>
+
+
 {Vol. 39 Issue 1120 12-07-1861 Pg. 570-572}
 
 <div2>
@@ -151,3 +186,37 @@ __________
 <p>O<hi rend="smallcaps">UR</hi> Special Artist in the Federal Camp on the Potomac continues to forward to us Illustrations of noteworthy incidents in connection with the civii war raging in that part of the States. Four of these, respecting which he writes as follows, are given on the accompanying pages:-Fifty miles below Washington the Confederates have constructed some formidable batteries on the Virginia shore of the Potomac, opposite to a place known as Budd's Ferry. Among the series of sketches forwarded you will find one showing Budd's house, and a small earthwork mounting two 10-pound Parrott guns, which teh Federalists have there in position. Preparations are being made at the same point for attack on the COnfederate batteries over the river, three exceedingly heavy ones having been unmasked. During my visit a dozen or so of small schooners of light draught successfully <pb n="570">
 ran the blockade by hugging the Maryland shore closely, where the water shoals considerably. Heavy vessels dare not risk it, as the deep channel lies right under the batteries, and the consequence is the blockade of the Potomac may be looked upon as effective. We on our side watched the little ships anxiously as they came within range of the enemy's guns, which they no sooner did than a terrible fire of shot and shell opened upon them, not one, however being struck seriously, and all enabled to keep their course down river. We, the spectators ran probably more risk than the vese1s, for many of the shells came over to our neighbourhood, bursting in close proximity to where we stood. Our turn then came, and we gave them a few rounds from the tiny Parrotts, pitching the 10-pound shells right into their works, and peppering a steamer, one of the Confederate navy, until they were glad to haul her into Quantico Creek. The river at this point is a mile and three quarters in breadth. My "Reconnaissance with General Sickles in the Bed of the Potomac" was a most remarkable ride, for nearly the whole time we had to wade to our horses' girths in the river itself, sometimes even swimming, the banks being impracticable in places. The neighbour hood is Indian Head, close by the batteries.</p>
 	</div2>
+
+<div2>
+               <head> [THE CONFEDERATE BATTERIES ON THE LOWER POTOMAC]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1120</biblScope> 
+                  <biblScope type="pages">p. 571</biblScope> 
+                  <date value="1861-12-07">December 7, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CIVIL WAR IN AMERICA: THE CONFEDERATE BATTERIES ON THE LOWER POTOMAC, VIRGINIA SHORE, OPPOSITE BUDD'S FERRY- GOVERNMENT STORE-SCHOONERS RUNNING THE BLOCKADE.- FROM A SPECIAL ARTIST.</head>
+                  </figure>
+               </p>
+  </div2>
+
+<div2>
+               <head> [THE TEN-POUNDER GUN BATTERY]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1120</biblScope> 
+                  <biblScope type="pages">p. 571</biblScope> 
+                  <date value="1861-12-07">December 7, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CIVIL WAR IN AMERICA: THE TEN-POUNDER GUN BATTERY (FEDERALIST) AT BUDD'S FERRY, LOWER POTOMAC, OPPOSITE THE CONFEDERATE BATTERIES ON THE VIRGINIA SHORE.- FROM A SPECIAL ARTIST.</head>
+                  </figure>
+               </p>
+  </div2>
