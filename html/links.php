@@ -7,40 +7,16 @@ html_head("Links");
 include("xml/head.xml");
 include("xml/sidebar.xml");
 
-//$url = 'http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xquery=
-/*$url = 'http://vip.library.emory.edu/tamino/BECKCTR/iln_links?_xquery=
-declare namespace dc="http://purl.org/dc/elements/1.1/"
-for $b in input()/link_collection/link_record
-return <link_record>
- {$b/dc:title}
- {$b/dc:description}
- {$b/dc:identifier}
-</link_record>';
-
-$url = encode_url($url);
-$xsl_file = "links.xsl"; */
-
-?>
-
-   <div class="content"> 
-          <h2>Links</h2>
-
-
-<?php
-
-print "<hr>";
-
-// use sablotron to transform xml
-/*$xmlContent = file_get_contents($url);
-$result = transform($xmlContent, $xsl_file); 
-print $result; */
+print '<div class="content"> 
+      <h2>Links</h2>
+	<hr>';
 
 $sort = $_GET["sort"]; // options: title|contrib|date
 $subject = $_GET['subj'];
 
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "BECKCTR",
-	      'coll' => 'iln_links',
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'coll' => $link_coll,
 	      'limit_subject' => $subject[0],
 	      'sort' => $sort);
 
@@ -52,18 +28,12 @@ print "<hr width='50%'>";
 $linkset->printSummary();
 
 
-print "<hr>";
-
-?> 
-
-
-
-  </div>
+print "<hr>\n</div>";
    
-<?php
-  include("xml/foot.xml");
+include("xml/foot.xml");
+
 ?>
-
-
+  
 </body>
 </html>
+
