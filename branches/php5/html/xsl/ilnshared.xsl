@@ -68,11 +68,9 @@ select="./@entity"/>')</xsl:attribute>
 
 <!-- print out div titles in table of contents style -->
 <xsl:template match="div2"> 
-
  <xsl:element name="p">
   <xsl:element name="a">
-    <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/><xsl:if test="$term_string != 0"><xsl:value-of select="$term_string"/></xsl:if></xsl:attribute>
-    <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/><xsl:if test="$term_string != 0"><xsl:value-of select="$term_string"/></xsl:if></xsl:attribute>
+    <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/><xsl:if test="$term_string"><xsl:value-of select="$term_string"/></xsl:if></xsl:attribute>
   <xsl:if test="head = ''">Untitled</xsl:if>
   <xsl:apply-templates select="head"/>
   </xsl:element> <!-- a -->
