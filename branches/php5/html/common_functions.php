@@ -1,10 +1,13 @@
 <?php
 
+include("config.php");
+
 // php functions & variables used by more than one ILN php page
 
 /* Check browser & OS and determine which css file to use
    (only checking for IE -- the only one that needs different css ) 
 */
+
 function getCSS () {
   $HTTP_USER_AGENT = getenv("HTTP_USER_AGENT");
 
@@ -12,8 +15,6 @@ function getCSS () {
   if (eregi ("mac",  $HTTP_USER_AGENT)) { $os = "mac"; }
   else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
   
-  // $css_basepath = "http://chaucer.library.emory.edu/iln/";
-  $css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
   $css = "iln.css"; 
   if ($browser == "MSIE") {
     if ($os == "mac") {
@@ -22,7 +23,7 @@ function getCSS () {
       $css = "iln-iewin.css";
     }
   }
-  return "$css_basepath$css";
+  return "$base_url$css";
 }
 
 
@@ -34,12 +35,12 @@ print "<html>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">
 <script language=\"Javascript\" 
-	src=\"http://reagan.library.emory.edu/rebecca/ilnweb/cookies.js\"></script>
+	src=\"$base_url/cookies.js\"></script>
 <script language=\"Javascript\" 
-	src=\"http://reagan.library.emory.edu/rebecca/ilnweb/content-list.js\"></script>
+	src=\"$base_url/content-list.js\"></script>
 <script language=\"Javascript\" 
-	src=\"http://chaucer.library.emory.edu/iln/image_viewer/launchViewer.js\"></script>
-<link rel=\"stylesheet\" type=\"text/css\" href=\"http://reagan.library.emory.edu/rebecca/ilnweb/contents.css\">
+	src=\"http://$base_url/image_viewer/launchViewer.js\"></script>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"http://$base_url/contents.css\">
 
  </head>";
 }
