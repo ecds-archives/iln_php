@@ -2,9 +2,9 @@
 	<frame noresize="true" marginwidth="0" framespacing="0" frameborder="no"
 	       border="0" 
 	       marginheight="0" scrolling="no" name="control"
-	       src="http://chaucer.library.emory.edu/iln/image_viewer/zoom.html" />
+	       src="http://beckptolemy.library.emory.edu/iln/image_viewer/zoom.html" />
 	<frame noresize="true" marginwidth="0" framespacing="0" frameborder="no"
 	       border="0" 
 	       marginheight="0"	name="image"
-	       src="http://chaucer.library.emory.edu/iln/image_viewer/main.html" />
+	       src="http://beckptolemy.library.emory.edu/iln/image_viewer/main.html" />
 </frameset>
