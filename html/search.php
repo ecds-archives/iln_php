@@ -8,7 +8,7 @@ search.php?region=article&term=lincoln&sort=date&op=and&region2=title&term2=amer
  
 (values are as specified below)  */
 
-include_once("link_admin/taminoConnection.class.php");
+include_once("lib/taminoConnection.class.php");
 include_once("common_functions.php");
 include_once("phpDOM/classes/include.php");
 import("org.active-link.xml.XML");

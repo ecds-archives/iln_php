@@ -1,6 +1,6 @@
 <?php
 include("common_functions.php");
-include_once ("link_admin/linkCollection.class.php");
+include_once ("lib/linkCollection.class.php");
 
 html_head("Links");
 
