@@ -34,10 +34,12 @@ print "<html>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">
 <script language=\"Javascript\" 
-	src=\"http://chaucer.library.emory.edu/iln/content-list.js\"></script>
+	src=\"http://reagan.library.emory.edu/rebecca/ilnweb/cookies.js\"></script>
+<script language=\"Javascript\" 
+	src=\"http://reagan.library.emory.edu/rebecca/ilnweb/content-list.js\"></script>
 <script language=\"Javascript\" 
 	src=\"http://chaucer.library.emory.edu/iln/image_viewer/launchViewer.js\"></script>
-<link rel=\"stylesheet\" type=\"text/css\" href=\"http://arachne.library.emory.edu/rebecca/ilnweb/contents.css\">
+<link rel=\"stylesheet\" type=\"text/css\" href=\"http://reagan.library.emory.edu/rebecca/ilnweb/contents.css\">
 
  </head>";
 }
