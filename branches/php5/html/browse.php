@@ -7,7 +7,7 @@
 
 include("config.php");
 include("common_functions.php");
-include_once("taminoConnection.class.php");
+include_once("xmlDbConnection.class.php");
 
 $id = $_GET["id"];
 $term = $_GET["term"];
@@ -18,7 +18,7 @@ $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll,
 	      'debug' => false);
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 $xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
  
 // addition to the query for next/previous links (only in contents/browse mode, not searches) 
