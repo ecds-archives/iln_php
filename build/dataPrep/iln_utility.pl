@@ -161,34 +161,32 @@ if ($entity_name || $entity_check || $imgsize || $divsize) {
     } elsif (($entity_name || $entity_check) && /<biblScope type="pages">p+.\s*(\d+)-*\d*</ ) {
       $cur_page = $1;
       #    if ($debug) { print "hit <biblScope>, page is $cur_page\n"; }
-    } elsif (($entity_name || $imgsize || $entity_check) && /<figure entity="(\w*)"/) {
+    } elsif ($entity_name && /<figure entity="(\w*)"/) {
       $entity = $1;
-      if ($entity_name) {
-	## fix entity value
-	### FIXME: this may not be the best algorithm for doing this...
-	$new_fig = entity($files[$i]);
-	$new_page = page($files[$i]);
-	if ($cur_page != $new_page) {
-	  print "Error! page numbers do not match (on $cur_page, entity belongs on $new_page).\n";
-	}
-	print "page $cur_page: replacing $entity with $new_fig\n";
-	s/entity=".*">/entity="$new_fig">/;
-	$i++;
-       # end if ($entity_name)
-      } elsif ($entity_check) {
-	sanity_check($entity, $cur_page);
+      ## fix entity value
+      ### FIXME: this may not be the best algorithm for doing this...
+      $new_fig = entity($files[$i]);
+      $new_page = page($files[$i]);
+      if ($cur_page != $new_page) {
+	print "Error! page numbers do not match (on $cur_page, entity belongs on $new_page).\n";
       }
-      if ($imgsize) {
+      print "page $cur_page: replacing $entity with $new_fig\n";
+      s/entity=".*">/entity="$new_fig">/;
+      $i++;
+    } elsif ($imgsize && /<figure entity="(\w*)"/) {
+      $entity = $1;
+      if (/width="\d*"/ || /height="\d*"/) {   # check that dimensions don't exist
+	print "Error! Image dimensions have already been added. Skipping entity $entity.\n";
+      } else {
 	# insert image dimensions into xml file
 	($x, $y) = imgsize("$image_dir/ILN$entity.jpg");
 	s/(entity.*)>/$1 width="$x" height="$y">/;
       }
-
-      # end if (<figure...>)
-    } elsif ($entity_name && /<figure>/) {
-      ## case where entity attribute has not been inserted at all
+    } elsif ($entity_check && /<figure entity="(\w*)"/) {
       $entity = $1;
-      ## entity does not exist, so insert it
+      sanity_check($entity, $cur_page);
+    } elsif ($entity_name && /<figure>/) {
+      ## case where entity attribute does not exist -- insert it
       ### FIXME: this may not be the best algorithm for doing this...
       $new_fig = entity($files[$i]);
       $new_page = page($files[$i]);
@@ -205,7 +203,7 @@ if ($entity_name || $entity_check || $imgsize || $divsize) {
     } elsif ($divsize && /<\/bibl>/ ) {
       $insert_extent = tell(OUT);  # get filehandle position to insert extent
       # print a line to fill later
-      print OUT "<extent># paragraph</extent>   \n";  
+      print OUT "<extent># paragraph</extent>    \n";  
     } elsif ($divsize && /<\/div2>/ ) {
       # output the number of paragraphs
       $cur_pos = tell(OUT);  # save position in file
@@ -216,7 +214,7 @@ if ($entity_name || $entity_check || $imgsize || $divsize) {
 #      </bibl>\n";    # seeking overrides </bibl> line
       seek(OUT, $cur_pos, SEEK_SET);
     }
-    if (! $entity_check) {   ## no change to file in this mode
+    unless ($entity_check) {   ## no new file in entity_check mode
       print OUT $_;
     }
   }
@@ -224,8 +222,9 @@ if ($entity_name || $entity_check || $imgsize || $divsize) {
 close(ILN);
 close(OUT);
 
-  ## print out results
+
   if ($entity_check) {
+    ## print out results
     print "
 Results:
   Checked $checked figure entities in $iln_file.
