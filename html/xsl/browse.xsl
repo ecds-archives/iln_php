@@ -166,33 +166,8 @@
   </xsl:apply-templates>
 
 </xsl:element> <!-- table -->
-=======
-<xsl:variable name="main_id"><xsl:value-of select="//div1/div2/@id"/></xsl:variable>
-<xsl:variable name="position">
-  <xsl:for-each select="//siblings/div2">
-    <xsl:if test="@id = $main_id">
-      <xsl:value-of select="position()"/>
-    </xsl:if>
-  </xsl:for-each>
-</xsl:variable>
-
-<xsl:element name="table">
-  <xsl:attribute name="width">100%</xsl:attribute>
-
-  <xsl:apply-templates select="//siblings/div2[$position - 1]">
-    <xsl:with-param name="mode">Previous</xsl:with-param>
-  </xsl:apply-templates>
-
-  <xsl:apply-templates select="//siblings/div2[$position + 1]">
-    <xsl:with-param name="mode">Next</xsl:with-param>
-  </xsl:apply-templates>
-
-</xsl:element> <!-- table -->
->>>>>>> 1.2
-
 </xsl:template>
 
-<<<<<<< browse.xsl
 <!-- print next/previous link with title & summary information -->
 <xsl:template match="siblings/div2">
 <xsl:param name="mode"/>
