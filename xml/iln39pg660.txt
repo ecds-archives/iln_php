@@ -99,6 +99,42 @@ ____________
 
 <p>The following further arrangements for the embarkation of troops for Canada have been completed:- the Hibernian will sail from Liverpool for New Brunswick, taking the fourth company of the Royal Engineers -5 officers and 120 men; the G (Captian Hoste's) battery of the fourth brigade Royal Artillery, from Aldershott-7 officers and 255 men; the sixth battery of the tenth brigade Royal Artillery (Captain Robinson's), from Woolwich -6 officers and 117 men; a detachment of the  first battalion 15th foot- 4 officers and 147 men. The Canadian mail-steamer will take from Liverpool the seventh battery of the tenth brigade Royal Artillery (Captain Child's), from Woolwich- 6 officers and 117 men; and the eighth battery of the same brigade (Captain M'Rea's)- 6 officers and 117 men; the seventh battery for Halifax, the eighth for Newfoundland, the fifth company of the Royal Engineers for Bermuda- 4 officers and 100 men; and 6 men of the Army Hospital Corps for New Brunswick. The detachment of Royal Engineers under orders to embark in the Victoria will sail in the Calcutta.</p>
 	</div2>
+
+<div2>
+               <head> [THE GUARDS CROSSING WESTMINSTER BRIDGE]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1122</biblScope> 
+                  <biblScope type="pages">p. 662</biblScope> 
+                  <date value="1861-12-28">December 28, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> REINFORCEMENTS FOR CANADA: THE GUARDS CROSSING WESTMINSTER BRIDGE ON THEIR WAY TO THE SOUTH-WESTERN RAILWAY STATION.- SEE PRECEDING PAGE.</head>
+                  </figure>
+               </p>
+  </div2>
+
+<div2>
+               <head> [DRUMMING OUT A SOLDIER OF THE FEDERAL ARMY]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1122</biblScope> 
+                  <biblScope type="pages">p. 666</biblScope> 
+                  <date value="1861-12-28">December 28, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CIVIL WAR IN AMERICA: DRUMMING OUT A SOLDIER OF THE FEDERAL ARMY THROUGH TEH STREETS OF WASHINGTON.- FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
+                  </figure>
+               </p>
+  </div2>
+
+
 <div2>
 <head> [M. HAUTEFEUILLE ON THE TRENT CASE] </head>
       <bibl> 
