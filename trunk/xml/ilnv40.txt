@@ -5161,30 +5161,13 @@ to record a victory; as ,it is, I must wait the issue of the fight.</p>
 <p>Some Illustrations by our Special Artist sent with this letter will
 be given in our next Number.</p></div2>
 
-<div2 id="iln40.1134.001" n="The Civil War in America: Provisional
-      Camp of a Portion of the Burnside Expedition at Hatteras Inlet,
-      North Carolina--From a Sketch by our special artist" type="illustration">
-<bibl>
-<biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1133</biblScope> 
-           <biblScope type="pages">p. 258</biblScope> 
-           <date value="1862-03-08">March 8,1862</date>
-         <extent></extent>
-</bibl>
-<p>
-<figure entity="v40p258a">
-<head>The Civil War in America: Provisional Camp of a Portion of the
-Burnside Expedition at Hatteras Inlet, North Carolina--From a Sketch
-by our Special Artist</head>
-</figure>
-</p>
-</div2>
+<
 
-<div2 id="iln40.1134.002" n="America" type="article">
+<div2 id="iln40.1134.001" n="America" type="article">
 <head>AMERICA.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1133</biblScope> 
+           <biblScope type="issue">no. 1134</biblScope> 
            <biblScope type="pages">p. 258</biblScope> 
            <date value="1862-03-08">March 8,1862</date>
          <extent></extent>
@@ -5286,69 +5269,151 @@ place this spring. One steamer had just sailed from San Francisco
 
 with 600 passengers for that destination.</p></div2>
 
-<div2 id="iln40.1134.003" n="The Lieutenant" type="article">
+<div2 id="iln40.1134.002" n="The Lieutenant" type="article">
 <head> The Lieutenant.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1134</biblScope> 
+           <biblScope type="pages">p. 258</biblScope> 
+           <date value="1862-03-08">March 8,1862</date>
+         <extent></extent>
+</bibl>
+
 
 <p>The Lieutenant (not the Captain, as previously stated) of the
 
-Sumter, who was arrested at Tangiers, has been released. The Sumter remains at Gibraltar, but narrowly watched, by Federal ships.</p>
-THE ILLUSTRATED LONDON NEWS
+Sumter, who was arrested at Tangiers, has been released. The Sumter
+remains at Gibraltar, but narrowly watched, by Federal
+ships.</p></div2>
 
-ZONDQV, &TURDAY,AIA1WII 8, 1862.
+<div2 id="iln40.1134.003" n="The Illustrated London News"
+      type="article">
 
-A DtW6 and important victory gained by the Federals has naturally thrown the Northern States into great excitement. About this action there can be no mistake, and there is no need for exaggeration. Fort Donnelson has fallen after three days of hard fighting and very considerable slaughter on both sides. Three Confederate Generals are prisoners, with, it is said, 15,000 men; and General Floyd, with 0000 men, #avec bis.selt by a flight which is not QonsidereI
-"chi-ahu." Bight and left, therefore, the forces of the
+<head>THE ILLUSTRATED LONDON NEWS.</head>
 
-Union are clearing their way, and their operations may speetj;j;
+<dateline rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH</hi> 8, 1862.</dateline>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1134</biblScope> 
+           <biblScope type="pages">p. 244</biblScope> 
+           <date value="1862-03-08">March 8,1862</date>
+         <extent></extent>
+</bibl>
+<p>A decisive and important victory gained by the Federals has
+naturally thrown the Northern States into great excitement. About this
+action there can be no mistake, and there is no need for
+exaggeration. Fort Donnelson has fallen after three days of hard
+fighting and very considerable slaughter on both sides. Three
+Confederate Generals are prisoners, with, it is said, 15,000 men; and
+General Floyd, with 5000 men, saved himself by a flight which is not considered
+"chivalrous."<lb/> Right and left, therefore, the forces of the
 
-induce General. M'Olellau to advance. It would appclr that no time was to be bet, the victors in Tennessee were pushing onwards, and, though the character of the country rendered a check possible at any moment, it was not thought that they
+Union are clearing their way, and their operations may speedily
 
-¥ would meet serious opposition for some time to come, it j
+induce General M'Clellan to advance. It would appear that no time was to be lost, the victors in Tennessee were pushing onwards, and, though the character of the country rendered a check possible at any moment, it was not thought that they
 
-also reported that Savannah has fallen, and there is no impro. babiiity in the news. At length, therefore, the North may fairly be said to be putting out its strength in earnest and delivering the effective blows which might have been expected from the magnitude of its preparations. The Secretary at War has availed himself of these successes to rebuke in
+ would meet serious opposition for some time to come. It is
+
+also reported that Savannah has fallen, and there is no improbability
+in the news. At length, therefore, the North may fairly be said to be
+putting out its strength in earnest and delivering the effective blows
+which might have been expected from the magnitude of its
+preparations. The Secretary at War has availed himself of these
+successes to rebuke in a
 
 stern Puritan tone the language in which various American
 
-writers have sought to imitate the Napoleonic bombast, which, as he says, began in "inffdel France," and led the Fruich up
+writers have sought to imitate the Napoleonic bombast, which, as he says, began in "infidel France," and led the French up
 
-Waterloo. There is no "organisation of victories," he says, the triumph being due to the spirit of the Lord putting valour into the soldiery of the North. But there is too much love for fine writing and grandiloquence in America to make the stern Secretary's reproof very effectual. We do not suppose that:, in the present state of the American mind, any expressions o English admiration for the gallantry of the Federala will be received with favour; but we may put on record, to be read when all ill-feeling shall have subsided, that, apart from the satisfaction felt in England at any success obtained against the advocates of slavery, we are proud of the bravery of our cousins, and are ready to recognise in the endurance which they have displayed under trying circumstances an evidence that their relationship to the conquerors in the Crimea, India, and China, is more real than many will allow, We shall, of course, be told that these sentiments are curiously coincident with the success which is said, unfairly, to be the idol of England; but we will bear that, simply remarking that we have nothing to gain by a Northern triumph, whereas we might be commercially benefited by the establishment of the South
-THE WASKOE IllNING REGION.
+Waterloo. There is no "organisation of victories," he says, the
+triumph being due to the spirit of the Lord putting valour into the
+soldiery of the North. But there is too much love for fine writing and
+grandiloquence in America to make the stern Secretary's reproof very
+effectual. We do not suppose that:, in the present state of the
+American mind, any expressions of English admiration for the gallantry of the Federals will be received with favour; but we may put on record, to be read when all ill-feeling shall have subsided, that, apart from the satisfaction felt in England at any success obtained against the advocates of slavery, we are proud of the bravery of our cousins, and are ready to recognise in the endurance which they have displayed under trying circumstances an evidence that their relationship to the conquerors in the Crimea, India, and China, is more real than many will allow, We shall, of course, be told that these sentiments are curiously coincident with the success which is said, unfairly, to be the idol of England; but we will bear that, simply remarking that we have nothing to gain by a Northern triumph, whereas we might be commercially benefited by the establishment of the South.</p></div2>
 
-TEE recently-organised territory of Nevada, N ith America, besides containing the beautiful Carson Valley, has been rendered famous b; being the seat of the Washoe alive -mines, the fame of whoeerichee drew, it will be remembered, a year or two ago, swarms of hardy adventurers from even the golden regions of California to the spot. This region, running north and south, lies between the needy para lel ranges of the Sierra Nevada on the Californian aide and the Humboldt range on the side,of Utah. As the most conflicting statements have been made respecting the Waahoe silver-mines, some holding them up to derision and others enduing them with the halo of extravagant expectations, a few graphic sketches of its principal mining-places will not be unwelcome to our readers. Mr. Edward Vischer, who has forwarded to us the accompanyiIllustratlons,with many others, is a merchant, of San Francisco, WIT, rnia, in which State he has lived many years. Practically acquainted with mining pursuits, and not being personally interested in Washoe or in mining operations ci any kind, his views of the silver region in Nevada, herewith given, may be taken as trustworthy :-" The early feverish speculative excitement with regard to the Waahoe region, which as an inheritance of 1859 passed undiminished to its successor, threatening California with a new mania of emigration like that of the memorable Fraser River, has been checked just in time to prevent more serious mischief end the rain of many of our business men. This was but the :disappointment corresponding to silly ex . ti the whole
+<div2 id="iln40.1134.004 n="The Washoe Mining Region" type="article">
+<head>THE WASHOE MINING REGION.</head>
+<dateline rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH</hi> 8, 1862.</dateline>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1134</biblScope> 
+           <biblScope type="pages">p. 262</biblScope> 
+           <date value="1862-03-08">March 8,1862</date>
+         <extent></extent>
+</bibl>
 
-Meast of the Sierra_NevaJab" fand a ready-made new
+<p>T<hi rend="smallcaps">HE</hi> recently-organised territory of
+Nevada, North America, besides containing the beautiful Carson Valley,
+has been rendered famous by being the seat of the Washoe silver
+-mines, the fame of whose riches drew, it will be remembered, a year
+or two ago, swarms of hardy adventurers from even the golden regions
+of California to the spot. This region, running north and south, lies
+between the needy para lel ranges of the Sierra Nevada on the
+Californian side and the Humboldt range on the side of Utah. As the
+most conflicting statements have been made respecting the Washoe
+silver-mines, some holding them up to derision and others enduing them
+with the halo of extravagant expectations, a few graphic sketches of
+its principal mining-places will not be unwelcome to our
+readers. Mr. Edward Vischer, who has forwarded to us the accompanying
+illustrations,with many others is a merchant, of San Francisco,
+California, in which State he has lived many years. Practically
+acquainted with mining pursuits, and not being personally interested
+in Washoe or in mining operations of any kind, his views of the silver
+region in Nevada, herewith given, may be taken as trustworthy :-" The
+early feverish speculative excitement with regard to the Washoe
+region, which as an inheritance of 1859 passed undiminished to its
+successor, threatening California with a new mania of emigration like
+that of the memorable Fraser River, has been checked just in time to
+prevent more serious mischief and the ruin of many of our business
+men. This was but the disappointment corresponding to silly
+exaggeration the whole region east of the Sierra Nevada being fancied  a ready-made new
 
-. without the trouble of even opening a mine. It was, however, suddenly brought to a climax by the outbreak of hostilities with the Indians, which could only be terminated by military aid. 'Thus the new mining region, hitherto decked out with the fanciful radiance of the wildest imagination, was all at once reduced to the reality of mining in a remote wilderness; and it was then discovered that mining for silver, here as anywhere else, requires time and capital for the development of its returns. However, should the mines hitherto opened he the only ones, even precluding the hope of a further exten-
+Potosi without the trouble of even opening a mine. It was, however, suddenly brought to a climax by the outbreak of hostilities with the Indians, which could only be terminated by military aid. Thus the new mining region, hitherto decked out with the fanciful radiance of the wildest imagination, was all at once reduced to the reality of mining in a remote wilderness; and it was then discovered that mining for silver, here as anywhere else, requires time and capital for the development of its returns. However, should the mines hitherto opened be the only ones, even precluding the hope of a further exten-
 
- sion of the promising field for mining, their successful working would be of incalculable benefit for California, which for a long while will have to furnish all the supply of necessaries and, look to the opening of a rear country as the only true lever by which she may ultimately obtain a Pacific railroad. As to the realities of the new silver region, we wonder so little should, be known about them; a quarter of a century will be a more appropriate term, when the millions of Washoe silver feeding the channels of an enlarged Asiatic trade may (by a reversing scale, telling of our advancement), bear a comparison with our lessened gold remittanceavift Panama to Europe." After enumerating the principal leads, the produce of the mines already opened, and the reducing-works established or in course of erection, he alludes to visionary speculation in Waahoe mining works, "This," he continues, "Is the fictitious side of Washoemiziing-the vapoury atmosphere which surrounds the new silver region. Its mirages no longer delude the thinking portion of our community, it is fortunate, indeed, that our public has at so early a stage had a salutary warning by previous disenchantment. In the meanwhile, the energetic spirit of practical enterprise, by a combination of technical and, financial resources, is gradually but steadily developing the colossal wealth of the new silver region, the discovery of which is the fruit of the adventurous turn of our prospectors, who, with almost superhuman exertions, and mostly with little benefit to themselves, have been the hardy pioneers of this new Potosi beyond the Sierra Nevada."
+ sion of the promising field for mining, their successful working
+ would be of incalculable benefit for California, which for a long
+ while will have to furnish all the supply of necessaries and look to
+ the opening of a rear country as the only true lever by which she may
+ ultimately obtain a Pacific railroad. As to the realities of the new
+ silver region, we wonder so little should be known about them; a
+ quarter of a century will be a more appropriate term, when the
+ millions of Washoe silver feeding the channels of an enlarged Asiatic
+ trade may (by a reversing scale, telling of our advancement), bear a
+ comparison with our lessened gold remittances vi&#x00e2; Panama to
+ Europe." After enumerating the principal leads, the produce of the
+ mines already opened, and the reducing-works established or in course
+ of erection, he alludes to visionary speculation in Washoe mining
+ works, "This," he continues, "Is the fictitious side of Washoe mining-the vapoury atmosphere which surrounds the new silver region. Its mirages no longer delude the thinking portion of our community, it is fortunate, indeed, that our public has at so early a stage had a salutary warning by previous disenchantment. In the meanwhile, the energetic spirit of practical enterprise, by a combination of technical and, financial resources, is gradually but steadily developing the colossal wealth of the new silver region, the discovery of which is the fruit of the adventurous turn of our prospectors, who, with almost superhuman exertions, and mostly with little benefit to themselves, have been the hardy pioneers of this new Potosi beyond the Sierra Nevada."</p>
 
-Mr. Viacher has since had the opportunity, by a visit to the Washoe
+<p>Mr. Vischer has since had the opportunity, by a visit to the Washoe
 
 region, in May of last year, for the sake of personal information, to
 
 confirm him in his opinion that the time has not arrived for justly estimating the financial importance of the discoveries in Western Utah, albeit their development, even thus far, has proved a main lever for the progress of California, whence most of the necessities of the new silver region have to be supplied. It has, moreover, established the claim of that region beyond the Sierra Nevada (now known as "Nevada Territory," since its separation from Utah and Mormon influences) to the birth of a new and promising community
 in barren wastes apparently unfit for cultivation and the sub-sistence of & permanent population, the outposts of which, however,
 
-by the progress of prospecting and actual mining enterprise, already extend to the Kumbokit range of mountains, bordering on the Great Basin, with every probability of soon connecting the Washoe region with Salt lake through a continued line of settlements; the telegraph and overland mail stations, with the increasing traffic of Western
+by the progress of prospecting and actual mining enterprise, already extend to the Humboldt range of mountains, bordering on the Great Basin, with every probability of soon connecting the Washoe region with Salt lake through a continued line of settlements; the telegraph and overland mail stations, with the increasing traffic of Western
 
 emigration serving as preparatory links of this phenomenon in the progress of civilisation.
 
-Subsequently, in a quite recent visit to Washoe, the writer witnessed the extraordinary start which has taken plane within the last few months, with many cases of individual success; the gradual development of many a new mining district, and the improved methods introduced, with works on a gigantic scale multiplying the chances for a
+Subsequently, in a quite recent visit to Washoe, the writer witnessed the extraordinary start which has taken place within the last few months, with many cases of individual success; the gradual development of many a new mining district, and the improved methods introduced, with works on a gigantic scale multiplying the chances for a
 yield in precious metals, which cannot fail to assert its weight in the
 
-financial scales of the world.
+financial scales of the world.</p>
 
-But we return to our immediate object, that of giving some particu. lam relating to the Illustrations now presented to our readers,
+<p>But we return to our immediate object, that of giving some particulars  relating to the Illustrations now presented to our readers.</p>
 
-THE ]tGR.&YIN¿8.
+<p rend="center">THE ENGRAVINGS</p>
 
-Deeals Gate, some three miles up the Gulch of Gold Cannon, is remarkable cluster of rocks on each side, forming a natural gateway and appropriate entrance to this demoniac region. To the south of it extending about half a mile down the Gulch, lies Silver City, with a population of some two thousand inhabitants; a place teeming with the activity of the entire traffic from California to Wa
+<p><hi rend="italic">Devil's Gate</hi>, some three miles up the
+Gulch of Gold Cannon, is a remarkable cluster of rocks on each side, forming a natural gateway and appropriate entrance to this demoniac region. To the south of it extending about half a mile down the Gulch, lies Silver City, with a population of some two thousand inhabitants; a place teeming with the activity of the entire traffic from California to Washoe.
 
 Numerous teams are constantly occupied an the transportation of ore
 
 from the mines to the crushing-mills (two of the principal of which
 
-are represented in our Engraving; and the noise of some 500 stamuers
+are represented in our Engraving; and the noise of some 500 stampers
 
 and snorting of steam-engines render it a fit abode for the Cyclops.
 
@@ -5356,21 +5421,648 @@ The summit of the rock, forming the right side of the gate, at the time
 
 of the late Indian troubles, was used as a fortification against the
 
-Pali-Utes.
+Pah-Utes.</p>
 
-Goid-hifl,Mount Davidson,and.tlie Ophir-road.--Foilowingthe ascent of the Cannon for about two and a half miles beyond the Devil's Gate northerly, we arrive at the famous. Gold-hill, the paying-place, par excellence, of the Washoe region, as the produce of its mines, less remarkable for its positive richness than the continuity of a steady average yield of from 50 to 75 dole, to the ton, chiefly in gold of easy extraction, enters into immediate circulation, Its bountiful yield of such ore is practically evinced by the uninterrupted line of heavy teams carrying the precious rock to the mills of Silver City and on Carson River, the works stablished in the vicinity of Gold-hill being insufficient even for the. requirements of the companies which erected and work them for ther own use. The ai1ay of silver, hitherto disregarded, is increasing at a rate which will imply a more oomph. cated process, and retard the result. This hill, perforated by numerous tunnels, with its stir of life, resembles a vast beehive; and the airy scsolding of the schuyts for delivering the rock surround it as with the tracery of some huge spider's web. The entire frontage of Gold. hill proper does not exceed 250 yards, this space being subdivided into numerous claims of from 5ft. to lOft, each, worked by a few men. Individual mining, therefore, is the prevailing feature in this locality' and the consequence is a certain recklessness in pushing into the pay ing ledge as fast as possible, with a frequent. disregard of the safety of support among tunnels in danger of. "caving in."
+<p>
+<figure entity="v40p262b">
+<head>Sketches from the Washoe Silver Region, North America: Devil's
+Gate, and the Crushing Mills at the North End of Silver City</head>
+</figure>
+</p>
 
-Virginia City.-This Illustration (on page 259) represents the first
+<p><hi rend="italic">Gold-hill,Mount Davidson, and the
+Ophir-road.</hi>--Following the ascent of the Cannon for about two and
+a half miles beyond the Devil's Gate northerly, we arrive at the
+famous Gold-hill, the paying-place, par excellence, of the Washoe
+region, as the produce of its mines, less remarkable for its positive
+richness than the continuity of a steady average yield of from 50 to
+75 dols., to the ton, chiefly in gold of easy extraction, enters into
+immediate circulation. Its bountiful yield of such ore is practically
+evinced by the uninterrupted line of heavy teams carrying the precious
+rock to the mills of Silver City and on Carson River, the works
+established in the vicinity of Gold-hill being insufficient even for
+the requirements of the companies which erected and work them for ther
+own use. The alloy of silver, hitherto disregarded, is increasing at a
+rate which will imply a more complicated process, and retard the
+result. This hill, perforated by numerous tunnels, with its stir of
+life, resembles a vast beehive; and the airy scaffolding of the
+schuyts for delivering the rock surround it as with the tracery of
+some huge spider's web. The entire frontage of Gold-hill proper does
+not exceed 250 yards, this space being subdivided into numerous claims
+of from 5ft. to lOft, each, worked by a few men. Individual mining,
+therefore, is the prevailing feature in this locality; and the
+consequence is a certain recklessness in pushing into the pay-ing
+ledge as fast as possible, with a frequent disregard of the safety of
+support among tunnels in danger of "caving in."</p>
 
-glimpse afforded of this emporium of Wsshoe, from the eminence at
+<p>
+<figure entity="v40p262a">
+<head>Sketches from the Washoe Silver Region, America: Gold Hill,
+Mount Davidson, and the Ophir Road."</head>
+</figure>
+</p>
+
+<p><hi rend="italic">Virginia City.</hi>-This Illustration (on page 259) represents the first
+
+glimpse afforded of this emporium of Washoe, from the eminence at
 
 the head of Gold Cannon, beyond Gold-hill, the distance between these
 
-two places being only about one English mile. The plain abounds in detached boulders of rock as fantastic inform as those of Arabia Petrea, the comparison being borne out by the general aspect of the surrounding
-ILLUSTRATIONS OF TEE CIVIL WAR IN AMERICA.
+two places being only about one English mile. The plain abounds in
+detached boulders of rock as fantastic in form as those of Arabia
+Petrea, the comparison being borne out by the general aspect of the
+surrounding.</p>
 
-Otra Special  Artist has sent us, as stated in last week's Number, some
+<p>
+<figure entity="v40p259">
+<head>Sketches from the Washoe Silver Region, North America:Virginia
+City from the South, Mount Davidson, Cedar Hill and Six Miles
+Gutch[sic].--See page 362[sic, 262].</head>
+</figure>
+</p></div2> 
 
-Sketches in connection with General Burnaide's expedition to the coast of North Carolina, two of which are engraved on page 58. He writes respecting them as follows On the first appearance of fine weather I landed on the desolate sands of Hatteras Spit, and started for an island some five miles up, the coast of which was covered with cedars and oaks. Here I made the two Sketches forwarded with this letter. One shows the provisional camp of &&o] tion of the Boraside expedition who have landed temporarily, and e other gives the head-quarters at Camp Winfleld of Geaeral Wiflisms, who commends the troops that have been in occupation of the place since the capture of the forts."
+<div2 id="iln40.1134.005" n="Illustrations of the Civil War in
+      America" type="article">
+<head>ILLUSTRATIONS OF THE CIVIL WAR IN AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1134</biblScope> 
+           <biblScope type="pages">p. 262</biblScope> 
+           <date value="1862-03-08">March 8,1862</date>
+         <extent></extent>
+</bibl>
 
+<p>O<hi rend="smallcaps">UR</hi> Special  Artist has sent us, as stated in last week's Number, some
+
+Sketches in connection with General Burnside's expedition to the coast
+of North Carolina, two of which are engraved on page 258. He writes
+respecting them as follows:-"On the first appearance of fine weather I
+landed on the desolate sands of Hatteras Spit, and started for an
+island some five miles up, the coast of which was covered with cedars
+and oaks. Here I made the two Sketches forwarded with this letter. One
+shows the provisional camp of portion of the Burnside expedition who
+have landed temporarily, and the other gives the head-quarters at Camp
+Winfield of General Williams, who commands the troops that have been in occupation of the place since the capture of the forts."</p>
+
+
+<p>
+<figure entity="v40p258a">
+<head>The Civil War in America: Provisional Camp of a Portion of the
+Burnside Expedition at Hatteras Inlet, North Carolina--From a Sketch
+by our Special Artist</head>
+</figure>
+</p>
+
+<p>
+<figure entity="v40p258b">
+<head>The Civil War in America: Camp Winfield, Hatteras Inlet, North
+Carolina.--From a Sketch by OUr Special Artist.--See page 262.(Full
+Page)</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln40.1135.001" n="Capture of Fort Donnelson"
+      type="article">
+<head>CAPTURE OF FORT DONNELSON.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1135</biblScope> 
+           <biblScope type="pages">p. 263-264</biblScope> 
+           <date value="1862-03-15">March 15,1862</date>
+         <extent></extent>
+</bibl>
+
+<p>The pressure of the immense force organised by the Federal
+
+Government of America begins at length to tell upon the
+
+Southern Confederacy. Several minor successes in the south-west have
+culminated in the capture of Fort Donnelson, with nearly its whole
+garrison, armament, ammunition, and stores. General Floyd, it is true,
+with 5000 men, escaped during the night preceding the surrender,
+otherwise the victory was complete. The Confederates have abandoned
+the important strategical position which they held at Bowling
+Green. Nashville, the seat of the Southern Government, appeared by the last advices received before writing the remarks which follow to be in imminent danger. Possibly, news of its having fallen into the possession of the Northern troops may reach this country before the issue of the present Number of our Journal, and, whenever it does the relation of the Border States to the great struggle between the North and the South will have been virtually determined. Kentucky, Tennessee, and Missouri will have been recovered for
+ the Union. The army which has so long covered Manassas
+
+Gap will be exposed to be taken in the rear and must retire.
+
+General M'Clellan will be able to clear Virginia, and Secession<lb/>
+
+will be shut up in the Gulf States, the Slave States proper, to fight for endurable terms of submission, or to hold out to the last for independence.</p>
+
+<p>From the day when the boom of the first cannon fired in this
+
+war swept over the surface of the Charleston waters, the part to be
+taken in it by the four great Border States was looked for by both
+parties with intense anxiety. In each of them the interests and
+opinions of the population were known to be divided bethveen North and
+South; and probably each, could it have resisted external influence,
+would have preferred to occupy a neutral position, and, by interposing
+between the extreme parties on both sides, to have ultimately effected
+a reconciliation. Secessionists, however, at the outbreak of the civil war, held in their hands in all the States the machinery of government, both legislative and executive, and, by a prompt, energetic, and lawless use of the means at their command, succeeded in tearing them away from the Union, and placing much of their real and more of their apparent strength at the disposal of President Davis. The moral effect of this successful stratagem, especially upon the people and armies of the South, has, no doubt, been prodigious. But it was far easier to suppress for a<lb/>
+
+period all show of sentiment in favour of the Union than to annihilate it. It has already asserted its right to be heard. Invarious places it has snatched up the weapons readiest to its hand, and done battle, in a sort of guerrilla fashion, with the usurpation, that would have crushed it out of existence. Assuming that General Halleck will complete the work he has so successfully commenced, he will liberate from the forced pressure put upon it by the Secessionists the whole amount of loyal sentiment diffused through the Border States, and, from being held in abeyance, it will become dominant. To all present intents and purposes the triumph of his arms will immediately restore Kentucky, Tennessee, and Missouri to the Union, and will thereby render Virginia untenable much longer by the Confederates.</p>
+
+<p>The Southern army, which occupies so strong a position at Manassas,
+and which has hitherto kept General M'Clellan and the army of the
+Potomac at bay, can be safe where it is only so long as it has free
+communication with the country behind it. A command of the railroads
+which traverse that vast area, and by which its supplies and
+reinforcements have hitherto been forwarded, is absolutely essential
+to it. The importance,<pb n="264"/>
+therefore, of holding the several centres where these railroads
+converge on their way to the north-east was seen at an, early period
+of the struggle, and wherever they have been menaced they have been
+guarded by strong bodies of Con-federate troops. It is this
+circumstance which invests the capture of Fort Donnelson with so much
+interest. It constituted: a base for that division of the Southern
+army the main business of which was to keep open the communications which connected the army in Virginia with every part of the seceded States. But, should the expedition which has recently seized Edenton,Elizabeth city, and Hertford gain possession of the line between Charleston and Savannah, and General Halleck, as seems most probable, obtain command over the junctions at Bowling Green and Nashville, President Davis or General Beauregard, or whoever presides over the military force in Virginia, will probably find it necessary, unless he would run the risk of being starved out or hemmed in, to beat a retreat from Manassas, and leave the Northern Generals, including M'Clellsn, to close round the Gulf States, and stamp out, meanwhile, the embers of civil war in the great Border States. Should they effect thus much -before the close of the spring season, they will have done all that can be reasonably expected of them, and the question at -issue between the two parties will be immensely narrowed.</p>
+
+<p>Such a consummation will put the North into a fair position to consider whether an indefinite prolongation of the contest, with a view to subjugate the Slave -States, will be worth the immense suffering and expense which, in the event of their refusing to give up their independence, the attempt to force it from them will inevitably entail. The recovery of the
+
+Border States will enable the Government at Washington to put an end to the war on terms at once honourable and advantageous-terms, moreover, which would relieve it from the responsibility of dealing with the difficult question of slavery. But we fear that this termination of the struggle is not to be hoped for, at least for the present. Possibly, too, it is only our ignorance of the real temper of the South -which permits us to wish for it. It may turn out, after all, that Secession has been -mainly the work of ambitious and disappointed politicians, whose objects, in the hour of misfortune, the majority of the population, even in the Slave States, will decline to further to the ruin of all their material interests and prospects. At any rate, whether the Confederacy shall once more be merged in the Union, or shall succeed in establishing, an independent Republic,one thing seems tolerably clear, and in this we rejoice, that the roots of the slave system will have
+
+been cut up for ever.</p></div2>
+
+<div2 id="iln40.1135.002" n="America." type="article">
+<head>AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1135</biblScope> 
+           <biblScope type="pages">p. 264</biblScope> 
+           <date value="1862-03-15">March 15,1862</date>
+         <extent></extent>
+</bibl>
+
+<p>By the arrival of the Canard steamer Asia we have news from New
+
+York to the afternoon of the 26th ult. The movements of the Federal,
+
+forces on the Cumberland River continue to form the most important
+
+feature of the week's news.</p>
+
+<p rend="center">THE OCCUPATION OF NASHVILLE</p>
+
+<p>Clarksville was occupied on the 20th by the Federal forces. Two-thirds of the inhabitants fled. Commodore Foote issued a proclamation assuring all peaceably-disposed persons that they might resume their usual occupations, provided that they gave up all military stores and equipments in their possession.</p>
+
+<p>Pushing forward, the Federal troops on the 24th occupied Nashville,
+
+the capital of Tennessee and one of the most important manufacturing
+
+cities of the Confederate States. General Bueell entered the city
+with-out resistance at the head of 10,000 troops and hoisted the stars
+and stripes over the State House. The Confederates, under General
+Beauregard, had retired to Murfreesboro', an inland place about thirty miles south of Nashville, where the Federals will not have the advantage of their gun-boats. The Tennessee Legislature had adjourned to Memphis.</p>
+
+<p rend="center">LOSSES AT FORT DONNELSON.</p>
+
+<p>The official returns show 321 killed, 1050 wounded, and 150 missing
+
+on the Federal side. The prisoners taken by them number, not 15,000, but 3,300. They have been taken to Chicago and St. Louis.</p>
+
+<p rend="center">OPERATIONS IN KENTUCKY AND ARKANSAS.</p>
+
+<p>In Eastern Kentucky the Federals have occupied Cumberland Gap.
+
+In Arkansas General Price was defeated at Sugar Creek, and fled,
+
+leaving many prisoners and arms in the hands of the victors. General
+Halleck has issued an order forbidding the stealing or concealing'
+fugitive slaves, assigning as a reason the urgent necessity of proving
+to the Southern people that the Federals are fighting for the constitution and the Union, and not for emancipation.</p>
+
+<p rend="center">OPERATIONS ON THE SEACOAST.</p>
+
+<p>Burnside's expedition has burnt Winton, on the Chowau River. No
+landing was effected, on account of the presence of a large Confederate force.</p>
+
+<p rend="center">THE CONFEDERATE STATES.</p>
+
+<p>The Confederate Congress assembled at Richmond on the 18th ult.
+
+On the following day the electoral votes of the eleven States which
+
+voted for President and Vice-President were counted. The total number
+
+was 109, and they were all given for Mr. Davis as President and Mr.
+
+Stephens as Vice-President. The inauguration ceremonies took place,
+
+at Richmond on the 22nd ult., Washington's birthday. Mr. Davisthen
+delivered his inaugural address. He complains of" the malignity and
+barbarity of the Northern States in the prosecution of the existing
+war." While, he says, every guarantee of personal freedom has been
+swept away in the North, in the Confederate States no act has been
+done to impair personal liberty or the freedom of speech, of thought,
+or of the press. He acknowledges that the "tide for the moment is
+against us, but the final result in our favour is not doubtful." He
+thinks the North "must sink under the immense load of debt which they
+have<pb n="265"/>
+incurred." Alter lauding the noble spirit of patriotism which animates
+men, women, and children in the South, he predicts the sacrifices it
+imposes will be an enduring bond, of harmony among the people. The
+blockade is making them a self-supporting people.
+
+"After a series of successes and victories which covered our arms with glory, we have recently met with serious disasters. But in the heart of a people resolved to be free these disasters tend but to stimulate to increased resistance." He concludes with a solemn invocation of the Deity.</p>
+
+<p>Mr. Davis had appointed the 28th ult, as a day of fasting, humilia
+
+tion, and prayer throughout the Confederate States.</p>
+
+<p rend="center">WASHINGTON.</p>
+
+<p>The youngest son of the President, aged eleven years, has died at
+
+the White House.</p>
+
+<p>The President has signed the Treasury Note Bill. In its final shape it provided for the payment in coin of the interest on the public debt, and as security therefore stipulated that the customs duties should be payable in specie only.</p>
+
+<p>The President has taken military possession of all the telegraph
+
+lines, and military supervisors of messages have been appointed.</p>
+
+<p>The Senate, by a vote of 29 to 9, has thrown out the State Department's project of a treaty for guaranteeing the payment of the Mexican debt for five years. General Scott's name was submitted as Commissioner to Mexico to procure the ratification of this now defeated project of a treaty.</p>
+
+<p rend="center">MISCELLANOUS</p>
+
+<p>Washington's birthday (Feb. 22) was celebrated with more than
+
+ordinary enthusiasm throughout the Free States. Mr. Forney read Washington's farewell address in the great hail of the House of Representatives. In New York the historian Bancroft was the orator of the day.</p>
+
+<p>The British screw-steamer Stella had been chartered to convey American contributions to the International Exhibition.</p>
+
+<p>The journals comment favourably on the speeches made at the open
+
+ing of Parliament, but the Mexican expedition is more freely and
+
+generally denounced than before, especially that part of it which includes the elevation of a European Prince to the throne of Mexico.</p>
+
+<p>The barque Ariel had been captured off Providence on suspicion of
+
+being intended for the slave trade.</p></div2>
+
+
+<p>The condemned slave captain, Gordon, suffered the extreme penalty
+of the law in New York on the 21st ult. The wretched man took
+strychnine the night previous, but by copious draughts of whisky he
+was kept alive until the hour of execution. The New York journals give
+highly-coloured accounts of the scene. Gordon was the first person
+ever hanged in the United Slates for participation in the slave
+trade.</p>
+
+<div2 id="iln40.1135.003" n="The City of Baltimore" type="article">
+<head>The City of Baltimore</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1135</biblScope> 
+           <biblScope type="pages">p. 265</biblScope> 
+           <date value="1862-03-15">March 15,1862</date>
+         <extent></extent>
+</bibl>
+
+<p>The City of Baltimore, after a voyage of twenty-one days
+
+from New York, reached, the Mersey last Saturday. She had been
+retarded on the voyage by her screw-propeller having come in contact
+with ice.</p></div2>
+<div2 id="iln40.1135.004" n="The Annie Childs" type="article">
+<head>The Annie Childs</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1135</biblScope> 
+           <biblScope type="pages">p. 265</biblScope> 
+           <date value="1862-03-15">March 15,1862</date>
+         <extent></extent>
+</bibl>
+
+
+
+<p>The Annie Childs, Confederate steamer, which ran the blockade
+
+ at Charleston, and arrived at Liverpool on Tuesday, brings a cargo of 684
+
+- bales of upland cotton, 878 barrels of resin, and 225 cases of
+tobacco. </p></div2>
+
+<div2 id="iln40.1135.005" n="The Illustrated London News"
+      type="article">
+<head>THE ILLUSTRATED LONDON NEWS.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1135</biblScope> 
+           <biblScope type="pages">p. 268</biblScope> 
+           <date value="1862-03-15">March 15,1862</date>
+         <extent></extent>
+</bibl>
+
+<p>President Lincoln is suffering under a domestic affliction. The
+foot of Death strikes impartially at the door of the ancient castle
+and of the republican mansion. Mr. Lincoln's child, "Willie," a boy of
+eleven, has died; and so widespread has been the sympathy for the
+bereaved father that illuminations for the victory in Tennessee had
+been abandoned.</p></div2>
+
+<div2 id="iln40.1135.006" n="Imperial Parliament" type="article">
+<head><hi rend="italic">IMPERIAL PARLIAMENT</hi></head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1135</biblScope> 
+           <biblScope type="pages">p. 272</biblScope> 
+           <date value="1862-03-15">March 15,1862</date>
+         <extent></extent>
+</bibl>
+<p rend="center">HOUSE OF LORDS.--M<hi rend="smallcaps">ONDAY</hi></p>
+
+<p>T<hi rend="smallcaps">HE AMERICAN BLOCKADE</hi>.-Lord S<hi
+rend="smallcaps">TRATHEDEN</hi> raised a discussion on 
+
+the blockade of the Confederate States of America, and, was supported in his
+
+ views of sympathy with the South by Lord A<hi
+ rend="smallcaps">BINGER</hi>.-Lord R<hi rend="smallcaps">USSELL</hi> replied in defence of the policy of the Government, repeating the arguments
+
+with
+
+which Sir Roundell Palmer- combated the position taken up by Mr. Gregory
+
+in the House of Commons on Friday night. The Government of France, he
+
+said, had made no representation to her Majesty's Ministers with respect
+
+the alleged inefficiency of the blockade, and he announced it was the
+firm determination of the English Government to maintain the strictest
+neutrality between the two contending sections of the
+Republic.</p></div2>
+
+<div2 id=iln40.1136.001" n="America" type="article">
+<head>AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1136</biblScope> 
+           <biblScope type="pages">p. 280</biblScope> 
+           <date value="1862-03-22">March 22,1862</date>
+         <extent></extent>
+</bibl>
+<p rend="center"> BELLIGERENT OPERATIONS BY SEA AND  LAND</p>
+
+<p> The Montreal Company's steamer Hibernian brings news to
+
+the 8th instant. The Government allows hardly any news of the movements of the army and navy to transpire for publication. Columbus, the last point held in Kentucky by the Confederates, has been abandoned. The Confederates carried away their stores and artillery, and burnt their barracks, but spared the town, it was immediately afterwards occupied by the Federals.
+
+In Tennessee the Federals have advanced to Murfreesboro', from,
+
+which the Confederates, under General Sidney Johnson, retreated to
+
+Decatur, a town on the Tennessee River, in Northern Alabama, the report that the Confederates were surrounded at Murfreesboro' by General Buell being unfounded. It is admitted that the people of Nashville show no sympathy for the Union troops, and studiously avoid all intercourse with them. The Mayor had issued a proclamation assuring the citizens that General Buell was desirous that industry should resume its course, and urging the country people to bring in their supplies to the Federal troops, who would remunerate them for the same. The Federal malls now run to Nashville. Andrew Johnson, the loyal senator from East Tennessee, has been appointed by the President Provisional Governor of the State. He will repair to Nashville to organise a loyal State Government there.</p>
+
+<p>The Confederates, on evacuating Mudtown, in Arkansas, poisoned
+
+the provisions they were obliged to abandon. On entering the village
+
+the hungry Federals ate of the same, and died to the number of forty-two officers and men.</p>
+
+<p>General Banks's division on the Upper Potomac had crossed that, river without resistance, and the main body of the Federals had moved forward, but a heavy fall of snow has put a stop to any further advance for the present.</p>
+
+ <p>In Western Virginia General Lander had breathed his last. He died from overexertion and the effects of 'a wound in the leg received a
+
+Edward's Ferry. General Shields has been appointed his successor.</p>
+
+<p>The expeditions on the coast line are heard of at two
+points. General Burnside is threatening the town of Suffolk, in the
+south-east corner of Virginia. The troops of the Port Royal expedition
+were within seven miles of Savannah, where they are confronted by a force of Confederates. An obstruction of timber-rafts has been placed across the river to keep the Union gun-boats at bay.</p>
+
+<p>From the blockading squadrons we have to report several items. A
+
+British steamer, Labuan, has been taken in Mexican waters, under
+circumstances likely to give rise to diplomatic correspondence. The
+Labuan has been taken into New York, while her captain is on his way
+to Washington to lay the case before Lord Lyons. The steamer was
+loading with cotton at Metamoras, a Mexican port, and the charge made is that she was engaged in trade with the Texan port on the
+
+opposite side of the Rio Grande.</p>
+
+<p>The Federal steamer South Carolina captured the Confederate
+
+steamer Magnolia while attempting to run out of Mobile with a cargo of 400 bales of cotton. The engineer attempted to blow her up, but only succeeded in killing himself.</p>
+
+<p>The steamer Nashville, after coaling at the Bermudas, has arrived
+
+safely at Wilmington, North Carolina. She approached the blockading vessel with the Union flag flying. After passing her she raised the Confederate flag and moved towards Fort Macon. The blockading vessel having discovered the deception gave chase, following her within range of the guns of the fort, but did her no damage.</p>
+
+<p rend="center">THE CONFEDERATE STATES.</p>
+
+<p>Mr. Davis has sent another message to Congress. He admits that
+
+"the Government had attempted more than it had power successfully to achieve." The effort to protect the whole territory of the Confederacy, seaboard and inland, had brought on them serious disasters. After reciting the difficulties of procuring the means of defence under which the Government laboured, and the absence of a navy, he speaks of the surrender of Roanoke Island as "deeply humiliating." Of the capitulation at Fort Donnelson he says he is "not only unwilling but unable to believe that a large army of our people have surrendered without a desperate effort to cut its way through the investing forces whatever may have been their numbers." He thinks that bitter disappointments will nerve the people to still greater exertions. He blames the policy of enlistments for short terms, and says that the quotes called for from the different States will soon be ready. The numbers in the field are 400 regiments of infantry, with proportionate cavalry and artillery. The total expenditure of the Government for the year has been only 175,000,000 dols., less than one-third of the expenditure of the enemy.</p>
+
+<p>Congress has passed a resolution recommending the military commanders to destroy all tobacco and cotton, to prevent its falling into
+
+the enemy's hands; and another, by a unanimous vote, that the existing war be prosecuted until the enemy shall be expelled from every foot of soil within each of the Confederate States, and that no proposition of peace contemplating any other result be listened to.</p>
+
+<p>Richmond nas been put under martial law by President Davis, and
+
+a society of Union men, consisting chiefly of Germans, has been arrested. Gold is at 40 to 50 per cent premium.</p>
+
+<p>The Governor of Georgia has called for 18,000 troops by the 4th of March. If not raised by that time, draughting would follow.</p>
+
+<p rend="center">WASHINGTON.</p>
+
+<p>Mr. Lincoln has sent a message to Congress recommending that body to pass a joint resolution offering to purchase the freedom of the slaves in any State willing to emancipate on these conditions. The message does not propose any forcible interference with any Slave State, and the President thinks that only the border Slave States are likely to entertain the subject; but he thinks that if these States were detached from the other Slave States the rebellion would be at an end, as it is only buoyed up by the hope of erecting a great empire consisting of all the now Slave States. The message concludes with a vague threat :"If resistance continues, war must continue, and it is impossible to foresee all the incidents which may follow it. Such means as may seem indispensable or may obviously promise great efficiency towards ending the struggle must and will come."</p>
+
+<p>In the House of Representatives, on the 3rd inst. the Chairman of
+the Committee of Ways and Means produced the long-expected tax
+
+bill. Its promoters estimate that it will produce 100,000,000 dols. It
+includes duties on spirituous and malt liquors, tobacco and cigars,
+oils, gas, paper, advertisements, soap, salt, ginger, pepper, and
+leather. Flour is taxed ten cents the barrel. Railroad, steam-boat,
+omnibus, and horse-railroad passengers are threatened with a
+mulct. Carriages, watches, gold and silver plate; and billiard-tables
+are included in another series of clauses. Slaughtered cattle, hogs,
+and sheep constitute another category. Then follow<orig reg="license">
+licence</orig> taxes for a large number of trades and occupations,
+from a banker taxed 100 dols. to a photographer taxed 10 dols. per
+annum. The income tax of 3 per cent is extended to all incomes over
+600 dols. The dividends of railroad and bank stock are taxed 3 per
+cent, so are Government salaries. A legacy duty on the personal
+property of deceased persons of from 1 to 5 per cent is to be levied,
+and the bill winds up with stamp duties on all kinds of legal and
+commercial papers, all patent medicines, telegraph messages, and goods
+by express. In other respects the proceedings of Congress have been
+unimportant.</p><pb n="281"/>
+
+<p>Mr. Seward has discontinued the passport system which he created a
+
+few months ago. He has also written a letter to a club of his admirers in Philadelphia declaring that he will not be a candidate at the next Presidential election.</p>
+
+<p>The house of M. Mercier, the French Ambaasador, was burnt to the
+ground on the night of the 5th inst., and all the papers of the embassy destroyed.</p>
+
+<p rend="center">NEW YORK.</p>
+
+<p>The chamber of Commerce of this city has passed resolutions complimenting Mr. Bright for his friendly attitude towards the United States.</p>
+
+<p>The British steamer Stella left New York on the 25th ult., with the
+
+chief part of the American contributions to the World's Fair. These
+
+were about 500 parcels? weighing in the aggregate neatly 150 tons, and comprising a great variety of ingenious and useful inventions.</p>
+
+<p rend="center">OBITUARY.</p>
+
+<p>Professor Felton, President of Harvard University died on the 26th
+
+ult., at Chester, Pennsylvania. He was in his fifty-fth year, and was
+
+generally esteemed the fist Greek scholar in the United
+States.</p></div2>
+
+<div2 id="iln40.1136.002" n="The Illustrated London News."
+      type="article">
+<head>THE ILLUSTRATED LONDON NEWS</head>
+
+
+<dateline rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH</hi> 22, 1862</dateline>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1136</biblScope> 
+           <biblScope type="pages">p. 284</biblScope> 
+           <date value="1862-03-22">March 22,1862</date>
+         <extent></extent>
+</bibl>
+<p>THE important news has been received that President Lincoln, in his
+Message to Congress, has proposed to build "a golden bridge for a
+flying enemy." He recommends tht the North should offer to co-operate
+with the Slave States for the gradual emancipation of the slaves by
+pecuniary compensation, leaving it to each State, however, to retain
+the system of slavery or not, as it may please. The President's effort
+is directed to secure the Border States, which he thinks may choose to
+go with the South in the event of the independence of the latter being
+recognised. The proposal seems significant, as it would imply that the
+President, though at present refusing to see anything but a rebellion
+which the sword is to put down, may not have been able to resist the
+conviction that certain portions of what was the Union will never be
+recovered to it. He would, therefore, do the best he can towards
+consolidating the rest. It is premature to pronounce upon the wisdom
+of promulgating this plan, because such wisdom, or its absence, can
+only be inferred from the effect of the announcement upon the popular
+mind; but in one sense it may be permitted to Englishmen to applaud
+it, inasmuch as it is another blow at the system of slavery. It is
+something to have that system thus pointed out by the Chief Magistrate
+of the Northern States as the<hi rend="italic"> teterrima causa</hi>
+of revolt and anarchy. We hear of no response from the South; but by a
+very narrow majority, 77 to 71, the Southern House of Representatives
+recommend the military commanders to destroy all tobacco and cotton
+rather than let either fall into the enemy's hands. The<hi
+rend="italic"> Herald</hi>, the hired organ of the slaveowners, and
+only Federalist under dread of long rope and short shrift, rather
+approve the President's proposal, but cannot have had time to receive
+final orders, The<hi rend="italic">Tribune</hi> strongly approves it. We have no war news, save that the surrender of Nashville and of Columbus is certain, and that the genius of M'Clellan is again being acknowledged by his patient and sapient critics, who now see the two wings of the eagle flapping over the prey that awaits the blow of the beak-Anglic&#x00e9;, the advance of the central army. It is stated that Mr. Seward intends to announce the intention of the North to resist the establishment of a monarchy in Mexico.</p></div2>
+
+<div2 id="iln40.1136.003" n="House of Commons--Monday."
+      type="article">
+<head>HOUSE OF COMMONS.-MONDAY.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1136</biblScope> 
+           <biblScope type="pages">p. 288</biblScope> 
+           <date value="1862-03-22">March 22,1862</date>
+         <extent></extent>
+</bibl>
+<p>M<hi rend="smallcaps">OROCCO AND THE FEDERAL GOVERNMENT OF
+AMERICA</hi>.-In answer to Mr. Griffith, Mr. L<hi rend="smallcaps">AYARD</hi> said that two officers of the Confederate vessel Sumter, having landed at Tangier, were arrested by the American Consul, and heavily ironed and imprisoned. The Captain of the Sumter wrote to the English Consul, asking him to deliver a letter to the Moorish authorities, and to interfere in the matter, which latter our Consul declined. A Federal ship of war arrived at Tangier, and, having landed an armed force, demanded the prisoners. The Moorish authorities resisted on the ground that by existing treaties between Morocco and the United States they were not bound to deliver up political prisoners, but the Federal Consul threatened to strike his flag, and to declare war against Morocco. He (Mr. Layard) had stated on a former occasion that the prisoners had been released, but that proved not to be the case. They had been transferred from the Federal ship of war to a merchant ship at sea, and transmitted to America.</p></div2>
+
+<div2 id="iln40.1136.004" n="A Negro named Micajah Phillips"
+      type="article">
+<head>A Negro Named Micajah Phillips</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1136</biblScope> 
+           <biblScope type="pages">p. 289</biblScope> 
+           <date value="1862-03-22">March 22,1862</date>
+         <extent></extent>
+</bibl>
+
+<p>A negro named Micajah Phillips has just died in Ohio, United
+
+States, aged 125 years.</p>
+
+<p>A bill is before the American Congress for the establishment of
+
+an agricultural department to be placed under a commissioner appointed
+by the President.</p></div2>
+THE FEDERAL VICTORY AT ROANOE ISLAND.
+
+(From our Special Ards and Correspondent.)
+
+WAaEUmTON, Feb. 28.
+
+LT last the tide of fortune has turned in favour of the North, and the sue
+
+era attending the formidable preparations of the past six months is now ecompensing the Federalists for the enormous expenditure winch has suighed heavily upon them. In former letters I have had occasion to iotice the' mprovement in the discipline of the Union Army, which has been gradually progressingowards a state of efficiency nuclei the
+
+guidance and supervision ci the new Commander-in-Chief. To brigade
+
+regiments, form divisions, and appoint divisional generals, were among
+
+the first tasks which WCleUan set himself to accomplish; and, having succeeded in these, he published a series of general orders for the better regulation and conduct of military matters, and providing for a more thorough and perfect state of discipline through every branch of the service. The consequence is, that during all these apparently idle months the soldier's taskmaster, the drill-sereai, has been abroad, and now as the time approaches for action ille .nederal Government finds it has an army to rely on for support or 'vindication, astounding in its numbers as the growth of only nine months, and wondsrf ufly efficient considering the shortperiod it has been in the field. The combinations
+
+of the General-in-Chief are now being seen and understood, and those
+
+who have arraigned him in judgment before the court of their displeasure we now compelled to acknowledge their error, confuted by the successes that ha'veinaugtirated the firalpart of anew campaign. The 'victories in North Oar‡lina, Kentucky, and Tennessee, have dealt a staggering blow at secession; while the Federal troops, hitherto depressed by their early discomfitures, are now elated and confident, placing implicit reliance in their General, and being eager to carry the flag of the Union into t.heheartof Secessia. I am no "Sir Oracle," so l will not attempt to prophesy a triumph for the Federalists; but, seeing the improved condition in the morale of the Union forces, and feeling somewhat competent to give an opinion, I am inclined to believe that these first successes are not to be their last. I have watched the iothern army almost from its first appearance in the field. I have seen it a strijding, and known it in its bobedeyhoyhood the prey of bullying politicians, who by their pernicious counsels are responsible fo its ea.rliest defeats. mow see it arrived at man's estate, and it should or ought to achieve for itself an hononrable futm'v.
+
+ My last letter was dated from Panilico Sound, North Carolina, on
+
+the eve of the departure of the ezpedLitition to which I was attached
+
+to attack oanoke Island. The rumours of an impending advance of the army of the Potomac and the distant sounds of victory from the west reached us even there, and I determined immediately Roanoke was taken, to hasten back to head-quarters, ready to witness what must be the most decisive and important movement of the campaign-the attack on the Confederate centre at Manassas. And here 1 am, after a delay of some days, caused by the prevalence of fearful storms on the coast, heartily sick of combined naval and military expeditions, and thoroughly determined to have nothing more to do with them, rimless I can first of all make a satisfactory arrangement with the clerk of the weather.
+
+The telegraphic accounts of the success of General Burnside reached
+
+New York, and thence were dispatched to England long before I could send you sketches in connection with the capture of Roanoke, so I will not attempt to give any elaborate details, and will simply confine myself to a brief description of the incidents which form the subjects illustrated by my pencil.
+
+On the morning of the 7th the fleet of transports and gun-boats which had lain off the entrance of Crotan Sound during the previous night weighed anchor, the latter forming into line of battle in three divisions. The entrance into Crotan Sound is by a narrow channel scarcely more then one hundred feet in width, the navigation of which is exceedingly difficult, as a sandbar lies immediately o the mouth. However, the entire fleet, with one exception, were safely through by 10 am., and at half-past the first gun was fired from the Confederate battery, evidently as a signal of some kind or other. The mainland of North Carolina lay on our left, and this we had to hug closely for two miles or so, the deep water running there. Every moment I expected to see a puff of white smoke followed by a whiz come from among the tall brakes on the bank, but for some reason or other the Confederates had neglected placing a battery here, which appears to me the more astonishing from the fact that at any time during this two miles I could have almost thrown a biscuit on shore. After the above distance the channel made a curve to the right towards Roanoke, passing under the guns of the first fort and continuing along the sands to the extreme point of the island, with two other forts commanding it at equal distances from the first, they being so arranged that's, cross fire could be brought to bear on vessels attempting to force their way through. Between the first and second 'forts lay the Confederate steamers, seven in number, and the action was commenced at long range between them and the Federal gun-boats as the latter advanced steadily in line to the attack. At half-past eleven Fort Bsrtow chimed in as the Federal squadron came within its range, and it was now that the Spalding, on board which ship I was, with the General and his Staff, opened fire from her rifled Parrott. In a few minutes the plan of the action was somewhat changed, the Confederate steamers retiring behind some obstructions placed in the channel, and moving up towards the entrance to Afoemarle Sound, evidently with the purpose of drawing a portion of the Union vessels through the narrow opening left, and immediately under the guns of the second fort. Thin was seen and understood by
+
+ mm.'.,l.,, ,. ,.4,, i 1'  ,1.' X 1.4. k. , ..
+
+battery, the latter getting up two of his regiments first, the 9th 'New
+
+York or Hawkins's Zouavea and the 21st Massachusetts. General
+
+Park e,  he reached the flank of the breastwork, ordered the
+
+above two regicoentB to charge, which they did in the most brilliant
+
+manner, dashing through the swamp and over the stumps of the
+
+pine-clearing, and into the battery which the Confederates were lisatily leaving. One officer alone, Lieutenant Selden, of the Richmond Blues, remained to dispute its possession. In my sketch (engraved on page 298) be is seen filling back from the parapet, dying as a gallant soldier should, with his face to the enemy. All could see him to the very last proud and erect, waving his sword and encouraging the men to stand. But his example was lost upon them, their panic was complete and Lieutenant Selden, whose gallantry had been unavailing, 'I saw laiI carefully in a sheltered spot ten minutes after he fell. The Confederates now retreated to the upper portion of the island, hastily pursued by Reno, who had with him but a small portion of his force. Foster also passed on with his men towards the rear of the water battery that had engaged the gun-boats throughout the previous dy, and, coming upon an intersecting path that led to it, he ordered the 4th Rhode Islanders to advance at the double and take it, which they proceeded to do with a deafening cheer. On rushing into the works they found, to their astonishment, the place deserted and guns spiked. The garrison, hearing of the defeat of their force in the centre of the island, and foreseeing an attack in the rear, had evacuated the place and retired in the sane direction as their beaten comrades. At Camp Georgia the entire Confederate force that had not succeeded in making its escape by way of Nag's Head was come up with by Genoral Reno, and, after firing a few shots, they surrendered in a mass, numbering nearly 3000 all told, 1500 having got across iloanoke and retired to Currituck with old General Wise, whose son was killed in the engagement at the fieldwork. Thus was Roanoke Island captured by the Federalists, their success giving them the command of all the inland water8of North Carolina, and a capital basis for operations on the mainland, which will he commenced immediately. The entire loss of the Unionists does not exceed 260 killed and wounded, though had the Confederates shown anything like a fight at their fieldwork the number might have been quadrupled. lam inclined to think that the latter, with 4r500 men and their strong natural positions, should have held at bay the Federal force brought against them - but more" kudos," therefore, is to be allowed the 'victors.
+
+ With regard to the sentiment of the people on the island, it appears
+
+tome to be quite as much one wayasthe other. I thick ali they want is to be let alone by both parties. The following were more especially the sentiments of a Mr. .Tarvis, farmer and fisherman, whose house had been taken possession of by the Zonaves: be was a perfectly bewildered individual. His family was in one of the negro shanties, and he was outside, mourning over the events of the day. Re bad "nothing agin the North," and had sold a great many shad, to go there. But the troops had killed one of his pigs, and his wife had lost her temper and her fiat irons. "Do you own any negroes, Mr. Jarvis ?" queried I, "Well, I did, but three of 'em went to Hatteras last week, two more have run away, I don't know where, and there's one in the kitchen I'll give away if anybody wants him 1" It was a clear case of unmistakable collapse. He was assured by one of the Staff who was present, that his remaining property should be protected, and that all deficiencies should be made good. if he was loyal.
+
+I shall now send you some interesting subjects of the difficulties of transport, and the cause of the delay in the advance of the army of the Potomac, owing, as it is, entirely to the dreadful state of the Virginia roads. The first sign of dry weather will be hailed with delight by the men, who know they are to move from the camps where
+
+they have passed six months of monotonous existence. F. V.
+On the morning of the 7th the fleet of transports and gun-boats which had lain off the entrance of (Jrotan Sound dining the previous night weighed anchor, the latter forming into line of battle an three divisions. The entrance into Crotan Sound is by a narrow channel scarcely more than one hundred feet in widths the navigation of which is exceedingly difficult, as a sandbar lies immediately off the mouth. However, the entire fleet, with one exception, were safely through by 10 a.m., and at half-past the first gun was fired from the Confederate battery, evidently as a signal of some kind or other. The mainland of North Carolina lay on our left, and this we had to hug closely for two miles pr so, the deep water running there. Every moment I expected to see a puff of white smoke followed by a whiz come from among the tall brakes on the bank, but for some reason or other the Confederates had neglected placing a battery here, which appears to me the more astonishing from the fact that at any time during this two miles I could have almost thrown a biscuit on shore. After the above distance the channel made a curve to the right towards Itoancke, passing under the guns of the first fort and continuing along the sands to the extreme point of the island, with two other forte commanding it at equal distances from the first, they being so arranged that a cross firs could be brought to bear on vessels attempting to force their way through. Between the first and second forts lay the Confederate steamers, seven in number, and the action was commenced at long range between them and the Federal gnu-boats as the latter advanced steadily in line to the attack. At half-past eleven Fort Bartow chimed in as the Federal squadron came within its range, and it was now that the Spalding, on board which ship I was, with the General and his Staff, opened fire from her rifled Perrott. In a few minutes the plan of the action was somewhat changed, the Confederate steamers retiring behind some obstructions placed in the channel, and moving up towards the entrance to Albeanarle Sound, evidently with the purpose of drawing a portion of the Union vessels through the narrow opening left, and immediately under the guns of the second fort. This was seen and understood by Commodore Gouldaborough, who detached half a dozen of his boats to block their passage back again, and to engage them as nearly as the obstructions in the channel would admit. This is the period of the action I have chosen for one of my Sketches (engraved on the preceding page). About two p.m. the Confederate fleet retired out of range, the largest vessel, the Curlew, being so damaged that they had to run her ashore under the shelter of a battery near the upper point of the main land to prevent her sinking. She was afterwards burnt by her crew, and the battery blown up to prevent it falling into the hands of the Federalists. At S p.m. the troops commenced landing, protected by the guns of the Picket and Delaware, who shelled from amongst the pines the force that had been drawn up to oppose the debarkation. At six the thing ceased between the Federal gun-boats and Fort Bartow, and by midnight upwards of 9000 men had been safely put on shore without accident.
+
+ The difficulties the troops had to contend against in landing were great, the place chosen being a perfect swamp, which extended inland a distance of a quarter of a mile, and in which the men sank to their knees and waists, To make matters more uncomfortable, a thin cold rain fell throughout the night, the soldiers having no other shelter than what they stood in, and many of them were completely benumbed by daylight. Nothing disturbed the stillness of the dark hours save one solitary report of a gun whichhersldefl thedeath of alllassathusetta soldier who was thrown out in the forest as a picket: this was the only collision that occurred during the night. There was something F aliarlyinipressivein the gloom of the darkpine woods with the know
+
+9ge that perbspa within a dozen yards lurked the enemy, and that
+
+at any moment the watcher might be sent to his lest account.
+
+Day broke cold, damp, and miserable; and, after a drink of water and
+
+a biscuit each men, the Federal force prepared to advance into the inte
+
+rior, following a path which led to the main artery running through the island. About ten the first collision took place between the opposing forces, at the point where the pathway alluded to above intersects the main road. Foster's brigade was the first to move forward, and he deployed his men to the right of the road in the woods, engaging the enemy's skirmishers as be felt his way step by step through thebrenat-high swamp. I followed this force. General Eeuo. then occupied the road with his brigade, forming the centre, while General Parke forced an opening through the roads and swamps on the left contending against the same difficulties that Foster and his men were encountering on the right. General Burnside directed the whole of the movements. From the cross road to the clearing in which the Confederates had three guns in a fieldwork, there was a continuous rattle of musketry, the fire from the concealed Secessionist skirmishers cutting up the Union men severely; in fact, even I, who you maybe sure kept in pretty setfe place, heard the bullets humming round as though a beehive had been overturned in the neigh. bournood. At midday the clearing was reached by the head of Benc's column, and its appearance was saluted by roundahot and grape from the fieldwork already mentioned. Daring this time Foster and Parke were each pushing on through immense obstacles to outflank the
+
+Miss Jane G, Swisshelm, formerly editrese of a Pittsburgh
+
+paper, recently appeared before the liuneeota State Senate and presented a bill on the subject of woman's rights for the consideration of that body. She afterwards addressed the Senate and was listened to with marked attention
 
