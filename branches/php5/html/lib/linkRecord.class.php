@@ -145,8 +145,8 @@ class linkRecord {
        $val = $this->tamino->xml->getElementsByTagName("contributor");
        if ($val) { $this->contributor = $val->item(0)->textContent; }
        $val = $this->tamino->xml->getElementsByTagName("subject");
-       for ($i = 0; $val->item($i); $i++) {
- 	    array_push($this->subject, $val->item($i));
+       for ($i = 0; $i < $val->length; $i++) {
+ 	    array_push($this->subject, $val->item($i)->textContent);
        }
      }
 	// get any editing information
@@ -208,7 +208,7 @@ class linkRecord {
       $this->generateId();
     }
     /* 
-    print "DEBGU taminoAdd: xquery  is " . $this->xquery('add') . "<br>";
+    print "DEBUG taminoAdd: xquery  is " . $this->xquery('add') . "<br>";
     */
 
     $rval = $this->tamino->xquery($this->xquery('add'));
