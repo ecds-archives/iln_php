@@ -1,6 +1,6 @@
 <project name="Illustrated London News Data Preparation" default="all" basedir=".">
 
-<target name="all" depends="unicode-entities,xml-parse,tamino-data-loader" description="* Do everything"/>
+<target name="all" depends="unicode-entities,add-extent,figure,xml-parse,tamino-data-loader" description="* Do everything"/>
 
 
 <!-- not called by anything else... optional -->
@@ -16,6 +16,8 @@ directories created by build script" >
   'ant [target]'      run only the specified task
 To specify an input file other than the default, run as 
   ant  -Dinputfile filename [target]
+To specify an ILN volume other than the default, run
+  ant -Dvol ##
 </echo>
 <!-- insert more instructions here -->
 </target>
@@ -23,15 +25,26 @@ To specify an input file other than the default, run as
 
 <target name="init">
 <!--      <splash/> -->
+
     <echo message="Defining parameters."/>
+    <echo message="**********************************************"/>
     <!-- Set a default input file; this should be specified when ant
 	 is called -->
     <property name="inputfile" value="${basedir}/../xml/ilnv39.xml"/>
+    <property name="vol" value="39"/>
+    <echo>Input file is ${inputfile}
+ILN volume is ${vol}</echo>
+     
+   <!-- actual input filename (without path) -->
+    <basename property="_inputfile" file="${inputfile}"/>
 
     <property name="dataPrepdir"     value="${basedir}/dataPrep"/>
     <property name="xmldir"     value="${basedir}/xml"/>
     <property name="xmldir.data" value="${basedir}/xml/data"/>
-    <property name="xmldir.entities"     value="${basedir}/xml/entities"/>
+    <property name="xmldir.entities" value="${basedir}/xml/entities"/>
+    <property name="xmldir.fig_entities"     value="${basedir}/xml/fig_entities"/>
+    <property name="xmldir.imgsize" value="${basedir}/xml/imgsize"/>
+    <property name="xmldir.divsize"     value="${basedir}/xml/divsize"/>
     <property name="xmldir.doctype"     value="${basedir}/xml/doctype"/>
     <property name="xmldir.tamino" value="${basedir}/xml/tamino"/>
     <property name="add_doctype.sh"     value="${dataPrepdir}/add_doctype.sh"/>
@@ -43,14 +56,18 @@ To specify an input file other than the default, run as
 
 <!-- FIXME: this part is not completed/used yet -->
     <available file="${xmldir}" type="dir" property="xmldir.present"/>
-    <available file="${xmldir.data}" type="dir" property="xmldir.present"/>
-    <available file="${xmldir.entities}" type="dir" property="xmldir.present"/>
-    <available file="${xmldir.doctype}" type="dir" property="xmldir.present"/>
+    <available file="${xmldir.data}" type="dir" property="xmldir.data.present"/>
+    <available file="${xmldir.entities}" type="dir" property="xmldir.entities.present"/>
+    <available file="${xmldir.doctype}" type="dir" property="xmldir.doctype.present"/>
 
 </target>
 
 
 <target name="xmldata" depends="init">
+
+  <echo message="Copying inputfile to workarea."/>
+  <echo message="**********************************************"/>
+
   <delete dir="${xmldir.data}"/>
   <delete dir="${xmldir}"/>
   <mkdir dir="${xmldir}"/>
@@ -79,8 +96,104 @@ To specify an input file other than the default, run as
 
 </target> <!-- end unicode-entities -->
 
+
+<target name="ask-extent" depends="init" if="xmldir.present">
+
+ <input
+    message="Calculate extents &amp; add to the text? "
+    validargs="y,n"
+    addproperty="response"
+  />
+  <condition property="do.extent">
+    <equals casesensitive="false" arg1="y" arg2="${response}"/>
+  </condition>
+
+</target> <!-- ask-extent -->
+
+<target name="add-extent" depends="ask-extent" if="do.extent">
+
+  <echo message="Calculating and adding article extents."/>
+  <echo message="**********************************************"/>
+
+<delete dir="${xmldir.divsize}"/>
+<mkdir dir="${xmldir.divsize}"/>
+
+<exec executable="perl" dir="${dataPrepdir}" failonerror="true">
+<arg line="iln_utility.pl -divsize -f ${xmldir}/${_inputfile} -o ${xmldir.divsize}/${_inputfile}"/>
+</exec>
+
+<!-- copy updated version of file back to xmldir -->
+<copy todir="${xmldir}" file="${xmldir.divsize}/${_inputfile}"/>
+
+</target>
+
+
+<target name="figure" depends="init,figure-entity,figure-check,imgsize"
+if="xmldir.present"
+  description="* Add figure entity tags (optional) &amp; image dimensions, check entities" />
+
+<target name="figure-check" depends="init"  if="xmldir.present">
+
+
+<exec executable="perl" dir="${dataPrepdir}" failonerror="true">
+<arg line="iln_utility.pl -entity-check -f ${xmldir}/${_inputfile} -v ${vol}"/>
+</exec>
+
+</target> <!-- figure-check -->
+
+<target name="figure-entity" depends="init,ask-figentity"
+if="do.figentity">
+
+<delete dir="${xmldir.fig_entities}"/>
+<mkdir dir="${xmldir.fig_entities}"/>
+
+<exec executable="perl" dir="${dataPrepdir}" failonerror="true">
+<arg line="iln_utility.pl -entity-name -f ${xmldir}/${_inputfile} -v ${vol} -o ${xmldir.fig_entities}/${_inputfile}"/>
+</exec>
+
+<!-- copy updated version of file back to xmldir -->
+<copy todir="${xmldir}" file="${xmldir.fig_entities}/${_inputfile}"/>
+
+</target> <!-- figure-entity -->
+
+
+<target name="ask-figentity" depends="init" if="xmldir.present">
+<!-- ask the user whether or not to input figure entity names -->
+ <input
+    message="Insert figure entity names into the text?"
+    validargs="y,n"
+    addproperty="response"
+  />
+  <condition property="do.figentity">
+    <equals casesensitive="false" arg1="y" arg2="${response}"/>
+  </condition>
+</target> <!-- end ask-figentity -->
+
+<!-- calculate image width/height from jpeg files, store as figure
+attribures -->
+<target name="imgsize" depends="init,figure-check"
+if="xmldir.present">
+
+  <echo message="Adding figure image dimensions."/>
+  <echo message="**********************************************"/>
+
+
+<delete dir="${xmldir.imgsize}"/>
+<mkdir dir="${xmldir.imgsize}"/>
+
+<exec executable="perl" dir="${dataPrepdir}" failonerror="true">
+<arg line="iln_utility.pl -imgsize -f ${xmldir}/${_inputfile} -v ${vol} -o ${xmldir.imgsize}/${_inputfile}"/>
+</exec>
+
+<!-- copy updated version of file back to xmldir -->
+<copy todir="${xmldir}" file="${xmldir.imgsize}/${_inputfile}"/>
+
+</target> <!-- imgsize -->
+
+
+
 <!-- only run xml-parse if the xml directory exists -->
-<target name="xml-parse" depends="init" 
+<target name="xml-parse" depends="init" if="xmldir.present"
  	description="* Parse xml files.">
 <!-- Note: only run xml-parse if the xml directory exists? 
      add if="xmldir.present" to target declaration.  -->
