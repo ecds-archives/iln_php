@@ -23,10 +23,10 @@ $position = $_GET["pos"];  // position (i.e, cursor)
 $operator = $_GET["op"];  // and|or
 
 
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "BECKCTR",
-	      'debug' => false,
-	      'coll' => 'ILN');
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'coll' => $tamino_coll,
+      	      'debug' => false);
 $tamino = new taminoConnection($args);
 $xsl    = "search.xsl";
 

@@ -21,9 +21,9 @@ if ($js == 'no') {
 
 html_head("Illustration");
 
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "BECKCTR",
-	      'coll' => 'ILN',
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'coll' => $tamino_coll,
       	      'debug' => false);
 $tamino = new taminoConnection($args);
 $xql = "TEI.2//figure[@entity='" . $id . "']"; 
@@ -42,7 +42,7 @@ $width  = $tamino->xml->getTagAttribute("width", "ino:response/xql:result/figure
 $height = $tamino->xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
 
 
-$url = "http://vip.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
+//$url = "http://vip.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
 
 // Now, create the frameset with controller & image window
 print "<frameset rows='80,*' border='0' >

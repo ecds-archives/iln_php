@@ -1,6 +1,7 @@
 <?php
 
 // php functions & variables used by more than one ILN php page
+include("config.php");
 
 /* Check browser & OS and determine which css file to use
    (only checking for IE -- the only one that needs different css ) 

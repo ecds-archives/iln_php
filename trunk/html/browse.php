@@ -13,10 +13,10 @@ $term2 = $_GET["term2"];
 $term3 = $_GET["term3"];
 
 
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "BECKCTR",
-	      'debug' => false,
-	      'coll' => 'ILN');
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'coll' => $tamino_coll,
+      	      'debug' => false);
 $tamino = new taminoConnection($args);
 $xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
  
