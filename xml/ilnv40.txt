@@ -250,7 +250,7 @@ and volunteering is being carried on with admirable spirit.</p>
 yesterday (Friday)</p>
 
 <p> A<hi rend="smallcaps">MERICA</hi>.-New York, Dec. 20,
-Afternoon.-(Per Anglo-Saxon, vi&aacute; Portland and Londonderry.)A
+Afternoon.-(Per Anglo-Saxon, vi&#x00E2; Portland and Londonderry.)A
 battle is reported to have taken place in Missouri in which 1500
 Confederates, finding themselves surrounded by the Federal forces,
 surrendered with their baggage and equipments. Reports are current
@@ -593,6 +593,25 @@ had pointed out to me a gentleman with a gracefully-curved proboscis
 who, by a lucky stroke of "Pishness, my tears," had succeeded in
 bagging a hundred thousand dollars of the public money.</p>
 <p rend="right">F.V.</p></div2>
+
+<div2 id="iln40.1125.071" n="The Slidell and Mason Case Argued at the
+      American Bar,--From a sketch by our special artist,--see
+      supplement, page 19." type="illustration">
+<bibl>
+<title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1125</biblScope> 
+           <biblScope type="pages">p. 4</biblScope> 
+           <date value="1862-01-04">Jan. 4, 1862</date>
+         <extent></extent>
+	</bibl>
+<p>
+<figure entity="v40p04">
+<head>The Slidell and Mason Case Argued at the American Bar.--From a
+Sketch by OUr Special Artist.--See Supplement, page 19.</head>
+</figure>
+</p>
+</div2>
 
 <div2 id="iln40.1125.008" n="THE RELATIONS BETWEEN THE GOVERNMENTS OF 
 GREAT BRITAIN AND THE UNITED STATES, FROM 
@@ -1209,7 +1228,7 @@ recommendation. These duties came into force immediately, and apply to
 all goods in warehouse.</p>
 <p>Congress has appropriated 1,500,000 dollars for gun-boats on the
 western lakes, and 1,200,000 dollars for the establishment of a naval
-d&eacute;p&ocirc;t on Lake Michigan.</p>
+d&#x00E9;p&#x00F4;t on Lake Michigan.</p>
 <p>The New York banks have lost five million dollars in specie in a
 fortnight, and the Sub-Treasury four millions; yet only about half a
 million has left the country, although the rate of exchange gives a
@@ -1221,7 +1240,7 @@ cash payments is considered to be imminent.</p>
 <p>Mr. Wendell Phillips, the Abolitionist leader of Boston, had
 delivered an address in favour of emancipation and against the
 "reconstruction" of the Union, in the Cooper Institute, New York, to a
-crowded audience, consisting of the &eacute;lite of the city.</p>
+crowded audience, consisting of the &#x00E9;lite of the city.</p>
 <p>At the annual dinner of the New England Society to commemorate the
 landing of the Pilgrim Fathers, a letter from Mr. Seward was read,
 dated Dec. 11, of which the following is the material portion:-</p>
@@ -1388,7 +1407,7 @@ unkindness, she ever retains a warmer sympathy than she can feel for
 any other nation in the world.</p>
 	      </div2>
 
-<div2 id="iln40.1126.006" n="AMONG the Illustrations of the civil war
+<div2 id="iln40.1126.005" n="AMONG the Illustrations of the civil war
       in America" type="Article">
 
 <head>[AMONG the Illustrations of the civil war
@@ -1430,6 +1449,26 @@ various parts of his body, but as he only showed a slight tremor the
 reserve was ordered to fire, and four other shots were fired, one of
 which entered his eye, and another his mouth, and he fell
 dead.</p></div2>
+<div2 id="iln40.1126.051" n="The Civil War in America: Execution of a
+      Deserter in the Federal Camp; Alexandria.--From a Sketch by our
+      Special Artist" type="illustration">
+
+<bibl>
+<title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1126</biblScope> 
+           <biblScope type="pages">p. 40</biblScope> 
+           <date value="1862-01-11">Jan. 4, 1862</date>
+         <extent></extent>
+	</bibl>
+<p>
+<figure entity="v40p40">
+<head>The Civil War in America: Execution of a Deserter in the Federal
+Camp; Alexandria. --From a Sketch by our Special Artist</head>
+</figure>
+</p>
+</div2>
+
  
 <div2 id="iln40.1126.006" n="The privateer Sumter" type="Article">
 
@@ -1760,7 +1799,7 @@ meeting and agreed to suspend cash payments from the 30th ult. This
 example was followed by the banks throughout the country. The specie
 in the vaults of the New York banks had fallen from 50,000 000 to
 24,000,000 dols. Exchange on England had risen to 113, gold was
-already at a premium of l&fract12; to 2 per cent. The banks had
+already at a premium of l&#x00BD; to 2 per cent. The banks had
 informed the Government that they could give it no more aid. They
 refused to take the fourth loan of 50,000,000 dols, asked by the
 Federal Government. The scheme of Mr. Chase for superseding the
@@ -1874,6 +1913,27 @@ repeat acts for which the British Government will have to ask for
 redress and which the United States' Government cannot undertake to
 justify."</p></div2>
 
+<div2 id="iln40.1127.041" n="The Civil War in America: Advanced Post of
+      General Blenker's Division Surprised at Anandale, Virginia, by
+      Confederate Calvary.--From a Sketch by Our Special Artist"
+      type="illustration">
+<bibl>
+<title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1127</biblScope> 
+           <biblScope type="pages">p. 61</biblScope> 
+           <date value="1862-01-18">Jan. 18, 1862</date>
+         <extent></extent>
+	</bibl> 
+<p>
+<figure entity="v40p61">
+<head>The Civil War in America: Advanced Post of
+      General Blenker's Division Surprised at Anandale, Virginia, by
+      Confederate Calvary.--From a Sketch by Our Special Artist</head>
+</figure>
+</p>
+</div2>
+
 <div2 id="iln40.1127.004" n="ILLUSTRATION OF THE WAR IN AMERICA."
       type="Article">
 
@@ -1921,6 +1981,28 @@ as Consul at Point de Galle, Ceylon, for the King of Prussia; of
 Mr. Randolph Zapp as Consul at Singapore, for the King of Honover; and
 of Don Pio de Emparanza as Consul, and of Don Narciso Perez Petinto as
 Vice-Consul at Sierra Leone, for the Queen of Spain.</p></div2>
+
+<div2 id="iln40.1127.061" n="The Great International Railway
+      Suspension-Bridge over the Niagara River, Connecting the New
+      York Central and the Great Western of Canada Railways.--See page
+      67." type="illustration">
+<bibl>
+<title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1127</biblScope> 
+           <biblScope type="pages">p. 64-65</biblScope> 
+           <date value="1862-01-18">Jan. 18, 1862</date>
+         <extent></extent>
+	</bibl>
+<p>
+<figure entity="v40p6465">
+<head>The Great International Railway
+      Suspension-Bridge over the Niagara River, Connecting the New
+      York Central and the Great Western of Canada Railways.</head>
+</figure>
+</p>
+</div2>
+
 
 <div2 id="iln40.1127.006" n="THE GREAT INTERNATIONAL RAILWAY
       SUSPENSION BRIDGE OVER THE NIAGRA RIVER." type="Article"> 
@@ -2129,7 +2211,7 @@ years.</p>
 
 <p rend="center">TRADE AND FINANCE.</p>
 <p>Exchange on London has risen to 114; gold to 4 per cent premium,
-and silver to 1&fract12; per cent premium. The imports of foreign dry
+and silver to 1&#x00BD; per cent premium. The imports of foreign dry
 goods into the port of New York for the year 1861 amount to 43,600,000
 dols., against 101,800,000 in 1860, being a fall in one year of 63 per
 cent. In the year after the celebrated financial crisis (1858) the
@@ -2183,10 +2265,40 @@ the channel, if necessary.</p>
 
 <p rend="center">DESPATCHES FROM LORD LYONS TO EARL RUSSELL.</p>
 <p>In Friday's <hi rend="smallcaps">Gazette</hi> were published copies
-of some despatches from Lord Lyons. The first informs Earl Russell that Messrs. Zacharie and Rogers, taken from on board the Eugenia Smith, under the British flag, and confined in Fort Lafayette, had been released, and the act disavowed; a second refers to a case in which a captured British schooner, the James Campbell, was taken into port with the British flag flying under the American-a proceeding which has been rebuked by Mr. Seward, and ordered not to be repeated; and the third relates that certain English seamen, captured for a break of blockade, having been required to take an oath never to be engaged in such a proceeding again, have been declared by Mr. Seward absolved from such oath.</p></div2>
+of some despatches from Lord Lyons. The first informs Earl Russell
+that Messrs. Zacharie and Rogers, taken from on board the Eugenia
+Smith, under the British flag, and confined in Fort Lafayette, had
+been released, and the act disavowed; a second refers to a case in
+which a captured British schooner, the James Campbell, was taken into
+port with the British flag flying under the American-a proceeding
+which has been rebuked by Mr. Seward, and ordered not to be repeated;
+and the third relates that certain English seamen, captured for a
+break of blockade, having been required to take an oath never to be
+engaged in such a proceeding again, have been declared by Mr. Seward
+absolved from such oath.</p></div2>
+
+<div2 id="iln40.1128.011" n="The Outrage on the Trent: Lord Lyons
+Communicating Earl Russell's Despatch to Mr. Secretary Seward."
+type="illustration">
+<bibl>
+ <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 82</biblScope> 
+           <date value="1862-01-25">Jan. 25, 1862</date>
+         <extent></extent>
+	</bibl>
+<p>
+<figure entity="v40p82">
+<head>The Outrage on the Trent: Lord Lyons
+Communicating Earl Russell's Despatch to Mr. Secretary Seward.</head>
+</figure>
+</p>
+</div2>
+
 <div2 id="iln40.1128.002" n="The Tuscarora in Southampton Water"
       type="article">
-<head>THE TUSCAROA IN SOUTHAMPTON WATER.</head>
+<head>THE TUSCARORA IN SOUTHAMPTON WATER.</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 40</biblScope> 
@@ -2196,43 +2308,66 @@ of some despatches from Lord Lyons. The first informs Earl Russell that Messrs. 
          <extent>3 paragraphs</extent>
 	</bibl>
 
-<P>T<hi rend= "small caps">HIS</hi> vessel, whose presence in Southampton Water has caused the greatest excitement for the last fortnight, still keeps her position o
+<p>T<hi rend= "small caps">HIS</hi> vessel, whose presence in Southampton Water has caused the greatest excitement for the last fortnight, still keeps her position off
 
 the mouth of the Itchen, supposed to be waiting the arrival of the
 
-Sr utter and holding a sharp look out on the movements of the Ehshyule, still safely berthed in Southampton Docks. On Monday week the Tuscarora weighed, and proceeded down the water, anchoring for the day between Calshot Castle and the Lightship, returning to her old moorings in the-evening. On the following Thursday she made an excursion round the We of Wight, and completed her crtsse by bringing up od Osborne, which quarters she quickly received notice to leave, andshe then zetnrnedtoherold position as shown mourEngravmg. She is a smart, handsomelooking craft, ieavily armed, with eight Dal' gren guns
+Sumter and holding a sharp look out on the movements of the Nashville,
+still safely berthed in Southampton Docks. On Monday week the
+Tuscarora weighed, and proceeded down the water, anchoring for the day
+between Calshot Castle and the Lightship, returning to her old
+moorings in the evening. On the following Thursday she made an
+excursion round the Isle of Wight, and completed her cruise by
+bringing up off Osborne, which quarters she quickly received notice to
+leave, and she then returned to her old position as shown  in our Engraving. She is a smart, handsomelooking craft, ieavily armed, with eight Dalhgren guns -two of them, placed amidships, are the famous
 
-s -two of them, placed amidships, are the famous
+columbiad 120-pounders-and a rifled 30- pounder of Parrot's on her forecastle. She is commanded by Captain Craven, and has a large and well-appointed crew of 200 men.</p>
 
-coltmbiad 120.poundera-and a rifled 30.pounder of Parrot's on her forecastle. She is commanded by Captain Craven, and has a large and well-appointed crew of 200 men.
-
-<P>Messrs. Slidell and Mason and their secretaries have stilea from Halifax for Bermuda.</P>
+<p>Messrs. Slidell and Mason and their secretaries have stilea from Halifax for Bermuda.</p>
 
 <p>The United States' Government is erecting batteries on Croil's
 
-island in the Long Soult of the St. Lawrence. These batteries will command
+island in the Long Sault of the St. Lawrence. These batteries will command
 
-the Csnadhn Cornwall Cane].</p>
+the Canadian Cornwall Canal.</p>
 
 <p>The Confederate steamer Sumter was ordered on Saturday last
 
 to emit Cadiz 'within six hours. She accordingly proceeded to Gibraltar.
 
-Before entering that port she captured two American vessels, one of which she bunted, releasing the other, apparently because she was bound to a British port, and was laden wit a cargo belonging to neutrals.</p>
+Before entering that port she captured two American vessels, one of which she burned, releasing the other, apparently because she was bound to a British port, and was laden wit a cargo belonging to neutrals.</p>
 
 <p>The West Indian, a vessel belonging to a Southern planter, has
-arrived at Liverpool direct from Charleston, having succeisf ally run
-the blockade. She is 241 tone burden, and has s full cargo of spirits
+arrived at Liverpool direct from Charleston, having successfully run
+the blockade. She is 241 tons burden, and has s full cargo of spirits
 of turpentine. She loft Charleston in the evening of the 24th of
 December. It was a fine starlight night,with a favourable wind ; the
 blockade was run without meeting with any of the blockading fleet. The West Indian left Charleston
 
 after the stone fleet had been sunk, and ran down to the sea through one of
 
- channels left open by the Federals.</p>
-<div2 id="iln40.1128.003" <n="The Queen has approved of Mr. Horace
-N.Congar">
-<type="Article">
+ channels left open by the Federals.</p> </div2>
+<div2 id="iln40.1128.021" n="The Federal Sloop-of-War Tuscarora in
+      Southampton Water.--See page 81." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 98</biblScope> 
+           <date value="1862-01-25">Jan. 25, 1862</date>
+         <extent></extent>
+	</bibl>
+<p>
+<figure entity="v40p98">
+<head>The Federal Sloop-of-War Tuscarora in
+      Southampton Water.--See page 81.</head>
+</figure>
+</p>
+</div2>
+
+
+<div2 id="iln40.1128.003" n="The Queen has approved of Mr. Horace
+N.Congar" type="Article">
 
 <head>[The Queen has approved of Mr. Horace N. Congar as
 Consul]</head>
@@ -2246,7 +2381,7 @@ Consul]</head>
 	</bibl>
 
 <p>The Queen has approved of Mr. Horace N. Congar as Consul at
-Hong-Kong for the United States of America.</p>
+Hong-Kong for the United States of America.</p></div2>
 <div2 id="iln40.1128.004" n="Once more we hear from America"
  type="Article">
 
@@ -2282,7 +2417,7 @@ Pabnerston's Government are friendly to the North, and that the people
 of England are inclined towards the South; and therefore the slave
 journalists venture to predict a speedy fall for our present
 Administration. We cite this in evidence of the titter ignorance of
-the Americans of English affairs.</p>
+the Americans of English affairs.</p></div2>
 
 <div2 id="iln40.1128.005" n="As regards foreign
 affairs" type="Article">
@@ -2304,7 +2439,7 @@ the insolent and nonsensical doctrine that the Powers of the East have
 no right to interfere in the affairs of the Western World, a bit of
 geographical pedantry which will certainly not be tolerated in
 Europe. The interests of the New World are too important to -the Old
-to permit their being left in the hands of any single nation.</p>
+to permit their being left in the hands of any single nation.</p></div2>
 <div2 id="iln40.1128.006" n="Commander Semmes of the Confederate"
       type="Article">
 <head>[Commander Semmes of the Confederate]</head>
@@ -2317,13 +2452,13 @@ to permit their being left in the hands of any single nation.</p>
 	</bibl>
 
 <p>Commander Semmes, of the Confederate ship-of-war Sumter, writes to
-the<hi rend="italic"> Times, from Cadiz, to defend himself from imputations on the
+the<hi rend="italic"> Times</hi>, from Cadiz, to defend himself from imputations on the
 
 character of his ship convoyed in the report of Mr. Gideon Welles, Secretary
 
 of the United States' Navy. "The Sumter," he states, "is a regularly
 
-commissioned ship-of-war of the Confederate States."</p>
+commissioned ship-of-war of the Confederate States." </p></div2>
 <div2 id="iln40.1128.007" n="Mr. Yancey, Commissioner of the
       Confederate States" type="Article">
 
@@ -2336,11 +2471,11 @@ commissioned ship-of-war of the Confederate States."</p>
          <extent></extent>
 	</bibl>
 
-<P>T<hi rend="smallcaps">HE</hi> Hon. Wm. Lowndes Yancey is a native
+<p>T<hi rend="smallcaps">HE</hi> Hon. Wm. Lowndes Yancey is a native
 of the State of South Carolina, where he was born in 1815. Form!all
 years plist, he has resided in the great Cottoate of
 Alabama. Mr. ranrey is a cotton-planter, end until the date of
-secession of Alabama was a member of the Bar of that State.</P>
+secession of Alabama was a member of the Bar of that State.</p>
 
 <p>Though exercising a strong influence upon the politics of the South
 during the last twenty years Mr. Yancey has but rarely been a
@@ -2411,7 +2546,26 @@ and has been in this country
 <p> In November last Alabama elected Mr.Yancey to represent her in the Senate of the Confederate States, which will be organised on the 17th of February next, the day when the
 permanent supersedes the present provisional government of the South.</p>
 
-<p>Our Portrait is from a photograph by Mayall.</p>
+<p>Our Portrait is from a photograph by Mayall.</p></div2>
+<div2 id="iln40.1128.071" n="Mr. Yancey, Once of the Commissioners
+      from the Confederate States of America to the European Courts."
+      type="illustration">
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 95</biblScope> 
+           <date value="1862-01-25">Jan. 25, 1862</date>
+         <extent></extent>
+	</bibl>
+<p>
+<figure entity="v40,p95a">
+<head>Mr. Yancey, Once of the Commissioners
+      from the Confederate States of America to the European
+Courts.</head>
+</figure>
+</p>
+</div2>
+
 <div2 id= "iln40.1128.008" n="Illustrations of the Civil War in
       America" type="Article">
 
@@ -2444,9 +2598,16 @@ motion, the corps attached to the different brigades occupying as they
  to the direction which it takes, signifying a number, the meaning of
  which number being known only to the officer commanding each
  corps.</p>
+<p>
+<figure entity="v40p95b">
+<head>The War in America:A Night Alarm in the Federal Camp--Signalling
+from the Right Bank of the Potomac to Head-Quarters in
+Washington. From a Sketch by Our Special Artist.</head>
+</figure>
+</p>
 
 
-<p rend="center">ADVANCE OF THE SKIRMISHERS OF THE<lb/> BUCKTAIL RIFLES ON DRAINSVILLE.</p>
+<p rend="center">ADVANCE OF THE SKIRMISHERS OF THE <lb/> BUCKTAIL RIFLES ON DRAINSVILLE.</p>
 
 <p>The heroes of the fight at Drainsvllle,Virginia, on the 20th ult.,
 were the Bucktail Riflemen, a corps of sharpshooters raised in the
@@ -2467,6 +2628,16 @@ are making a flanking movement by a detour on each side to clear
 position-nearly all of whom were shot through the head-show that they
 also paid dearly for the
  losses suffered by the rifles.</p>
+<p>
+<figure entity="v40p91">
+<head>The Civil War in America: Advance of the
+      Skirmishers of the Bucktail Rifles on the Confederate Position
+      at Drainsville, Virginia, From a Sketch by Our Special
+Artist</head>
+</figure>
+</p>
+</div2>
+
 <div2 id="iln40.1128.009" n="A proposal for a national subscription"
       type="article">
 <head>[A proposal for a national subscription]</head>
@@ -2479,9 +2650,10 @@ also paid dearly for the
 	</bibl>
 <p>A proposal for a national subscription in behalf of the Lyons
 workmen thrown out of employment by the American crisis appears in
-the columns of the Paris<hi rend="italic"> Si&#x00E9;cle</hi>.</p>
+the columns of the Paris<hi rend="italic">
+Si&#x00E9;cle</hi>.</p></div2>
 
-<div2 id="iln40.1128.010 n="OUR RELATIONS WITH AMERICA."
+<div2 id="iln40.1128.010" n="OUR RELATIONS WITH AMERICA."
       type="Article">
 <head>OUR RELATIONS WITH AMERICA.</head>
 <bibl>
@@ -2490,8 +2662,9 @@ the columns of the Paris<hi rend="italic"> Si&#x00E9;cle</hi>.</p>
            <biblScope type="pages">p. 97</biblScope> 
            <date value="1862-01-25">Jan. 25, 1862</date>
          <extent></extent>
+</bibl>
 
-<P>Is it our unhappy destiny to become involved in a third war with
+<p>Is it our unhappy destiny to become involved in a third war with
 the people of the United States, with whom we have so many ties of
 language, race, religion, and laws? This is an apprehension which
 weighs heavily on the public mind at the present moment, and which
@@ -2508,7 +2681,7 @@ neighbours, forewarn us with ominous unanimity that the evil day is
 only postponed, not conjured away for ever. How the events of the last
 twelvemonth have necessarily resulted in bringing an American war,
 which seemed so distant in 1860, into the foreground of our national
-prospects merits a brief explanation.</P>
+prospects merits a brief explanation.</p>
 
 <p>The eleven "Confederate" States, in seceding, shattered with the
 same blow the Union and Constitution of 1787 and the basis on which
@@ -2671,9 +2844,9 @@ would surely be the most fell accompaniment and the most pernicious
 legacy of a struggle into which we should allow ourselves to enter as
 the virtual ally of those whom the whole people of the loyal States
 rightly or wrongly regard as rebels, parricides, and traitors of the
-deepest dye.</p>
+deepest dye.</p></div2>
 
-<div2 id="iln40.1128.011 n="THE BLOCKING-UP OF CHARLESTON"
+<div2 id="iln40.1128.011" n="THE BLOCKING-UP OF CHARLESTON"
       type="Article">
 
 
@@ -2684,14 +2857,15 @@ deepest dye.</p>
            <biblScope type="pages">p. 97</biblScope> 
            <date value="1862-01-25">Jan. 25, 1862</date>
          <extent></extent>
+</bibl>
 
 <p  rend="center">PROTEST OF THE BRITISH GOVERNMENT.</p>
 
-<P>THE following correspondence has passed between the Liverpool Shipowners' Association and the Foreign Office:</P>
+<p>THE following correspondence has passed between the Liverpool Shipowners' Association and the Foreign Office:</p>
 
-<p hi rend= "right">Shipowners' Association, Liverpool, Jan. 13.
+<p  rend= "right">Shipowners' Association, Liverpool, Jan. 13.</p>
 
-<p>My Lord,-It has come to the knowledge of the Liverpool Shipowners'</p>
+<p>My Lord,-It has come to the knowledge of the Liverpool Shipowners'
 
 Association, through the public prints, that the Federal Government of
 the United States have sunk a atone squadron in the mom channel of
@@ -2706,14 +2880,14 @@ feels called upon, as representing an important interest, to address
 your Lordship on the subject. I am, therefore, instructed by the
 association respectfully to press this matter on your Lordship's
 earnest consideration. I have the honour to be, my Lord, your
-Lordship's most obedient humble servant,
-<p hi rend="right"> F<hi rend="smallcaps">RANCIS
+Lordship's most obedient humble servant,</p>
+<p  rend="right"> F<hi rend="smallcaps">RANCIS
 A. CLINT</hi>, Chairman.</p>
 
 <p>To the Right lion. Earl Russell, Foreign Office, London.</p>
 
 
-<p hi rend="right">Foreign Office, Jan. 10.</p>
+<p  rend="right">Foreign Office, Jan. 10.</p>
 
 <p>Sir,--I am directed by Earl Russell to acknowledge the receipt of
 the letter which, on behalf of the Liverpool Shipowners' Association,
@@ -2749,12 +2923,11 @@ Sir, your most obedient servant,</p>
 
 
 <p>F. A. Clint, Esq.,&#x0026;c.</p>
- <p rend="right">E.<hi rend="smallcaps"> HAMMOND.</p>
+ <p rend="right">E.<hi rend="smallcaps"> HAMMOND.</hi></p>
 
 <p>The subject was discussed at the meeting of the council of the
 Liverpool Chamber of Commerce on Monday, when the following
 resolution was adopted -" That this chamber views with great
 satisfaction the remoustrances made by her Majesty's Government with
 regard to the blocking up of Charleston harbour by sinking vessels
-laden with stone."</p>
-
+laden with stone."</p></div2>
