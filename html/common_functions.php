@@ -29,12 +29,17 @@ function getCSS () {
 }
 
 
+/* 12.10.2004 - Added robots meta line to header, partially as a test
+   to see if it would help google to index the actual articles.
+*/
+
 function html_head ($mode) {
   $mycss = getCSS();
 print "<html>
  <head>
  <title>$mode - The Civil War in America from The Illustrated London News</title>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
+<meta name=\"robots\" content=\"index,follow\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">
 <script language=\"Javascript\" 
 	src=\"http://cti.library.emory.edu/iln/cookies.js\"></script>
