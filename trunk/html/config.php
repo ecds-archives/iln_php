@@ -17,7 +17,7 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib");
 
 /* tamino settings  */
 $tamino_server = "vip.library.emory.edu";
-$tamino_db = "BECKCTR";
-$tamino_coll = "ILN";
+$tamino_db = "ILN";
+$tamino_coll = "iln";
 $link_coll = "iln_links";
 ?>
