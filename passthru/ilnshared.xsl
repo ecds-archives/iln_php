@@ -11,7 +11,9 @@
 
 
 <xsl:variable name="query"><xsl:value-of select="ino:response/xql:query"/></xsl:variable>
-<xsl:variable name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN</xsl:variable>
+<xsl:variable
+name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN</xsl:variable>
+<xsl:variable name="image_url">http://chaucer.library.emory.edu/iln/images/</xsl:variable>
 
 <!-- define variables for all xsl files -->
 <xsl:variable name="xsl_browse">ilnbrowse.xsl</xsl:variable>
@@ -73,23 +75,69 @@ function highlight (string, match) {
   <script language="javascript">
    getBrowserCSS();
   </script>
+  <!-- if not running javascript, get default css -->
+  <noscript>
+    <link rel="stylesheet" type="text/css" href="http://chaucer.library.emory.edu/iln/iln.css"/>
+  </noscript>
 
   </xsl:element> <!-- head -->
 </xsl:template>
 
 <xsl:template name="html_title">
-     <xsl:element name="h2"><xsl:value-of select="$mode_name" /></xsl:element>
+     <xsl:element name="h2"><xsl:value-of select="$mode_name"
+/></xsl:element>
+<!-- warn users, in case javascript is turned off --> 
+  <xsl:element name="noscript">
+  <i>Note: Some features of this site require Javascript</i>
+  <!-- don't display javascript viewer version of figures -->
+      <style type="text/css">
+        img.javascript { display: none }
+      </style>
+  </xsl:element>
+
 </xsl:template>
- 
+
+
 <!-- display figure & link to image-viewer -->
 <xsl:template match="figure">
-    <xsl:element name="p">
-      <xsl:value-of select="head"/>
-      [<xsl:element name="a">
+    <xsl:element name="table">
+      <xsl:element name="tr">
+        <xsl:element name="td">
+      <xsl:element name="a">
   <xsl:attribute name="href">javascript:launchViewer('<xsl:value-of
       select="concat($base_url,'?_xql=TEI.2//figure[@entity=')"/>\'<xsl:value-of select="./@entity"/>\'<xsl:value-of select="concat(']', $xslurl,
-	   $xsl_imgview)"/>')</xsl:attribute>view image</xsl:element>] <!-- end a --> 
-  </xsl:element>  <!-- end p -->
+	   $xsl_imgview)"/>')</xsl:attribute>
+<xsl:element name="img">
+  <xsl:attribute name="class">javascript</xsl:attribute>
+  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', @entity, '.gif')"/></xsl:attribute>
+  <xsl:attribute name="alt">view image</xsl:attribute>
+  </xsl:element> <!-- end img -->
+  </xsl:element> <!-- end a --> 
+
+<!-- non javascript version of image & link -->
+<!-- note: if neither javascript nor css works, there will be two
+   copies of image (but other things will probably be broken also) -->
+  <noscript>
+      <xsl:element name="a">
+  <xsl:attribute name="href"><xsl:value-of select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute>
+  <xsl:element name="img">
+  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', @entity, '.gif')"/></xsl:attribute>
+  <xsl:attribute name="alt">view image</xsl:attribute>
+  </xsl:element> <!-- end img -->
+  </xsl:element> <!-- end a --> 
+ </noscript> 
+
+  </xsl:element> <!-- end td -->
+
+   <xsl:element name="td">
+     <xsl:element name="p">
+      <xsl:attribute name="class">caption</xsl:attribute>
+      <xsl:value-of select="head"/>
+     </xsl:element> <!-- p -->
+
+  </xsl:element> <!-- end td -->
+  </xsl:element> <!-- end tr --> 
+  </xsl:element>  <!-- end table -->
 </xsl:template>
 
 

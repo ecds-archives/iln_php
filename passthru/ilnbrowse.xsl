@@ -6,6 +6,7 @@
 	xmlns:xql="http://metalab.unc.edu/xql/">
 
 <xsl:include href="ilnshared.xsl"/>
+<xsl:include href="teihtml-tables.xsl"/>
 
 <xsl:param name="pos">0</xsl:param>
 <xsl:param name="xql">0</xsl:param>
@@ -51,6 +52,7 @@
 
   <xsl:element name="div">
      <xsl:attribute name="class">content</xsl:attribute>
+	<xsl:call-template name="html_title" /> 
      <!-- should be returning one div2; display contents --> 
 
       <xsl:apply-templates select="//div2" />
@@ -158,12 +160,15 @@
  <xsl:element name="td">
     <xsl:attribute name="width">33%</xsl:attribute>
    <xsl:attribute name="align">center</xsl:attribute>
+<!-- output "back to list" link if return mode is defined -->
+  <xsl:if test="$rmode != 0">
    <xsl:element name="a">
      <xsl:attribute name="href"><xsl:value-of
 	select="$base_url"/>?_xql<xsl:if test="$range != 0">(<xsl:value-of select="$range"/>)</xsl:if>=<xsl:value-of
 	select="$xql"/><xsl:value-of select="concat($xslurl, $rmode)"/>
     </xsl:attribute>Back to List
    </xsl:element> <!-- a -->
+  </xsl:if>
  </xsl:element> <!-- td -->
 
 
