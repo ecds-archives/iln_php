@@ -100,6 +100,19 @@ class xmlDbConnection {
      $this->xsl_result = $proc->transformToDoc($this->xmldb->xml);
    }
 
+   // get the content of an xml node by name when the path is unknown
+   function findNode ($name, $node = NULL) {
+     // this function is for backwards compatibility... 
+     if (isset($this->xpath)) {     // only use the xpath object if it has been defined
+       $n = $this->xpath->query("//$name");
+       // return only the value of the first one
+       if ($n) { $rval = $n->item(0)->textContent; }
+     } else {
+       $rval =0;
+     }
+     return $rval;
+   }
+
    function printResult ($term = NULL) {
      if ($this->xsl_result) {
        if (isset($term[0])) {
