@@ -40,7 +40,7 @@ p.left  { text-align: left;
      	  font-family: Arial 
     	}
 
-span.smcap { font-variant: small-caps; }
+p.error {  font-size: 125%; color: red }
 
 /* Display all image captions in small caps (as in original) */
 p.caption { font-variant: small-caps; }
@@ -66,18 +66,3 @@ td.label { font-weight: bold; }
 td.figure { text-align: center; vertical-align: center; }
 
 img { border: 0 }
-
-
-/* Links for more results on search page -- display inline, with lines between */
-li.firstresult { display:inline; 
-     padding-left: 7px;
-     padding-right: 7px;
-     border-left: none;
-  }
-
-li.result { display:inline; 
-     padding-left: 7px;
-     padding-right: 7px;
-     border-left: 1px dotted #066;
-  }
-

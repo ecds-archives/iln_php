@@ -9,25 +9,12 @@
 
 </head>
 
+<body>
 
-<div class="heading"> 
-  <p class="head"><img src="hline2.jpg" width="417" height="3"></p>
-  <p class="head"><font size="+2">The Civil War in America from</font></p>
-   <p class="head"><img src="finalheader.gif" width="363" height="77"></p>
-
-<p class="head"><a href="http://chaucer.library.emory.edu/iln">Home</a> 
-      | <a
-	   href="http://chaucer.library.emory.edu/iln/ilnbib.html">Bibliography</a> 
-| <a href="http://chaucer.library.emory.edu/iln/contents.html">Browse</a> 
-| <a href="http://chaucer.library.emory.edu/iln/illustrations.html">Illustrations</a> 
-| <a href="http://chaucer.library.emory.edu/iln/xmlsearch.html">Search</a> 
-      | <a href="http://chaucer.library.emory.edu/iln/ilnlinks.html">Links</a></p>
-</div> 	<!-- heading -->
-
-<div class="sidebar">
- <p><img src="manoutlne.jpg" width="75" height="471" align="middle"></p>
-</div> 	<!-- sidebar -->
-
+<?php
+include("xml/head.xml");
+include("xml/sidebar.xml");
+?>
 
 <div class="content">
 <table><tr>
@@ -37,7 +24,7 @@
 <tr>
 <form name="ilnquery" 
       action="search.php" method="get">
-<td><input type="text" size="30" name="query"></td>
+<td><input type="text" size="30" name="term"></td>
 <td>
 <select name="region">
 <!-- FIXME: is this a useful option? -->
@@ -56,7 +43,7 @@
 </td>
 <tr>
 <tr>
-<td><input type="text" size="30" name="query2"></td>
+<td><input type="text" size="30" name="term2"></td>
 <td>
 <select name="region2">
   <option selected value="document">Entire Document</option> 
@@ -127,17 +114,9 @@ Staff</a>.</p>
 
 </div>
 
-
-<div class="footing">
-        <p class="head"><img src="hline2.jpg" width="417" height="3"></p>
-        <p class="head"><font face="Arial Narrow"><a href="http://www.emory.edu/LIBRARIES/"><font color="#000000">University 
-         Libraries</font></a> | <a href="http://chaucer.library.emory.edu/"><font color="#000000">Beck 
-         Center</font></a> | <a href="http://www.emory.edu"><font color="#000000">Emory 
-         University</font></a></font><br>
-        <font face="Book Antiqua" size="2" color="#000000"><i>A 
-          Joint Project by Sandra J. Still, Emily E. Katt, Collection Management, 
-          and the Beck Center.</i></font></div>
-</div> 	<!-- footing -->
+<?php
+  include("xml/foot.xml");
+?>
 
 </body>
 </html>

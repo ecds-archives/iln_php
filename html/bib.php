@@ -1,16 +1,9 @@
-<html>
-<head>
-<title>Bibliography - The Civil War in America from The Illustrated London News</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="Javascript" 
-	src="http://chaucer.library.emory.edu/iln/browser-css.js"></script> 
-</head>
-
-<body>
-
 <?php
-include("head.xml");
-include("sidebar.xml");
+include("common_functions.php");
+html_head("Bibliography");
+
+include("xml/head.xml");
+include("xml/sidebar.xml");
 ?>
 
    <div class="content"> 
@@ -19,7 +12,7 @@ include("sidebar.xml");
   </div>
    
 <?php
-  include("foot.xml");
+  include("xml/foot.xml");
 ?>
 
 
