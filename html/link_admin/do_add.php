@@ -8,12 +8,12 @@ print '<div class="content">
 include("nav.html");
 
 
-$url = $_GET["url"];
-$title = $_GET["title"];
-$description = $_GET["desc"];
+$url = htmlentities($_GET["url"]);
+$title = htmlentities($_GET["title"]);
+$description = htmlentities($_GET["desc"]);
 $subject = $_GET["subj"];
-$date = $_GET["date"];
-$contributor = $_GET["contrib"];
+$date = htmlentities($_GET["date"]);
+$contributor = htmlentities($_GET["contrib"]);
 
 
 
