@@ -18,8 +18,10 @@ $args = array('host' => "vip.library.emory.edu",
 	      //	      'debug' => true,
 		'coll' => 'ILN');
 $tamino = new taminoConnection($args);
-$xql = "TEI.2//div1/div2[@id='" . $id . "']";
-$sibling_query = '<siblings>   
+$xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
+ 
+// addition to the query for next/previous links (only in contents/browse mode, not searches) 
+$sibling_query = '<siblings>     
 {for $b in input()/TEI.2//div1/div2
   return <div2>
           {$b/@id}
@@ -27,17 +29,17 @@ $sibling_query = '<siblings>
           {$b/head}
           {$b/bibl}
          </div2> }
-</siblings>';
+</siblings>'; 
 
 $query ="for \$a in input()/TEI.2//div1/div2
 where \$a/@id='$id'
 return <div1> 
 {\$a}";
 if (!(isset($term))) { $query .= $sibling_query; }
-$query .= "</div1>"; 
+$query .= "</div1>";  
 
 
-$xsl_file = "browse.xsl";
+$xsl_file = "browse.xsl"; 
 
 
 html_head("Browse - Article");

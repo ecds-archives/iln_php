@@ -8,6 +8,17 @@
 <xsl:include href="ilnshared.xsl"/>
 <xsl:include href="teihtml-tables.xsl"/>
 
+<<<<<<< browse.xsl
+
+<!-- copied from search.xsl; unnecessary at this point, but used ilnshared -->
+<xsl:param name="term">0</xsl:param>
+<xsl:param name="term2">0</xsl:param>
+<xsl:param name="term3">0</xsl:param>
+
+<!-- construct string to pass search term values to browse via url -->
+<xsl:variable name="term_string"><xsl:if test="$term != 0">&amp;term=<xsl:value-of select="$term"/></xsl:if><xsl:if test="$term2 != 0">&amp;term2=<xsl:value-of select="$term2"/></xsl:if><xsl:if test="$term3 != 0">&amp;term3=<xsl:value-of select="$term3"/></xsl:if></xsl:variable>
+
+=======
 <xsl:param name="term">0</xsl:param>
 <xsl:param name="term2">0</xsl:param>
 <xsl:param name="term3">0</xsl:param>
@@ -41,45 +52,21 @@
 <xsl:variable name="end_posxql">]<xsl:if test="contains($xql, 'sortby')">sortby<xsl:value-of select="substring-after($xql, 'sortby')"/></xsl:if></xsl:variable>
 <xsl:variable name="curxsl" select="$xsl_browse"/>
 
+>>>>>>> 1.2
  <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
-<!--  <xsl:call-template name="proc_instr" />  -->
+  <xsl:apply-templates select="//div1/div2" />
 
-<!--   <xsl:element name="html">  -->
-<!--  <xsl:call-template name="html_head" />  -->
-<!-- begin body -->
-<!--   <xsl:element name="body"> -->
-
-  <!-- NOTE: these files must be well-formed xml or nothing will show up-->
-  <!-- header -->
-<!--   <xsl:copy-of -->
-<!--   select="document('http://beckptolemy.library.emory.edu/iln/head.xml')" /> -->
-  <!-- sidebar -->
-<!--   <xsl:copy-of -->
-<!--   select="document('http://beckptolemy.library.emory.edu/iln/sidebar.xml')" /> -->
-
-<!--   <xsl:element name="div"> -->
-<!--      <xsl:attribute name="class">content</xsl:attribute> -->
-<!-- 	<xsl:call-template name="html_title" />  -->
-     <!-- should be returning one div2; display contents --> 
-
+<<<<<<< browse.xsl
+   <!-- links to next & previous titles (if present) -->
+=======
       <xsl:apply-templates select="//div1/div2" />
    <!-- links to next & previous matches (if specified) -->
+>>>>>>> 1.2
   <xsl:call-template name="next-prev" />
-<!--   </xsl:element> -->  <!-- content div -->
 
-
-  <!-- footer -->
-<!--   <xsl:copy-of -->
-<!--   select="document('http://beckptolemy.library.emory.edu/iln/foot.xml')"/>  -->
-
-<!--  </xsl:element> --> <!-- end body -->
-
-<!--  </xsl:element> --> <!-- end html -->
-</xsl:template> <!-- / -->
-
-
+</xsl:template> 
 
 
 <!-- print out the content-->
@@ -91,8 +78,7 @@
 <!-- display the title -->
 <xsl:template match="head">
   <xsl:element name="h1">
-     <!-- explicitly colorize keywords in the title -->
-   <xsl:call-template name="default"/>
+   <xsl:apply-templates />
   </xsl:element>
 </xsl:template>
 
@@ -108,26 +94,25 @@
 
 <xsl:template match="p/title">
   <xsl:element name="i">
-    <xsl:call-template name="default"/>
+    <xsl:apply-templates />
   </xsl:element>
 </xsl:template>  
 
 <xsl:template match="p">
   <xsl:element name="p">
-    <xsl:apply-templates/> 
+    <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
 <xsl:template match="q">
   <xsl:element name="blockquote">
-    <xsl:apply-templates/> 
+    <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
 
-
 <!-- convert rend tags to their html equivalents 
-     so far, converts: center, italic 		  -->
+     so far, converts: center, italic,smallcaps   -->
 <xsl:template match="//*[@rend]">
   <xsl:choose>
     <xsl:when test="@rend='center'">
@@ -140,6 +125,12 @@
         <xsl:apply-templates/>
       </xsl:element>
     </xsl:when>
+    <xsl:when test="@rend='smallcaps'">
+      <xsl:element name="span">
+        <xsl:attribute name="class">smallcaps</xsl:attribute>
+        <xsl:apply-templates/>
+      </xsl:element>
+    </xsl:when>
   </xsl:choose>
 </xsl:template>
 
@@ -148,8 +139,35 @@
 </xsl:template>
 
 
-<!-- generate next & previous links (if variables are defined) -->
+<!-- generate next & previous links (if present) -->
+<!-- note: all div2s, with id, head, and bibl are retrieved in a <siblings> node -->
 <xsl:template name="next-prev">
+<<<<<<< browse.xsl
+<xsl:variable name="main_id"><xsl:value-of select="//div1/div2/@id"/></xsl:variable>
+<!-- get the position of the current document in the siblings list -->
+<xsl:variable name="position">
+  <xsl:for-each select="//siblings/div2">
+    <xsl:if test="@id = $main_id">
+      <xsl:value-of select="position()"/>
+    </xsl:if>
+  </xsl:for-each>
+</xsl:variable>
+
+<xsl:element name="table">
+  <xsl:attribute name="width">100%</xsl:attribute>
+
+<!-- display articles relative to position of current article -->
+
+  <xsl:apply-templates select="//siblings/div2[$position - 1]">
+    <xsl:with-param name="mode">Previous</xsl:with-param>
+  </xsl:apply-templates>
+
+  <xsl:apply-templates select="//siblings/div2[$position + 1]">
+    <xsl:with-param name="mode">Next</xsl:with-param>
+  </xsl:apply-templates>
+
+</xsl:element> <!-- table -->
+=======
 <xsl:variable name="main_id"><xsl:value-of select="//div1/div2/@id"/></xsl:variable>
 <xsl:variable name="position">
   <xsl:for-each select="//siblings/div2">
@@ -171,9 +189,12 @@
   </xsl:apply-templates>
 
 </xsl:element> <!-- table -->
+>>>>>>> 1.2
 
 </xsl:template>
 
+<<<<<<< browse.xsl
+<!-- print next/previous link with title & summary information -->
 <xsl:template match="siblings/div2">
 <xsl:param name="mode"/>
 
@@ -195,6 +216,29 @@
    </xsl:choose> -->
    <xsl:value-of select="concat($mode, ': ')"/>
  </xsl:element> <!-- th -->
+=======
+<xsl:template match="siblings/div2">
+<xsl:param name="mode"/>
+
+<xsl:element name="tr">
+<!--   <xsl:element name="td">
+ <xsl:attribute name="align">
+ <xsl:choose>
+  <xsl:when test="$mode = 'Previous'">left</xsl:when>
+  <xsl:when test="$mode = 'Next'">right</xsl:when>
+ </xsl:choose>
+ </xsl:attribute>  -->
+
+ <xsl:element name="th">
+  <xsl:attribute name="valign">top</xsl:attribute>
+   <xsl:attribute name="align">left</xsl:attribute>
+<!--    <xsl:choose>
+     <xsl:when test="$mode = 'Previous'">&lt;- </xsl:when>
+     <xsl:when test="$mode = 'Next'">-&gt; </xsl:when>
+   </xsl:choose> -->
+   <xsl:value-of select="concat($mode, ': ')"/>
+ </xsl:element> <!-- th -->
+>>>>>>> 1.2
 
  <xsl:element name="td">
   <xsl:attribute name="valign">top</xsl:attribute>
@@ -224,8 +268,6 @@
 </xsl:element> <!-- tr -->
 
 </xsl:template>
-
-
 
 
 </xsl:stylesheet>
