@@ -1,9 +1,6 @@
 <?php
 
 include_once("taminoConnection.class.php");
-include_once("phpDOM/classes/include.php");
-include_once("common_funcs.php");
-import("org.active-link.xml.XML");
 
 class subjectList {
   var $tamino;
@@ -63,15 +60,14 @@ class subjectList {
     } else {       
       // convert xml subjects into a php array 
       $this->subjects = array();
-      $this->xml_result = $this->tamino->xml->getBranches("ino:response/xq:result");
-      if ($this->xml_result) {
-	// Cycle through all of the branches 
-	foreach ($this->xml_result as $branch) {
-	  if ($val = $branch->getTagContent("dc:subject")) {
-	    array_push($this->subjects, $val);
-	  }
-	} /* end foreach */
-      }
+      //      $this->xml_result = $this->tamino->xml->getBranches("ino:response/xq:result");
+     $this->tamino->xpath->registerNamespace("dc", "http://purl.org/dc/elements/1.1/");
+     $this->tamino->xpath->registerNamespace("ino", "http://namespaces.softwareag.com/tamino/response2");
+      $this->tamino->xpath->registerNamespace("xq", "http://namespaces.softwareag.com/tamino/XQuery/result");
+     $nl = $this->tamino->xpath->query("/ino:response/xq:result/dc:subject");
+     for ($i = 0; $nl->item($i); $i++) {
+       array_push($this->subjects, $nl->item($i)->textContent);
+     }
     } /* end else */
   }  /* end taminoGetSubjects() */
 

@@ -70,17 +70,24 @@ class linkCollection {
     } else {       
       // convert xml ids into a php array 
       $this->ids = array();
-      $this->xml_result = $this->tamino->xml->getBranches("ino:response/xq:result");
-      if ($this->xml_result) {
-	// Cycle through all of the branches 
-	foreach ($this->xml_result as $branch) {
-	  if ($att = $branch->getTagAttribute("id", "xq:attribute")) {
-	    array_push($this->ids, $att);
-	  }
-	}    /* end foreach */
-      } 
-    }
 
+     $this->tamino->xpath->registerNamespace("dc", "http://purl.org/dc/elements/1.1/");
+     $this->tamino->xpath->registerNamespace("ino", "http://namespaces.softwareag.com/tamino/response2");
+      $this->tamino->xpath->registerNamespace("xq", "http://namespaces.softwareag.com/tamino/XQuery/result");
+      $nl = $this->tamino->xpath->query("/ino:response/xq:result/xq:attribute");
+      for ($i = 0; $nl->item($i); $i++) {
+        array_push($this->ids, $nl->item($i)->getAttribute("id"));
+      }
+      
+	//  $this->xml_result = $this->tamino->xml->getBranches("ino:response/xq:result");
+	//      if ($this->xml_result) {
+	// Cycle through all of the branches 
+	//	foreach ($this->xml_result as $branch) {
+	//	  if ($att = $branch->getTagAttribute("id", "xq:attribute")) {
+	//	    array_push($this->ids, $att);
+	//	  }
+	//	}    /* end foreach */
+      }
   }     /* end taminoGetIds() */
 
   // print full details of all linkRecords in a nice table
