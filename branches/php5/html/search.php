@@ -9,9 +9,8 @@ search.php?region=article&term=lincoln&sort=date&op=and&region2=title&term2=amer
 (values are as specified below)  */
 
 include_once("lib/taminoConnection.class.php");
+include_once("config.php");
 include_once("common_functions.php");
-include_once("phpDOM/classes/include.php");
-import("org.active-link.xml.XML");
 
 $region = $_GET["region"]; //options: document|article|title|date|illustration
 $term =  $_GET["term"];  // search string for region above
@@ -23,10 +22,10 @@ $position = $_GET["pos"];  // position (i.e, cursor)
 $operator = $_GET["op"];  // and|or
 
 
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "BECKCTR",
-	      'debug' => false,
-	      'coll' => 'ILN');
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'coll' => $tamino_coll,
+	      'debug' => false);
 $tamino = new taminoConnection($args);
 $xsl    = "search.xsl";
 
@@ -34,59 +33,30 @@ $xsl    = "search.xsl";
 // (needed to pass along in link to browse page for highlighting)
 $xsl_params = array("term"  => $term, "term2" => $term2);
 
-$reg = '';
-
 // set a default maxdisplay
 if ($maxdisplay == '') $maxdisplay = 20;
 // if no position is specified, start at 1
 if ($position == '') $position = 1;
 
-// FIXME: check if sort is set?
+$reg = getRegion($region);
+if ($term2) { $reg2 = getRegion($region2); }
 
-switch ($region) {
- case "article" : $reg = "p"; break;
- case "title"   : $reg = "head"; break;
- case "date"    : $reg = "bibl/date"; break;
-   // case "illustration" : $reg = "@type='Illustration' and ."; break;
- case "illustration" : $reg = "p/figure/head"; break;
- case "document":   // same as default
- default:          $reg = "."; break;
-}
-
-if ($term2 != '') {
-  //if second term string is not defined, do nothing here  
-  $reg2 = ''; 
-  switch ($region2) {
-   case "article" : $reg2 = "p"; break;
-   case "title"   : $reg2 = "head"; break;
-   case "date"    : $reg2 = "bibl/date"; break;
-     //   case "illustration" : $reg2 = "@type='Illustration' and ."; break;
-   case "illustration" : $reg2 = "p/figure/head"; break;
-   case "document":   // same as default
-   default:          $reg2 = "."; break;
-  }
-  // note: spaces MUST be represented as %20, or the term will fail
-  $addterm = "'%20" . $operator . "%20" . $reg2 . "~='" . $term2;
-
-  // terms to highlight on the page
-  $highlight = "$term|$term2";
-} else {
-  $addterm = '';
-
-  // term to highlight on the page
-  $highlight = "$term";
-}
-
-$_sort = '';
 switch ($sort) {
- case "date"  : $_sort ="bibl/date/@value";  break;
  case "type"  : $_sort = "@type"; break;
  case "title" : $_sort = "head"; break;
+ case "date"  :
+ default      : $_sort ="bibl/date/@value";  break;
 }
 
-// construct query from pieces
-//$query = "url?_xql($position,$maxdisplay)=/TEI.2//div2[$reg~='$term$addterm']sortby($_sort)";
-$query = "/TEI.2//div2[$reg~='$term$addterm']sortby($_sort)";
+// construct xquery
+$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
+$for = 'for $a in input()/TEI.2/:text/body/div1/div2';
+$where  = "where tf:containsText(\$a$reg, '$term')";
+if ($term2) { $where .= " $operator tf:containsText(\$a$reg2, '$term2')"; }
+$return = 'return <div2>{$a/@id}{$a/@type}{$a/head}{$a/bibl}' . 
+"<total> {count($for $where return \$a)}</total> </div2>";
+$qsort = "sort by ($sort)";
+$xquery = "$declare $for $where $return $qsort";
 
 html_head("Search Results");
 
@@ -98,14 +68,9 @@ print '<div class="content">
 
 
 // run the xql query
-$rval = $tamino->xql($query, $position, $maxdisplay);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve search results.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-} 
-// initialize cursor values
-$tamino->getCursor();
+//$rval = $tamino->xql($query, $position, $maxdisplay);
+//xquery
+$tamino->xquery($xquery, $position, $maxdisplay);
 
 print "<center><font size='+1'>";
 if ($tamino->count == 0) { print "No matches "; }
@@ -116,10 +81,10 @@ if ($term2) { print "$op $begin_hi2$term2$end_hi in $region2"; }
 print "</font><p>"; 
 
 
-## store result links in a string to print it twice (top & bottom of page)
+// store result links in a string to print it twice (top & bottom of page)
 $result_links = '';
 
-## if there are further pages of search results, link to them.
+// if there are further pages of search results, link to them.
 if ($tamino->count > $maxdisplay) {
   $result_links .= '<li class="firsthoriz">More results:</li>';
   for ($i = 1; $i <= $tamino->count; $i += $maxdisplay) {
@@ -143,7 +108,7 @@ if ($tamino->count > $maxdisplay) {
       // url should be based on current search url, with new position defined
     }
     $j = min($tamino->count, ($i + $maxdisplay - 1));
-    ## special case-- last set only has one result
+    // special case-- last set only has one result
     if ($i == $j) {
       $result_links .= "$i";
     } else {
@@ -171,6 +136,7 @@ print "<hr>";
 $tamino->xslTransform($xsl, $xsl_params);
 $myterms = array($term, $term2);
 $tamino->printResult($myterms);
+//$tamino->printResult();
 
 print "<hr>";
 
@@ -182,6 +148,19 @@ print "<center>$result_links</center>";
    
 <?php
   include("xml/foot.xml");
+
+function getRegion ($r) {
+   switch ($r) {
+ case "article" : $myreg = "/p"; break;
+ case "title"   : $myreg = "/head"; break;
+ case "date"    : $myreg = "/bibl/date"; break;
+   // case "illustration" : $reg = "@type='Illustration' and ."; break;
+ case "illustration" : $myreg = "/p/figure/head"; break;
+ case "document":   // same as default
+ default:          $myreg = ""; break;
+ }
+   return $myreg;
+}
 
 function sort_options ($current) {
   // use the global variables
