@@ -47,7 +47,8 @@
   <xsl:value-of select="biblScope[@type='volume']"/>,
   <xsl:value-of select="biblScope[@type='issue']"/>,
   <xsl:value-of select="biblScope[@type='pages']"/>.<br/>
-  <p><xsl:value-of select="date"/></p>
+<!-- date information seems redundant for some articles... -->
+   <p><xsl:value-of select="date"/></p>
 </xsl:template>
 
 <xsl:template match="p/title">
@@ -107,7 +108,7 @@
     <xsl:if test="@id = $main_id">
       <xsl:value-of select="position()"/>
     </xsl:if>
-  </xsl:for-each> 
+  </xsl:for-each>
 </xsl:variable>
 
 <xsl:element name="table">
@@ -130,18 +131,6 @@
 <xsl:template match="siblings/div2">
 <xsl:param name="mode"/>
 
-<xsl:variable name="linkrel">
-    <xsl:choose>
-        <xsl:when test="$mode='Previous'">
-            <xsl:text>prev</xsl:text>
-        </xsl:when>
-        <xsl:when test="$mode='Next'">
-            <xsl:text>next</xsl:text>
-        </xsl:when>
-    </xsl:choose>
-</xsl:variable>
-
-
 <xsl:element name="tr">
  <xsl:element name="th">
   <xsl:attribute name="valign">top</xsl:attribute>
@@ -154,9 +143,7 @@
   <xsl:element name="a">
    <xsl:attribute name="href">browse.php?id=<xsl:value-of
 		select="@id"/></xsl:attribute>
-    <!-- use rel attribute to give next / previous information -->
-    <xsl:attribute name="rel"><xsl:value-of select="$linkrel"/></xsl:attribute>
-    <xsl:call-template name="cleantitle"/>
+    <xsl:value-of select="./head"/>
   </xsl:element> <!-- a -->   
   </xsl:element> <!-- td -->
  
@@ -179,20 +166,6 @@
 </xsl:element> <!-- tr -->
 
 </xsl:template>
-
- <!-- Use n attribute (normalized caps) for article title; if n is blank, 
-      label as untitled -->
-<xsl:template name="cleantitle">
-  <xsl:choose>
-    <xsl:when test="@n = ''">
-      <xsl:text>[Untitled]</xsl:text>
-    </xsl:when>
-    <xsl:otherwise>
-      <xsl:value-of select="normalize-space(./@n)"/>
-    </xsl:otherwise>
-  </xsl:choose>
-</xsl:template>
-
 
 
 </xsl:stylesheet>

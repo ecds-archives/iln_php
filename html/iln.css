@@ -1,4 +1,4 @@
-body { background:#FFFFFF; color:#333333; }
+body { background:#FFFFFF; color:#333333 }
 
 
 div.heading {	position: relative; 
@@ -21,18 +21,14 @@ div.content {	position: relative;
 		width: 70%;
 		top: 1.5cm; 
 		z-index: 1;
-		overflow: visible;
-/*		border-top: double medium black;*/
+		overflow: visible
 	    }
 div.footing {	position: relative;
 		bottom: -4cm;
 		left: 5cm; 
-		width: 50%;
-		margin-left: 5%;
-		margin-right: 5%;
+		width: 60%;
 		z-index: 2;
-	        background: rgb(255,255,255);
-		border-top: double medium black;
+	        background: rgb(255,255,255)
 	    }
 
 p.head  { text-align: center;
@@ -41,7 +37,7 @@ p.head  { text-align: center;
 	}
 
 p.left  { text-align: left;
-     	  font-family: Arial;
+     	  font-family: Arial 
     	}
 
 p.error {  font-size: 125%; color: red }
@@ -55,8 +51,7 @@ h2 { color: black;
      font-family: Conga; 
      font-size: 1.5em;
      font-weight: normal;
-     text-align: center;
-     border-bottom: double medium black;
+     text-align: center
    }
 
 a	  { text-decoration:underline; font-family:Conga }
@@ -68,16 +63,13 @@ a:hover   { }
 
 tr.label td { font-weight: bold; text-decoration: underline }
 td.label { font-weight: bold; }
-td.figure { text-align: center; vertical-align: middle; }
+td.figure { text-align: center; vertical-align: center; }
 
 img { border: 0 }
 
-div.heading img { border-top: double medium black; padding: 15px 0.5in 0 0.5in;
-	text-align: middle;}
-
-span.term1 { background-color: #d1e1f9; }
-span.term2 { background-color: #fffc7f; }
-span.term3 { background-color: #b4f7aa; }
+span.term1 { background-color: #d1e1f9; font-weight: bold;}
+span.term2 { background-color: #fffc7f; font-weight: bold;}
+span.term3 { background-color: #b4f7aa; font-weight: bold;}
 
 /* Horizontal lists -- display inline, with lines between */
 li.horiz { 

@@ -1,8 +1,12 @@
 <?php
+include_once ("../../config.php");
 include_once ("linkCollection.class.php");
-include_once ("common_funcs.php");
+include_once ("common_functions.php");
 
-link_head("Links - Full Listing");
+html_head("Links - Full Listing");
+
+include("xml/head.xml");
+include("xml/sidebar.xml");
 
 $sort = $_GET["sort"]; // options: title|contrib|date
 // default sort
@@ -15,14 +19,13 @@ print '<div class="content">
 
 include("nav.html");
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-		'coll' => 'iln_links',
-		//'debug' => true,
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
+		'coll' => $link_coll,
 		'limit_subject' => $subject[0],
-		'sort' => $sort);
+		'sort' => $sort,
+		'debug' => false);
 $linkset = new LinkCollection($myargs);
-
 
 
 print "<p align='center'>Currently sorting by <b>$sort</b>, edits are <b>" . ($show_edits ? "visible" : "hidden") . "</b>";
@@ -48,17 +51,10 @@ $linkset->printRecords($show_edits);
 
 include("nav.html");
 
-
-?> 
-
-
-
-  </div>
+print "</div>";
    
-<?php
-    //include("xml/foot.xml");
+include("xml/foot.xml");
+
 ?>
-
-
 </body>
 </html>

@@ -16,7 +16,7 @@ if (name.match(/Internet Explorer/i)) {
 }
 
 //link to the appropriate stylesheet 
-var css_link = '<link rel="stylesheet" type="text/css" href="http://cti.library.emory.edu/iln/';
+var css_link = '<link rel="stylesheet" type="text/css" href="http://chaucer.library.emory.edu/iln/';
 var end_css = '"/>';
 
 document.write(css_link+css+end_css);

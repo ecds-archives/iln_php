@@ -7,7 +7,7 @@
 
 
 // root directory and url where the website resides
-$server = "reagan.library.emory.edu";
+$server = "biliku.library.emory.edu";
 $base_path = "/rebecca/ilnweb";
 $basedir = "/home/httpd/html$base_path";
 $base_url = "http://$server$base_path/";
@@ -19,5 +19,6 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib");
 $tamino_server = "vip.library.emory.edu";
 $tamino_db = "ILN";
 $tamino_coll = "iln";
-$link_coll = "links";
+$link_coll = "links-test";
+$bibl_coll = "bibliog";
 ?>

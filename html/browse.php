@@ -5,44 +5,38 @@
 // optionally, pass search terms for highlighting; for example;
 // browse.php?id=iln38.1068.002&term=lincoln  
 
-include_once("link_admin/taminoConnection.class.php");
+include("config.php");
 include("common_functions.php");
+include_once("xmlDbConnection.class.php");
+
 $id = $_GET["id"];
 $term = $_GET["term"];
 $term2 = $_GET["term2"];
 $term3 = $_GET["term3"];
 
-
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll,
-      	      'debug' => false);
-$tamino = new taminoConnection($args);
+	      'debug' => false);
+$tamino = new xmlDbConnection($args);
 $xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
  
 // addition to the query for next/previous links (only in contents/browse mode, not searches) 
-$sibling_query = '<siblings>     
-{for $b in input()/TEI.2//div1/div2
- sort by (../@id)
-  return <div2>
-          {$b/@id}
-          {$b/@type}
-          {$b/@n}
-          {$b/head}
-          {$b/bibl}
-         </div2> }
-</siblings>'; 
+$sibling_query = '<siblings> {for $b in input()/TEI.2//div1/div2 
+  return <div2>  
+          {$b/@id}  
+          {$b/@type}  
+          {$b/head}  
+          {$b/bibl}  
+         </div2> } 
+</siblings>';  
 
-$query ="for \$a in input()/TEI.2//div1/div2
-where \$a/@id='$id'
-return <div1> 
-{\$a}";
-if (!(isset($term))) { $query .= $sibling_query; }
-$query .= "</div1>";  
-
+$query ="for \$a in input()/TEI.2//div1/div2 where \$a/@id='$id' return <div1> {\$a}"; 
+// if there is no search term, this is browse mode - use sibling query 
+if (!(isset($term))) { $query .= $sibling_query; } 
+$query .= "</div1>";   
 
 $xsl_file = "browse.xsl"; 
-
 
 html_head("Browse - Article");
 
@@ -50,17 +44,9 @@ include("xml/head.xml");
 include("xml/sidebar.xml");
 print '<div class="content">';
 
-
-
 if ($id) {
-  // run the query
-//  $rval = $tamino->xql($xql);
-  $rval = $tamino->xquery($query);
-  if ($rval) {       // tamino Error code (0 = success)
-    print "<p>Error: failed to retrieve contents.<br>";
-    print "(Tamino error code $rval)</p>";
-    exit();
-  } 
+  // run the query 
+  $tamino->xquery($query);
 
   // convert the terms into an array to pass to tamino functions
   $myterms = array($term, $term2, $term3);
@@ -74,15 +60,9 @@ if ($id) {
   print "<p class='error'>Error: No article specified!</p>";
 }
 
+print "</div>"; 
+include("xml/foot.xml"); 
 ?>
-
-
-  </div>
-   
-<?php
-  include("xml/foot.xml");
-?>
-
 
 </body>
 </html>

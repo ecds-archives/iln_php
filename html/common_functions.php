@@ -1,23 +1,21 @@
 <?php
 
-// php functions & variables used by more than one ILN php page
 include("config.php");
+
+// php functions & variables used by more than one ILN php page
 
 /* Check browser & OS and determine which css file to use
    (only checking for IE -- the only one that needs different css ) 
 */
+
 function getCSS () {
+  global $base_url;
   $HTTP_USER_AGENT = getenv("HTTP_USER_AGENT");
 
   if (eregi ("MSIE", $HTTP_USER_AGENT)) { $browser = "MSIE"; }
   if (eregi ("mac",  $HTTP_USER_AGENT)) { $os = "mac"; }
   else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
   
-  // $css_basepath = "http://chaucer.library.emory.edu/iln/";
-  // development
-  $css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
-  // production
-  //  $css_basepath = "http://cti.library.emory.edu/iln/";
   $css = "iln.css"; 
   if ($browser == "MSIE") {
     if ($os == "mac") {
@@ -26,36 +24,30 @@ function getCSS () {
       $css = "iln-iewin.css";
     }
   }
-  return "$css_basepath$css";
+  return "$base_url$css";
 }
 
 
-/* 12.10.2004 - Added robots meta line to header, partially as a test
-   to see if it would help google to index the actual articles.
-*/
-
-function html_head ($mode, $contentlist = false) {
-  global $base_url;	// use base url as set in site-wide config file
+function html_head ($mode) {
+  global $base_url;
   $mycss = getCSS();
 print "<html>
  <head>
  <title>$mode - The Civil War in America from The Illustrated London News</title>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
-<meta name=\"robots\" content=\"index,follow\">
-<link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">\n";
-
-// only load content-list javascript if needed
- if ($contentlist) {
-   print "<script language=\"Javascript\" 
-    src=\"$base_url/cookies.js\"></script>
+<!-- base url is $base_url -->
+<link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">
+<script language=\"Javascript\" 
+	src=\"$base_url/cookies.js\"></script>
 <script language=\"Javascript\" 
 	src=\"$base_url/content-list.js\"></script>
-<link rel=\"stylesheet\" type=\"text/css\" href=\"$base_url/contents.css\">\n";
- }
-print "<script language=\"Javascript\"
-       src=\"$base_url/image_viewer/launchViewer.js\"></script>
+<script language=\"Javascript\" 
+	src=\"${base_url}image_viewer/launchViewer.js\"></script>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"${base_url}contents.css\">
+
  </head>";
 }
+
 
 
 // common variables for highlighting search terms

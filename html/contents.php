@@ -1,54 +1,56 @@
 <?php
 
-include_once("link_admin/taminoConnection.class.php");
+include_once("config.php");
+include_once("xmlDbConnection.class.php");
 include("common_functions.php");
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll,
 	      'debug' => false);
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
-$query = 'for $b in input()/TEI.2/:text/body/div1
-sort by (@id)
-return <div1 id="{$b/@id}" type="{$b/@type}">
+$query = 'for $b in input()/TEI.2//div1
+return <div1>
+ {$b/@type}
  {$b/head}
  {$b/docDate}
  { for $c in $b/div2 return
-   <div2 id="{$c/@id}" type="{$c/@type}" n="{$c/@n}">
+   <div2>
+     {$c/@id}
+     {$c/@type}
      {$c/head}
      {$c/bibl}
-     {for $d in $c/p/figure return $d}
+     { for $d in $c/p/figure return $d}
    </div2>
-}</div1>';
-
-$rval = $tamino->xquery($query);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-} 
+}
+</div1>';
+/*
+added this to query to test taminoConnection class
+<total>{count(input()/TEI.2//div1/div2)}</total>
+*/
 
 
-html_head("Browse", true);
+$tamino->xquery($query);
+
+html_head("Browse");
 
 include("xml/head.xml");
 include("xml/sidebar.xml");
 
 print '<div class="content"> 
           <h2>Browse</h2>';
+print "<hr>";
 $xsl_file = "contents.xsl";
 $tamino->xslTransform($xsl_file);
 $tamino->printResult();
 
-?> 
+print "<hr>";
+print "</div>";
    
-  </div>
-   
-<?php
-  include("xml/foot.xml");
-?>
+include("xml/foot.xml");
 
+?>
 
 </body>
 </html>

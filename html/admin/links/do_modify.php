@@ -1,12 +1,15 @@
 <?php
-include_once("common_funcs.php");
+include("../../config.php");
+include("common_functions.php");
 include_once ("linkRecord.class.php");
-link_head("Links - Process new link");
+
+html_head("Links - Process new link");
+include("xml/head.xml");
+include("xml/sidebar.xml");
 
 print '<div class="content">
 <h2>Processing new link</h2>'; 
 include("nav.html");
-
 
 $url = htmlentities($_GET["url"]);
 $id = htmlentities($_GET["id"]);
@@ -20,20 +23,17 @@ $edit_contributor = htmlentities($_GET["mod_contrib"]);
 $edit_desc = htmlentities($_GET["mod_desc"]);
 
 
-
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-		'coll' => 'iln_links',
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
+		'coll' => $link_coll,
 		'url' => $url,
 		'id' => $id,
 		'title' => $title,
 		'description' => $description,
 		'date' => $date,
-		//		'debug' => true,
-		'contributor' => $contributor);
+		'contributor' => $contributor,
+		'debug' => false);
 $newlink = new LinkRecord($myargs, $subject);
-
-
 
 // old editing information is submitted via hidden inputs
 // get any old edits & add to linkRecord so they are not lost
@@ -52,9 +52,14 @@ $edit_array = array( "date" => $edit_date,
 		     "contributor" => $edit_contributor,
 		     "description" => $edit_desc);
 
-
 $newlink->addEdit($edit_array);
 $newlink->taminoModify();
 $newlink->printHTML();
 
+include("nav.html");
+
+print '</div>';
+include("xml/foot.xml");
 ?>
+</body>
+</html>

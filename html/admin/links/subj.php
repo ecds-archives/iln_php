@@ -1,15 +1,19 @@
 <?php
-include_once ("subjectList.class.php");
-include_once ("common_funcs.php");
+include("../../config.php");
+include("common_functions.php");
+include("subjectList.class.php");
 
-link_head("Links - Manage Subjects");
+html_head("Links - Manage Subjects");
+include("xml/head.xml");
+include("xml/sidebar.xml");
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-		'coll' => 'iln_links');
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
+		'coll' => $link_coll,
+		'debug' => false);
 $subjects = new subjectList($myargs);
 
-print '<div class="contents">
+print '<div class="content">
 <h2>Manage Subjects</h2>';
 include("nav.html");
 print "<hr>";
@@ -33,4 +37,8 @@ print '<hr><h3>Add a new subject</h3>
 print "<hr><h3>Remove an existing subject</h3>";
 $subjects->printRemovalForm();
 
+print "</div>";
+include("xml/foot.xml");
 ?>
+</body>
+</html>
