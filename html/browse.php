@@ -23,9 +23,11 @@ $xql = "TEI.2//div1/div2[@id='" . $id . "']";
 // addition to the query for next/previous links (only in contents/browse mode, not searches) 
 $sibling_query = '<siblings>     
 {for $b in input()/TEI.2//div1/div2
+ sort by (../@id)
   return <div2>
           {$b/@id}
           {$b/@type}
+          {$b/@n}
           {$b/head}
           {$b/bibl}
          </div2> }

@@ -15,7 +15,7 @@ return <div1 id="{$b/@id}" type="{$b/@type}">
  {$b/head}
  {$b/docDate}
  { for $c in $b/div2 return
-   <div2 id="{$c/@id}" type="{$c/@type}">
+   <div2 id="{$c/@id}" type="{$c/@type}" n="{$c/@n}">
      {$c/head}
      {$c/bibl}
      {for $d in $c/p/figure return $d}
@@ -37,12 +37,9 @@ include("xml/sidebar.xml");
 
 print '<div class="content"> 
           <h2>Browse</h2>';
-print "<hr>";
 $xsl_file = "contents.xsl";
 $tamino->xslTransform($xsl_file);
 $tamino->printResult();
-
-print "<hr>";
 
 ?> 
    
