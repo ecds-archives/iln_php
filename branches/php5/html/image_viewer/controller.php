@@ -1,3 +1,9 @@
+
+<CENTER>
+<TABLE WIDTH="100%" height="65" CELLSPACING="0" CELLPADDING="0">
+<TR><TD height="65%">
+<center>
+
 <?php
 
 $head = $_GET["head"];
@@ -5,24 +11,20 @@ $id = $_GET["id"];
 $width = $_GET["width"];
 $height = $_GET["height"];
 
-?>
 
-<CENTER>
-<TABLE WIDTH="100%" height="65" CELLSPACING="0" CELLPADDING="0">
-<TR><TD height="65%">
-<center>
+print "<h3>$head</h3>"; 
 
-<?php print "<h3>$head</h3>"; 
 
 // calculate image dimensions for each setting
 $dim_25 = "width=" . ($width*0.25) . "&height=" . ($height*0.25);
-$dim_50 = "width=" . ($width*0.5) . "&height=" . ($height*0.5);
+$dim_50 = "width=" . ((float)$width * 0.5) . "&height=" . ($height*0.5);
 $dim_75 = "width=" . ($width*0.75) . "&height=" . ($height*0.75);
 $dim_100 = "width=$width&height=$height";
 $dim_150 = "width=" . ($width*1.5) . "&height=" . ($height*1.5);
 $dim_200 = "width=" . ($width*2) . "&height=" . ($height*2);
 $dim_fitHeight = "height=100%";
 $dim_fitWidth =  "width=100%";
+
 
 print '<map name="zoom">
 <area shape="rect" alt="Zoom: 25%" coords="0,0,40,24" ';

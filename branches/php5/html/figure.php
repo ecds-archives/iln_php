@@ -4,8 +4,6 @@
 // figure.php?id=v38p87
 
 
-include_once("phpDOM/classes/include.php");
-import("org.active-link.xml.XML");
 include("common_functions.php");
 
 $id = $_GET["id"];
@@ -25,16 +23,21 @@ $url = "http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@
 
 $xmlContent = file_get_contents($url);
 
-$xml = new XML($xmlContent);
-if (!($xml)) {        ## call failed
+$xml = new domDocument();
+$xml->loadXML($xmlContent);
+
+if (!($xml)) {        // call failed
   print "Error! unable to open xml content.<br>"; 
 }  
-$figure = $xml->getBranches("ino:response/xql:result/figure");  
-
-$head   = $figure[0]->getTagContent("head"); 
+$myxpath = new domxpath($xml);
+// note: query returns a dome node list object
+$n = $myxpath->query("/ino:response/xql:result/figure/head");
+if ($n) { $head = $n->item(0)->textContent; }
 $head = urlencode($head);
-$width  = $xml->getTagAttribute("width", "ino:response/xql:result/figure");
-$height = $xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
+$n = $myxpath->query("/ino:response/xql:result/figure/@width");
+if ($n) { $width = $n->item(0)->textContent; }
+$n = $myxpath->query("/ino:response/xql:result/figure/@height");
+if ($n) { $height = $n->item(0)->textContent; }
 
 // Now, create the frameset with controller & image window
 print "<frameset rows='80,*' border='0' >
