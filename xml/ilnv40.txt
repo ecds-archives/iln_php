@@ -4401,7 +4401,7 @@ persons concerned from risk and suffering which might be feared if
 they were left to make their way, in an inclement season, through the
 ice and snow of a northerly Canadian voyage. It was a customary act of
 comity such as the United States' Government receives from New Grenada
-whenever it passes troops across the isthmus:--
+whenever it passes troops across the isthmus:--</p>
 
 <p><q rend="blockquote">The United States have not only
 studiously<orig reg="practiced"> practised</orig>orig> the meet perfect
@@ -4464,94 +4464,802 @@ Halifax, Nova Scotia, to San Francisco. </p>
 <p>Two American travellers in Rome, ostentatiously persisting in
 remaining covered whilst a religious procession was passing, got
 severely handled by the gendarmes.</p></div2>
-THE ILLUSTRATED LONDON NEWS
+<div2 id="iln40.1132.002" n="The Illustrated London News"
+      type="article">
 
-LONDON, SATURDAY, FEBRUARY 22, 1802.
+<head>THE ILLUSTRATED LONDON NEWS.</head>
 
-Public opinion in the Northern States ppe&rs to be calling peremptorily for action on the part of the military authorities; and Journals which are usually well-disposed towards the Government do not scruple to declare that unless something be done towards the subjugation of the South it will be difficult to protest much longer against the interference of other nations. The call seems to be heard, and a simultaneous movement of three forces, intended to clear Kentucky of the Southern troops, is announced. Again, we are told that another fortnight will bring us great news. Mr. Jefferson Davis was to be inaugurated as First President of the South on this day (the 22nd), and has selected the especial sacred volume on which "his lips shall bepressed" in ratification of his vow to protect the system of man-stealing and man-selling. The great consideration with the North is, of course, money; and, provided this can be found, it is most probable that the long and magnificent preparations made by General M'Olellan will. enable him to strike an important blow, one which will satisfy the honour of the North and permit Mr. Lincoln to listen to terms of compromise. A strange rumour is, however, promulgated, to the effect that the President and his War Secretary design to take the responsibility of commanding the advancing army, while General M'Clellan will be left to act upon the Potomac. We mention. this because it i gravely asserted in several journals, but the
+<dateline rend="center"><hi rend="italic">LONDON, SATURDAY,
+FEBRUARY</hi> 22, 1802.</dateline>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1132</biblScope> 
+           <biblScope type="pages">p. 188</biblScope> 
+           <date value="1862-02-22">Feb. 22,1862</date>
+         <extent></extent>
+</bibl>
 
-statement does not seem very truthful. - -
-ROUSE OF COMMONS.-MONDAY,
+<p>Public opinion in the Northern States appears to be calling
+peremptorily for action on the part of the military authorities; and
+journals which are usually well-disposed towards the Government do not
+scruple to declare that unless something be done towards the
+subjugation of the South it will be difficult to protest much longer
+against the interference of other nations. The call seems to be heard,
+and a simultaneous movement of three forces, intended to clear
+Kentucky of the Southern troops, is announced. Again, we are told that
+another fortnight will bring us great news. Mr. Jefferson Davis was to
+be inaugurated as First President of the South on this day (the 22nd),
+and has selected the especial sacred volume on which "his lips shall
+be pressed" in ratification of his vow to protect the system of
+man-stealing and man-selling. The great consideration with the North
+is, of course, money; and, provided this can be found, it is most
+probable that the long and magnificent preparations made by General
+M'Clellan will enable him to strike an important blow, one which will
+satisfy the honour of the North and permit Mr. Lincoln to listen to
+terms of compromise. A strange rumour is, however, promulgated, to the
+effect that the President and his War Secretary design to take the
+responsibility of commanding the advancing army, while General
+M'Clellan will be left to act upon the Potomac. We mention this
+because it is gravely asserted in several journals, but the statement does not seem very truthful.</p></div2>
+<div2 id="iln40.1132.003" n="House of Commons--Monday" type="article">
+<head>HOUSE OF COMMONS.-MONDAY.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1132</biblScope> 
+           <biblScope type="pages">p. 192</biblScope> 
+           <date value="1862-02-22">Feb. 22,1862</date>
+         <extent></extent>
+</bibl>
 
-Tires PSrIrUBE OF rns Titesest-On the motion for going into Committee of Supply on the Supplemental Estimates (Army and Navy), Mr. BRIGHT, in a speech of some length, adverted to the affair of the Trout. He expressed his approval of the tone adopted by Lord Russell In the despatches which he had addressed to the British Minister at Washington, but entirely dissented from the policy of warlike preparation, the root of which the eenntry was now required to defray. Go Wended the American Government from the I- 'Ion of being under the influence of a mob, showed how the menaree whorh bad boon indulged in had paralysed trade even to Its farthest ramtfoatlono, nod asserted that the real interests of this country and the progress of humon freedom were bound op with the canoe of the Federal-states.-Mr. Bsxtrrit, while approving of the preparations mine by the Government, urged that the North American colonies, whose wealth and public spirit had been mode conspicuous by recent month, should pay the expense of their own military eotshllehnoonto.-Lord PALME1tSTON defended the Government from the imputations of Mr. Bright. The policy which her Majesty's Government had pursued In reference to the affair of the Trent had mot with the general approval of the country, because ft was obvious that no ether course could have been adopted to assort the honour and Independence of the country. If the American Government really felt that they were bound by their own prthrtples of international law to give op the Confederate Commissioners, why did they watt for a remonstrance from England, and why bed they kept them for several weeks in prison? Her Mojesty'e Government bad no information to lead them to believe that the Prison= who had heea token antof the Inert would have been given lip. Qot
-the contrary, they were bound to arrive at an oppoalte conclusion, for Oupinto
+<p>T<hi rend="smallcaps">HE SEIZURE OF THE TRENT.</hi>-On the motion
+for going into Committee of Supply on the Supplemental Estimates (Army
+and Navy), Mr. B<hi rend="smallcaps">RIGHT</hi>, in a speech of some
+length, adverted to the affair of the Trout. He expressed his approval
+of the tone adopted by Lord Russell in the despatches which he had
+addressed to the British Minister at Washington, but entirely
+dissented from the policy of warlike preparation, the root of which
+the country was now required to defray. He defended the American
+Government from the imputation of being under the influence of a mob,
+showed how the menaces which had been indulged in had paralysed trade
+even to its farthest ramifications, and asserted that the real
+interests of this country and the progress of human freedom were bound
+up with the cause of the Federal States.-Mr. B<hi
+rend="smallcaps">AXTER</hi>, while approving of the preparations made
+by the Government, urged that the North American colonies, whose
+wealth and public spirit had been made conspicuous by recent events,
+should pay the expense of their own military establishments.-Lord P<hi
+rend="smallcaps">ALMERSTON</hi> defended the Government from the
+imputations of Mr. Bright. The policy which her Majesty's Government
+had pursued in reference to the affair of the Trent had met with the
+general approval of the country, because it was obvious that no other
+course could have been adopted to assert the honour and independence
+of the country. If the American Government really felt that they were
+bound by their own principles of international law to give up the
+Confederate Commissioners, why did they wait for a remonstrance from
+England, and why had they kept them for several weeks in prison? Her
+Majesty'e Government had no information to lead them to believe that
+the prisoners who had been taken out of the Trent would have been given up. On<lb/>
+the contrary, they were bound to arrive at an opposite conclusion, for
+Captain Wilks had been converted into a hero, and his act had been
+applauded at a public banquet, and had been commended by the House of
+Representatives and the Department of the Admiralty. So far from her
+Majesty's Government  having incurred the censure of the House or the
+country, he submitted that
 
-Willie had been converted into a hero, and his act had been RPPIsUdsi at a public banquet, sad had been commended by the Rome of ROpre100tatipel and the Department of the Admiralty. So tar from her idsjooty's Government g having incurred the censure of the Rouse or the country, he sub heed
+they would have deserved the displeasure of both if they had simply
+rested their case upon a demand and had taken no steps to extort
+redress by the usual means. The Government had done what they
+conceived to be their duty, and, although they had done no more than
+their duty, they believed they had given expression to the feelings of
+the country at a moment of no ordinary difficulty.</p></div2>
+<div2 id="iln40.1132.004" n="House of Lords--Tuesday." type="article">
+<head>HOUSE OF LORDS.--TUESDAY.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1132</biblScope> 
+           <biblScope type="pages">p. 192</biblScope> 
+           <date value="1862-02-22">Feb. 22,1862</date>
+         <extent></extent>
+</bibl>
 
-they would have deserted the displeasure of both if they had empty r%ict their case upon a demised and had taken no steps to extort soirees by the usual means. The Government had done what they conceived to be their duty, and, although they had done no more than their daly, they believed they had given expression to the feelings of the country at a moment of no . ordinary difficulty.
+<p>A<hi rend="smallcaps">RREST OF BRITISH SUBJECTS IN
+AMERICA</hi>.-Lord C<hi rend="smallcaps">ARNARVON</hi> again
 
-HOUSE OF LORDS.-.-TUESDAY.
+introduced the subject of the imprisonment of British subjects in the
+the United
 
-ARuicsv OF BRITISH SUBJECTS IN &MJsasJoa..-Lord Cdaoenayoy
-
-introduced the subject of the imprisonment of British subjects in the thaots
-
-States, with especial reference to the ones of Mr. Shaver, for Whose dolor.
-
+States, with especial reference to the ones of Mr. Shaver, for whose incar
 ceration he considered compensation should have been
+demanded.--Earl R<hi rend="smallcaps">USSELL</hi> in reply, said that
+Mr. Shaver had made no application to him for compensation. The gist
+of the case was whether this gentleman had or had not rendered
+assistance to the Confederates, as alleged by Mr. Seward. The noble
+Lord, in answer to the objection that the President had been guilty of
+an unwarrantable stretch of authority, said that the power of
+suspending the writ of habeas corpus was vested in him.</p></div2>
+<div2 id="iln40.1132.005" n="The Civil War in America" type="article">
+<head>THE CIVIL WAR IN AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1132</biblScope> 
+           <biblScope type="pages">p. 200</biblScope> 
+           <date value="1862-02-22">Feb. 22,1862</date>
+         <extent></extent>
+</bibl>
 
-wesEc,n, In reply, said that Mr. Shaver had made no application to hire faa. compensation. The gist of the case was whether this gentleatoc had or lieu not rendered aseista;ce to the Confederates, as alleged by Mr. Sasuird. Pits noble Lord, he answer to the objection that the President had been guilty at an unwarrantable stretch of authority, said that the payee of silopmding the writ of hoboes corpus wee vested iii hint.
-THE CIVIL WAR IN AMERICA.
+<p rend="center"><hi rend="italic">(From our Special Artist and
+Correspondent.)</hi></p>
 
-(From our Special Artist and Correspondent.)
 
-On Board the Guide, Hatteras Inlet, North Caroline, Jan. 22.
+<p rend="right">On Board the Guide, Hatteras Inlet,</p>
+<p rend="right"> North Caroline, Jan. 22.</p>
 
-On the evening of the day on which I dated my last letter from the Picket we arrived at Forum Monroe, accompanied by most of the ships composing the Burnside expedition, only half a dozen or so being delayed by the fog. The latter joined the fleet on the following morngm Hampton Roads with the exception of the John Trucks, which had got on one in tlie Chesapeake, and had not been got off up to the ti pie of our leaving; she bad the Eoeneuil Zouaves on board. There has been so much said of Fortress M',nroe by others at various times during the present campaign, and especially by Mr. Russell, that there is little or nothing left for me to bore your readers with in reference to this famous American stronghold. Neither have I made you a sketch. of the place, which is singularly inappropriate for illustration, beng nothing more than an intrencued camp on a low wit of sand, but immensely strong for all that. Besides, we spent but
+<p>On the evening of the day on which I dated my last letter from the
+Picket we arrived at Fortress Monroe, accompanied by most of the ships
+composing the Burnside expedition, only half a dozen or so being
+delayed by the fog. The latter joined the fleet on the following
+morning in Hampton Roads with the exception of the John Trucks, which
+had got on shore in the Chesapeake, and had not been got off up to the time of our leaving; she had the Epeneuil Zouaves on board. There has been so much said of Fortress Monroe by others at various times during the present campaign, and especially by Mr. Russell, that there is little or nothing left for me to bore your readers with in reference to this famous American stronghold. Neither have I made you a sketch of the place, which is singularly inappropriate for illustration, beng nothing more than an intrenched camp on a low spit of sand, but immensely strong for all that. Besides, we spent but
 
-little time there, and that was all confusion of preparation for departure for our unknown destination. The secret hac been well kept. Not a soul, except the General-in-Chief and perhaps Commodore GooNsborongh, had an inkling of ourftsilie de route, though manifold were the conjectures of those with want I was thrown in contact. I heard every niece mentioned, from Galveston, in Texas, up to the York River and the Bappahaunoch, and some even supposed we were bound no the Potomac to clear out the Confederate batteries at Evausport and Shipping Point. But this state of uncertainty, was not to last long, as the officer commanding the troops on each ship had sealed orders given him, which were to be opened after getting six miles to sea. Well, we arrived, as I have said, at the place of rendezvous cif Fortress 3toiroe, on the evening of the 10th inst., and we weighed anchor on the following night at 11 p.m. My vessel was the Picket, a screw, the smallest in the fleet, on which General
+little time there, and that was all confusion of preparation for
+departure for our unknown destination. The secret had been well
+kept. Not a soul, except the General-in-Chief and perhaps Commodore
+Gouldsborongh, had an inkling of our<hi rend="italic"> feuille de
+route</hi>, though manifold were the conjectures of those with whom I
+was thrown in contact. I heard every place mentioned, from Galveston,
+in Texas, up to the York River and the Rappahannock, and some even
+supposed we were bound up the Potomac to clear out the Confederate
+batteries at Evansport and Shipping Point. But this state of
+uncertainty, was not to last long, as the officer commanding the
+troops on each ship had sealed orders given him, which were to be
+opened after getting six miles to sea. Well, we arrived, as I have
+said, at the place of rendezvous off Fortress Monroe, on the evening of the 10th inst., and we weighed anchor on the following night at 11 p.m. My vessel was the Picket, a screw, the smallest in the fleet, on which General
 
  Burnside had established his head-quarters, much against the wish
 
-of every one, for, although she was perfectly new, her proportions were scarcely those of a ship fitted to cope with a heavy sea. Before leaving there were all kinds of discomfiting prognostications about the weather. Old pilots shook their heads end prophesied north.easters; anxious groups surrounded the barometer and reported it going down rapidly, while evil crokere foretold worse disasters then happened to Sherman's expedition on its way to Port. Royal. But matters had been already delayed too long, and so it was anchor speak and away despite ancient mariners and mercurial oracles. As I had been invited to accompany the General, and had accepted, of course we rowed in the same boat; where he went there should I go but I must confess I should have preferred his choosing a large steamer instead of the mite of a cockleshell we were embarked in. Well, when we had got six miles down the roads towards Cape Henry. the General gave instructions to our Captain to shape his course for fl:atteras, and then, for the first time, I became aware of our destination. We were to pass over the bulkhead of Pamlicn Sound and attack the Confederate position at Roanoke Island; and, if successful in this, to advance on New Bernie, end thus form a basis from which to make approaches towards the centre of North Carolina, occupying the different lines of rails, and cutting off the communications of the Secessionists on the Potomac with the uthern seaboard States. To do this we had a force of something like 16,000 men, and afleet of a hundred transports and storeships, including fourteen or fifteen small river, steamers fitted as gun-boats to act in shallow water.
+of every one, for, although she was perfectly new, her proportions were scarcely those of a ship fitted to cope with a heavy sea. Before leaving there were all kinds of discomfiting prognostications about the weather. Old pilots shook their heads end prophesied north-easters; anxious groups surrounded the barometer and reported it going down rapidly, while evil crokers foretold worse disasters than happened to Sherman's expedition on its way to Port Royal. But matters had been already delayed too long, and so it was anchor apeak and away despite ancient mariners and mercurial oracles. As I had been invited to accompany the General, and had accepted, of course we rowed in the same boat; where he went there should I go but I must confess I should have preferred his choosing a large steamer instead of the mite of a cockleshell we were embarked in. Well, when we had got six miles down the roads towards Cape Henry, the General gave instructions to our Captain to shape his course for Hatteras, and then, for the first time, I became aware of our destination. We were to pass over the bulkhead of Pamlico Sound and attack the Confederate position at Roanoke Island; and, if successful in this, to advance on New Berne, and thus form a basis from which to make approaches towards the centre of North Carolina, occupying the different lines of rails, and cutting off the communications of the Secessionists on the Potomac with the Southern seaboard States. To do this we had a force of something like 16,000 men, and afleet of a hundred transports and store-ships, including fourteen or fifteen small river steamers fitted as gun-boats to act in shallow water.</p>
 
-Woe is me I There was more in the prognostications of the old pilot and barometer than we were willing to admit for on rounding Cape Henry we got into the trough of a real Atlantic see, and found the breeze rapidly freshening into a gale. For a moment we all thought we were going to "turn turtle," and I, who had just laid down on a couch in the deck-cabin, was hurled against the door, which burst open with the concussion and shot me through it into the lee scuppers, where I rolled about in six or eight inches of the wholesome briny.. At the present moment I am greatly confused as to the evolutions we performed in that one great lurch, followed, alas I by many after ones but I cannot help thinking we stood on the funnel for at last five minutes. When at last I collected my battered remains together I found a party of anxious, lightly-clad, shivering individuals holding on to stanchions end ropes. However, the captain got her head to it and matters were somewhat improved, and .the little Picket struggled forward very much after the fashion that some gentlemen do returning home late from a dinner party. I groped my way back to my 'couch over the ruins of the steward's crockery, and, by a judicious use of padding, succeeded in wedging myself in
+<p>Woe is me&#x0021;  There was more in the prognostications of the old pilot and barometer than we were willing to admit, for on rounding Cape Henry we got into the trough of a real Atlantic sea, and found the breeze rapidly freshening into a gale. For a moment we all thought we were going to "turn turtle," and I, who had just laid down on a couch in the deck-cabin, was hurled against the door, which burst open with the concussion and shot me through it into the lee scuppers, where I rolled about in six or eight inches of the wholesome briny. At the present moment I am greatly confused as to the evolutions we performed in that one great lurch, followed, alas&#x0021; by many after ones; but I cannot help thinking we stood on the funnel for at least five minutes. When at last I collected my battered remains together I found a party of anxious, lightly-clad, shivering individuals holding on to stanchions and ropes. However, the captain got her head to it and matters were somewhat improved, and the little Picket struggled forward very much after the fashion that some gentlemen do returning home late from a dinner party. I groped my way back to my couch over the ruins of the steward's crockery, and, by a judicious use of padding, succeeded in wedging myself in
 
- tight, and an slept soundly Mug, Day dawned with a thick fog hod a heavy swell on. Now and then the misty veil would rise and give us occasional glimpses of the coast of North Carolina, arid, uninviting, end desolate m appearance: nothing more than a succession of hummocks of sand, jotted here end there with the skeleton timbers of many good ships cast away on the inhospitable shore. Towards evening the wind blow a perfect gale from S.S.W,, making the eating of one's dinner exceedingly problematical. The only way of taking in supplies was to hold on by one hand end watch the Opportunity of feeding with the other. Two of the party, after the first spoonful of soup, betrayed unmistakable signs of a loathing of food, causing "the steward to hasten with the necessary basin ;" but, with the characteristic obstinacy of people attacked with their complaint, they repudiated anything being the matter with them, and, by delaying their exit till the supreme moment, overreached themselves and those sitting beside them.
+ tight, and so slept soundly till morning.</p>
+<p> Day dawned with a thick fog hod a heavy swell on. Now and then the misty veil would rise and give us occasional glimpses of the coast of North Carolina, arid, uninviting, end desolate in appearance: nothing more than a succession of hummocks of sand, jotted here and there with the skeleton timbers of many good ships cast away on the inhospitable shore. Towards evening the wind blew a perfect gale from S.S.W., making the eating of one's dinner exceedingly problematical. The only way of taking in supplies was to hold on by one hand and watch the opportunity of feeding with the other. Two of the party, after the first spoonful of soup, betrayed unmistakable signs of a loathing of food, causing "the steward to hasten with the necessary basin ;" but, with the characteristic obstinacy of people attacked with their complaint, they repudiated anything being the matter with them, and, by delaying their exit till the supreme moment, overreached themselves and those sitting beside them.</p>
+<p>Oh dear&#x0021; I wish there were no such things as naval expeditions for
 
-(ii, .4'? T-,i
-
-which the troops were embarked being nothing more than huge top-hampered river steamers, with projecting guards that would smash up like cardboard if fairly struck by a sea. But, happily, as we and the day advanced, more wreath y lines of smoke indicated the approach of others of the fleet; and oh, good fortune I by Ii am. we had weathered the cape and were hove to off Hatteras Bar, waiting for the little black tug-boat that was steaming out to pilot us in. Without exaggeration, I may state the height of the breakers through which the narrow channel ran to have been nearly, if not quite twenty feet, with a depth of thirteen feet in the deepest part. The Picket was the fret to venture over, closely followed by the Peabody and Eastern City, and having on her starboard quarter the pilot-tug. So awful was the entourage of hissing breakers, and so certain our destruction should we yaw off but a point or two either way, that this was probably the most hazardous period of our tempestuous voyage. The Sketch I send (engraved on page 187) is faithful to the truth, and will better illustrate our position than anything I can express in writing. By midday we were over and at anchor in Pamlico Sound, under shelter of a spit of sand which up to the present constitutes the entire Federal department of North Carolina. On this land, partially submerged at high water, are built the forts captured by Commodore Stringham end General Butler. last August or early in September, I forget which; but to my mind the greatest ham that could have been done the Confederates would have been to leave them quietly in possession of this God-forsaken spot. Please, as the showman says, to turn to the other Sketch (engraved on page 186), end judge for yourself if such a place is fit for habitation by aught save clams end muscles. But the occupation has been of great advantage to the Federal Government as it has effectually placed a seal upon the outlets of Albemarle end amlico Sounds, shutting in the few vessels the Southerners have dens cee peruges.
-
- It was on the 18th iuet. that we cast our anchor in the waters of
-
-Secessia, fourscore vessels drifting end crashing into each other in
-
-a harbour, if so it can be designated, scarcely large enough to float a dozen comfortably. At one moment the little Picket had three huge floating barracks blown on to her in a heap, making it extremely probable we should drag to sea together and go to pieces on the bar. Everybody on board worked with a will; axes and handspikes were in every hand, assisting to clear away the surrounding wreck; and your correspondent as he sprang for the chains of the Northerner, grasping a fender to ease off the shock as she closed in missed his footing, and was only rescued from being flattened out like a pancake by the activity of some soldiers who dragged him up the side a second before the collision took place.
-
-The great difficulty to be contended against in the harbour is the shallowness of the water, except in certain places, endin these the ships are wedged together, with scarcely room to awing, end with the rush of the tide out from the Sound, or in from the ocean, assisted by incessant gales of wind, there is hardly a minute of the day that some vessel does not come to grief. About a mile u¯ is the bulkhead, formed by a ridge of eandbaulcs, ,over ..whlcb ,the gunboats and transports of lighter draught have to pass before they can advance to the attack of Roanoke Island. I foresee even now, though many are over (all the gun-boats are) that there will be great difficulty about this, for the vessel on which I am writing is stuck hard and fast, and thumping and humping in a howling northeaster. In answer to our sinale for assistance the Commodore who has come down to take command of the naval portion of the expeton, replies that nothing at present can be done for us, as it is dangerous, end we must wait for the weather to moderate before any attempt can be made to relieve us. This is a very pleasant state of affairs, considering we have only four casks of water in the hold and no means of communicating with the store-ships. Fortunately we put our troops ashore to lighten us before attempting to cross, otherwise we should have been in a very bad condition indeed. I hope our timbers are sound and well riveted together, else I may expect to disappear through the floor beneath me, after the fashion of a pantomime trick, during one of the thumps. By-the-by, as I have digressed, I may as well mention here that General Buruside has changed his quarters from the Picket, and we are now on board a large steamer called the Guide. On the 14th, the day after our arrival, the City of New York struck on the bar, and in a short time became a total wreck (she is shown in the Illustration on page 186). Fortunately, the crew end those on board were saved in surfboats, but three other poor fellows attempting to reach the harbour in a launch from a weatherbound vessel outside got capsized in the breakers, and sank before our eyes: the oarsmen, who, luckily, had on life-preservers were picked up by a schooner. The three lost were the mate of tim ship and the Colonel end Doctor of the New Jersey regiment. Among the disasters to be chronicled on this day is the sinking of the Zouave transport inside the inlet. She drifted on her anchor and stove in her bottom. Two or three tugs got round her and took off the men.
-Fthings Snaval expeditions for
-
-correspondents to go upon, Before I get through with this letter I
+correspondents to go upon. Before I get through with this letter I
 
 shall have to relate experiences that will make your readers think I am
 
 romancing; and this suspicion will hardly repay me for the misery I
 
-have endured during the last fortnight. Not a day has passed that it has not blown a gale, diversified by an occasional hurricane and a wreck or two. But belay there! as we nautical men say, and let me spin my yam in a methodical manner. Well, as I was saying, towards evening it blew a gale of wind, and then we found out our mistake in going to sea in a little river steamer like the Picket. The only good that the gale did us was to blow away the fog-banks that ever and anon enveloped us in their damp and opaque folds, giving us a chance to judge our whereabouts. But, alas I it also brought us many ills. The "white hones" raced madly over the ever-increasing mounds of green water that piled themselves on our bows, a heaving barrier to our progress. Vastly the little vessel dipped and staggered forward; before she could rise to one sea another would strike her and send her reeling baA, spare and hull trembling from each successive blow. We had barely sufficient power to keep her head to it, and, as all hands held on, there were many anxious glances at the coming wave, speeding along as thouh it would engulf us on its way. About midnight we saw the lights of a steamer half a mile distant on our port bow, and to attract the attention of those on board we fired a totted gun astern of her, which had the effect of bringing her within speaking distance. She turned out to be the Eastern Queen, a large ship belonging to the expedition; and, as she rose and fell within crushing proximity, we hailed her Captain to lie by us till daylight. Not a soul on board closed their eyes in sleep during the long dark bouts that waned not. Once I thought we were gone, for, while clutching the after-davits, I found myself buried in the sea up to my waist, the gunwales rolling completely under. In that one moment I recollected the most trivial occurrences of my earliest boyhood thirty years of unimportant existence flashed through my mind. But this mental biography was brought to an abrupt termination by the return jerk of the vessel, which wrenched ma from my hold and deposited ma, with a bruised head, amongst a pile of ammunition-boxes. Day broke with a leaden sky, against which the angry, white-crested waves raced their mad career over the reefs of Cape Hatteras, that threw its headland oceanwards but eight miles distant. From our hurricanedeck fourteen steamers could be seen labouring to weather this storm-point. How should we fare with our small-powered engine and cockleshell boat? Bravely we breasted on staggering beneath the giant blows of each successive sea, our decks swept fore and aft and all on board reeling from side to side like drunken men. One figure steed immovable grasping by the bits1 scanning the horizon for traces of ships as we rose on each glittering mass of foam. It was the square, manly form of General Burualde, whose anxiety for the fate of his army was intense, many of the vessels on
+have endured during the last fortnight. Not a day has passed that it
+has not blown a gale, diversified by an occasional hurricane and a
+wreck or two. But belay there&#x0021; as we nautical men say, and let
+me spin my yam in a methodical manner. Well, as I was saying, towards
+evening it blew a gale of wind, and then we found out our mistake in
+going to sea in a little river steamer like the Picket. The only good
+that the gale did us was to blow away the fog-banks that ever and anon
+enveloped us in their damp and opaque folds, giving us a chance to
+judge our whereabouts. But, alas&#x0021; it also brought us many
+ills. The "white horses" raced madly over the ever-increasing mounds
+of green water that piled themselves on our bows, a heaving barrier to
+our progress. Vastly the little vessel dipped and staggered forward;
+before she could rise to one sea another would strike her and send her
+reeling back, spars and hull trembling from each successive blow. We
+had barely sufficient power to keep her head to it, and, as all hands
+held on, there were many anxious glances at the coming wave, speeding
+along as though it would engulf us on its way. About midnight we saw
+the lights of a steamer half a mile distant on our port bow, and to
+attract the attention of those on board we fired a totted gun astern
+of her, which had the effect of bringing her within speaking
+distance. She turned out to be the Eastern Queen, a large ship
+belonging to the expedition; and, as she rose and fell within crushing
+proximity, we hailed her Captain to lie by us till daylight. Not a
+soul on board closed their eyes in sleep during the long dark bouts
+that waned not. Once I thought we were gone, for, while clutching the
+after-davits, I found myself buried in the sea up to my waist, the
+gunwales rolling completely under. In that one moment I recollected
+the most trivial occurrences of my earliest boyhood; thirty years of
+unimportant existence flashed through my mind. But this mental
+biography was brought to an abrupt termination by the return jerk of
+the vessel, which wrenched me from my hold and deposited me, with a
+bruised head, amongst a pile of ammunition-boxes. Day broke with a
+leaden sky, against which the angry, white-crested waves raced their
+mad career over the reefs of Cape Hatteras, that threw its headland
+oceanwards but eight miles distant. From our hurricane deck fourteen
+steamers could be seen labouring to weather this storm-point. How
+should we fare with our small-powered engine and cockleshell boat?
+Bravely we breasted on staggering beneath the giant blows of each
+successive sea, our decks swept fore and aft and all on board reeling
+from side to side like drunken men. One figure stood immovable
+grasping by the bits, scanning the horizon for traces of ships as we
+rose on each glittering mass of foam. It was the square, manly form of
+General Burnside, whose anxiety for the fate of his army was intense,
+many of the vessels on<lb/> which the troops were embarked being
+nothing more than huge top-hampered river steamers, with projecting
+guards that would smash up like cardboard if fairly struck by a
+sea. But, happily, as we and the day advanced, more wreathy lines of
+smoke indicated the approach of others of the fleet; and oh, good
+fortune&#x0021; by 11 a.m. we had weathered the cape and were hove to
+off Hatteras Bar, waiting for the little black tug-boat that was
+steaming out to pilot us in. Without exaggeration, I may state the
+height of the breakers through which the narrow channel ran to have
+been nearly, if not quite twenty feet, with a depth of thirteen feet
+in the deepest part. The Picket was the first to venture over, closely
+followed by the Peabody and Eastern City, and having on her starboard
+quarter the pilot-tug. So awful was the entourage of hissing breakers,
+and so certain our destruction should we yaw off but a point or two
+either way, that this was probably the most hazardous period of our
+tempestuous voyage. The Sketch I send (engraved on page 187) is
+faithful to the truth, and will better illustrate our position than
+anything I can express in writing. By midday we were over and at
+anchor in Pamlico Sound, under shelter of a spit of sand which up to
+the present constitutes the entire Federal department of North
+Carolina. On this land, partially submerged at high water, are built
+the forts captured by Commodore Stringham and General Butler last
+August or early in September, I forget which; but to my mind the
+greatest harm that could have been done the Confederates would have
+been to leave them quietly in possession of this God-forsaken
+spot. Please, as the showman says, to turn to the other Sketch
+(engraved on page 186), and judge for yourself if such a place is fit
+for habitation by aught save clams and muscles. But the occupation has
+been of great advantage to the Federal Government as it has
+effectually placed a seal upon the outlets of Albemarle and amlico
+Sounds, shutting in the few vessels the Southerners have<hi rend="italic"> dans ces parages.</hi></p><p>
 
- On the 15th we changed to the Guide, and had scarcely got
+ It was on the 18th inst. that we cast our anchor in the waters of
+
+Secessia, fourscore vessels drifting and crashing into each other in
+
+a harbour, if so it can be designated, scarcely large enough to float
+a dozen comfortably. At one moment the little Picket had three huge
+floating barracks blown on to her in a heap, making it extremely
+probable we should drag to sea together and go to pieces on the
+bar. Everybody on board worked with a will; axes and hand-spikes were
+in every hand, assisting to clear away the surrounding wreck; and your
+correspondent as he sprang for the chains of the Northerner, grasping
+a fender to ease off the shock as she closed in missed his footing,
+and was only rescued from being flattened out like a pancake by the
+activity of some soldiers who dragged him up the side a second before
+the collision took place.</p>
+
+<p>
+<figure entity="v40p186">
+<head>The Civil War in America: Hatteras Spit, with teh Wreck of the
+City of New York on the Bar in the Distance.--From a Sketch by Our
+Special Artist.</head>
+</figure>
+</p>
+
+<p>
+<figure entity="v40p187">
+<head>The Civil War in America: The Picket Leading the Ships of the
+Burnside Expedition over the Hatteras Bar.--From a Sketch by Our
+Special Artist.--See Supplement, page 200.</head>
+</figure>
+</p>
+
+<p>The great difficulty to be contended against in the harbour is the
+shallowness of the water, except in certain places, and in these the ships are wedged together, with scarcely room to swing, and with the rush of the tide out from the Sound, or in from the ocean, assisted by incessant gales of wind, there is hardly a minute of the day that some vessel does not come to grief. About a mile up is the bulkhead, formed by a ridge of sandbanks,over which ,the gunboats and transports of lighter draught have to pass before they can advance to the attack of Roanoke Island. I foresee even now, though many are over (all the gun-boats are) that there will be great difficulty about this, for the vessel on which I am writing is stuck hard and fast, and thumping and humping in a howling northeaster. In answer to our signals for assistance the Commodore who has come down to take command of the naval portion of the expedition, replies that nothing at present can be done for us, as it is dangerous, and we must wait for the weather to moderate before any attempt can be made to relieve us. This is a very pleasant state of affairs, considering we have only four casks of water in the hold and no means of communicating with the store-ships. Fortunately we put our troops ashore to lighten us before attempting to cross, otherwise we should have been in a very bad condition indeed. I hope our timbers are sound and well riveted together, else I may expect to disappear through the floor beneath me, after the fashion of a pantomime trick, during one of the thumps. By-the-by, as I have digressed, I may as well mention here that General Burnside has changed his quarters from the Picket, and we are now on board a large steamer called the Guide. On the 14th, the day after our arrival, the City of New York struck on the bar, and in a short time became a total wreck (she is shown in the Illustration on page 186). Fortunately, the crew and those on board were saved in surfboats, but three other poor fellows attempting to reach the harbour in a launch from a weatherbound vessel outside got capsized in the breakers, and sank before our eyes: the oarsmen, who, luckily, had on life-preservers were picked up by a schooner. The three lost were the mate of the ship and the Colonel and Doctor of the New Jersey regiment. Among the disasters to be chronicled on this day is the sinking of the Zouave transport inside the inlet. She drifted on her anchor and stove in her bottom. Two or three tugs got round her and took off the men.</p>
+
+
+<p> On the 15th we changed to the Guide, and had scarcely got
 
 on board when a barque came crashing into her stem on, driving
 
-her jibboom into our galley, and scattering the cooks and pre-parations for dinner. On the 16th the wind changed from a gale of wind from S.S.W. to a still harder blow from ltW., preventing us from making any progress with the lightening of the ships that were to cross the bulkhead. Measles were reported to have broken out on some of the transports, with a few oases of fever. At dark all hands were startled by the report of a heavy got, and on reaching the-hun-icanedeck we saw a large brig drifting rapidly on to the bar. As it grew-darker and her outline became less defined the excitement became intense. It was evident to all she was ins most critical position, and every moment might be her last. Slowly the black hull rose and fell, each time gliding nearer and nearer to the vortex of white breakers, which, once amongst, nothing we might attempt could save her. Saddenly a fringe of musketry fire surrounded her bulwarks blue-lights wereburntin her tops, and imagination brought us through tke howling blasts the despairing shrieks of the terrified soldiers crowding her decks. Volley after volley succeeded each other in rapid succession, and yet apparently we could not help her; none dared face the tempest and, perhaps, share her doom. General Burnside boarded every steam-tug in the harbour; offered any reward, and also to go himself, but all held back. Were three hundred fellowmen to be launched into eternity, their death-cries in our ears, and yet no effort made to save them? Hurrah! one brave seaman volunteered to take his little steamer out, General Burnaide jumped on board of her, but, at the earnest entreaties of his friends, he delegated the honour of the position to a member of his staff. Anxiously we watched her progress through the troubled waters, battling her way and wrestling with the wives as she advanced on her mission of mercy. Fortunately, she reached the bar before the brig had been thoroughly drawn into the breakers, and, getting a hawser to her, succeeded in rescuing her from her perilous position. When the steamer returned she had scarcely a vestige of bulwark or paddlebox left: all had been smashed and carried away by the force of the sea. In fact, each day has seen some narrow escape or bad disaster. There are at present four total wrecks and five or e ix vessels on shore, the last evil report being the loss of the Poonhontas, with ninety horses on board, twenty-five of which only were saved. The oboe reached the shore by a warp.
+her jibboom into our galley, and scattering the cooks and
+pre-parations for dinner. On the 16th the wind changed from a gale of
+wind from S.S.W. to a still harder blow from N.W., preventing us from
+making any progress with the lightening of the ships that were to
+cross the bulkhead. Measles were reported to have broken out on some
+of the transports, with a few cases of fever. At dark all hands were
+startled by the report of a heavy gun, and on reaching the hurricane
+deck we saw a large brig drifting rapidly on to the bar. As it
+grew-darker and her outline became less defined the excitement became
+intense. It was evident to all she was in a most critical position,
+and every moment might be her last. Slowly the black hull rose and
+fell, each time gliding nearer and nearer to the vortex of white
+breakers, which, once amongst, nothing we might attempt could save
+her. Saddenly a fringe of musketry fire surrounded her bulwarks
+blue-lights were burnt in her tops, and imagination brought us through the howling blasts the despairing shrieks of the terrified soldiers crowding her decks. Volley after volley succeeded each other in rapid succession, and yet apparently we could not help her; none dared face the tempest and, perhaps, share her doom. General Burnside boarded every steam-tug in the harbour; offered any reward, and also to go himself, but all held back. Were three hundred fellowmen to be launched into eternity, their death-cries in our ears, and yet no effort made to save them? Hurrah! one brave seaman volunteered to take his little steamer out, General Burnside jumped on board of her, but, at the earnest entreaties of his friends, he delegated the honour of the position to a member of his staff. Anxiously we watched her progress through the troubled waters, battling her way and wrestling with the waves as she advanced on her mission of mercy. Fortunately, she reached the bar before the brig had been thoroughly drawn into the breakers, and, getting a hawser to her, succeeded in rescuing her from her perilous position. When the steamer returned she had scarcely a vestige of bulwark or paddlebox left: all had been smashed and carried away by the force of the sea. In fact, each day has seen some narrow escape or bad disaster. There are at present four total wrecks and five or six vessels on shore, the last evil report being the loss of the Pocahontas, with ninety horses on board, twenty-five of which only were saved. The crew reached the shore by a warp.</p>
 
-Jan. 26.
+<p rend="right">Jan. 26.</p>
 
-With one exception, when it blew a topsail breeze, we have had a
+<p>With one exception, when it blew a topsail breeze, we have had a
 
 continuous howl from all the points of the compass, making it next to
 
-impossible to progress with the lightening of the vessels destined to cross the bulkhead. Probably the greatest misfortune of all is the non-arrival of six water-ships, on which we depended for supplies after our ten days' rations had been consumed. The consequence is, the entire fleet is on short allowance, with no immediate prospect of relief, as m all probability the expected vessels have been lost during the fearful hurricane that prevailed with unmitigated violence for three days, and only ceased yesterday morning. During this time we on board the Guide were thumping our bottom out on the bulkhead, and have only just been got off, while at least a dozen other ships displayed their colours, Union down. Most of these weresuffering from short allowance of everything, but no help could be given them till the fury of the storm had abated. Our position was the most problematical of all, as our safety simply depended on the strength of the ship's timbers, and her power to endure the continuous straining as she thumped from aide to side inber bed of send. This morning wehave news of another wreck outside the spit. Numerous bodies have been washed on shore, but, as nothing remains of the vessel, we are ignorant whether
-she belonged to the expedition or not. The probability is she one of the reisaing waterschooners.
+impossible to progress with the lightening of the vessels destined to
+cross the bulkhead. Probably the greatest misfortune of all is the
+non-arrival of six water-ships, on which we depended for supplies
+after our ten days' rations had been consumed. The consequence is, the
+entire fleet is on short allowance, with no immediate prospect of
+relief, as in all probability the expected vessels have been lost
+during the fearful hurricane that prevailed with unmitigated violence
+for three days, and only ceased yesterday morning. During this time we
+on board the Guide were thumping our bottom out on the bulkhead, and
+have only just been got off, while at least a dozen other ships
+displayed their colours, Union down. Most of these were suffering from
+short allowance of everything, but no help could be given them till
+the fury of the storm had abated. Our position was the most
+problematical of all, as our safety simply depended on the strength of
+the ship's timbers, and her power to endure the continuous straining
+as she thumped from side to side in her bed of sand. This morning we have news of another wreck outside the spit. Numerous bodies have been washed on shore, but, as nothing remains of the vessel, we are ignorant whether<lb/>
+she belonged to the expedition or not. The probability is she one of the missing water-schooners.</p>
 
-I have been here long enough to ascertain one fact., arid that is, with a few exceptions, General Burnside Is the only competent man in the expedition; and, from the personal respect and friendship i feel for him, I trust he is not going to be made the scapegoat of the apathy, supineness and incompetency of others. The Cnnmodore whose duty it should have been to attend to everything connected with the sea transport of the troops, has shown himself but twice in the quarter. gallery of his ship, and each time with his hands thrust deeply into hjs pockets, gazing listlessly at ships running ashore or drifting into each other. General Burnaide, on the contrary, has performed all the duties of a harbour-master, narrowly escaping being swamped on more than one occasion. Whenever a ship has been in distress the general hasbeenthefiratmanoff to herassistance; andthere isnot a grade in his army that he has not fined during the last fortnight, so an:xiona is be for the weilbein and comfort of his troops.
+<p>I have been here long enough to ascertain one fact, and that is,
+with a few exceptions, General Burnside is the only competent man in
+the expedition; and, from the personal respect and friendship i feel
+for him, I trust he is not going to be made the scapegoat of the
+apathy, supineness and incompetency of others. The Commodore whose
+duty it should have been to attend to everything connected with the
+sea transport of the troops, has shown himself but twice in the
+quarter gallery of his ship, and each time with his hands thrust
+deeply into his pockets, gazing listlessly at ships running ashore or
+drifting into each other. General Burnside, on the contrary, has
+performed all the duties of a harbour-master, narrowly escaping being
+swamped on more than one occasion. Whenever a ship has been in
+distress the general has been the first man off to her assistance; and
+there is not a grade in his army that he has not filled during the
+last fortnight, so anxious is he for the well being and comfort of his troops.</p>
 
-To-day is fine,  more steamers are working over the bulkhead;
+<p>To-day is fine,  more steamers are working over the bulkhead;
 
-in all probability the first brigade, escorted by the gun-boa, will be on its way to Roanoke tonight. The General changes his quarters this afternoon to the Spalding, and I go with him. Iii a day or two, I presume, there will have been many heads broken; for, if we can believe the contrabands who make their way here hourly preparations have been made to give us a warm reception. They tail' us the Confederates have a dozen gun-boats and some powerful shore batteries mounted with lOG.pounders. In our expedition then cannot be less than seventy or eighty guns afloat; and so I suppose when the entertainment commences there will be lots of noise made.
+in all probability the first brigade, escorted by the gun-boats, will
+be on its way to Roanoke tonight. The General changes his quarters
+this afternoon to the Spalding, and I go with him. In a day or two, I presume, there will have been many heads broken; for, if we can believe the contrabands who make their way here hourly preparations have been made to give us a warm reception. They tell us the Confederates have a dozen gun-boats and some powerful shore batteries mounted with l00-pounders. In our expedition there cannot be less than seventy or eighty guns afloat; and so I suppose when the entertainment commences there will be lots of noise made.
 
-This letter leaves by a bearer of despatches, who has promised to mall it for me in Washington. If next will probably contain the account of a victory or a defeat, ould nothing in the shape of shot
+This letter leaves by a bearer of despatches, who has promised to mail it for me in Washington. My next will probably contain the account of a victory or a defeat, ould nothing in the shape of shot
 
-or shell interfere with my pen or pencil. p V.
+or shell interfere with my pen or pencil.</p>
+<p rend="right"> F.V.</p></div2>
+<div2 id="iln40.1133.001" n="America" type="article">
+<head>AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1133</biblScope> 
+           <biblScope type="pages">p. 209</biblScope> 
+           <date value="1862-03-01">March 1,1862</date>
+         <extent></extent>
+</bibl>
+
+
+<p>The Africa brings New York journals of the 12th ult. The general tenor of the advices is again favourable to the Federals. The steady perseverance and more lasting qualities of the North have already nearly cleared Kentucky of the Secessionists, carried the war into Western Tennessee, and seized on two more points on the coast of North Carolina.</p>
+
+<p rend="center">BELLIGERENT OPERATIONS.</p>
+
+<p>News has been received from the Burnside expedition to the coast
+
+of North Carolina. . The telegrams are very<orig reg="meager"> meagre </orig,>but we gather from them that on the 5th ult. General Burnside sailed from Hatteras Inlet for Roanoke Island, which lies between Albemarle and Pamlico Sounds. This island had been carefully fortified by the Confederates, and they had had warning of the point of attack. The island was captured after three days' fighting. The loss was heavy on both sides. The Confederate flotilla of gun-boats was dispersed; three were sunk and two captured. On the 9th ult., the expedition attacked Elizabeth City, which the inhabitants evacuated. It was completely burnt, but whether by the inhabitants or the shells from the Federal fleet is not known. The Federals had occupied the site of the burnt city, and were advancing on Edentown. These two towns are situated on the north of Albemarle Sound.</p>
+
+<p>In Tennessee, Fort Donnelson has not yet been attacked. The Memphis and Ohio Railroad bridge fifteen miles above Fort Henry, has been taken possession of by the federal troops. This cuts off the connection between Memphis and Nashville. Federal gun-boats have ascended the Tennessee River as high as Florence, Alabama, and encountered, no opposition. General Smith on the west, and General Grant on the east of that river were pursuing the retreating Confederates. - The report that the gravity of the circumstances had
+
+ drawn General Beauregard from Manassas to Nashville, leaving General Johnstone in command at the former position, has been confirmed.</p>
+
+<p>General Thomas, in command of the Federal forces in southeastern Kentucky, had advanced no farther south than Monticello, the state of the roads hindering a more speedy progress. From the papers found in the deserted camp of the Confederates, on the Cumberland, it is evident by the admission of their own military and civil leaders that in Eastern Tennessee[sic] the mass of the people are loyal to the Union, and wait with impatience the arrival of the Union armies.</p>
+
+<p rend="center">THE CONFEDERATE STATES.</p>
+
+<p>The term of the twelve months' volunteers from the Gulf States is
+
+now expiring, and in many of the best regiments a large majority
+
+decline to re-enlist for the war.</p>
+
+<p>The Confederate Government had declined to admit Commissioners Fish and Ames into the Southern States.</p>
+
+<p rend="center">THE ARREST OF GENERAL STONE.</p>
+
+<p>This General, till lately in command of the army of the Upper
+
+Potomac, was arrested at Washington on the 9th, and sent to Fort Lafayette on the following serious charges:-</p>
+
+<p> 1. For misbehaviour at the battle of Ball's Bluff.</p>
+
+<p>2. For holding correspondence with the enemy before and since the battle of
+
+Ball's Bluff, and receiving visits from rebel officers in his camp.</p>
+
+<p> 3. For treacherously suffering the enemy to build a fort, or strong work, since the battle of Ball's Bluff, under his guns, without molestation.</p>
+
+<p>4. For a treacherous design to expose his force to capture and destruction
+
+by the enemy under pretence of orders for a movement from the
+Commanding General which had not been given.</p>
+
+<p>The news of this arrest caused the greatest consternation among
+
+the officers of the regular army, to which General Stone belonged.</p>
+
+<p rend="center"> THE ADMINISTRATION.</p>
+
+<p>The correspondence between Mr. Lincoln and Mr. Cameron, the late Secretary for War, on the occasion of his retirement, has been published. The correspondence is of a highly friendly and even affectionate character, and is dated Jan, 11. Mr. Lincoln speaks of the Czar of Russia as the" great Sovereign whose personal and hereditary friendshp for the United States so much endears him to Americans."</p>
+
+<p>The correspondence between Secretary Seward and Mr. Dayton,
+
+United States' Minister to Paris, concerning the admission of American
+citizens to the Tuileries has been published. Mr. Seward thinks that
+Mr. Dayton ought to furnish the profession or occupation of the
+applicants but not their "social position," as distinctions of social
+position are unknown in America. The letter concludes in a highly patriotic strain:-</p>
+
+<p><q rend="blockquote"> "It is peculiarly uncomfortable, at the present moment, to find American citizens leaving their country a prey to faction and civil war, disturbing the court of a friendly Power, and embarrassing our representative there with questions of personal interest and pretension. Let the Emperor and
+
+Empress of France receive when they will, and as many or few as they
+will, and let all others, as well as those who are admitted turn their
+attention to the question how they can serve their country abroad;
+and, if they can find no better way to do it than by making their
+attendance in the saloons of the Tuileries, let them return home to a
+"country that now, for the first time, and not for a long time, needs
+the active efforts of every one of its loyal children to save itself from destruction. Finally, above all things, have no question with the Government of Fiance on this subject. Rather introduce nobody, however justly distinguished, then let a question of fashion or ceremony appear in the records of the important period in which we are acting for the highest interests of our country and of humanity."</q></p>
+<p rend="center">CONGRESS.</p>
+
+<p>The House Treasury Note Bill is now before the Senate's Finance Committee. Among the amendments proposed is one making it obligatory to pay the interest of the national debt in coin. In the meantime a bill authorising the Secretary of the Treasury to issue 10,000,000 dols. In Treasury notes has been hurried through both Houses.
+
+Mr. Sumner offered a series of resolutions declaring that the revolted
+
+States have committed felo de se, and that their relations as members of the United States no longer exist; that their allegiance has been severed, and the Federal Government owes no obligation to any pre-tended State Government usurping a certain territory; that individuals occupying such territory owe allegiance to the General Government only, and the General Government to the individuals; there fore, persona heretofore held as slaves under local laws, now of no effect, may look henceforth to the General Government for protection as individuals. These resolutions were only laid aside by a vote of 21 against 15.</p>
+
+<p>The Senate has passed the appropriations for fortifying the lake shores and the Northern frontier.</p>
+
+<p rend="center">MISCELLANEOUS.</p>
+
+<p>The Emperor Napoleon's speech to the Corps L&#x00E9;gislatif was well received in New York and affected the stock market favourably.</p>
+
+<p>The New York journals of the 12th ult. publish Earl Russell's
+
+despatch on the subject of maritime rights in full, and unaccompanied by comment. The despatch was only received at a late hour on the previous night.</p>
+
+<p>General Stanton, the Secretary of War, was labouring under severe
+
+indisposition.</p>
+
+<p>General Fremont was to receive an important command, having disproved, to the satisfaction of the Secretary of War, the charges of corruption alleged against him.</p>
+
+<p>The Maine Senate has followed the example of the Legislature of Michigan and passed resolutions in favour of confiscating, liberating, and arming the slaves, if it shall be is military necessity, by a vote of 24 against 4</p></div2>
+
+<div2 id="iln40.1133.002" n="The Confederate Steamer Sumter was at
+      Gibraltar" type="article">
+<head>The Confederate Steamer Sumter was at Gibraltar</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1133</biblScope> 
+           <biblScope type="pages">p. 209</biblScope> 
+           <date value="1862-03-01">March 1,1862</date>
+         <extent></extent>
+</bibl>
+
+
+<p>The Confederate steamer Sumter was at Gibraltar on the 18th
+
+ult., and the Federal steamer Tuscarora in Algesiras Roads. We learn
+
+from Madrid on the 25th ult., that the Captain of the Sumter has been
+arrested at Tangiers at the instance of the American Consul at
+Gibraltar, and of the Commander of the Tuscarora who went for that
+purpose to Tangiers.</p></div2>
+
+<div2 id="iln40.1133.003" n="The Illustrated London News"
+      type="article">
+<head>THE ILLUSTRATED LONDON NEWS.</head>
+<dateline rend="center"><hi rend="italic">LONDON, SATURDAY,MARCH</hi>
+1, 1852.</dateline>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1133</biblScope> 
+           <biblScope type="pages">p. 209</biblScope> 
+           <date value="1862-03-01">March 1,1862</date>
+         <extent></extent>
+</bibl>
+
+<p>The arms of the Federal Government have achieved a valuable success in the capture of the isle of Roanoke. The destruction of the weak fleet of the Confederates is a small matter, but the opening up the way for General Burnside to attack in rear the army, which it was not thought advisable to assail in front, is an operation that makes a mark in the campaign. The country into which General Burnside has to penetrate, if he is to assume the offensive, is very difficult, but there is reason to believe that its difficulties have been exaggerated. At all events, he has established a base of operations. The plan of General MClellan would appear to be a scheme for sundering the Confederate forces as much as possible, instead of attempting<lb/>
+to overwhelm them in little; and if the perseveres in such tactics,
+and the money of the North hold out, he may have the honour of
+achieving a comparatively bloodless triumph. The officers of the South
+have larned the trade of war, and know better than to refuse to
+surrender untenable postions. In the meantime, the civilians are
+warring in Congress, and Mr. Charles Sumner has laid before it his
+bold propsal for dealing with the South. He wishes to declare all
+local government in the Slave States as at an end, to reduce those
+States to the condition of territories, and thereby to place the whole
+population, inluding the four millions of slaves, on an equality of
+civil rights. It can hardly be supposed that Congress will think that
+matters are sufficiently forward for the adoption of this plan, which
+could be justified only when the North should be in force sufficient
+to prevent the servile war that would be invited by such a
+proclamation; but that such a proposition should be brought forward at
+all shows the increasing power and courage of the Abolitionists. In
+London the birthday of Washington has been celebrated by American
+residents and visitors, but the demonstration has been confined to the
+Loyalists, and the most friendly sentiments towards England were
+enunciated.</p>
+<p>It is stated that the Captain of the Sumter has been arrested at
+the instance of the Captain of the Tuscarora, but we don't learn, as
+yet, whether the former is to be handed over to the latter; if so,
+there will be "a short shrift."</p></div2>
+<div2 id="iln40.1133.004" n="American Possession of San Juan"
+      type="article">
+<head>American Possession of San Juan</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1133</biblScope> 
+           <biblScope type="pages">p. 216</biblScope> 
+           <date value="1862-03-01">March 1,1862</date>
+         <extent></extent>
+</bibl>
+
+
+
+<p>A<hi rend="smallcaps">MERICAN POSSESSION OF SAN
+JUAN.</hi>--Mr. H<hi rend="smallcaps">ALLIBURTON</hi> asked the
+Under-Secretary for Foreign Affairs various questions regarding the
+possession of a portion of San Juan by the Americans.-- Lord P<hi
+rend="smallcaps">ALMERSTON</hi> said the occupation of a portion of San Juan by the Americans took place under
+
+an arrangement made in 1859 between General Scott, representing the
+American Government, and Colonel Douglas, the then Governor of the
+island. The main conditions were, without prejudice to the claim of
+either party to the whole of the island, that the occupation should be
+a joint one. The negotiations which had been going on between the two
+Governments with a view to a final settlement of the question of
+occupation, and of the claims over the<orig reg="neighboring"> neighbouring</orig> channel, were
+suddenly interrupted by the breaking out of the civil war. Under the
+circumstances of the case he did not think it necessary to enter into
+any details.</p></div2>
+
+
+A DEMOCRATIC LEVEE.
+
+The Fhs7adel,phice Enq'ufrer of Jan, 28 gives the following amusing amusing
+
+account of a leve held by_the new Federal Secretary of War, Mr.
+
+Stanton-.
+
+The clock strikes ten, the awaiting crowd rush in as the doors awing open, and, being among them, we soon find ourselves in the presence of the Secretary. Now one stands in front of bun, and with a smiling- countenance he reaches out his hand, and, takes a hearty grip with a greyhaired man. "Well, Sir, what is your wish?" "My name is -; my eon fought at Springfield, and was wounded in the arm. e was on Fremont's staff, but is now without L commission. I want one for him, that he may again try his other arm her. o. the Potomac or in Missouri." "You shall have it, Sir," replied Mr. Stanton, and, turning to his secretary, he ordered him to note the case. "Reborn home," he added; "the papers will be sent you."
+
+As the man attempted to thank him, he stepped to one aide to two ladles
+
+who had just come in. "Madam, what can I do for you?" "Want a clerk
+
+ship for my son; his father was killed at the battle of Belmont." Turning
+
+again, be noted the case, took the address, told the lady to send him a sample
+
+of her boy's writing, and he would care for him. The other was ooncnaoced
+
+with a Minnesota regiment over the river, and had some complaint abeuc the treatment she had received in camp from some of the officers. "Madam, you must go to the head-quarters of General M'Clellan." "I have been there, Sir, end they would not read my papers, or listen to my case." "Then give thence t
+
+me, and I'll see why."
+
+A assail bright-eyed boy, alone, was trying to work his way through the crowd, and the Secretary turned to him and asked what he wanted. "I want my father got out, Sir. Bk was taken at Bull Bun, and has not come home with the rest," Re gave his name and regiment; it was noted; and the Secretary, lifting him up, kissed him upon the forehead, and said, " Your father should be proud of such a noble boy, and I'll ace that he is released."
+
+Amen with a half-military dress says he has been wronged by the examining board, and has been deprived of the command of his regiment (a Philadelphia cavalry regiment). "Sorry, Sir, if It is not all right. I cannot go back to investigate the acts of my predecessor." The Colonel insisted his case was a plain one, if be could be heard. "Wail," said the Secretary, "If you 'will got the officers to reconsider it I will then listen to it."
+
+An individual has some new invention for firearms. "Go to the Ordnance
+
+Department and get them to investigate it, and if they will recommend it I will be glad to see it adopted." A. Colonel with a green uniform on has some passes he wants to read. "Axe you an army officer?" "Yes, Sir." "Thea you cannot be heard until to-morrow; come and seems then."
+
+A large and well-dressed man 'wanted a word in private. "What about?" Some little matter about a contract he had for horses. "Cannot interfere, Sir; go to General Moigs. If there is anything wrong he will rectify it." Another succeeds in getting him o to the aide of the room, and the con'vereation is inaudible until the Secretary replied, "No, Sir, on no account will I interfere in any contract while I em here for anything from a thimble up. There are en appointed to attend to that department, and I shall hold them. to a strict accountability for every action."
+
+Two soldiers wanted to be paid for the time they were in confinement at Richmond, leaving just been released, and presented a furlough they had, received a week ago, and also an order for their pay for time and rations. 11 Why do you not take this to Major Beckwitlo, and have him attend to it?" "We did, Sir; end he says he has no order that will cover our case, and for want of 'forms' we are afraid we will be kept hero until our time is up, and we weird to go home and see the folks before going at it again." Taming t
+
+his secretary, he ordered him to write to Major Beokwith, and order him to report forthwith in 'writing why these men were not paid. up, instead of being kept wetting. It was done; he signed it himself, and said, 11 Here, bake that to him, and bring an answer."
+
+After some other visitors are described, the accomit goes on:
+
+In came Major Btcok'with, with the note cent by the returned prisoners
+
+"Why are them men kept wetting?" "Because I have no order for their special case." "Mr.'Wi1on, issue an order that will cover all the prisoners that may be released in future, and allow them full pay for every day they are confined in rebel prisons. Major, I have just learnt there are over 150 now writing for their pay; every man most be paid to-day, and speed theta on to their homes."
+
+A. tall men wants a commission in the regular army. "Rave you been in
+
+any battle yet, Sir?" "I was in the Mexican War." "That won't do; that
+
+Is too far back." "I was at Great Bethel." "That is better. I wiU examine
+
+your record myself, and inform you if you are appointed."
+
+A stout, healthy young men wanted a oommiaeion or clerkship. "Rave you
+
+been inenybattle?" "No, Sir." "Thenit'wiUboofnousetoapply, for I shall make all toy appointments from the list of heroes; those who fight the country's battles must be cared for first."
+
+Another wanted an appointment as quartermaster. "There are my recom
+
+mendations, Sir, and I would be glad if you can road, them." "I cannot do i
+
+I have not the time; but I will examine thorn." "Very well," replied
+
+the would-be-qenerterzaaator; "just road them. If you have any better man,
+
+aceordth to those papers, let him have the office; to that case I don't went It.'
+THE WAR IN AMERICA.-GENERAL BURNSIDE'S
+
+BXPllDITION.
+
+(From our Special Artist end Correspondent.)
+
+On Ward the Spalding, Pamlico Sound, North Carolina, Jan. 99,
+
+AT last, titer immense exertion on the part of those concerned, General
+
+Burnaide especially having worked night and day, sufficient transports
+
+have been got over the bulkhead to carry 11,000 men up the Sound,
+
+end it is now a mere question of reshipping the troops that were landed to lighten the vessels and to provision them for ten days. It appears to me there must have been gross stupidity or cupidity displayed by those authorised to purchase the steamers for the service they are now engaged in, as their draught of water, in nine cases out of ten, exceeds by a great deal the depth found on the various banks and shoals that block the entrance to the inland seas of North Carolina; hence the delay of the expedition. Before we could continue up the Sound to Roanoke all the larger vessels had to laud their troops and provisions, otherwise they never could have crossed the bulkhead; and, as it is, they have been worried through the sand, inch by inch, a distance of over three miles, many taking four and five days to force itheir way through. Again, the channel is so narrow that it is nspossible for more than one ship at a time to attempt the passage; and, should one stick, she has to be removed before another can be brought up. The two last are now on their way over, but, unfortunately, the leading vessel has grounded, and may cause a further delay of a day or two; however, the general opinion appears to be that we shell get off by the and of the week, and, when once fairly, started, it only takes ten hours to reach Rosnoke. Now, had steamers of lighter draught been provided, nothing would have
+
+ prevented the expedition from steaming up the Bound on the
+
+first day of our arrival and striking a decisive blow before preparations could he made by the Confederates to offer effectual resistance, as it is extremely probable they were in ignorance of the destination of the Federal Beet. By this time they will have learned through their spies everything required to he known (two Secesh gunboats came within eight the other day and reconnoitred), and prepare accordingly a warm reception for the invading force.
+
+As I understand the plan of attack it is as follows :-The gnu-boats
+
+will take the lead up the Sound, followed by the larger transports
+
+having the troops on board, end the rear will be brought up by the store-ahipa in tow of togs. On arriving off the eanthern extremity of Roanoke Island, the former will engage the batteries, which am said to be immensely strong there, while the troops under the cover of their fire will be transferred to scows and surf-boats, and, passing over the shallows on the western aide, laud, and take the Confederates in the rear, cutting off their retreat in the event of their being beaten. Now, there is just a possibility of the Southern fleet showing fight; they have fourteen gun-boats beavlly armed with gnus of large calibre, taken from the Norfolk Navy -yard ; and, if they do, they may cause the Federalists great annoyance in going up the S end. A few shells thrown among the transports, crowded as they are with troops, would create a considerable amount of confusion, and, as I happen to be on board the leading ship, the General's, I most fervently hope they will do nothing of the kind. As it is, I presume we shall get awfully.ponnded on drawing within range of the batteries. Well, supposing Rcanoke to be taken, the expedition will then proceed to New Berne, seizing the railway at that place, and, advancing inland to Goldsbtro', occupy all the converging lines there with ultimate intentions on Raleigh; thus, as I said in my previous letter, cutting off all communication with the more Southern States, and leaving the Confederate army at Manassas helpless as regards reinforcements or supplies from any Slate south of Virginia. In Kentucky the Unionists are pushing forward to assist end support the movements of this expedition, the idea being that the two forces should form a junction, and so entirely shut out Beauregard's army from the rest of Secesaia; then, I presume M'Clellan would advance with the main body of Federalists, and fight the decisive battle so long expected.
+
+The last news we have here tells us that Sherman is about to move on Savannah from Port Royal, that Butler is preparing to menace New Orleans from Ship Island, and that the huge expedition down the Mieaisaippihnaatarted, orisatthepointof starting. othat another month may bring you tidings of thelsst of the Confederate States' Government, or such intelligenceaswlllprobably causeits recognition by the Earopean Powers, the latterinthe eventof the failure of theledeml plans. Mind, I don't mean to prophesy any auccesseafor theUnionists; I simplymention the programme apparently to be followed. Again, as tar as this expedition is concerned, 111 have certain doubts of its achieving all required of it, as I cannot shut my eyes to the glaring incapacity of those whose business it is to second the General in command. If everything depended on the exertions of one man-I speak of General Burnside-I am convinced my task would be to record a victory; as ,t is, I must wait the issue of the fight.  F. t
+
+Some Illustrations by our Special Artist sent with this letter will be given in our next Number,
+AMERICA.
+
+By the arrival of the Canard -steamer America we have telegrams from Halifaxto the 21st ult., Boston journals to the 19th tilt,, and New York journals of the day previous. The Federals have obtained such a decided military success as to afford ground for the belief that the Confederate Government will be shortlived.
+
+- THE SURRENDER or roar DOurBLSON.
+
+Port Donnelson, on the Cumberland River, was invested on the 13th,
+
+and after three days' hard fighting, was surrendered unconditionally.
+
+The land forces of the Federals numbered 40,000 men, under the corn
+
+mend of General Grant. Commodore Foote brought up six gun-boats
+
+(four of them iron-plated) to the attack on the river side. From the moment of the investment of the fort the Federal troops lay on their arms night and day, half the time without provisions, all the time without tents, and a portion in a heavy storm of rain and snow. The gun-boat attack 'wa unsuccessful, Commodore Foote acknowledging that four of his boats were disabled, and fortyone of his men lulled and wounded. The total loss of the Federals on land and water is at least 300 killed and 700 wounded and missing. The loss of officers is very heavy. The Confederate loss of life is less heavy, as they fought behind intrenchments. They are, however, minus an army and some of their best Generals. Fifteen thousand men capitulated including Generals Sydney Johnston (who shared with Beaiiregaril the honours of Bull Run), Buckner, and Bushrod. General Floyd escaped with 5000 men during the night preceding the surrender. He and his force went up the river on board some steamers 'without the knowledge of their superior officers. The Confederates lost, besides forty-eight field-pieces, seven heavy guns, twenty thousand stand arms, and a large quantity of commissary stores. On the morning of the surrender the Federal troops were about to storm the fort with the bayonet.
+
+ The news of this great success was received with great rejoicing in
+
+Congress, among the army of the Potomac and generally throughout the Country. Congress passed resolutions thanking the army and navy. How it has aected the people of the Seceding States we do not yet know, but the impression is general that the resistance to the victorious armies of the Union will soon cease. General Grant has been promoted to the rank of Major-General.
+
+Commodore Foote is already pressing onto Olarks'ville, about twenty
+
+miles above Fort Donnelson. The Confederates have already evacuated
+
+Clarksville. They will make their next stand in defence of the important manufacturing city of Nashville. General Beauregird has fallen back on this city from Bowling Green, Kentucky. The Federal army, commanded by General Mitchell, is close on his rear.
+
+THE CAMPAIGN IN ARKANSAS.
+
+General Price, beaten out of Missouri, is being pursued by the
+
+Federals through Arkansas. Much of his baggage, several officers,
+
+and a considerable number of privates belonging to the rear of his army, have been captured.
+
+TED BUaSTDE axpaurriow.
+
+The official account of the exploits of this expedition have appeared. General ]lurnside announces that he captured on Roanoke ma-2 six forte, forty guns, 2500 prisoners, and upwards of 3000 small arms. The Federal loss was thirty-five killed and about 200 wounded. Ooniniodore Goldeborougli occupied EdentonT on the 12th, without opposition In view of these reverses, Governor Letcher, of Virginia, has issued a proclamation stating that recent reverses "demand an exhibition of all our energies, an uncompromising spirit, and stern and determined resolution." Re recommends a le'veh en masse of the whole of the male population between the ages of sixteen and sixty.
+
+WA5RINGTON.
+
+The Rouse of Representatives has passed the bill making Treasury
+
+notes a legal tender, with the Senate's amendment making the interest on the National Debt payable in coin.
+
+Mr. Fish and Bishop Ames have agreed with the Confederate Government on an exchange of prisoners. At the time when the negotiation was concluded the Confederates held 300 prisoners more than the number held by the Federals.
+
+The War Department has issued an order directing the release of all political prisoners, except spies, on their subscribing a parole engaging them to render no aid to the enemies of the United States, To all such persons who shall keep their parole the President has granted an amnesty for any past offences of treason. or disloyalty. Pxtraordinary arrests will henceforth be made under the direction of the military authorities alone.
+
+)USCBLLANEOtiS.
+
+The New York and Philadelphia journals preserve an entire silence on the subject of Earl Russell's closing despatch on the Trent affair. This is a sign that it commands the respect if not the acquiescence of the journalists, and that they prefer to leave the consideration of the points involved to the Secretary of Slate and the jurists of the country. Elated, however, by the recent victories, they begin to carp at the Mexican expedition, and to warn the Allies that the American people will not permit the restoration of a European monarchy on their southern border. The Boston Advertiser devotes a
+
+column to the discussion of Earl Russell's despatch, the positions of
+
+'which meet with its approval as enlarging the rights of neutrals.
+
+Considerable popular excitement exists in New York concerning the
+
+approaching execution of Captain Gordon, the slavetrader. Numerous
+
+petitions have been forwarded to Washington to commute the sentence.
+
+Public sympathy runs high in favour of the condemned.
+
+Professor Agassir is delivering a series of popular lectures on
+
+natural history in Irving Hall, New York,
+
+CALIFORNIA.
+
+The last accounts from California state that an extraordinary
+
+emigration to the goldfields of British Columbia is expected to take
+
+place this spring. One steamer had just sailed from San Francisco
+
+with 600 passengers for that destination.
+The Lieutenant (not the Captain, as previously stated) of the
+
+Sumter, who was arrested at Tangiers, has been released. TbaSuunter remains at Gibraltar, but narrowly watched, by Federal ships.
+THE ILLUSTRATED LONDON NEWS
+
+ZONDQV, &TURDAY,AIA1WII 8, 1862.
+
+A DtW6 and important victory gained by the Federals has naturally thrown the Northern States into great excitement. About this action there can be no mistake, and there is no need for exaggeration. Fort Donnelson has fallen after three days of hard fighting and very considerable slaughter on both sides. Three Confederate Generals are prisoners, with, it is said, 15,000 men; and General Floyd, with 0000 men, #avec bis.selt by a flight which is not QonsidereI
+"chi-ahu." Bight and left, therefore, the forces of the
+
+Union are clearing their way, and their operations may speetj;j;
+
+induce General. M'Olellau to advance. It would appclr that no time was to be bet, the victors in Tennessee were pushing onwards, and, though the character of the country rendered a check possible at any moment, it was not thought that they
+
+¥ would meet serious opposition for some time to come, it j
+
+also reported that Savannah has fallen, and there is no impro. babiiity in the news. At length, therefore, the North may fairly be said to be putting out its strength in earnest and delivering the effective blows which might have been expected from the magnitude of its preparations. The Secretary at War has availed himself of these successes to rebuke in
+
+stern Puritan tone the language in which various American
+
+writers have sought to imitate the Napoleonic bombast, which, as he says, began in "inffdel France," and led the Fruich up
+
+Waterloo. There is no "organisation of victories," he says, the triumph being due to the spirit of the Lord putting valour into the soldiery of the North. But there is too much love for fine writing and grandiloquence in America to make the stern Secretary's reproof very effectual. We do not suppose that:, in the present state of the American mind, any expressions o English admiration for the gallantry of the Federala will be received with favour; but we may put on record, to be read when all ill-feeling shall have subsided, that, apart from the satisfaction felt in England at any success obtained against the advocates of slavery, we are proud of the bravery of our cousins, and are ready to recognise in the endurance which they have displayed under trying circumstances an evidence that their relationship to the conquerors in the Crimea, India, and China, is more real than many will allow, We shall, of course, be told that these sentiments are curiously coincident with the success which is said, unfairly, to be the idol of England; but we will bear that, simply remarking that we have nothing to gain by a Northern triumph, whereas we might be commercially benefited by the establishment of the South
+THE WASKOE IllNING REGION.
+
+TEE recently-organised territory of Nevada, N ith America, besides containing the beautiful Carson Valley, has been rendered famous b; being the seat of the Washoe alive -mines, the fame of whoeerichee drew, it will be remembered, a year or two ago, swarms of hardy adventurers from even the golden regions of California to the spot. This region, running north and south, lies between the needy para lel ranges of the Sierra Nevada on the Californian aide and the Humboldt range on the side,of Utah. As the most conflicting statements have been made respecting the Waahoe silver-mines, some holding them up to derision and others enduing them with the halo of extravagant expectations, a few graphic sketches of its principal mining-places will not be unwelcome to our readers. Mr. Edward Vischer, who has forwarded to us the accompanyiIllustratlons,with many others, is a merchant, of San Francisco, WIT, rnia, in which State he has lived many years. Practically acquainted with mining pursuits, and not being personally interested in Washoe or in mining operations ci any kind, his views of the silver region in Nevada, herewith given, may be taken as trustworthy :-" The early feverish speculative excitement with regard to the Waahoe region, which as an inheritance of 1859 passed undiminished to its successor, threatening California with a new mania of emigration like that of the memorable Fraser River, has been checked just in time to prevent more serious mischief end the rain of many of our business men. This was but the :disappointment corresponding to silly ex . ti the whole
+
+Meast of the Sierra_NevaJab" fand a ready-made new
+
+. without the trouble of even opening a mine. It was, however, suddenly brought to a climax by the outbreak of hostilities with the Indians, which could only be terminated by military aid. 'Thus the new mining region, hitherto decked out with the fanciful radiance of the wildest imagination, was all at once reduced to the reality of mining in a remote wilderness; and it was then discovered that mining for silver, here as anywhere else, requires time and capital for the development of its returns. However, should the mines hitherto opened he the only ones, even precluding the hope of a further exten-
+
+ sion of the promising field for mining, their successful working would be of incalculable benefit for California, which for a long while will have to furnish all the supply of necessaries and, look to the opening of a rear country as the only true lever by which she may ultimately obtain a Pacific railroad. As to the realities of the new silver region, we wonder so little should, be known about them; a quarter of a century will be a more appropriate term, when the millions of Washoe silver feeding the channels of an enlarged Asiatic trade may (by a reversing scale, telling of our advancement), bear a comparison with our lessened gold remittanceavift Panama to Europe." After enumerating the principal leads, the produce of the mines already opened, and the reducing-works established or in course of erection, he alludes to visionary speculation in Waahoe mining works, "This," he continues, "Is the fictitious side of Washoemiziing-the vapoury atmosphere which surrounds the new silver region. Its mirages no longer delude the thinking portion of our community, it is fortunate, indeed, that our public has at so early a stage had a salutary warning by previous disenchantment. In the meanwhile, the energetic spirit of practical enterprise, by a combination of technical and, financial resources, is gradually but steadily developing the colossal wealth of the new silver region, the discovery of which is the fruit of the adventurous turn of our prospectors, who, with almost superhuman exertions, and mostly with little benefit to themselves, have been the hardy pioneers of this new Potosi beyond the Sierra Nevada."
+
+Mr. Viacher has since had the opportunity, by a visit to the Washoe
+
+region, in May of last year, for the sake of personal information, to
+
+confirm him in his opinion that the time has not arrived for justly estimating the financial importance of the discoveries in Western Utah, albeit their development, even thus far, has proved a main lever for the progress of California, whence most of the necessities of the new silver region have to be supplied. It has, moreover, established the claim of that region beyond the Sierra Nevada (now known as "Nevada Territory," since its separation from Utah and Mormon influences) to the birth of a new and promising community
+in barren wastes apparently unfit for cultivation and the sub-sistence of & permanent population, the outposts of which, however,
+
+by the progress of prospecting and actual mining enterprise, already extend to the Kumbokit range of mountains, bordering on the Great Basin, with every probability of soon connecting the Washoe region with Salt lake through a continued line of settlements; the telegraph and overland mail stations, with the increasing traffic of Western
+
+emigration serving as preparatory links of this phenomenon in the progress of civilisation.
+
+Subsequently, in a quite recent visit to Washoe, the writer witnessed the extraordinary start which has taken plane within the last few months, with many cases of individual success; the gradual development of many a new mining district, and the improved methods introduced, with works on a gigantic scale multiplying the chances for a
+yield in precious metals, which cannot fail to assert its weight in the
+
+financial scales of the world.
+
+But we return to our immediate object, that of giving some particu. lam relating to the Illustrations now presented to our readers,
+
+THE ]tGR.&YIN¿8.
+
+Deeals Gate, some three miles up the Gulch of Gold Cannon, is remarkable cluster of rocks on each side, forming a natural gateway and appropriate entrance to this demoniac region. To the south of it extending about half a mile down the Gulch, lies Silver City, with a population of some two thousand inhabitants; a place teeming with the activity of the entire traffic from California to Wa
+
+Numerous teams are constantly occupied an the transportation of ore
+
+from the mines to the crushing-mills (two of the principal of which
+
+are represented in our Engraving; and the noise of some 500 stamuers
+
+and snorting of steam-engines render it a fit abode for the Cyclops.
+
+The summit of the rock, forming the right side of the gate, at the time
+
+of the late Indian troubles, was used as a fortification against the
+
+Pali-Utes.
+
+Goid-hifl,Mount Davidson,and.tlie Ophir-road.--Foilowingthe ascent of the Cannon for about two and a half miles beyond the Devil's Gate northerly, we arrive at the famous. Gold-hill, the paying-place, par excellence, of the Washoe region, as the produce of its mines, less remarkable for its positive richness than the continuity of a steady average yield of from 50 to 75 dole, to the ton, chiefly in gold of easy extraction, enters into immediate circulation, Its bountiful yield of such ore is practically evinced by the uninterrupted line of heavy teams carrying the precious rock to the mills of Silver City and on Carson River, the works stablished in the vicinity of Gold-hill being insufficient even for the. requirements of the companies which erected and work them for ther own use. The ai1ay of silver, hitherto disregarded, is increasing at a rate which will imply a more oomph. cated process, and retard the result. This hill, perforated by numerous tunnels, with its stir of life, resembles a vast beehive; and the airy scsolding of the schuyts for delivering the rock surround it as with the tracery of some huge spider's web. The entire frontage of Gold. hill proper does not exceed 250 yards, this space being subdivided into numerous claims of from 5ft. to lOft, each, worked by a few men. Individual mining, therefore, is the prevailing feature in this locality' and the consequence is a certain recklessness in pushing into the pay ing ledge as fast as possible, with a frequent. disregard of the safety of support among tunnels in danger of. "caving in."
+
+Virginia City.-This Illustration (on page 259) represents the first
+
+glimpse afforded of this emporium of Wsshoe, from the eminence at
+
+the head of Gold Cannon, beyond Gold-hill, the distance between these
+
+two places being only about one English mile. The plain abounds in detached boulders of rock as fantastic inform as those of Arabia Petrea, the comparison being borne out by the general aspect of the surrounding
+ILLUSTRATIONS OF TEE CIVIL WAR IN AMERICA.
+
+Otra Special  Artist has sent us, as stated in last week's Number, some
+
+Sketches in connection with General Burnaide's expedition to the coast of North Carolina, two of which are engraved on page 58. He writes respecting them as follows On the first appearance of fine weather I landed on the desolate sands of Hatteras Spit, and started for an island some five miles up, the coast of which was covered with cedars and oaks. Here I made the two Sketches forwarded with this letter. One shows the provisional camp of &&o] tion of the Boraside expedition who have landed temporarily, and e other gives the head-quarters at Camp Winfleld of Geaeral Wiflisms, who commends the troops that have been in occupation of the place since the capture of the forts."
+
 
