@@ -9286,7 +9286,7 @@ vessel, the Thirty-nine States, off the north-western part of Spain, when twelve
 got safely to land; the ship was dashed to pieces.</p></div2>
 <div2 id="iln40.1142.004" n="Illustration of the War in America"
       type="article">
-<head>ILLUSTRATION THE WAR IN AMERICA.</head>
+<head>ILLUSTRATION OF THE WAR IN AMERICA.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1142</biblScope> 
@@ -9930,6 +9930,21 @@ Captain Wilson's two coadjutors, hardly less brave than himself, the
 steward, an Englishman is of small stature, and is about twenty-eight
 years old; the cook is a German, of middle  size in his twenty-seventh
 year.</p></div2>
+<div2 id="iln40.1144.005" n="Captain William Wilson, of the Emily
+      St. Pierre" type="illustration">
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1144</biblScope> 
+           <biblScope type="pages">p. 507</biblScope> 
+           <date value="1862-05-17">May 17,1862</date>
+         <extent></extent>
+</bibl>
+<p>
+<figure entity="v40p507">
+<head>CAPTAIN WILLIAM WILSON, OF THE EMILY ST. PIERRE</head>
+</figure>
+</p>
+</div2>
 <div2 id="iln40.1145.001" n="The French in Mexico" type="article">
 <head>THE FRENCH IN MEXICO.</head>
 <bibl>
@@ -10255,21 +10270,33 @@ of that time.</p></div2>
 <p>We had the pleasure of giving in our last Number a Portrait of
 Captain Wilson, commander of the Emily St.Pierre, and it is with like
 pleasure that we give in our present issue Portraits of the two brave men-the
-steward and cook of that vessel-who so promptly seconded his exertions in regaining possession of ththe Emily St. Pierre--recapturing her from a prize crew consisting of two officers and thirteen men of the United States' Navy. The circumstances of this daring act, happily crowned with success, and showing in a most remarkable manner how "fortune favours the brave," are too fresh in our readers' memory to need recapitulation. Matthew Montgomery, the steward, is a native
-
-of Dublin: he is of
-
-small stature, and about
-
-twenty-eight years old. The cook, named Louis Schelvin, who is in his twenty-seventh year, is a German, belonging
-
-to Frankfort-on-Maine.
-
-Purses of gold and silver
-
-medals, with suitable
-
-inscriptions, have re-cently been presented to the steward and cook.</p></div2>
+steward and cook of that vessel-who so promptly seconded his exertions
+in regaining possession of ththe Emily St. Pierre--recapturing her
+from a prize crew consisting of two officers and thirteen men of the
+United States' Navy. The circumstances of this daring act, happily
+crowned with success, and showing in a most remarkable manner how
+"fortune favours the brave," are too fresh in our readers' memory to
+need recapitulation. Matthew Montgomery, the steward, is a native of
+Dublin: he is of small stature, and about twenty-eight years old. The
+cook, named Louis Schelvin, who is in his twenty-seventh year, is a
+German, belonging to Frankfort-on-Maine.Purses of gold and silver medals, with suitable
+inscriptions, have re-cently been presented to the steward and
+cook.</p></div2>
+<div2 id=iln40.1145.014" n="The Cook and Steward of the Emily
+      St. Pierre" type="illustration">
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1145</biblScope> 
+           <biblScope type="pages">p. 531</biblScope> 
+           <date value="1862-05-24">May 24,1862</date>
+         <extent></extent>
+</bibl>
+<p>
+<figure entity="v40p531">
+<head>THE COOK AND STEWARD OF THE EMILY ST.PIERRE</head>
+</figure>
+</p>
+</div2>
 <div2 id="iln40.1145.005" n="Postage Stamps" type="article">
 <head>POSTAGE STAMPS</head>
 <bibl>
@@ -10296,7 +10323,7 @@ to possess a manual and special correspondents ; and the prices of
 collections at sales are regularly quoted.</p></div2>
 
 <div2 id="iln40.1145.006" n="A Run by Rail from Washington to
-      St. Louis" n="article">
+      St. Louis" type="article">
 <head>A RUN BY RAIL FROM WASHINGTON TO ST. LOUIS.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -10473,44 +10500,53 @@ restaurants. But, ah, confusion! two rival niggers sprang towards me as I alight
 
 <p>Our journey now lay through a most beautiful and highly-cultivated district of Ohio. On each side of the line were rich parterres of spring wheat, with just the necessary amount of uncleared land, to give character to the country. To the left runs the swollen Ohio River, with stern-wheel steamers snorting impatiently at their almost unsuccessful efforts to stem the rapid current. Little smiling villages and townships burst upon us like sparkling opals from the emerald woods, and everything denoted a prosperous and well-conditioned State. As we advanced into the more unsettled districts we found ourselves surrounded by dense forests, but even here the sound of the woodman's axe and the little open patch, with neat log hut, showed the chosen site of a future farm. Vastly different was the appearance of Indiana, through which we were speeding the next morning at daylight. Impenetrable swamps choked with dank and rotten timber sent up their fetid breath under the rays of the rising sun. Scant and of miserable exterior were the villages through which we rushed, while the separate settlements bore unmistakable signs of a poor soil or ill-cultivated land. But soon we were at Chicago, where a few hour rest was grateful to at least two travel-worn and dust-bepowdered people.</p>
 
- Chicago is quite a miniature Liverpool in its way. Canals and docks
+ <p>Chicago is quite a miniature Liverpool in its way. Canals and docks
 
 intersect one portion of the city, and these are crowded with the
 
-ciest-looking schooners and most eccentric of steamers, gorging and disgorging the produce of the West. Verily, this West appears to me to have a mighty destiny in store for it. With its lakes and
+sauciest-looking schooners and most eccentric of steamers, gorging and disgorging the produce of the West. Verily, this West appears to me to have a mighty destiny in store for it. With its lakes and
 
 that main artery of America, the Mississippi, throbbing with
 
-increased vitality through its States, it seems to grasp with each band the North and the South; and who shall predict the future result of the war which is now being waged between the opposing sections of this giant people, who threescore years ago was the youngest-born of the family of nations-the birth, as it were, of a day--and who are now developing their energies and revolutionising the theories of the Old World? and who, I ask, shall predict the result of this servile war-for servile war the Abolitionists are making it? The America of the past can never again be the America it has been. The West has given its thousands of sturdy pioneers to swell the ranks of the Federal army, and to its stalwart battalions are due the victories which have restored the prestige of the Government; but how long will the West be content to sacrifice the choicest of her sons apd the commerce which is necessary to her? Will she notproud of her achievements in the field-turn to the East and North and taunt them with their shortcomings? Will she not-disgusted with the hungering after contracts of the North-eastern State and crippled in her own resources, removed as she is from the commerce- of the Atlantic seaboardturn eventually in bitterness from the strife and carve out a new destiny for herself, seeking her fortunes with the broad streams of the Mississippi and Ohio as an outlet to the riches with which her bosom teems P As yet I have seen comparatively little of the West; but that little has suggested the substance of the foregoing remarks. Already the very people who placed the present Executive in power are voting democratic tickets at the elections of their State officers, and what all this may eventuate in others more profound than myself may determine-'will there be a further diesnemberment of this cruelly-distracted country? But pardon me this digression; these speculations are probably but idle ones, though I have heard many here express sentiments that would give colouring to what I have written.
+increased vitality through its States, it seems to grasp with each band the North and the South; and who shall predict the future result of the war which is now being waged between the opposing sections of this giant people, who threescore years ago was the youngest-born of the family of nations-the birth, as it were, of a day--and who are now developing their energies and revolutionising the theories of the Old World? and who, I ask, shall predict the result of this servile war--for servile war the Abolitionists are making it? The America of the past can never again be the America it has been. The West has given its thousands of sturdy pioneers to swell the ranks of the Federal army, and to its stalwart battalions are due the victories which have restored the prestige of the Government; but how long will the West be content to sacrifice the choicest of her sons and the commerce which is necessary to her? Will she not--proud of her achievements in the field--turn to the East and North and taunt them with their shortcomings? Will she not--disgusted with the hungering after contracts of the North-eastern State and crippled in her own resources, removed as she is from the commerce--of the Atlantic seaboard--turn eventually in bitterness from the strife and carve out a new destiny for herself, seeking her fortunes with the broad streams of the Mississippi and Ohio as an outlet to the riches with which her bosom teems? As yet I have seen comparatively little of the West; but that little has suggested the substance of the foregoing remarks. Already the very people who placed the present Executive in power are voting democratic tickets at the elections of their State officers, and what all this may eventuate in others more profound than myself may determine--will there be a further diesmemberment of this cruelly-distracted country? But pardon me this digression; these speculations are probably but idle ones, though I have heard many here express sentiments that would give colouring to what I have written.</p>
 
- Again the deep bellow of the "bull-glue" was heard, and we rattled
+<p> Again the deep bellow of the "bull-gine" was heard, and we rattled
 
-out of the Chigaco thipOt on to a causeway built 100 yards from the
+out of the Chigaco d&#x00e9;p&#x00f4;t on to a causeway built 100 yards from the
 
 shore and running parallel with the stately marina of the town. On
 
-our left stretched the broad expanse of Lake Michigan, dotted far and 'wide with the white wings of swiftly sailing schooners and the gracefully curling columns of gauzy vapour from the busy little tug-boats. As I looked on the calmly placid waters my thoughts were carried back to a certain dark night in he year 1860. A proud steamer cleaves her way rapidly thronghthe surrounding gloom; sounds of merriment and the careless laugh of insouciance come from her brilliantly-lit cabins. But then comes another sound-a fearful crash, followed by one loud shriek of agony and despair-the steamer has gone, and with her is that deep plunge she has buried the happiness of many families and left a bitter grief that the waters of oblivion can never heal. On that dark night a gentleman whom I knew was hurried, with his eldest son, in the midst of a well-deserved prosperity to an unlooked-for doom, and this Journal, that owes its present proud position to his energy and enterprise, lost its founder, and hosts of artists and literary men a friend. Again I ask your readers to pardon me for digressing, but this painful reminiscence of a cruel misfortune has forced, itself tuiwittingly from my pen.
+our left stretched the broad expanse of Lake Michigan, dotted far and
+wide with the white wings of swiftly sailing schooners and the
+gracefully curling columns of gauzy vapour from the busy little
+tug-boats. As I looked on the calmly placid waters my thoughts were
+carried back to a certain dark night in the year 1860. A proud steamer
+cleaves her way rapidly throngh the surrounding gloom; sounds of merriment and the careless laugh of insouciance come from her brilliantly-lit cabins. But then comes another sound-a fearful crash, followed by one loud shriek of agony and despair-the steamer has gone, and with her is that deep plunge she has buried the happiness of many families and left a bitter grief that the waters of oblivion can never heal. On that dark night a gentleman whom I knew was hurried, with his eldest son, in the midst of a well-deserved prosperity to an unlooked-for doom, and this Journal, that owes its present proud position to his energy and enterprise, lost its founder, and hosts of artists and literary men a friend. Again I ask your readers to pardon me for digressing, but this painful reminiscence of a cruel misfortune has forced, itself unwittingly from my pen.</p>
 
-In another hour we were entering the endless plains of Illinois, the prairie lands-so marked a feature of this continent. There they stretched, broad and expansive, thousands of Salisbury plains massed into one great area of gently-rolling verdure. At intervals, to vary this continual monotony of apace and sky, we would startle the quiet of some little town, a settled island, as it were, in a dried-up,;d
+<p>In another hour we were entering the endless plains of Illinois,
+the prairie lands-so marked a feature of this continent. There they
+stretched, broad and expansive, thousands of Salisbury plains massed
+into one great area of gently-rolling verdure. At intervals, to vary
+this continual monotony of space and sky, we would startle the quiet
+of some little town, a settled island, as it were, in a dried-up
+inland sea, bringing down the inhabitants in eager groups after the Chicago
 
---
+papers. It so happened they contained the lists of the killed Illinoisians
 
-hehe decisive battle impending between the two mighty armies arrayed
+at the battle of <orig reg="Pittsburgh">Pittsburg</orig> Landing; and more than one anxious old man I saw bury his face in his hands as we sped rapidly onwards: thus did we leave misery in our track, striking down in grief many who were anxious for our coming. But what was that which disturbed me from my uneasy slumbers the next morning at daybreak? The train was almost stationary, and a rushing sound of water beneath the carriages betokened something unusual. We were in the midst of a submerged forest, and the line, though eight feet above the level, had two feet of Mississippi water on it. Slowly we moved along, the cowcatcher in front of the locomotive throwing off the drifting trunks of trees, and after ten weary miles at a creeping pace, with fires nearly extinguished, we rolled on to the lev&#x00e9;e at Cairo. The quantity of water accumulated there now would astonish even Martin Chuzzlewit and his friend Mark Tapley--the only dry land for a dozen miles round being the aforesaid lev&#x00e9;e, which threatened at any moment to give way, and make a new channel for the Mississippi (now twenty-five miles broad from the flood) through the valley of Eden. On the day of my arrival General Pope, with his division from New Madrid, paused here on his way to Pittsburg Landing, where he was moving to reinforce General Hallenk in front of Corinth. The Sketch forwarded with this shows his transports ranged along the lev&#x00e9;e, and also the junction of the Ohio and Mississippi Rivers indicated by the line of submerged forests. [This Illustration will appear in a future number.]</p>
 
-gamst each other.
+<p>The General in command at Cairo having referred me to the headquarters of the Western department at St. Louis for permission to join
 
-More of Cairo and St. Louis in my next. At present I mumaiL  st close to
+the  forces on the Tennessee, I am now here waiting a reply from General Halleck to the request I have preferred through the authorities left in charge. Every hour may bring me an answer, and, should it be favourable, which I have every reason to hope it will be, I shall leave immediately for Pittsburg Landing, arriving in time, I hope to witness
 
-are the . v.
-sea, bringing down the inhabitants in eager groups after the Chicago
+the decisive battle impending between the two mighty armies arrayed
 
-papers. it so happened they contained the lists of the killed Illinoisians
+gamst each other.</p>
 
-at the battle of Pittsbnrg Landing; and more than one anxious old xiian I saw bury his face in his hands as we sped rapidly onwards: thus did we leave misery in our track, striking down in grief many Who Were anxious for our coming. But what was that which disturbed me from my uneasy slumbers the next morning at daybreak? The train was almost stationary, and a rushing sound of water beneath the carriages betokened something unusual. We were in the midst of a submerged forest, and the line, though eight feet above the level, had two feet of Mississippi water on it. Slowly we moved along, the cowcatcher in front of the locomotive throwing off the drifting trunks of trees, and after ten weary miles at a creeping pace, with fires nearly extinguished, we rolled on to the leve at Cairo. The quantity of water accumulated there now would astonish even Martin Chuzzlewit and his friend Mark Tapley-the only dry land for a dozen miles round being the aforesaid levee, which threatened at any moment to give way, and make a new channel for the Mississippi (now twenty-five miles broad from the flood) through the valley of Eden. On the day of my smval General Pope, with his division from New Madrid, paused here on his way to Pittsburg Landing, where he was moving to reinforce General Hallenk in front of Corinth. The Sketch forwarded with this shows his transports ranged along the levee, and also the junction of the Ohio and Mississippi Rivers indicated by the line of submerged forests. [This Illustration will appear in a future Iq umber.]
+<p>More of Cairo and St. Louis in my next. At present I must close to
+save the mail.</p>
+<p rend="right">F.V.</p>
 
-The General in command at Cairo having referred me to the hagarters of the Western department at St. Louis for permission to join
-
-a forces on the Tennessee, I am now here waiting a reply from General alleck to the request I have preferred through the authorities left in charge. Every hour may bring toe an answer, and, should it be favourable, which I have every reason to hope it will be, I shall leave immediately for Pitteburg Landing, arriving in time, I hope to witness
 AMERICA.
 
 By the arrival of the Etna we have news from New York to the 17th inst.
