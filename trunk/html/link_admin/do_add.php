@@ -2,6 +2,7 @@
 include_once("common_funcs.php");
 include_once ("linkRecord.class.php");
 link_head("Links - Process new link");
+include_once ("../config.php");
 
 print '<div class="content">
 <h2>Processing new link</h2>'; 
@@ -26,9 +27,9 @@ if (!(isset($url))||(!(isset($title)))||(!(isset($description)))
 }
 
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-		'coll' => 'iln_links',
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
+		'coll' => $tamino_coll,
 		'url' => $url,
 		'title' => $title,
 		'description' => $description,

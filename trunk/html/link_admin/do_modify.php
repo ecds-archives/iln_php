@@ -1,6 +1,8 @@
 <?php
 include_once("common_funcs.php");
 include_once ("linkRecord.class.php");
+include_once ("../config.php");
+
 link_head("Links - Process new link");
 
 print '<div class="content">
@@ -21,9 +23,9 @@ $edit_desc = htmlentities($_GET["mod_desc"]);
 
 
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-		'coll' => 'iln_links',
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
+		'coll' => $link_coll,
 		'url' => $url,
 		'id' => $id,
 		'title' => $title,

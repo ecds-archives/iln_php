@@ -1,12 +1,13 @@
 <?php
 include_once ("subjectList.class.php");
 include_once ("common_funcs.php");
+include_once ("../config.php");
 
 link_head("Links - Manage Subjects");
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-		'coll' => 'iln_links');
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
+		'coll' => $link_coll);
 $subjects = new subjectList($myargs);
 
 print '<div class="contents">

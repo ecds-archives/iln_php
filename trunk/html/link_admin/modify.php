@@ -1,5 +1,6 @@
 <?php
 include_once("common_funcs.php");
+include_once("../config.php");
 include_once ("linkRecord.class.php");
 include_once("../phpDOM/classes/include.php");
 import("org.active-link.xml.XML");
@@ -10,9 +11,9 @@ $url = $_GET["url"];
 $id = $_GET["id"];
 
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-		'coll' => 'iln_links',
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
+		'coll' => $link_coll,
 		'id' => $id);
 $link = new LinkRecord($myargs);
 $link->taminoGetRecord();

@@ -1,6 +1,7 @@
 <?php
 include_once ("linkCollection.class.php");
 include_once ("common_funcs.php");
+include_once ("../config.php");
 
 link_head("Links - Full Listing");
 
@@ -15,12 +16,12 @@ print '<div class="content">
 
 include("nav.html");
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-		'coll' => 'iln_links',
-		//'debug' => true,
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
+		'coll' => $link_coll,
 		'limit_subject' => $subject[0],
-		'sort' => $sort);
+		'sort' => $sort,
+		'debug' => false);
 $linkset = new LinkCollection($myargs);
 
 
