@@ -54,7 +54,7 @@ London News Perspective</title>
             <head>Illustrated London News: Volume 39</head>
             <docDate>July to Dec 1861</docDate>
 
-<div2 id="iln39" n="THE CIVIL WAR IN AMERICA" type="Article">
+<div2 id="iln39.1097.001" n="THE CIVIL WAR IN AMERICA" type="Article">
 
 <head>THE CIVIL WAR IN AMERICA.</head>
       <bibl> 
@@ -192,7 +192,7 @@ and up to 4 per cent prem. largely exceeded the amount required.</p>
 </div2>
 
 
-<div2>
+<div2 id="iln39.1097.002" n="LATEST NEWS FROM ABROAD." type="article">
 <head>LATEST NEWS FROM ABROAD.</head>
       <bibl> 
         <title>The Illustrated London News</title> 
@@ -219,7 +219,7 @@ Potomac.  The rebels fired on a small party from the gun-boats,
 killing two men and wounding several others.</p>
 </div2>
 
-<div2>
+<div2 id="iln39.1097.003" n="LONDON, SATURDAY, JULY 6,1861." type="article">
 
 <head><hi rend="italic">LONDON, SATURDAY, JULY</hi> 6, 1861.</head>
       <bibl> 
@@ -271,7 +271,7 @@ closely allied to the Secessionists, let this be imputed to the slow
 habits of islanders, not to interested motives.</p>
 </div2>
 
-<div2>
+<div2 id="iln39.1097.004" n="THE CIVIL WAR IN AMERICA." type="article">
 <head>THE CIVIL WAR IN AMERICA.</head>
       <bibl> 
         <title>The Illustrated London News</title> 
@@ -471,7 +471,7 @@ two or three hundred yards off, he gallops to Fairfax, to boast of the
 valiant deed of which he is the hero.</p>
 
 
-<div2>
+<div2 id="iln39.1098.005" n="THE CIVIL WAR IN AMERICA." type="article">
 <head>THE CIVIL WAR IN AMERICA.</head>
       <bibl> 
         <title>The Illustrated London News</title> 
@@ -602,7 +602,7 @@ A movement is on foot in the southern portion of California to join
 the Confederate States.</p>
 </div2>
 
- <div2  n="THE OUTLYING SENTRIES OF THE FEDERAL ARMY" type="Illustration">
+ <div2 id="iln39.1098.006"  n="THE OUTLYING SENTRIES OF THE FEDERAL ARMY" type="Illustration">
                <head>THE OUTLYING SENTRIES OF THE FEDERAL ARMY</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
@@ -622,7 +622,8 @@ the Confederate States.</p>
   </div2>
 
 
-<div2>
+<div2 id="iln39.1098.007" n="[CHARGES of brutality]." type="article">
+   <head> [CHARGES of brutality]</head>
      <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -654,9 +655,9 @@ ambuscades on each side among the trees.  The Lieutenant in command
 and our artist were in the centre.</p>
 </div2>
 
- <div2  n="UNIONIST SCOUTING PARTY IN THE VIRGINIAN
-WOODS IN THE NEIGHBOURHOOD OF ALEXANDRIA.-FROM A SKETCH BY OUR SPECIAL
-ARTIST" type="Illustration">
+ <div2 id="iln39.1098.008" n="THE OUTLYING SENTRIES OF THE FEDERAL ARMYUNIONIST SCOUTING
+   PARTY IN THE VIRGINIAN WOODS IN THE NEIGHBOURHOOD OF
+   ALEXANDRIA.-FROM A SKETCH BY OUR SPECIAL ARTIST" type="Illustration">
 
    <head>THE OUTLYING SENTRIES OF THE FEDERAL ARMYUNIONIST SCOUTING
    PARTY IN THE VIRGINIAN WOODS IN THE NEIGHBOURHOOD OF
@@ -677,7 +678,7 @@ ARTIST" type="Illustration">
                </p>
   </div2>
 
-<div2>
+<div2 id="iln39.1098.009" n="LONDON, SATURDAY, JULY 13,1861." type="article">
    <head><hi rend="italic"> LONDON, SATURDAY, JULY</hi> 13, 1861.</head>
      <bibl> 
         <title>The Illustrated London News</title> 
@@ -728,7 +729,7 @@ hastens its downfal [sic].</p>
 </div2>
 
 
- <div2  n="ATTACK ON THE PICKETS OF THE
+ <div2  ID="ILN39.1098.010" n="ATTACK ON THE PICKETS OF THE
 GARIBALDI GUARD ON THE EAST BRANCH OF THE POTOMAC.-FROM A SKETCH BY
 OUR SPECIAL ARTIST.-SEE NEXT PAGE" type="Illustration">
 
@@ -751,8 +752,9 @@ OUR SPECIAL ARTIST.-SEE NEXT PAGE</head>
                </p>
   </div2>
 
-<div2>
-<head>ATTACK ON THE PICKETS OF THE GARIBALDI GUARD, EAST BRANCH OF THE
+<div2 id="iln39.1099.011" n="ATTACK ON THE PICKETS OF THE GARIBALDI GUARD, EAST BRANCH OF THE
+POTOMAC." type="article">
+  <head>ATTACK ON THE PICKETS OF THE GARIBALDI GUARD, EAST BRANCH OF THE
 POTOMAC.</head> 
     <bibl> 
         <title>The Illustrated London News</title> 
@@ -774,8 +776,8 @@ Italians, French, and Swiss, with a few Hungarians.  Their uniform is
 a close imitation of the Sardinian bersaglieri."</p>
 </div2>
 
-<div2>
-<head>THE CIVIL WAR IN AMERICA.<br/>
+<div2 id="iln39.1099.012" n="THE CIVIL WAR IN AMERICA." type="article">
+<head>THE CIVIL WAR IN AMERICA.<lb/>
 THE WAYS AND MEANS THEREOF.</head>
     <bibl> 
         <title>The Illustrated London News</title> 
@@ -793,7 +795,7 @@ inst. an interesting written report, or budget, the substance of which
 we proceed to give.  We premise that the fiscal year of the United
 States commences on July 1 of each year.  The total estimates for the
 current fiscal year (July 1, 1861, to June 30, 1862) are 318,519,582
-dols. (omitting fractions of a dollar), or about £65,000,000.  To meet
+dols. (omitting fractions of a dollar), or about &pound:65,000,000.  To meet
 this expenditure Mr. Chase thinks it advisable to raise 320,000,000
 dols.  "With great deference and no little distrust of his own
 judgment," he recommends that 80,000,000 dols. should be raised by
@@ -824,7 +826,7 @@ in the articles now exempt from duty or but lightly taxed.  These
 articles have heretofore been taxed, and were only exempted when the
 debts contracted in former wars had been fully paid.  Of the articles
 now lightly taxed, sugar, and of those wholly free, tea and coffee,
-are the most important.  The Secretary proposes that a duty of 2 1/2
+are the most important.  The Secretary proposes that a duty of 2&fract12:
 cents per pound be laid on brown sugar, 3 cents on clayed sugar, and 4
 cents on loaf and refined sugars; corresponding duties on syrup,
 candy, and molasses; on coffee, 5 cents per pound; on black tea, 15
@@ -924,8 +926,8 @@ future which shall surpass the whole glorious past in the richness of
 its blessings and benefits.</p>
 </div2>
 
-<div2>
-<head>LONDON, SATURDAY, JULY 20, 1861.</head>
+<div2 id="iln39.1099.013" n="LONDON, SATURDAY, JULY 20, 1861." type="article">
+<head><hi rend="italic">LONDON, SATURDAY, JULY</hi> 20, 1861.</head>
     <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -961,8 +963,9 @@ antagonists gain such a success as will leave a burning rancour in the
 hearts of its advocates.</p>
 </div2>
 
-<div2>
-<head>THE LONG BRIDGE OVER THE POTOMAC AT WASHINGTON.</head>
+<div2 id="iln39.1099.014" n="THE LONG BRIDGE OVER THE POTOMAC AT WASHINGTON." type="article">
+<head>THE LONG BRIDGE OVER THE<lb/>
+ POTOMAC AT WASHINGTON.</head>
     <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -987,13 +990,13 @@ extremity of the bridge, and sentinels parade to and fro.</p>
 </div2>
 
 
-<div2  n="THE LONG BRIDGE OVER THE POTOMAC AT WASHINGTON, GUARDED BY UNITED  STATES' ARTILLERY" type="Illustration">
+<div2  id="iln39.1099.015" n="THE LONG BRIDGE OVER THE POTOMAC AT WASHINGTON, GUARDED BY UNITED  STATES' ARTILLERY" type="Illustration">
 
    <head>THE LONG BRIDGE OVER THE POTOMAC AT WASHINGTON, GUARDED BY UNITED  STATES' ARTILLERY</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1098</biblScope> 
+                  <biblScope type="issue">1099</biblScope> 
                   <biblScope type="pages">p. 47</biblScope> 
                   <date value="1861-07-20">July 20, 1861</date>
                <extent>1 paragraph</extent></bibl>
@@ -1006,7 +1009,8 @@ extremity of the bridge, and sentinels parade to and fro.</p>
 
 
 
-<div2>
+<div2 id="iln39.1099.016" n="[The degree of LL.D. has been conferred]" type="article">
+  <head> [The degree of LL.D. has been conferred]</head>
     <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -1021,7 +1025,7 @@ Columbia College.</p>
 
 
 
-<div2>
+<div2 id="iln39.1100.017" n="THE PRESIDENT'S MESSAGE." type="article">
 <head>THE PRESIDENT'S MESSAGE.</head>
     <bibl> 
         <title>The Illustrated London News</title> 
@@ -1202,7 +1206,7 @@ three months was alloyed by less chivalric impulses.</p>
 </div2>
 
 
-<div2>
+<div2 id="iln39.1100.018" n="THE CIVIL WAR IN AMERICA" type="article">
 <head>THE CIVIL WAR IN AMERICA.</head>
     <bibl> 
         <title>The Illustrated London News</title> 
@@ -1313,7 +1317,7 @@ Boston on the 10th.</p>
 </div2>
 
 
-<div2  n="THE NEW WORLD, ONE OF THE HUDSON RIVER STEAMERS" type="Illustration">
+<div2 id="iln39.1100.019" n="THE NEW WORLD, ONE OF THE HUDSON RIVER STEAMERS" type="Illustration">
 
    <head>THE NEW WORLD, ONE OF THE HUDSON RIVER STEAMERS</head>
                <bibl> 
@@ -1333,7 +1337,7 @@ Boston on the 10th.</p>
 
 
 
-<div2>
+<div2 id="iln39.1100.020" n="AMERICAN STEAMERS. THE HUDSON RIVER STEAMER THE NEW WORLD" type="article">
 <head>AMERICAN STEAMERS.<lb/>
 THE HUDSON RIVER STEAMER THE NEW WORLD.</head>
                <bibl> 
@@ -1438,15 +1442,15 @@ follow:-</p>
 
 <p>Length over all  ..	..	...	..	380 ft.<lb/>
 Breadth over all	..	..	..	85 ft.<lb/>
-Breadth of beam	..	..	..	50 ft.<lb/>
-Diameter of cylinder	...	..	..	76 in.<lb/>
+Breadth of beam 	..	..	..	50 ft.<lb/>
+Diameter of cylinder	..	..	..	76 in.<lb/>
 Length of stroke	..	..	..	15 ft.<lb/>
 Diameter of paddle-wheel	..	..	46 ft.<lb/>
 </p>
 <p>     It has 347 state rooms or cabins, and 680 berths.</p>
 </div2>
 
-<div2  n="'CONTRABAND OF WAR.'-FROM  A SKETCH BY OUR SPECIAL ARTIST" type="Illustration">
+<div2 ID="ILN39.1100.021" n="'CONTRABAND OF WAR.'-FROM  A SKETCH BY OUR SPECIAL ARTIST" type="Illustration">
 
    <head>"CONTRABAND OF WAR."-FROM  A SKETCH BY OUR SPECIAL ARTIST</head>
                <bibl> 
@@ -1465,7 +1469,7 @@ Diameter of paddle-wheel	..	..	46 ft.<lb/>
 
 
 
-<div2>
+<div2 id="iln39.1100.022" n="ILLUSTRATIONS OF THE CIVIL WAR IN AMERICA." type="article">
 <head>ILLUSTRATIONS OF THE CIVIL WAR IN AMERICA.</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
@@ -1492,7 +1496,7 @@ set upon by seven or eight of the Confederate cavalry; and, though he
 made a gallant defence, was carried off.</p>
 </div2>
 
-<div2>
+<div2 id="iln39.1100.023" n="PRESIDENT LINCOLN'S MESSAGE." type="article">
 <head>PRESIDENT LINCOLN'S MESSAGE.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -2119,8 +2123,8 @@ God, and go forward without fear and with manly hearts.</p>
 </div2>
 
 
-<div2>
-<head>The Civil War in America</head>
+<div2 id="iln39.1100.024" n="THE CIVIL WAR IN AMERICA." type="article">
+<head>THE CIVIL WAR IN AMERICA.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
     <biblScope type="volume">vol. 39</biblScope> 
@@ -2250,8 +2254,8 @@ last year, and 2,630,240 dols. in 1859.</p>
 
 </div2>
 
-<div2>
-<head>LONDON, SATURDAY, AUGUST 3, 1861.</head>
+<div2 id="iln39.1101.025" n="LONDON, SATURDAY, AUGUST 3,1861." type="article">
+<head><hi rend="italic">LONDON, SATURDAY, AUGUST</hi> 3, 1861.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
     <biblScope type="volume">vol. 39</biblScope> 
@@ -2289,8 +2293,9 @@ belligerents.</p>
 </div2>
 
 
-<div2>
-<head>REVIEW OF FEDERAL TROOPS BY PRESIDENT
+<div2 id="iln39.1101.026" n="REVIEW OF FEDERAL TROOPS BY PRESIDENT
+LINCOLN AND GENERAL SCOTT." type="article">
+<head>REVIEW OF FEDERAL TROOPS BY PRESIDENT<lb/>
 LINCOLN AND GENERAL SCOTT.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -2317,12 +2322,7 @@ Bersaglieri.</p>
 
 </div2>
 
-
-{ILLUSTRATION: REVIEW OF FEDERAL TROOPS ON THE 4TH OF JULY BY
-PRESIDENT LINCOLN AND GENERAL SCOTT: THE GARIBALDI GUARD FILING
-PAST.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE PRECEDING PAGE.
-
-<div2  n="REVIEW OF FEDERAL TROOPS ON THE 4TH OF JULY BY
+<div2  id="iln39.1101.027" n="REVIEW OF FEDERAL TROOPS ON THE 4TH OF JULY BY
 PRESIDENT LINCOLN AND GENERAL SCOTT: THE GARIBALDI GUARD FILING
 PAST.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE PRECEDING PAGE." type="Illustration">
 
@@ -2345,7 +2345,7 @@ PAST.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE PRECEDING PAGE.</head>
                </p>
   </div2>
 
-<div2>
+<div2 id="iln39.1101.028" n="THE CIVIL WAR IN AMERICA." type="article">
 <head>THE CIVIL WAR IN AMERICA.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -2570,7 +2570,8 @@ hand, and will probably appear in our next Number.</p>
 </div2>
 
 
-<div2>
+<div2 id="iln39.1102.029" n="[The dissentions which arose some months ago]" type="article">
+ <head> [The dissentions which arose some months ago]</head>
   <bibl> 
     <title>The Illustrated London News</title> 
     <biblScope type="volume">vol. 39</biblScope> 
@@ -2579,7 +2580,6 @@ hand, and will probably appear in our next Number.</p>
     <date value="1861-08-10">August 10, 1861</date>
   </bibl>
 
-<p> . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . .</p>
 <p>The dissensions which arose some months ago in the United States of
 North America have, unfortunately, assumed the character of open war.
 Her Majesty, deeply lamenting this calamitous result, has determined,
@@ -2587,11 +2587,7 @@ in common with the other Powers of Europe, to preserve a strict
 neutrality between the contending parties. . . . </p>
 </div2>
 
-
-{ILLUSTRATION: THE CIVIL WAR IN AMERICA: SKETCHES FROM RICHMOND,
-VIRGINIA, THE CAPITAL OF THE CONFEDERATE STATES OF AMERICA.}
-
-<div2  n="SKETCHES FROM RICHMOND,
+<div2  id="iln39.1102.030" n="SKETCHES FROM RICHMOND,
 VIRGINIA, THE CAPITAL OF THE CONFEDERATE STATES OF AMERICA" type="Illustration">
 
    <head>SKETCHES FROM RICHMOND,
@@ -2613,7 +2609,8 @@ CAPITAL OF THE CONFEDERATE STATES OF AMERICA</head>
 
 
 
-<div2>
+<div2 id="iln39.1102.031" n="THE SESSION" type="article">
+ <head> THE SESSION</head>
   <bibl> 
     <title>The Illustrated London News</title> 
     <biblScope type="volume">vol. 39</biblScope> 
@@ -2622,7 +2619,6 @@ CAPITAL OF THE CONFEDERATE STATES OF AMERICA</head>
     <date value="1861-08-10">August 10, 1861</date>
   </bibl>
 
-<p rend="center">. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
 <p>The debates on foreign affairs have been neither numerous nor
 remarkable.  There has been an unhappy sameness in them, both as
 regards subject and treatment, which has tended to their abbreviation,
@@ -2635,7 +2631,7 @@ neutrality has been maintained. . . .</p>
 </div2>
 
 
-<div2>
+<div2 id="iln39.1102.032" n="THE SESSION" type="article">
 <head>SKETCHES FROM RICHMOND, VIRGINIA.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -2666,7 +2662,7 @@ which were chiselled in Europe at an immense cost.</p>
 
 </div2>
 
-<div2>
+<div2 id="iln39.1102.033" n="FOREIGN AND COLONIAL NEWS." type="article">
 <head>FOREIGN AND COLONIAL NEWS.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -2676,7 +2672,6 @@ which were chiselled in Europe at an immense cost.</p>
     <date value="1861-08-10">August 10, 1861</date>
   </bibl>
 
-<p>. . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . .</p>
 <p rend="center">THE AMERICAN CIVIL WAR.</p>
 
 <p>By the arrival of the City of Washington at Queenstown we have
@@ -2815,8 +2810,8 @@ half the amount required was offered.</p>
 </div2>
 
 
-<div2>
-<head>LONDON, SATURDAY, AUGUST 10, 1861.</head>
+<div2 id="iln39.1102.034" n="LONDON, SATURDAY, AUGUST 10,1861" type="article">
+<head><hi rend="italic">LONDON, SATURDAY, AUGUST</hi> 10, 1861.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
     <biblScope type="volume">vol. 39</biblScope> 
@@ -2888,7 +2883,7 @@ the North, nearly all of whom are very old men, are devoted to the
 reconstruction of the army.</p>
 </div2>
 
-<div2>
+<div2 id="iln39.1102.035" n="WILLS AND BEQUESTS" type="article">
 <head>WILLS AND BEQUESTS.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -2897,7 +2892,7 @@ reconstruction of the army.</p>
     <biblScope type="pages">p. 133</biblScope> 
     <date value="1861-08-10">August 10, 1861</date>
   </bibl>
-<p rend="center">. . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . .</p>
+
 <p>A benevolent individual, Mr. Bowditch, of New York, has left 5000
 dollars to the Massachusetts General Hospital, as a fund to be called
 the Wooden-leg Fund, the income to be applied towards defraying the
@@ -2907,9 +2902,7 @@ preference.-<hi rend="italic">Medical Times and Gazette</hi>.</p>
 </div2>
 
 
-{ILLUSTRATION:  THE CIVIL WAR IN AMERICA: FIGHT AT HAINSVILLE, ON THE UPPER POTOMAC-ADVANCE   OF THE WISCONSIN MEN (FEDERALISTS) ON THE SECESSIONIST POSITION.-SEE  PAGE 145.}
-
-<div2  n="FIGHT AT HAINSVILLE, ON THE UPPER POTOMAC-ADVANCE   OF THE WISCONSIN MEN (FEDERALISTS) ON THE SECESSIONIST POSITION.-SEE  PAGE 145." type="Illustration">
+<div2 id="iln39.1102.036" n="FIGHT AT HAINSVILLE, ON THE UPPER POTOMAC-ADVANCE   OF THE WISCONSIN MEN (FEDERALISTS) ON THE SECESSIONIST POSITION.-SEE  PAGE 145." type="Illustration">
 
    <head>FIGHT AT HAINSVILLE, ON THE UPPER POTOMAC-ADVANCE   OF THE WISCONSIN MEN (FEDERALISTS) ON THE SECESSIONIST POSITION.-SEE  PAGE 145.</head>
                <bibl> 
@@ -2926,7 +2919,7 @@ preference.-<hi rend="italic">Medical Times and Gazette</hi>.</p>
                </p>
   </div2>
 
-<div2>
+<div2 id="iln39.1102.037" n="THE CIVIL WAR IN AMERICA." type="article">
 <head>THE CIVIL WAR IN AMERICA.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -3363,7 +3356,7 @@ the Southern army he reckons at 18,000 or 20,000 men at Norfolk, and
 10,000 men.</p>
 </div2>
 
-<div2>
+<div2 id="iln39.1102.038" n="OUR ILLUSTRATIONS. THE DISTRICT OF COLUMBIA." type="article">
 <head>OUR ILLUSTRATIONS.<lb>
 THE DISTRICT OF COLUMBIA.</head>
   <bibl> 
@@ -3470,7 +3463,7 @@ artillery soon dislodged them, and completed the discomfiture of their
 already wavering troops.</p>
 </div2>
 
-<div2>
+<div2 id="iln39.1102.039" n="MESSAGE OF PRESIDENT DAVIS." type="article">
 <head>MESSAGE OF PRESIDENT DAVIS.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -3625,7 +3618,7 @@ unaided by any resources other than their own; and the subscript ons
 fifty million dollars, and will probably largely exceed that sum.</p>
 </div2>
 
-<div2>
+<div2 id="iln39.1103.040" n="BULL RUN AND ITS CONSEQUENCES." type="article">
 <head>BULL RUN AND ITS CONSEQUENCES.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -3669,14 +3662,13 @@ peaceable separation was a better solution of the problem for all
 parties than a civil war on the largest scale, of the fiercest
 character and the most doubtful results. The first frost of adversity
 has withered this vainglorious spirit.   The North recognises in the
-South a foe formidable on her own soil; and 
-<pb n="151"/>
+South a foe formidable on her own soil; and
 
 <figure>
  <head>CONFEDERATE PRISONERS
 CAPTURED BY UNITED STATES' PICKETS BETWEEN FAIRFAX AND MANASSAS
 JUNCTION, VIRGINIA.  FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
-</figure>
+</figure><pb n="152">
 
 the anti-British rabies is so extinct among them that the tender of a
 regiment of British volunteers which was made to the authorities of
@@ -3896,7 +3888,7 @@ domestic liberties, for the cause of peace on the Western Continent,
 and of Republicanism throughout the world.</p>
 </div2>
 
-<div2>
+<div2 id="iln39.1103.041" n="THE CIVIL WAR IN AMERICA." type="article">
 <head>THE CIVIL WAR IN AMERICA.</head>
   <bibl> 
     <title>The Illustrated London News</title> 
@@ -3989,7 +3981,7 @@ document calling upon planters to keep their cotton at home, and
 pledging themselves not to sell any until the blockade is entirely
 raised.</p>
 
-<p>The New Orleans True Delta incidentally states that three-fourths
+<p>The New Orleans <hi rend="italic">True Delta</hi> incidentally states that three-fourths
 of the men who had left that city and the State (Louisiana) in defence
 of Southern rights were Irishmen.</p>
 
@@ -4008,9 +4000,9 @@ in aid of the rebellion, passed with only the slight opposition which
 the peace party could offer; but the tax bills ended in a double
 compromise between the Eastern and Western members, and between the
 Senate and the House.  The Morrill Tariff was made more protective
-than before.  Tea is taxed fifteen cents (7 1/2 d.) per pound, coffee
+than before.  Tea is taxed fifteen cents (7&fract12: d.) per pound, coffee
 four cents, cocoa three cents, and sugar two cents.  A tax of three
-per cent is levied on all incomes above 800 dollars (£168), and a
+per cent is levied on all incomes above 800 dollars (&pound:168), and a
 property tax of 20,000,000 dollars assessed on all the States,
 including the Seceded States.  As this tax can hardly be levied, even
 in the adhering Slave States, it will yield about 11,000,000 dollars.
@@ -4094,11 +4086,10 @@ the world.  The telegraphic poles and wires which are destined to join
 San Francisco with New York are also being rapidly set up on the
 western plains; and it is hoped that, come what may, the connection
 will be complete by December of this year.</p>
-	</div2>
-                   ______________________________  
+	</div2> 
 
-<div2>
-<head>
+<div2 id="iln39.1103.042" n="[A calvary company, composed of young ladies]" type="article">
+<head> [A calvary company, composed of young ladies]</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblescope>
@@ -4111,8 +4102,8 @@ formed at Pittsfield, Massachusetts, under the name of "Di Vernon
 Phalanx."</p>
 	</div2>
 
-<div2>
-<head>
+<div2 id="iln39.1103.043" n="[Prince Napolean and suite arrived at New York]" type="article">
+<head> [Prince Napolean and suite arrived at New York]</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume"> vol.39</biblscope>
@@ -4123,8 +4114,8 @@ Phalanx."</p>
 <p>Prince Napoleon and suite arrived at New York on the 27th ult.  No demonstration took  place, as the Prince preserves a strict incognito, residing on board his yacht, and visiting the city during the day.</p>
 	</div2>
 
-<div2>
-<head>
+<div2 id="iln39.1103.044" n="[The Americans have invented an elevator for reconnoitring purposes.]" type="article">
+<head> [The Americans have invented an "elevator" for reconnoitring purposes.]</head>
    <bibl>
       <title> The Illustrated London News</title>
           <biblScope type="volume">vol.39</biblscope>
@@ -4137,7 +4128,7 @@ Phalanx."</p>
 
 	</div2>
 
-<div2>
+<div2 id="iln39.1103.045" n="CAROLINIAN PICKETS" type="article">
 <head>CAROLINIAN PICKETS</head>
    <bibl>
        <title> The Illustrated London News</title>
@@ -4152,7 +4143,7 @@ Phalanx."</p>
 <p>T<hi rend="smallcaps">HE</hi> advance of the Federal troops on Fairfax was so rapid that the pickets thrown out by the Confederate army on an obstructed road which the Federals avoided were nearly cut off.  They fled precipitately over the obstacles intended to stay the progress of the Unionists.  An Illustration of this scene is given on the next page.</p>
 	</div2>
 
-<div2>
+<div2 id="iln39.1103.046" n="CONFEDERATE PRISONERS" type="article">
 <head> CONFEDERATE PRISONERS</head>
    <bibl>
        <title> The Illustrated News </title>
@@ -4165,12 +4156,12 @@ Phalanx."</p>
 
 </div2>
 
-<div2>
+<div2 id="iln39.1103.047" n="THE CIVIL WAR IN AMERICA: CAROLINIAN PICKETS FLYING BEFORE THE ADVANCES OF THE FEDERAL TROOPS ON FAIRFAX. -FROM A SKETCH BY OUR SPECIAL ARTIST." type="illustration">
 <head> THE CIVIL WAR IN AMERICA: CAROLINIAN PICKETS FLYING BEFORE THE ADVANCES OF THE FEDERAL TROOPS ON FAIRFAX. -FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1106</biblScope> 
+                  <biblScope type="issue">1103</biblScope> 
                   <biblScope type="pages">p.155</biblScope> 
                   <date value="1861-08-17">August 17, 1861</date>
                <extent>1 paragraph</extent></bibl>
@@ -4181,8 +4172,8 @@ Phalanx."</p>
                </p>
   </div2>
  
-<div2>
-<head> 
+<div2 id="iln39.1103.048" n="[BRITISH SUBJECTS AT NEW ORLEANS]" type="article">
+<head> [BRITISH SUBJECTS AT NEW ORLEANS]</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -4195,12 +4186,12 @@ Phalanx."</p>
 
 	</div2>
 
-<div2>
+<div2 id="iln39.1103.049" n="THE CIVIL WAR IN AMERICA: ATTACK ON THE CONFEDERATE BATTERIES AT BULL RUN BY THE 27TH AND 14TH NEW YORK REGIMENTS. -FROM A SKETCH BY OUR SPECIAL ARTIST." type="illustration">
 <head> THE CIVIL WAR IN AMERICA: ATTACK ON THE CONFEDERATE BATTERIES AT BULL RUN BY THE 27TH AND 14TH NEW YORK REGIMENTS. -FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1106</biblScope> 
+                  <biblScope type="issue">1103</biblScope> 
                   <biblScope type="pages">p.167</biblScope> 
                   <date value="1861-08-17">August 17, 1861</date>
                <extent>1 paragraph</extent></bibl>
@@ -4211,7 +4202,7 @@ Phalanx."</p>
                </p>
   </div2>
 
-<div2>
+<div2 id="iln39.1103.050" n="THE CIVIL WAR IN AMERICA: THE STAMPEDE FROM BULL RUN.-FROM A SKETCH BY OUR SPECIAL ARTIST." type="illustration" >
 <head> THE CIVIL WAR IN AMERICA: THE STAMPEDE FROM BULL RUN.-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
@@ -4227,8 +4218,9 @@ Phalanx."</p>
                </p>
   </div2>
 
-<div2>
-<head>ATTACK ON THE CONFEDERATE BATTERIES AT BULL
+<div2 id="iln39.1103.051" n="ATTACK ON THE CONFEDERATE BATTERIES AT BULL RUN BY THE 27TH AND 14TH NEW YORK REGIMENTS." type="article">
+<head>ATTACK ON THE CONFEDERATE BATTERIES AT BULL<lb/>
+RUN BY THE 27TH AND 14TH NEW YORK REGIMENTS.</head>
    <bibl>
       <title>The Illustrated London News</title>
           <biblScope type="volume">vol.39</biblscope>
@@ -4237,12 +4229,11 @@ Phalanx."</p>
           <date value="1861-08-17">August 17,1861</date>
     </bibl>
 
-<hi rend="smallcaps">RUN BY THE 27TH AND 14TH NEW YORK REGIMENTS.</hi>
 <p>O<hi rend="smallcaps">UR</p> Special Artist, who was present at the battle of Bull Run, has sent us some Sketches of the fight and the flight, two of which are engraved on the preceding page.  He writes as follows respecting the first Illustration:-"About midday the battle raged at its highest.  Two of the most gallant charges that I witnessed on the portion of the field where I had taken position, with the first-named regiment, form the subject of the accompanying Sketch.  The battery on the right was a flying one, supported by a strong body of Confederate infantry hid in the ravine and in the thicket at the top of the hill.  On the approach of the 27th Regiment they hastily retreated to the crest of the rise behind their battery, after firing a volley; and on the Federalists steadily advancing the guns were also limbered up and withdrawn from their position.  The 27th lost 27 killed and 69 wounded out of a force of 900 men.  On the right the 14th New York are rushing at an earthwork mounting position-guns, but, owing to the galling fire of the Confederate sharp-shooters in the woods and the admirable serving of the pieces in battery, were forced to retire with severe loss."</p>
 	</div2>
 
-<div2>
-<head>THE FLIGHT OF THE FEDERAL TROOPS FROM</head>
+<div2 id="iln39.1103.052" n="THE FLIGHT OF THE FEDERAL TROOPS FROM BULL RUN." type="article">
+<head>THE FLIGHT OF THE FEDERAL TROOPS FROM BULL RUN.</head>
    <Bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -4251,16 +4242,15 @@ Phalanx."</p>
            <date value="1861-08-17">August 17,1861</date>
 </bibl>
 
-<p><hi rend="smallcaps"> BULL RUN.</hi>
 <p>A<hi rend="smallcaps">s</hi> regards the Stampede from Bull Run, which forms the subject of the second Illustration on the preceding page, our Special Artist thus writes:-"At half-past five the Federal troops were in full retreat, pursued at different points by the black horse cavalry of Virginia.  Retreat is a weak term to use when speaking of this disgraceful rout, for which there was no excuse.  The terror-stricken soldiers threw away their arms and accoutrements, herding along like a panic-stricken flock of sheep, with no order whatever in their flight.  Those who had been fortunate enough to get places in the baggage-waggons thrust back others with their bayonets and musket-stocks.  Wounded men were crushed under the wheels of the heavy, lumbering chariots that dashed down the road at full speed.  Light buggies, containing members of Congress, were overturned or dashed to pieces in the horrible confusion of the panic."</p>
 	</div2>
 
-<div2>
+<div2 id="iln39.1103.053" n="THE GENERALS OF THE AMERICAN ARMIES" type="article">
 <head>THE GENERALS OF THE AMERICAN ARMIES</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
-           <biblScope type="issue">no.1139</biblscope>
+           <biblScope type="issue">no.1103</biblscope>
            <biblScope type="pages">p.173</biblscope>
            <date value="1861-08-17">August 17,1861</date>
 </bibl>
@@ -4268,10 +4258,7 @@ Phalanx."</p>
 <p>-The ages of the principal officers of the North are:-Scott, 75; Wool, 73; Harney, 65; Mansfield, 60; Totten (Head of Engineers), 80; Thayer (Engineers), 80; Craig (Head of Ordnance Department), 76; Ripley (Ordnance), 70; Sumner, 65; Larned (Paymaster-General), 70; Gibson (Commissary-General), Churchill (Inspector-General), and Thomas (Adjutant-General) entered the army in the beginning of the present century-Gibson in 1808, and Churchill in 1812.  The Southern army is officered chiefly by men in the prime of life-Beauregard being 43, and Lee, 50.</p>
 	</div2>
 
-No. 1104.-VOL. XXXIX.]    SATURDAY, AUGUST 24, 1861.   TWO SHEETS AND COLOURED SUPPLEMENT, TENPENCE
-. . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. 
-
-<div2>
+<div2 id="iln39.1104.054" n="[Whatever may be the condition]" type="article">
 <head>[Whatever may be the condition]</head>
    <bibl>
        <title>the Illustrated London News</title>
@@ -4283,10 +4270,9 @@ No. 1104.-VOL. XXXIX.]    SATURDAY, AUGUST 24, 1861.   TWO SHEETS AND COLOURED S
  
 <p>Whatever may be the condition of the crops in America, the state of the body politic renders any large cereal exportation from that country at least problematical.  No doubt efforts will be made to convert as much of its produce into money as is possible, if only for the purpose of bringing within that territory the sinews of war.  Looking at the question from this point of view, we cannot but see an additional, although a remote, cause of congratulation in the hopes of an adequate harvest in this country.  Supposing that we had to demand and to pay for in money a similar supply of corn from America this year as we had to ask in 1860, and supposing that that country was able to give us half that we asked, there would be at once a direct stimulus and sustentation afforded to that unhappy civil war which is raging.  The influence of England is felt in every country in the world, openly or silently, as the case may be; and probably nowhere is her monetary and commercial influence more felt, however little acknowledged, than in that region which we yet call, and hope still to call, the United States of America.  It will be something to be proud of if the plenty of England should indirectly contribute to the peace of America.  It would not be difficult to point out how the absence of those disturbing causes which interfere with the facile working of our political, social, and commercial arrangements, and which turn on a good or bad harvest, would operate on the tranquillity of Europe; but with that part of the subject we do not propose to deal. . . .</p>
 	</div2>
-. . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . .
 
-<div2>
-<head>[American Frilling]</head>
+<div2 id="iln39.1104.055" n="[AMERICAN FRILLING]" type="article">
+<head>[AMERICAN FRILLING]</head>
    <bibl>   
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -4367,7 +4353,7 @@ No. 1104.-VOL. XXXIX.]    SATURDAY, AUGUST 24, 1861.   TWO SHEETS AND COLOURED S
 
 <div2>
 
-<head>LONDON, SATURDAY, AUGUST 24, 1861.</head>
+<head><hi rend="italic">LONDON, SATURDAY, AUGUST</hi> 24, 1861.</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -4397,9 +4383,7 @@ Match, Secession v. Union.<lb/>
 Jeff Davis enters colt Confederate, ridden by Beauregard ........ 1   1<lb/>
 Abe Lincoln enters bk.g. Union, ridden by Scott ...................... 2   2<lb/>
 Time, 5h.-12h.</p>
-	</div2>
-
-. . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . 
+	</div2> 
 
 <div2>
 <head>CAPE RACE, NEWFOUNDLAND</head>
@@ -4461,15 +4445,14 @@ Time, 5h.-12h.</p>
 
 <p rend="center">PERSONAL.</p>
 	  <p>Prince Napoleon has visited the Southern army at Manassas, sleeping one night there with General Johnston.  Mr. Seward made no objection to this visit; but it was eyed unfavourably by Northern public opinion.  He reports that both armies are undisciplined, and that the result of the next battle will depend on an accident.  The Prince has returned to New York, and was about to set out on his Western tour.</p>
-	  <p>Major-General Wool, the oldest officer in the United States' service next to General Scott, has been ordered to Fort Monroe to supersede</p>   [XXXIX, 208, 8/31/61]
-	  <p>General Butler, a Massachusetts lawyer, in command of that post.  This appointment gives universal satisfaction.</p>
+	  <p>Major-General Wool, the oldest officer in the United States' service next to General Scott, has been ordered to Fort Monroe to supersede<pb n="208"> General Butler, a Massachusetts lawyer, in command of that post.  This appointment gives universal satisfaction.</p>
 	  <p>Purcell M'Quillan, the incarcerated British subject, whom the Commander of Fort Lafayette refused to bring into court on a writ of habeas corpus, has been released by the Secretary of War in consequence of the intervention of Lord Lyons.</p>
 	  <p>A Mr. Serrill, passenger to New York on board the Persia, who boasted that he had effected a loan in behalf of the Confederate States in England, was searched on his arrival in port, and £10,000 in Bank of England notes were discovered, concealed in a belt about his waist.</p>
 	  <p>But the most important arrest that has yet been made is that of Mr. Faulkner, of Virginia, the late United States' Minister to France.  Mr. Faulkner went to Washington to pay the usual visit of courtesy to the Foreign Secretary, and was thereupon arrested on a charge of treason, for acts committed at Paris, in purchasing arms for the Confederates while representing the United States, and endeavouring to procure the recognition of the Southern Confederacy by the Government of France.</p>
 	</div2>
 
 <div2>
-<head><p rend="italic">LONDON, SATURDAY, AUGUST</p> 31, 1861.</head>
+<head><hi rend="italic">LONDON, SATURDAY, AUGUST</hi> 31, 1861.</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -4477,7 +4460,7 @@ Time, 5h.-12h.</p>
            <biblScope type="pages">p.212</biblscope>
            <date value="1861-08-31">August 31,1861</date>
    </bibl>
-<p rend="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
+
 <p>We in Europe, who are, unfortunately, only too accustomed to war, watch with much interest the progress which our American kinsmen are making in the study of this noble art.  A second engagement, on nothing like the scale of the Bull Run affair, but of quite sufficient importance to earn its title of a "battle," has fully justified the Premier in saying, as he did at Dover, that there is no want of pluck among them, only of discipline.  We gladly indorse the judgment.  We all know what a dozen disciplined policemen accustomed to act in concert can effect against a wild, scrambling mob; and the "rapid movement" at Bull Run is only a new proof of the truth of the old military axiom that of undisciplined men the more you have the greater your danger.  The Springfield affair shows what sort of stuff there really is in these kinsmen of ours; and we only grieve to think what a bitter school is that in which they are learning, and how bitter for many a year to come may be the fruits of this system of education to them, to us, and to the world.</p>
 	</div2>
 
@@ -4575,7 +4558,7 @@ Numerous petitions from the Federal prisoners at Richmond have been received by 
 	</div2>
 
 <div2>
-<head>LONDON, SATURDAY, SEPTEMBER 7, 1861.</head>
+<head><hi rend="italic">LONDON, SATURDAY, SEPTEMBER</hi> 7, 1861.</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -4584,7 +4567,6 @@ Numerous petitions from the Federal prisoners at Richmond have been received by 
            <date value="1861-09-07">September 7,1861</date>
    </bibl>
 
-<p rend="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . .</p>
 <p>Had any one hinted some twelve months back at the possibility of the United States being the next arena for the display of the antiquated resources of martial law, suspension of habeas corpus, and the passport system, he would have been met with a shout of derisive laughter.   We have lived, however, to see these things as living, tangible facts.  They are excused and apologised for as political necessities belonging to the exigencies of the occasion.  It is amusing, however-rather sadly amusing, by the way-to see the New Country driven to avail itself of the long-despised weapons of the Old World.  Meanwhile, every one is anxiously inquiring "What next?"</p>
 	  <p>The great cotton question is assuming a singular aspect.  Reports give a good crop to the Southern States; they are elevated with their military successes; and there is an idea abroad that they mean to keep, instead of trying to find, a market.  This view of the matter complicates the state of things explained by us last week.  Of what use it is for British shipping to attempt to force the so-called blockade if the Southern men will not sell when they have done so?  We venture, however, to think that the full facts are as yet but imperfectly understood in the South.  They evidently rely on their superiority in quality.  We have reason to think they are reckoning without their host.</p>
 	</div2>
@@ -4630,8 +4612,6 @@ Numerous petitions from the Federal prisoners at Richmond have been received by 
                   </figure>
                </p>
   </div2>
-
-No. 1108.-VOL. XXXIX   SATURDAY, SEPTEMBER 14, 1861.  [WITH A SUPPLEMENT, FIVEPENCE
 
 <div2>
 <head> THE WAR IN AMERICA:  TEXAN LANCERS (FEDERALISTS) RECONNOITRING BETWEEN ALEXANDRIA AND FAIRFAX, VIRGINIA.-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
@@ -4698,7 +4678,6 @@ No. 1108.-VOL. XXXIX   SATURDAY, SEPTEMBER 14, 1861.  [WITH A SUPPLEMENT, FIVEPE
 	  <p>The subscriptions for the new National Loan at the Sub-Treasury in New York amount to 1,350,000 dollars, in amounts varying from 50 dollars to 10,000 dollars each.  This does not include the large negotiations that have beeen going on between the banks and parties in various parts of the country.  The notes are not yet ready for issue.  The New York Tribune is of opinion that Englishmen will not be able to resist the temptation of 7.30 per cent interest.</p>
 	</div2>
 
-==============
 <div2>
 <head>[The United States Government]</head>
    <bibl>
@@ -4715,7 +4694,6 @@ The United States' Government have discontinued the subsidy to the Vanderbilt st
 	  <p>The latest advices from San Francisco reported that the ships Eureka, Summer Cloud, and Harkaway, were all then loaded at that port with breadstuffs for Australia.  The Eureka had 13,200 bags of wheat and 18,040 sacks of flour; the Summer Cloud had 1000 tons of wheat and flour; and the Harkaway 20,961 sacks of wheat.</p>
 	</div2>
 
-==============
 <div2>
 <head>[The wheat crop of Iowa]</head>
    <bibl>
@@ -4763,7 +4741,7 @@ The United States' Government have discontinued the subsidy to the Vanderbilt st
 	  <p>The regiments encamped at a distance from Commissariat Storehouse in the Federal camp get their fresh meat distributed to them alive, a bullock being unceremoniously turned into the canvas streets for them to slaughter, cut up, and prepare as they may think fit.  The fashion of dispatching the beast (as shown at page 271) is usually as follows:-Lassos are thrown over its horns and made fast, when three or four men on each side hang on with all their strength and steady the animal's head.  Some of the best shots in the regiment are then chosen, and one advances, takes deliberate aim at the forehead, and, if successful, the poor brute rolls over dead.  Should he, however, simply wound it, those who have hold of the ropes have a rough time of it, being dragged about the field until the animal is again secured, when another marksman steps forward, and generally finishes the work.</p>
 
 <p rend="center">UNION TROOPS ATTACKING CONFEDERATE PRISONERS AT WASHINGTON.</p>
-	  <p>There was a general impression among the disorganised Federalist soldiers after the battle of Bull Run that their wounded had been inhumanly treated by the Confederates.  Many cases of cruelty were narrated, with much circumstantiality, in the Unionist journals.  Some of them, it is to be feared, were but too true.  Among the first to feel the consequences of the anger aroused by the recital of these deeds of cold- blooded cruelty were some wretched prisoners paraded through Pennsylvania Avenue, Washington, two days after the engagement.  It was with the greatest difficulty their guard defended them from the attacks of the demoralised Union men.  This incident is depicted on the preceding page.</p>  [Sic, following page, p. 283].
+	  <p>There was a general impression among the disorganised Federalist soldiers after the battle of Bull Run that their wounded had been inhumanly treated by the Confederates.  Many cases of cruelty were narrated, with much circumstantiality, in the Unionist journals.  Some of them, it is to be feared, were but too true.  Among the first to feel the consequences of the anger aroused by the recital of these deeds of cold- blooded cruelty were some wretched prisoners paraded through Pennsylvania Avenue, Washington, two days after the engagement.  It was with the greatest difficulty their guard defended them from the attacks of the demoralised Union men.  This incident is depicted on the preceding page.</p>
 
 <p rend="center">ARREST OF MR. FAULKNER AT WASHINGTON.</p>
 <p>On the return of Mr. Faulkner from his mission at Paris he went, as is the custom in such cases, to Washington, in order to report his arrival to the Executive.  While awaiting the settlement of certain formalities he took apartments at Brown's Hotel, and it was here he was arrested.  It appears that Mr. Faulkner, a Southern man, is imbued with Southern tendencies; and it is charged against him that during his period of office in France he encouraged the Secessionist agents in every possible way, and even went so far as to purchase arms from French manufacturers for the use of the Confederate States-endeavouring also to procure the recognition of the Southern Confederacy by the French Government.  Mr. Faulkner is now lodged in close confinement at the Provost Marshal's office; and it is reported that among the documents found with his effects papers of a treasonable character have been discovered.</p>
@@ -4801,8 +4779,6 @@ The United States' Government have discontinued the subsidy to the Vanderbilt st
                </p>
   </div2>
 
-No. 1109.-Vol. XXXIX.]   SATURDAY, SEPTEMBER 21, 1861.   [WITH A SUPPLEMENT, FIVEPENCE
-
 <div2>
 <head>THE DECLINE OF THE POPULATION OF IRELAND.</head>
    <bibl>
@@ -4816,7 +4792,6 @@ No. 1109.-Vol. XXXIX.]   SATURDAY, SEPTEMBER 21, 1861.   [WITH A SUPPLEMENT, FIV
 	  <p>That portion of the world's inhabitants among whom the English language is predominant has of late been indulging in a general census-taking.  In the summer of last year the people of the United States summed up the goodly total of thirty-one millions and a half-a decennial increase of 35 per cent.  It was their last corporate feat.  No sooner were the numbers announced than the great Republic, unable to harmonise so large a family, fell asunder. . . .</p>
 <pb n="287">
 
-<p>. . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . </p>
 <p>In industrial pursuits the Irish emigrant of both sexes has thriven extraordinarily.  No European emigration has surpassed them in this respect, except the German, and that only because of the great skill both in agriculture and manufactures which the latter possess, and which the Irish lacked.  The greatest dry-goods merchant in America is a native of Ireland.  The women seem to have succeeded even better than the men.  The immense sums transmitted to their relatives in Ireland  by the servant women have attested the strong domestic affections and the large savings of Irishwomen abroad.  In the matter of education the young family of the emigrant has been taught at free unsectarian schools the elementary branches of knowledge.  On leaving school his children have enjoyed every facility for the acquisition of trades.  Political power has been his in a measure greater than he has known how to use wisely.  What American or colonial politician does not either dread, or conciliate, or swear by "the Irish vote"?  If the German emigrant is slightly superior in the industrial career, in politics he is a cipher by the side of the Irishman.  Australian and Canadian premiers, Californian and Jamaican governors, American senators, spring directly from the ranks of the Hibernian emigration.  Two United States' Presidents (Jackson and Buchanan), and more than one judge of the Supreme Court, were the sons of Irish cottiers.  To shed tears over the fate of the population that has vanished from Ireland is evidently to throw away one's sympathy on objects who do not need it.</p>
 	</div2>
 
@@ -4864,7 +4839,7 @@ Prince Napoleon and suite have been travelling in Wisconsin.</p>
 	</div2>
 
 <div2>
-<head>LONDON, SATURDAY, SEPTEMBER 21, 1861.</head>
+<head><hi rend="italic">LONDON, SATURDAY, SEPTEMBER</hi> 21, 1861.</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -4872,7 +4847,7 @@ Prince Napoleon and suite have been travelling in Wisconsin.</p>
            <biblScope type="pages">p.292</biblscope>
            <date value="1861-09-21">September 21,1861</date>
     </bibl>
-<p rend="center">. . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . .</p>
+
 <p>F<hi rend="smallcaps">ROM</hi> each succeeding week's news we gather that the struggle in the States is assuming more and more steadily the aspect of a real war, to be carried on according to the known rules, and in all respects after the fashion, of the Old-World contests.  The singular m&eacute;lange of vainglorious boastings and lamentable shortcomings, of military tailoring, scandalous jobs, female influence, and incompetent officering, is gradually dying out before the stern exigencies of the occasion.  The first well-organised expedition under this new r&eacute;gime has proved entirely successful; and, though the overwhelming amount of force employed may detract a little from the honour and glory of the encounter, yet the importance of the position may fully compensate for any deficiency on that head.  The Northerners have established themselves in command of the extensive system of gulfs and creeks which lie immediately behind the easternmost point of the Southern States, and which have hitherto supplied at once protection and a vast natural harbour for privateers, and they have thus at once struck a heavy blow at this questionable system of sea robbery and at the same time secured an important outpost in the enemy's country.  In all probability a similarly well-planned expedition is at this moment sweeping down the Mississippi, and which, if successful, will have the effect, in conjunction with the blockade and the attitude of the Federal troops along the Northern border, of surrounding and isolating the whole eastern portion of the Seceding States.  We suppose, by-the-way, no sane man in this country ever believed that in the present aspect of Italian affairs Garibaldi would for a moment dream of putting the Atlantic between himself and the Mediterranean at present.  His refusal is now formally announced.  The Southerners  appear to have made a decided move in the direction of English interference:  the quasi proclamation of an intention to store the whole cotton crop and issue State Bonds against it can have no other meaning than to invite, or rather compel, us in behalf of Manchester, to break the blockade.  The step is only another proof of how little our Transatlantic cousins understand our temper.  We shall do nothing of the sort; we can buy and grow cotton elsewhere, though we admit that at present there is a doubt as to quality.  But we are not going to war for Manchester, much as we desire to see it prosperous; and this naturally brings up a regret at the somewhat gloomy aspect of commercial affairs in Lancashire and elsewhere.</p>
 	</div2>
 
@@ -4934,14 +4909,14 @@ Prince Napoleon and suite have been travelling in Wisconsin.</p>
 
 	  <p>On the 7th inst. Baron de Stoeckl, Russian Ambassador at Washington, had an audience with the President to deliver the following despatch from the Russian Chancery:-</p>
 	  <p>M. de Stoeckl, &c.		ST. PETERSBURG, July 10.
-Sir,-From the beginning of the conflict which divides the United States of America you have been desired to make known to the Federal Government the deep interest with which our August Master was obseving the development of a crisis which puts in question the prosperity and even the existence of the Union.</p>
+<quote rend="blockquote">Sir,-From the beginning of the conflict which divides the United States of America you have been desired to make known to the Federal Government the deep interest with which our August Master was obseving the development of a crisis which puts in question the prosperity and even the existence of the Union.</p>
 	  <p>The Emperor profoundly regrets to see that the hope of a peaceful solution is not realised, and that American citizens, already in arms, are ready to let loose upon their country the most formidable of the scourges of polical society-a civil war.  For more than the eighty years that it has existed the American Union owes its independence, its towering rise, and its progress, to the concord of its members, consecrated under the auspices of its illustrious founder, by institutions which have been able to reconcile the Union with liberty.  The Union has been faithful.  It has exhibited to the world the spectacle of a prosperity without example in the annals of history.  It would be deplorable that, after so conclusive an experience, the United States should be hurried into a breach of the solemn compact which, up to this time, has made their power.  In spite of the diversity of their constitutions and of their interests, and perhaps even because of their diversity, Providence seems to urge them to draw closer the traditional bond which is the basis of the very condition of their political existence.  In any event, the sacrifices which they might impose upon themselves to maintain it are beyond comparison with those which dissolution would bring after it.  United, they perfect themselves; isolated, they are paralysed.</p>
 	  <p>The struggle which unhappily has just arisen can neither be indefinitely prolonged nor lead to the total destruction of one of the parties.  Sooner or later, it will be necessary to come to some settlement, whatsoever it may be, which may cause the divergent interests now actually in conflict to coexist.  The American nation would, then, give proof of high political wisdom in seeking in common such a settlement before a useless effusion of blood, a barren squandering of strength and of public riches, and acts of violence and reciprocal reprisals, shall have come to deepen an abyss between the two parties of the Confederation, to end definitively in their mutual exhaustion and in the ruin-perhaps irreparable-of their commercial and political power.</p>
 	  <p>Our August Master cannot resign himself to admit such deplorable anticipations.  His Imperial Majesty still places his confidence in that practical good sense of the citizens of the Union who appreciate so judiciously their true interests.  His Majesty is happy to believe that the members of the Federal Government, and the infuential men of the two parties, will seize all occasions and will unite all their efforts to calm the effervescence of the passions.  There are no interests so divergent that it may not be possible to reconcile them by labouring to that end with zeal and perseverance, in a spirit of justice and moderation.</p>
 	  <p>If, within the limits of your friendly relations, your language and your counsels may contribute to this result, you will respond, Sir, to the intentions of his Majesty the Emperor in devoting to this the personal influence which you may have been able to acquire during your long residence at Washington, and the consideration which belongs to your character as the representative of a Sovereign animated by the most friendly sentiments towards the American Union.  This Union is not simply in our eyes an element essential to the universal political equilibrium; it constitutes, besides, a nation to which our August Master and all Russia have pledged the most friendly interests, for the two countries, placed at the extremities of the two worlds, both in the ascending period of their development, appear called to a natural community of interests and of sympathies, of which they have already given mutual proofs to each other.</p>
 	  <p>I do not wish here to approach any of the questions which divide the United States.  We are not called upon to express ourselves in this contest.  The preceding considerations have no other object than to attest the lively solicitude of the Emperor in the presence of the dangers which menace the American Union, and the sincere wishes that his Majesty enterains for the maintenance of that great work, so laboriously raised, and which appeared so rich in its future.</p>
 	  <p>It is in this sense, Sir, that I desire you to express yourself, as well to the members of the general Government, as to the influential persons whom you may meet, giving them the assurance that in every event the American nation may count upon the most cordial sympathy on the part of our August Master during the important crisis which it is passing through at present.</p>
-	  <p>Receive, Sir, the expression of my very deep consideration.</p>
+	  <p>Receive, Sir, the expression of my very deep consideration. </quote>
 <p rend="right">GORTSCHAKOFF.</p>
 	  <p>Mr. Seward wrote a short and courteous reply expressing his profound sense of the "liberal, friendly, and magnanimous sentiments" of the Emperor, and regarding them "as a new guaranty of a friendship between the two countries which had its beginning with the national existence of the United States."</p>
 
@@ -4954,7 +4929,6 @@ Sir,-From the beginning of the conflict which divides the United States of Ameri
 	  <p>The Prince de Joinville had arrived in New York, but declined the reception which was offered him by the Federal Government.</p>
 	</div2>
 
-=========
 <div2>
 <head>[Miss Cushman]</head>
    <bibl>
@@ -4968,7 +4942,6 @@ Sir,-From the beginning of the conflict which divides the United States of Ameri
 <p>Miss Cushman, lately arrived from New York, has just passed through Paris en route for Rome, where she purposes passing the winter.</p>
 	</div2>
 
-=========
 
 <div2>
 <head>[A NEAT BIOGRAPHY]</head>
@@ -4982,8 +4955,6 @@ Sir,-From the beginning of the conflict which divides the United States of Ameri
 <p>A N<hi rend="smallcaps">EAT</p> B<hi rend="smallcaps">IOGRAPHY</hi>.-The Vice-President of the Southern Confederacy is thus described in an American journal:-"Mr. Stephens is considerable of an orator.  His health from childhood has been very feeble, being afflicted with four abscesses and a continual derangement of the liver, which gives him a consumptive appearance, though his lungs are sound.  He has never weighed over 96lb.  His figure is attenuated, his shoulders contracted, and his limbs slender.  When speaking, he has at first a shrill, sharp voice, which assumes a more sonorous character as he progresses.  His remarks are witty, rhetorical, and solid, with a dash of satire.  He was elected to the position of Vice-President (of the Southern Confederacy) on the same day with Jefferson Davis-viz. the 9th of February last."</p>
 	</div2>
 
-=========
-
 <div2>
 <head>RIFLE CONTEST AT BOSTON</head>
    <bibl>
@@ -4994,11 +4965,11 @@ Sir,-From the beginning of the conflict which divides the United States of Ameri
            <date value="1861-09-28">September 28,1861</date>
    </bibl>
 
-	  <p>T<hi rend="smallcaps">HE</hi> contest by members of the Holland Battalion of Rifle Volunteers for cups presented by Stephen Lewin, Esq., Mayor of Boston; Frederick Cooke, Esq., Deputy Mayor; and Jos. Wren, Esq., took place yesterday week, on the practice-ground at Boston.  The cups, which were handsome and appropriate, were supplied by Mr. Joseph Angell, of the Strand, London.  That presented by the Mayor <pb n="313">was designed and manufactured for the occasion, and ornamented in a highly emblematic style with the armorial bearings of the Corporation of Boston, being in the form of a shield having two ducal coronets in pale or; with crest, a ram couchant on a woolpack; while the arms of the cup were appropriately represented by the supporters, two mermaids proper, ducally crowned.  The other two cups were ornamented with rifle subjects in frosted silver.  The shooting commenced at ten o'clock, and finished about five.  Six members from the following corps contested-Boston, Spalding, Holbeach, Gosberton, and Donnington.  There was some excellent shooting.  The Mayor's cup, 200 yards range, was won by Quartermaster Sergeant Wheeler, of Boston; Mr. Cook's cup, 400 yards range, by Private G. Thomas, of Boston; and Mr. Wren's cup, 600 yards range, by Bugler Cocks, of the Gosberton and Donnington corps.  The successful competitors were then drawn up on the marsh, a number of ladies and gentlemen, including the Mayoress, occupied the bank, and Major Hopkins presented the several prizes in the names of the donors, complimenting the competitors upon the success which had attended their labours.  The prizemen having returned thanks, three cheers were given for them, for the donors, for the Mayoress, and the Major, and the day's proceedings terminated.</p>
+	  <p>T<hi rend="smallcaps">HE</hi> contest by members of the Holland Battalion of Rifle Volunteers for cups presented by Stephen Lewin, Esq., Mayor of Boston; Frederick Cooke, Esq., Deputy Mayor; and Jos. Wren, Esq., took place yesterday week, on the practice-ground at Boston.  The cups, which were handsome and appropriate, were supplied by Mr. Joseph Angell, of the Strand, London.  That presented by the Mayor <pb n="314">was designed and manufactured for the occasion, and ornamented in a highly emblematic style with the armorial bearings of the Corporation of Boston, being in the form of a shield having two ducal coronets in pale or; with crest, a ram couchant on a woolpack; while the arms of the cup were appropriately represented by the supporters, two mermaids proper, ducally crowned.  The other two cups were ornamented with rifle subjects in frosted silver.  The shooting commenced at ten o'clock, and finished about five.  Six members from the following corps contested-Boston, Spalding, Holbeach, Gosberton, and Donnington.  There was some excellent shooting.  The Mayor's cup, 200 yards range, was won by Quartermaster Sergeant Wheeler, of Boston; Mr. Cook's cup, 400 yards range, by Private G. Thomas, of Boston; and Mr. Wren's cup, 600 yards range, by Bugler Cocks, of the Gosberton and Donnington corps.  The successful competitors were then drawn up on the marsh, a number of ladies and gentlemen, including the Mayoress, occupied the bank, and Major Hopkins presented the several prizes in the names of the donors, complimenting the competitors upon the success which had attended their labours.  The prizemen having returned thanks, three cheers were given for them, for the donors, for the Mayoress, and the Major, and the day's proceedings terminated.</p>
 	</div2>
 
 <div2>
-<head><hi rend="itlaic">LONDON, SATURDAY, SEPTEMBER 28, 1861</hi>.</head>
+<head><hi rend="itlaic">LONDON, SATURDAY, SEPTEMBER</hi> 28, 1861.</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -5200,7 +5171,7 @@ Sir,-From the beginning of the conflict which divides the United States of Ameri
   </div2>
 
 <div2>
-<head><hi rend="italic">LONDON, SATURDAY</hi>, OCTOBER 5, 1861.</head>
+<head><hi rend="italic">LONDON, SATURDAY, OCTOBER</hi> 5, 1861.</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -5212,7 +5183,6 @@ Sir,-From the beginning of the conflict which divides the United States of Ameri
 	  <p>I<hi rend="smallcaps">T</hi> no doubt savours of cowardice to indulge in any sort of exultation at the difficulties of a rival; but it is indeed difficult to peruse the file of American journals brought over by each successive mail without something like a quiet chuckle at the singular admissions which are gradually and most reluctantly forced out.  Blessed ourselves with a really free and constitutional Government, a responsible Ministry, an unfettered press, and tribunals of unquestionable integrity, it has been difficult-perhaps we ought rather to say unpalatable-to our imaginations to picture the actual condition of internal affairs on the other side of the Atlantic which has contributed so largely to bring about the present struggle, and promises fair to make its final solution a work of such time and difficulty.  The serious hindrances presented by the want of a standing army and an adequate navy, formidable as they are, appear to us as nothing compared with the entire absence of actual freedom of thought and action involved in such proceedings as the torture of independent editors, an exercise of female influence rivalling the worst features of the Court of Louis XIV., and a consequent thrusting into responsible positions of men of no real competency whatever.  It is impossible at the same time not to connect this chronic disorder of the most exalted functions of American administration with the tone at once so unfairly and so persistently indulged in in reference to the attitude and intentions of this country.  When will our Transatlantic kinsmen-as well as French Colonels and M. Dupin-begin to understand that war is the very last thing an Englishman thirsts for?  It is forced upon us undoubtedly from time to time, and we accept it as a necessity, and so meet and subdue it; but we recognise it all the while as an odious necessity, involving an expenditure of human lives which we would fain spare, a waste of national treasure which we can ill afford, and an interruption to commerce which strikes us like a malignant disorder.  A most miserable subject for contemplation is no doubt furnished by the present condition and future prospects of our cotton trade, and of the hundreds of thousands implicated in it; but even this, the South may be well assured, will not tempt us to force the blockade.  We can and shall wait for better times and wiser counsels.</p>
 	</div2>
 
-=========
 <div2>
 <head>[Mr. G.R. Haywood]</head>
    <bibl>
@@ -5252,13 +5222,12 @@ Sir,-From the beginning of the conflict which divides the United States of Ameri
            <date value="1861-10-05">October 5,1861</date>
    </bibl>
 
-<p rend="center">MUNSON'S HILL, WITH THE EARTHWORK THROWN UP BY 
- THE CONFEDERATES IN FRONT OF THE UNION LINES, VIRGINIA.</p>
+<p rend="center">MUNSON'S HILL, WITH THE EARTHWORK THROWN UP BY THE<lb/>
+ CONFEDERATES IN FRONT OF THE UNION LINES, VIRGINIA.</p>
 	  <p>T<hi rend="smallcaps">HIS</hi> is the point in Virginia at which the Unionists and the Confederates are nearest each other, and whilst our Artist was making his sketch, crouched beneath the shelter of the foliage, within hailing distance of the enemy's pickets, a continual spattering of bullets fell round the spot.  More than halfway up the road towards the hill is a barricade, from behind which a Secessionist sharpshooter is having some pot shots, and, screened by the hedges in the cornfields, others are doing the same.  In the foreground are the Union advanced pickets, furnished by the Michigan Regiment, one of whom is in the act of firing at two or three men beyond the barricade.  A Michigan soldier just shot lies in the road.  The Confederates have some rifled cannon on the earthwork, and whenever they see a number of Federalists together they send in a dose of shells.</p>
 	  <p>A New York paper thus describes the Confederate position on Munson's-hill:-"Munson's-hill is probably the highest eminence within ten miles of the Potomac, immediately opposite Washington.  It is about six miles from the Capitol, the intervening space being covered with a succession of gently rolling hills, crowned principally with forest trees, although here and there dotted with churches, farmhouses, and country villages.  The streams are unimportant and the roads dusty.  The hill presents its most abrupt side towards the national capital, and, unlike those around, has but few trees on its summit.  Many of those which originally existed have no doubt been felled while the intrenchments were in progress.  At present an immense Confederate flag-the red, white, and blue stripes in which  are at least five feet wide each-is the most prominent object upon the top of the eminence  Two of the trees which have been allowed to remain were used as an observatory.  The Confederate defences are constructed entirely of earth, fifteen feet being the highest elevation.  The sloping hillside in front of the fort is clear of underbrush or trees, and is sufficiently extended to allow 3000 men to parade.  The distance from the cover of the woods to the summit of the hill is not so great but that a quick movement would drive the enemy from their guns with very little loss of life.  The flank defences of the fort consist of three batteries.  It is believed that earthworks have been thrown up on another portion of the hill commanding the road to Fairfax Courthouse.  The fort is intended more particularly to command the road leading from Alexandria to Falls Church, the road from Washington to Fairfax, just mentioned, the railroad from Alexandria to Vienna, and the position of Bailey's Cross-roads."</p>
 	</div2>
 
-=========
 <div2>
 <head>COTTON IN INDIA.</head>
    <bibl>
@@ -5333,7 +5302,6 @@ Sir,-From the beginning of the conflict which divides the United States of Ameri
 <p>A<hi rend="smallcaps">MERICA</hi>.-New York, Sept 28.-It is reported from Washington that the Confederates have erected a long line of batteries on the Lower Potomac.  Several Federal steamers passing up and down have been fired into.  A considerable force of Confederates is assembled between Occoquan and Acquia Creeek [sic].  It is rumoured that they will endeavour to cross the river at this point.  General Fremont and his Staff have left for Jefferson city.  It is estimated that the Confederates captured at Lexington a million and a half dollars, seven cannon, and 4000 rifles.  The Federal troops have stormed and captured Romney, Western Virginia.  The Confederates retreated to the mountains.</p>
 	</div2>
 
-=========
 <div2>
 <head>ILLUSTRATIONS OF THE WAR IN<lb/>
 AMERICA.</head>
@@ -5384,7 +5352,7 @@ AMERICA.</head>
   </div2>
 
 <div2>
-<head><hi rend="italic">LONDON, SATURDAY</hi>, OCTOBER 12, 1861.</head>
+<head><hi rend="italic">LONDON, SATURDAY, OCTOBER</hi> 12, 1861.</head>
    <bibl>
        <title>The Illustrated London News</title>
            <biblScope type="volume">vol.39</biblscope>
@@ -5393,11 +5361,9 @@ AMERICA.</head>
            <date value="1861-10-12">October 12,1861</date>
    </bibl>
 
-<p>. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . </p>
 	  <p>There can be no doubt that the armies of the Northern States of America are preparing for grand and various action, and now that the weather permits them to move freely we shall hear of simultaneous attacks upon Southern positions.  The enormous size of the "seat of war" is a condition of the contest not sufficiently taken into consideration here, and it is, indeed, difficult to realise it.  Without careful study of the map and due regard to the vast distances between the points at which hostilities are carried on or threatened, justice will not be done to the obstacles in the way of the chiefs on either side, and the fabulous-seeming numbers of the forces which are being brought up appear reasonable only when the extent of territory is taken into account.  We repeat that the Old World may now look to hear of actions on a larger scale than war has yet exhibited.  Meantime, the only demonstration calling for special notice is one against an Englishman.  The letters of Mr. William Russell have given so much offence to persons who dislike plain statements of disasters that application has actually been made to Mr. Seward to prevent the publication of these despatches.  Mr. Seward, however, perceives the absurdity of the demand to fight, as some vestries debate, "with closed doors and the exclusion of reporters," and he has declined to interfere, giving his refusal in a grave document, for the solemnity of which the Minister must have indemnified himself by non-official smiles at the enforced rotundity of his periods.  Two of the Orleanist Princes have placed themselves on General M'Lellan's staff, but have declined to receive pay for their services, a decision which may evince an honesty of estimate of their value.  The <hi rend="itlalic">New York Herald</hi>, which is supposed to be really in the pay of the South, as heretofore and until its weathercock conversion, does its best to generate ill-feeling between the North and England, by a renewal of the ridiculous threat that as soon as the "rebellion" is put down English rule in America shall be swept away.  But our American brethren may rest assured that we distinguish between the feeling of a great and glorious nation and the malicious nonsense of an insincere and hireling scribbler.</p>
 	</div2>
 
-=========
 <div2>
 <head>JEFFERSON DAVIS.</head>
    <bibl>
@@ -5432,7 +5398,7 @@ AMERICA.</head>
   </div2>
 
 <div2>
-<head>[Some of our readers]</head>
+<head>[SOME of our readers]</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -5456,7 +5422,6 @@ The dangerous ground extended about three hundred and fifty miles from Salt Lake
 <p>St. Joe has much the same relation to the great plains that a seaport has to the ocean: it is the point of arrival and departure after a three-months' voyage overland of hundreds of travellers and <orig reg="wagon">waggon</orig>-trains who make the passage between California, Oregon, and the Western States of the Union.  The passage across the mountains and over the plains is as lonely as a voyage across the ocean.  Neither towns nor villages are met with, and the emigrant-train has to depend upon its own resources as much as a ship does while navigating the sea.</p>
 <p>There is a wild look about the people at St. Joe.  Nearly everybody carries a rifle, and has that peculiar expression of countenance which indicates the possession of the ability to take care of himself and cut up particularly rough if interfered with.  Some awful roughs may be seen about occasionally, but these are held in good check by the respectable portion of the place; and, although St. Joe is a wild, out-of-the-way place, almost beyond the reach of the law, yet the people go about as safely, and carry on their business as securely, as if they were in the neighbourhood of Boston.  Should any of the border ruffian class attempt any villany, Lynch law would most likely cut short his career, and he might find himself hanging to the branch of a tree before he had time to engage counsel to prove his innocence of the crime which he was caught in the act of executing.  It is an event and a picturesque scene to see one of the long trains of <orig reg="wagons">waggons</orig> arrive from the westward, the people looking so brown and weather-worn and the children healthy and happy, and the rush all make immediately on certain shops and stores.  One great delight on the part of the men seems to be to get themselves shaved as clean as possible; fine bright-coloured shirts and handkerchiefs are immediately obtained and ostentatiously exhibited.</p>
 <p>Market-day at St. Joe is a peculiar sight, and gives one a better idea of the back-settlement life than can be obtained anywhere else.  The farmer and his family, in their particular <orig reg="wagon">waggon</orig>, which, with the exception of the wheels, they have made themselves, are things to be seen.  There is no place in the United States where greater variety of character, interesting incidents, and opportunity for the study of human nature, exists to a greater extent than at St. Joe, on the Missouri.</p>
-_________
 
 <p>We shall give an Illustration of the town of St. Joe in an early Number.</p>
 </div2>
@@ -5526,7 +5491,7 @@ FREDERICK LAW OLMSTED.  Sampson Low and Son.</p>
 </div2>
 
 <div2>
-   <head>[LONDON, SATURDAY, OCTOBER 19,1861.]</head>
+   <head><hi rend="italic">LONDON, SATURDAY, OCTOBER</hi> 19,1861.</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -5535,7 +5500,6 @@ FREDERICK LAW OLMSTED.  Sampson Low and Son.</p>
            <date value="1861-10-19">October 19, 1861</date>
 	</bibl>
 
-<p><hi rend="italic">LONDON, SATURDAY, OCTOBER</hi> 19,1861</p>
 <p>Beyond a general impression that a battle on the Potomac must be impending, there is not much in the recent dispatches from the States.  The complaints of the cowardice of the Home Guards in the Lexington affair are reiterated, and the surrender of the place would, it seems clear, have been delayed but for the conduct of these volunteers.  The position, however, had become untenable, and there was no excuse for a further sacrifice of the lives of brave men.  Why two of the Orleans Princes have been permitted to join in the struggle it is hard to say.  "The smell of powder has drawn them in the right direction," writes a Prince at home here; but the explanation is slightly vague.  Even the North itself can hardly regard the act as a dignified one, the war being regarded in the Lincoln light of a great police demonstration.  But there is, of course, an intention to make capital somehow, and it may be held that the supposed necessity of keeping a name upon the tongue of France has instigated a step which looks like a mistake.  Only the <hi rend="italic">New York Herald</hi> is delighted, because the enlistment of the Princes will, it is thought, be displeasing to the "British aristocracy," whose "gold, lavished upon fanatic abolitionists, has got up the war"-such is the trash printed for American mobs.  Be it added, that though this organ of public opinion is reasonably delighted at the enlisting of two real Princes, it adds a divertingly pathetic appeal to other officers not to be too proud to associate with certain German Volunteer Colonels merely because they are also beershop-keepers.  The <hi rend="italic">Herald</hi> justly remarks that there is nothing dishonourable in selling beer.  Certainly not, if the beer is good;-and what was Oliver Cromwell?</p>
 </div2>
 
@@ -5693,7 +5657,7 @@ FREDERICK LAW OLMSTED.  Sampson Low and Son.</p>
 </div2>
 
 <div2>
-<head>[LONDON, SATURDAY, OCTOBER 26, 1861]</head>
+<head><hi rend="italic">LONDON, SATURDAY, OCTOBER</hi> 26, 1861</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -5701,8 +5665,6 @@ FREDERICK LAW OLMSTED.  Sampson Low and Son.</p>
            <biblScope type="pages">p. 420</biblScope> 
            <date value="1861-10-26">October 26, 1861</date>
 	</bibl>
-
-<p><hi rend="italic">LONDON, SATURDAY, OCTOBER</hi> 26, 1861.</p>
 
 <p>W<hi rend="smallcaps">E</hi>  have news from America, but it is not very trustworthy as regards details.  It would seem, however, that the South has made an attempt to recover Fort Hatteras, and that such attempt has been unsuccessful.   The telegrams that announce the sinking of three of the Confederate steamers and the destruction of seven hundred men must be received with caution-indeed, the number of soldiers who have been slain-on paper-since the war began would make a great army, and we shall never know what quantity of commiseration to offer until the next Census is taken.  General M'Lellan is said to be now "ready," and, therefore, large and various operations may be heard of very soon.  The Southerners take no pains to keep the Old World aware of their real position and prospects, and therefore must not complain that we take all our impressions on the subject from their enemy: it is rational, however, to make liberal deduction from Northern accounts.  We have been amused, and probably our cousins on both sides of the Potomac will be equally diverted, with an offer of mediation which has been put forth.  Mr. Smith O'Brien, a returned convict, who was exported for a ridiculous treason, in which he behaved with more prudence than valour, and which was terminated by his being found hiding, like an overgrown slug, among the cabbages in a cottage garden, has undertaken to go over to America and adjust the differences between the North and South.  When his proposal shall be accepted we shall, no doubt, be officially informed of the fact.  An almost equally amusing incident has occurred on the other side of the water.  The petty spitefulness of some American who has been displeased with Mr. William Russell's letters induced the former to watch the Englishman's movements, and was rewarded by detecting Mr. Russell, a keen sportsman, in a violation of a little local ordinance.  An information was laid, and the magistrates had no alternative-a fine was imposed; and the Americans in court showed their sense of the meanness of the motives which dictated the prosecution by instantly offering to unite in paying the fine.  They may be quite sure that Englishmen, if they remember the first part of the affair, will do so only for the sake of the pleasure of remembering the second.</p>
 </div2>
@@ -5876,7 +5838,7 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 
 
 <div2>
-<head>[LONDON, SATURDAY, NOVEMBER 2,1861.]</head>
+<head><hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 2,1861.</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -5884,8 +5846,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
            <biblScope type="pages">p. 444</biblScope> 
            <date value="1861-11-02">November 2, 1861</date>
 	</bibl>
-
-<p><hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 2,1861.</p>
 
  <p>  The <hi rend="italic">New York Herald</hi> has relieved the Courts of England, France, and Spain from embarrassment.  They had desired to take certain steps in reference to Mexico, and, indeed, had made all preparations for the expedition, but there was a delay and a hesitation which are now accounted for.  By the last mails came a number of the <hi rend="italic">Herald</hi>, in which is contained the gracious permission for which the three Powers had been waiting.  The journal says, "We see no objection to the united action of England, France, and Spain in this matter."  All difficulty is now over; and, Mr. Bennett having graciously permitted Lord Palmerston, the Emperor, and Marshal O'Donnell to act, the expedition sails immediately.  But it is right to add that Spain is cautioned against taking any isolated action of her own, and is informed that if she makes any attempt towards the conquest of Mexico the North will immediately declare war upon her.  It is to be hoped, therefore, that the Marshal will at once dispach a grandee of the first class to call at the office of the <hi rend="italic">Herald</hi> (north-west corner of Fulton and Nassau Streets, New York-but what need to mention the locale of the <hi rend="italic">Herald</hi> or of the Great Pyramid?) and explain that nothing of the kind will be attempted.  The other news from America is less satisfactory.  There are renewed rumours of engagements, but of their importance or of their issues we have no coherent information.</p>
 <p>   With casualties, unless they present some special feature connecting them with larger questions, we do not deal; nor is our recurrence to a recent fearful event in America an exception to our rule.  The hideous story of the burning of several unfortunate young ladies who were engaged in the business of a theatre in Philadelphia is not likely to be forgotten; but it may as well be forgotten unless it produces a result here.  In London alone there are some five-and-twenty places of amusement open every night, and a similar accident might occur at any one of them.  Managers are largely and generously befriended by the press: shortcomings are overlooked, and merits are praised to the very full of their deserts; and the press has ample right of appeal to the directors of our places of entertainment.  We therefore ask, and shall gladly hear, though we hardly expect, replies in the affirmative.  Is there, in any of the London theatres, a provision against fire on the stage? and, if so, is that provision kept in order, and are the servants of the theatre <orig reg="familiarized">familiarised<orig> with it?</p>
@@ -5934,8 +5894,8 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 <p>The unfortunate decision at which we then arrived was owing, probably, to our having limited our view of the evils of war to the injuries which belligerents are capable of doing to each other.  It was thought at the time, and powerfully argued, that Great Britain, the most formidable of the maritime Powers, would gratuitously fling away her sharpest weapon by acceding to Mr. Marcy's proposition; that, being at the expense of keeping afloat a great naval armament, it would prove comparatively useless, in case of hostilities, unless she could avail herself of it<pb n="464"> to strike a blow at the commerce of her enemy; and that the mere fact of her retaining the right and the power of devastating the commercial marine of any country with which she might chance to be at war would tend to the preservation of peace by compelling other nations to be cautious of embroiling themselves with her.  It was not foreseen, or not sufficiently considered, how this determination would bear upon neutrals.  It seems not to have entered into the mind of any one that, without being ourselves at war with the United States, our own excessive jealousy in upholding our naval supremacy might involve us in miseries almost as intolerable as those of actual warfare.  We were unwilling to see the commercial navy of any contingent foe withdrawn by previous arrangement from the reach of that arm in the strength of which we place our chief reliance; and, in refusing to forego our advantage in this respect, we retained, of course, the right of blockade.  But it is as a neutral, not a belligerent, Power that the evil consequences of our own decision have come home to us.  We have sided with neither of the contending parties in America-we have carefully abstained from giving just cause of offence to either of them; but we owe it to our own deliberate decision that, in their quarrel the one with the other, our cotton interests are being crushed as between the upper and the nether millstones.</p>
 <p>Such being the circumstances, there would seem to be no alternative in the present case but to bear as best we may the calamity we have indirectly brought upon ourselves.  We must manfully abide by the results of the exercise by others of the belligerent rights we have insisted upon for ourselves.  We hope that her Majesty's Government will loyally and to the end preserve the neutrality they have proclaimed; and that no temptation offered to them by the Confederate States, and no inconvenience entailed upon them by the action of the Federal Union, will prevail upon them to break the blockade, either alone or in concert with other European Powers.  The present distress may be great, but we had far better endure it patiently than expose ourselves to the charge of a breach of international morality.  Any departure from our present neutral position would be but purchasing immediate relief at the expense of future and much greater suffering.  We cannot take direct steps towards putting an end to the existing crisis without sowing the seeds of  enmities the bitter fruit of which we should be compelled to reap at no very remote hereafter.  We might, it is true, by recognising the South, put a speedy end to the present unnatural contest, and liberate the stores of cotton for which our manufactures are pining.  But our intervention to close the dispute whilst the passions of the disputants are yet hot and eager would but precipitate a war of one or both of them with ourselves.  The vast army now resting on the Potomac would probably seek employment in Canada, and the Federal States bereft of the territory which they held south of Washington, and that, too, partly by our agency, would infallibly turn to the North for compensation.  No, we must not interfere.  Cotton is precious, but the price paid for it may be too high.  Tha alternative of neutrality is contingently such as may well</p>
 
-<p rend="center">Make us rather bear the ills we have,</p>
-<p rend="center">Than fly to others that we know not of.</p>
+<p rend="center">Make us rather bear the ills we have,<lb/>
+Than fly to others that we know not of.</p>
 
 <p>England now resembles a man who, having entered into an engagement and refused when opportunity offered to reconsider it, unexpectedly finds that it has an aspect of extreme inconvenience towards himself.  She is utterly precluded by all the obligations of national honour from seeking relief by practically dishonouring her own bond.  Her true policy lies in another direction.  She cannot get cotton from America without breaking open the doors which, as the law of nations now stands, are rightfully barred against her.  She must reject every temptation to commit an international burglary, and resolutely look elsewhere for what she wants.  No doubt she will feel the pinch; but, having made up her mind to brave it, she will be the better prepared to use every legitimate appliance which will mitigate her sufferings.  She is not destined, under any conceivable circumstances, to face the entire destruction of her cotton manufacture.  The very extremity of distress to which she seems to be exposed will attract to her markets all the disposable cotton which tropical climates can forward to her.  The strain which is put upon her will bear down most of the obstacles which have hitherto indisposed her to seek her supplies elsewhere.  Even from America some part of the crop which is locked up by the civil war may find its way hither whenever the Confederate States shall have arrived at the conviction that we have no intention of breaking the blockade, and that they are in danger of losing the monopoly of our markets.  The hope of <orig reg="realizing">realising</orig> high prices on the one hand and the fear of being permanently supplanted by India on the other will operate powerfully towards their discovery of some method by which to convey their produce to Europe.  The slave trade has never yet been put down on the western coast of Africa by blockading squadrons, and the cotton trade, no doubt, will be equally fertile in expedients and equally successful in partially evading or surmounting the difficulties by which it is beset.  The greater our efforts to render ourselves independent of the Confederate States for our supplies of cotton the more desperate will be their attempts to reach our markets.  Indeed, it is becoming a fair question whether even our immediate as well as our remoter interests may not be best subserved by our loyal and steadfast observance of belligerent rights.</p>
 <p>The events of the last few months, however, have surely sufficed to demonstrate that the law of nations embodying these belligerent rights is altogether out of tune with the spirit and wants of modern <orig reg="civilization">civilisation</orig>.  We trust the lesson which has been taught us will not have been thrown away.  War is now carried on under far different conditions than those which prevailed in olden times.  Armies are not now allowed to devastate private property in the countries in which they are engaged, nor is there any sound reason why navies should be permitted to do so at sea.  The interests of humanity equally demand the exemption of commerce from warlike liabilities.  But justice also demands it; for no one can pretend that the state of things which may involve the most vital interests of neutrals in every international dispute that may trouble the repose of the world is conformable with the first and most obvious principles of justice.  England has but to accept a more liberal doctrine to obtain for it universal recognition.  She is the first commercial nation in the world, and it would be as much to her interest as it would redound to her honour to place commerce beyond the lawful reach of international hostilities.</p>
@@ -6009,7 +5969,7 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 
 
 <div2>
-<head>[LONDON, SATURDAY, NOVEMBER 9, 1861]</head>
+<head><hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 9, 1861</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -6018,7 +5978,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
            <date value="1861-11-09">November 9, 1861</date>
 	</bibl>
 
-<p><hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi>  9, 1861.
 <p>Mexico now has full notice of what is in store for her.</p>
 
 <p rend="center">They are coming, and they are three.</p>
@@ -6207,7 +6166,7 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 <div2>
 
 <div2>
-<head> LONDON, SATURDAY, NOVEMBER 16, 1861.</head>
+<head> <hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 16, 1861.</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -6216,7 +6175,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
            <date value="1861-11-16">November 16, 1861</date>
 	</bibl>
 
-<p><hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 16, 1861.</p>
 <p>At length the Southern States have sent us two gentlemen authorised to state to England the position and resolution of the Confederates.  The Hon. Messrs. Mann and Yancey were entertained by the Fishmongers on the night of the Lord Mayor's banquet, at which latter Mr. Adams, the American Minister, made a highly-complimentary speech, claiming for the North the same ancestry, traditions, and laws as those of England, but never alluding to the fact that ten millions of his countrymen were in arms against the North.  Mr. Adams was delivering himself thus at one end of a street at the other end of which Mr. Yancey was thanking us for having recognised the South as "belligerents," and was declaring that there could be no peace until they ceased to be treated as rebels.  He spoke out boldly, asserted the certainty of Southern independence, but added that there were few sacrifices it would not make consistently with the claims of liberty and honour.  Perhaps the impression is deepening that as soon as the North shall have gained some brilliant military or naval victory, and thus atoned for the long series of disasters which have marked its campaigns, both parties will not be disinclined to listen to the mediating voices of France and England.  If this should not be the case, and the ruin and wretchedness of millions in the Old World should appear the inevitable consequence of a continuance of the blockade, it is not impossible that the statesmen of both these countries may have to consider how far the rule <hi rend="italic">salus populi suprema lex</hi> can be harmonised with a too rigid interpretation of the law of nations.  But we trust they may be spared any such necessity.  We now await with interest the news from the great fleet which the North has sent forth.</p>
 </div2>
 
@@ -6416,7 +6374,7 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 <p>P<hi rend="smallcaps">REVIOUS</hi> Numbers of this Journal have contained some particulars of the unsuccessful attempt of Stone's and Bank's columns to effect a landing on the 21st ult, on the Virginian Shore of the Upper Potomac, near Leesburg; and we now give two Illustrations, from Sketches by our Special Artist, in connection with this seemingly mad enterprise on the part of the Federal forces. The whole affair appears to have been ill-planned and adds another to the grievous blunders committed by the Federal commanders. It is hardly credible that 1800 men should have been sent across a river in the face of an enemy most strongly posted, and left unsupported when 30,000 of the division to which they belonged were within sound of their rifles. The small body, however, fought gallantly throughout the day against three times their number. One incident of the fight-a desperate effort made by the 15th Massachusetts Regiment to clear the woods by a bayonet charge-is Illustrated on our first page. This is believed to be the only instance in which a bayonet charge has been attempted by a regiment in the Federal army. The 15th Massachusetts fought most gallantly throughout the whole affair, although they knew the odds to be greatly against them; and the example set by their officers, mostly students from Harvard College, Cambridge, was most praiseworthy. Their efforts, however, were not crowned with success, as the deadly fire of the Mississippi riflemen drove them back each time; and, as evening drew on, seeing the utter uselessness of contending against their powerful enemy, the few surviving combatants slowly fell back to the river-side with but two line officers remaining. In the endeavour to recross to the island, midway between the Maryland and Virginian shoress, from which they had started, the general organisation of the force was quite abandoned, each company acting separately. The officers and men who could swim started, half naked, over the river, and the boats were kept awhile for the wounded. This, however lasted but a little time. All order was quickly lost. A large flat boat was sunk by overcrowding, and scores of men perished, some by drowning and some by the fire of the Confederates, who now crowded the high bank and poured an incessant fire upon the scattering fugitives. The river channel was thickly strewed with the dead and dying, but the bearing of the survivors is reported to have been strangely quiet-the immobility, perhaps of desperate hopelessness. Hundreds, probably, were here sacrificed. This much is certain, that out of the 1800 who landed scarcely 600 returned. The retreat of the Federalists forms the subject of the accompanying Engraving.</p>
 
 <div2>
-<head> LONDON, SATURDAY, NOVEMBER 23, 1861</head>
+<head> <hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 23, 1861</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -6424,8 +6382,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
            <biblScope type="pages">p. 516</biblScope> 
            <date value="1861-11-23">November 23, 1861</date>
 	</bibl> 
-
-<p><hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 23, 1861.</p>
 
 <p>T<hi redn="smallcaps">HE</hi> fearful storms which have raged on the eastern coast of North America have acquired a strange and almost ghastly interest for the North and South. The magnificently-described Armada that had sailed to deal the accumulated vengeance of the Federalists upon the Confederates had, it was thought, steered into the very heart of the tempest. The most opposite passions were aroused, and while the Northerners were praying that the armament to which the honour of the Union had been so solemnly confided might escape the fury of the elements the fiercer prayers of the South went up for its destruction- a result which the terrible character of the storms made painfully probable. We are told that it is almost certain that the fleet has been preserved; and we may hear at once that it has not only been saved, but has delivered its blow at Charleston or elsewhere. Meantime affairs on land have assumed a perplexing, not to say menacing, character. It was finally decided to remove General Fremont from his command, and the order came suddenly down to his camp, together with the journals which made the fact public. A mutiny of the gravest kind instantly showed itself. We say of the gravest kind, because the principal actors were not from the rank and file, but were officers, whose first duty was subordination, and who set the fatal example of declaring that they would not serve except under the General whose somewhat melodramatic faults seem to have endeared him to the forces lately under his command. General Fremont himself had to appeal to their sense of duty to the Republic; and it would appear that a sullen acquiescence was obtained, and that they will condescend to fight under the new leader appointed by the authorities. This may all augur ill for operations in that quarter. An American writer who has been narrowly inspecting the army of the North draws so unfavourable a picture of its discipline, cleanliness, and soldierly bearing as makes the English reports appear almost complimentary. But, in the face of all, Secretary Cameron announces to the nation that the day of reverses is over, and that the Union is now about to proceed from triumph to triumph. More to the purpose, it is distinctly stated that not only is the abolition of Southern slavery entirety out of the plans of the North, but that slaves who may be used by the army of the Federalists shall, if they belong to loyal owners, be paid for just as if they had been mules or any other article required for the campaign. This may be regarded as a provisional olive-branch held out to smooth matters in the event of a Northern success making a compromise possible. The Abolition party are enraged beyond measure, and their demonstrations are formidable. Meantime the usual raving of the ribald press is launched against England; and we are told that ours is a "Puritan and blackleg Cabinet," that the <hi rend="italic">Daily News</hi> is the accepted organ of the English Tories (which may be news to our contemporary), and that as soon as ever the war is over " such a train of disasters" shall be inflicted upon England as shall make her rue the day when she dared to say that ten millions of Americans were belligerents instead of rebels. It is impossible to believe that such rabid rant and utter nonsense can have weight with educated Americans; but why is it tolerated by authorities that have and use power to suppress a journal for only expressing a wish for peace?...</p>
 <p>The Americans, who profess themselves so enchanted at the sympathies of the Czar, and who half menace us and France with a Russo-American crusade, will have some few sacrifices to make in the matter of civilisation when the proposed coalition takes place. They open private letters, imprison suspected persons, put down journals, and clamour for hanging spies, but they have not attained the point of tying up women and flogging them for Southern proclivities, though, if it be true, as stated, that "the ladies of the North are all for the Southrons," there is no saying what the New York press may not recommend as "vigour of action."</p>
@@ -6678,7 +6634,7 @@ and telegrams to the 15th, inst.</p>
 	  </div2>
 
 <div2>
-<head> LONDON, SATURDAY, NOVEMBER 30,1861 </head>
+<head> <hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 30,1861 </head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -6686,8 +6642,6 @@ and telegrams to the 15th, inst.</p>
            <biblScope type="pages">p. 540-541</biblScope> 
            <date value="1861-11-30">November 30, 1861</date>
 	</bibl>
-
-<p><hi rend="italics">LONDON, SATURDAY, NOVEMBER</hi> 30, 1861.</p>
 
 <p>I<hi rend="smallcaps">T</hi> has been for some time rumoured that a vessel of war bearing the flag of the Federal States of America was lying in the track of our West India mail-steamers with the intention of searching them for certain commissioners sent by the Confederate States to Europe. The statement was received with a good deal of incredulity, and the surprise and indignant feeling have been proportionably strong at the intelligence of the course pursued by the Commander of the San Jacinto towards the mail-packet Trent. Apart from the violation of right and the insult to the British flag which are necessarily involved in this transaction, there would appear to have been a savageness in the mode in which the proceedings were conducted, from which we are inclined to augur that the American officers were actuated by that feeling which generally induces persons who are doubtful whether they are in the right to overdo their parts. It is quite clear that it needed not the additional circumstances of ferocity implied in firing, first round shot and then shell, at an unarmed steamer, merely for the purpose of bringing her to; or the personal violence which is reported to have been used in the arrest of Mr. Slidell in particular, to elicit in a manner not to be mistaken the spirit of this country in regard to this proceeding. The most decided indications of public opinion have been afforded that England will not tamely submit to have her vessels boarded and passengers forcibly torn from beneath the protection of her flag. If, as has been asserted, it has been the object and design of the Federal Government to force Great Britain into an attitude of hostility, without question full reason and justification has been now afforded. Such an act, if done under the direct sanction and authority of the Executive at Washington, speaks for itself. Neither of the parties can desire a more complete "casus belli." It remains to be seen whether the proceedings of the commander of the San Jacinto will be adopted or disavowed by his Government. It is well known that American naval officers have been always somewhat hasty in asserting what they conceive to be the rights of their country; and in many cases it has been necessary on the part of those representatives of other countries with whom they have come into collision to exercise great forbearance. When the matter is looked at, considered with that coolness and calmness which its importance requires, it seems almost impossible to suppose that so flagrant a trespass on the rights which by international law are covered by a flag can have been deliberately planned by the American Government, or that when temperate but firm demands made for the disavowal of conduct on the face of it so unjustifiable on all grounds but one-that of seeking occasion for a quarrel-that disavowal will not be given. Notwithstanding the indignant feeling which has been evinced in this country on the receipt of this intelligence, there is no doubt that the gravity of the consequences which may ensue will be acknowledged by every Englishman. It is to be hoped that in the Northern States of America a corresponding feeling will prevail.</p>
 
@@ -6936,7 +6890,7 @@ ran the blockade by hugging the Maryland shore closely, where the water shoals c
 	</div2>
 
 <div2>
-<head> LONDON, SATURDAY, DECEMBER 7, 1861 </head>
+<head> <hi rend="italic">LONDON, SATURDAY, DECEMBER</hi> 7, 1861 </head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -6944,8 +6898,6 @@ ran the blockade by hugging the Maryland shore closely, where the water shoals c
            <biblScope type="pages">p. 573</biblScope> 
            <date value="1861-12-07">December 7, 1861</date>
 	</bibl>
-
-<p><hi rend="italic">LONDON, SATURDAY, DECEMBER</hi> 7, 1861.</p>
 
 <p>T<hi rend="smallcaps">HE</hi> one topic of the day is the great question whether American democracy will permit American statesmanship to do right. No other subject has any claim to Present discussion; for it is impossible to talk of social reforms, or other of the ordinary themes of the journalist, when England, making a stand for her honour, but in nowise irritated or unreasonable, awaits the tidings whether the New Year is to be inaugurated by the signal for war. At another time it might be interesting to hear that the Mexicans have resolved not to risk a struggle with the great Powers that have united to put down piracy and ruffianism in Mexico, and to assert the rights of civilisation. We might be glad to know that there was a probability of these objects being effected without bloodshed, and we might urge upon the Governments to be in no hurry to believe in the value of promises extorted by fear, and which must be rendered valuable by material guarantees, and by the condign punishment of those who have been indulging for years in tyranny and robbery. But an expedition which excited some interest a month ago may now sail almost unmarked, except that England casts a not unsatisfied glance at her own share in the ships, and is glad that they are sailing westward. The Indian news is far from uninteresting, but, except that we shall be glad to hear that the Indian cotton crop is likely to be quadrupled, we have not much attention for the Oriental Empire. On Christmas Day many of the gathered households of the country may be graver than is their wont at that season.</p>
 <p rend="center">The mother looks on her son to-day<lb/> 
@@ -7016,6 +6968,7 @@ Slidell, Mason, Eustis, and M'Farland were on board, and demanded that they shou
                <p>
                   <figure>
                      <head> THE CONFEDERATE COMMISSIONERS TO ENGLAND AND FRANCE SEIZED ON BOARD THE TRENT.- SEE NEXT PAGE.</head>
+                  <figDesc>MR. MASON AND MR. SLIDELL</figdesc>
                   </figure>
                </p>
   </div2>
@@ -7251,7 +7204,7 @@ vessel was engaged in towing the disabled men-of-war from the thickest of the fi
 
 
 <div2>
-<head> LONDON, SATURDAY, DECEMBER 14, 1861</head>
+<head> <hi rend="italic">LONDON, SATURDAY, DECEMBER</hi> 14, 1861</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -7259,9 +7212,6 @@ vessel was engaged in towing the disabled men-of-war from the thickest of the fi
            <biblScope type="pages">p. 596</biblScope> 
            <date value="1861-12-14">December 14, 1861</date>
 	</bibl>
-
-
-<p><hi rend=italics">LONDON, SATURDAY, DECEMBER</hi> 14,1861.</p>
 
 <p>A<hi rend="smallcaps">LTHOUGH</hi> a certain and computed time must elapse before the answer from America shall determine whether bells or cannon will be the fittest ushers to announce the New Year, it is impossible to obtain much serious attention for any other subject. The candidate addressing the crowd, the senator giving in his accounts to his constituents, even the ex-Minister casually complimenting volunteers, at once fix on the American difficulty and submit their hopes or their solutions. Meantime journalists can but speculate and express the united feeling of the nation that we must uphold the honour of the English flag, but that we trust the good sense of the respectable classes in America will dominate over the passionate mob and spare us the terrible necessity of striking a blow. From the French papers we cull little save the expression of French opinion upon the outrage for which we have demanded redress, and it is satisfactory to see that the logical minds of the Parisian journalists, when permitted fair play, at once lead them to the conclusion that England had but one course open to her. Deeply interesting as would be at any other time the debates in the Italian Parliament and the situation of Baron Ricasoli and his Ministry, the fiery elegance or languid pedantry of the speakers is little heeded, nor can much indignation be spared for the atrocious cruelties which, if accounts be true, are being perpetrated upon the unfortunate Poles, in punishment for their recent demonstrations of love of country. All this negligence of all but one subject should be noted across the Atlantic, for it is a grim proof how thoroughly England-once aroused-shows herself in earnest.</p>
 	  </div2>
@@ -7796,7 +7746,7 @@ vessel was engaged in towing the disabled men-of-war from the thickest of the fi
 
 
 <div2>
-<head> LONDON, SATURDAY, DECEMBER 21,1861</head>
+<head> <hi rend="italic">LONDON, SATURDAY, DECEMBER</hi> 21,1861</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -8175,3 +8125,7 @@ ON THE TRENT.</head>
 
 <p>We state for the satisfaction of the relatives and friends of the troops leaving for Canada that the "Persia, and the other large steamers, carry each four boats fitted with Clifford's patent for instantly and safety lowering-them.</p>
 	</div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>
