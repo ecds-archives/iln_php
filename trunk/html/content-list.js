@@ -3,7 +3,7 @@
 
 
 // base url for close/open images
-var base_url = "http://chaucer.library.emory.edu/iln/";
+var base_url = "http://cti.library.emory.edu/iln/images/";
 
 
 function toggle_ul (id) {
