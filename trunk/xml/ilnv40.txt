@@ -9091,7 +9091,7 @@ Government has sent the Catinat and Gassende to the United States, to be present
 <head>AMERICA</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1141</biblScope> 
+           <biblScope type="issue">no. 1142</biblScope> 
            <biblScope type="pages">p. 433</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          <extent></extent>
@@ -9237,7 +9237,7 @@ Chinese miners.</p></div2>
 <head>THE ILLUSTRATED LONDON NEWS.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1141</biblScope> 
+           <biblScope type="issue">no. 1142</biblScope> 
            <biblScope type="pages">p. 437</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          <extent></extent>
@@ -9274,7 +9274,7 @@ will imply recognition. The position of General McClellan before Yorktown does n
 <head>Accounts Have Been Received.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1141</biblScope> 
+           <biblScope type="issue">no. 1142</biblScope> 
            <biblScope type="pages">p. 457</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          <extent></extent>
@@ -9289,7 +9289,7 @@ got safely to land; the ship was dashed to pieces.</p></div2>
 <head>ILLUSTRATION THE WAR IN AMERICA.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1141</biblScope> 
+           <biblScope type="issue">no. 1142</biblScope> 
            <biblScope type="pages">p. 458</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          <extent></extent>
@@ -9418,7 +9418,7 @@ regiment.</p></div2>
       type="illustration">
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1141</biblScope> 
+           <biblScope type="issue">no. 1142</biblScope> 
            <biblScope type="pages">p. 458</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          <extent></extent>
@@ -9431,215 +9431,373 @@ regiment.</p></div2>
 </figure>
 </p>
 </div2>
-WILLIAM HENRY SEWARD, THE AMERICA SECRETARY OF STATE.
 
-Tax most remarkable character 'whom the recent turn of events in the United Slates has brought into the foreground is undoubtedly W. H. Seward. President Lincoln's star waxes pale beside that of the. brilliant New Yorker. The American cataclysm, though it has produced no great General able to educe order from the universal wreck of things, has at least brought forth a Minister of Foreign Affairs worthy of the occasion. Earl Russell has recognised in a signal manner the ability of the man with whom he has already broken several lances, and exchanged as many vows of amity by republishing and laying before Parliament the entire congressional public document containing the correspondence between Mr. Seward and the representatives of the Federal Government in all parts of the world. We venture to believe that no candid mind can turn from the perusal of this voluminous correspondence without acknowledging that it is a lasting monument of Mr. Seward's industry and genius. •With what a dexterous and happy art he expatiates on the same theme to each Ambassador without once suggesting to the reader the idea of a repetition! How prodigally he scatters gems of 'political philosophy, quaint apothegms, felicitous appeals to the nobler sentiments of our nature, dashed here and there (but very rarely) with a tinge of resentment and menace! Let us imagine Edmund Burke or William Gladstone at the Foreign Office privileged to disregard the fetters which tradition, routine, and the proprieties and conventionalities of office impose upon our Ministers of Foreign Affairs, and further privileged to open a new account in the national ledger with each foreign nation, dependency, and colony. The poeitiou would be analogous to that of Mr. Seward in 1861, and the literary result in the line of essay, disquisition, and rhetoric would probably be far from dissimilar. The American Secretary seems to have thought the official style of British diplomatists and of his immediate predecessors in office too hard and dry to suit his purposes, and to have hit on a medium between that and the florid sententiousness which. characterises the choicest off usioda of the Chanceries of the Celestial Empire.
+<div2 id="iln40.1142.006" n="William Henry Seward, the American
+      Secretary of State" type="article">
+<head>WILLIAM HENRY SEWARD, THE AMERICAN SECRETARY OF STATE.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1142</biblScope> 
+           <biblScope type="pages">p. 460 </biblScope> 
+           <date value="1862-05-03">May 3,1862</date>
+         <extent></extent>
+</bibl>
 
- The verbose, flimsy, and inconsequential despatch in which Mr. Seward announced his compliance with the British demand for the surrender of Messrs. Mason and Shidell is that by which, unfortunately for his reputation, the American Secretary is best known in England; but' this despatch was exceptional in two respects-firstly, in that it was the joint production of Mr. Lincoln's (Jsbinet; and, secondly, because it was written, not in perfect freedom, as were the others, but under the terrible constraint which bade him steer clear of the Scylla of a British fleet on the one hand, and the Charybdis of American indignation on the other.
+<p>T<hi rend="smallcaps">HE</hi> most remarkable character whom the recent turn of events in the United States has brought into the foreground is undoubtedly W. H. Seward. President Lincoln's star waxes pale beside that of the brilliant New Yorker. The American cataclysm, though it has produced no great General able to educe order from the universal wreck of things, has at least brought forth a Minister of Foreign Affairs worthy of the occasion. Earl Russell has recognised in a signal manner the ability of the man with whom he has already broken several lances, and exchanged as many vows of amity by republishing and laying before Parliament the entire congressional public document containing the correspondence between Mr. Seward and the representatives of the Federal Government in all parts of the world. We venture to believe that no candid mind can turn from the perusal of this voluminous correspondence without acknowledging that it is a lasting monument of Mr. Seward's industry and genius. With what a dexterous and happy art he expatiates on the same theme to each Ambassador without once suggesting to the reader the idea of a repetition! How prodigally he scatters gems of political philosophy, quaint apothegms, felicitous appeals to the nobler sentiments of our nature, dashed here and there (but very rarely) with a tinge of resentment and menace! Let us imagine Edmund Burke or William Gladstone at the Foreign Office privileged to disregard the fetters which tradition, routine, and the proprieties and conventionalities of office impose upon our Ministers of Foreign Affairs, and further privileged to open a new account in the national ledger with each foreign nation, dependency, and colony. The position would be analogous to that of Mr. Seward in 1861, and the literary result in the line of essay, disquisition, and rhetoric would probably be far from dissimilar. The American Secretary seems to have thought the official style of British diplomatists and of his immediate predecessors in office too hard and dry to suit his purposes, and to have hit on a medium between that and the florid sententiousness which characterises the choicest effusions of the Chanceries of the Celestial Empire.</p>
 
-A truer estimate of Mr. Sewerd's ability as a diplomat may ha
+<p> The verbose, flimsy, and inconsequential despatch in which Mr. Seward announced his compliance with the British demand for the surrender of Messrs. Mason and Slidell is that by which, unfortunately for his reputation, the American Secretary is best known in England; but this despatch was exceptional in two respects-firstly, in that it was the joint production of Mr. Lincoln's Cabinet; and, secondly, because it was written, not in perfect freedom, as were the others, but under the terrible constraint which bade him steer clear of the Scylla of a British fleet on the one hand, and the Charybdis of American indignation on the other.</p>
 
-Wathered by a few specimens culled almost at ran doni from the af(,re. aij In. Book. That highlywrought and highilown letter of instructions to Mr. Charles Francis Adams contains an argument against the recognition of the Confederate States, in which Mr. Seward finds occasion to 'work in passages like these:-" Great Britain has within the last forty-five years changed character and purpose. She has become a Power for production rather than a Power for destruction. She is committed, as it seems to us, to a policy of infinity, not of ambition- a policy of peace, not of war. One has only to compare her present domestic condition with that of any former period to see that this new career on which she has entered is as wise as it is humane and beneficent, Her success in this career requires peace throughout the civilised world, and nowhere so much as on this Continent .
+<p>A truer estimate of Mr. Seward's ability as a diplomat may be
 
-.................
+gathered by a few specimens culled almost at random from the afore-aid
+Blue Book. That highlywrought and highflown letter of instructions to
+Mr. Charles Francis Adams contains an argument against the recognition
+of the Confederate States, in which Mr. Seward finds occasion to 'work
+in passages like these:-" Great Britain has within the last forty-five
+years changed character and purpose. She has become a Power for
+production rather than a Power for destruction. She is committed, as
+it seems to us, to a policy of infinity, not of ambition- a policy of
+peace, not of war. One has only to compare her present domestic
+condition with that of any former period to see that this new career
+on which she has entered is as wise as it is humane and
+beneficent. Her success in this career requires peace throughout the
+civilised world, and nowhere so much as on this Continent. . . .
+Humanity has indeed little to hope for if it shall in this age of high, improvement be decided without a trial that the principle of international law, which regards nations as moral persons, bound so to act as to do to each other the least injury and the most good, is merely an abstraction too refined to be reduced into practice by the enlightened nations of Western Europe."</p>
 
-Humanity has indeed little to hope for if it shall in this age of high, improvement ho de:ided without a trial that the principle of international law, which regards nations as moral persons, bound so to act as to do to each other the least injury end the most good, is merely an abeti action too refined to be reduced into practice by the enlightened nations of Western Europe."
+<p>In the letter to Mr. Dayton, Minister, to France, Mr. Seward thus
+quaintly suggests the rationale of the Secession movement:-"The
+insurrection proves, in fact nothing else except that eighty years of
+peace is as much as human nature has the moderation to endure under
+circumstances the most conducive to moderation," The Minister to Spain
+is told that, "Unhappily, in the present conditions of society,
+nations are, to say the least, neither wiser nor more just or generous
+than individual men." With admirable candour he moralises upon Bull
+Run to the Minister to Italy. "The lesson that war cannot be waged successfully without wisdom as well as patriotism has been received at a severe cost; but perhaps it was necessary." In the sane vein he acknowledges to Mr. Adams that it has been necessary for us to learn-perhaps the instruction has not come too soon-that vicissitudes are incident to our system and our country, as they are to all others." The instructions to the Minister to Russia begin thus:--
+"Nations, like individuals, have three prominent
+wants--first. freedom; secondly, prosperity; thirdly, friends. The
+United States early secured the two first objects by the exercise of
+courage and enterprise. But, although they have always<orig reg="practiced"> practised</orig> singular moderation, they nevertheless have been slow in winning friends." Mr. Seward's muse takes an eagle-like flight as it approaches the Alps. He tells the Minister to Switzerland---' Human nature must lose not only the faculty of reason which lifts it above the inferior beings, but also the benevolence which lifts it up to commune with superior orders f existence when the security, welfare, and happiness of the United States shall have become even a matter of indifference to Italy or Switzerland. I salute Switzerland last among the European nations, only because we esteem and confide in her most."</p>
 
-In the letter to Mr. Dayton, Minister, to France, Mr. Sewa -d three quaintly suggests the rationale of the Seossion movement:-; The insurrection proves, in fact nothing else except that eiguy years of pence is as much as human nature has the moderation to endure nuder circumstances the most conducive to moderation," The Miniiier to Spain is told that, 'Unhappily, in the present conditions of society, nations are, to say the least, neither wiser nor more just or generous then individual inca." With admirable candour lie momnlises upon Bull Run to the Minister to Italy. "Flee lesson that-war cannot be waged successfully without wisdom as well as patriotism has been received at a severe cost; but perhaps it was necessary.' la the sane vein he acknowledges to Mr. Adams that It has been necessary for us to learn-perhaps the in-traction has not come too soon-that vicissitudes are incident to our system and our country, as they are to all others;' The instructions to the Mieiicee to Russia begin thus
+<p>Although Mr. Seward has enjoyed a <hi rend="italic">very</hi> high
+local reputation for more then a quarter of a century, his name was
+known to but a few in England or the Continent two years ago. His
+presnt position is a well-earned guerdon of talents perseveringly
+employed and of principles faithfully adhered to. Beginning public
+life at an early age, he chose not the dominant and popular Democratic
+party, but that of the Opposition which, while it could hold out no
+speedy prospect of high office to the young aspirant, yet commanded
+the adhesion of a great majority of the best educated and most
+substantial citizens cf the Northern States. The Whigs of New York
+made him Governor of the State for two terms (1808-42), and in the
+regular course of promotion he ought to have been translated to
+Washington either as a Federal Senator or at the head of some
+executive department under a Whig administration. But at this point
+his strong antislavery principles stood in the way of his advancement,
+and Whigs of less brilliant talents, but of more orthodox and quietist
+opinions on the great question, were preferred before him by party
+conventions and caucuses. Finding himself too far in advance of the
+average opinions of the New Yorkers, he withdrew from public life for
+some years, biding his time, like the English Whigs of a past
+generation, and trusting that the day would come when the public
+sentiment of his State would develop itself in such a direction as to
+admit of his re-entry on a career of public usefulness. It was not
+until 1819, when he was nearly fifty years of age, that he appeared in
+Washington as a Senator from New York. Here also the overshadowing
+influence of the slaveowners threw him into the background, and denied
+him a share of influence commensurate with his talents and
+ambition. The formation of the Republican organization in 1855 at last
+gave him a party whose fundamental principles were those with which his name and fame were most closely identified, and opened to hire the prospect of Executive preferment. Yet even this party, while ever acknowledging him as their virtual leader, preferred John C. Fremont as their standard-bearer in 1856, and Abraham Lincoln in 1860, though on this last occasion the powerful phalanx of Mr. Seward's friends in the nominating convention literally shed tears at the sacrifice of feeling they were called upon to make. It was thought that Colonel Fremont and Mr. Lincoln, as Southerners by birth and as comparatively new men, would be less obnoxious to the slaveowning interest than the lifelong champion of the anti-slavery cause. Cherishing no petty pique or jealousy, he threw himself with ardour into the canvass in behalf of his successful competitor, and rendered Mr. Lincoln's election sure by his eloquent public harangues through the Western States-harangues which exhibited the same wonderful fertility of resource in the ever-novel treatment of the one great theme to a score of different audiences, to which his State papers have since borne additional testimony. Though not destined to occupy the Republican throne, he was to become, as Mr. Lincoln's Premier, the power behind the, President
 
-"Nations, like individuals, have three prominent wants-first. freedom; secondly, prosperity; thirdly, friends. Tire United Statee early secured the two mu objects by the exercise of courage and enterprise. Brit, although they have always practised singular moderation, they nevertheless have been slow in winning friends." Mr. Sevrard?s muss takes an eagle-like flight as it approaches the Alps. He tells the Minister to Switzerland---' Human nrituxe must lose not only the faculty of urason which lifts it above the inferior beings, but also the benevoleace which lifts it up to commune with superior orders f existence when the security, welfare, and happiness of the United States shall have become even a matter of indifference to Italy or Switzerland. I salute
-become even a matte of indulMeace to Italy or Switzerland. I salute Switzerland last among the European nations, only because we eslezn and confide in her most."
+ greater than the President himself. The nation hailed with
+ enthu-siasm the elevation of the now sexagenarian statesman to the  highest
 
-Although Mr. Seward has enjoyed a reip high local reputation for more then a quarter of a century, his name was know.i to oar few in England or the Continent two years ago. His presnt position is a. well-earned gnerdon of talents perseveringly employed and of principles faithfully adhered to. Beginning public life at an early age, be chose not the dominant and popular Democratic party, but thar of the Opposition which, while it could hold out no speedy prospect of high office to the young aspirant, yet commanded the adhesion of a great majority of the best educated and most substantial citizens cf the Northern States. The Whigs of New York made him (overror of the State for two terms (1888.42), and in the regular course of promotion he ought to have been translated to Washington either as a Federal Senator or at the head of some executive department under a Whig admiuisation. But at this point his strong antislavery principles stood in the way of his advancement, and Whgs of lees brilliant talents, but of more orthodox and quietist opinions on the great question, were preferred before him by party conventions and çeueusee. Finding himself too far in advance of the average opinions of the New Yorkers, he 'withdrew from public life for some years, biding his time, like the English Whigs of a past generation, and trusting that the day would come when the public sentiment of his Slate would devolopitreif in such a direction asto admit of his re-entry on a career of public usefulness. It was not until 1819, when he was nearly fifty sears of age, that he appeared in Washingtoa Senator from New York. Here also the overshadowing influence of the slaveowneis threw, him into the background, and denied him a share of influence commensurate with his talents and ambition. The formation of the Republican organization in 1855 at last gave hi.6 party whose fundamental principles were those with which his name and fame were most closely identified, and opened to hire the prospect of Executive preferment. Yet even this party, while ever acknosv]eclging him as their virtual leader, preferred John C. Freinont as their standard-bearer in 1856, and Abraham Lincoln in 1860, though on this last occasion the powerful phalanx of Mr. Seward's friends in the nominating convention literally shed tears at the sacrifice of feeling they were celled upon to make. It was thought that Colonel Fremont and Mr. Lincoln, as Southerners by birth and as comparatively new men, would be less obnoxious to the slaveownin' ietereat than the lifelong champion of the anti-slavery cause. Cheishing no petty pique or jealousy, he threw himself with ardour into the canvass m behalf of his successful competitor, and rendered Mx. Lincoln election sure by his eloquent public harangues through the Western States-harangues which exhibited the -ame wonderful fertility of resource in the evernovel treatment of the one great theme to a score of different audiences, to 'which his State papers have since borne additional testimony. Though not destined to occupy the Ilepublican throne, he was to become, as Mr. Lincoln's Premier, the power behind tlie, President
+office in the gift of the Federal Executive and Senate, who thirty
+years<pb n="461"/>
+previous had been deemed too much of a "fanatic" to be presentible
 
-k greater than the President himself. The nation hailed h enthu
+to Washington.</p>
 
-,'t siasm the elevation of the stow sexagenarian at atesman to  highest;
+<p>There are other ideas besides that of making freedom nation and slavery sectional to which Mr. Seward has been "fanaticaly" attached, and one of these is happily for both parties concerned, that a war between "the American and European branch of the British race" would be a fearful crime on the part of those responsible for its occurrence. It is clear as noonday, from a scrutiny of his whole career, that he is anxious that his name shall not be connected in any dishonourable manner with such a catastrophe to the progress of mankind.
 
-effice in the It of the Federal Enecutive and, Senate, Who rty yeare
-vlonsy lied been deemed too much of a fanatic" to be presentible
-
-t Washingtofl.
-
-'There are other ideas besides that of making freedom nation!111
-
-nd zlawery sectional to which Mr. Seward has been "fanaticaly" attached, and one of these is happily for both parties concerned, that m war between "the American and European branch bf the British race" 'would be a fearful crime on the part of those responsible for its occorenoe. It is clear as noonday, from a scrutiny of his whole career, that be is anxious that his name shall not be connected in any dishozicurable manner with such a catastrophe to the progress of mankind.
-
-'or three years more he will in all human probability conduct
+For three years more he will in all human probability conduct
 
 the foreign policy of the Federal Government. Animated as we
 
-are sure the British Government is by principles not less humane than those which prevail at Washington, may we not be perlTuitted to see in this combination of Russell and Seward sa guarantee of at least a three years' peace? But who will Fucceed Mr. Lincoln? Ask those who elected him, and they 'wIll almcst unanimously respond, "William Henry Seward." We 'would fain hope so; yet either one of two contingencies seems at 1€ ast qnall' probable-namely, that some lucky man of the sword will thrust aside the man of ideas, or that this great tribune of the people will he sacrificed at the altar of reconciliation by the two now contendIa g rections, leaving the pride of place to become the prey of some uncommitted and unscrupulous democratic politician who may seek to drown the bitter memories of the immediate past in an antiBritish crusade. Absti onzefl!
-AMERICA.
+are sure the British Government is by principles not less humane than
+those which prevail at Washington, may we not be permitted to see in
+this combination of Russell and Seward a guarantee of at least three
+years' peace? But who will succeed Mr. Lincoln? Ask those who elected
+him, and they will almost unanimously respond, "William Henry Seward."
+We would fain hope so; yet either one of two contingencies seems at
+least equally probable-namely, that some lucky man of the sword will
+thrust aside the man of ideas, or that this great tribune of the
+people will he sacrificed at the altar of reconciliation by the two
+now contending sections, leaving the pride of place to become the prey
+of some uncommitted and unscrupulous democratic politician who may
+seek to drown the bitter memories of the immediate past in an
+anti-British crusade.<hi rend="italic"> Absit
+omen</hi>&#x0021;</p></div2>
+<div2 id="iln40.1143.001" n="America" type="article">
+<head>AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1143</biblScope> 
+           <biblScope type="pages">p. 464</biblScope> 
+           <date value="1862-05-03">May 10,1862</date>
+         <extent></extent>
+</bibl>
+<p>By the arrival of the Montreal Company's steamer Norwegian we
 
-By the arrival of the Montreal Company's steamer Norwsgi4n we
+have telegrams to the 26th ult.</p>
 
-have telegrams to the 26th ult.
+<p rend="center">BELLIGERENT OPERATIONS BY SEA AND LAND.</p>
 
-BELLIGERENT OPJiEATIONS BY SEA AND LARD.
-
-The Nashville had returned to Nassau, having hams unable to ran
+<p>The Nashville had returned to Nassau, having been unable to run
 
 the blockade at Charleston. The steamer Cecil, however, and several
 
-small 'rem els at Nassau, had successfully run the blockade.
+small vessels at Nassau, had successfully run the blockade.</p>
 
-The Federals had got ready a third iron-plated steamer, and diepatched her to Fortress Monroe.
+<p>The Federals had got ready a third iron-plated steamer, and diepatched her to Fortress Monroe.</p>
 
-The city of Apalachicola, in Florida, was captured by two grin-boats on the 3rd ult. A few shells dispersed the Confederates who were in arms there, and the non-resistant portion of the population, consisting chiefly of women and children and "contrahands," were found almost starving. The blockade had effectually cut off all supplies from the seaboard, and their resources from the inland were not sufficient to maintain the ordinary comforts of life.
+<p>The city of Apalachicola, in Florida, was captured by two gun-boats on the 3rd ult. A few shells dispersed the Confederates who were in arms there, and the non-resistant portion of the population, consisting chiefly of women and children and "contrabands," were found almost starving. The blockade had effectually cut off all supplies from the seaboard, and their resources from the inland were not sufficient to maintain the ordinary comforts of life.</p>
 
-The Southern journals announce that the Federals commenced the bombardment of Fort Jackson, below New Orleans, on the 23rd nit. One thousand shells had fallen in the fort. The bombardment was continuing at last accounts.
+<p>The Southern journals announce that the Federals commenced the bombardment of Fort Jackson, below New Orleans, on the 23rd ult. One thousand shells had fallen in the fort. The bombardment was continuing at last accounts.</p>
 
-General M'Clellan still sits down before the Confederate intrench-' meats at Yorktown. There have been so me slight artillery duels which have resulted favourably to the Federals. General McDoweli and General Banks, each at the head of a corps-d'armde, are advancing upon Richmond from the North. McDowell had occupied Fredericksburg, without opposition, the municipal authorities, however, informieg him that their submission was an enforced one, their hearts being with the Confederates. General Banks repeats that the enemy are, the valley. of the Shenandoah and falling back upon Gor-' dmisvile.
+<p>General M'Clellan still sits down before the Confederate
+intrench-ments at Yorktown. There have been some slight artillery
+duels which have resulted favourably to the Federals. General McDowell
+and General Banks, each at the head of a corps-d'arm&#x00e9;e, are
+advancing upon Richmond from the North. McDowell had occupied
+Fredericksburg, without opposition, the municipal authorities,
+however, informing him that their submission was an enforced one,
+their hearts being with the Confederates. General Banks repeats that
+the enemy are evacuating the valley of the Shenandoah and falling back upon Gordonsville.</p>
 
- The Federal General Mitchell had occupied Juks a town in the extreme north-eastern portion of the State of Mississippi. His energetic movements in the northern part of this State, Alabama, and Georgia were causing much uneasiness to the 0 ,nfederatee.
+ <p>The Federal General Mitchell had occupied Juka a town in the extreme north-eastern portion of the State of Mississippi. His ener-getic movements in the northern part of this State, Alabama, and Georgia were causing much uneasiness to the Confederates.</p>
 
-General Halleek, in command near Corinth, has not yet made an assault upon Beauregard's position. In the meantime rainforcements were flowing in fast to the Southern General.
+<p>General Halleck, in command near Corinth, had not yet made an assault upon Beauregard's position. In the meantime reinforcements were flowing in fast to the Southern General.</p>
 
-Fort Wright, on the Mississippi, seventy-eight miles above Memphis, is found to be strongly fortified and guarded by fourteen Confederategun-boats. The Federal General Pope's division had left Fort Wright to reinforce General Halleck near Corinth. The Confederates resorted to' the desperate measure of cutting through the levb on the Arkansas side of the Mississippi, thereby submerging the country for forty miles and preventing the advance of the Federal forces.
+<p>Fort Wright, on the Mississippi, seventy-eight miles above Memphis,
+is found to be strongly fortified and guarded by fourteen Confederate gun-boats. The Federal General Pope's division had left Fort Wright to reinforce General Halleck near Corinth. The Confederates resorted to the desperate measure of cutting through the lev&#x00e9;e on the Arkansas side of the Mississippi, thereby submerging the country for forty miles and preventing the advance of the Federal forces.</p>
 
-THE CONIPIDDERATE STATES.
+<p rend="center">THE CONFEDERATE STATES.</p>
 
-President Davis had sent a message to Congress recommending the
+<p>President Davis had sent a message to Congress recommending the
 
-passage of a conscription law, declaring that all men between the ages of eighteen and thirtyfive years are rightfully subject to military duty, and should be held to be in the military service of the Confederate States.
+passage of a conscription law, declaring that all men between the ages of eighteen and thirty-five years are rightfully subject to military duty, and should be held to be in the military service of the Confederate States.</p>
 
-M. Mercier, the French Minister, had left Richmond and returned to, Washington. The Danish and SwedishMinisters were, at last accounts, on their way to the Confederate capital.
+<p>M. Mercier, the French Minister, had left Richmond and returned to
+Washington. The Danish and Swedish Ministers were, at last accounts, on their way to the Confederate capital.</p>
 
-WASZINGTON.
+<p rend="center">WASHINGTON.</p>
 
-The policy of making freedom national and slavery sectional is being pursued with 'rigour by the Federal Executive and Legislature. The Senate has ratified the new treaty with Great Britain for the gap
+<p>The policy of making freedom national and slavery sectional is
+being pursued with <orig reg="rigor">rigour</orig> by the Federal
+Executive and Legislature. The Senate has ratified the new treaty with
+Great Britain for the suppression of the slave trade. The Washington
+correspondent of the New York<hi rend="italic"> Commercial Advertiser</hi> writes thus of its provisions:--</p>
 
-KesSion of the slave trade. The Washington correspondent Of ttle~
+<p><q>It is understood to <orig reg="recognize">recognise</orig> the right of search by naval vessels especially
 
-.w York Commercial Advertiser writes thus of its provisions
+commissioned for the purpose by either power, within certain limits off the
 
-It is understood to recognise the right of search by naval vessels especially
-
-commissioned for the purpose by either power, within certain limits Off the
-
-coasts of; Africa and Cuba. Joint British and American Admiralty Courts are
+coasts of Africa and Cuba. Joint British and American Admiralty Courts are
 
 to be established at New York and at Sierra Leone for the examination of
 
-suspected vessels.
+suspected vessels.</q></p>
 
-The Senate has also passed a bill recognizing and establishing
+<p>The Senate has also passed a bill recognizing and establishing
 
 diplomatic relations with the Negro States of Hayti and Liberia. The
 
-Came body has passed a bill for establishing a line of armed steamers between San Francisco and Shanghai.  -
+same body has passed a bill for establishing a line of armed steamers between San Francisco and Shanghai.</p>
 
-President Lincoln had formally avowed the proceeding taken by ex-Secretary Cameron against Mr. Pierce Butler, which proceeding had 1d to the arrest of Mr. Cameron in Philadelphia.
+<p>President Lincoln had formally avowed the proceeding taken by ex-Secretary Cameron against Mr. Pierce Butler, which proceeding had led to the arrest of Mr. Cameron in Philadelphia.</p>
 
-THE CENSORSHIP OF TIED MESS.
+<p rend="center">THE CENSORSHIP OF THE PRESS.</p>
 
-The New York jonrnal begin to complain bitterly of the censorship as wielded by Mr. Stanton. TheNew York Times has an editorial article on the subject, which, after detailing the severity of the surveillance exercised over the war ccirrespondete of the leading journals end
+<p>The New York journals begin to complain bitterly of the censorship
+as wielded by Mr. Stanton. The<orig reg="italic">New York Times</orig> has
+an editorial article on the subject, which, after detailing the
+severity of the surveillance exercised over the war correspondents  of the leading journals and
 
-- remarking on the keen relish with which Mr. Stanton enjoyed the
+remarking on the keen relish with which Mr. Stanton enjoyed the
 
-sport, concludes in this strain :
+sport, concludes in this strain :</p>
 
-The experiment has been tried. The censorship has had full swing, and it is in evidence that no movement of the Union Army has been made of which the 'rebels were not fully apprised. The knowledge through the secretary's interference was only -withheld from the loyal people of the North. Proof of the
-General M'CIellan had not taken Yorktown at the last
+<p><q>The experiment has been tried. The censorship has had full
+swing, and it is in evidence that no movement of the Union Army has
+been made of which the rebels were not fully apprised. The knowledge
+through the secretary's interference was only withheld from the loyal
+people of the North. Proof of the<pb n="465"/>merely gratuitous and
+mischievous nature of the censorship could not be more perfect. It has
+become to press and people an intolerable grievance, and,
+unfortunately, there has been no such realisation of the hopes
+entertained upon the coming of Mr. Stanton to office as to warrant him
+in trifling further with public endurance. Disappointed in the War
+Minister, the people will dispense with his servies as agent of secret
+police.</q></p>
 
-advices, but had made an apparently weak attack, which had been attended with no result except the deaths of many brave men. His position does not appear to be an enviable one. It is stated, however, that his avowed enemy, Mr. Stanton, had been compelled by the President to succumb, and that General hVClellan was to have all the reinforcements that he required. 6o far as we can judge, he seems to have done as we did in the Crimea-namely, allowed the enemy to choose his own ground, and that the very strongest that exists, and there to fight the great duel. Th battle of Pittaburg, which is called by the south the battle of Shiloh, is no longer claimed as a victory by the North, and may be regarded as one of the heaviest items to the credit of the Confederates. We do not perceive much worth setting down in the rumours and probabilities of encounters, and no movement or action of importance is recorded. Meantime, the liberating process is slowly, but it would seem effectually, proceeding; and those in the districts that are to be dealt with who think their slaves worth more than MO are said to be moving away with those articles of commerce. The visit f M. Mercier to Richmond has given rise to much discussion, and those vho know nothing about it arm with laudable confidence that the Emperor of the French desires to make peace in order to the concluding a treaty by which the Americans and the French shall mite for an attack on England. Eat the rqort does not seem to find muek credence, and as a sensation Paragraph thestatement 5 voted stupid.
--NEW OnLaAs.-There is a charm in the life and society of
+<p rend="center">OPENING OF NAVIGATION</p>
+<p>The western lakes are released from their ice blockade, and the
+east-ward movement of agricultural produce has commenced."</p></div2>
+
+<div2 id="iln40.1143.002" n="General M'Clellan" type="article">
+<head>General M'Clellan</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1143</biblScope> 
+           <biblScope type="pages">p. 468</biblScope> 
+           <date value="1862-05-03">May 10,1862</date>
+         <extent></extent>
+</bibl>
+<p>General M'CIellan had not taken Yorktown at the last
+
+advices, but had made an apparently weak attack, which had been
+attended with no result except the deaths of many brave men. His
+position does not appear to be an enviable one. It is stated, however,
+that his avowed enemy, Mr. Stanton, had been compelled by the
+President to succumb, and that General M'Clellan was to have all the
+reinforcements that he required. So far as we can judge, he seems to
+have done as we did in the Crimea-namely, allowed the enemy to choose
+his own ground, and that the very strongest that exists, and there to
+fight the great duel. The battle of Pittsburg, which is called by the
+south the battle of Shiloh, is no longer claimed as a victory by the
+North, and may be regarded as one of the heaviest items to the credit
+of the Confederates. We do not perceive much worth setting down in the
+rumours and probabilities of encounters, and no movement or action of
+importance is recorded. Meantime, the liberating process is slowly,
+but it would seem effectually, proceeding; and those in the districts
+that are to be dealt with who think their slaves worth more
+than&#x00a3;60 are said to be moving away with those articles of
+commerce. The visit of M. Mercier to Richmond has given rise to much
+discussion, and those vho know nothing about it affirm with laudable
+confidence that the Emperor of the French desires to make peace in
+order to the concluding a treaty by which the Americans and the French
+shall unite for an attack on England. But the report does not seem to
+find much credence, and as a sensation paragraph the statement is voted stupid.</p></div2>
+<div2 id="iln40.1143.003" n="New Orleans" type="article">
+<head>-NEW ORLEANS</head>
+<p>There is a charm in the life and society of
 
 New Orleans difficult to understand and impossible to describe. "No place
 
-like Now Orleans," is the verdict of all who have lived there long enough to know 'what it is; end this in spite of the river that threatens to drown yea, and the swamp filled with mosquitoes and. alligators; in spite of the yellow fever every three years, and months of every year with the thermometer above ninety degrees. "I had rather be a nigger in New Orleans than own New York and live there," would not be considered a very extravagant assertion in the former city. Whatever may be the cause of the feeling, there is no doubt about the fact. The people are eminently social, generous, genial, and int. puleive. The climate during eight months of the year is also indescribably delicious. Roses bloom, bananas ripen, 'and rips oranges cover the trees in Jaimery. There are little traits of character which may give the stronger some idea of the character of the people. The smallest coin in circulation is the picayune, or five-cent piece. Pennies, or cents, when brought from the north, are need by the boys for pitch and toss, but are of no use in making purolmoes. Ask a market man if his eggs are fresh, and he will immediately
+like New Orleans," is the verdict of all who have lived there long enough to know what it is; and this in spite of the river that threatens to drown you, and the swamp filled with mosquitoes and alligators; in spite of the yellow fever every three years, and months of every year with the thermometer above ninety degrees. "I had rather be a nigger in New Orleans than own New York and live there," would not be considered a very extravagant assertion in the former city. Whatever may be the cause of the feeling, there is no doubt about the fact. The people are eminently social, generous, genial, and impulsive. The climate during eight months of the year is also indescribably delicious. Roses bloom, bananas ripen, and ripe oranges cover the trees in January. There are little traits of character which may give the stronger some idea of the character of the people. The smallest coin in circulation is the picayune, or five-cent piece. Pennies, or cents, when brought from the north, are used by the boys for pitch and toss, but are of no use in making purchases. Ask a market man if his eggs are fresh, and he will immediately
 
-break one to show you and then throw it into the gaiter.-Osce a West'
-AMERICA.
+break one to show you and then throw it into the gutter.-<hi
+rend="italic">Once A Week.</hi></p></div2>
+<div2 id="iln40.1144.001" n="America" type="article">
+<head>AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1143</biblScope> 
+           <biblScope type="pages">p. 464</biblScope> 
+           <date value="1862-05-03">May 10,1862</date>
+         <extent></extent>
+</bibl>
 
-By the arrival of the steamers City of New York and Bohemian we
+<p>By the arrival of the steamers City of New York and Bohemian we
 
-have news from New York to the 3rd inst.
+have news from New York to the 3rd inst.</p>
 
-BELLIGERENT OPERATIONS 13Y SBA AND LAND.
+<p rend="center">BELLIGERENT OPERATIONS BY SEA AND LAND.</p>
 
-On the 25th ult. the Federal gun-boats passed Ports Jack5o and St. Philip, leaving those forts in the possession of the enemy, and proceeded up the Mississippi towards New Orleans. Immediately thecitizens heard this news they destroyed all the cotton and steam-boats. except such, as were necessary to transport coin, ammunition. &c. Ot coin it is said the Confederates carried away 18,000,000 dollars. On, Saturday, the 26th nit., the Federal Commander Farragut demanded of the Mayor of New Orleans an unqualified surre nder of the ci He likewise demanded that the Federal flag should be hoisted on public buildings and all Confederate flags removed. He requested theMayor to use his authority to quell any disturbance, and concluded by saying :
+<p>On the 25th ult. the Federal gun-boats passed Ports Jackson and
+St. Philip, leaving those forts in the possession of the enemy, and
+proceeded up the Mississippi towards New Orleans. Immediately the
+citizens heard this news they destroyed all the cotton and
+steam-boats, except such as were necessary to transport coin,
+ammunition. &#x0026;c. Of coin it is said the Confederates carried
+away 18,000,000 dollars. On, Saturday, the 26th ult., the Federal
+Commander Farragut demanded of the Mayor of New Orleans an unqualified
+surrender of the city. He likewise demanded that the Federal flag
+should be hoisted on public buildings and all Confederate flags
+removed. He requested the Mayor to use his authority to quell any disturbance, and concluded by saying :--</p>
 
-I shall severely punish any persons committing such outrages as were witnessed yesterday by armed men dring upon helpless women and children forgiving expression to their pleasure at witnessing the old flag.
+<p><q>I shall severely punish any persons committing such outrages as were wit-nessed yesterday by armed men firing upon helpless women and children forgiving expression to their pleasure at witnessing the old flag.</q></p>
 
-The Mayor replied that, for the sake of the women and children, General Lovell had evacuated the city, leaving the administration of affairs to the civil authorities :
+<p>The Mayor replied that, for the sake of the women and children, General Lovell had evacuated the city, leaving the administration of affairs to the civil authorities :--</p>
 
-To surrender an undefended city (he continued) would be an unmeaning ceremony. The city is yours by power of bratel force, not by the choice or consent of the inhabitants. It is for you to determine the fate that awaits us here. There is no man in our midst whose hand or head woeld no' be paralysed at hoisting. a flag not of our own adoption. You may trust in the honour of the inhabitants, though you might not count on their submission to unmerited wrong. Your occupancy of the city does not transfer the allegiance of the inhabitants from the lPovernment of their choice to one which they, have deliberately repudiated. They yield the obedience which the conqueror is entitled to exact from the conquered.
+<p><q>To surrender an undefended city (he continued) would be an unmeaning ceremony. The city is yours by power of brutel force, not by the choice or consent of the inhabitants. It is for you to determine the fate that awaits us here. There is no man in our midst whose hand or head would not be paralysed at hoisting a flag not of our own adoption. You may trust in the honour of the inhabitants, though you might not count on their submission to unmerited wrong. Your occupancy of the city does not transfer the allegiance of the inhabitants from the Government of their choice to one which they have deliberately repudiated. They yield the obedience which the conqueror is entitled to exact from the conquered.</q></p>
 
- A battalion of Federal marines had occupied the city. General
+ <p>A battalion of Federal marines had occupied the city. General
 
 Butler's forces had landed on the shore of Lake Poncharirain and
 
-were within a few miles of the city. The Confederate General LoveR
+were within a few miles of the city. The Confederate General Lovell
 
 fell back to Camp Moore, on the Jackson railroad, seventy-five miles
 
-distant from New Orleans, on the road to Memphis, to effect a junction with General Beauregard, who is said to have evacuated Corinth.
+distant from New Orleans, on the road to Memphis, to effect a junction with General Beauregard, who is said to have evacuated Corinth.</p>
 
-The Federals have since occupied Baton Rouge, the capital o
+<p>The Federals have since occupied Baton Rouge, the capital of
 
-Louisiana. it is situated on the left bank of the river, about 120 miles above New Orleans.
+Louisiana. It is situated on the left bank of the river, about 120 miles above New Orleans.</p>
 
-A great battle is said to be imminent at Grand Junction, near Memphis, between Generals Halleck and Beauregard. Both have beei largely reinforced. General Hahleck'a army is estimated at 160,00 men. The Federal Government has forbidden the transmission of telegrams frçm Pittsburg Landing.  -
+<p>A great battle is said to be imminent at Grand Junction, near Memphis, between Generals Halleck and Beauregard. Both have been largely reinforced. General Halleck's army is estimated at 160,00 men. The Federal Government has forbidden the transmission of telegrams from Pittsburg Landing.</p>
 
-Intelligence has been received from General Beunaide operating in North Carolina. Fort Macon surrendered to him on the 25th ult. The garrison retired with the hono-axa of war. The Federal loss was maven killed and eighteen wounded. This opens Beaufort to theFederals, and leaves to the Confederates in North Carolina only the
+<p>Intelligence has been received from General Burnside operating in
+North Carolina. Fort Macon surrendered to him on the 25th ult. The
+garrison retired with the honours of war. The Federal loss was seven
+killed and eighteen wounded. This opens Beaufort to the Federals, and leaves to the Confederates in North Carolina only the
 
-port of Wilmington.
+port of Wilmington.</p>
 
-Before Yorktown nothing decisive had occurred. A company of
+<p>Before Yorktown nothing decisive had occurred. A company of
 
 a Massachusetts regiment had captured an advanced lunette near
 
-the head of the Warwick, with the loss of sixteen men, On the 26th
+the head of the Warwick, with the loss of sixteen men. On the 26th
 
-nit. General M'Clellaij telegraphed, "In spite of the, rain, our work
+ult. General M'Clellan telegraphed, "In spite of the rain, our work
 
-progresses well."
+progresses well."</p>
 
-nerel Banks's advance has been checked by the destruction of the bridges across the Shenandoah. General M'Dowell has made no further movement.
+<p>General Banks's advance has been checked by the destruction of the bridges across the Shenandoah. General M'Dowell has made no further movement.</p>
 
-'WASE1NG0N.
+<p rend="center">WASHINGT0N.</p>
 
-The French Minister, M. Henri Mercier, after his return to Washington, visited the State Department, and had a long interview with Secretary Seward. The Swedish and Danish Ministers had returned to Washington without proceeding to Richmond. The Secretary of the Spanish Legation had left Fortress Monroe under a flag of truce for the South.
+<p>The French Minister, M. Henri Mercier, after his return to Wash-ington, visited the State Department, and had a long interview with Secretary Seward. The Swedish and Danish Ministers had returned to Washington without proceeding to Richmond. The Secretary of the Spanish Legation had left Fortress Monroe under a flag of truce for the South.</p>
 
-President Lincoln had visited the French frigate Gassendiat Wash
+<p>President Lincoln had visited the French frigate Gassendi at Wash
 
-ington Navy-yard. The French Minister received Mr. Lincoln on board. The yards of the vessel were manned and a national salutefired on the President's arrival and departure.
+ington Navy-yard. The French Minister received Mr. Lincoln on
+board. The yards of the vessel were manned and a national salute fired on the President's arrival and departure.</p>
 
-Congress had adopted a vote of censure on ox-Secretary Cameron of the War Department for adopting, with regard to army contracts, a policy highly injurious to the public. A similar vote with regard to the conduct of Secretary Welles of the Navy had been negatived.
-q']ie Senate has confirmed the appointment of Charles Lathrop as
+<p>Congress had adopted a vote of censure on ex-Secretary Cameron of the War Department for adopting, with regard to army contracts, a policy highly injurious to the public. A similar vote with regard to the conduct of Secretary Welles of the Navy had been negatived.</p>
+<p>The Senate has confirmed the appointment of Charles Lathrop as
 
-collector of Customs at. New Orleans.
+Collector of Customs at New Orleans.</p>
 
-A Congre0tai Committee bad issued a report that the Confederates
+<p>A Congressional Committee had issued a report that the Confederates
 
 committed inhuman atrocities upon the Federal dead and wounded
 
-after the battle of Ball Ran.
+after the battle of Bull Run.</p>
 
-The House of Representatives had passed resolutions empowering
+<p>The House of Representatives had passed resolutions empowering
 
-the ecretaXY of the Treasury to prevent the shipment of goads to
+the Secretary of the Treasury to prevent the shipment of goods to
 
-foreign ports, -whence they axe reshipped Confederate parts.
+foreign ports, whence they are reshipped to Confederate parts.</p>
 
-The Hence Committee of Ways and Means had reported an appro-priation amounting to 226,000,000 dole., for the support of the army
+<p>The House Committee of Ways and Means had reported an appropriation
+amounting to 226,000,000 dols., for the support of the army during the year ending June 30, 1863.</p>
 
-daring te year endipg June 30, 1863.
+<p rend="center">MISCELLANEOUS</p>
 
-ssmcxLLAiEOVS.
+<p>The Hon.. Edward Everett has made an appeal to the public in behalf o Lieutenant Worden, of the Monitor, whose sight, he says, has been seriously injured, and health greatly, if not permanently, impaired. Lieutenant Worden has a wife and children dependent on
 
-The HOD. Edward Ev€rett has made an appeal to the public in behalf o Lieutenant Worth,n, of the Monitor, whose sight, he says, has been seriously injured, and health greatly, if not permanently, impaired. Lieutenant Worden has a wife and children dependent on
+him for support.</p>
 
-him for S)jOrt.
+<p>The New York papers publish the text of the "Seward-Lyons"
 
-The New York papers publish the text of the "Seward-Lyons"
+treaty for the suppression of the slave trade. It consists of twelve
 
-treaty for the suppression of the slave trade It consists of twelve
-
-articles. avmg very little authentic home or war news to lay before their readers, the journalists give free rein to the imagination of their Washington correspondents, who have concocted several "sensation" Cain aras relating to French mediation and intervention, and the with. drawal of the Opposition members of Congress in a body, as a protest against the antislavery policy of the Administration.
-or mangled.</p></div2>
+articles. Having very little authentic home or war news to lay before
+their readers, the journalists give free<orig reg="reign">rein</orig> to the imagination of their Washington correspondents, who have concocted several "sensation" canards relating to French mediation and intervention, and the with-drawal of the Opposition members of Congress in a body, as a protest against the antislavery policy of the Administration.</p></div2>
 
 
 
