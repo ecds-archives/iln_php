@@ -40,6 +40,8 @@ print "<html>
 	src=\"http://cti.library.emory.edu/iln/cookies.js\"></script>
 <script language=\"Javascript\" 
 	src=\"http://cti.library.emory.edu/iln/content-list.js\"></script>
+<script language=\"Javascript\"
+       src=\"http://cti.library.emory.edu/iln/image_viewer/launchViewer.js\"></script>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"http://cti.library.emory.edu/iln/contents.css\">
  </head>";
 }
