@@ -27,6 +27,7 @@
 <xsl:element name="head">
 <xsl:variable name="quote">"</xsl:variable>
   <xsl:element name="title">Image Viewer</xsl:element>
+
   <xsl:element name="script">
     <xsl:attribute name="language">Javascript</xsl:attribute>
  	window.imagename ="http://chaucer.library.emory.edu/iln/images/ILN<xsl:value-of
