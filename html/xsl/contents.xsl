@@ -5,7 +5,7 @@
 	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
 	xmlns:xq="http://metalab.unc.edu/xq/">
 
-<xsl:param name="mode"/>
+<xsl:param name="mode">article</xsl:param>
 <xsl:variable
 name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN</xsl:variable>
 <xsl:variable name="image_url">http://chaucer.library.emory.edu/iln/images/</xsl:variable>
@@ -14,6 +14,8 @@ name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamin
 <xsl:variable name="xsl_imgview">imgview.xsl</xsl:variable>
 <xsl:variable name="query"><xsl:value-of select="ino:response/xq:query"/></xsl:variable>
 <xsl:variable name="total_count" select="count(//div1 | //div2[count(figure) > 0])" />
+
+<xsl:variable name="cookie_name"><xsl:value-of select="concat('ILN-', $mode)"/></xsl:variable>
 
 <!-- <xsl:include href="ilnshared.xsl"/> -->
 
@@ -26,8 +28,9 @@ name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamin
 <!--     <xsl:attribute name="onload">toggle_init(<xsl:value-of
 select="$total_count"/>)</xsl:attribute> -->
 
-    <xsl:attribute name="onload">load_status(<xsl:value-of select="$total_count"/>)</xsl:attribute> 
-    <xsl:attribute name="onunload">store_status(<xsl:value-of select="$total_count"/>)</xsl:attribute> 
+
+    <xsl:attribute name="onload">load_status(<xsl:value-of select="$total_count"/>, '<xsl:value-of select="$cookie_name"/>')</xsl:attribute> 
+    <xsl:attribute name="onunload">store_status(<xsl:value-of select="$total_count"/>, '<xsl:value-of select="$cookie_name"/>')</xsl:attribute> 
 
 
   <xsl:element name="noscript">

@@ -29,65 +29,39 @@ function toggle_gif (id) {
   }
 }
 
-
-// Initialize the lists & hide sublists
-/* function toggle_init (max) {
-  for (i=1; i <= max; i++) { 
-    if(document.getElementById) { 
-      a=document.getElementById('gif_list'+i); 
-      // initialize img status  
-        a.status = "open"; 
-    } 
-    // hide ul blocks 
-    //    toggle_ul ('list'+i); 
-  } 
-} 
-
-*/
-
-
 // store current display properties in cookies
-function store_status (max) {
-  var crumb = new Cookie(document, "content-list-state");		
+function store_status (max, name) {
+  var crumb = new Cookie(document, name);		
 
-  // for each list & each graphic, create a cookie and store current setting 
+  // Note: only lists that are open/visible will be stored here, 
+  // in an attempt to keep cookie size minimal
   for (i = 1; i <= max; i++) { 
     if(document.getElementById) { 
       var list = document.getElementById('list' + i); 
-      //var clist = new Cookie(document, 'list' + i);
-      //clist.store(list.style.display);
-      crumb["list" + i] = list.style.display;
-
-      var gif = document.getElementById('gif_list'+i); 
-      //var giflist = new Cookie(document, 'gif_list' + i);
-      //giflist.store(gif.status);
-      //set_cookie('gif_list' + i, list.style.display);
-      crumb["gif" + i] = gif.status;
+      // only set cookie if list is being displayed (otherwise default)
+      if (list.style.display == "block") {	// only set cookie if = 1
+	crumb["L" + i] = 1; 
+      }
     }
   }
   crumb.store();
 }
 
 // store current display properties in cookies
-function load_status (max) {
-  var crumb = new Cookie(document, "content-list-state");
-  //  var gif_crumb = new Cookie(document, "content-list-images-state");
+function load_status (max, name) {
+  var crumb = new Cookie(document, name);
   crumb.load();
-  //  gif_crumb.load();
-  // for each list & each graphic, create a cookie and store current setting 
+  // for each list & each graphic, load current setting from cookie 
   for (i = 1; i <= max; i++) { 
     if(document.getElementById) { 
       var list = document.getElementById('list' + i); 
-      //var clist = new Cookie(document, 'list' + i);
-      //list.style.display = clist.load();
-      //list.style.display = get_cookie('list'+i);
-      list.style.display = crumb["list" + i];
+      // list:  1 = block, 0 or undefined = none
+      list.style.display = (crumb["L" + i]) ? "block" : "none";
 
       var gif = document.getElementById('gif_list'+i); 
-      //var giflist = new Cookie(document, 'gif_list' + i);
-      //gif.status = giflist.load();
-      //gif.status = get_cookie('gif_list'+i);
-      gif.status = crumb["gif" + i];
+      // gif must correspond to list in being open/closed
+      // list icon : 1 = open, 0 = closed
+      gif.status = (crumb["L" + i]) ? "open" : "closed";
       // default image is closed; change image if necessary
       if (gif.status == 'open')  gif.src = base_url + "open.gif";
     } 
