@@ -63,7 +63,7 @@ a:hover   { }
 
 tr.label td { font-weight: bold; text-decoration: underline }
 td.label { font-weight: bold; }
-td.figure { text-align: center; vertical-align: center; }
+td.figure { text-align: center; vertical-align: middle; }
 
 img { border: 0 }
 
