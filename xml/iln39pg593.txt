@@ -3,67 +3,88 @@ VOLUME 39
 
 {Vol. 39 issue 1121 12-14-1861 Pg. 593}
 
-THE CIVIL WAR IN AMERICA.
+<div2>
+<head> THE CIVIL WAR IN AMERICA.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1121</biblScope> 
+           <biblScope type="pages">p. 593</biblScope> 
+           <date value="1861-12-14">December 14, 1861</date>
+	</bibl>
 
-By the arrival of the screw-steamer Etna we have received New Yek journals of the 30th ult.
 
-THE OUTRAGE ON VIE -rrtr%,r.
+<p>By the arrival of the screw-steamer Etna we have received New York journals of the 30th ult.</p>
 
-The journals of New York, Boston, and Philadelphia, as a general rule, pcak much more hesitatingly of time legality of Captain ViIks s act than they did a week previously. They condescend to contemplate the josibiIity of rcelamatioims on the pert 01' Great Britain, and of yielding thereto. The 'J','ihmsue says :-" If the British Government can be induced for the sake of reclaiming them" (Mesr. Mason and SikIell) "to talc the highest American ground in favour of neutral maritime rights, we shall have sold them for a great deal more than they are wortl," The ll'om'lmf acknowledges that the Northerners have hitherto been unjust to the British Government in complaining that it recognised the South as a belligerent Power. The President must noon take the same position.
+<p rend="center">THE OUTRAGE ON THE TRENT.</p>
 
-It has transpired that no cleepatches have been found in the trnnk
+<p>The journals of New York, Boston, and Philadelphia, as a general rule, speak much more hesitatingly of the legality of Captain Wilks's act than they did a week previously. They condescend to contemplate the possibility of reclamations on the part of Great Britain, and of yielding thereto. The <hi rend="italic">Tribune</hi> says:-" If the British Government can be induced for the sake of reclaiming them" (Messrs. Mason and Slidell) "to take the highest American ground in favour of neutral maritime rights, we shall have sold them for a great deal more than they are worth." The <hi rend="italic">World</hi> acknowledges that the Northerners have hitherto been unjust to the British Government in complaining that it recognised the South as a belligerent Power. The President must soon take the same position.</p>
 
-ef the Ambassadors. Time New Yom', 'lines remarks upon this unwelcome discovery :-" In that case time letter of much of time reasoning employed in justification of the act of Captain Wmlks may become augatory."
+<p>It has transpired that no dispatches have been found in the trunks of the Ambassadors. The <hi rend="italics">New York Times</hi> remarks upon this unwelcome discovery :- "In that case the <hi rend="italic">letter</hi> of much of the reasoning employed in justification of the act of Captain Wilks may become nugatory."</p>
 
-The lawyers have begun to Suspect that the Laurens and other cases have been misrepresented by Messrs. George Somner and Everett, while the moneyed sum still refuse to accept the assurances of the all that it was "all right." It was feared, however, that the news of time turning of the Harvey Birch by the Nashville would again inihtnie the minds of time people against England.
+<p>The lawyers have begun to suspect that the Laurens and other cases have been misrepresented by Messrs. George Sumner and Everett, while the moneyed men still refuse to accept the assurances of the journals that it was "all right." It was feared, however, that the news of the turning of the Harvey Birch by the Nashville would again inflame the minds of the people against England.</p>
 
- CAPTAIN WILES' RECEPTION IN DOSTON.
+<p rend="center">CAPTAIN WILKS' RECEPTION IN BOSTON.</p>
 
-The Bostonians, usually so much more friendly than the New Yorkers, have on this occasion not acted in a manner worthy of their well-earned reputation. A public banquet at the Revere I louse was got imp for the hero of the hour, and nothing could exceed the bad taste of the Massachusetts speakers (among whom were Judges Bigelow and Russell, Governor Andrew, and Mayor Rice), whether their insolent bombast was levelled at their two umofortmi,mat captives or at the Government and people of a friendly nation.
+<p>The Bostonians, usually so much more friendly than the New Yorkers, have on this occasion not acted in a manner worthy of their well-earned reputation. A public banquet at the Revere House was got up for the hero of the hour, and nothing could exceed the bad taste of the Massachusetts speakers (among whom were Judges Bigelow and Russell, Governor Andrew, and Mayor Rice), whether their insolent bombast was levelled at their two unfortunate captives or at the Government and people of a friendly nation.</p>
 
-BELLIGERENT OPERATIONS ON LAND AND SEA.
+<p rend="center">BELLIGERENT OPERATIONS ON LAND AND SEA.</p>
 
-The Federals had taken possession of the island of Tybee, at the mouth of the Savannah River. The people of that city were flying paaicstruick into the interior. The Confederates had blocked up the inlet leading to Savannah.
+<p>The Federals had taken possession of the island of Tybee, at the mouth of the Savannah River. The people of that city were flying panicstruck into the interior. The Confederates had blocked up the inlet leading to Savannah.</p>
 
-The Federals at hilton Island found the place vary rmnlmealthy, arid were suffering munch from fever and ague and congestive fever. All the teamsters and camp-followers were leaving for time North. The Federals have also occupied a post on St. helena Sound, fifteen miles aorth of Port Royal.
+<p>The Federals at Hilton Island found the place vary unhealthy, and were suffering much from fever and ague and congestive fever. All the teamsters and camp-followers were leaving for the North. The Federals have also occupied a post on St. Helena Sound, fifteen miles north of Port Royal.</p>
 
-On the 19th wit. Colonel Brown opened fire from Fort Picken on Pensacola, Florida. On the 2lthm the fight was still going on, we know not certainly with what result. The Southerners admit that time Navyyard was destroyed, with all its stores ; that Pensacola had been evacuated; and that General Bragg had called for reinforcements. On the other band, they claim to have driven oil' live vessels o war, to have riddled the Niagara with balls, and thoroughly disabled the Colorado. This is the Southern account ; it will probably be another week before the Northern report reaches us.
+<p>On the 19th ult. Colonel Brown opened fire from Fort Pickens on Pensacola, Florida. On the 24th the fight was still going on, we know not certainly with what result. The Southerners admit that the Navyyard was destroyed, with all its stores; that Pensacola had been evacuated; and that General Bragg had called for reinforcements. On the other hand, they claim to have driven off five vessels of war, to have riddled the Niagara with balls, and thoroughly disabled the Colorado. This is the Southern account; it will probably be another week before the Northern report reaches us.</p>
 
- The armies of time Potomac and the Upper Poto mac were engsgei in butting themselves. It is still, however, strenuously denied that they are going into winter quarters.
+<p>The armies of the Potomac and the Upper Potomac were engaged in hutting themselves. It is still, however, strenuously denied that they are going into winter quarters.</p>
 
-'1 lie largest body of loon ever reviewed on the American continent was passed in review by General MClellnn, at Washington, on the 20th of November. The troops consisted of seventy-six i'egiineuts of infantry, seven of cavalry, and seventeen batteries, in all about 70,000 men.
+<p>The largest body of men ever reviewed on the American continent was passed in review by General M'Clellan, at Washington, on the 20th of November. The troops consisted of seventy-six regiments of infantry, seven of cavalry, and seventeen batteries, in all about 70,000 men.</p>
 
-Commerce in Missouri below St. Louis will be conducted by the Federal Government only.
+<p>Commerce in Missouri below St. Louis will be conducted by the Federal Government only.</p>
 
-The Jiiugai had run into Charleston with her valuable and timely cargo. On the other hand, the Federal ships have caiettreI several vessels laden with contraband of war.
+<p>The Fingal had run into Charleston with her valuable and timely cargo. On the other hand, the Federal ships have captured several vessels laden with contraband of war.</p>
 
-THE POLICY OF EMANCII'ATLON.
+<p rend="center">THE POLICY OF EMANCIPATION.</p>
 
-On this question Secretary Smith, a member of Mr. Lincoln's Cabinet, has expressed himself to the effect that the views of Mr. Crmmneron were not those of the Administration.
+<p>On this question Secretary Smith, a member of Mr. Lincoln's Cabinet, has expressed himself to the effect that the views of Mr. Cameron were not those of the Administration.</p>
 
-THE CONFEDERATE STATES.
+<p rend="Center">THE CONFEDERATE STATES.</p>
 
-Congress had passed a resolution for remnovin" time seat of Government
+<p>Congress had passed a resolution for removing the seat of Government from Richmond to Nashville, Tennessee. Perhaps one reason for this step is the destruction of the costly bridges on the Virginia and Tenneessee Railroad, which imperils the connection between Richmond and the South-western States.</p>
 
-from Richmond to Nashville, Tennessee. Peshaps one reason for this step is the destruction of the costly bridges on the Virginia and Tenneessee Railroad, which imperil the connection between Richmond mmd the South-western States.
+<p>The Union men of North Carolina formally established a provisional State Government at Hatteras inlet on the 18th ult.</p>
 
-The Union teen of North Carolina formally established a provisional State Government tit limitteimus inlet on time 18th mmli.
+<p>A portion of the people of Kentucky and Missouri have passed Secessionn ordinances.</p>
 
-A portion of time people of Kentucky and Missouri have passed
+<p rend="center">PRESIDENT DAVIS'S MESSAGE.</p>
 
-I Secc"ion ordinances.
+<p>President Davis congratulates Congress on the progress of domestic manufactures among them. He speaks moderately of the great deeds of the Confederate army and of the high spirit of patriotism with which they are animated. He says:-
+<p>A succession of glorious victories at Bethel, Bull Run, Manassas, Springfield Lexington, Leesburg, and Belmont, has checked the wicked invasion which greed of gain and the unhallowed lust of power brought upon our soil, and has proved that numbers cease to avail when directed against a people fighting for the sacred right of self-government and the privileges of freemen. After seven months of war the enemy have not only failed to extend their occupancy of our soil, but new States and territories have been added to our confederacy; while, instead of their threatened march of unchecked conquest, they have been driven at more than one point to assume the defensive, and, upon a fair comparison between the two belligerents as to men, military means, and fiancial condition the Confederate States are relatively much stronger now than when the struggle commenced.</p>
 
-S
+<p>After referring to the occurrences in Kentucky and Missouri, and, acknowleging that the postal service was entirely disarranged, he puts as good a face as possible on the condition of the Confederate treasury, which, however, is evidently driven to the extremity of issuing baseless promises to pay. By constructing forty miles of railroad between Danville in Virginia, and Queensborough, in North Carolina, a third through line of communication could be opened from North to South. He urgently advises Congress to give aid to the company organised for its construction and administration. He scoffs at the very idea of reconstructing the Union. "Our people now look with contemptuous astonishment on those with whom they have been so recently associated. They shrink with aversion from the bare idea of renewing such a connection :"-</p>
+<p>When they see a President making war without the assent of Pssgrcsovnlnen they behold Jsnlges threatened because they tniril,italii the ci nt of let!nsns corpus, so sacred to freemenwhen they see justice nod law trampled tinder tine nestn¥d heel of military authority, send nnpeiglnt insist and Innocent wonnein dragged to distant tlningcons-wheo they Sun! nil this l,olermntenl aims! aptslnude'l by a )eople who hail been in the full einjoytnnent of Iremlomns but a few mouths ago,' they believe that liners must be sonic radical incompatibility lnotsvesn such a people stint tlseintclves. With such a people eve musty be cootenst to live nit psa, bitt the separation is final, and for the imndepcnnleisce we have susertsd sea wilt accept no alternative.
 
-PRESIDENT DAVIS'S MESSAGE.
+After denouncing the barbarous manner in which the United States have conducted the war, lie accuses them of deeming to excite a servile war by the invasion of South Carolina, and warns them that in such a war they would forfeit all claims to be considered as prisoners of war. Of tIn seizsti'c of Messrs. Mason and Shidell lie says,
 
-President Davis congratulates Congress on the p regress of domestic manufactures among them. He speaks moderately of the great doris of the Confederate army and 0f the bight spirit of patriotism with
+Time U silted Slates have thus elnnissed it gems-rot jurisdiction over the high sese, and, entering a British ship, sailing under its country's lutz, violates! the rights of cunisasse, for the most part b, Id sacrn'nl, even luissnig bmsrbarinnise, ny
 
- which they are animated, lie says:
+-elzisg our Ministers whilst under the protection and within the doninniono of
 
-A simeees,sion of glorIous victories at Bethel, Bull ltmus,Mmommessas,Sprimigfheld Lcaingtoim, Lcebmmrg, and Biilmmmomit, has checked time wicket invasion which greed of gain and time unhallowed lust of power brought upon our soil, amid has proved that numbers cease to avail when directed against a people li5lmtimig for the sacred right of self-government and this privileges of frecimien. After seven months 01 war time enemy have not only failed to extend their occupancy of our soil, but new States amid territories have been added to our confederacy; while, instead of their threatened march of unchecked conquest, they have been driven at more than one point to assume time defensive, and, upon a fair comparison between time two belligerents as to men, military ilmeium9, and misancial condition the Confedermmts, States are relatively much stronger mmmv than when time struggle commenced.
+in neutral nation.
 
-After referring to time occurrences in Kentucky and Missouri, and,
+These gentlemen were as much tinder the jurisdiction of th's BritIsh Cavern.
+
+Molt ipso that ship and beneath that hug as if they had been On its soil, and
+
+ a ,h,nhins oil the pest of the I) muon! Stats n to snice thtn'nnt in the struts (if Lnnnnlon mould have menu ins %% ell founule,l as that to apprehend thne,nt whore they were inuhinit. Had they been nualefactorn, and citizens even of the ilnitesi States. they could not have been am-rooted on a hinitlsin still) or on l3ittlnh soil unless tinder line "sen-sn provisions of ii irens v nuns.! nn'-n'ornilng to the forms therein provided for the extradition of eriinhmnsLn. IJut rights the snot suies'nnI Sean to less lost all respect in their eyes.
+
+The close of Mr. T)avis's Message is evidently levelled rather at Great
+
+Britain and France than at the body lie professes to be addressing. On the subjects of the blockade and time growth of cotton lie says
+
+Perhaps we had time right, if see had chosefl to eacrcise it, to ask to know
+
+
 
 whether the pci iiipie, that blockades to be bimmmhhng ,mmim5t be elicit mih, solemnly smmnsmimirit hy time mlremit lowers hurdle at Paris, is to be generally cliforcii'l or OpIhicit Silly to particular cases.
 
@@ -112,29 +133,7 @@ It would be smocless now to discuss time question as to how the frontier hue of 
 Ntwfoimumdlameul being all island, and Nova Scotia nearly one, we may safely cmmiculate on our naval supremacy ensuring them p.otectiusmm from molestation; but with the important province of New Brunswick, the Canadao, and the British North-west Territory, our position is by no means so satisfactory, as in many instances in these latter provinces there is no physical boundary whatever, the British possessions and those of the United States being separated by little more than an imaginary line. 'limo trees have been cut down where it passes through time wilderness, and a few stones have been set up at long distances apart, and that is the only division that marks the territories of two peoples who, though coming of a common stock, spualcing the same language, and worshipping God in the same manner, yet are intent otulv oil dome cache other time largest possible amount of
 A sneceesion of gloslous victories at Bethel, Bull Run, Manasoa,Springflehl Lesisgion, Lccrburg, and Belmont, has checked the wicked invasion which greed of gain and the unhallowed lust of power brought upon our sail, ansi has proved that numbers cease to avail when directed against a people lighting for the sacred right of selhgovernatetit and the privileges of freation. After seven months 01 war the enemy have not only failed to extent! their occupancy of our soil, hilt new States and territories have been added to our confederacy; while, instead of their threatened march of unchecked conquest, they have been driven at more than one point to assume the defensive, and, upon a fair censparisoit between the two belligerents as to men, military mcmi's, and financial condition the Confederate States are relatively much stronger now than when the struggle commenced.
 
-After referring to the occurrences in Kentucky and Missouri, ant], acknowleging that the postal service was entirely disarranged, lie puts as good a face as possible on the condition of the Confederate treasury, which, however, isevidently driven to the extremity of issuing banelesspro. mites to gay. By constructing forty miles of railroad between Danville in Virginia, and Qucenoborough, in North Carolina, a third through line of communication could Lv rnpi'nesl from North to South. He urgently advises Congress to give aid to the company organised for its construction, and administration. He scoffs at the very idea of reconstructing the Union. "Our people now look with contemptuous astonishnient on those with whom they have been so recently associated. They sI*ink with aversion from the bare idea of renewing such a connection :"-
 
- When they sets a President n,akl eg war without line aeon-,,t of Pssgrcsovnlnen they behold Jsnlges threatened because they tniril,italii the ci nt of let!nsns corpus, so sacred to freemenwhen they see justice nod law trampled tinder tine nestn¥d heel of military authority, send nnpeiglnt insist and Innocent wonnein dragged to distant tlningcons-wheo they Sun! nil this l,olermntenl aims! aptslnude'l by a )eople who hail been in the full einjoytnnent of Iremlomns but a few mouths ago,' they believe that liners must be sonic radical incompatibility lnotsvesn such a people stint tlseintclves. With such a people eve musty be cootenst to live nit psa, bitt the separation is final, and for the imndepcnnleisce we have susertsd sea wilt accept no alternative.
-
-After denouncing the barbarous manner in which the United States have conducted the war, lie accuses them of deeming to excite a servile war by the invasion of South Carolina, and warns them that in such a war they would forfeit all claims to be considered as prisoners of war. Of tIn seizsti'c of Messrs. Mason and Shidell lie says,
-
-Time U silted Slates have thus elnnissed it gems-rot jurisdiction over the high sese, and, entering a British ship, sailing under its country's lutz, violates! the rights of cunisasse, for the most part b, Id sacrn'nl, even luissnig bmsrbarinnise, ny
-
--elzisg our Ministers whilst under the protection and within the doninniono of
-
-in neutral nation.
-
-These gentlemen were as much tinder the jurisdiction of th's BritIsh Cavern.
-
-Molt ipso that ship and beneath that hug as if they had been On its soil, and
-
- a ,h,nhins oil the pest of the I) muon! Stats n to snice thtn'nnt in the struts (if Lnnnnlon mould have menu ins %% ell founule,l as that to apprehend thne,nt whore they were inuhinit. Had they been nualefactorn, and citizens even of the ilnitesi States. they could not have been am-rooted on a hinitlsin still) or on l3ittlnh soil unless tinder line "sen-sn provisions of ii irens v nuns.! nn'-n'ornilng to the forms therein provided for the extradition of eriinhmnsLn. IJut rights the snot suies'nnI Sean to less lost all respect in their eyes.
-
-The close of Mr. T)avis's Message is evidently levelled rather at Great
-
-Britain and France than at the body lie professes to be addressing. On the subjects of the blockade and time growth of cotton lie says
-
-Perhaps we had time right, if see had chosefl to eacrcise it, to ask to know
 
 Newfoundland being an island, and Nova Scotia nearly one, we may safely calculate on our naval supremacy ensuring them pt'otcctiou from molestation; but with the important province of New Brunswick, the Canadas, mid the British North-west Territory, our position is by no means so satisfactory, as in many instances in these latter provinces there is no physical boundary whatever, the British possessions and those of the United States being separated by little more than an imaginary line. The trees have been cut down whore it passes through the wilderness, and a few stones have been set tip at long distances apart, and that is the only division that marks the territories of two peoples who, though coming of a common stock, speaking the same language, and worshipping God in the same manner, yet are intent only on doing each other the largest possible amount of mischief. There i5 yet hope that it may not be so, but the threatening aspect of affairs compels its to look narrowly at our position on the frontier.
 
