@@ -59,6 +59,8 @@ include("xml/sidebar.xml");
 <table cellspacing="8" border=0>
 <tr><td>Sort by:</td>
 <td>
+  <input type="radio" name="sort" value="match" checked> Number of Matches</td>
+<td>
   <input type="radio" name="sort" value="date" checked> Date</td>
 <td>
   <input type="radio" name="sort" value="type"> Article Type</td>
