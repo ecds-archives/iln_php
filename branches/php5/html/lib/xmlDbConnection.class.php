@@ -1,11 +1,13 @@
 <?php 
 
 include "taminoConnection.class.php";
+include "existConnection.class.php";
 
 class xmlDbConnection {
 
   // connection parameters
   var $host;
+  var $port;
   var $db;
   var $coll;
   var $dbtype; 	// tamino,exist
@@ -40,7 +42,8 @@ class xmlDbConnection {
 
     $this->dbtype = $argArray['dbtype'];
     if ($this->dbtype == "exist") {
-      // create a tamino object, pass on parameters
+      // create an exist object, pass on parameters
+      $this->xmldb = new existConnection($argArray);
     } else {	// for backwards compatibility, make tamino default
       // create a tamino object, pass on parameters
      $this->xmldb = new taminoConnection($argArray);
@@ -73,11 +76,11 @@ class xmlDbConnection {
 
   // retrieve cursor, total count    (xquery cursor by default)
   function getCursor () {
-    $this->xmldb->getXqueryCursor();
+    $this->xmldb->getCursor();
   }
   // get x-query cursor (for backwards compatibility)
   function getXqlCursor () {
-    $this->xmldb->getCursor();
+    $this->xmldb->getXqlCursor();
   }
 
    // transform the database returned xml with a specified stylesheet
@@ -165,6 +168,9 @@ class xmlDbConnection {
     $string = preg_replace("/\s+/", " ", $string);
     // convert spaces to their hex equivalent
     $string = str_replace(" ", "%20", $string);
+    // convert ampersand & # within xquery (e.g., for unicode entities) to hex
+    $string = str_replace("&", "%26", $string);
+    $string = str_replace("#", "%23", $string);
     return $string;
   }
 
