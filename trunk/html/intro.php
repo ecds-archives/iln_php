@@ -9,7 +9,7 @@ html_head("Introduction");
 include("xml/head.xml");
 include("xml/sidebar.xml");
 
-<!-- actual introduction content -->
+//actual introduction content 
 include("xml/intro.xml");
 
 include("xml/foot.xml");
