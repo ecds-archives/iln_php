@@ -3765,7 +3765,7 @@ new and bold measure. Were the Northern States at peace, we imagine that so unce
 
 <p rend="center">THE QUEEN'S SPEEECH</p>
 
-<p> M<hi rend="italic">Y LORDS AND GENTLEMEN,</hi></p>
+<p> M<hi rend="smallcaps">Y LORDS AND GENTLEMEN,</hi></p>
 
 <p>We are commanded by her Majesty to assure you that her Majesty is
 
@@ -3793,16 +3793,8 @@ States have therefore remained unimpaired.</p>
 which have been manifested on this occasion by her North American
 subjects.</p>
 
-<div3 id=" iln40.1130.025" n="HOUSE OF LORDS.--THURSDAY."
-      type="article">
-<head>HOUSE OF LORDS.--THURSDAY.</head>
-<bibl>
-<biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1130</biblScope> 
-           <biblScope type="pages">p. 144</biblScope> 
-           <date value="1862-02-08">Feb. 8,1862</date>
-         <extent></extent>
-</bibl>
+
+     
 <p rend="center">HER MAJESTY' SPEECH.-THE ADDRESS.</p>
 
 <p>>The Royal Speech having been read by the Lord Chancellor and again by the clerk at the table,</p>
@@ -3853,7 +3845,7 @@ hardly on the Northern States, but hoped that they would be able
 themselves to settle their difficulties with the Southerners. Whether
 this struggle ended in the total disruption or in more firmly
 cementing the Union, her Majesty's Government would feel that they had
-done their duty to both sides by preserving a strict neutrality.</p></div3>
+done their duty to both sides by preserving a strict neutrality.</p></div2>
 
 <div2 id="iln40.1130.026" n="House of Commons--Thursday."
       type="article">
@@ -4170,7 +4162,7 @@ one of the accidents of war which are supposed to be included in the
 calculations of every prudent General. Up to the present time,
 therefore, the ninety days which were to end the campaign were melting
 away without any remarkable advance towards the desired
-object.</p></div2></div2>
+object.</p></div2>
 
 <div2 id="iln40.1131.004" n="Imperial Parliament" type="article">
 <head><hi rend="italic">IMPERIAL PARLIAMENT.</hi></head>
@@ -4246,7 +4238,7 @@ by international law.</p>
 
 would call attention to the subject of international law in reference to the
 
-rights of belligerents in America.</p>
+rights of belligerents in America.</p></div2>
 
 <div2 id="iln40.1131.005" n="The Tuscarora sailed" type="article">
 <head>The Tuscarora Sailed</head>
@@ -4413,7 +4405,7 @@ the United States to perhaps the finest seaport of our country is a monument of 
 
  <p>If, however, Mr. Seward concludes, the State of Maine feels herself
 
-aggrieved, the orders will be cheerfully modified</p>.
+aggrieved, the orders will be cheerfully modified.</p>
 
 <p rend="center">CONFEDERATE REPORT ON BULL RUN</p>
 
@@ -5161,7 +5153,7 @@ to record a victory; as ,it is, I must wait the issue of the fight.</p>
 <p>Some Illustrations by our Special Artist sent with this letter will
 be given in our next Number.</p></div2>
 
-<
+
 
 <div2 id="iln40.1134.001" n="America" type="article">
 <head>AMERICA.</head>
@@ -5233,7 +5225,7 @@ an amnesty for any past offences of treason or
 disloyalty. Extraordinary arrests will henceforth be made under the
 direction of the military authorities alone.</p>
 
-<p rend="center">MISCELLANEOUS</p>.
+<p rend="center">MISCELLANEOUS</p>
 
 <p>The New York and Philadelphia journals preserve an entire silence on
 the subject of Earl Russell's closing despatch on the Trent
@@ -5702,8 +5694,7 @@ generally denounced than before, especially that part of it which includes the e
 
 <p>The barque Ariel had been captured off Providence on suspicion of
 
-being intended for the slave trade.</p></div2>
-
+being intended for the slave trade.</p>
 
 <p>The condemned slave captain, Gordon, suffered the extreme penalty
 of the law in New York on the 21st ult. The wretched man took
@@ -5711,7 +5702,7 @@ strychnine the night previous, but by copious draughts of whisky he
 was kept alive until the hour of execution. The New York journals give
 highly-coloured accounts of the scene. Gordon was the first person
 ever hanged in the United Slates for participation in the slave
-trade.</p>
+trade.</p></div2>
 
 <div2 id="iln40.1135.003" n="The City of Baltimore" type="article">
 <head>The City of Baltimore</head>
@@ -5728,6 +5719,7 @@ trade.</p>
 from New York, reached, the Mersey last Saturday. She had been
 retarded on the voyage by her screw-propeller having come in contact
 with ice.</p></div2>
+
 <div2 id="iln40.1135.004" n="The Annie Childs" type="article">
 <head>The Annie Childs</head>
 <bibl>
@@ -6253,7 +6245,7 @@ Barrow, Roanoke Island, after its Capture by the Federalists.--From a Sketch by 
 <head>AMERICA.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1136</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
            <biblScope type="pages">p. 304</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          <extent></extent>
@@ -6369,7 +6361,7 @@ the American service. He was committed for trial.</p></div2>
 
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1136</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
            <biblScope type="pages">p. 305</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          <extent></extent>
@@ -6433,7 +6425,7 @@ of the Union Navy.</p></div2>
 <head>LATEST NEWS FROM ABROAD.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1136</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
            <biblScope type="pages">p. 305</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          <extent></extent>
@@ -6491,304 +6483,666 @@ proposing territorial government for the Seceded States. It was ordered to be la
 
 <p>The Merrimac is at the Norfolk Navy-yard. A large force of
 
-workmen is engaged in repairing her. Her prongs were seriously damaged, and the forward part of the vessel was stove in. These are being strengthened.</p>  -
+workmen is engaged in repairing her. Her prongs were seriously damaged, and the forward part of the vessel was stove in. These are being strengthened.</p>  
 
 <p>General Bragg has arrived at Memphis from Pensacola with 20,000 men. Memphis is reported to be in a state of anarchy, and martial law has been proclaimed there.</p>
 
 <p>General Halleck officially reports that the Union forces had driven
 
-the Confederates from Paris, Tennessee. The Federal loss was 100 killed and wounded.</p>  -
+the Confederates from Paris, Tennessee. The Federal loss was 100 killed and wounded.</p> 
 
-<p>A desperate fight, lasting one day, occurred on the 21st ultimo near Fort Craig, New Mexico, but with no decisive result.</p></div2>
-4]IE ILLUSTRATED LONDON NEWS
+<p>A desperate fight, lasting one day, occurred on the 21st ultimo
+near Fort Craig, New Mexico, but with no decisive result.</p></div2>
 
-LONDON, S2V2WAY, MARCH 29, 1982.
+<div2 id="iln40.1137.004" n="The Illustrated London News"
+      type="article">
+<head>THE ILLUSTRATED LONDON NEWS</head>
+<dateline rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH</hi>
+29, 1982.</dateline>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
+           <biblScope type="pages">p. 308</biblScope> 
+           <date value="1862-03-29">March 29,1862</date>
+         <extent></extent>
+</bibl>
 
-!rH news from America is of a very exciting hind. The grand
+
+
+<p>T<hi rend="smallcaps">HE</hi> news from America is of a very exciting kind. The grand
 
 army of the Potomac has at length advanced, and Washington
 
 is free from the presence of an enemy that at one time menaced
 
-the Capitol with destruction. From Mammas, the famous scene
+the Capitol with destruction. From Mannasas, the famous scene
 
-f Federal disaster, the Confederates have retreated, and where
+of Federal disaster, the Confederates have retreated, and where
 
-r when they will risk another stand is unknown; but their
+or when they will risk another stand is unknown; but their
 
-language continues to be of the most defiant character, and it is not probable that they are prepared to give up the game, la the West, fortune has again been against them; and at a place called Sugar Creek, in Arkansas, after an engagement of three -days, their General (Price) has been defeated with great elaughter. From Florida to Charleston the coast is stated -to be in Federal hands. Against this catalogue of defeats is to be set the prestige of a most dashing act of seamanship. The Merriniac, a "monster" cased in iron, has been brought into terrible action by the Confederates at flampton Roads, and her exploit was to sink the Cumberland Federal vessel with two of those deadly blows which oanonly be
+language continues to be of the most defiant character, and it is not probable that they are prepared to give up the game. In the West, fortune has again been against them; and at a place called Sugar Creek, in Arkansas, after an engagement of three days, their General (Price) has been defeated with great slaughter. From Florida to Charleston the coast is stated to be in Federal hands. Against this catalogue of defeats is to be set the prestige of a most dashing act of seamanship. The Merrimac, a "monster" cased in iron, has been brought into terrible action by the Confederates at Hampton Roads, and her exploit was to sink the Cumberland Federal vessel with two of those deadly blows which oanonly be
 
-inflicted by this new and fearful engine of war. She also com-pelled the surrender of another Federal vessel, the Congress; but ,was in her turn assailed by an enemy of her own kind, the Monitor. The monsters fought round after round, unable to injure each other for several hours, but at length the Confederate vessel received an injury which is variously described, according to the bias of the narrator. At all events, she retired, and is said to be shut up in Norfolk by barges sunk by the order of the President himself. The Con. federate victory-for we may so call the sending the cumber. land to the bottom, with a large number of the men on board, and the capture and burning of the Congress_may revive the spirits of the South, but can have no other effect. The forces f the North are now pouring in through the breaches, and New York is already discussing the question, "Whom shall we hang?" The Representatives have passed the President's bill for offering abolition of slavery to such Southern States as may desire it. All the interest of New York concentrates itself on the Potomac army and its advance; but whether this latter is likely to continue is a question for the Quartermasters.
-The fame of the Ian of Boss is perpetual, bat it is likely to be paralleled by the fame of the Man of Danvers. The most magnificent gift which has ever been offered by a single hand has been presented to the poor of London by an American merchant, George Peabody. He hands 4150,000 to five trustees, of whom Lord Stanley and Sir Emerson Tennexit are two, for the purpose of "ameliorating the poor and needy of this great metropolis, and to promote their comfort and happiness." In Danvers and in Baltimore, one his birthplace, the other a city where twenty years of Mr. Peabody's business life was passed, he has planted noble institutions, reserving this third crowning act of generosity for the foreign city where his commercial career has also prospered.
+inflicted by this new and fearful engine of war. She also compelled the surrender of another Federal vessel, the Congress; but ,was in her turn assailed by an enemy of her own kind, the Monitor. The monsters fought round after round, unable to injure each other for several hours, but at length the Confederate vessel received an injury which is variously described, according to the bias of the narrator. At all events, she retired, and is said to be shut up in Norfolk by barges sunk by the order of the President himself. The Confederate victory-for we may so call the sending the Cumberland to the bottom, with a large number of the men on board, and the capture and burning of the Congress_may revive the spirits of the South, but can have no other effect. The forces of the North are now pouring in through the breaches, and New York is already discussing the question, "Whom shall we hang?" The Representatives have passed the President's bill for offering abolition of slavery to such Southern States as may desire it. All the interest of New York concentrates itself on the Potomac army and its advance; but whether this latter is likely to continue is a question for the Quartermasters.<lb/></p>
 
-S'hrice happy man-enabled to pursue
+<p>The fame of the Man of Ross is perpetual, bat it is likely to be paralleled by the fame of the Man of Danvers. The most magnificent gift which has ever been offered by a single hand has been presented to the poor of London by an American merchant, George Peabody. He hands &#x00a3;150,000 to five trustees, of whom Lord Stanley and Sir Emerson Tennent are two, for the purpose of "ameliorating the poor and needy of this great metropolis, and to promote their comfort and happiness." In Danvers and in Baltimore, one his birthplace, the other a city where twenty years of Mr. Peabody's business life was passed, he has planted noble institutions, reserving this third crowning act of generosity for the foreign city where his commercial career has also prospered.</p>
 
-What all so wish, but want the power to do.
-BREAKING 2 OF THE ICE, NEW YOB.
+<p rend="center><hi rend="italic">thrice</hi> happy man--enabled to pursue
 
-Tan Engraving on page 307 from a drawing by Harry Penn, repr'
+What all so wish, but want the power to do.</p></div2>
 
-seats a striking scene that tales place annually about this time of the
+<div2 id="iln40.1137.005" n="Breaking Up of the Ice at New York"
+      type="illustration">
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
+           <biblScope type="pages">p. 307</biblScope> 
+           <date value="1862-03-29">March 29,1862</date>
+         <extent></extent>
+</bibl>
+<p>
+<figure entity="v40p307">
+<head>Breaking Up of the Ice at New York: A View from the East
+River. See supplement, page 320.</head>
+</figure>
+</p>
+</div2>
 
-year in the waters surrounding New York. It is occasioned princi
+<div2 id="iln40.1137.006" n="Breaking Up of the Ice, New York"
+      type="article">
+<head>BREAKING UP OF THE ICE, NEW YORK</head>.
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
+           <biblScope type="pages">p. 320</biblScope> 
+           <date value="1862-03-29">March 29,1862</date>
+         <extent></extent>
+</bibl>
+<p>T<hi rend="smallcaps">HE</hi> Engraving on page 307 from a drawing by Harry Penn, repr-
 
-p'ally by the early thaw and separating of the ice in the upper part of the Hudson River. Being brought down by the recedho? tide it flows round the city, and accumulatea in dense masses, partaculariy in the narrow channel dividing Long Island from the mainland, called the East River. Here it becomes at times so choked as to put a stop to navigation, and makes it impassable to everthing but the ferry-boats, these cutting their way by main force though masses of ice that look large enough to stop the progress of any vessel. A New York ferryboat presents a strange appearance to a person new to America, looking far more like a floating house, or even street, than anything else. These boats comprise two spacious saloons or cabins-one for the smoking and chewing fraternity, thso ther dedicated to the ladies, but used by the public in general. They are well provided with cushioned seats, and brilliantly lighted with gsa,. the larger ones carrying vast numbers of
+sents a striking scene that takes place annually about this time of the
 
-persons, as well as on for forty or fifty vehicles.
+year in the waters surrounding New York. It is occasioned princi-
 
-come so England tune 11).
+pally by the early thaw and separating of the ice in the upper part of
+the Hudson River. Being brought down by the receding tide it flows
+round the city, and accumulates in dense masses, partaculariy in the
+narrow channel dividing Long Island from the mainland, called the East
+River. Here it becomes at times so choked as to put a stop to
+navigation, and makes it impassable to everthing but the ferry-boats,
+these cutting their way by main force though masses of ice that look
+large enough to stop the progress of any vessel. A New York ferryboat
+presents a strange appearance to a person new to America, looking far
+more like a floating house, or even street, than anything else. These
+boats comprise two spacious saloons or cabins-one for the smoking and
+chewing fraternity, the other dedicated to the ladies, but used by the
+public in general. They are well provided with cushioned seats, and
+brilliantly lighted with gas. the larger ones carrying vast numbers of
+persons, as well as accommodation for forty or fifty
+vehicles.</p></div2>
 
-There is one consequence of this abortive colony important enough to entitle
+<div2 id="iln40.1137.007" n="The Civil War in America: Confederate
+      Prisoners in Camp Georgia, Roanoke Island--From a Sketch by Our
+      Special Artist" type="illustration"> 
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
+           <biblScope type="pages">p. 310</biblScope> 
+           <date value="1862-03-29">March 29,1862</date>
+         <extent></extent>
+</bibl>
 
-it to a place in history. Lane and his associates, by their constant intercourse with the Indians, had acquired a relish for their favourite enjoyment of smoking tobacco, to the use of which the credulity of that people not only ascribed a thousand imaginary virtues, but their superstition considered the plant itself as a gracious gift of the gods, for the solace of human kind, and the most acceptable offering which men can present to Heaven. They brought with them a specimen of this new commodity to England, and taught their countrymen the method of using it, which Raleigh and some young men of fashion fondly adopted. From imitation of them, from love of novelty, and from the favourable opinion of its salutary qualities entertained by several
+<p>
+<figure entity="v40p310">
+<head>The Civil War in America: Confederate Prisoners in Camp Georgia,
+Roanoke Island--From a Sketch by Our Special Artist</head>
+</figure>
+</p>
+</div2>
 
-Vicians, the practice spread among the English. The Spaniards and .Y~rauguese had, previous to this, introduced it in other parts of Europe. This habit of taking tobacco gradually extended from the extremities of the north to those of the south, and, in one form or other, seems to be equally grateful to the inhabitants of every climate; and by a singular caprice of the human species, no less 1lnexplicable than unexampled (so bewitching is the acquired taste for a weed of no manifest utility, and at first not only unpleasant but nauseous), that it has become almost as universal as the demands of those appetites originally implanted in our nature. Smoking was the first mode of taking tobacco in England; and we learn from the comic writers towards the close of the sixteenth century and the beginning of the seventeenth that this was deemed one of the accomplishments of amen of fashion and spirit.
+<div2 id="iln40.1137.008" n="Confederate Prisoners at Roanoke Island"
+      type="article">
+<head>CONFEDERATE PRISONERS AT ROANOKE ISLAND.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
+           <biblScope type="pages">p. 3320</biblScope> 
+           <date value="1862-03-29">March 29,1862</date>
+         <extent></extent>
+</bibl>
 
-A few days after Drake departed from Boanoke a small barges, dispatched by
+<p>A<hi rend="smallcaps">MONG</hi> the last batch of Sketches received from our Special Artist in
 
-Raleigh 'with a supply of stores for the colony, landed at the place where iii,
+America, illustrative of the Federal victory at Roanoke Island, was one showing the group of the Confederate prisoners at Camp Georgia; and this Illustration, forming a suitable close to the series, we give at page 310.</p>
 
-English had settled; but on finding it deserted by their countrymen they
+<p>The following quotation from the correspondence of the<hi rend="italic"> New York
 
-returned to England. The bargue wee hardly gone when Sir Richard Greenvilk
+Evening Post</hi> will serve well as a description to our Engraving of the
 
-appeared with three ships. After searching in vain for the colony which li had planted, without being able to learn what had befallen it, he leli fifteen oi his crew to keep possession of the island. This handful of men was soon over powered and cut in pieces by the savages.
-CONFEDERATE P11SONERS AT ROANOKE ISLAND.
+prisoners in their camp :--</p>
 
-AMONG the lest batch of Sketches received from our Special Artist in
+<p><q>"Camp Georgia has, been but recently established, and was in-
 
-America, illustrative of the Federal victory at Roanoke Island, was one showing the group of the Confederate prisoners at Camp Georgia; and this Illustration, forming a suitable close to the series, we give at page 810.
+tended as winter quarters for the rebel forces on the island. The buildings are extensive board barracks, with well-built log-houses for officers' quarters and storehouses, and the camp presented the appearance of a large and well-laid out village. The entire quarters will com-fortably accommodate 4000 men. They had made preparations for a siege and had laid in provisions for three months. There was plenty of good beef and pork, flour, salt, sugar, molasses, and hard bread, superior to that furnished to the Federal Army. The North Carolina troops were certainly well cared for; only in the matter of clothing both officers and men were shabbily provided. The Richmond Blues alone pretended to be dressed in uniform. The field and staff officers were habited accord-
 
-The following quotation from the correspondence of the New York
+ing to their taste and means, some of them respectably, but no two of
+ them wearing exactly the same uniform, while some wore coarse negro
 
-Evening Post will serve well as a description to our Engraving of the
+cloth of a doubtful grey colour. Instead of shoulder-straps the
+Colonels had three stars on either side of the coat collar the
+Lieutenant-Colonels two, and the Major one star. As for fancy
+decorations, both officers and men stuck a star or a bit of lace
+anywhere in their hats or clothes without reference to 'regulations,'
+and they looked  more like masqueraders than like military men. The
+appearance of the prisoners when drawn up in the camp was unfavourable
+in comparison with that of the Federal troops. Their shabby, often
+fantsastical, clothing and attempts at ornament might have had
+something to do in prejudicing one's mind against them, but they
+seemed generally coarse, vulgar, and uneducated men and boys, of all
+ages, from sixteen to sixty, and there was a large admixture of what the South itself considers 'poor white trash.' Among the officers there were many
 
-prisoners in their camp :
-
-"Camp Georgia has, been but recently established, and was in
-
-tended as winter quarters for the rebel forces on the island. The buildings are extensive board barracks, with well-built log-houses for officers' quarters and storehouses, and the camp presented the appearance of a large and well-laid out village. The entire quarters will comfortably accommodate 4000 men, They had made preparations for a siege and had laid in provisions for three months. There was plenty of good beef and pork flour, salt sugar, molasses, arid hard bread, superior to that furnished to the Federal Army. The North Carolina troops were certainly well cared for; only in the matter of clothing both officers and men were shabbily provided. The Richmond- Blues alone pretended to be dressed in uniform. The field and staff officers were habited accord
-
-¥ lug to their taste and means, some of them respectably, but no two of
-
-¥ them wearing exactly the same uniform, while some wore coarse negro
-
-cloth of a doubtful grey colour. Instead of shoulder-straps the Colonels had three stars on either aide of the coat collar the Lieutenant-Colonels two, and the Major one star. As for fancy ecorationa, both officers and men stuck a star or a bit of lace anywhere in their hats or clothes without reference to 'regulations,' and they looked
-
- ¥ more like inasqueraders than like military men. The appearance of the prisoners when drawn up in the camp was unfavourable in comparison with that of the Federal troops. Their shabby, often fantsa
-
-I tloa], clothing and attempts at ornament might have had something to do in prejudicing one's mind against them, but they seemed generally coarse, vulgar, and uneducated men and boys, of all ages, from sixteen
-
-¥ to sixty, and there was a large admixture of what the South itself considers 'poor white trash.' Among the officers there were many
-
-¥ gentlemen, and one or two very fine-looking men. They appeared,
+ gentlemen, and one or two very fine-looking men. They appeared,
 
 however, crestfallen, and looked as if they had played a desperate
 
-- game-and lost."
+ game--and lost."</q></p>
 
-Rosnoke Island, besides the interest which attaches to it from
+<p>Roanoke Island, besides the interest which attaches to it from
 
 recent events, has a special claim on the consideration of Englishmen
 
-as being the spot on which the first settlement in the New World was made by their forefathers. This event occurred in 1585. It was from Roazioke, moreover, that the use of tobacco was introduced into
+as being the spot on which the first settlement in the New World was made by their forefathers. This event occurred in 1585. It was from Roanoke, moreover, that the use of tobacco was introduced into
 
-1 England. Robertson, in his "History of America," gives the following
+ England. Robertson, in his "History of America," gives the following
 
-account of this inauspicious beginning of our settlements in America r Raleigh fisted out a squadron of seven small ships, under the commend of Mr Richard Grcenville, a man of honourable birth, and of couragesoundaunted as to be conspicuous even in that gallant age. But the spirit ofthat predatory war which the English carried on against Spain mingled with this scheme of settlement, and on this account, as well as from unacquaintance with a more direct and shorter course to North America, Greenville ssiled¥by.tho West India Islands. He spent some time in cruising among these and in taking prizes, so that it was towards the close of June befere he arrived on the coast of North America. He made some excursions into different parts of the continent round Pamuico and Albemarle Sounds; but as, unfortunately, he did not advance far enough towards the north to discover the noble bay of Chesapeake, he established the colony (Aug. Sd, 1585) on the island of Roanoke, an incommodious station, without any safe harbour, and almost uninhabited. This colony consisted of only one hundred and eighty persona, under the cornmend of Captain Lane, assisted by some men of note, the most distinguished of whom was Eariot, an eminent mathematician. Their chief employment, during a residence of nine months, was to obtain a more extensive knowledge of the
+account of this inauspicious beginning of our settlements in
+America:--</p>
+<p><q> Raleigh fitted out a squadron of seven small ships, under the
+command of Sir Richard Greenville, a man of honourable birth, and of
+courage so undaunted as to be conspicuous even in that gallant
+age. But the spirit of that predatory war which the English carried on
+against Spain mingled with this scheme of settlement, and on this
+account, as well as from unacquaintance with a more direct and shorter
+course to North America, Greenville sailed by the West India Islands. He spent some time in cruising among these and in taking prizes, so that it was towards the close of June befere he arrived on the coast of North America. He made some excursions into different parts of the continent round Pamlico and Albemarle Sounds; but as, unfortunately, he did not advance far enough towards the north to discover the noble bay of Chesapeake, he established the colony (Aug. 25, 1585) on the island of Roanoke, an incommodious station, without any safe harbour, and almost uninhabited. This colony consisted of only one hundred and eighty persona, under the command of Captain Lane, assisted by some men of note, the most distinguished of whom was Eariot, an eminent mathematician. Their chief employment, during a residence of nine months, was to obtain a more extensive knowledge of the
 
- e country; and their researches were carried on with greater spirit and reached further than could have been expected from a colony so feeble and in a station so disadvantageous. But from the earns impatience of indigent adventurers to acquire sudden wealth which gave a wrong direction to the industry of the Spaniards in their settlements, the greater pert of the English seem to have considered nothing as worthy of attention but mines of gold and silver. These they sought for wherever they came; these they inspired after with unwearied eagerness. The savages soon discovered the favourite objects which allured them, and artfully amused them with so many tales concerning pearl fisheries and rich mines of various metals, that Lane and his companions wasted their time and activity in the chimerical pursuit of these, instead of labouring to raise provisions for their own subsistence- On discovering the deceit of the
+ e country; and their researches were carried on with greater spirit and reached further than could have been expected from a colony so feeble and in a station so disadvantageous. But from the same impatience of indigent adventurers to acquire sudden wealth which gave a wrong direction to the industry of the Spaniards in their settlements, the greater part of the English seem to have considered nothing as worthy of attention but mines of gold and silver. These they sought for wherever they came; these they inspired after with unwearied eagerness. The savages soon discovered the favourite objects which allured them, and artfully amused them with so many tales concerning pearl fisheries and rich mines of various metals, that Lane and his companions wasted their time and activity in the chimerical pursuit of these, instead of labouring to raise provisions for their own subsistence. On discovering the deceit of the
 
 dIndians they were so much exasperated that from expostulations and
 
 reproaches they proceeded to open hostility. The supplies of provision which they had been accustomed to receive from the natives were, of course, withdrawn. Through their own negligence no other precaution had been taken for their support. Raleigh, having engaged in a scheme too expensive for his narrow funds, had not been able to send that recruit of stores with which Greenville had promised to furnish them early in the spring. The colony,
 
-e reduced to the tamest distress, and on the point of perishing with famine, was
+ reduced to the utmost distress, and on the point of perishing with famine, was
 
-- preparing to disperse into different districts of the country in quest of food, when Sir Francis Drake appeared with his fleet (June 1, laSS) retuinirg from a successful expedition against the Spaniards in the West Indies. A scheme which he formed, of furnishing Lane and his associates with such supplies as
+ preparing to disperse into different districts of the country in quest of food, when Sir Francis Drake appeared with his fleet (June 1, 1856) returning from a successful expedition against the Spaniards in the West Indies. A scheme which he formed, of furnishing Lane and his associates with such supplies as
 
-S might enable them to remain with comfort in their station, was disappointed
+ might enable them to remain with comfort in their station, was disappointed
 
-e by a sudden storm, in which a small vessel that he destined for their service was dashed to pieces; and, as he could not supply them with another, at their
+ by a sudden storm, in which a small vessel that he destined for their service was dashed to pieces; and, as he could not supply them with another, at their
 
-e joint request, as they were worn out with fatigue and famine, he carried them home to England (June 19).
+ joint request, as they were worn out with fatigue and famine, he carried them home to England (June 19).</q></p>
 
-There is one consequence of this abortive colony important enough to entitle
-THE RECENT FLOODS IN SACRAMENTO VALLEY,  CALIFORNIA.
 
-Accoms have from time to time appeared in this -Journal of the severe floods with which California was visited, at the close of last year said the beginning of the present one. In the present 1umbe± we are enabled to give three fliustrations from sketahss forwarded by Mr. Edward Viacher, of San Francisco, showing the lamentable condition of Sacramento City, which, as our readers are aware, suered terribly from the floods. The Views were taken by Mr. Viseher whilst on a visit to Sacramento City immediately after the third flood. Our Artist like many residents of San Francisco, went (lie says) to 'witness the extraordfnaiy sight of an ml lake thirty miles in width, with steam-boats plying over vast plains but lately furrowed by the plough, said all the customary means of communication reduced to the frail tenure of telegraph wires, or supplanted by feats of extraordinary daring He went prepared to see misers' and dejection for the doom apparently sealed, of the commercia' emporium of that region, the capital of the State;, he returned convinced that Sacramento will survive the present calamity, and' that Californian energy will recover from the heavy blow its interests have received. On arriving at the Levee in Sacramento, on the night of Jan. 23, the chaotic scene, faintly discernible by he light of the rising moon, with blocks of buil&?s emerging out of the engulfing waters, was impressive in the highest degree; It suggested the gloomiest forebodings; but a few hours later, with the rising sun, the gloom was dispelled. The impressiveness of the scene changed into the life and revelry of an aquatic car. rival; and the jostling of hundreds of boats in those desolate streets, the merry shouts, the passing jest, gave the impression of a merry crowd indulging in some favourite sport. Even the Pavilion, the headquarters of the relief committee, which had been successively the refuge of thousands who had become homeless, and at the time was the asylum of some hundred recpients of relief, seemed empty during the day. The main body was about, fighting the battle of life; and not until night would the ball
+<p><q>There is one consequence of this abortive colony important enough to entitle
+
+it to a place in history. Lane and his associates, by their constant intercourse with the Indians, had acquired a relish for their favourite enjoyment of smoking tobacco, to the use of which the credulity of that people not only ascribed a thousand imaginary virtues, but their superstition considered the plant itself as a gracious gift of the gods, for the solace of human kind, and the most acceptable offering which men can present to Heaven. They brought with them a specimen of this new commodity to England, and taught their countrymen the method of using it, which Raleigh and some young men of fashion fondly adopted. From imitation of them, from love of novelty, and from the favourable opinion of its salutary qualities entertained by several
+
+physicians, the practice spread among the English. The Spaniards and
+Portuguese had, previous to this, introduced it in other parts of
+Europe. This habit of taking tobacco gradually extended from the
+extremities of the north to those of the south, and, in one form or
+other, seems to be equally grateful to the inhabitants of every
+climate; and by a singular caprice of the human species, no less
+inexplicable than unexampled (so bewitching is the acquired taste for
+a weed of no manifest utility, and at first not only unpleasant but
+nauseous), that it has become almost as universal as the demands of
+those appetites originally implanted in our nature. Smoking was the
+first mode of taking tobacco in England; and we learn from the comic
+writers towards the close of the sixteenth century and the beginning
+of the seventeenth that this was deemed one of the accomplishments of
+a man of fashion and spirit.</q></p>
+
+<p><q>A few days after Drake departed from Roanoke a small barque, dispatched by
+
+Raleigh with a supply of stores for the colony, landed at the place where the
+
+English had settled; but on finding it deserted by their countrymen they
+
+returned to England. The barque was hardly gone when Sir Richard Greenville
+
+appeared with three ships. After searching in vain for the colony
+which he had planted, without being able to learn what had befallen
+it, he left fifteen of his crew to keep possession of the island. This
+handful of men was soon over powered and cut in pieces by the
+savages.</q></p></div2> 
+
+<div2 id="iln40.1137.009" n="The Recent Floods in Sacramento Valley,
+      California--The Corner of L and Fourth Streets, Sacramento City:
+      View through L-Street Eastwards--See Page 326." type="illustration">
+
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
+           <biblScope type="pages">p. 323</biblScope> 
+           <date value="1862-03-29">Mar.29,1862</date>
+         <extent></extent>
+</bibl>
+<p>
+<figure entity="v40p323">
+<head>The Recent Floods in Sacramento Valley,
+      California--The Corner of L and Fourth Streets, Sacramento City:
+      View through L-Street Eastwards--See Page 326.</head>
+</figure>
+</p>
+</div2>
+
+
+<div2 id="iln40.1137.010" n="The Recent Floods in Sacramento Valley,
+      California" type="article">
+<head>THE RECENT FLOODS IN SACRAMENTO VALLEY,CALIFORNIA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1137</biblScope> 
+           <biblScope type="pages">p. 326</biblScope> 
+           <date value="1862-03-29">Mar.29,1862</date>
+         <extent></extent>
+</bibl>
+
+<p>Accounts have from time to time appeared in this Journal of the severe floods with which California was visited, at the close of last year and the beginning of the present one. In the present Numbe we are enabled to give three Illustrations from sketches forwarded by Mr. Edward Vischer, of San Francisco, showing the lamentable condition of Sacramento City, which, as our readers are aware, suffered terribly from the floods. The Views were taken by Mr. Vischer whilst on a visit to Sacramento City immediately after the third flood. Our Artist like many residents of San Francisco, went (he says) to witness the extraordfnaiy sight of an inland lake thirty miles in width, with steam-boats plying over vast plains but lately furrowed by the plough, and all the customary means of communication reduced to the frail tenure of telegraph wires, or supplanted by feats of extraordinary daring. He went prepared to see misery and dejection for the doom apparently sealed, of the commercial emporium of that region, the capital of the State;, he returned convinced that Sacramento will survive the present calamity, and that Californian energy will recover from the heavy blow its interests have received. On arriving at the Levee in Sacramento, on the night of Jan. 23, the chaotic scene, faintly discernible by the light of the rising moon, with blocks of buildings emerging out of the engulfing waters, was impressive in the highest degree; It suggested the gloomiest forebodings; but a few hours later, with the rising sun, the gloom was dispelled. The impressiveness of the scene changed into the life and revelry of an aquatic car. rival; and the jostling of hundreds of boats in those desolate streets, the merry shouts, the passing jest, gave the impression of a merry crowd indulging in some favourite sport. Even the Pavilion, the headquarters of the relief committee, which had been successively the refuge of thousands who had become homeless, and at the time was the asylum of some hundred recipients of relief, seemed empty during the day. The main body was about, fighting the battle of life; and not until night would the hall<lb/>
 
  be thronged with those who, having lost their all,
 
-had no other refuge.
+had no other refuge.</p>
 
-The Engraving below shows the steam-boat land. ing-place in Sacramento City on the Levee opposite K-street, at three o'clock on tie morning of the 24th of January last, on the arrival of the Antelope from San Francisco during the third flood. On page 323is aViewtakenatthecomer of L andPourthatreets, looking eastwards towards the pavilion of the
+<p>The Engraving below shows the steam-boat land-ing-place in
+Sacramento City on the Levee opposite K-street, at three o'clock on
+the morning of the 24th of January last, on the arrival of the
+Antelope from San Francisco during the third flood. On page 323 is a
+view taken at the corner of L and Fourth streets, looking eastwards towards the pavilion of the
 
-cultural Society, which was then the head-quarters
+Agri-cultural Society, which was then the head-quarters
 
 of the Howard Benevolent Society, and, as before
 
 mentioned, the refuge of hundreds whose homesteads
 
-were destroyed by the floods. The relief-host is shown going for orders from the committee. At the left of the picture are scows from the country bear.. tug farmers and their stock; whulatinthebackground may be seen the Bomati Catholic church and schools. Below it is given another view of the partial] submerged city-Sixth-street, between M end
+were destroyed by the floods. The relief-host is shown going for
+orders from the committee. At the left of the picture are scows from
+the country bear-ing farmers and their stock; whulst in the background
+may be seen the Roman Catholic church and schools. Below it is given
+another view of the partially submerged city--Sixth-street, between M
+and N
 
-streets, looking south, towards the great break lathe
+streets, looking south, towards the great break  in the
 
-B-street Levee, through which numbers of houses were swept by the violence of the floods.
+R-street Levee, through which numbers of houses were swept by the violence of the floods.</p>
 
-The condition of things in Sacramento City after the second and immediately before the third flood is a San Fraaiaiz,o journal of the 14th of January Wt:---" This unfortunate city presented a sad picture when we arrived on Sunday night. Although they told us the water had lowered considerably still boats were plying from the Levee inwards tirough al the streets we could see. Yesterday morning the water had settled on Front-street, and some of the principal longitudinal streets-taking the line of the river as a diametrical one-were passable for short distances on muddy and slippery sidewalks. At the intersection of .1 and Second streets a piece of dry land was gradually rising from the surrounding waters. The water was falling fast, and it in very probable that before this tue some sort of foot navigation is possible through several of the main business streets. The general appearance of the city yesterday was one of gloom and dampness. A dank, fresh.flshy smell pervades
+<p>The condition of things in Sacramento City after the second and
+immediately before the third flood is a San<orig reg="Francisco"> Fransisco</orig> journal of the 14th of January last:---" This unfortunate city presented a sad picture when we arrived on Sunday night. Although they told us the water had lowered considerably still boats were plying from the Levee inwards through al the streets we could see. Yesterday morning the water had settled on Front-street, and some of the principal longitudinal streets-taking the line of the river as a diametrical one-were passable for short distances on muddy and slippery sidewalks. At the intersection of J and Second streets a piece of dry land was gradually rising from the surrounding waters. The water was falling fast, and it in very probable that before this time some sort of foot navigation is possible through several of the main business streets. The general appearance of the city yesterday was one of gloom and dampness. A dank, fresh-fishy smell pervades
 the atmosphere; and such houses as were open to
 
-public view bore evident signs of inundation on the walls and slumgullicn' on the floors. The latter gave occupation to numberless men with brooms in their hands. Notwithstanding the great and severe
+public view bore evident signs of inundation on the walls and "slumgullion' on the floors. The latter gave occupation to numberless men with brooms in their hands. Notwithstanding the great and severe
 
-¥ loss of the people of Sacramento, their faces were not downcast. They seemed hopeful and sunshiny. Many were plying their brooms and tuning their voices at the same time; and not a few wore that genial expression which Lavater might translate to every-day minds by the cheerful, e, 'We may be happy yet."
+ loss of the people of Sacramento, their faces were not downcast. They
+ seemed hopeful and sunshiny. Many were plying their brooms and tuning
+ their voices at the same time; and not a few wore that genial
+ expression which Lavater might translate to every-day minds by the
+ cheerful line, 'We may be happy yet.'"</p>
 
-he II of the floods on the city is detailed in a
+<p>The effect of the floods on the city is detailed in a
 
-number of the Sacramento Bee published after the third flood. It says:-" Many lots and blocks of land in this city have been much elevated by deposits left by the flood. In the eastern portion whole blocks have been covered to the depth of four to sight feet with sandy soil, so that the eaves of one-story houses and outhouses are on a level with, the new-made soil. The east Levee in the vicinity of the Fort has secured a backing which no press of we= can breakthrough. In some young orchards the tree-tops just peep above the soil, while elsewhere the vines are all under. The it-street Levee is a total wreck for its entire length, there being in many places no semblance of it left, and the east Levee 38 not in much better condition. Babel's tannery property and his dwelling seem to be secured against the current of the American. A great sandbar, very nearly as high as the natural surface of the bank, has been formed in front of his property, which directs the current from him and forces it to strike the bank lower down, where the break is through which the steamer Gem was carried by the force of the water. Re has secured a permanent and most substantial bulkhead at that point."
+number of the<hi rend="italic"> Sacramento Bee</hi> published after the third flood. It says:-" Many lots and blocks of land in this city have been much elevated by deposits left by the flood. In the eastern portion whole blocks have been covered to the depth of four to eight feet with sandy soil, so that the eaves of one-story houses and outhouses are on a level with, the new-made soil. The east Levee in the vicinity of the Fort has secured a backing which no press of water can breakthrough. In some young orchards the tree-tops just peep above the soil, while elsewhere the vines are all under. The R-street Levee is a total wreck for its entire length, there being in many places no semblance of it left, and the east Levee 38 not in much better condition. Rabel's tannery property and his dwelling seem to be secured against the current of the American. A great sandbar, very nearly as high as the natural surface of the bank, has been formed in front of his property, which directs the current from him and forces it to strike the bank lower down, where the break is through which the steamer Gem was carried by the force of the water. He has secured a permanent and most substantial bulkhead at that point."</p>
 
- Meanwhile - extracting from the catastrophe such comfort as we best can-it is certain that this dire calamity has called forth some of the best and loftiest feelings of human mature; so that one hardly knows which to admire moat
+ <p>Meanwhile -- extracting from the catastrophe such comfort as we best can--it is certain that this dire calamity has called forth some of the best and loftiest feelings of human mature; so that one hardly knows which to admire most--<lb/>
 
-the fortitude of those who were the immediate sufferers, the ready, devoted courage of those who rushed to their rescue at the risk of their own lives, or the warm, untiring chaxit' of the community at large spared from the visitation, though not exempt from loss. Sacramento City has often been nearly destroyed by fire, yet has always been quickly restored and improved. So, it is to be hoped-a8, indeed all accounts unite in averring-that the State capital will are long lift its head above the floods and be re-established in more than it former greatness.
+the fortitude of those who were the immediate sufferers, the ready, devoted courage of those who rushed to their rescue at the risk of their own lives, or the warm, untiring charity of the community at large spared from the visitation, though not exempt from loss. Sacramento City has often been nearly destroyed by fire, yet has always been quickly restored and improved. So, it is to be hoped-as, indeed all accounts unite in averring-that the State capital will ere long lift its head above the floods and be re-established in more than it former greatness.</p>
 
-The United States' revenue steamer Schubric anchored in the stream near Rio Vista (of which we give an Engraving), was the rendezvous for the volunteer relief fleet of whale-boats and SCOWS searching for sufferers from the flood over the plains on each side of the Sacramento. A passenger On board the Nevada, which started from San Francisco on Jan. 12 with a large supply of baked meats, bread, and other provisions hastily collected for the immediate relief of the destitute sufferers of Sacramento, thus describes the some at Rio Vista: -'(For eon,e time before we reached this little town, numerous floating indications of the destruction above were visible on the water. Portions of houses, tables, chairs, fencing, and other dbria were hurrying along on the current; but until we reached Rio Vista the ==I ty of human misery was not presented to
+<p>The United States' revenue steamer Schubric anchored in the stream
+near Rio Vista (of which we give an Engraving), was the rendezvous for
+the volunteer relief fleet of whale-boats and scows searching for
+sufferers from the flood over the plains on each side of the
+Sacramento. A passenger on board the Nevada, which started from San
+Francisco on Jan. 12 with a large supply of baked meats, bread, and
+other provisions hastily collected for the immediate relief of the
+destitute sufferers of Sacramento, thus describes the scene at Rio
+Vista: -"For some time before we reached this little town, numerous
+floating indications of the destruction above were visible on the
+water. Portions of houses, tables, chairs, fencing, and other debris
+were hurrying along on the current; but until we reached Rio Vista the
+ty of human misery was not presented to our view.
 
-Here was a whole town with the water reaching to the roofs of the one-story buildings. Many of them were careened over, and with sue exception of the second story of the principal building, deserted. A few hundred yards from the town, on a neck of land, were huddled together the major P 0' it water-bound inhabitants, together With as P.ch live'stock as could be hastily gathered together. Here, without shelter, cold, wet, and hungry, were they destined to await the falling of the waters." By subsequent accounts we learn that the few buildings at first spared by the floods have since been washed away, so that not a vestige of this late pleasant and prosperous village remains.
-THE NAVAL REVOLUTION.
+Here was a whole town with the water reaching to the roofs of the
+one-story buildings. Many of them were careened over, and all, with
+the exception of the second story of the principal building,
+deserted. A few hundred yards from the town, on a neck of land, were
+huddled together the major part of its water-bound inhabitants,
+together with as much live stock as could be hastily gathered
+together. Here, without shelter, cold, wet, and hungry, were they
+destined to await the falling of the waters." By subsequent accounts
+we learn that the few buildings at first spared by the floods have
+since been washed away, so that not a vestige of this late pleasant
+and prosperous village remains.</p>
 
-Is it indeed true that the naval supremacy of England has passed away like a mere unsubstantial exhalation under. the light of that memorable Saturday, March 8, 1862? An American journalist tells us this; but we may pardon the exulting boast when we remember the provocation. It was but a few weeks ago that English journalists of the highest character and position were complacently announcing that we should, in the event of war, at once sweep the seas of all American shipping. That prediction was a very wild and foolish one; let us inquire whether this new prediction is not equally groundless. And, first, suppose we review briefly the incidents of the late combat,
+<p>
+<figure entity="v40p326a">
+<head>The U.S. Revenue Steamer Schubric Anchored in the Sacramento,
+near Rio Vista</head>
+</figure>
+</p>
 
-which is perhaps unexampled in history for the exciting interest f its details and for the inherent value of its lessons.
+<p> 
+<figure entity="v40p326b">
 
-It was, then, on Saturday, the 8th of )rh last, that the persons who were on the outlook from the Federal fortress Monroe towards the Confederate Navy-yard and Arsenal of Norfolk saw coining towards an intermediate, point of land called Norfolk News the long-expected Confederate fleet, It consisted of two small iron-dad steamers, some gun-boats, and a strange-looking monster, with something like a sloping house-roof on its top, which the observers knew at once must be the famous Merrirnac. This had been a magnificent first-class frigate of between 8000 and 4000 tons, armed
+<head>The Levee Opposite K-Street, Sacramento City, at Three a.m. on
+the 24th of January Last, during the Third Flood.</head>
+</figure>
+</p>
+
+<p> 
+<figure entity="v40p326c">
+<head>Sixth-Street, Sacramento City, Looking South</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln40.1138.001" n="The Naval Revolution" type="article">
+<head>THE NAVAL REVOLUTION.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1138</biblScope> 
+           <biblScope type="pages">p. 327</biblScope> 
+           <date value="1862-04-05">Apr.5,1862</date>
+         <extent></extent>
+</bibl>
+
+<p>Is it indeed true that the naval supremacy of England has passed away like a mere unsubstantial exhalation under. the light of that memorable Saturday, March 8, 1862? An American journalist tells us this; but we may pardon the exulting boast when we remember the provocation. It was but a few weeks ago that English journalists of the highest character and position were complacently announcing that we should, in the event of war, at once sweep the seas of all American shipping. That prediction was a very wild and foolish one; let us inquire whether this new prediction is not equally groundless. And, first, suppose we review briefly the incidents of the late combat,
+
+which is perhaps unexampled in history for the exciting interest of its details and for the inherent value of its lessons.</p>
+
+<p>It was, then, on Saturday, the 8th of March last, that the persons who were on the outlook from the Federal fortress Monroe towards the Confederate Navy-yard and Arsenal of Norfolk saw coining towards an intermediate, point of land called Norfolk News the long-expected Confederate fleet. It consisted of two small iron-dad steamers, some gun-boats, and a strange-looking monster, with something like a sloping house-roof on its top, which the observers knew at once must be the famous Merrimac. This had been a magnificent first-class frigate of between 3000 and 4000 tons, armed
 
 with forty pieces of the most powerful artillery, and forming one of those new and most formidable ships which
 
-¥the Americans were so justly proud of. At the breaking out of
+the Americans were so justly proud of. At the breaking out of
 
-the war the Merrimac was partly burnt and tbeniunk by the
+the war the Merrimac was partly burnt and then sunk by the
 
 Federals, when they were obliged to leave Norfolk to the Confederates; who soon raised the coveted prize, and found her in
 
-all essential respects uninjured. Remembering, then, the many experiments that had been made in Europe to show the value of iron armour fox ships, and. painfully conscious of their weakness at sea, they appear to have thought there was one grand opportunity opento them, and to have made use of itwith characteristic vigour arid skill. They built up over her deck, and down upon
-'her sides, to below the water-line, a complete bomb. and, ball proof covering, formed of sloping pltes of railroad iron, 'three inches thick, and meeting at the top like the roof of a house, where was the only opening for ventilation. But o
+all essential respects uninjured. Remembering, then, the many
+experiments that had been made in Europe to show the value of iron
+armour for ships, and painfully conscious of their weakness at sea,
+they appear to have thought there was one grand opportunity open to
+them, and to have made use of itwith characteristic vigour and
+skill. They built up over her deck, and down upon<pb n="328"/>
+her sides, to below the water-line, a complete bomb. and ball proof covering, formed of sloping plates of railroad iron, three inches thick, and meeting at the top like the roof of a house, where was the only opening for ventilation. But on
 
-testing this structure with columbiads they found the iron armour 'was only too easily penetrable. Again they docked the Merrimac, and again they heaped on more of the iron clothing, tiutti,' it 'was said (probably by the Confederates' themselves, and for obvious reasons), that she was so heavy that they could not launch her, and that 'she was in danger of, breaking her back. These and many similar rumours died away at last, when the hrexrimac was seen on the eventful Saturday coming forth to do the work she bad been so long preparing for, armed with two 100-pounder Armstrong guns (surely some member will ask in the House of Commons how these were obtained?) and eight 11.inch guns. But she had still more terrible weapons in the shape of I two great. sharp-pointed beaks at her bow, seven feet apart and level with the waterline, the uses of which were only too sown to become apparent to the doomed vessels of the watching Federal fleet. This consisted of two old sailing-frigates, the Cum. borland, twenty guns, and the Congress, forty guns, at Newport sews; and of three other frigates, the Boanoke, the Minnesota, and the St. Lawrence, at some little distance in the Hampton Roads. With quiet determination the Congress and Caniberlaud prepared for the fight; but they had scarcely begun to let loose their heavy broadsides against the Merrimac before they had one awful fact made clear to them-that their shot produced no effect whatever on the enemy, but glanced off from him, to use the expression of an actor in the scene, like hail from a tin roof. On the other hand, the shells from the Merrimac began to pour on both vessels with murderous effect.. There was little time allowed to' consider what it were best to do 'under such circumstances. The iron monster-wishing, perhaps, to test- her bodily strength on' the smaller of the two 'vessels first, -and serenely' regardless of the broadsides of. the heavier-passed the 'Congress as if forgetting her very existence, and ran, under a -full head of. steam, at the Cumberland. Awful indeed was the shock. The double beak went ploughing into the very entrails of the wooden ship, then withdrawing and going to the other side she again ran at her, and left her in a few minutes sinking-she and her crew of flye,jhundred men, who fought their guns to the last' possible minute, and left the beloved flag flying aloft even after the hull bad disappeared below the waves. Such heroism needs no comment but that silent one which it will receive from all true English hearts. Presently the Congress, whose guns were already disabled, and whose decks were covered with the dead and the dying, saw the terrible phenomenon advancing to strike her in the same way; and of course the captain did what it was his bounden duty to do-surrender. The officers were taken out as prisoners by a Confederate gun-boat, but the latter was eventually driven off by a fire from the Federal laud forts, and at night the vessel was blown up by some of. her own people.
+testing this structure with columbiads they found the iron armour was
+only too easily penetrable. Again they docked the Merrimac, and again
+they heaped on more of the iron clothing, until, it was said (probably
+by the Confederates' themselves, and for obvious reasons), that she
+was so heavy that they could not launch her, and that she was in
+danger of, breaking her back. These and many similar rumours died away
+at last, when the Merrimac was seen on the eventful Saturday coming
+forth to do the work she bad been so long preparing for, armed with
+two 100-pounder Armstrong guns (surely some member will ask in the
+House of Commons how these were obtained?) and eight 11-inch guns. But
+she had still more terrible weapons in the shape of  two great
+sharp-pointed beaks at her bow, seven feet apart and level with the
+waterline, the uses of which were only too sown to become apparent to
+the doomed vessels of the watching Federal fleet. This consisted of
+two old sailing-frigates, the Cumberland, twenty guns, and the
+Congress, forty guns, at Newport News; and of three other frigates,
+the Roanoke, the Minnesota, and the St. Lawrence, at some little
+distance in the Hampton Roads. With quiet determination the Congress
+and Cumberland prepared for the fight; but they had scarcely begun to
+let loose their heavy broadsides against the Merrimac before they had
+one awful fact made clear to them-that their shot produced no effect
+whatever on the enemy, but glanced off from him, to use the expression
+of an actor in the scene, like hail from a tin roof. On the other
+hand, the shells from the Merrimac began to pour on both vessels with
+murderous effect. There was little time allowed to consider what it
+were best to do under such circumstances. The iron monster-wishing,
+perhaps, to test her bodily strength on the smaller of the two vessels
+first, and serenely regardless of the broadsides of the heavier-passed
+the Congress as if forgetting her very existence, and ran, under a
+full head of steam, at the Cumberland. Awful indeed was the shock. The
+double beak went ploughing into the very entrails of the wooden ship,
+then withdrawing and going to the other side she again ran at her, and
+left her in a few minutes sinking-she and her crew of five hundred men, who fought their guns to the last possible minute, and left the beloved flag flying aloft even after the hull had disappeared below the waves. Such heroism needs no comment but that silent one which it will receive from all true English hearts. Presently the Congress, whose guns were already disabled, and whose decks were covered with the dead and the dying, saw the terrible phenomenon advancing to strike her in the same way; and of course the captain did what it was his bounden duty to do-surrender. The officers were taken out as prisoners by a Confederate gun-boat, but the latter was eventually driven off by a fire from the Federal land forts, and at night the vessel was blown up by some of her own people.</p>
 
- All this while the Boanoke, the St. Lawrence, and the Iffinne. sota had been trying to advaace to help their fellows. But the first, having a broken shaft, could only move by the aid of a tug,' and so got aground. The second seems also to have grounded immediately. The Minnesota drew nearer, but only to experience the same check. Arid thus immovable, deprived of all power to use her special advantages of speed and fitness for nranosuvres, the Minnesota was now exposed to the fire not only of the monstrous Merrimac but of several small gun-boats. But still she kept them off; and still the Merriniac seemed willing to be kept off; we now know why, she was afraid of grounding. And so night approached. Then the Confederate fleet withdrew, flushed with a conquest that must ring through the world, and assured that they would make an easy prey of the Minnesota on the morrow. And then? Why, then its Captain may have dreamed that be alone would be able to accomplish that which England and France, in American belief, wished but had not ventured to attempt-the raising of the whole blockade, by the successive destruction of the Federal ships wherever he could find them. That the dream might have proved only too true a foreshadowing of reality, all blew York, and Boston, arid Washington testified, as the first news reached those cities of the calamity and impending danger. But there was-to be a visitor to these
+ <p>All this while the Roanoke, the St. Lawrence, and the Minnesota
+ had been trying to advance to help their fellows. But the first,
+ having a broken shaft, could only move by the aid of a tug, and so
+ got aground. The second seems also to have grounded immediately. The
+ Minnesota drew nearer, but only to experience the same check. Arid
+ thus immovable, deprived of all power to use her special advantages
+ of speed and fitness for man&#x0153;uvres, the Minnesota was now
+ exposed to the fire not only of the monstrous Merrimac but of several
+ small gun-boats. But still she kept them off; and still the Merrimac
+ seemed willing to be kept off; we now know why, she was afraid of
+ grounding. And so night approached. Then the Confederate fleet
+ withdrew, flushed with a conquest that must ring through the world,
+ and assured that they would make an easy prey of the Minnesota on the
+ morrow. And then? Why, then its Captain may have dreamed that he
+ alone would be able to accomplish that which England and France, in
+ American belief, wished but had not ventured to attempt-the raising
+ of the whole blockade, by the successive destruction of the Federal
+ ships wherever he could find them. That the dream might have proved
+ only too true a foreshadowing of reality, all New York, and Boston,
+ and Washington testified, as the first news reached those cities of
+ the calamity and impending danger. But there was to be a visitor to
+ these blood-stained waters the same evening that would altogether
+ change the fortunes of that to-morow, and send yet a new, and to
+ Confederat Vision unlooked-for, experience among the later news to
+ the Northern cities and to Europe. Some months previously a Swedish
+ engineer, already highly esteemed for his various inventions, had,
+ though with some difficulty, persuaded the Federal Government to
+ allwo him to build a small floating and seagoing battery, and had
+ made himself, or his friends, pecuniarily responsible for its
+ success. It was begun in October, launched by New Year's-Day, and
+ completely finished in ten days after. And we beg our readers to note
+ the time as well as the cost involved--sixty thousand pounds. That
+ was all, and that sum was not secured til success was certain. Thus
+ do they do some things in America. The inventor called it the
+ Monitor, in order, as he says, to admonish the South of the fate of
+ their rebellion, England of its fading naval supremacy, and the
+ English Government of the folly of spending millions in fixed
+ fortifica-tions for defence. Probably the very attention we shall pay
+ to the last of Captain Ericsson's lessons will enable us to take care
+ that his second lesson shall fall pointlessly.</p>
 
- .the return of 'the' iron-clad monster, as they gazed upon this new David that proposed to 'do battle with their dreadful Goliath. She had but two guns to cope with the Merrimac's twelve, and was scarcely a third of her size. Nevertheless, she immediately took 'up a position in front of the towering Minnesota, and there wvited in grim silence. Early on Sunday morning (and we are told the day opened in extreme beauty) the ifurrim‡c appeared, and began to fire as she approached on the Minnesota. But what is this queer-looking little craft that: she sees coming out before her right in her. path,' not unlike a gigantic round black hat, with a very elongated brim, tapering almost to a point before and' behind, floating on the water? The Merrirnac is not left long in doubt. 'There is a double flash, a terrible boom, and she feels herself struck with solid double shot that make the whole frame of the"monster quiver: no wonder, when we know that each shot sent by-that small stranger weighed' one hundred and seventy pounds, or, together, three hundred and forty I The Merrimac knows well enough now that she has her work to do, and she tries to do it. But the lesson she has taught to others is now commended to her own ups. The little Monitor laughs at her. Armstrongs and her 11-in. guns, arid begins coolly to pace round her, studying as she goes how to plant her every blow in the most promisingly. vulnerable place. All the oilier vessels suspend operations to gaze on this novel and ever-to-beremembered conflict. Now and then one of those on the Federal side receives a damaging shot from the Merrirnac, as though the Goliath, in her rage that she cannot hurt the agile enemy before her, finds solace in an occasional blow at something that may be harmed. But, if the Merrimac cannot hurt the Monitor by her shot, she may board and possibly take her. The boarders get on to those flat, wave-washed decks, and find nothing to attack, nowhere to go. The floor of apparently continuous iron is impenetrable. If they could get onto the top. of that cupola, nine feet high, of smooth iron, they might find an entrance perhaps, but the prospect is not inviting. ' While they hesitate they see the cupola revolve: another moment a gnu will open on them with grape. They decline further, parley, and disappear. Bat cannot the Merrimnac run the 'vixen down? She tries; but her prow' glides over, 'and is cut by 'the sharp edge of the unmanageable little craft'; and the guns of tbe latter take advantage of that very moment, and the close proximity, to pour in their 'staggering shoes. 'What then can the Merrimac do? A man looks forth, perhaps to obtain some iformation for the captain, and is instantly cut in two by the Monitor's guns, which are as accurately pointed as they are awful in their strength. At last the Merriruac receives a hint as to what she must do-retreat; for those tremendous shots are penetrating at last; she is, in fact, so much hurt that she limps at the stern, and has to call her consorts to her aid to take her out of the way-back under the protection of her own forts. And so ended the first fight between iron ships of war, of which history will have to take note.
+<p> It was this vessel which, by one of those wonderful coinci-dences
+which the American nation may well believe Providential, came
+unexpectedly to Fort Monroe on the evening of the day that had
+witnessed the Federal defeat. We know indeed, from the diary of one
+who was on board, that the crew of the monitor heard the cannonading
+as they approached. We may imagine what must have been the emotions of
+hope and fear experienced by General Wool at Monroe, and by the crew
+of the apparently doomed Minnesota, who waited the whole night in
+hourly expectation of <lb/>the return of 'the' iron-clad monster, as
+they gazed upon this new David that proposed to do battle with their
+dreadful Goliath. She had but two guns to cope with the Merrimac's
+twelve, and was scarcely a third of her size. Nevertheless, she
+immediately took up a position in front of the towering Minnesota, and
+there waited in grim silence. Early on Sunday morning (and we are told
+the day opened in extreme beauty) the Merrimac appeared, and began to
+fire as she approached on the Minnesota. But what is this
+queer-looking little craft that she sees coming out before her right
+in her path, not unlike a gigantic round black hat, with a very
+elongated brim, tapering almost to a point before and behind, floating
+on the water? The Merrimac is not left long in doubt. There is a
+double flash, a terrible boom, and she feels herself struck with solid
+double shot that make the whole frame of the monster quiver: no
+wonder, when we know that each shot sent by-that small stranger
+weighed one hundred and seventy pounds, or, together, three hundred
+and forty&#x0021; The Merrimac knows well enough now that she has her
+work to do, and she tries to do it. But the lesson she has taught to
+others is now commended to her own lips. The little Monitor laughs at
+her Armstrongs and her 11-in. guns, and begins coolly to pace round
+her, studying as she goes how to plant her every blow in the most
+promisingly vulnerable place. All the other vessels suspend operations
+to gaze on this novel and ever-to-be remembered conflict. Now and then one of those on the Federal side receives a damaging shot from the Merrimac, as though the Goliath, in her rage that she cannot hurt the agile enemy before her, finds solace in an occasional blow at something that may be harmed. But, if the Merrimac cannot hurt the Monitor by her shot, she may board and possibly take her. The boarders get on to those flat, wave-washed decks, and find nothing to attack, nowhere to go. The floor of apparently continuous iron is impenetrable. If they could get onto the top of that cupola, nine feet high, of smooth iron, they might find an entrance perhaps, but the prospect is not inviting.  While they hesitate they see the cupola revolve: another moment a gun will open on them with grape. They decline further parley, and disappear. But cannot the Merrimnac run the vixen down? She tries; but her prow glides over, and is cut by the sharp edge of the unmanageable little craft; and the guns of tbe latter take advantage of that very moment, and the close proximity, to pour in their staggering shots. What then can the Merrimac do? A man looks forth, perhaps to obtain some iformation for the captain, and is instantly cut in two by the Monitor's guns, which are as accurately pointed as they are awful in their strength. At last the Merrimac receives a hint as to what she must do-retreat; for those tremendous shots are penetrating at last; she is, in fact, so much hurt that she limps at the stern, and has to call her consorts to her aid to take her out of the way-back under the protection of her own forts. And so ended the first fight between iron ships of war, of which history will have to take note.</p>
 
- And how is this wonderful little vessel framed which has thus proved herself so perfect in all points-cheapness of cost, rapidity of construction, impregnability for defence, and unrivalled power for attack.? And on this last matter we must note that Captain Ericsson says she could have certainly destroyed the Merrimac if she had kept her guns quite level, and if she had been permitted to fire wrought-iron shot which were on board, but had been forbidden by Captain Dahigren, who was afraid to put his truly magnificent ordnance to too great a trial. The Monitor, then, is simply a flat-bottomed wooden vessel, wide in the middle and narrowing towards the cads, forming a kind of elongated oval, over which has been laid a thick flat iron cover, with sides dipping into the water. In battle these sides show only a surface of 12im to 2Oin. high. On the centre of the vessel rises a vast circular pillar or cupola, measuring 64ft. round, and built of eight several thicknesses of inch-iron, fastened by screws inside, so that the plates, if loosened, are readily tightened again; and the joinings so arranged that no two can anywhere be struck at once by the same shot. This cupola contains the two Dabigren guns, and moves round with them, at the pleasure of the director, by steam power. The only other things visible on deck during engagement are the covered top - of the chimney, which has been previously
-find them. That the dream might have proved only too true a fore
+ <p>And how is this wonderful little vessel framed which has thus
+ proved herself so perfect in all points-cheapness of cost, rapidity
+ of construction, impregnability for defence, and unrivalled power for
+ attack? And on this last matter we must note that Captain Ericsson
+ says she could have certainly destroyed the Merrimac if she had kept
+ her guns quite level, and if she had been permitted to fire
+ wrought-iron shot which were on board, but had been forbidden by
+ Captain Dahlgren, who was afraid to put his truly magnificent
+ ordinance to too great a trial. The Monitor, then, is simply a
+ flat-bottomed wooden vessel, wide in the middle and narrowing towards
+ the ends, forming a kind of elongated oval, over which has been laid
+ a thick flat iron cover, with sides dipping into the water. In battle
+ these sides show only a surface of 12in. to 20in. high. On the centre
+ of the vessel rises a vast circular pillar or cupola, measuring
+ 64ft. round, and built of eight several thicknesses of inch-iron,
+ fastened by screws inside, so that the plates, if loosened, are
+ readily tightened again; and the joinings so arranged that no two can
+ anywhere be struck at once by the same shot. This cupola contains the
+ two Dahlgren guns, and moves round with them, at the pleasure of the
+ director, by steam power. The only other things visible on deck
+ during engagement are the covered top - of the chimney, which has
+ been previously been sent down below, telescope fashion, and the
+ small pilot-box at the stern, which, though of enormous strength was
+ injured by the Merrimac, and was the only part of the monitor she did
+ injure. Between the pilot-box and the cupola the communications are
+ so admirably arranged that the exact effects of every shot are
+ reported instantly to the head men at the guns. All the crew, with
+ the exception of these men, sixteen in number, are kept below during
+ battle. We need only add that the Monitor's speed is not great; it is
+ said only about six knots an hour; that her extreme draught of water
+ is only 10ft.; and that she promises to be a good seagoing boat when
+ certain defects, merely of minor details are remedied.</p>
 
-shadowing of reality, all New York, and Boston, and Washington testified, as the first news reached those cities of the calamity and impending danger, But there was to be a visitor to these blood-stained waters the same evening that would altogether change the fortunes of that tomorrow, and send yet a new, and to Confederate vision unlocked-for, experience among the later news to the Northern cities and to Europe. Some months previously a Swedish engineer, already highly esteemed for his various inven. tions, had, though with some difficulty, persuaded the Federal Government to allow him to build a small floating and seagoing battery, and had made himself, or his friends, pecuniarily responsible for its success. It was begun in October, launched by New Yeax's.Day, and completely finished in ten days after And we beg our readers to note the time as well as the cost involved-sixty thousand pounds. That was all, and that sum was not secured till success was certain. Thus' do they do-some things in America. The inventor called it the Monitor, in order, as he says, to admonish the South of the fate of their rebellion. :England. of it fading naval supremacy, and the English Government of the folly of spending millions in fixed fortificatios for defence. Probably the vey attention we shall pay to the last of Captain Ericsson's lessons 'will enable us to take care that his second lesson shall fall pointlessly.
+<p>And now what is the first effect of this news upon English
 
-It was this vessel which, by one of those wonderful coinci-
+interests? Why, just this, as the <hi rend="italic">Times</hi> admirably puts it:--
 
- dences 'which the American nation may well believe Providential, came unexpectedly to Fort Monroe on the evening of the day that had witnessed the Federal defeat. We know, indeed, from the diary of one who was on board, that the crew of the Monitor heard the cannonading as they approached. We may imagine 'what must have been the emotions of hope and fear experienced by General Wool at Monroe, and by the crew of the apparently doomed Minnesota, vho waited the whole night in hourly expectation of
+Whereas we had available for immediate purposes 149 first-class war
+ships, we have now two, these two being the Warrior and her sister
+Ironside. There is not now a ship in the English Navy apart from these
+two, that it would not be madness to trust to an engagement with that
+little Monitor. We are not sure, indeed, that the case is not worse
+than the<hi rend="italic"> Times</hi> believes. Is the Warrior itself
+a match for the Monitor? It is useless now to talk of speed or
+magnificence. We don't want our war ships to run away successfully, or
+to be looked at admiringly, but to fight. How would the Monitor deal
+with the Warrior? The guns of the first send shot of l70lb.; the guns
+of the second, shots of lOOlb. ;<hi rend="italic"> the very shot that this Merrimac fired so uselessly.</hi> Again, the Monitor is practically invulnerable to existing artillery: is the Warrior the same? Why, both her extremities are of wood, and would be blazing in ten minutes, and every man in those parts be destroyed.</p>
+<p>But the question-and it is one of such solemn import as even
 
-cupola contains the two Dahlgren guns, and moves round with them, at the pleasure of the director, by steam power. The only other things visible on deck during engagement are the covered top of the chimney, which has been previously sent down below, telescope fashion, and the small pilot-box at the stern, which, though of enormous strength, was injured by the Merrimac, and was the only part of the Monitor she
+England, through all her momentous history, has rarely had to decide
+upon--now is, what shall we do? We must act, and act instantly. There
+is no time now for any more scientific "experiments," or for red tape
+to be indulged with its usual hesita-tions and mental difficulties. We
+are actually without a war fleet. We shall be outstripped to a
+certainty by America, and possibly by France, if we do not move at
+once. Already America is preparing to finish her Stevens battery,
+which promises to be to the Monitor what that was to the Merrimac,
+only with all the material proportions reversed, so that it will be probably equivalent to many Monitors, with a speed of twenty miles an hour instead of seven. A gigantic ram is also to be constructed; and, lastly above two millions and a half of money are to be expended on a fleet of ordinary iron ships.</p>
 
-did injure. Between the pilot-box and the cupola the com-munications- are so admirably arranged that the exact effects of every shot are reported instantly to the head of the men at the guns. All the crew, with the exception of these men, sixteen in number, are kept below during battle. We need only add that the Monitor's speed is not great; it is said only about six knots an hour; that her extreme draught of water is only lOft.; and that she promises to be a good seagoing boat when certain defects, meiely of minor details, are remedied.
+<p>What, then, ought we to do? If while endeavouring to
 
-And now what is the first effect of this news upon, English
+answer that question we could hope to obtain the ear of any man in authority we would say to him with deep earnestness; this :-Cease the erection of all seaboard fortifications for the present, at least, and spend the money allotted for them in cutting down our most powerful battleships, covering their lowered hulls with iron, building cupolas upon them, and arming these cupolas with guns that, however few in number, will carry shot at least as heavy as the Dahlgren of 1701b. Treat Captain Coles as our cousins are treating Captain Ericsson-that is, put the right man into the right place, and give him hearty support when there. Then, for the future, offer attention and a reward to other men of inventive genius, who can improve upon the best existing models; for we may depend upon it that we are now entering upon a race in which success will no longer be achieved by wealth or material
 
-interests? Why, just this, as the Danes admirably puts it
+resources, under merely ordinary conditions of skilful development,
+but that skill, science, and individual energy will only moderate
+means to obtain the greatest triumphs. But what Englishman can doubt
+that in such a straggle we shall at least hold our own? What
+Englishman will doubt but that if wisely and promptly used, our
+existing naval wealth may in a very short time be again fully<orig
+reg="realized"> realised</orig> under altered conditions, and so that
+whatever there may have been of soundness and justice in the idea of
+English supremacy on the seas shall be again ours? But let it not be
+said by history, as it has already been suggested in Parliament-it is
+harder to work a conversion in our Government than among our
+ships.</p></div2>
 
-Whereas we had available for immediate purposes 149 firstclass war ships, we have now two, these two being the Warrior and hersister lronside, Thereis not now a ship inthe English Navy apart from these two, that it would not be madness to trust to an engagement with that little Monitor. We are not sure, indeed, that the case is not worse than the Tinier believes. Is the Warrior itself a match for the Monitor? It is useless now to talk of speed or magnificence; We don't want our war ships to run away successfully, or to be looked at admiringly, but to fight. How would the Monitor deal with the Warrior? The gnus of the first send shot of lYOlb.; the guns of the second, shots of lOOlb. ; t1o very shot that this Msrrinusc fired so nselessly. Again, the Monitor is practically invulnerable to existing artillery: is the Warrior the same? Why, both her extremities are of wood, and would be blazing in ten minutes, and every man in those parts be destroyed.
-But the question-and it is one of such solemn import as
+<div2 id="iln40.1138.002" n="America" type="article">
+<head>AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1138</biblScope> 
+           <biblScope type="pages">p. 329</biblScope> 
+           <date value="1862-04-05">Apr.5,1862</date>
+         <extent></extent>
+</bibl>
+<p>By the arrival of the City of Washington we are in receipt of telegrams from New York to the 22nd ult.</p>
 
-England, through all her momentous history, has rarely had to decide upon-now is, what shall we do? We must act, and set. instantly. There is no time now for any more scientific "expe. riments," or for red tape to be indulged with its usual hesita. tions and mental difficulties. We are actually without a war fleet. We shall be outstripped to a certainty by America, and possibly by France, if we do not move at once. Already-America is preparing to finish her Stevens battery, which promises. to 4. to the Monitor 's'at that was tothe htcrrimac, only wibh.all the material proportions reversed, so that it will be probably. equivalent to many Monitors, with a speed of twenty miles an hour instead of seven. A gigantic ram ’a also to be constrCCted; and, lastly above two millions and a half of money are to i. expended on a fleet of ordinary iron ships.
+<p rend="center">B<hi rend="smallcaps">ELLIGERENT OPERATIONS BY SEA AND LAND.</hi></p>
 
-What, then, ought we to do? If while endeavouring to
+<p>The Merriinac has not made her reappearance in Hampton Roads, where the Monitor (whose late commander, Lieut. Worden, is now totally blind with small hopes of recovering his sight) patiently awaits her advent.</p>
 
-answer that question we could hope to obtain the ear of any man in authority we would say to him with deep earnestness; this :-Oea.se the erection of all seaboard fortifications for the present, at least, and spend the money allotted for them in cutting down our most poweiful battleships, covering their lowered hulls with iron, building cupolas upon the; anti, arming these cupolas with guns that, how&ver few in number, will carry shot at least as heavy as the Dahigren of 1701b.. Treat Captain Oules as our cousins are treating captain, Ericsson-that is, put the right man into the right place, and give him hearty support when there. Then, for the future, offer attention and a eward to other men of inventive genius, who can improve upon the best existing models; for we mar depend upon it that we are now entering upon a race in which success will no longer be achieved by wealth or material
+<p>General Burnside has captured Newbern, on the coast of North
 
-resources, under merely ordinary conditions of skilful develop.-went, but that skill, science, and individual energy will only moderate means to obtain the greatest triumphs. But what Englialulian an doubt that in such a straggle we shall at least hold our own? What Englishman will doubt but that if wisely and promptly used, our existing naval wealth may in a. very short time be again fully realised under altered conditions, and so that whatever there may have been of soundness and justice in the idea of English supremacy on the seas shall be again ours? But let it not he said by history, as it has already been suggested in Parliament-it is harder to work a conversion in our Government than among our ships.
-AMERICA.
+Carolina. He reports as follows:--</p>
 
-By the arrival of the City of Washington we are in receipt of telegrams from New York to the 22nd ult.
+<p><q>By this victory we have captured eight batteries, containing forty-six heavy
 
-ELIIGREIT OPEJt ATIO1S BY SEA AND LAND.
+guns; three batteries of light artillery, making in all sixty-four guns; two
 
-The Merriinac has not made her reappearance in Hampton Roads, where the Monitor (whose late commander, Lient. Worden, is now totally blind with smell hopes of recovering his eight) patiently awaits her advent.
+steam-boats, a large quantity of ammunition, rosin, turpentine, and cotton, and over 200 prisoners. The Federal loss will amount to ninety-one killed and 466 wounded, many of them mortally. The rebel loss was savers, but not so great as the Federal loss, they being actually covered by their works.</q></p>
 
-General Buruside has captured Newbem, on the coast of North
+<p>The report that Mr. Yancey had been captured in a vessel trying to
 
-Carolina. He reports as follows
+rim the blockade lacks confirmation.</p>
 
-By this victory we have captured eight batteries, oontalning forty-six heavy
+<p>On land the Confederates have taken up a line of defence south of the Rappahannock, with their centre resting on Gordonsville, the junction of the Virginia Central and Virginia and Tennessee Railroads. Although little or no news concerning pending operations transpires, it is certain that a large portion of the Federal army is embarking at Alexandria for the probable purpose of advancing on Richmond by way of Fortress Monroe and James River. General M'Clellan has issued a florid address to his soldiers, promising to take them to a field of action where a decisive battle can be fought.</p>
 
-giuls; three batteries of light artillery, making in all sixty-four guns; two
-
-steam-boats, a large quantity of ammunition, rosin, turpentine, and cotton, and over 201) prisoners. The Federal lees will amount to ninety-one killed and 466 wounded, many of them mortally. The rebel loss was savers, but not so great as the Federal loss, they being eectually covered by their works.
-
-The report that Mr. Yancey had been captured in a vessel trying to
-
-rim the blockade lacks confirmation.
-
-On land the Confederates have taken up a line of defence south of the flappahennock, with their centre resting on Gordonaville, the junction of the Virginia Central and Virginia and Tennessee Railroads. Although little or no news concerning pending operations transpires, it is certain that a large portion of the Federal army s embarking at Alexandria for the probable purpose of advancing on Richmond by way of Fortress Monroe and James River. General M'Clellan has issued a florid address to his soldiers, promising to take them to a field of action where a decisive battle can be fought.'
-
- General Banks's corps-d'arme has occupied Strasburg without
+<p> General Banks's corps-d'arm&#x00e9;e has occupied Strasburg without
 
 opposition.
 
-From General Buell's army in Tennescee there is no news of impor
+From General Buell's army in Tennescee there is no news of impor-
 
 tance. A correspondent of a New York journal writes thus of the
 
-attitude of the citizens of Nashville
+attitude of the citizens of Nashville:--</p>
 
-The appearance of Nashville reminds one vividly of the towns and cities in
+<p><q>The appearance of Nashville reminds one vividly of the towns and cities in
 
-Igorthern Italy after the triumph of the Austrians over the revolution of 1848 Most of the stores continue closed. But few male and fewer female mba bitants are visible upon the streets; victorious soldiery alone enliven them Bali the private residences are deserted and add further gloom to the aspec.
+Northern Italy after the triumph of the Austrians over the revolution
+of 1848. Most of the stores continue closed. But few male and fewer
+female inhabitants are visible upon the streets; victorious soldiery
+alone enliven them. Half the private residences are deserted and add
+further gloom to the aspect by their closed doors and window-shutters and gravelike stillness. Altogether, Nashville looks much more like a conquered than a liberated city.</q>></p>
 
-I their closed doors and window-shutten and graTelike stillness. Altogether, il.shville looks much more like a conquered than a liberated city.
+<p>The Governors of Mississippi and Louisiana have issued calls for 15,000 more troops, whom General Beauregard will accept at Jackson in the former State.</p>
 
-The Governors of Mississippi and Louisiana have issued calls for 15,000 more troops, whom General Beauregard will accept at Jackson in the former State,
+<p>Island No.10 in the channel of the Mississippi has been the scene
+of a hot engagement between the defending Confederates and the
+besieging Federals. Commencing the bombardment on the 17th, after five
+days' bombardment by the Federals under Commodore Foote, the
+aasailants report that no decisive result has been obtained, although
+all the guns on the upper battery on the Kentucky side of the river have been silenced, and one gun on the island dismounted.</p>
 
-Island No. loin the channel of theMlasissipp'has been the scene of a hot engagement between the defending Confederates and the betieging Federals. Commencing the bombardment on the 17th, after five days' bombardment by the Federalsunder Commodore Foote, the aasailantareportthatno decisivereault has been obtained, aithoughalithe guns onthe upper batteryon theKentucky sideof the river have been silenced, and one gun on the island dismounted.
+<p>According to the official report of General Pope the success of the
 
-According to the official report of General Pope the success of the
+Federal arms at New Madrid is greater than was at first reported. ll the artillery, several thousands of smallarms, ammunition, cartridge-boxes, three hundred mules, several thousand tents, and 1,000,000 dollars' worth of other property fell into his hands. The men escaped during a heavy thunderstorm. They left behind them even their knapsacks and the baggage of their officers. The Federal loss was about fifty wounded. New Madrid was the last place held in Missouri by the Confederates.</p>
 
-Federal arms at New Madrid is greater than was at first reported. AU the artillery, several thousands of smailarms, ammunition, cartridge. boxes, three hundred mules, several thousand tents, and 1,000,000 dollars' worth of other property fell into his hands. The men ascaped during a heavy thunderstorm. They left behind them even their knapsacks and the baggage of their officers. The Federal loss was about filEy wounded. New Madrid was the last place held in Missouri by the Confederates.
+<p rend="center">MISCELLANEOUS.</p>
 
-MIScELLA1qEouS.
+<p>The proceedings of Congress have not been important. The Judiciary Committee of the Senate report favourably on the resolution offering the Senate's co-operation with President Lincoln's offer of emancipation by purchase to the slaveowners of the Border States.</p>
 
-The proceedings of Coness have not been important. The Judiciary Committee of the Senate report favourably on the resolution offering the Senate's co-operation with President Lincoln's offer of emancipation by pw"cbaae to the slaveowners of the Border States.
+<p>Mr. Wendell Phillips, the Abolitionist leader, has delivered a lecture on slavery and the war in the hall of the Smithsonian Institute, Washington. The President was not present; but many members of Congress were. He was received on the floor of the Senate, being introduced there by Senator Sumner; and he afterwards addressed a
 
-Mr. Wendell Phillips, the Abolitionist leader, has delivered a lecture on slavery and the war in the hail of the Smithsonian Institute, Washington. The President was not present; but many members of Congress were. He was received on the floor of the Senate, being introduced there by Senator Sumner; and he afterwards addressed a
+Massachusetts regiment stationed at Alexandria.</p>
+<p> The New York merchants are getting up a subscription for a
+testimonial to Captain Ericsson, the architect of the steam-battery Monitor. A letter he has written to Mr. Epes Sargent, of Boston, illustrates the moral which the Federals are drawing from the achievements of the Monitor:--</p>
 
-Massachusetts regiment stationed at Alexandria. The New York merchants are getting up a eubsoription for a testimonial to CaptainBricason, the architect of the steam-battery Monitor. A letter he has written to Mr. Bpes Sargent, of baton, illustrates the moral which the Federals are drawing from the achievements of the Monitor
+<p><q>My dear Sargent,-I accept with great pleasure your congratulations, and
 
-My dear Ssrgeut,-I accept with great pleasure your congratulations, and
-
-assure you that every exertion will be made on my part to furnish the nation
-
-suabl us 'o' dely or' t'me e ~e
-
-V'th war easels ea, *1'
-
-nte d a very h
-
-'s" g R~-bli_ f
-
-@ on d
-
-an cral _- I I a's ali
-
-r
-
-t V tacen
-
-d toth-Po arof d  the
-
-.7 the at It cold be fr. pr ly pp it so. Iry
-
-Eli make 7e
-
-J. llriosSoi.
+assure you that every exertion will be made on my part to furnish the
+nation with war vessels that will enable us to defy Europe. Give me
+only the requisite means, and in a very short time we can say to those
+Powers now bent on destroying Republican freedom, leave the Gulf of
+Mexico with your frail craft or perish&#x0021; I have all my life
+asserted that mechanical science will put an end to the power of
+England over the seas. The ocean is nature's highway between the
+nations. It should be free; and surely nature's laws, when properly
+applied, will make it so. Yours very truly, J. <hi rend="smallcaps">ERICSSON</hi></q></p></div2>
 'THE ILLUSTRATED LONDON- NEWS.
 
 &OJIDON, SATURDAY, APRIL 5,1862.
