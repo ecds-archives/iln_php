@@ -23,7 +23,12 @@ name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamin
 
   <!-- begin body -->
   <xsl:element name="body">
-     <xsl:attribute name="onload">toggle_init(<xsl:value-of select="$total_count"/>)</xsl:attribute>
+<!--     <xsl:attribute name="onload">toggle_init(<xsl:value-of
+select="$total_count"/>)</xsl:attribute> -->
+
+    <xsl:attribute name="onload">load_status(<xsl:value-of select="$total_count"/>)</xsl:attribute> 
+    <xsl:attribute name="onunload">store_status(<xsl:value-of select="$total_count"/>)</xsl:attribute> 
+
 
   <xsl:element name="noscript">
   <i>Note: This site works best with Javascript enabled.</i>
