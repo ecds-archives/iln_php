@@ -3,52 +3,63 @@
 // pass article id as argument, for example:
 // browse.php?id=iln38.1068.002
 // optionally, pass search terms for highlighting; for example;
-// browse.php?id=iln38.1068.002&match=lincoln  (for two terms: match=lincoln|america)
+// browse.php?id=iln38.1068.002&term=lincoln  
 
-include("iln_functions.php");
+include("common_functions.php");
 $id = $_GET["id"];
-$match = $_GET["match"];
-
-
-$url = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']&_xslsrc=xsl:stylesheet/browse_ptolemy.xsl";
-?>
+$term = $_GET["term"];
+$term2 = $_GET["term2"];
+$term3 = $_GET["term3"];
 
 
 
-<html>
-<head>
-<title>Browse - The Civil War in America from The Illustrated London News</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="Javascript" 
-	src="http://chaucer.library.emory.edu/iln/browser-css.js"></script>
-<script language="Javascript" 
-	src="http://chaucer.library.emory.edu/iln/content-list.js"></script>
-<link rel="stylesheet" type="text/css" href="http://chaucer.library.emory.edu/iln/contents.css">
+//$url = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
+$url = "http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xql=TEI.2//div1/div2[@id='" . $id . "']";
 
-</head>
+$xsl_file = "browse.xsl";
 
-<?php
-include("head.xml");
-include("sidebar.xml");
+html_head("Browse - Article");
+
+include("xml/head.xml");
+include("xml/sidebar.xml");
 ?>
 
    <div class="content"> 
 
 
 <?php
-$lines = file ($url);
-if ($match != '') {
-  foreach ($lines as $l) echo highlight($l, $match);
+
+   if ($term) {
+     print "<p align='center'>The following search terms have been highlighted: ";
+     print "&nbsp; $begin_hi$term$end_hi &nbsp;";
+     if ($term2) { print "&nbsp; $begin_hi2$term2$end_hi &nbsp;"; }
+     if ($term3) { print "&nbsp; $begin_hi3$term3$end_hi &nbsp;"; }
+     print '<hr width="50%">';
+ }
+
+if ($id) {
+  // if id is defined, get the content & transform it
+  $xmlContent = file_get_contents($url);
+  
+  $result = transform($xmlContent, $xsl_file);
+  if ($term) {
+    print highlight($result, $term, $term2, $term3);
+  } else {
+    print $result;
+  }
+  
+
 } else {
-  foreach ($lines as $l) echo $l;
+  print "<p class='error'>Error: No article specified!</p>";
 }
+
 ?>
 
 
   </div>
    
 <?php
-  include("foot.xml");
+  include("xml/foot.xml");
 ?>
 
 

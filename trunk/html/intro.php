@@ -8,8 +8,8 @@
 
 <body>
 <?php
-include("head.xml");
-include("sidebar.xml");
+include("xml/head.xml");
+include("xml/sidebar.xml");
 ?>
 
    <div class="content"> 
@@ -64,7 +64,7 @@ include("sidebar.xml");
 
   </div> <!-- content -->
 <?php
-  include("foot.xml");
+  include("xml/foot.xml");
 ?>
 
 
