@@ -39,7 +39,6 @@ print "<html>
 <script language=\"Javascript\" 
 	src=\"http://cti.library.emory.edu/iln/cookies.js\"></script>
 <script language=\"Javascript\" 
-	src=\"http://reagan.library.emory.edu/rebecca/ilnweb/content-list.js\"></script>
 	src=\"http://cti.library.emory.edu/iln/content-list.js\"></script>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"http://cti.library.emory.edu/iln/contents.css\">
  </head>";
