@@ -3,7 +3,7 @@
 // pass figure entity as argument, for example:
 // figure.php?id=v38p87
 
-
+include("config.php");
 include("common_functions.php");
 
 $id = $_GET["id"];
@@ -19,7 +19,7 @@ if ($js == 'no') {
 html_head("Illustration");
 
 
-$url = "http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
+$url = "http://$tamino_server/tamino/$tamino_db/$tamino_coll?_xql=/TEI.2//figure[@entity='" . $id ."']&_encoding=utf-8";
 
 $xmlContent = file_get_contents($url);
 
