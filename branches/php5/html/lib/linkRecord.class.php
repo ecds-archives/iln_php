@@ -1,10 +1,7 @@
 <?php
 
 include_once("taminoConnection.class.php");
-include_once("common_funcs.php");
 include_once("subjectList.class.php");
-include_once("phpDOM/classes/include.php");
-import("org.active-link.xml.XML");
 
 class linkRecord {
 
@@ -131,32 +128,35 @@ class linkRecord {
       print "<p>LinkRecord Error: failed to retrieve linkRecord from Tamino.<br>";
       print "(Tamino error code $rval)</p>";
     } else {            // xquery succeeded
-      $xmlRecord = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord");
-
+     $this->tamino->xpath->registerNamespace("dc", "http://purl.org/dc/elements/1.1/");
+     $this->tamino->xpath->registerNamespace("ino", "http://namespaces.softwareag.com/tamino/response2");
+      $this->tamino->xpath->registerNamespace("xq", "http://namespaces.softwareag.com/tamino/XQuery/result");
       // id should be set initially (key value)
-      //      $this->id = $this->tamino->xml->getTagAttribute("id", "ino:response/xq:result/linkRecord");
-      if ($xmlRecord) {
-	// Cycle through all of the branches (so order won't matter)
-	foreach ($xmlRecord as $branch) {
-	  if ($val = $branch->getTagContent("dc:identifier")) {
-	    $this->url = $val;
-	  } else if ($val = $branch->getTagContent("dc:title")) {
-	    $this->title = $val;
-	  } else if ($val = $branch->getTagContent("dc:description")) {
-	    $this->description = $val;
-	  } else if ($val = $branch->getTagContent("dc:date")) {
-	    $this->date = $val;
-	    $this->lastModified = $this->date;
-	  } else if ($val = $branch->getTagContent("dc:contributor")) {
-	    $this->contributor = $val;
-	  } else if ($val = $branch->getTagContent("dc:subject")) {
-	    array_push($this->subject, $val);
-	  }       
-	}
+      // Note: get element by tag and namespace does not seem to work
+//       $val = $this->tamino->xml->getElementsByTagNameNS("dc", "identifier");
+       $val = $this->tamino->xml->getElementsByTagName("identifier");
+       if ($val) { $this->url = $val->item(0)->textContent; }
+       $val = $this->tamino->xml->getElementsByTagName("title");
+       if ($val) { $this->title = $val->item(0)->textContent; }
+       $val = $this->tamino->xml->getElementsByTagName("description");
+       if ($val) { $this->description = $val->item(0)->textContent; }
+       $val = $this->tamino->xml->getElementsByTagName("date");
+       if ($val) { $this->date = $val->item(0)->textContent; }
+       $val = $this->tamino->xml->getElementsByTagName("contributor");
+       if ($val) { $this->contributor = $val->item(0)->textContent; }
+       $val = $this->tamino->xml->getElementsByTagName("subject");
+       for ($i = 0; $val->item($i); $i++) {
+ 	    array_push($this->subject, $val->item($i));
+       }
+     }
 	// get any editing information
 
 
-	$edits = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord/edit");
+    /*
+
+	FIXME: edits still need to be updated to use php5 xml dom stuff
+    
+    $edits = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord/edit");
 	//	$edits = $xmlRecord[0]->getBranches("edit");
 	if ($edits) {
 	  // arrays to store values temporarily, to get into linkEdit objects
@@ -184,11 +184,12 @@ class linkRecord {
 	    $this->addEdit($edit_args);
 	  }
 	}
+    */
 
-      } else {
-	print "<p>LinkRecord Error: no linkRecord found in XML response.<br>";
-      }
-    }
+	//      } else {
+	//	print "<p>LinkRecord Error: no linkRecord found in XML response.<br>";
+	//      }
+	// }
   }
 
   // Delete record from tamino
