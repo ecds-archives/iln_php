@@ -25,7 +25,7 @@ $operator = $_GET["op"];  // and|or
 
 $args = array('host' => "vip.library.emory.edu",
 	      'db' => "BECKCTR",
-	      //	      'debug' => true,
+	      'debug' => false,
 	      'coll' => 'ILN');
 $tamino = new taminoConnection($args);
 $xsl    = "search.xsl";
@@ -47,7 +47,8 @@ switch ($region) {
  case "article" : $reg = "p"; break;
  case "title"   : $reg = "head"; break;
  case "date"    : $reg = "bibl/date"; break;
- case "illustration" : $reg = "@type='Illustration' and ."; break;
+   // case "illustration" : $reg = "@type='Illustration' and ."; break;
+ case "illustration" : $reg = "p/figure/head"; break;
  case "document":   // same as default
  default:          $reg = "."; break;
 }
@@ -59,7 +60,8 @@ if ($term2 != '') {
    case "article" : $reg2 = "p"; break;
    case "title"   : $reg2 = "head"; break;
    case "date"    : $reg2 = "bibl/date"; break;
-   case "illustration" : $reg2 = "@type='Illustration' and ."; break;
+     //   case "illustration" : $reg2 = "@type='Illustration' and ."; break;
+   case "illustration" : $reg2 = "p/figure/head"; break;
    case "document":   // same as default
    default:          $reg2 = "."; break;
   }
