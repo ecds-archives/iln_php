@@ -17,9 +17,6 @@
                </p>
   </div2>
 
-{ILLUSTRATION: THE THE AMERICAN PONY EXPRESS, EN ROUTE FROM THE MISSOURI RIVER TO SAN FRANCISCO.-FROM A DRAWING BY G.H. ANDREWS.}
-[XXXIX, 386, 10/12/61]
-
 <div2>
 <head>[Some of our readers]</head>
       <bibl> 
@@ -34,7 +31,7 @@
 <p>The great importance of maintaining rapid communication between the States of the American Union situation of the Atlantic and Pacific seaboards has long been felt, and numerous projects for connecting them by railways have been continually before Congress, but to the present time scarcely anything has been done either towards the railway or telegraph.  Between the Missouri River and California-a distance of 2000 miles-there exists a huge wilderness of prairies, arid plains, mountains, forests, and two huge mountain-chains-the Rocky and the Cascade Ranges.  Through the whole of this must an Atlantic and Pacific railway be carried when it is made, if it be made through the United States' Territory.  The railway works were extraordinary in perforating and climbing the Alleghanies.  Railways are now being made through the mountains in India, and in other places where tremendous obstacles have to be overcome, yet on none of the lines made or being made do such formidable barriers exist as are found between the Atlantic and Pacific States of the American union.  The present unhappy state of affairs-the waste of war-is draining the national exchequer dry, and deferring to a distant date the completion of the most important work the United States' Government has had in hand since the declaration of independence-the binding their eastern and western territory together with a band of iron.</p>
 <p>Mr. W. H. Russell, of the firm of Russell, Major, and Waddel, extensive Government contractors for the conveyance of stores overland to the States on the west side of the Rocky Mountains, having observed the daily-increasing importance of a more rapid means of communication than then existed, hit upon the exceedingly bold idea of running a pony express from the Missouri River to the Pacific Ocean, carrying a telegram from New York, or any other part of the States, to San Francisco in eight days, and a letter in thirteen.  Those who knew the country through which the express must pass shook their heads, and said it would never do; the route was far north, the winter severe, the roads impassable, the snow lying often fifteen feet deep on the ground.  It then took  115 days to make a quick passage between New York and San Francisco.</p>
 <p>Mr. Russell was not the man to set aside a plan he had made up his mind he could carry out by any multiplication of difficulties: he therefore prepared to make the attempt.  First he built stations all along the route and stocked them well and plentifully, then engaged a corps of fearless and trustworthy riders, and purchased about six hundred horses, the very best that money could procure.  Having done all this and a great deal more that was necessary, on April 9, 1860, two ponies started simultaneously, one from San Francisco, and the other from St. Joseph, on the Missouri; and, although the season was most unfavourable, the mud being in some places two or three feet deep, yet the entire distance, one thousand nine hundred miles, was run in seven days and a half, carrying dispatches from New York and San Francisco.  This performance is the more remarkable because the early part of April is considered the very worst season of the year: the snows on the mountains are deep, and on the plains the rivers are swollen and filled with floating ice.  Old mountaineers consider April as bad as any winter month on the mountains, and worse on the plains.  The pony express, being "un fait accompli,"  continued to run regularly with letters once a week from each end, traveling invariably to a time schedule, until the month of June, when a source of trouble appeared  which had long given cause for anxiety.  The wild Indians of the western plains began to meddle with the express, and shot dead from his horse one of the couriers.  His body was found a few days after, stripped of everything; but the bag of letters remained beside him untouched.  The horse and the firearms are what the Indians want, and they wisely consider that meddling with the letters would only unnecessarily irritate Uncle Sam without doing them any good.
-The dangerous ground extended about three hundred and fifty miles from Salt Lake, in Utah territory, west to Carson City.  In this district the inter- <pb n="386"> ruptions became so incessant that it was considered necessary to "hand off the pony" from that particular section of the route.  On the other portions the express continued to run, delivering its letters at Salt Lake and Carson City, where they accumulated, waiting the first favourable opportunity to push through with safety.</p>
+The dangerous ground extended about three hundred and fifty miles from Salt Lake, in Utah territory, west to Carson City.  In this district the inter-<pb n="387">ruptions became so incessant that it was considered necessary to "hand off the pony" from that particular section of the route.  On the other portions the express continued to run, delivering its letters at Salt Lake and Carson City, where they accumulated, waiting the first favourable opportunity to push through with safety.</p>
 
 <p>Those unacquainted with the country west of the Rocky Mountains can scarcely appreciate the difficulty  and danger attending a journey through it.  For hundreds of miles it is a long dreary waste, inhabited only by bands of warlike Indians, who prowl about robbing and killing as they choose, and dotted at every fifteen miles of distance with the stations of the pony express, in charge of two or three persons. Occasionally  its monotony is broken by the passage of a train of emigrant <orig reg="wagons">waggons</orig> bound west to California or Oregon.  Night and day, heedless of the weather or the attacks of the redskins, the pony courier dashes along, at the rate of twelve miles an hour, his revolver in his belt, his hand on the trigger of his rifle, his eye watching intently for redskins, so that he may have the first shot; under him, on the saddle, is the bag of letters so anxiously looked forward to in New York, for they tell important things-how ships have sailed for Europe laden with Californian gold, of terrible wrecks and losses, or of rising markets and great gains, or perhaps how the votes have counted that decide the destiny of States.  Not only to America is this bold and solitary rider's leather saddle-bag of interest, but on to Europe will electricity and steam send many a long-looked-for message which it contains; and the merchant on many a change in the Old World will tell of news he has received so soon from the farthest shores of the Pacific.  He little knows, and less cares, for the hairbreadth dangers run by this lonely courier of the plains and mountains.  Altogether, the Pony Express Company have lost six men killed by the Indians.  They, however, provide liberally for the wives and families, if there be any.</p>
 <p>It is a remarkable fact that they have as yet lost only one mail, and this one was lost under peculiar circumstances.  The letters are inclosed in two leather bags, which are slung across the pony's back, and are kept in their place by the rider sitting on them, so that in case of anything happening to him the bags fall off and are recovered, though the pony scamper off and be lost.  In the case alluded to the rider had, against special instructions, fastened the bags to the saddle.  On a dark night in July, 1860, the express, bound east, on crossing the bridge over the Platt River, stumbled over an ox that had taken up its quarters there for the night, and was precipitated into the river.  The rider reached the shore, but the pony and the mails were gone no one knows wither, never having been heard of to this day.</p>
@@ -60,9 +57,8 @@ _________
            <date value="1861-10-12">October 12, 1861</date>
 	</bibl>
 
-<p rend="center">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
-<p rend="center">JOURNEYS AND EXPLORATIONS IN THE COTTON KINGDOM. BY</p> 
-<p rend="center">FREDERICK LAW OLMSTED.  Sampson Low and Son.</p>
+<p rend="center">JOURNEYS AND EXPLORATIONS IN THE COTTON KINGDOM. BY<lb/> 
+FREDERICK LAW OLMSTED.  Sampson Low and Son.</p>
 <p>At this moment the word "cotton" sounds so ominously in the ears of political economists that it is not to be wondered at that publications on that subject are somewhat rife.  There is enough of anxiety and doubt with regard to this staple article of raw material to render any ststistical statements welcome, and to cause any amount of the cotton-growing regions of America to be interesting.  Mr. Olmstead's observations on cotton and slavery in the American Slave States, which, we are informed, are based on three former volumes of journeys and investigations by the same author, are written by a gentleman who went directly from his farm in the State of New York into the Slave States.  It is probable, therefore, that one qualification for this work-entire impartiality-may in some degree be wanting; but, on the whole, there does not appear to be any desire on the part of the writer to misrepresent or exaggerate. Perhaps the insensible influences at work in his mind are most brought to bear in his first chapter-on the "Present Crisis,"  and which is introductory to the rest of the work.  Here he starts with an assertion that the rest of the citizens of the United States have submitted to many indignities in order to preserve the tranquillity of the South; and, in answer to the dogma that the South can never be subjugated, he replies that it must, or the North must; that it must be, or not only is the American Republic a failure, but its English justice, its English law, and its English freedom are failures.  It need hardly be added that the whole argument in this chapter goes to show that slavery is beneficial neither to the proprietors of slaves nor to the cultivation of cotton.  He maintains that one of the grand errors out of which the rebellion of the South has grown came from supposing that whatever nourishes wealth and gives power to an ordinary <orig reg="civilized">civilised</orig> community must command as much for a slave-holding community.  He contends that the truth has been overlooked, that the accumulation of wealth and the power of a nation are contingent not merely upon the primary value of the surplus of productions of which it has to dispose, but very largely, also, upon the way in which the income from its surplus is distributed and reinvested.  "Let a man," he says, "be absent from any part of the North twenty years, and he is struck on his return by what are called 'improvements' which have been made-better buildings, churches, schoolhouses, mills, railroads, &c.  In New York City alone, for instance, at least two hundred millions of dollars have been reinvested merely in an improved housing of the people; in labour-saving machinery, waterworks, gasworks, and so on, as much more.  It is not difficult to see where the profits of the merchants and manufacturers are.  Again, go into the country and there is no end of substantial proof of twenty years of agricultural prosperity, not alone in roads, canals, bridges, dwellings, barns, and fences, but in books and furniture, and gardens and pictures, and in the better dress and evidently higher education of the people.  But where will the returning <orig reg="traveler">traveller</orig> see the accumulative cotton profits of twenty years in Mississippi?  Ask the cotton-planter for them, and he will point, in reply, not to dwellings and churches, libraries, schoolhouses, mills, railroads, or anything of the kind; he will point to his negroes-to almost nothing else.  Negroes such as stood for 500 dollars represent now 1000 dollars.  It is to Virginia and those Northern Slave States which have the monopoly of supplying negroes for the real wealth which the sale of cotton has brought to the South.  But where is the evidence of it?  where anything to compare with the evidence of accumulated profits to be seen in any free State?  If certain portions of Virginia have been a little improving, others unquestionably have been deteriorating-growing shabbier, more comfortless, less convenient.  The total increase in wealth of the population during the last twenty years shows almost for nothing.  One year's improvements of a Free State exceed it all."  Again the author observes:-"Whither the profits of cotton go it is not my purpose here to undertake to show.  I will barely notice the hypocritical statement made for the English market as an apology for the mad crime of  the slaveholders, that they are greatly absorbed  in contributions made by the Planting States to our national treasury in payments of duties on importations.  The cotton-planters pay duties only on what they consume of foreign goods.  A very large part of all our duties are collected on a class of goods for which there is almost no demand at all from the South, either directly or indirectly- <orig reg="woolen">woollen</orig> and fur goods, for instance.  Of the goods required for the South not a few have been practically free.  The whole slave population of the South consumes almost nothing imported (nor could it, while slave, under any circumstances).  The majority of the white population habitually makes use of no foreign production except chicory, which, ground with peas, they call coffee.  I have never seen reason to believe that with absolute free trade the Cotton States could take a tenth part of the value of our present importations; and, as far as I can judge from observation of the comparative use of foreign goods at the South and at the North, not a tenth part of our duties have been defrayed by the South in the last twenty years.  The most indefensible protective duty we have is one called for by the South, and which has been maintained solely to benefit the South.  Our protective system had a Southern origin, and its most powerful advocates have been Southerners, and there has not been a year in the last twenty in which it could have been maintained but for Southern votes."</p>
   <p> Having thus let Mr. Olmsted speak his opinions for himself, evidencing the spirit in which he most likely undertook his journey to the South, we proceed to state that his first <orig reg="traveling">travelling</orig> chapter begins at Washington, and it contains some not unamusing sketches of life and character in that capital.  It is stated that the coloured population voluntarily sustain several churches, schools, and mutual assistance and improvement societies, and there are evidently among them persons of no inconsiderable cultivation of mind.  Among the police reports of the city newspapers there appeared an account of the apprehension of tweny-four "genteel, coloured men" (so they were termed) who had been found by a watchman assembling privately in the evening, and had been lodged in the watchhouse.  The object of their meeting appeared to be purely benevolent, and when they were examined before a magistrate in the morning no evidence was offered, nor did there seem to be any suspicion that they had any criminal purpose.  On searching these persons there were found a Bible, a volume of "Seneca's Morals," "Life in Earnest," the printed constitution of a society the object of which was said to be "to relieve the sick and to bury the dead;" and a subscription-paper to purchase the freedom of Eliza Howard, a young woman whom her owner was willing to sell for 650 dols.  Characteristic enough all this; but it must be understood that these were not slaves.  The transit which our traveler next makes through Virginia is minutely set out with all its details of life and character, especial attention being paid to descriptions of negro life, habits, and status.  The conclusion to which he arrives with regard to the economic condition of the State may be summed in a phrase which he uses when he says that it is "shiftless."  As a whole, the community makes shift to live, some part tolerably, the most part wretchedly enough, with arrangements such as one might expect to find in a country in stress of war.  North Carolina is dealt with almost equally in detail, and fares no better in the author's opinion.  South Carolina and Georgia are next surveyed, and thence the route is through the south-west to Alabama and Mississippi on to Louisiana, and thence through Texas.  In Louisiana the sugar estates and the machinery meet with more favourable notice than usually characterises the writer's observations.  After a description of a passage through South-western Louisiana and Eastern Texas, a trip into Northern Mississippi, and the interior cotton districts of Central Mississippi, &c., the work treats of the exceptional large planters, of slavery in its property aspect, moral and religious instruction of the slaves; of slavery as a poor-law system, in which an elaborate comparison is given between the condition and sustentation of the Northern and Southern labourers.  The chapter on Cotton Supply and White Labour in the Cotton Climate is well worth consideration, as therein is argued the whole question whether the production of cotton depends on slave labour or not.  Equally interesting are the dissertations contained in the sections which relate to the condition and character of the privileged classes of the South, and that on the danger of the South.  That they are discussed in something of the tone of an advocate was to be expected; but the argument is so filled out with facts and statements of effects traceable to undoubted causes that those who read the work before us from a purely abstract and unconventional point of view will gain much-very much-on which to ground an unbiassed opinion.  In an appendix a collection of ststistics is given relating to the condition of Virginia;  but it was hardly to be expected that under the head of "The Slave Trade in Virginia" we should find reproduced only an extract from Chambers's Journal.  There are also some statistics of the Georgia seaboard.  It should be stated that the book, although dealing with very serious subjects, and treating them in a very serious spirit, is by no means a dry narrative of travel and a pedantic description of what was seen, and heard, and collected.  On the contrary, it is continually broken by lighter matter; and attempts-not wholly unsuccessful-have been made to give it in many parts a popular-that is, an amusing-tone.  As a whole, it will, we think, be found acceptable to those in this country-and they are many-who, watching the painful contest which is now going on in America, may desire some insight which they did not possess before into its motive causes.</p>
 </div2>
@@ -74,7 +70,7 @@ _________
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
            <biblScope type="issue">no. 1113</biblScope> 
-           <biblScope type="pages">p. 386</biblScope> 
+           <biblScope type="pages">p. 393</biblScope> 
            <date value="1861-10-19">October 19, 1861</date>
 	</bibl>
 
@@ -165,7 +161,7 @@ _________
 </div2>
 
  <div2>
-               <head>[FORT OCRACOKE.]</head>
+               <head>FORT OCRACOKE.</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
@@ -181,11 +177,8 @@ _________
                </p>
   </div2>
 
-{ILLUSTRATION: THE WAR IN AMERICA:-FORT OCRACOKE, ON BEACON ISLAND, NORTH CAROLINA, DESTROYED BY FIRE ON THE 17TH ULT. BY THE FEDERALISTS.}
-[XXXIX, 411, 10/19/61]
-
  <div2>
-               <head>[A CONFEDERATE DESERTER.]</head>
+               <head>A CONFEDERATE DESERTER.</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
@@ -201,9 +194,6 @@ _________
                </p>
   </div2>
 
-   {ILLUSTRATION: THE WAR IN AMERICA:-A CONFEDERATE DESERTER COMING INTO THE FEDERAL LINES AT MUNSON'S HILL.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE NEXT PAGE.}
-[XXXIX, 411, 10/19/61]
-
 
 <div2>
 <head>ILLUSTRATIONS OF THE WAR IN AMERICA</head>
@@ -216,15 +206,16 @@ _________
 	</bibl>
 
 
-<hi rend="center">DESTRUCTION OF FORT OCRACOKE, ON BEACON ISLAND, NORTH CAROLINA</hi>
+<hi rend="center">DESTRUCTION OF FORT OCRACOKE, ON BEACON ISLAND,<lb/>
+ NORTH CAROLINA</hi>
 
 <p>O<hi rend="smallcaps">N</hi> the 16th ult. an expedition left Fortress Monroe to take and destory the fort on Beacon Island, near the entrance to the Sound.  It was under the command of Lieutenant Eastman, of the Pawnee, and consisted of sixty-five men from the Coast Guard, and a detachment of sailors and marines from the Pawnee, in the ship's launch.  The Coast Guard were on board the Fanny, which towed the launch down.  The landing was safely effected.  The fort was found deserted.  The remainder of the day and the next day were occupied in destroying the pieces of ordnance found in the fort, of which twenty-two were rendered unserviceable.  The torch was then applied to the bombproofs and magazines, and also to the lighthouse on the island.  The conflagration raged furiously all night, the light being plainly visible thirty miles distant.  After having completed the destruction of the fort, the expedition returned to Fort Monroe without the loss of a man.</p>
 
-<hi rend="center">CONFEDERATE DESERTER COMING INTO THE FEDERAL LINES AT MUNSON'S HILL.</hi>
+<hi rend="center">CONFEDERATE DESERTER COMING INTO THE FEDERAL LINES AT<lb/>
+ MUNSON'S HILL.</hi>
 
 <p>O<hi rend="smallcaps">UR</hi> Special Artist in the Federal camp writes as follows respecting the second Engraving:-On the 19th inst., while I was out at the extreme advanced picket in front of the Confederate position at Munson's Hill, I was much startled by a sudden popping all along the enemy's line, the bullets pinging over our heads in every direction.  Raising myself cautiously I saw a Confederate soldier bounding through the tall Indian corn, and making for our lines, while two hundred yards behind him his former comrades were doing their best to stop his career.  He ran the gauntlet without a single shot taking effect, and turned out to belong to the 13th Virginian Regiment.  He told us that Jefferson Davis and Beauregard were on the hill reconnoitring, and that there were 180,000 Confederates between that post and Fairfax.</p>
 </div2>
-[XXXIX, 412, 10/19/61]
 
 
 <div2>
@@ -343,9 +334,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
                </p>
   </div2>
 
-{ILLUSTRATION: FRANKLIN'S BRIGADE PASSING ARLINGTON MILL ON ITS WAY TO OCCUPY MUNSON'S HILL.}
-[XXXIX, 438, 10/26/61]
-
 <div2>
                <head>A PORTION OF THE CONFEDERATE WORKS ON MUNSON'S HILL.</head>
                <bibl> 
@@ -363,9 +351,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
                </p>
   </div2>
 
-{ILLUSTRATION: A PORTION OF THE CONFEDERATE WORKS ON MUNSON'S HILL.}
-[XXXIX, 438, 10/26/61]
-
 <div2>
 <head> [THE Confederates having evacuated Munosn's-hill]</head>
       <bibl> 
@@ -379,7 +364,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 <p>T<hi rend="smallcaps">HE</hi> Confederates having evacuted Munson's-hill, and other positions before Washington, they have been occupied, as previously reported, by the Federals as far as Lewinsville.  A great part of the defences of the Confederates were make-believe, painted logs for guns, and so forth.  The scene at the top of the hill, in the earthwork itself, was (says one account) one of the most amusing that could be imagined.  Everybody was laughing.  The utter absurdity of the works as means of defence, their smallness, meanness, insignificance, touched everybody's sense of the ludicrous.  The inclosure comprises about four acres, around which earth is roughly thrown up to a height of perhaps four feet.  Of course there is no ditch, no glacis-nothing, in fact, to give it the character of a fortification of any kind.  It is not even regular in form, but coils loosely and waveringly about the ground, as a huge snake might enfold it.  In every respect it looks a squirmy piece of work.  There are no embrasures for guns, but upon two of its projections are mounted-what? guns?  No, indeed, but old logs, with a black circle painted in the centre of the sawed part to represent a formidable armament.  At such a distance as that of Bailey's-roads the deception might very easily have remained undetected.  In the middle of this wretched "fort" the remains of a hastily-constructed hut still stood, but, with the exception of a few trees, it contained nothing else.  Behind it, on the slope of the hill, were a group of irregular shanties, thrown together for the protection of troops.  Their number was sufficient for the accommodation of about one regiment-certainly not more.</p>
 <p> Our special Artist has sent us three Sketches, herewith engraved, in connection with the advance of the Federalists on Munson's-hill.  At the left of the last Illustration is depicted Count de Paris (alias Captain Louis d'Orleans), and next to him is the Duc de Chartres (alias Captain Robert d'Orleans), both of whom are on General M'Clellan's Staff.</p>
 	</div2>
-[XXXIX, 438, 10/26/61]
 
 <div2>
                <head>GENERAL M'CLELLAN OCCUPYING THE CONFEDERATE POSITION AT MUNSON'S HILL</head>
@@ -398,9 +382,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
                </p>
   </div2>
 
-{ILLUSTRATION: GENERAL M'CLELLAN OCCUPYING THE CONFEDERATE POSITION AT MUNSON'S HILL}
-[XXXIX, 438, 10/26/61]
-
 <div2>
 <head>THE CIVIL WAR IN AMERICA</head>
       <bibl> 
@@ -415,8 +396,8 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 
 <p rend="center">BELLIGERENT OPERATIONS ON SEA AND LAND.</p>
 
-<p>The report of the discomforture of the Federal blockading squadron off New Orleans is not believed by the Navy Department at Washington.  It is, however, reiterated with greater circumstantiality in the following despatch of  Commander Hollins, of the Confederate States' Navy:</p>
-<p>   FORT JACKSON, Oct. 12.-Last night I attacked the blockaders with my little fleet.  I succeeded after a very short struggle in driving them all aground in the South-west Pass Bar, except the Preble, which I sunk.  I captured a prize from them, and after they were fast in the sand I peppered them well.  There were no casualities on our side.  It was a complete success.</p>
+<p>The report of the discomforture of the Federal blockading squadron off New Orleans is not believed by the Navy Department at Washington.  It is, however, reiterated with greater circumstantiality in the following despatch of  Commander Hollins, of the Confederate States' Navy:-</p>
+<quote rend="blockquote">F<hi rend="smallcaps">ORT</hi> J<hi rend="smallcaps">ACKSON</hi>, Oct. 12.-Last night I attacked the blockaders with my little fleet.  I succeeded after a very short struggle in driving them all aground in the South-west Pass Bar, except the Preble, which I sunk.  I captured a prize from them, and after they were fast in the sand I peppered them well.  There were no casualities on our side.  It was a complete success.</quote>
 <p rend="right">(Signed)    HOLLINS.</p>
 
 <p>A dispatch from New Orleans, dated the 13th, says the force of the Federal fleet was 40 guns and nearly 1000 men, while the Confederate fleet was 16 guns and 300 men.</p>
@@ -439,13 +420,13 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 
 <p>   The Secretary of State has sent a letter to the Governors of the loyal States calling upon them to adopt measures for defending the coasts.  This letter is conceived in these terms:-</p>
 <p rend="right">Department of State, Washington, Oct. 14.</p>
-<p>   Sir,-The present insurrection had not even revealed itself in arms when disloyal citizens hastened to foreign countries to invoke their intervention for the overthrow of the Government and the destruction of the Federal Union.  These agents are known to have made their appeals to some of the more important States without success.  It is not likely, however, that they will remain content with such refusals.  Indeed, it is understood that they are industriously endeavouring to accomplish their disloyal purposes by degrees and by indirection.  Taking advantage of the embarrassments of agriculture, manufacture, and commerce in foreign countries, resulting from the insurrection they have inaugurated at home, they seek to involve our common country in controversies with States with which every public interest and every interest of mankind require that it shall remain in relations of peace, amity, and friendship.  I am able to state for your satisfaction that the prospect of any such disturbance is now less serious than it has been at any previous period during the course of the insurrection.  It is, nevertheless, necessary now, as it has hitherto been, to take every precaution that is possible to avoid the evils of foreign war to be superinduced upon those of civil commotion which we are endeavouring to cure.</p>
+<quote rend="blockquote">Sir,-The present insurrection had not even revealed itself in arms when disloyal citizens hastened to foreign countries to invoke their intervention for the overthrow of the Government and the destruction of the Federal Union.  These agents are known to have made their appeals to some of the more important States without success.  It is not likely, however, that they will remain content with such refusals.  Indeed, it is understood that they are industriously endeavouring to accomplish their disloyal purposes by degrees and by indirection.  Taking advantage of the embarrassments of agriculture, manufacture, and commerce in foreign countries, resulting from the insurrection they have inaugurated at home, they seek to involve our common country in controversies with States with which every public interest and every interest of mankind require that it shall remain in relations of peace, amity, and friendship.  I am able to state for your satisfaction that the prospect of any such disturbance is now less serious than it has been at any previous period during the course of the insurrection.  It is, nevertheless, necessary now, as it has hitherto been, to take every precaution that is possible to avoid the evils of foreign war to be superinduced upon those of civil commotion which we are endeavouring to cure.</p>
 <p>   One of the most obvious of such precautions is that our ports and harbours on the seas and lakes should be put in a condition of complete defence, for any nation may be said voluntarily to incur danger in tempestuous seasons when it fails to show that it has sheltered itself on every side from which the storm might possibly come.</p>
 <p>   The measures which the Executive can adopt in this emergency are such only as Congress has sanctioned and for which it has provided.</p>
 <p>   The President is putting forth the most diligent efforts to execute these measures, and we have the great satisfaction of seeing that these efforts are seconded by the favour, aid, and support of a loyal, patriotic, and self-sacrificing people, who are rapidly bringing the military and naval forces of the United States into the highest state of efficiency.</p>
 <p>   But Congress was chiefly absorbed during its recent extra Session with those measures, and did not provide as amply as could be wished for the fortification of our sea and lake coasts.  In previous wars the loyal States have applied themselves by independent and separate activity to the support and aid of the Federal Government in its arduous responsibilities.  The same disposition has been manifested in a degree eminently honourable by all the loyal States during the present insurrection.  In view of this fact, and relying upon the increase and continuance of the same disposition on the part of the loyal States, the President has directed me to invite your consideration to the subject of the improvement and perfection of the defences of the State over which you preside, and to ask you to submit the subject to the consideration of the Legislature when it shall have assembled.  Such proceedings by the State would require only a temporary use of its means.  The expenditures ought to be made the subject of conferences with the Federal Government.  Being thus made with the concurrence of the Government for general defence, there is every reason to believe that Congress would sanction what the State would do, and would provide for its reimbursement.  </p>
 <p>   Should these suggestions be accepted, the President will direct the proper agents of the Federal Government to confer with you, and to superintend, direct, and conduct the prosecution of the system of defence of your State.</p>
-<p>   I have the honour to be, Sir, your obedient servant,    W. H. SEWARD.</p>
+<p>   I have the honour to be, Sir, your obedient servant,    W. H. SEWARD.</p></quote>
 
 <p>American public opinion is at a loss to know what is the immediate cause of this panicstruck epistle.  The <hi rend="italic">New York Times</hi> attributes it to the European intervention in Mexico, which the Federal Government would, in certain eventualities, oppose with all its power.</p>
 
@@ -471,8 +452,6 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
            <biblScope type="pages">p. 441</biblScope> 
            <date value="1861-11-02">November 2, 1861</date>
 	</bibl>
-
-
 
 <p>T<hi rend="smallcaps">HE</hi> Duke of Argyll was entertained at a grand banquet in Inverary yesterday week by his tenantry.  The banquet was held in the Argyll Arms Hotel-the Rev. Colin Smith, D.D., in the chair.  The formal toasts having been disposed of, the chairman, in an eulogistic speech, proposed the health of their noble guest, which was most enthusiastically responded to.</p>
 <p>   The most important statements in the speech of his Grace came in at the close, when, having discoursed on agriculture and the causes of its prosperity, he referred to causes which throw a gloom over manufacturing prospects-the effects of the civil war on the other side of the Atlantic.  On this subject the Duke made these weighty statements:-</p>
@@ -524,9 +503,7 @@ FROM SKETCHES BY OUR SPECIAL ARTIST.</p>
 
 <p>The Legislature of California has offered a prize of &pound:2000 to the first grower on Californian soil of 50,000lb. weight of cotton.</p>
 </div2>
-[XXXIX, 445, 11/2/61]
 
-No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepence]
 
 <div2>
 <head>BELLIGERENT RIGHTS</head>
@@ -540,8 +517,7 @@ No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepen
 
 <p>A<hi rend="smallcaps">MONG</hi> the incidental benefits likely to result from the civil war in America, as some compensation for the incalculable evils it inflicts, we are not without hope that a revision of belligerent rights will be one.  Much of what the world now accepts as international law with regard to them is unsuited to modern <orig reg="civilization">civilisation</orig>.  Take the right of blockade, for instance, as it is being illustrated in the unhappy contest between the Northern and Southern States of the great American Republic.  The right is held, and no doubt justly held, to be in perfect conformity with the law of nations.  But the instincts of mankind will infallibly teach them that the instrument of coercion which cannot be applied to crush the rebellious without at the same time exposing to equal damage the rights and interests of millions innocent of the smallest wrong ought not to be left in the hands of any Power.  It is hard that because the Confederate States have renounced their allegiance to the Union, and are strong enough to maintain their separate independence for months, and perhaps for years, large departments of manufacturing industry in England and France, upon which the subsistence of millions depend, should be visited with a calamity little short of destruction.  The mischief done by privateering, which the great Powers of Europe have agreed to abolish, is as nothing compared with the wholesale suffering which the blockade now being enforced by the Federal Government is causing to nations not in the least implicated in the pending quarrel.  We do not dispute the fact that the Federal Government is only availing itself of what all other Governments have insisted upon as a belligerent right.  We should be the last to suggest that we should be justified, in the present instance, in breaking the blockade merely because we happen to be the chief victim of its enforcement.  We must make up our minds to bear with patience and dignity the evils which a bad law we have been foremost in sustaining has unexpectedly brought upon ourselves.  But we do trust that the severe hardship which has overtaken us will open our eyes to the essential injustice of this belligerent right, and dispose us to take such steps as will preclude the chance of any similar visitation in future.</p>
 <p>   It is too true, we fear, that we owe our present helpless position in regard to the blockade mainly, if not exclusively, to the policy of our own statesmen.  When the Government of the United States was invited, at the close of the Russian War, to agree to the article of  the Treaty of Paris which abolishes privateering, the Secretary of State, in declining that proposition on the ground of the obvious disadvantage at which it would place the American Government in relation to other maritime Powers, submitted a counter proposal, unless our memory greatly deceives us, which would have placed the entire commercial marine of all countries beyond the range of international hostilities.  If that project had found favour with the Governments of Europe the right of blockade  would have been applicable only against vessels of war, and goods contraband of war;  and the only obstruction to the usual flow of cotton to this country would have existed in the determination of the Southern States not to sell it-a determination which high prices and the prospect of raising up rival producers in other parts of the world  very surely and very speedily have overborne.  England alone, we believe, opposed to this reasonable and liberal proposition insuperable objections, and England is now fated to endure the heaviest penalty in consequence of the short-sightedness of her international policy.  In our too great anxiety to retain a weapon of offence which we could wield with better effect than any other Power we unconsciously hung up a scourge for our own backs, and we are now smarting under its infliction.</p>
-<p>The unfortunate decision at which we then arrived was owing, probably, to our having limited our view of the evils of war to the injuries which belligerents are capable of doing to each other.  It was thought at the time, and powerfully argued, that Great Britain, the most formidable of the maritime Powers, would gratuitously fling away her sharpest weapon by acceding to Mr. Marcy's proposition; that, being at the expense of keeping afloat a great naval armament, it would prove comparatively useless, in case of hostilities, unless she could avail herself of it<p>                                    [XXXIX, 463, 11/9/61]
-<p>to strike a blow at the commerce of her enemy; and that the mere fact of her retaining the right and the power of devastating the commercial marine of any country with which she might chance to be at war would tend to the preservation of peace by compelling other nations to be cautious of embroiling themselves with her.  It was not foreseen, or not sufficiently considered, how this determination would bear upon neutrals.  It seems not to have entered into the mind of any one that, without being ourselves at war with the United States, our own excessive jealousy in upholding our naval supremacy might involve us in miseries almost as intolerable as those of actual warfare.  We were unwilling to see the commercial navy of any contingent foe withdrawn by previous arrangement from the reach of that arm in the strength of which we place our chief reliance; and, in refusing to forego our advantage in this respect, we retained, of course, the right of blockade.  But it is as a neutral, not a belligerent, Power that the evil consequences of our own decision have come home to us.  We have sided with neither of the contending parties in America-we have carefully abstained from giving just cause of offence to either of them; but we owe it to our own deliberate decision that, in their quarrel the one with the other, our cotton interests are being crushed as between the upper and the nether millstones.</p>
+<p>The unfortunate decision at which we then arrived was owing, probably, to our having limited our view of the evils of war to the injuries which belligerents are capable of doing to each other.  It was thought at the time, and powerfully argued, that Great Britain, the most formidable of the maritime Powers, would gratuitously fling away her sharpest weapon by acceding to Mr. Marcy's proposition; that, being at the expense of keeping afloat a great naval armament, it would prove comparatively useless, in case of hostilities, unless she could avail herself of it<pb n="464"> to strike a blow at the commerce of her enemy; and that the mere fact of her retaining the right and the power of devastating the commercial marine of any country with which she might chance to be at war would tend to the preservation of peace by compelling other nations to be cautious of embroiling themselves with her.  It was not foreseen, or not sufficiently considered, how this determination would bear upon neutrals.  It seems not to have entered into the mind of any one that, without being ourselves at war with the United States, our own excessive jealousy in upholding our naval supremacy might involve us in miseries almost as intolerable as those of actual warfare.  We were unwilling to see the commercial navy of any contingent foe withdrawn by previous arrangement from the reach of that arm in the strength of which we place our chief reliance; and, in refusing to forego our advantage in this respect, we retained, of course, the right of blockade.  But it is as a neutral, not a belligerent, Power that the evil consequences of our own decision have come home to us.  We have sided with neither of the contending parties in America-we have carefully abstained from giving just cause of offence to either of them; but we owe it to our own deliberate decision that, in their quarrel the one with the other, our cotton interests are being crushed as between the upper and the nether millstones.</p>
 <p>Such being the circumstances, there would seem to be no alternative in the present case but to bear as best we may the calamity we have indirectly brought upon ourselves.  We must manfully abide by the results of the exercise by others of the belligerent rights we have insisted upon for ourselves.  We hope that her Majesty's Government will loyally and to the end preserve the neutrality they have proclaimed; and that no temptation offered to them by the Confederate States, and no inconvenience entailed upon them by the action of the Federal Union, will prevail upon them to break the blockade, either alone or in concert with other European Powers.  The present distress may be great, but we had far better endure it patiently than expose ourselves to the charge of a breach of international morality.  Any departure from our present neutral position would be but purchasing immediate relief at the expense of future and much greater suffering.  We cannot take direct steps towards putting an end to the existing crisis without sowing the seeds of  enmities the bitter fruit of which we should be compelled to reap at no very remote hereafter.  We might, it is true, by recognising the South, put a speedy end to the present unnatural contest, and liberate the stores of cotton for which our manufactures are pining.  But our intervention to close the dispute whilst the passions of the disputants are yet hot and eager would but precipitate a war of one or both of them with ourselves.  The vast army now resting on the Potomac would probably seek employment in Canada, and the Federal States bereft of the territory which they held south of Washington, and that, too, partly by our agency, would infallibly turn to the North for compensation.  No, we must not interfere.  Cotton is precious, but the price paid for it may be too high.  Tha alternative of neutrality is contingently such as may well</p>
 
 <p rend="center">Make us rather bear the ills we have,</p>
@@ -602,7 +578,7 @@ No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepen
 </div2>
 
 <div2>
- <head> [GUARD TENT-PUNISHMENT DRILL IN THE FEDERAL CAMP.]</head>
+ <head> GUARD TENT-PUNISHMENT DRILL IN THE FEDERAL CAMP.</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
@@ -617,8 +593,6 @@ No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepen
                </p>
   </div2>
 
-{ILLUSTRATION: THE CIVIL WAR IN AMERICA:  GUARD TENT-PUNISHMENT DRILL IN THE FEDERAL CAMP.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE SUPPLEMENT, P. 485.}
-[XXXIX, 467, 11/9/61]
 
 <div2>
 <head>[LONDON, SATURDAY, NOVEMBER 9, 1861]</head>
@@ -631,7 +605,6 @@ No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepen
 	</bibl>
 
 <p><hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi>  9, 1861.
-<p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</p>
 <p>Mexico now has full notice of what is in store for her.</p>
 
 <p rend="center">They are coming, and they are three.</p>
@@ -639,10 +612,9 @@ No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepen
 <p>The terms of the convention under which England, France, and Spain intend to act are before the public, and nothing can be more just or fair.  The Powers enter upon the scene less as soldiers than as policemen.  It is specially agreed that no Power is to acquire any territory.  The important places are to be occupied, and then the Mexicans themselves will be rather stringently invited to set their house in order.  It has also been provided, in order that the "United" States may have no pretext for complaint, that President Lincoln may send in aid of the expedition any number of ships which he can spare from his operations against the South.  It is to be hoped that the ruffians who, under the priests, at present exercise unrestrained sway in the unfortunate country in question will not avail themselves of the interval between the announcement and the arrival of the expedition to commit new atrocities.  If they should do so, the duties of the policeman will have to be temporarily exchanged for those of the Provost Marshal and it is possible that the Mexican brigands may have a distinct idea that such will be the case.  Lieutenant-Colonel Lowder commands our force, and the officers have received orders to proceed to Plymouth for embarkation.</p>
 <p>The American question is treated elsewhere.  Here it may be sufficient to note, as part of the record of the war, that the Federals have suffered another and a severe repulse on the Potomac, losing a General and 600 men.  Smaller affairs are reported, in which the Federals state themselves to have had the advantage, but the Southern journals deny this.  But a grand naval blow is now to be struck; and at the last mails a fleet of eighty vessels, with from 30,000 to 40,000 men on board, was to sail the next day, probably to attack New Orleans.  We have no information that justifies our believing that the South has adequate means of resisting such an onslaught; but the Confederates speak undauntedly, and declare that, be the victory as complete as it may, it shall be a barren one.  The army, under General M'Lellan, was daily expected to advance upon the enemy.</p>
 </div2>
-[XXXIX, 468, 11/9/61]
 
 <div2>
- <head> [CUTTING OFF A CONFEDERATE DESPATCH] </head>
+ <head> CUTTING OFF A CONFEDERATE DESPATCH</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
@@ -656,9 +628,6 @@ No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepen
                   </figure>
                </p>
   </div2>
-
-{ILLUSTRATION: THE CIVIL WAR IN AMERICA:  CUTTING OFF A CONFEDERATE DESPATCH-GALLEY ON THE POTOMAC, NEAR FREESTONE POINT.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE SUPPLEMENT, PAGE 485.}
-[XXXIX, 470, 11/9/61]
 
 <div2>
 <head>ILLUSTRATIONS OF THE WAR IN AMERICA</head>
@@ -727,8 +696,7 @@ No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepen
 <p>The following, addressed to the United States' Consul at Antwerp, has been published as genuine:- </p>
 
 <p rend="right">Caprera, Sept. 10, 1861.</p>
-<p>MY  dear Sir,-I saw Mr. Sandford, and regret to be obliged to announce to you that I shall not be able to go to the United States at present.  I do not doubt of the triumph of the Union, and that shortly.  But if the war should unfortunately continue in your beautiful country, I shall overcome all obstacles which detain me and hasten to the defence of a people who are dear to me.</p>
-<p rend="right">G. GARIBALDI</p>
+<quote rend="quoteblock">MY  dear Sir,-I saw Mr. Sandford, and regret to be obliged to announce to you that I shall not be able to go to the United States at present.  I do not doubt of the triumph of the Union, and that shortly.  But if the war should unfortunately continue in your beautiful country, I shall overcome all obstacles which detain me and hasten to the defence of a people who are dear to me.              G. GARIBALDI</quote>
 <p>To Mr. Quiggle, United States' Consul at Antwerp.</p>
 
 <p rend="center">THE CONFEDERATE STATES.</p>
@@ -744,16 +712,13 @@ No. 1116.-VOL. XXXIX.  SATURDAY, NOVEMBER 9, 1861.   [With a Supplement, Fivepen
 <p>The first telegram sent from the Pacific to the Atlantic was sent by Chief Justice Field, of California, to the President.  It was as follows:-</p>
 
 <p rend="right">Sacramento, Oct. 24. </p>
-<p>In the tempoaray absence of the Governor of the State, I am requested to send you the first message which will be transmitted over the wires of the telegraph line which connect the Pacific with the Atlantic States.  The people of California desire to congratulate you upon the completion of the great work.  They believe that it will be the means of strengthening the attachment which binds both the East and the West to the Union; and they desire in this the first message across the Continent to express their loyalty to that Union and their determination to stand by the Government in this its day of trial.  They regard that Government with affection, and will adhere to it under all fortunes.</p>
+<quote rend="quoteblock">In the tempoaray absence of the Governor of the State, I am requested to send you the first message which will be transmitted over the wires of the telegraph line which connect the Pacific with the Atlantic States.  The people of California desire to congratulate you upon the completion of the great work.  They believe that it will be the means of strengthening the attachment which binds both the East and the West to the Union; and they desire in this the first message across the Continent to express their loyalty to that Union and their determination to stand by the Government in this its day of trial.  They regard that Government with affection, and will adhere to it under all fortunes.</quote>
 
 <p>The European news which starts from Newfoundland at, say,4 p.m. would reach San Francisco at 11.30 a.m., or four hours and a half ahead of time.</p>
 
 <p rend="center">THE PRIVATEERSMEN ON TRIAL.</p>
 
 <p>The case of the captain of the privateer Savannah at New York, after a trial of three days' duration, ended in the discharge of the jury, they being unable to agree on a verdict.  In Philadelphia a jury have found a privateersman "Guilty."  The Judge has not yet pronounced sentence.</p>
-
-______________________________________
-______________________________________
 
 <p>In the State of Kentucky at the present time it is estimated there are nearly 2,700,090 hogs and in Missouri nearly 2,000,000.  In the whole of the United States about 30,000,000 hogs are raised annually, of which more than one-half are raised in the Southern States.  During the week ending the 19th ult. 1,377,546 bushels of grain and 83,524 barrels of flour were exported from New York to Europe.  The value of these exports was about &pound:455,000.</p>
 </div2>
@@ -773,7 +738,7 @@ ______________________________________
 </div2>
 
 <div2>
- <head> [FAIRFAX COURTHOUSE]</head>
+ <head> FAIRFAX COURTHOUSE</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
@@ -804,8 +769,6 @@ ______________________________________
                </p>
   </div2>
 
-{ILLUSTRATION: THE CIVIL WAR IN AMERICA: FAIRFAX COURTHOUSE; THE HEAD-QUARTERS OF GENERAL BEAUREGARD.}
-[XXXIX, 491, 11/16/61]
 
 <div2>
 <head> ST. JOSEPH, ON THE MISSOURI.</head>
@@ -824,12 +787,10 @@ ______________________________________
 <p>St. Joseph, always irreverently called St. Joe in the States, is a quaint and curious town, though so new, yet full of interest; like all newly-born American cities, it has commenced its growth in a number of different places at the same time.  The land, being laid out in square blocks and lots, is purchased sometimes by people who speculate in a rise in the price and do not intend to build; consequently those who do often find themselves without neighbours for some years after they have erected their houses, and a great street that is to be, may for some time have only one house in it.  "Town lots" are "<orig reg="favorite">favourite</orig> items" with the speculators, and no end of money has been made by the judicious and farseeing, and large sums have been as frequently lost by the over-sanguine and incautious.</p>
 <p>St. Joe can boast of some good shops round about the market-place, and the houses in that locality lie pretty thick.  The principal buildings are, as usual in American towns, the hotels, and although St. Joe is a far-off, outlying place, with many a long stretch of prairie between it and the populous cities of the Union, yet the "Patee House" affords as comfortable accommodation and entertainment as many of the great hotels in the large cities.</p>
 <p>St. Joe has of late been brought much before the public in England in the constantly-arriving reports from America; it is now threatened by the Confederate forces, and we may here any day of the place being taken by a <hi rend="italic">coup de main</hi>.  It was in the immediate neighbourhood of this city that the great wooden bridge was partly destroyed by the enemy, so that on the arrival of the train the whole was precipitated into a deep ravine, and a number of persons killed and wounded.</p>
-<p>The most interesting feature about St. Joe arises from the fact of its being the principal point of departure and arrival for the trains of <orig reg="wagons">waggons</orig> going or returning from the overland passage to California or Oregon.  In our account of the pony express we mentioned the firm of Russell, Major, and Co., as being the proprietors of it; that is, however, but a small part of their business, for they are the most extensive carriers of goods and passengers in the Union, excepting, of course, the railway companies.  They started last year from St. Joe, Leavenworth, and Nebraska city, two hundred and eighteen trains<pb n="491">
-<p>of <orig reg="wagons">waggons</orig>, each train consisting of twenty-six <orig reg="wagons">waggons</orig>, making in all five thousand six hundred and sixty-eight <orig reg="wagons">waggons</orig>, each drawn by twelve bullocks, consequently requiring in all between sixty and seventy thousand bullocks, besides relays and substitutes for those which break down.  This firm execute large transportation contracts for the United States' Government; their business with them in 1858 amounted to five million dollars.  They employ in all about five thousand men.</p>
+<p>The most interesting feature about St. Joe arises from the fact of its being the principal point of departure and arrival for the trains of <orig reg="wagons">waggons</orig> going or returning from the overland passage to California or Oregon.  In our account of the pony express we mentioned the firm of Russell, Major, and Co., as being the proprietors of it; that is, however, but a small part of their business, for they are the most extensive carriers of goods and passengers in the Union, excepting, of course, the railway companies.  They started last year from St. Joe, Leavenworth, and Nebraska city, two hundred and eighteen trains<pb n="492"> of <orig reg="wagons">waggons</orig>, each train consisting of twenty-six <orig reg="wagons">waggons</orig>, making in all five thousand six hundred and sixty-eight <orig reg="wagons">waggons</orig>, each drawn by twelve bullocks, consequently requiring in all between sixty and seventy thousand bullocks, besides relays and substitutes for those which break down.  This firm execute large transportation contracts for the United States' Government; their business with them in 1858 amounted to five million dollars.  They employ in all about five thousand men.</p>
 <p>Near the foot of the Rocky Mountains is a place called Denver City.  Large deposits of gold and silver exist in its neighbourhood, and, as several thousand persons live there who produce nothing but the precious metals, the whole of the supplies have to be carried in these <orig reg="wagon">waggon</orig>-trains.  This is a large portion of the business during the summer, as they are entirely shut off from all supplies during the winter.  The United States' mail is carried twice a month from St. Joe to Salt Lake City, the abode of the Mormons, and on to Placerville, California.</p>
 <p>For mutual protection the <orig reg="wagons">waggons</orig> travel in trains across the plains, from sixteen to twenty-six making up a train.  Each large <orig reg="wagon">waggon</orig> carries about 6000lb.: they are drawn by oxen or horses; they start early in the morning, and travel until midday; the cattle then graze on the plains in charge of a herdsman, while the voyageurs hunt and shoot, plenty of game being found on the prairies, as well as buffaloes, deer, elks, and antelopes.  At night the <orig reg="wagons">waggons</orig> are placed together so as to form a square or a triangle, the cattle being placed within the inclosure, the camp fires are lighted, and the men sleep on the ground wrapped in their blankets.  Great caution is necessary when travelling on the plains, as tribes of wild Indians traverse them, who steal and kill when they dare; they are, however, afraid of white men and the terrible weapons they carry, and will only attack when immeasurably superior in numbers.  There are Comanchees, Pawnees, Crows, Blackfeet, Assinitoines, Sioux, and others; occasionally they fight great battles with each other.  At one place on the route of the trains is a spot called the Battle Ground: it consists of about six acres of land, filled with holes about 2ft. square and 4ft. deep.  In these holes a whole tribe of Indians hid themselves so that, when their opponents camped in the neighbourhood, they were unobserved, and, choosing a fitting time, they rushed down upon the unsuspecting enemy, and slaughtered and scalped the greater part of them.</p>
 <div2>
-[XXXIX, 492, 11/16/61]
 
 <div2>
 <head> LONDON, SATURDAY, NOVEMBER 16, 1861.</head>
@@ -842,11 +803,8 @@ ______________________________________
 	</bibl>
 
 <p><hi rend="italic">LONDON, SATURDAY, NOVEMBER</hi> 16, 1861.</p>
-<p>. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </p>
-
 <p>At length the Southern States have sent us two gentlemen authorised to state to England the position and resolution of the Confederates.  The Hon. Messrs. Mann and Yancey were entertained by the Fishmongers on the night of the Lord Mayor's banquet, at which latter Mr. Adams, the American Minister, made a highly-complimentary speech, claiming for the North the same ancestry, traditions, and laws as those of England, but never alluding to the fact that ten millions of his countrymen were in arms against the North.  Mr. Adams was delivering himself thus at one end of a street at the other end of which Mr. Yancey was thanking us for having recognised the South as "belligerents," and was declaring that there could be no peace until they ceased to be treated as rebels.  He spoke out boldly, asserted the certainty of Southern independence, but added that there were few sacrifices it would not make consistently with the claims of liberty and honour.  Perhaps the impression is deepening that as soon as the North shall have gained some brilliant military or naval victory, and thus atoned for the long series of disasters which have marked its campaigns, both parties will not be disinclined to listen to the mediating voices of France and England.  If this should not be the case, and the ruin and wretchedness of millions in the Old World should appear the inevitable consequence of a continuance of the blockade, it is not impossible that the statesmen of both these countries may have to consider how far the rule <hi rend="italic">salus populi suprema lex</hi> can be harmonised with a too rigid interpretation of the law of nations.  But we trust they may be spared any such necessity.  We now await with interest the news from the great fleet which the North has sent forth.</p>
 </div2>
-[XXXIX,493, 11/16/61]
 
 <div2>
 <head> LORD MAYOR'S DAY. </head>
@@ -857,8 +815,6 @@ ______________________________________
            <biblScope type="pages">p. 496</biblScope> 
            <date value="1861-11-16">November 16, 1861</date>
 	</bibl>
-
-
 
 <p>The annual ceremony of the Lord Mayor's Day was attended on Saturday with all the paraphernalia that have come through time-hallowed customs to be associated with that event.  . . .</p>
 <p>In the evening a more than usually influential company assembled to dine at the Guildhall.  Among the speakers after dinner were the Duke of Cambridge, Lord Palmerston, and Mr. Adams, the United States' Minister. . . . Lord Palmerston congratulated the country on the satisfactory state of the revenue, and spoke of the present dearth of cotton as a temporary evil which would, no doubt, be productive of  permanent good.  "We shall find," he said, "in various quarters of the globe a sure, a certain, and an ample supply, which will prevent us being dependent on one source of production." . . . His Lordship touched but slightly on the American war.  He "viewed the conflict with an affliction which no words could express; but it was not for us to pass judgment upon the dispute."  The Lord Mayor offered to Mr. Adams "the entire sympathy of the whole British people."  His Excellency, in returning thanks, said he was there to perpetuate the friendly relations between England and the United States.  He dwelt chiefly on the honour which is paid in America to those who have distinguished themselves in the mother country, and made the troubles which distract his country conspicuous by the absence of any reference thereto in his address. . . .</p>
@@ -880,7 +836,7 @@ ______________________________________
 
 <p rend="center">BRIGHAM YOUNG'S RESIDENCE.</p>
 
-<p>The residence of Brigham Young is on the northern side of Salt Lake City, on a declivity above which the foothills of the Wahsatch Mountains rise.  In the View his house is nearly in the centre, and is surmounted by a small square tower with a golden beehive on the top, the emblem of the city.  In this building, which is of timber, his first wife and family reside.  The low building on the left contains the offices of the church.  Next on the left, the principal object in the picture, is the Zion House, where the remainder of his wives reside.  Some say there are twenty of these spiritual wives, others say sixty-one, one for each year of his life.  A smaller (round) tower to the left of the turret on the house surmounts the schoolhouse, a neat edifice, in which the children only of Brigham Young and Heber Kimball only are educated.  The white house on the right of Brigham's was the first erected for him in Salt Lake City, and is now the home of his eldest son and designated successor, Joseph Young.  The buildings on the extreme left in the View are garden houses, offices, and residences of some of the wives.  A wall of earth and stones incloses a large piece of ground, and surrounds Young's and Kimball's premises and gardens.  In the lower corner of the Engraving, on the right, is a portion of the residence of Bishop Wells.</p>
+<p>The residence of Brigham Young is on the northern side of Salt Lake City, on a declivity above which the foothills of the Wahsatch Mountains rise. In the View his house is nearly in the centre, and is surmounted by a small square tower with a golden beehive on the top, the emblem of the city.  In this building, which is of timber, his first wife and family reside.  The low building on the left contains the offices of the church.  Next on the left, the principal object in the picture, is the Zion House, where the remainder of his wives reside.  Some say there are twenty of these spiritual wives, others say sixty-one, one for each year of his life.  A smaller (round) tower to the left of the turret on the house surmounts the schoolhouse, a neat edifice, in which the children only of Brigham Young and Heber Kimball only are educated.  The white house on the right of Brigham's was the first erected for him in Salt Lake City, and is now the home of his eldest son and designated successor, Joseph Young.  The buildings on the extreme left in the View are garden houses, offices, and residences of some of the wives.  A wall of earth and stones incloses a large piece of ground, and surrounds Young's and Kimball's premises and gardens.  In the lower corner of the Engraving, on the right, is a portion of the residence of Bishop Wells.</p>
 <p>The View and the Portrait are from photographs taken recently by C. R. Savage, late of Southampton, and were brought from Salt Lake City by a gentleman who spent several days there early in September.</p>
 </div2>
 
@@ -900,9 +856,6 @@ ______________________________________
                </p>
   </div2>
 
-{ILLUSTRATION: BRIGHAM YOUNG, PRESIDENT AND CHIEF PROPHET OF THE MORMON CHURCH.}
-[XXXIX, 503, 11/16/61]
-
 <div2>
  <head> THE RESIDENCE OF BRIGHAM YOUNG AT THE GREAT SALT LAKE CITY, UTAH. </head>
                <bibl> 
@@ -918,8 +871,6 @@ ______________________________________
                   </figure>
                </p>
   </div2>
-{ILLUSTRATION: THE RESIDENCE OF BRIGHAM YOUNG AT THE GREAT SALT LAKE CITY, UTAH.}
-[XXXIX, 503, 11/16/61]
 
 <div2>
 <head>[The Hawaian Government]</head>
@@ -936,7 +887,7 @@ ______________________________________
 
 
 <div2>
- <head> [THE FIGHT AT BALL'S BLUFF]</head>
+ <head> THE FIGHT AT BALL'S BLUFF</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
@@ -950,9 +901,6 @@ ______________________________________
                   </figure>
                </p>
   </div2>
-
-{ILLUSTRATION: THE CIVIL WAR IN AMERICA: THE FIGHT AT BALL'S BLUFF, UPPER POTOMAC-DESPERATE EFFORT MADE BY THE 15TH MASSACHUSETTS REGIMENT TO CLEAR THE WOODS BY A BAYONET CHARGE-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE PAGE 514.}
-[XXXIX, 511, 11/23/61]
 
 
 <div2>
@@ -1001,29 +949,3 @@ ______________________________________
 
 <p>A cavalry regiment having been raised in New York city, of which the majority were of the Jewish faith, a Rabbi had applied for the chaplaincy.  The Secretary for War replied that the Act of Congress only allowed the appointment of chaplains who belonged to "some Christian denomination."  The restriction is generally condemned, and public opinion demands that at the ensuing Session of Congress the Act be modified in a liberal sense.</p>
 </div2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-46
-
-
-19
-
-
