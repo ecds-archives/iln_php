@@ -4,6 +4,7 @@
 // figure.php?id=v38p87
 
 
+include_once("link_admin/taminoConnection.class.php");
 include_once("phpDOM/classes/include.php");
 import("org.active-link.xml.XML");
 include("common_functions.php");
@@ -20,21 +21,28 @@ if ($js == 'no') {
 
 html_head("Illustration");
 
+$args = array('host' => "vip.library.emory.edu",
+	      'db' => "BECKCTR",
+	      'coll' => 'ILN',
+      	      'debug' => false);
+$tamino = new taminoConnection($args);
+$xql = "TEI.2//figure[@entity='" . $id . "']"; 
 
-$url = "http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
+if ($id) {
+  // run the query 
+  $tamino->xql($xql);
+} else {
+  print "<p class='error'>Error: No figure specified!</p>";
+}
 
-$xmlContent = file_get_contents($url);
-
-$xml = new XML($xmlContent);
-if (!($xml)) {        ## call failed
-  print "Error! unable to open xml content.<br>"; 
-}  
-$figure = $xml->getBranches("ino:response/xql:result/figure");  
-
-$head   = $figure[0]->getTagContent("head"); 
+// retrieve values for head, width, & height
+$head = $tamino->findNode("head");
 $head = urlencode($head);
-$width  = $xml->getTagAttribute("width", "ino:response/xql:result/figure");
-$height = $xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
+$width  = $tamino->xml->getTagAttribute("width", "ino:response/xql:result/figure");
+$height = $tamino->xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
+
+
+$url = "http://vip.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
 
 // Now, create the frameset with controller & image window
 print "<frameset rows='80,*' border='0' >
