@@ -156,7 +156,7 @@
 		select="@id"/></xsl:attribute>
     <!-- use rel attribute to give next / previous information -->
     <xsl:attribute name="rel"><xsl:value-of select="$linkrel"/></xsl:attribute>
-    <xsl:value-of select="./head"/>
+    <xsl:call-template name="cleantitle"/>
   </xsl:element> <!-- a -->   
   </xsl:element> <!-- td -->
  
@@ -179,6 +179,20 @@
 </xsl:element> <!-- tr -->
 
 </xsl:template>
+
+ <!-- Use n attribute (normalized caps) for article title; if n is blank, 
+      label as untitled -->
+<xsl:template name="cleantitle">
+  <xsl:choose>
+    <xsl:when test="@n = ''">
+      <xsl:text>[Untitled]</xsl:text>
+    </xsl:when>
+    <xsl:otherwise>
+      <xsl:value-of select="normalize-space(./@n)"/>
+    </xsl:otherwise>
+  </xsl:choose>
+</xsl:template>
+
 
 
 </xsl:stylesheet>
