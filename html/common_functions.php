@@ -13,7 +13,7 @@ function getCSS () {
   else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
   
   // $css_basepath = "http://chaucer.library.emory.edu/iln/";
-  $css_basepath = "http://arachne.library.emory.edu/rebecca/ilnweb/";
+  $css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
   $css = "iln.css"; 
   if ($browser == "MSIE") {
     if ($os == "mac") {
