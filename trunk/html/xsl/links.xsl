@@ -7,10 +7,10 @@
   <!-- brief listing of link records (in Dublin Core format) -->
 
   <xsl:template match="/">
-    <xsl:apply-templates select="//record"/>
+    <xsl:apply-templates select="//link_record"/>
   </xsl:template>
   
-  <xsl:template match="record">
+  <xsl:template match="link_record">
     <xsl:element name="p">
       <xsl:element name="a">
         <xsl:attribute name="href"><xsl:value-of select="dc:identifier"/></xsl:attribute>

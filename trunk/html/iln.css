@@ -56,7 +56,7 @@ h2 { color: black;
 
 a	  { text-decoration:underline; font-family:Conga }
 a:link 	  { color:#333333 }
-a:visited { color:#666666 }
+a:visited { color:#666666 } 
 a:active  { color:#333333 }
 a:hover   { }
 
@@ -66,3 +66,4 @@ td.label { font-weight: bold; }
 td.figure { text-align: center; vertical-align: center; }
 
 img { border: 0 }
+

@@ -36,10 +36,10 @@ include("xml/sidebar.xml");
 <?php
 
 print "<hr>";
-   // use sablotron to transform xml
-   $xmlContent = file_get_contents($url);
-   $result = transform($xmlContent, $xsl_file); 
-   print $result;
+// use sablotron to transform xml
+$xmlContent = file_get_contents($url);
+$result = transform($xmlContent, $xsl_file); 
+print $result;
 
 print "<hr>";
 
