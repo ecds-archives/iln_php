@@ -80,6 +80,7 @@ name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamin
  <xsl:element name="ul">
    <xsl:attribute name="id">list<xsl:value-of
 select="$num"/></xsl:attribute>
+   <xsl:attribute name="class">contents</xsl:attribute>
   <xsl:choose>
     <xsl:when test="$mode = 'figure'">
      <xsl:element name="table">
@@ -98,6 +99,7 @@ select="$num"/></xsl:attribute>
 <xsl:template match="div2"> 
 <xsl:variable name="num"><xsl:number level="any" count="//div1 | //div2[count(figure) > 0]" /></xsl:variable>
  <xsl:element name="li">
+   <xsl:attribute name="class">contents</xsl:attribute>
    <xsl:if test="count(figure) > 0">
      <xsl:attribute name="class">container</xsl:attribute>
    </xsl:if>
@@ -136,6 +138,7 @@ select="$num"/></xsl:attribute>
 <xsl:element name="ul">
   <xsl:attribute name="id">list<xsl:value-of
 select="$num"/></xsl:attribute>
+   <xsl:attribute name="class">contents</xsl:attribute>
    <xsl:element name="table">
     <xsl:apply-templates select="figure"/>
    </xsl:element> <!-- table -->
