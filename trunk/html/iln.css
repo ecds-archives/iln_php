@@ -67,3 +67,21 @@ td.figure { text-align: center; vertical-align: center; }
 
 img { border: 0 }
 
+span.term1 { background-color: #d1e1f9; }
+span.term2 { background-color: #fffc7f; }
+span.term3 { background-color: #b4f7aa; }
+
+/* Horizontal lists -- display inline, with lines between */
+li.horiz { 
+     display:inline; 
+     padding-left: 7px;
+     padding-right: 7px;
+     border-left: 2px solid #666;
+  }
+/* (no left border on first item) */
+li.firsthoriz { 
+     display:inline; 
+     padding-left: 7px;
+     padding-right: 7px;
+     border-left: none;
+  }
