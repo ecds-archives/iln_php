@@ -170,7 +170,11 @@ if ($entity_name || $entity_check || $imgsize || $divsize) {
       if ($cur_page != $new_page) {
 	print "Error! page numbers do not match (on $cur_page, entity belongs on $new_page).\n";
       }
-      print "page $cur_page: replacing $entity with $new_fig\n";
+      if ($entity == $new_fig) {
+        print "page $cur_page: $entity seems to be correct...\n";
+      } else {
+        print "page $cur_page: replacing $entity with $new_fig\n";
+      }
       s/entity=".*">/entity="$new_fig">/;
       $i++;
     } elsif ($imgsize && /<figure entity="(\w*)"/) {
