@@ -16,6 +16,7 @@ class linkRecord {
   var $subject;  
   var $description;
   var $contributor;
+  var $ed_contributor;		// person contributing an edit
   var $date;
   var $lastModified;
   var $edit;
