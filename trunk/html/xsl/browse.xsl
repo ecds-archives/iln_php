@@ -8,6 +8,15 @@
 <xsl:include href="ilnshared.xsl"/>
 <xsl:include href="teihtml-tables.xsl"/>
 
+<xsl:param name="term">0</xsl:param>
+<xsl:param name="term2">0</xsl:param>
+<xsl:param name="term3">0</xsl:param>
+
+<!-- construct string to pass search term values to browse via url -->
+<xsl:variable name="term_string"><xsl:if test="$term != 0">&amp;term=<xsl:value-of select="$term"/></xsl:if><xsl:if test="$term2 != 0">&amp;term2=<xsl:value-of select="$term2"/></xsl:if><xsl:if test="$term3 != 0">&amp;term3=<xsl:value-of select="$term3"/></xsl:if></xsl:variable>
+
+
+
 <xsl:param name="pos">0</xsl:param>
 <xsl:param name="xql">0</xsl:param>
 <xsl:param name="rmode">0</xsl:param>
@@ -55,7 +64,7 @@
 <!-- 	<xsl:call-template name="html_title" />  -->
      <!-- should be returning one div2; display contents --> 
 
-      <xsl:apply-templates select="//div2" />
+      <xsl:apply-templates select="//div1/div2" />
    <!-- links to next & previous matches (if specified) -->
   <xsl:call-template name="next-prev" />
 <!--   </xsl:element> -->  <!-- content div -->
@@ -139,62 +148,81 @@
 </xsl:template>
 
 
-
-
-
 <!-- generate next & previous links (if variables are defined) -->
 <xsl:template name="next-prev">
+<xsl:variable name="main_id"><xsl:value-of select="//div1/div2/@id"/></xsl:variable>
+<xsl:variable name="position">
+  <xsl:for-each select="//siblings/div2">
+    <xsl:if test="@id = $main_id">
+      <xsl:value-of select="position()"/>
+    </xsl:if>
+  </xsl:for-each>
+</xsl:variable>
 
-  <xsl:variable name="next"><xsl:value-of 
-	select="/ino:response/ino:cursor/ino:next/@ino:href"/></xsl:variable>
-  <xsl:variable name="prev"><xsl:value-of 
-	select="/ino:response/ino:cursor/ino:prev/@ino:href"/></xsl:variable>
+<xsl:element name="table">
+  <xsl:attribute name="width">100%</xsl:attribute>
 
- <xsl:element name="table">
-  <xsl:attribute name="width">85%</xsl:attribute>
-  <xsl:element name="tr">
-   <xsl:element name="td">
-    <xsl:attribute name="width">33%</xsl:attribute>
-    <xsl:attribute name="align">left</xsl:attribute>
+  <xsl:apply-templates select="//siblings/div2[$position - 1]">
+    <xsl:with-param name="mode">Previous</xsl:with-param>
+  </xsl:apply-templates>
 
-  <xsl:if test="$prev != ''">
-        <xsl:element name="a">
-	   <xsl:attribute name="href"><xsl:value-of
-		select="concat($base_url, $prev)"/><xsl:value-of 
-		select="concat($xslurl,$xsl_browse)"/>&amp;xslt_xql=<xsl:value-of select="$xql"/>&amp;xslt_rmode=<xsl:value-of select="$rmode"/><xsl:if test="$range != 0">&amp;xslt_range=<xsl:value-of select="$range"/></xsl:if></xsl:attribute>&lt;&lt; Previous article</xsl:element>  <!-- a -->
-  </xsl:if>
- </xsl:element> <!-- td -->
+  <xsl:apply-templates select="//siblings/div2[$position + 1]">
+    <xsl:with-param name="mode">Next</xsl:with-param>
+  </xsl:apply-templates>
+
+</xsl:element> <!-- table -->
+
+</xsl:template>
+
+<xsl:template match="siblings/div2">
+<xsl:param name="mode"/>
+
+<xsl:element name="tr">
+<!--   <xsl:element name="td">
+ <xsl:attribute name="align">
+ <xsl:choose>
+  <xsl:when test="$mode = 'Previous'">left</xsl:when>
+  <xsl:when test="$mode = 'Next'">right</xsl:when>
+ </xsl:choose>
+ </xsl:attribute>  -->
+
+ <xsl:element name="th">
+  <xsl:attribute name="valign">top</xsl:attribute>
+   <xsl:attribute name="align">left</xsl:attribute>
+<!--    <xsl:choose>
+     <xsl:when test="$mode = 'Previous'">&lt;- </xsl:when>
+     <xsl:when test="$mode = 'Next'">-&gt; </xsl:when>
+   </xsl:choose> -->
+   <xsl:value-of select="concat($mode, ': ')"/>
+ </xsl:element> <!-- th -->
 
  <xsl:element name="td">
-    <xsl:attribute name="width">33%</xsl:attribute>
-   <xsl:attribute name="align">center</xsl:attribute>
-<!-- output "back to list" link if return mode is defined -->
-  <xsl:if test="$rmode != 0">
-   <xsl:element name="a">
-     <xsl:attribute name="href"><xsl:value-of
-	select="$base_url"/>?_xql<xsl:if test="$range != 0">(<xsl:value-of select="$range"/>)</xsl:if>=<xsl:value-of
-	select="$xql"/><xsl:value-of select="concat($xslurl, $rmode)"/>
-    </xsl:attribute>Back to List
-   </xsl:element> <!-- a -->
-  </xsl:if>
- </xsl:element> <!-- td -->
-
-
-  <xsl:element name="td">
-        <xsl:attribute name="width">33%</xsl:attribute>
-	<xsl:attribute name="align">right</xsl:attribute>
-    
-  <xsl:if test="$next != ''">
-        <xsl:element name="a">
-	   <xsl:attribute name="href"><xsl:value-of
-	select="concat($base_url, $next)"/><xsl:value-of
-	select="concat($xslurl,$xsl_browse)"/>&amp;xslt_xql=<xsl:value-of select="$xql"/>&amp;xslt_rmode=<xsl:value-of select="$rmode"/><xsl:if test="$range != 0">&amp;xslt_range=<xsl:value-of select="$range"/></xsl:if></xsl:attribute>Next article &gt;&gt;</xsl:element>  
-
-  </xsl:if> 
+  <xsl:attribute name="valign">top</xsl:attribute>
+  <xsl:element name="a">
+   <xsl:attribute name="href">browse.php?id=<xsl:value-of
+		select="@id"/></xsl:attribute>
+    <xsl:value-of select="./head"/>
+  </xsl:element> <!-- a -->   
   </xsl:element> <!-- td -->
+ 
+  <xsl:element name="td">
+  <xsl:attribute name="valign">top</xsl:attribute>
+    <xsl:value-of select="./@type"/>
+  </xsl:element> <!-- td -->
+  
+  <xsl:element name="td">
+  <xsl:attribute name="valign">top</xsl:attribute>
+  <xsl:element name="font">
+   <xsl:attribute name="size">-1</xsl:attribute> 
+  <xsl:value-of select="bibl/biblScope[@type='volume']"/>,
+  <xsl:value-of select="bibl/biblScope[@type='issue']"/>,
+  <xsl:value-of select="bibl/biblScope[@type='pages']"/>.
+  (<xsl:value-of select="bibl/extent"/>) 
+  </xsl:element> <!-- font -->
 
-  </xsl:element> <!-- tr -->
-  </xsl:element> <!-- table -->
+ </xsl:element> <!-- td -->
+</xsl:element> <!-- tr -->
+
 </xsl:template>
 
 
