@@ -48,8 +48,11 @@ class taminoConnection {
 
   // send an xquery to tamino & get xml result
   // returns  tamino error code (0 for success, non-zero for failure)
-  function xquery ($query) {
+  function xquery ($query, $position = NULL, $maxdisplay = NULL) {
     $myurl = $this->base_url . "_xquery=" . $this->encode_xquery($query);
+    if (isset($position) && isset($maxdisplay)) {
+      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague&_encoding=utf-8";
+    }
     if ($this->debug) {
       print "DEBUG: In function taminoConnection::xquery, url is $myurl.<p>";
     }
@@ -61,19 +64,19 @@ class taminoConnection {
         $this->displayXML();
       }
       
-       if (!($this->xq_rval)) {    // tamino Error code (0 = success)
+      if (!($this->xq_rval)) {    // tamino Error code (0 = success)
          $this->getXQueryCursor();
-       } else if ($this->xq_rval == "8306") {
-       // invalid cursor position (also returned when there are no matches)
-         $this->count = $this->position = $this->quantity = 0;
-         if ($debug) {
-  	   print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
-         }
-        } else if ($this->xq_rval) {
-           $this->count = $this->position = $this->quantity = 0;
-           print "<p>Error: failed to retrieve contents.<br>";
-           print "(Tamino error code $error)</p>";
+      } else if ($this->xq_rval == "8306") {
+      // invalid cursor position (also returned when there are no matches)
+        $this->count = $this->position = $this->quantity = 0;
+        if ($debug) {
+  	  print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
         }
+      } else if ($this->xq_rval) {
+         $this->count = $this->position = $this->quantity = 0;
+         print "<p>Error: failed to retrieve contents.<br>";
+         print "(Tamino error code $error)</p>";
+      }
 
     } else {
       print "<p><b>Error:</b> unable to access database.</p>";
@@ -172,15 +175,18 @@ class taminoConnection {
 
    function printResult ($term = NULL) {
      if (isset($term[0])) {
-       $this->highlight($term);
+       //       print "DEBUG: calling function highlight.<br>\n";
+       //$this->highlightXML($term);
      }
-     print $this->xsl_result->saveXML();
+     if ($this->xsl_result) {
+       print $this->xsl_result->saveXML();
+     }
 
    }
 
    // Highlight the search strings within the xsl transformed result.
    // Takes an array of terms to highlight.
-   function highlight ($term) {
+   function highlightString ($str, $term) {
      // note: need to fix regexps: * -> \w* (any word character)
       // FIXME: how best to deal with wild cards?
 
@@ -189,11 +195,19 @@ class taminoConnection {
        // replace tamino wildcard (*) with regexp -- 1 or more word characters 
        $_term = str_replace("*", "\w+", $term[$i]);
      // Note: regexp is constructed to avoid matching/highlighting the terms in a url 
-       $this->xsl_result = preg_replace("/([^=|']\b)($_term)(\b)/i",
-	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $this->xsl_result);
+       $str = preg_replace("/([^=|']\b)($_term)(\b)/i",
+	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
      }
    }
 
+   function highlightXML ($term) {
+     $this->xpath->registerNamespace("xq", "http://namespaces.softwareag.com/tamino/XQuery/result");
+     $result = $this->xpath->query("/ino:response/xq:result");
+      for ($i = 0; $result->item($i); $i++) {
+       $result->item($i)->textContent = $this->highlightString($result->item($i)->textContent, $term);  
+     }
+   }
+   
    // print out search terms, with highlighting matching that in the text
    function highlightInfo ($term) {
      if (isset($term[0])) {
