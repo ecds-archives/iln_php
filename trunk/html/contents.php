@@ -4,9 +4,9 @@ include_once("link_admin/taminoConnection.class.php");
 include("common_functions.php");
 
 $args = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-	      //	      'debug' => true,
-		'coll' => 'ILN');
+	      'db' => "BECKCTR",
+	      'coll' => 'ILN',
+	      'debug' => false);
 $tamino = new taminoConnection($args);
 
 $query = 'for $b in input()/TEI.2//div1
