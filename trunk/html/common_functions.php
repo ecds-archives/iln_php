@@ -17,7 +17,7 @@ function getCSS () {
   // development
   $css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
   // production
-  $css_basepath = "http://cti.library.emory.edu/iln/";
+  //  $css_basepath = "http://cti.library.emory.edu/iln/";
   $css = "iln.css"; 
   if ($browser == "MSIE") {
     if ($os == "mac") {
@@ -34,21 +34,26 @@ function getCSS () {
    to see if it would help google to index the actual articles.
 */
 
-function html_head ($mode) {
+function html_head ($mode, $contentlist = false) {
+  global $base_url;	// use base url as set in site-wide config file
   $mycss = getCSS();
 print "<html>
  <head>
  <title>$mode - The Civil War in America from The Illustrated London News</title>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
 <meta name=\"robots\" content=\"index,follow\">
-<link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">
+<link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">\n";
+
+// only load content-list javascript if needed
+ if ($contentlist) {
+   print "<script language=\"Javascript\" 
+    src=\"$base_url/cookies.js\"></script>
 <script language=\"Javascript\" 
-	src=\"http://cti.library.emory.edu/iln/cookies.js\"></script>
-<script language=\"Javascript\" 
-	src=\"http://cti.library.emory.edu/iln/content-list.js\"></script>
-<script language=\"Javascript\"
-       src=\"http://cti.library.emory.edu/iln/image_viewer/launchViewer.js\"></script>
-<link rel=\"stylesheet\" type=\"text/css\" href=\"http://cti.library.emory.edu/iln/contents.css\">
+	src=\"$base_url/content-list.js\"></script>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"$base_url/contents.css\">\n";
+ }
+print "<script language=\"Javascript\"
+       src=\"$base_url/image_viewer/launchViewer.js\"></script>
  </head>";
 }
 
