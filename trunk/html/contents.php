@@ -9,18 +9,16 @@ $args = array('host' => $tamino_server,
 	      'debug' => false);
 $tamino = new taminoConnection($args);
 
-$query = 'for $b in input()/TEI.2//div1
-return <div1>
- {$b/@type}
+$query = 'for $b in input()/TEI.2/:text/body/div1
+sort by (@id)
+return <div1 id="{$b/@id}" type="{$b/@type}">
  {$b/head}
  {$b/docDate}
  { for $c in $b/div2 return
-   <div2>
-     {$c/@id}
-     {$c/@type}
+   <div2 id="{$c/@id}" type="{$c/@type}">
      {$c/head}
      {$c/bibl}
-     { for $d in $c/p/figure return $d}
+     {for $d in $c/p/figure return $d}
    </div2>
 }</div1>';
 
@@ -32,7 +30,7 @@ if ($rval) {       // tamino Error code (0 = success)
 } 
 
 
-html_head("Browse");
+html_head("Browse", true);
 
 include("xml/head.xml");
 include("xml/sidebar.xml");
