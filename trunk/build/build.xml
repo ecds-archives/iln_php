@@ -1,6 +1,6 @@
 <project name="Illustrated London News Data Preparation" default="all" basedir=".">
 
-<target name="all" depends="unicode-entities,add-extent,figure,xml-parse" description="* Do everything"/>
+<target name="all" depends="unicode-entities,add-extent,figure,xml-parse,tamino-load" description="* Do everything"/>
 
 <!-- clean is not called by anything else; optional task -->
 <target name="clean" depends="config" 
@@ -368,7 +368,7 @@ if="dir.xml.exists">
   </condition>
 </target> <!--Ask load-->
 
-<target name="tamino-load" depends="ask-load" if="do.load">
+<target name="tamino-load" depends="ask-load" if="do.load" description="* Load file(s) to tamino" >
  <echo message="Loading file to Tamino."/>
  <echo message="**********************************************"/>
 
