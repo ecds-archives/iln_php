@@ -1,113 +1,202 @@
-AMERICA.
+<div2 id="iln41.1164.001" n="Foreign and Colonial News: America" type="article">
+<head>FOREIGN AND COLONIAL NEWS: AMERICA</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.41</biblScope>
+<biblScope type="issue">no.1164</biblScope>
+<biblScope type="pages">p.278</biblScope>
+<date value="1862-09-13">September 13, 1862</date>
+<extent></extent>
+</bibl>
 
-By the arrival of the steamers .A.ng'lo-Saxon and Hanoi we has's papers of the 30th ult., and telegrams to the evening of the same day. WAR mews.
+<p rend="center">AMERICA.</p>
 
-The week has been an eventful one in the Volley of Virginia, although the Policy of excluding newspaper correspondents deprives so of the power of following the movements of the opposing corps
+<p>By the arrival of the steamers Anglo-Saxon and Hansa we have papers
+of the 30th ult., and telegrams to the evening of the same day.</p>
 
-On in detail.
+<p rend="center"><hi rend="smallcap">War News.</hi></p>
+<p>The week has been an eventful one in the Valley of Virginia, although the
+policy of excluding newspaper correspondents deprives us of the power
+of following the movements of the opposing corps d'arm&egrave;e in detail.</p>
 
-On the 23rd salt, the Confederates attacked Itappahonnoek station, end enopelled the Federate to abandon the line of the Itappshannoek. The re derals fell back on Warrsnton Junction, a distance of ten miles', after henning the bridge ever the river.
+<p>On the 23rd ult., the Confederates attacked Rappahannock station,
+and compelled the Federals to abandon the line of the
+Rappahannock. The Federals fell back on Warrenton Junction, a
+distance of ten miles, after burning the bridge over the river.</p>
 
-On the 20th the Confederates made a held and successful dash on
+<p>On the 26th the Confederates made a bold and successful dash on
+Manassas Junction, in the rear of the Federal army. The Federals 
+were driven out of Manassas, and lost a battery of nine guns. The 
+Confederates destroyed stores which their enemies value at 500,000
+dols., cut the telegraph wires, and destroyed the railroad, thus
+cutting off all connection between General Pope and Washington.</p>
 
-lfsnassaa Junction, in the rear of the Federal army. The Federals
+<p>The Confederates afterwards proceeded to Bull Bun Bridge, and drove
+the Federals from that point, inflicting a heavy loss on General
+Taylor's New Jersey brigade, capturing two regiments, and wounding the
+General. The pursuit was followed up beyond Centreville. The pursuers'
+cavalry advanced as far as Fairfax Courthouse.</p>
 
-were driven out of Macasses, and lost a battery of nine guns. The
+<p>Immediately on this being known, Generals Pope, M'Dowell, Siegel,
+and Heintzelman hurried from different points to drive back the
+Confederates and intercept their retreat. General M'Dowell succeeded
+in interposing his corps between the forces of the enemy, who had
+passed down to Manassas through Gainsville, and their main body, which
+was moving down from White Plain through Thoroughfare Gap. The
+Confederate General Longstreet, who had passed through the Gap, being
+driven to the west side, Hooker's division came upon him in the
+afternoon of the 27th at Kettle Run, and, after a sharp action,
+routed him, killing and wounding 300, and capturing their camp.</p>
 
-Confederates destroyed stersswhiehtheireneniies value at 500,000 dais.,
+<p>On the 25th Pope arrived at Manassas Junction, but the Confederates
+under Jackson had evacuated the place three hours before. Jackson
+retreated viâ Centreville. Six miles west of that place Jackson came
+upon the divisions of M'Dowell and Siegel. The Federals report that
+in this fight, which lasted until dark, the Confederates were driven
+back at all points. General Pope claims to have captured from
+Jackson's rear 1000 prisoners and one gun. He joined Burnside and
+M'Clellan near Centreville.</p>
 
-out the telegraph wires, and destroyed the railroad, these ecttsag' ad
+<p>On the 30th was fought the second battle of Bull Run. General
+Pope's account of it is as follows:--
+<q><p rend="right">Head-Quarters, Field of Battle,</p>
+<p rend="right">Grovedown, near Gainsville, Aug. 30</p>
+<p>To Major-General Halleck, General-in-Chief at Washington.--We
+fought a terrific battle here yesterday with the combined forces of
+the enemy, which lasted with continuous fury from daylight until after
+dark, by which time the enemy was driven from the field, which we
+now occupy. Our troops are too much exhausted to push matters, but I
+shall do so in the course of the morning,  as soon as Fitz-John
+Porter's corps comes up from Manassas. The enemy is still in our front, but
+badly used. We have no less than 8000 men killed and wounded and, from
+the appearance of the field, the enemy has lost two to our one. He
+stood strictly on the defensive, and every assault was made by
+ourselves. Our troops have behaved splendidly. The battle was fought
+on the identical battle-field of Bull Run, which greatly increased
+the enthusiam of our men. The news has just reached me from the
+front that the enemy is retreating towards the mountains. I at once
+pushed forward a reconnoitring party to ascertain this. We have made
+great captures, but I am not yet able to form an idea of their
+extent. (Signed),<hi rend="smallcap"> John Pope</hi>, Major-General
+Commanding.</p></q></p>
 
-all connection betweon General Pope end Washington,
+<p> On the left, the Confederates have advanced to Leesburg within a
+few miles of the Potomac. The river was then fordable at all points
+above Washington.</p>
+<p>In the west the events of the war are chequered.</p>
 
-The Confederates afterwards proceeded to Bull Bun Bnde, and drove the Federals from that pelt, indicting a hoavy lose on l5ensral Taylor's New Jersey brigade, capturing two regiments, and wounding the General. The pursuit was followed up beyond Osntrevslle. The pursuers' cavalry advanced as fur as Fairfax Courthouse,
+<p>The Federals had evacuated Bâton Rouge, and captured a steamer on
+the River Arkansas laden with 500 stand of arms for General Hindman,
+stationed at Little Rock. The Confederate General Morgan had
+defeated 800 troops, under General Johnson, near Gallatin, in
+Tennessee, capturing 300 prisoners, including Johnson himself. The
+remainder of the Federals retreated to Nashville.</p>
 
-Izeraediately antlsie being kaoern, Generals Pope, M'Dowell, Siegel, and Helntoelutan hurried from different points to drive back the Confederates and intercept their retreat. General M'Dowi succeeded
+<p>It is repeated that the Federal Government is very short of
+arms. There are not enough to supply the troops arriving in
+Washington.</p>
 
-it . na his co a between the forces of the enemy, who had
+<p>War meetings continue to be held throughout the Northern cities.
+Recruiting goes on satisfactorily, and the first 300,000 men are
+already secured. In addition to the States previously mentioned by us,
+Illinois has raised her quotas under both the first and second
+call. The State of New York has raised her quota of 50,000 under the
+first call. The process of draughting has been postponed in this and
+ether States until the 15th of this month. This delay is conceded by the
+State authorities on their own responsibility.</p>
 
-070"
+<p>The stores are closed at three o'clock on Saturday afternoons in
+the Atlantic cities, in order to give time for volunteering, drill,
+and procuring substitutes. Persons have been forbidden to advertise
+that they procure substitutes.</p>
 
-n lu ~M. ill an
+<p rend="center"><hi rend="smallcap">Mr. Lincoln's Defence of His
+Policy.</hi></p>
+<p>The President has replied to the remonstrance addressed to him by
+Mr. Greeley, the editor of the <hi rend="italic">New York Tribune</hi>, urging him to to
+proclaim the emancipation of the slaves:--
+<q><p rend="right">Washington, Aug. 22</p>
+<p>Sir,--I have just read yours of the 19th, addressed to myself
+through the <hi rend="italic">New York Tribune</hi>. If there be in it
+any statements or assumptions, I do not now and here controvert
+them. If there be in it any inferences which I may believe to be
+falsely drawn, I do not now and here argue against them. If there be
+perceptible in it an impatient and dictatorial tone, I wave it in
+deference to an old friend, whose heart I have always supposed to be
+right.</p>
+<p>As to the policy I "seem to be pursuing," as you say, I have not
+meant to leave any one in doubt. I would save the Union. I would save
+it the shortest way, under the Constitution. The sooner the national
+authrority can be restored the nearer the Union will be, "the Union as
+it was." If there be those who would not save the Union unless they
+could at the same time destroy slavery I do not agree with them. My
+parmoun object in this struggle is to save the Union, and it is not
+either to save or destroy slavery. If I could save the Union without
+freeing any slaves I would do it; and if I could save it by freeing
+all the staves I would do it; and if I could do it by freeing some and
+leaving others alone I would also do that. What I do about slavery and
+the coloured race I do because I believe it helps to save this Union;
+and what I forbear I forbear because I do not believe it would be to
+save the Union. I shall do <hi rend="italic">less</hi> whenever I
+shall believe what I am doing hurts the cause, and I shall do <hi
+rend="italic">more</hi> whenever I shall believe doing more will help
+the cause. I shall try to correct errors when shown to be errors, and
+I shall adopt new views so fast as they shall appear to be true
+views. I have here stated my purpose according to my view of official
+duty, and I intend no modification of my oft-expressed personal wish
+that all men, everywhere, could be free.--Yours,<hi
+rend="smallcap">A. LINCOLN.</hi></p></q></p>
 
-,--a -11. to I'VEXT., through G a al d their main body, which was moving den fro= White Plain through Thoroughfare Gap. The Confederate General fion?atreet, who had passed through the Gap, being driven to the west safe, Hooker's division came upon hips in the afternoon of the 27th at Kettle Ran, and, 4 fter s eherg,
-action, routed him, killing and wounding 300, and capturing their camp.
+<p rend="center"><hi rend="smallcap">Miscellaneous.</hi></p> <p>The
+appropriations made at the last Session of Congress reached the
+prodigious amount of 894,000,000 dols.--the largest amount ever 
+appropriated by a Legislature in a single year.</p>
 
-On the 25th Peiie arrived at Maualeae Junction, but the Can, federates under Jaoeon had evacuated the place three hours haters, Jackson retreated cal Oeutrevillo. Six mdcc west of that plan0 Jackson "me noon the divisions of xii'Dewdll and Siegel. The Federals report that in this fight, which lasted until dark, tim Con, federates were driven back at all nointe. General Pope claims to have captured from Joekeen'e rear 1005 prisoners and one gun. He joined Burnetde end M'Olellan near Centreille.
+<p>The Great Eastern had arrived in Flushing Bay, having been beaten
+in her passage by the Persia. She struck a rock at Montauk Point, on
+the eastern extremity of Long Island, staving a hole in her
+bottom. The blow only penetrated the outer scale of the ship, the
+inner scale remaining intact. Efforts will be made to repair her at
+New York, but if this be found impracticable she will return in her
+present condition to England for repairs. In consequence of this mishap, she
+will not be exhibited, as had been previously announced.</p>
 
-On the 30th was fought the second battle of Bull Ban. General Pope's account of it is as fellows;-.
+<p>The Central American States are about to protest against
+Mr. Lincoln's negro colonisation schemes. They declare they are
+willing to receive independent emigrants of every colour, but object
+to a systematic colonisation directed by a powerful foreign
+Government.</p>
 
-}read.Qeartere, Field of Battle, tlxovedeoeti. noel Oathevllie, Mist. .31,
+<p>The new census of San Francisco gives a population of 90,000
+against 81,000 lest year. The city is in a very prosperous condition,
+having been benefited more than injured by the war in the Atlantic
+States.</p>
 
-To Msier-Ocecral Halleek, General-in-Chief at Washington.-We fought ,
+<p>A general war with the Indian tribes being anticipated the
+Califorian mails are to be forwarded by way of New York and the
+Isthmus of Panama, instead of overland by mail-coaches.</p>
+<p rend="center">----</p>
+<p rend="center">----</p>
+<p> The New York papers state that a cargo of 400 slaves was landed last month within
+twenty-five miles of Havannah.</p>
+<p>Oakum is being used by the surgeons of the Federal army in lieu of
+lint, and is said to answer extremely well.</p></div2>
 
-terrific beetle here yesterday with the eeinbbis,t forces of the enemy,. Which
+<div2 id="iln41.1164.002" n="In Pennsylvania" type="article">
+<head>[IN PENNSYLVANIA]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.41</biblScope>
+<biblScope type="issue">no.1164</biblScope>
+<biblScope type="pages">p.279</biblScope>
+<date value="1862-09-13">September 13, 1862</date>
+<extent></extent>
+</bibl>
 
-looted with continuous fury from daylight noon after darts, by which tieod t!u enoety was driven from the field, which we now eceupy. Our troops are tO0 much ealiansted te poeh matters, butt clean do win the eenree of the ,noruie5 as soon as Vito-John Porter', cerpe mines up from ttccanaeeee. The enemy f,-tie hi eec front, bet badly coed. We have no less than $000 men tallied end -.eohlli'irl end, finn the eppeerinre of the field, the enemy has teat tire to our eon. 11e Id, chiefly on the defensive, end every assault was made by ourselves. O;lr troops have behaved splendidly. The battle was fought on the identical battle, fold of Pull lIon, which greatly increased the entheolesrn of ear cocci, the news has $est reached me from the front that the enemy is retreating towacee the neoutsine. I at once pushed forward a recometitring party to ascerieb, this. We have made great raptures, butt em net yet able to form on idea e choir extent. (Signed), Panic Parr, Major-General Commanding.
+<p>In Pennsylvania there is a law to prevent thistles from seeding.
+Any individual allowing thistles to ripen on his premises is liable to
+a penalty of ten dollars.</p></div2>
 
- On the left, the Confederates have advanced to Leeaburg within a
-
-few miles of the Potomac. The river was then fordable at all points above Washington,
-
-In the west the events of the war are ehequered.
-
-The Federals had evacuated Baton Rouge, and captured a eteenacc
-
-an the River Arkansas laden with 500 stand of urine fir General uindmsn, stationed at Little Book. 'The Cloud eelerate General Morgan had defeated 800 troops, under General Johnson, near Gnllatin, no Tennessee, capturing 300 prisoners, including Johnson himself. The remainder of the Federals retreated to Nashville.
-
-It it repea-tod that the Federal Government is very short of arms.
-
-There are net enengh to supply the troops arriving in Washington.
-
-War meetings continue to be held throughout the Northern cities, Becruiting_geee en satisfactorily, and the first 300,000 men are already secured. in addition to the States previously mentioned by us, Illinsl$ has raised her quotas miter both the first and second call. The State of New York has raised her quota of 50,000 under the first tall. The precese of dran hting has been nestpened in this and ether 6tate5 until the 15th this month. T&e delay is conceded by the State authorities on their own responsibility.
-
-The stores eat closed at three .,.look on Saturday Afternoons in the Atlantic cities, in order to give time for volunteering, chill, and procuring substitutes. Persons have been forbidden to Advertise that they procure substitutes.
-
-Ian. nnecotpc's nryrUeilr OF Iris POLICy,
-
-The President has replied to the remonstrance addressed to him by Mt. Grecley, the editor, of the iVbio Ibid T'-ibifnf, urging him to to pracloim the emancipation of the slaves
-
- Washington, Aug. 25.
-
-Sir-I have just iced yeere of the 11th, eshlreese,l to myself through the
-
-Ace Font yrio,,ec. If there be in it any statements or eoeoinptleee, Oslo not
-
-now and limo seetrecert them. It there be in it any inferences which 0 any believe to be falsely drawn, 1 do net nets act here argue ogalsat them. If there be pereeptiblo in it in, hinpetlait and dictatorial tone, I wave it is lefeecace to an elf frle,el, whose heart I have aheays eeppoerd to be right.
-
-As tel the policy I "eren to ho psreoiug," as yoe say. £ leave cot meant
-
-to leave any One iu decal. I world cave the Union. I would awe it the shm'teot way, ceder the Ceenitiorien. Tee eooi,'tr the national an throrit{ can be restored the ,.are, the Ueien will he, "tho U,,loe so it won' ir there he those who eoodd let save the Union aisles.-, they could at cite nine tin,e destroy slavery l do net e'ee with tlsei,t ny esimouet oblect in this tivoggie is to cave the Unlee, end it is net either to aetro or destiny slat-coy. If I ceehi cave the 'Union without freeing any slaee I weeld do it; cecil if I could save it by freeing all the staves 0 would do it, And lit eesld de it by freeing some and leaving others- alone I ocosld also tie that- What I do client slavery ant the coloured two I do because I believe it helpeto save this Union; and what I forbear I forbear bceinms 1 ft not believe it would be to sore the Unien. I shell do toss wlsoasver y s halt believe what I cm doing boris tics canes, and I she,, do eierc wlsenever I shell believe doing mere will help tile amuse. I shall cry to correct crews sehee ebewe to be orrere, end I shall adopt new views se east so they 'ball appear is be note views. I have here shied my purpose attardlug to my view of elllciat into, nit I Intend no modification, of my oft-errprened personal whole chet air Rum, evrrywhrre, could be f,ct.-Tsms,  A. LINCOLN.
-
-anscennildnoue.
-
-The appreprictime made at the last Session of Congress reached , the pceeligoene emeont of 894,000,000 dole-the largest amount ever
-
-appropriated by a Legislature in a single year.
-
-Theo Great astern had arrived in Flashing Bay, having been bettcn in her Passage by the Persia. She struck a rock at Itlontauk Point, en the eastern extremity of Long Island, staving a hale in her bottom. The blew only Penetrated the ontsr scale of the ship, the inner scale remaining intact. Efforts will be made to repair her at New York, but if this be found impracticable she will return in her present condition to En land for repairs. In cause of this mishap, she will net be exhioited, as had boon previon4 announced.
-
-The Central American States me about to protest against Mr.
-
-Lincoln's negro colenioation schemes. They duelers they are willing
-
-to receive independent emigrants of every colour, but objeit to at sys
-
-tematic oolem,etion directed by a powerful foreign (1-oveawmeat.
-
-The new census of San Francisco gives a population of 90,013
-
-Against 81,000 lest year. The city is in a very prosperous condition,
-
-having been benefited more than injured by the war in the Atlantic States.
-
-Agmers.l war with the Indian tribes being anticipated the Calf' feonsn mails are to be forwarded by way of New Yoic end the Istlnnne of Panama, instead of overland by mail-coaches.
-
-The Now York papcre state that a cargo of 400 slaves was leaded lest month within tweidy-Ilve mites of Uovsrsnali.
-
-Oak-um is being need by the surgeons of the Federal army in
-
-lieu of lint, and is add to aaarer extremely welt.
 THE ILLUSTRATED LONDON NEWS.
 
 LO!1L¡Olf SATURDAY, P2'E,WIJJiIO 12, 1882.
