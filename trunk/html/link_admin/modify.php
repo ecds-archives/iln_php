@@ -4,16 +4,16 @@ include_once ("linkRecord.class.php");
 include_once("../phpDOM/classes/include.php");
 import("org.active-link.xml.XML");
 
-
-html_head("Links - Modify Existing link");
+link_head("Links - Modify Existing link");
 
 $url = $_GET["url"];
+$id = $_GET["id"];
 
 
 $myargs = array('host' => "vip.library.emory.edu",
-		  'db' => "BECKCTR",
-		  'coll' => 'iln_links',
-		  'url' => $url);
+		'db' => "BECKCTR",
+		'coll' => 'iln_links',
+		'id' => $id);
 $link = new LinkRecord($myargs);
 $link->taminoGetRecord();
 

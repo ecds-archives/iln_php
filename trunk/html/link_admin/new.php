@@ -5,7 +5,7 @@ include_once("../phpDOM/classes/include.php");
 import("org.active-link.xml.XML");
 
 
-html_head("Links - Add a new link");
+link_head("Links - Add a new link");
 
 // needs tamino info to grab subject
 $myargs = array('host' => "vip.library.emory.edu",
