@@ -14,27 +14,25 @@ $term = $_GET["term"];
 $term2 = $_GET["term2"];
 $term3 = $_GET["term3"];
 
-$args = array('host' => $tamino_server,
-	      'db' => $tamino_db,
-	      'coll' => $tamino_coll,
+$args = array('host' => "bohr.library.emory.edu",
+	      'port' => "8080",
+	      'db' => "ILN",
+	      //	      'coll' => $tamino_coll,
+	      'dbtype' => "exist",
 	      'debug' => false);
-$tamino = new xmlDbConnection($args);
+$xmldb = new xmlDbConnection($args);
 $xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
  
 // addition to the query for next/previous links (only in contents/browse mode, not searches) 
-$sibling_query = '<siblings> {for $b in input()/TEI.2//div1/div2 
-  return <div2>  
-          {$b/@id}  
-          {$b/@type}  
-          {$b/head}  
-          {$b/bibl}  
-         </div2> } 
+//FIXME: eXist complains about this part of the query - something to do with xpath?
+$sibling_query = '<siblings> {for $b in //div2 
+ return <div2> {$b/@id}{$b/@type}{$b/head}{$b/bibl}</div2> }
 </siblings>';  
 
-$query ="for \$a in input()/TEI.2//div1/div2 where \$a/@id='$id' return <div1> {\$a}"; 
-// if there is no search term, this is browse mode - use sibling query 
-if (!(isset($term))) { $query .= $sibling_query; } 
-$query .= "</div1>";   
+$query = "let \$a := //div2[@id='$id'] return <div1> {\$a}";
+// if there is no search term, this is browse mode - use sibling query  
+if (!(isset($term))) { $query .= $sibling_query; }  
+$query .= "</div1>"; 
 
 $xsl_file = "browse.xsl"; 
 
@@ -46,16 +44,16 @@ print '<div class="content">';
 
 if ($id) {
   // run the query 
-  $tamino->xquery($query);
+  $xmldb->xquery($query);
 
-  // convert the terms into an array to pass to tamino functions
+  // convert the terms into an array to pass to xmlDb functions
   $myterms = array($term, $term2, $term3);
   // transform xml with xslt
-  $tamino->xslTransform($xsl_file);
+  $xmldb->xslTransform($xsl_file);
   // print out info about highlighted terms
-  $tamino->highlightInfo($myterms);
+  $xmldb->highlightInfo($myterms);
   // print transformed result
-  $tamino->printResult($myterms);
+  $xmldb->printResult($myterms);
 } else {
   print "<p class='error'>Error: No article specified!</p>";
 }

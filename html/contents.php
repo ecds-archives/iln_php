@@ -4,13 +4,27 @@ include_once("config.php");
 include_once("xmlDbConnection.class.php");
 include("common_functions.php");
 
-$args = array('host' => $tamino_server,
-	      'db' => $tamino_db,
-	      'coll' => $tamino_coll,
+$args = array('host' => "bohr.library.emory.edu",
+	      'port' => "8080",
+	      'db' => "ILN",
+	      //	      'coll' => $tamino_coll,
+	      'dbtype' => "exist",
 	      'debug' => false);
-$tamino = new xmlDbConnection($args);
+$xmldb = new xmlDbConnection($args);
 
-$query = 'for $b in input()/TEI.2//div1
+
+$query = 'for $vol in //div1
+order by $vol/@id
+return <div1 type="{$vol/@type}"> 
+{$vol/head} {$vol/docDate}
+{for $art in $vol//div2 return 
+<div2 id="{$art/@id}" type="{$art/@type}"> 
+  {$art/head}{$art/bibl} 
+  {for $fig in $art//figure return $fig} 
+</div2>} 
+</div1>';
+
+$tamino_query = 'for $b in input()/TEI.2//div1
 return <div1>
  {$b/@type}
  {$b/head}
@@ -31,7 +45,7 @@ added this to query to test taminoConnection class
 */
 
 
-$tamino->xquery($query);
+$xmldb->xquery($query);
 
 html_head("Browse");
 
@@ -42,8 +56,8 @@ print '<div class="content">
           <h2>Browse</h2>';
 print "<hr>";
 $xsl_file = "contents.xsl";
-$tamino->xslTransform($xsl_file);
-$tamino->printResult();
+$xmldb->xslTransform($xsl_file);
+$xmldb->printResult();
 
 print "<hr>";
 print "</div>";
