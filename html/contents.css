@@ -1,7 +1,9 @@
 @import "iln.css";
 
-ul { display: none }
-li { list-style-type: none;
+
+/* careful: use class names, so any other ILN lists will still show up */
+ul.contents { display: none }
+li.contents { list-style-type: none;
      margin-left: 0px;
      margin-top:  5px;
      margin-bottom: 5px;
