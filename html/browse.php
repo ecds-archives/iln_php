@@ -14,9 +14,9 @@ $term3 = $_GET["term3"];
 
 
 $args = array('host' => "vip.library.emory.edu",
-		'db' => "BECKCTR",
-	      //	      'debug' => true,
-		'coll' => 'ILN');
+	      'db' => "BECKCTR",
+	      'debug' => false,
+	      'coll' => 'ILN');
 $tamino = new taminoConnection($args);
 $xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
  
