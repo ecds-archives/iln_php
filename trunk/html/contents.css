@@ -1,0 +1,9 @@
+ul { display: none }
+li { list-style-type: none;
+     margin-left: 0px;
+     margin-top:  5px;
+     margin-bottom: 5px;
+   }
+/* div2s which contain figures : first line is further left because they have a toggle image */ 
+li.container { text-indent: -15px; margin-indent: 15px;  }
+
