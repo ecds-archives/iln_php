@@ -1,8 +1,7 @@
 <?php
 
 include_once("config.php");
-
-include_once("lib/taminoConnection.class.php");
+include_once("taminoConnection.class.php");
 include("common_functions.php");
 
 $args = array('host' => $tamino_server,
@@ -47,15 +46,11 @@ $tamino->xslTransform($xsl_file);
 $tamino->printResult();
 
 print "<hr>";
+print "</div>";
+   
+include("xml/foot.xml");
 
-?> 
-   
-  </div>
-   
-<?php
-  include("xml/foot.xml");
 ?>
-
 
 </body>
 </html>
