@@ -1,8 +1,5 @@
 <?php 
 
-include_once("phpDOM/classes/include.php");
-import("org.active-link.xml.XML");
-
 class taminoConnection {
 
   // connection parameters
@@ -149,7 +146,6 @@ class taminoConnection {
 
        $total = $this->xml->getElementsByTagName("total");
        if ($total) { $this->count = $total->item(0)->textContent; }
-       print "DEBUG: total is $this->count<br>\n";
      } else {
        print "Error! taminoConnection xml variable uninitialized.<br>";
      }
