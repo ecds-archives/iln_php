@@ -1,7 +1,7 @@
 <?php
 
 include_once("config.php");
-include_once("taminoConnection.class.php");
+include_once("xmlDbConnection.class.php");
 include("common_functions.php");
 
 
@@ -9,7 +9,7 @@ $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll,
 	      'debug' => false);
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 $query = 'for $b in input()/TEI.2//div1
 let $fig := $b//figure

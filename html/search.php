@@ -9,7 +9,7 @@ search.php?region=article&term=lincoln&sort=date&op=and&region2=title&term2=amer
 (values are as specified below)  */
 
 include_once("config.php");
-include_once("taminoConnection.class.php");
+include_once("xmlDbConnection.class.php");
 include_once("common_functions.php");
 
 $region = $_GET["region"]; //options: document|article|title|date|illustration
@@ -26,7 +26,7 @@ $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll,
 	      'debug' => false);
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 $xsl    = "search.xsl";
 
 // pass terms into xslt as parameters 
