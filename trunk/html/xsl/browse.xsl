@@ -142,7 +142,6 @@
 <!-- generate next & previous links (if present) -->
 <!-- note: all div2s, with id, head, and bibl are retrieved in a <siblings> node -->
 <xsl:template name="next-prev">
-<<<<<<< browse.xsl
 <xsl:variable name="main_id"><xsl:value-of select="//div1/div2/@id"/></xsl:variable>
 <!-- get the position of the current document in the siblings list -->
 <xsl:variable name="position">
