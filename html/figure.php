@@ -37,7 +37,7 @@ $width  = $xml->getTagAttribute("width", "ino:response/xql:result/figure");
 $height = $xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
 
 // Now, create the frameset with controller & image window
-print "<frameset rows='70,*' border='0' >
+print "<frameset rows='80,*' border='0' >
  <frame noresize='true' marginwidth='0' framespacing='0' frameborder='no'
        border='0'
        marginheight='0' scrolling='no' name='control'
