@@ -8,7 +8,7 @@
 
 // root directory and url where the website resides
 $server = "biliku.library.emory.edu";
-$base_path = "/rebecca/ilnweb";
+$base_path = "/rebecca/iln-exist";
 $basedir = "/home/httpd/html$base_path";
 $base_url = "http://$server$base_path/";
 
