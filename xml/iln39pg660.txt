@@ -71,7 +71,7 @@ ____________
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
            <biblScope type="issue">no. 1124</biblScope> 
-           <biblScope type="pages">p. 660</biblScope> 
+           <biblScope type="pages">p. 661</biblScope> 
            <date value="1861-12-28">December 28, 1861</date>
 	</bibl>
 
