@@ -4318,27 +4318,7 @@ ARTIST.</head>
                   <date value="1861-08-17">August 17, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
-                     <head> THE CIVIL WAR IN AMERICA: ATTACK ON THE 
-CONFEDERATE BATTERIES AT BULL RUN BY THE 27TH AND 14TH NEW YORK REGIMENTS. 
--FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
-                  </figure>
-               </p>
-  </div2>
-
-<div2 id="iln39.1103.050" n="THE CIVIL WAR IN AMERICA: THE STAMPEDE FROM BULL 
-RUN.-FROM A SKETCH BY OUR SPECIAL ARTIST." type="illustration" >
-<head> THE CIVIL WAR IN AMERICA: THE STAMPEDE FROM BULL RUN.-FROM A SKETCH BY 
-OUR SPECIAL ARTIST.</head>
-               <bibl> 
-                  <title>The Illustrated London News</title> 
-                  <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1106</biblScope> 
-                  <biblScope type="pages">p.167</biblScope> 
-                  <date value="1861-08-17">August 17, 1861</date>
-               <extent>1 paragraph</extent></bibl>
-               <p>
-                  <figure>
+                  <figure entity="v39p167">
                      <head> THE CIVIL WAR IN AMERICA: THE STAMPEDE FROM BULL 
 RUN.-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                   </figure>
@@ -5608,29 +5588,6 @@ THE STREETS OF WASHINGTON.-FROM A SKETCH BY OUR SPECIAL ARTIST</head>
                <extent>1 paragraph</extent></bibl>
                <p>
                   <figure entity="v39p283">
-                     <head> THE WAR IN AMERICA: UNION TROOPS ATTACKING 
-CONFEDERATE PRISONERS IN THE STREETS OF WASHINGTON.-FROM A SKETCH BY OUR 
-SPECIAL ARTIST</head>
-                  </figure>
-               </p>
-  </div2>
-
-<div2 id="iln39.1108.077" n="THE WAR IN AMERICA: ARREST OF MR. FAULKNER, 
-LATE UNITED STATES' MINISTER TO FRANCE, AT BROWN'S HOTEL, WASHINGTON, ON 
-THE CHARGE OF TREASON.  FROM A SKETCH BY OUR SPECIAL ARTIST." 
-type="illustration">
-<head> THE WAR IN AMERICA: ARREST OF MR. FAULKNER, LATE UNITED STATES' 
-MINISTER TO FRANCE, AT BROWN'S HOTEL, WASHINGTON, ON THE CHARGE OF TREASON.  
-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
-               <bibl> 
-                  <title>The Illustrated London News</title> 
-                  <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1108</biblScope> 
-                  <biblScope type="pages">p.283</biblScope> 
-                  <date value="1861-09-14">September 14, 1861</date>
-               <extent>1 paragraph</extent></bibl>
-               <p>
-                  <figure>
                      <head> THE WAR IN AMERICA: ARREST OF MR. FAULKNER, LATE 
 UNITED STATES' MINISTER TO FRANCE, AT BROWN'S HOTEL, WASHINGTON, ON THE CHARGE 
 OF TREASON.  FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
@@ -7851,30 +7808,7 @@ NORTH CAROLINA, DESTROYED BY FIRE ON THE 17TH ULT. BY THE FEDERALISTS</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity=">
-                     <head> THE WAR IN AMERICA:-FORT OCRACOKE, ON BEACON 
-ISLAND, NORTH CAROLINA, DESTROYED BY FIRE ON THE 17TH ULT. BY THE FEDERALISTS
-</head>
-                  </figure>
-               </p>
-  </div2>
-
- <div2 id="iln39.1113.119" n="THE WAR IN AMERICA:-A CONFEDERATE DESERTER COMING 
-INTO THE FEDERAL LINES AT MUNSON'S HILL.-FROM A SKETCH BY OUR SPECIAL ARTIST.
--SEE NEXT PAGE." type="illustration">
-               <head>THE WAR IN AMERICA:-A CONFEDERATE DESERTER COMING INTO 
-THE FEDERAL LINES AT MUNSON'S HILL.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE 
-NEXT PAGE.</head>
-               <bibl> 
-                  <title>The Illustrated London News</title> 
-                  <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1113</biblScope> 
-                  <biblScope type="pages">p. 411</biblScope> 
-                  <date value="1861-10-19">October 19, 1861</date>
-               <extent>1 paragraph</extent>
-               </bibl>
-               <p>
-                  <figure>
+                  <figure entity="v39p411">
                      <head> THE WAR IN AMERICA:-A CONFEDERATE DESERTER COMING 
 INTO THE FEDERAL LINES AT MUNSON'S HILL.-FROM A SKETCH BY OUR SPECIAL ARTIST.
 -SEE NEXT PAGE. </head>
@@ -8353,12 +8287,7 @@ FROM SKETCHES BY OUR SPECIAL ARTIST." type="article">
           <extent>4 paragraphs</extent>
 	</bibl>
 
-   <figure>
-      <head> FRANKLIN'S BRIGADE PASSING ARLINGTON MILL ON ITS WAY TO OCCUPY
- MUNSON'S HILL.</head>
-	      </figure>
-
-   <figure>
+   <figure entity="v39p438">
       <head> A PORTION OF THE CONFEDERATE WORKS ON MUNSON'S HILL.</head>
 	      </figure>
 
@@ -9801,6 +9730,12 @@ MORMON CHURCH." type="illustration">
                   <biblScope type="pages">p. 503</biblScope> 
                   <date value="1861-11-16">November 16, 1861</date>
                <extent>1 paragraph</extent></bibl>
+            <p>
+                  <figure entity="v39p503a">
+                     <head> VIEW OF ST. JOE, MISSOURI, FROM THE KANSAS SIDE. 
+</head>
+                  </figure>
+               </p>
   </div2>
 
 
@@ -9835,7 +9770,7 @@ BY A BAYONET CHARGE-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE PAGE 514. </head>
                   <date value="1861-11-23">November 23, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p511">
                      <head> THE CIVIL WAR IN AMERICA: THE FIGHT AT BALL'S BLUFF,
  UPPER POTOMAC-DESPERATE EFFORT MADE BY THE 15TH MASSACHUSETTS REGIMENT TO 
 CLEAR THE WOODS BY A BAYONET CHARGE-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE 
@@ -10030,7 +9965,7 @@ BY OUR SPECIAL ARTIST. </head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p514">
                      <head> THE CIVIL WAR IN AMERICA: RETREAT OF THE 
 FEDERALISTS AFTER THE FIGHT AT BALL'S BLUFF, UPPER POTOMAC, VIRGINIA.- FROM 
 A SKETCH BY OUR SPECIAL ARTIST.</head>
@@ -10318,7 +10253,7 @@ there is no doubt. Of the feeling towards this country in the Southern States
  which is that the Confederates believe that, in our secret hearts, our leaning
  is to
 
-   <figure>
+   <figure entity="v39p535">
       <head> THE DESTRUCTION OF THE FEDERAL MERCHANTMAN HARVEY BIRCH BY THE 
 CONFEDERATE WAR-SLOOP NASHVILLE.-- SEE NEXT PAGE.</head>
 	      </figure>
@@ -10835,26 +10770,6 @@ suggested, and heartily approved, that as General Scott is  about to visit this
 sympathisers.</p>
 	  </div2>
 
-<div2 id="iln39.1119.165" n="SWORD OF HONOUR PRESENTED TO GENERAL M'CLELLAN BY 
-THE CITY OF PHILADELPHIA." type="illustration">
-               <head>SWORD OF HONOUR PRESENTED TO GENERAL M'CLELLAN BY THE CITY 
-OF PHILADELPHIA.</head>
-               <bibl> 
-                  <title>The Illustrated London News</title> 
-                  <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1119</biblScope> 
-                  <biblScope type="pages">p. 538</biblScope> 
-                  <date value="1861-11-30">November 30, 1861</date>
-               <extent>1 paragraph</extent>
-               </bibl>
-               <p>
-                  <figure>
-                     <head> SWORD OF HONOUR PRESENTED TO GENERAL M'CLELLAN BY 
-THE CITY OF PHILADELPHIA.</head>
-                  </figure>
-               </p>
-  </div2>
-
 
 <div2 id="iln39.1119.166" n="[MESSRS., BAILY AND CO.,]" type="article">
 <head> [MESSRS., BAILY AND CO.,]</head>
@@ -11096,7 +11011,7 @@ vi&aacute; Galway packet lnvolved a loss of about six shillings.</p>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity=">
                      <head>FORT MONTGOMERY, AT BOWSE'S POINT, LAKE CHAMPLAIN.
 </head>
                   </figure>
@@ -11148,12 +11063,12 @@ PAGE 570." type="illustration">
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
                   <biblScope type="issue">1120</biblScope> 
-                  <biblScope type="pages">p. 566</biblScope> 
+                  <biblScope type="pages">p. 567</biblScope> 
                   <date value="1861-12-07">December 7, 1861</date>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p567">
                      <head> THE CIVIL WAR IN AMERICA: FEDERAL PICKET ON THE 
 POTOMAC, IN FRONT OF THE CONFEDERATE BATTERIES.- FROM A SPECIAL ARTIST.- SEE 
 PAGE 570.</head>
@@ -11659,7 +11574,7 @@ SICKLES IN THE POTOMAC."- FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p570">
                      <head> THE CIVIL WAR IN AMERICA: "MY RECONNAISSANCE WITH 
 GENREAL SICKLES IN THE POTOMAC."- FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                   </figure>
@@ -11691,12 +11606,7 @@ the Federalists have there in position. Preparations are being made at the same
 point for attack on the COnfederate batteries over the river, three exceedingly
  heavy ones having been unmasked. During my visit a dozen or so of small 
 schooners of light draught successfully <pb n="571"/>
-  <figure>
-    <head>THE CIVIL WAR IN AMERICA: THE CONFEDERATE BATTERIES ON THE LOWER 
-POTOMAC, VIRGINIA SHORE, OPPOSITE BUDD'S FERRY- GOVERNMENT STORE-SCHOONERS 
-RUNNING THE BLOCKADE.- FROM A SPECIAL ARTIST.</head>
-		</figure>
-  <figure>
+  <figure entity="v39p571">
     <head> THE CIVIL WAR IN AMERICA: THE TEN-POUNDER GUN BATTERY (FEDERALIST) 
 AT BUDD'S FERRY, LOWER POTOMAC, OPPOSITE THE CONFEDERATE BATTERIES ON THE 
 VIRGINIA SHORE.- FROM A SPECIAL ARTIST.</head>
@@ -11795,7 +11705,7 @@ THE BRITISH MAIL-STEAMER TRENT.- SEE NEXT PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p583">
                      <head> THE SEIZURE BY CAPTAIN WILKS, OFTHE UNITED STATES'
  WARSHIP SAN JACINTO, OF MESSRS. SLIDELL AND MASON, CONFEDERATE COMMISSIONERS, 
 
@@ -11897,27 +11807,6 @@ marines and hurried into the boat, calling out to Captian Moir as he he left
 that he held him and his Government responsible for this outrage.</p>
 	  </div2>
 
-<div2 id="iln39.1121.182" n="THE CONFEDERATE COMMISSIONERS TO ENGLAND AND FRANCE
- SEIZED ON BOARD THE TRENT.- SEE NEXT PAGE." type="illustration">
-               <head>THE CONFEDERATE COMMISSIONERS TO ENGLAND AND FRANCE SEIZED
- ON BOARD THE TRENT.- SEE NEXT PAGE.</head>
-               <bibl> 
-                  <title>The Illustrated London News</title> 
-                  <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1121</biblScope> 
-                  <biblScope type="pages">p. 591</biblScope> 
-                  <date value="1861-12-14">December 14, 1861</date>
-               <extent>1 paragraph</extent>
-               </bibl>
-               <p>
-                  <figure>
-                     <head> THE CONFEDERATE COMMISSIONERS TO ENGLAND AND FRANCE
- SEIZED ON BOARD THE TRENT.- SEE NEXT PAGE.</head>
-                  <figDesc>MR. MASON AND MR. SLIDELL</figDesc>
-                  </figure>
-               </p>
-  </div2>
-
 <div2 id="iln39.1121.183" n="OUR CONTROVERSY WITH AMERICA." type="article">
 <head> OUR CONTROVERSY WITH AMERICA. </head>
       <bibl> 
@@ -11953,7 +11842,7 @@ juncture of our national affairs, we can afford to be almost surprised that any
 one should have conceived it could have been other than it has been. It is to be
  observed that, as the time since the intelligence of the Jacinto affair was 
 
-  <figure>
+  <figure entity="v39p591a">
     <head> CAPTAIN WILKS, OF THE SAN JACINTO</head>
 		</figure>
 
@@ -11981,7 +11870,7 @@ make a suitable apology. The signs of the existence of such a feeling, however
  auguries of things to come which, we believe, the most sensitive Englishmen 
 would be willing enough to witness. It must be remembered that these indications
  of a tendency to
-  <figure>
+  <figure entity="v39p591b">
     <head> THE CONFEDERATE COMMISSIONERS TO ENGLAND AND FRANCE SEIZED ON BOARD 
 THE TRENT.- SEE NEXT PAGE.</head>
 		</figure><pb n="592"/>
@@ -12685,7 +12574,7 @@ residence is at Somerville, Haddington. The earlier part of his seagoing life
 the Russian War he was chief officer of the Royal mail steam-packet Orinoco
 
  when that 
-  <figure>
+  <figure entity="v39p594">
     <head>CAPTAIN MOIR, OF THE TRENT.</head>
 		</figure>
 vessel was engaged in towing the disabled men-of-war from the thickest of the 
@@ -12750,7 +12639,7 @@ FORCES.- SEE SUPPLEMENT, PAGE 612.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v40p599">
                      <head> GENERAL M'CLELLAN, COMMANDER-IN-CHIEF OF THE FEDERAL
  FORCES.- SEE SUPPLEMENT, PAGE 612.</head>
                   </figure>
@@ -12772,7 +12661,7 @@ SEE NEXT PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p607">
                      <head> EMBARKATION AT WOOLWICH, YESTERDAY WEEK, OF THE E 
 BATTERY FOURTH BRIGADE OF ROYAL FIELD ARTILLERY ON BOARD THE  MELBOURNE FOR 
 CANADA.- SEE NEXT PAGE.</head>
@@ -12958,7 +12847,7 @@ MISSISSIPPIANS PASSING IN REVIEW BEFORE GENERAL BEAUREGARD AND STAFF</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p610">
                      <head> THE CIVIL WAR IN AMERICA: THE CONFEDERATE ARMY- 
 MISSISSIPPIANS PASSING IN REVIEW BEFORE GENERAL BEAUREGARD AND STAFF</head>
                   </figure>
@@ -12982,7 +12871,7 @@ OF THE FEDERAL ARMY.- FROM A SKETCH BY OUR SPECIAL ARTIST.- SEE NEXT PAGE.
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p611">
                      <head> THE CIVIL WAR IN AMERICA: TORCHLIGHT PROCESSION OF 
 GENERAL BLENKER'S BRIGADE AT WASHINGTON IN HONOUR OF GENERAL M'CLELLAN TAKING 
 COMMAND OF THE FEDERAL ARMY.- FROM A SKETCH BY OUR SPECIAL ARTIST.- SEE NEXT 
@@ -13002,7 +12891,7 @@ PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity=">
                      <head> ARTILLERY SLEDGES FOR CANADA.</head>
                   </figure>
                </p>
@@ -13150,12 +13039,12 @@ SEE PAGE 620." type="illustration">
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
                   <biblScope type="issue">1122</biblScope> 
-                  <biblScope type="pages">p. 616</biblScope> 
+                  <biblScope type="pages">p. 615</biblScope> 
                   <date value="1861-12-21">December 21, 1861</date>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p615">
                      <head> REINFORCEMENTS FOR CANADA: THE MILITARY TRAIN.- 
 SEE PAGE 620.</head>
                   </figure>
@@ -13783,7 +13672,7 @@ between the rival forces on the banks of the Potomac at the time of the latest
  despatches leaving America, yet attacks and counter-attacks on a small scale 
 be<pb n="651"/>
 
-                  <figure>
+                  <figure entity="v39p651">
                      <head> THE CIVIL WAR IN AMERICA: SKIRMISH NEAR FALL'S 
 CHURCH, VIRGINIA.- FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                   </figure>
@@ -13813,7 +13702,7 @@ SEE NEXT PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p655">
                      <head> THE BOUNDARY LINE BETWEEN THE UNITES STATES AND 
 CANADA.-SEE NEXT PAGE.</head>
                   </figure>
@@ -14123,27 +14012,10 @@ SOUTH-WESTERN RAILWAY STATION FOR SOUTHAMPTON.- SEE NEXT PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p659">
                      <head> REINFORCEMENTS FOR CANADA: THE GUARDS LEAVING THE
  SOUTH-WESTERN RAILWAY STATION FOR SOUTHAMPTON.- SEE NEXT PAGE.</head>
                   </figure>
-               </p>
-  </div2>
-
-<div2 id="iln39.1124.212" n="SHIPPING MUNITIONS OF WAR AT THE TOWER FOR CANADA.-
- SEE NEXT PAGE." type="illustration">
-               <head>SHIPPING MUNITIONS OF WAR AT THE TOWER FOR CANADA.- SEE 
-NEXT PAGE.</head>
-               <bibl> 
-                  <title>The Illustrated London News</title> 
-                  <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1121</biblScope> 
-                  <biblScope type="pages">p. 659</biblScope> 
-                  <date value="1861-12-28">December 28, 1861</date>
-               <extent>1 paragraph</extent>
-               </bibl>
-               <p>
-                  <figure>
                      <head> SHIPPING MUNITIONS OF WAR AT THE TOWER FOR CANADA.- 
 SEE NEXT PAGE.</head>
                   </figure>
@@ -14395,7 +14267,7 @@ BRIDGE ON THEIR WAY TO THE SOUTH-WESTERN RAILWAY STATION.- SEE PRECEDING PAGE
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p662">
                      <head> REINFORCEMENTS FOR CANADA: THE GUARDS CROSSING 
 WESTMINSTER BRIDGE ON THEIR WAY TO THE SOUTH-WESTERN RAILWAY STATION.- SEE 
 PRECEDING PAGE.</head>
@@ -14418,7 +14290,7 @@ ARTIST.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p662">
                      <head> THE CIVIL WAR IN AMERICA: DRUMMING OUT A SOLDIER OF 
 THE FEDERAL ARMY THROUGH THE STREETS OF WASHINGTON.- FROM A SKETCH BY OUR 
 SPECIAL ARTIST.</head>
