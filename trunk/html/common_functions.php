@@ -12,8 +12,7 @@ function getCSS () {
   if (eregi ("mac",  $HTTP_USER_AGENT)) { $os = "mac"; }
   else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
   
-  // $css_basepath = "http://chaucer.library.emory.edu/iln/";
-  $css_basepath = "http://reagan.library.emory.edu/rebecca/ilnweb/";
+  $css_basepath = "http://cti.library.emory.edu/iln/";
   $css = "iln.css"; 
   if ($browser == "MSIE") {
     if ($os == "mac") {
@@ -34,12 +33,12 @@ print "<html>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">
 <script language=\"Javascript\" 
-	src=\"http://reagan.library.emory.edu/rebecca/ilnweb/cookies.js\"></script>
+	src=\"http://cti.library.emory.edu/iln/cookies.js\"></script>
 <script language=\"Javascript\" 
-	src=\"http://reagan.library.emory.edu/rebecca/ilnweb/content-list.js\"></script>
+	src=\"http://cti.library.emory.edu/iln/content-list.js\"></script>
 <script language=\"Javascript\" 
-	src=\"http://chaucer.library.emory.edu/iln/image_viewer/launchViewer.js\"></script>
-<link rel=\"stylesheet\" type=\"text/css\" href=\"http://reagan.library.emory.edu/rebecca/ilnweb/contents.css\">
+	src=\"http://cti.library.emory.edu/iln/image_viewer/launchViewer.js\"></script>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"http://cti.library.emory.edu/iln/contents.css\">
 
  </head>";
 }
