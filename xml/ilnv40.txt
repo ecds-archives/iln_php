@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="raw-text"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -46,6 +46,10 @@ London News Perspective</title>
          </projectDesc>
       </encodingDesc>
       <revisionDesc>
+	<change><date>2004</date>
+          <respStmt><name>Brittney Cooper</name><resp>Beck Center Staff</resp></respStmt>
+          <item>Proofread and encoded</item>
+	</change>
       </revisionDesc>
    </teiHeader>
    <text> 
@@ -908,7 +912,7 @@ cylinders each, and the pivot-pier of five. The cylinders are cast in
 sections, nine feet in length and six feet outside diameter, with two
 inches of metal. The apparatus for sinking these piles consists of a
 large flat boat, upon which is placed a 16-horse power steam-engine,
-and two double-acting air-pumps, hoisting apparatus, &c. In the <hi
+and two double-acting air-pumps, hoisting apparatus, &#x0026;c. In the <hi
 rend="italic">Journal of the Franklin Institute</hi>, Philadelphia,
 appears an interesting account of the process of sinking the
 cylinders, with illustrative woodcuts. Two portions of cylinder are
@@ -2587,7 +2591,7 @@ Courts.</head>
  a new system of signals has been introduced into the Federal army. By
  day messages are sent from one division to another by the use of
  differently coloured flags, thus doing away with the
- necessityof:dispatching mounted troopers iwth written orders; and by
+ necessityof:dispatching mounted troopers iwth written order; and by
  night lamp-torches take their
 place with the same effect. These signals can be used with an army in
 motion, the corps attached to the different brigades occupying as they
@@ -3059,29 +3063,20 @@ not weaken ourselves by taking upon us a war of questionable necessity, Let us g
 
 <p rend="center"> CALIFORNIA.</p>
 
-<P>This State has been visited by the severest floods which have ever
-
+<p>This State has been visited by the severest floods which have ever
 occurred since its settlement by the Americans. They were caused by
-
 heavy rains which melted the snow in the mountains, by which the,
-
 various streams were rapidly swollen, and rose to a great height. Immense damage has been done to the cities. of Sacramento and Marysville, and also to the agricultural settlements in the neighbourhood. At Long Bar, near Marysville, about fifty Chinamen were, drowned and at Sand Flat an entire Chinese settlement was swept
-
-away, tl!Ie poor fellows climbing into the sycamore-trees only to torn
+away, the poor fellows climbing into the sycamore-trees only to torn
 away by the rising current. At another bar nearly one hundred
-
 Chinamen were drowned in a narrow gorge, leaving only one to tell
-
-the tale. All the bridges on the rivers of Upper California have been destroyed by the same terrible agency.</P>
+the tale. All the bridges on the rivers of Upper California have been destroyed by the same terrible agency.</p>
 <p rend="center">CANADA.</p>
 <p>The high tariff in the United States is beginning to have a favour
-
 able effect on Canadian trade. In Montreal large quantitees of cotton,
-
 goods have been purchased on American account. Most of these will<pb
 n="105"></pb>
 be smuggled. Cotton goods are now fully thirty per cent dearer on
-
 the American than on the Canadian side of the frontier line. A large
 trade is also springing up in teas, sugars, and other articles which
 used to be cheaper in the United States than in Canada, but which are
@@ -3120,10 +3115,8 @@ estimated at &#x00A3;20,000.</p></div2>
          <extent></extent>
 </bibl>
 
-<p>H<hi rend="small caps">ARBOUR.</hi>-When Mr. Seward's despatch on the Trent prisoners arrived in
-
-this country, stating various grounds on which they might have been detained
-
+<p><hi rend="small caps">Harbour.</hi>-When Mr. Seward's despatch on
+the Trent prisoners arrived in this country, stating various grounds on which they might have been detained
 at the very time their release was effected, Earl Russell stated in
 reply that, while he cheerfully accepted the result, he could not
 acquiesce in his arguments, and added that on a subsequent occasion he
@@ -3140,9 +3133,10 @@ passage in Mr Seward's despatch in which that gentleman says that he
 would have detained the prisoners if the safety of the Union required
 it. "His frankness," says his Lordship, "'compels me to be equally
 open, and to inform him that Great Britain could not have submitted to the perpetration of that wrong. -From a despatch from Lord Lyons to Earl Russell we learn that Mr. Seward declares that the blocking up of Charleston harbour is only temporary; that the Federal Government will themselves remove the obstructions "as soon as the Union is restored"; and that the best proof of its being incomplete and partial is "that in spite of the sunken vessels and of the blockading squadron a British steamer laden with contraband of war had just succeeded in getting in."</p></div2>
-<div2 id="iln40.1129.004 n="The Illustrated London News"
+<div2 id="iln40.1129.004" n="The Illustrated London News"
       type="Article">
 <head>THE ILLUSTRATED LONDON NEWS</head>
+<dateline rend="center">LONDON, SATURDAY, FEBRUARY 1, 1862.</dateline>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1129</biblScope> 
@@ -3151,37 +3145,38 @@ open, and to inform him that Great Britain could not have submitted to the perpe
          <extent></extent>
 </bibl>
 
-<dateline rend="center"><hi rend="italic">LONDON, SATURDAY, FEBRUARY</hi> 1, 1862.</dateline>
-
-<p>M<hi rend="smallcaps">R. MASON</hi>, the author of the Fugitive
-Slave Law, and his 
-
-co-Commissioner, Mr. Slidell, have arrived in England; and the Trent drama, which at one time threatened to rise into the dignity of tragedy, is now over. The actors who performed the part of prisoners must resume their positions in private life
-
-and assuredly we have no wreaths to throw them, nor inclination to summon them before the curtain for what paragraph-makers call an ovation. Lord Russell has published the despatch in which he demolished the barley-sugar edifice raised by Mr. Seward. The tone of the reply is, of course, perfectly courteous;
-
-but the arguments are mercilessly hard. The garbled quotations by
-Mr. Seward from Emmerich Vattel, the Neufchatel authority on International Law and the Nature of Love are restored to the context and to significance; and Lord Russell reasserts the rule
-
-that civilians do not by their presence in a neutral vessel alter its
-neutrality, be they who they may, nor do they expose themselves to
-capture. To the curious observation of Mr. Seward that if it had been
-for the interest of his country to detain the captives they would have
-been detained the Earl simply replies such an idea is indefensible,
-and that England would not have permitted such a course. The honour
-and the justice of this nation being now vindicated, we presume the
-matter may drop, unless Mr. Seward has leisure to compile another
-miscellaneous column of fragmentary law. This, however, the clever
-American lawyer may not have inclination to do, inasmuch as the sudden
-and important rupture in Mr. Lincoln's Cabinet may give its remaining
-members enough of real business to attend to. Mr. Cameron, the War
-Secretary, whose views on the subject of slavery are more in
-accordance with those of England than of the North, has been suddenly
-dismissed by the President, and his place supplied by Mr. Stanton who
-holds by the Domestic Institution. The measure has excited a great
-sensation among the powerful Abolitionist,<pb n="109"></pb>
-party, and an attempt is being made to alter public opinion as
-
+<p><hi rend="smallcaps">Mr. Mason</hi>, the author of the Fugitive
+Slave Law, and his co-Commissioner, Mr. Slidell, have arrived in
+England; and the Trent drama, which at one time threatened to rise
+into the dignity of tragedy, is now over. The actors who performed the
+part of prisoners must resume their positions in private life and
+assuredly we have no wreaths to throw them, nor inclination to summon
+them before the curtain for what paragraph-makers call an
+ovation. Lord Russell has published the despatch in which he
+demolished the barley-sugar edifice raised by Mr. Seward. The tone of
+the reply is, of course, perfectly courteous; but the arguments are
+mercilessly hard. The garbled quotations by Mr. Seward from Emmerich
+Vattel, the Neufchatel authority on International Law and the Nature
+of Love are restored to the context and to significance; and Lord
+Russell reasserts the rule that civilians do not by their presence in
+a neutral vessel alter its neutrality, be they who they may, nor do
+they expose themselves to capture. To the curious observation of
+Mr. Seward that if it had been for the interest of his country to
+detain the captives they would have been detained the Earl simply
+replies such an idea is indefensible, and that England would not have
+permitted such a course. The honour and the justice of this nation
+being now vindicated, we presume the matter may drop, unless
+Mr. Seward has leisure to compile another miscellaneous column of
+fragmentary law. This, however, the clever American lawyer may not
+have inclination to do, inasmuch as the sudden and important rupture
+in Mr. Lincoln's Cabinet may give its remaining members enough of real
+business to attend to. Mr. Cameron, the War Secretary, whose views on
+the subject of slavery are more in accordance with those of England
+than of the North, has been suddenly dismissed by the President, and
+his place supplied by Mr. Stanton who holds by the Domestic
+Institution. The measure has excited a great sensation among the
+powerful Abolitionist,<pb n="109"></pb> party, and an attempt is being
+made to alter public opinion as
 to the character of the act by blackening the reputation of
 Mr.Cameron-a course not new in America, but as to the justice of which
 there is at present no evidence before an English journalist. The war
@@ -3190,7 +3185,7 @@ inflicted a severe blow upon the Federals in an action near Port
 Royal, and that the details have been suppressed; but the statement
 rests only upon the authority of private letters. Congress, it is more
 pleasant to write, has assented to a grant for the purpose of sending
-,American contributions to our International Exhibition, andwas "not
+American contributions to our International Exhibition, and was "not
 much moved" by a furious anathema pronounced against us by a gentleman
 appropriately named Lovejoy, who declared that he hated England, and
 would swear all his little Lovejoys to a similar feeling. Evidently
