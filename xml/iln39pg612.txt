@@ -113,7 +113,7 @@ VOLUME 39
 <p>THE REPORT OF THE SECRETARY OF WAR.</p>
 
 <p>Secretary Cameron presents the following statement of the entire strength of the Federal Army, both volunteers and regulars:</p>
-<table rows="16" cols="8">
+<table rows="18" cols="8">
      <row role="label">
          <cell>States.</cell>
          <cell>3 mos.</cell>
@@ -196,229 +196,323 @@ VOLUME 39
          <cell></cell> <cell></cell> <cell></cell> <cell></cell> <cell>77,875</cell> <cell>640,637</cell> <cell>718,512</cell>
 	    </row>
 	  </table>
-
-V0LONTWEHS. Yo,.rsracr,q. -- ---
-
- gTArcc. 3 ass. ike War. Aggregate. STATU. 5 ,sos. I ho war. Aggregate.
-
-California., - 4,608 4,604 New York 10,158 100,200 lio,:iss Connecticut 2,236 12,400 14,636 Ohio  10,236 81,202 91,441
-
-Delaware .. 775 2,000 2,775 Penneyl- 19,199 91,760 113,939
-
-Jumbo .. 4941 00,000 84,041 vanin
-
-Indiana  4,686 57,332 62,018 Rhode 1,285 6,898 7,183
-
-Iowa  968 30,800 20,768 Island 
-
-Icentuch'y 19,000 15,000 Vermont  780 8,000 8,780
-
-Maine  768 14,220 15,007 Virginia  779 12,000 12,770
-
-Maryland 7,000 7,000 Wisconsin 7111 14,154 14,915
-
-Msrsacbu- ,, i6anuae ., - 5,000 9,000
-
-sette .. 5 ' - " ' Colorado 1,000 1,000
-
-,Michigan  783 28,510 29,131 Nebraska 2,500 2,500 Minnesota - 4,160 4,1130 Nevada 7,000 1,000 Missouri . 9,356 '22,130 31,496 New Mexico - 1,000 1,000
-
-Ha ips are
-
-New 779 9,600 10,170 Columbia District of 2,823 1,000 3,823 Ncw,Jearey 3,068 9,742 12,4t0 Total • - -
-
-77,075 610,657  718,512
-
-The several arms of the service are estimated asfoiowe :
-
-Arms of the Service. Velestoere. Itea'silari. Ageregate. Infantry .. ., .. 557,208 11,175 568,183
-
-Cavalry  .. .. 54,614 4,714 59,398 Artillery  .. .. 20,380 4,308 24,608
-
-Itliles and Sharpshooters., .. 8,290 - 8,391
-
-)tmtgintors  .. .. - 107 107 040,637 :20,134 660,971
-
-The nppropriatioius for the service of the next fiscal year are corn. ptited for a lorce of 500,000 men. He says he 1190 0 surplus of cavalry, and will reduce that expensive arm of the set-vice. Although Congress only aultl,orisod a levy of 500,000, the Secretary could have raised 1, IJOO,llOO of men as easily as not. The rapidity with which the Army, which in April amounted to 10,000 regulars, developed into a force of 6.10,000 surpasses anything of the sort exhibited by France when her destinies were in the hands of Napoleon. No has no doubt that, in case of emergency, time United States could send into time field a force of 3,000,000 of aimed men. "The effort to restore the Union" is termed "the most gigantic endeavour in the history of civil war." The ehtck of Bull Run gave no discouragement, and merely postponed the campaign for a few months. The possession of Western Virginia, and the occupation of hatteras and Jienufort have, moreover, a'meatiy redterned "Our transient reverses." Mr. Cameron alludes t9 tile urgent need which the army had of a supply of improved lire. arms. The resources of the United States' armoury at iipringhield bsing quite inadequate to the occasion, contracts were made with private establishments, end a special agent was sent to Europe to purchase 2,000,000 dola. worth. Time Government ought to have in store never less than a million of muskets, and a comresionding proportion of arms toO cquipmeule for cavalry and artillery. On the subject of the coast defences he sas
-
-It is of grest impertanre that Immediate attention should be given to the condition of our fortifications open the seaboard and the lakes, and upon our capered frontiers. TLey ahould at once be plttced in perfect condition for sue
-
-
-cessful defence. Aggressions are seldom made upon a nation ever ready t
-
-defend its honour and to repel insults; and we should show to the son I that, while engaged in quelling disturbances at home, we are able to Protect oarelves sgainat attacks from abroad.
-
-He recommends that the accommodations at the celebrated Military Academy at West Point, which now contains only 102 cadets, be enlarged so as to allow of the education of 500 trained officers. He suggests that the distinction between regulars and volunteers should be abolished, He admits that recruiting for the regular army has been a failure, He demands that another line of railroad be constructed from Baltimore to Washington, as absolutely necessary for the supply of the troops in the event of the Potomac being closed by ice or a blockade. The paragraphs favourable to the arming of the slaves are printed in some of the New York journals, although they were stricken out by Mr. Lincoln himself, after Mr. Cameron had refused to expunge them with his own hand.
-
- DEPORT OF THE SECRETARY 08' THE NAVY.
-
-Secretary Welles reports that the navy was called upon to blockade a coast line of nearly 3000 miles to 1eep the navigation of the Potomac open, to organise combined military and naval expeditions against points of the Southern coast, and to pursue the privateers. When the vessels now building and purchased of every class are armed equipped, and ready for service the condition of the navy will be as follows:
-
-OLD NAVY.
-
-Number of vrio. Onus. Tang.
-
-6 Hips-of-line .. .. .. 504 ., )e,094 7 Frigates .. .. .. 8.70 ,. 72,104
-
-17 Hoops .. .. .. .. .. .. 842 .. 16,071
-
-2 Brigs  .. .. .. .. .. 12 .. 5315
-
-3 Storeshlps .. .. .. .. .. 7 .. 343
-
-o Receiving-ships, &c. .. 106 .. 6,3-is
-
-O Screw-frigates  .. ,. 222 .. 21,160
-
-0 First-class screw-sleeps 109 .. 11,950
-
-4 First-class side-wheel steam-sloops 4(1 .. 8,054 8 Second-class screw-sleeps 43 ,. 7,593
-
-S Third-class screw-sloops  28 .. 2,403
-
-4 Third-class side-wheel steamers  .. .. B .. 1,808
-
-2 Steam-leathers  .. .. - ,. 4 .. 39')
-
-70 , 1,783 105,271 FUROITASED VBSSEL.q. Number of vemdg. Gun. Tens.
-
-30 Side-wheel steamers .. .. .. .. 166 .. 26,080 43 Screw-steamers ., .. .. .. 170 .. 30,403
-
-13 Ships  .. .. .. .. .. 32 .. 3,998
-
-'2-i Schooners .. ... .. .. .. 49 ,. 5,324
-
-18 Barks  .. .. .. .. .. 78 .. 8,132 2 Brigs  .. .. .. .. .. 4 .. 460
-
-176 518 71,291
-
-VESSELS *ORSTRUOI'ED.
-
-Number of Vonule. Gunk Ton
-
-1-I Screw-ntoopa .. .. .. .. .. 98 .. 16,787 23 (inn-boats .. .. .. .. .. 92 .. 11,661
-
-12 Side-wheel steamers .. .. .. .. 48 .. 8,100 3 Iron-clad steamers .. .. .. .. 18 .. 4,600 62 25(1 41,418
-
-Making a total of 26-i vessels, 2557 guns, and 218,016 tons. The aggregate
-
-number of seamen in the service on thu -5th of March last was 7600. Tho number is now not less than 22,000.
-
-Since the institution of the blockade 153 vessels, sailing under variou3
-
-flags, have been captured.
-
-The naval estimates for the fiscal year ending June 30, 1862, would amount to 50,250,000 dollars. - For the year ending June 30, 1863, they would be 44,625,000 dols.
-
-TIlE FOSTMASTEIt-GENERAL'S REPORT.
-
-Mr. lllair announces that he has accepted the offer made in 1837 by
-
-Great Britain for a reduction of the international rate between the two countries on letters from is. to Gd., which, however, has not yet gone into operation, as it awaits the response of the British office. The excess of expenditure over receipts in 1861 was 5,391,000 dols.; the estimated deficiency in 1862 is 3,145,000 dole.
-
-The Postmaster-General defends his conduct in excluding "peaceparty" journals from the mails. He finds his views supported by the authority of the late Chief Justice Story, whose opinion. he quotes.
-
-Mr. Thitriow Weed, who is at present in this country, con
-
-tradicts the statement thatfleneral Scott has returned to America in obedience,
-
-to en urgent request from his Government. Mr. Weed states that the veteran
-
-General lies gone back to Washington solely from a desire to be "at hi posI.'
-
-at a time of threatened danger.
+<p>The several arms of the service are estimated as follows:-</p>
+
+<table rows="6" cols="4">
+   <row role="label">
+      <cell> Arms of the Service.</cell>
+      <cell> Volunteers</cell>
+      <cell> Regulars</cell>
+      <cell> Aggregate</cell>
+	  </row>
+   <row>
+      <cell role="label"> Infantry</cell>
+      <cell>557,208</cell> <cell> 11,175</cell> <cell> 568,383</cell>
+	  </row>
+   <row>
+      <cell role="label"> Calvary</cell>
+      <cell> 54,654</cell> <cell> 4,744</cell> <cell> 59,398</cell>
+	  </row>
+   <row>
+      <cell role="label"> Artillery</cell>
+      <cell> 20,380</cell> <cell> 4,308</cell> <cell> 8,395</cell>
+	  </row>
+   <row>
+      <cell role="label"> Rifles and Sharpshooters</cell>
+      <cell> 8,395</cell> <cell> -</cell> <cell> 8,395</cell>
+	  </row>
+   <row>
+      <cell role="label"> Engineers</cell>
+      <cell> -</cell> <cell> 107</cell> <cell> 107</cell>
+	  </row>
+   <row>
+      <cell role="label"></cell>
+      <cell> </cell> <cell> 640,637</cell> <cell> 20,334</cell> <cell> 660,971</cell>
+	  </row>
+	</table>
+
+<p>The appropriations for the service of the next fiscal year are computed for a force of 500,000 men. He says he has a surplus of cavalry, and will reduce that expensive arm of the service. Although Congress only authorised a levy of 500,000, the Secretary could have raised 1,0OO,0OO of men as easily as not. The rapidity with which the Army, which in April amounted to 16,000 regulars, developed into a force of 640,000 surpasses anything of the sort exhibited by France when her destinies were in the hands of Napoleon. He has no doubt that, in case of emergency, the United States could send into the field a force of 3,000,000 of armed men. "The effort to restore the Union" is termed "the most gigantic endeavour in the history of civil war." The check of Bull Run gave no discouragement, and merely postponed the campaign for a few months. The possession of Western Virginia, and the occupation of Hatteras and Beaufort have, moreover, already redeemed "our transient reverses." Mr. Cameron alludes to the urgent need which the army had of a supply of improved firearms. The resources of the United States' armoury at Springfield being quite inadequate to the occasion, contracts were made with private establishments, and a special agent was sent to Europe to purchase 2,000,000 dols. worth. The Government ought to have in store never less than a million of muskets, and a corresponding proportion of arms and equipments for cavalry and artillery. On the subject of the coast defences he says:-</p>
+
+<p>It is of grest importance that immediate attention should be given to the condition of our fortifications upon the seaboard and the lakes, and upon our exposed frontiers. They should at once be placed in perfect condition for successful defence. Aggressions are seldom made upon a nation ever ready to defend its honour and to repel insults; and we should show to the world that, while engaged in quelling disturbances at home, we are able to protect ourselves againat attacks from abroad.</p>
+
+<p>He recommends that the accommodations at the celebrated Military Academy at West Point, which now contains only 192 cadets, be enlarged so as to allow of the education of 500 trained officers. He suggests that the distinction between regulars and volunteers should be abolished. He admits that recruiting for the regular army has been a failure. He demands that another line of railroad be constructed from Baltimore to Washington, as absolutely necessary for the supply of the troops in the event of the Potomac being closed by ice or a blockade. The paragraphs favourable to the arming of the slaves are printed in some of the New York journals, although they were stricken out by Mr. Lincoln himself, after Mr. Cameron had refused to expunge them with his own hand.</p>
+
+<p rend="center">REPORT OF THE SECRETARY OF THE NAVY.</p>
+
+<p>Secretary Welles reports that the navy was called upon to blockade a coast line of nearly 3000 miles to keep the navigation of the Potomac open, to organise combined military and naval expeditions against points of the Southern coast, and to pursue the privateers. When the vessels now building and purchased of every class are armed, equipped, and ready for service the condition of the navy will be as follows:-
+
+<p rend="center">OLD NAVY.</p>
+
+<table rows="16" cols="3">
+   <row role="label">
+      <cell> Number of Vessels.</cell>
+      <cell> Guns.</cell>
+      <cell> Tons.</cell>
+	  </row>
+   <row> 
+      <cell role="label"> 6 Ships-of-line</cell>
+      <cell> 504</cell> <cell> 16,094</cell>
+	  </row>
+   <row>
+      <cell role="label"> 7 Frigates</cell>
+      <cell> 350</cell> <cell> 12,104</cell>
+	  </row>
+   <row>
+      <cell role="label"> 17 Sloops</cell>
+      <cell> 342</cell> <cell> 16,031</cell>
+	  </row>
+   <row>
+      <cell role="label"> 2 Brigs</cell>
+      <cell> 12</cell> <cell> 530</cell>
+	  </row>
+   <row>
+      <cell role="label"> 3 Storeships</cell>
+      <cell> 7</cell> <cell> 343</cell>
+	  </row>
+   <row>
+      <cell role="label"> 6 Receiving Ships, &c.</cell>
+      <cell> 106</cell> <cell> 6,342</cell>
+	  </row>
+   <row>
+      <cell role="label"> 6 Screw-Frigates</cell>
+      <cell> 222</cell> <cell> 21,460</cell>
+	  </row>
+   <row>
+      <cell role="label"> 6 First-class screw-sloops</cell>
+      <cell> 109</cell> <cell> 11,950</cell>
+	  </row>
+   <row>
+      <cell role="label"> 4 First-class side-wheel steam-sloops</cell>
+      <cell> 46</cell> <cell> 8,003</cell>
+	  </row>
+   <row>
+      <cell role="label"> 8 Second-class screw-sloops</cell>
+      <cell> 45</cell> <cell> 7,593</cell>
+	  </row>
+   <row>
+      <cell role="label"> 5 Third-class screw-sloops</cell>
+      <cell> 28</cell> <cell> 2,405</cell>
+	  </row>
+   <row>
+      <cell role="label"> 4 Third-class side-wheel steamers</cell>
+      <cell> 8</cell> <cell> 1,808</cell>
+	  </row>
+   <row>
+      <cell role="label"> 2 Steam-tenders</cell>
+      <cell> 4</cell> <cell> 599</cell>
+	  </row>
+   <row>
+      <cell role="label"> --</cell>
+      <cell> --</cell> <cell> --</cell>
+	  </row>
+   <row>
+      <cell role="label"> 76</cell>
+      <cell> 1,783</cell> <cell>105,271</cell>
+	  </row>
+	</table>
+
+<p rend="center"> PURCHASED VESSELS</p>
+
+<table rows="9" cols="3">
+   <row role="label">
+      <cell> Number of Vessels</cell>
+      <cell> Guns.</cell>
+      <cell> Tons.</cell>
+	  </row>
+   <row>
+      <cell role="label"> 36 Side-wheel steamers</cell>
+      <cell> 166</cell> <cell> 26,680</cell>
+	  </row>
+   <row>
+      <cell role="label"> 43 Screw-steamers</cell>
+      <cell> 175</cell> <cell> 30,403</cell>
+	  </row>
+   <row>
+      <cell role="label"> 13 Ships</cell>
+      <cell> 52</cell> <cell> 9,998</cell>
+	  </row>
+   <row>
+      <cell role="label"> 24 Schooners</cell>
+      <cell> 49</cell> <cell> 5,324</cell>
+	  </row>
+   <row>
+      <cell role="label"> 18 Barks</cell>
+      <cell> 78</cell> <cell> 8,432</cell>
+	  </row>
+   <row>
+      <cell role="label"> 2 Brigs</cell>
+      <cell> 4</cell> <cell> 480</cell>
+	  </row>
+   <row>
+      <cell role="label"> --</cell>
+      <cell> --</cell> <cell> --</cell>
+	  </row>
+   <row>
+      <cell role="label"> 136</cell>
+      <cell> 518</cell> <cell> 71,291</cell>
+	  </row>
+	</table>
+
+<p rend="center"> VESSELS CONSTRUCTED</p>
+
+<table row="7" cols="3">
+   <row role="label">
+      <cell> Number of Vessels.</cell>
+      <cell> Guns.</cell>
+      <cell> Tons.</cell>
+	  </row>
+    <row>
+      <cell role="label"> 14 screw-sloops</cell>
+      <cell> 98</cell> <cell> 16,787</cell>
+	  </row>
+    <row>
+      <cell role="label"> 23 Gun-boats</cell>
+      <cell> 63</cell> <cell> 11,661</cell>
+	  </row>
+    <row>
+      <cell role="labels"> 12 Side-wheel steamers</cell>
+      <cell> 48</cell> <cell> 8,400</cell>
+	  </row>
+    <row>
+      <cell role="label"> 3 Iron-clad steamers</cell>
+      <cell> 18</cell> <cell> 4,600</cell>
+	  </row>
+    <row>
+      <cell role="label"> --</cell>
+      <cell> --</cell> <cell> --</cell>
+	  </row>
+    <row>
+      <cell role="label"> 52</cell>
+      <cell> 256</cell> <cell> 41,448</cell>
+	  </row>
+	</table>
+
+<p>Making a total of 264 vessels, 2557 guns, and 218,016 tons. The aggregate number of seamen in the service on the 4th of March last was 7600. The number is now not less than 22,000.</p>
+
+<p>Since the institution of the blockade 153 vessels, sailing under various flags, have been captured.</p>
+
+<p>The naval estimates for the fiscal year ending June 30, 1862, would amount to 50,250,000 dollars. For the year ending June 30, 1863, they would be 44,625,000 dols.</p>
+
+<p rend="center">THE POSTMASTER-GENERAL'S REPORT.</p>
+
+<p>Mr. Blair announces that he has accepted the offer made in 1857 by Great Britain for a reduction of the international rate between the two countries on letters from 1s. to 6d., which, however, has not yet gone into operation, as it awaits the response of the British office. The excess of expenditure over receipts in 1861 was 5,391,000 dols.; the estimated deficiency in 1862 is 3,145,000 dols.</p>
+
+<p>The Postmaster-General defends his conduct in excluding "peaceparty" journals from the mails. He finds his views supported by the authority of the late Chief Justice Story, whose opinion he quotes.</p>
+
+<p>Mr. Thurlow Weed, who is at present in this country, contradicts the statement that General Scott has returned to America in obedience to an urgent request from his Government. Mr. Weed states that the veteran General has gone back to Washington solely from a desire to be "at his post." at a time of "threatened danger."</p>
+      </div2>
 
 {VOL. 39 ISSUE 1122 12-21-1861 PG. 620}
 
-LONDON, SATURDAY, DECEMBER 21, i861.
+<div2>
+<head> LONDON, SATURDAY, DECEMBER 21,1861</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1122</biblScope> 
+           <biblScope type="pages">p. 620</biblScope> 
+           <date value="1861-12-21">December 21, 1861</date>
+	</bibl>
+  
+<p rend="center"> <hi rend="italic">LONDON, SATURDAY, DECEMBER</hi> 21, 1861.</p>
 
-LAST week it seemed difficult to obtain attention for any subject save that of the American crisis. "Who can tell what a day may bring forth 7" To-day, in the presence of the heavy affliction with which it has pleased the Almighty and Inscrutable to visit our beloved Sovereign and the nation, even the solemn situation in which we have been placed by the piratical act of.; the Americans is momentarily disregarded while we seek to realise the sudden sorrow. But the record of the week must be duly completed.
+<p>L<hi rend="smallcaps">AST</hi> week it seemed difficult to obtain attention for any subject save that of the American crisis. "Who can tell what a day may bring forth?" To-day, in the presence of the heavy affliction with which it has pleased the Almighty and Inscrutable to visit our beloved Sovereign and the nation, even the solemn situation in which we have been placed by the piratical act of the Americans is momentarily disregarded while we seek to realise the sudden sorrow. But the record of the week must be duly completed.</p>
 
-President Lincoln's Message, as a composition, is conceived in the same low moral tone and executed with the same maladroitnees which have characterised the preceding Slate Papers of his Government. But such considerations are of small importance compared with the indications of policy afforded by the document. There is no mention of the Trent outrage. From this cirdumstal4cc, and from a meaningless declaration that the president does not desire hostilities with England, some sanguine writers have hastened to assume that the act of Captain \\rjlkg will be disavowed, and the Southern Commissioners handed over to us. It is urged that Mr. Lincoln did not deem the act of the American Captain as worthy of notice in the Message, or that it is one upon which England has but to express her feeling to obtain immediate atonement. And this view is supported by reference to the fact that an actual wrong to British subjects is mentioned, and Congress is recommended to make compensation. We should be too happy to believe that so wise a course was that designed for adoption by the American Goveinment, but we are afraid to resign ourselves to so agreeable a hope. It contradicts the general expression of that part of the American public which makes itself heard, and which exercises a fatal control over the so-called government of the American press (with one or two honourable exceptions), and of the American Secretary of State. The House of Representatives has deliberately offered a vote of thanks to the pirate Wilka and though it is technically true that this is not precisely the same thing as a vote of our House of Commons, it is equally true, and more to the purpose, that the House o Representatives expresses the sentiments of those who, to the disgrace of the higher classes in the States, are permitted to engross political power. In the face of all these demonstrations, to say nothing of an official utterance by the head of the Federal Navy, we dare scarcely believe that the despatch of Earl Russell will receive the only answer which we can accept. Still we have only to wait and hear.. Our next Impression will, in all probability, contain the expected intelligence. The news regarding the struggle between the North and South merely states that General M'Clellan has not moved, "nor will he move until he is certain to win "-a somewhat indefinite date. We learn with something akin to disgust that the barbarous reprisal system is likely to come into effect, that prisoners are being cruelly treated, and may be actually executed in cold blood-facts which reduce a war to an abominable brigandage. The North, in its excess of zeal for civilisation, is also elaborately destroying harbours in the South, thus by savage acts giving the lie to the profession of belief that the territory to which the harbours belong will ever again be a portion of the Federal dominions.
+<p>President Lincoln's Message, as a composition, is conceived in the same low moral tone and executed with the same maladroitness which have characterised the preceding State Papers of his Government. But such considerations are of small importance compared with the indications of policy afforded by the document. There is no mention of the Trent outrage. From this circumstance, and from a meaningless declaration that the president does not desire hostilities with England, some sanguine writers have hastened to assume that the act of Captain Wilks will be disavowed, and the Southern Commissioners handed over to us. It is urged that Mr. Lincoln did not deem the act of the American Captain as worthy of notice in the Message, or that it is one upon which England has but to express her feeling to obtain immediate atonement. And this view is supported by reference to the fact that an actual wrong to British subjects is mentioned, and Congress is recommended to make compensation. We should be too happy to believe that so wise a course was that designed for adoption by the American Government, but we are afraid to resign ourselves to so agreeable a hope. It contradicts the general expression of that part of the American public which makes itself heard, and which exercises a fatal control over the so-called government of the American press (with one or two honourable exceptions), and of the American Secretary of State. The House of Representatives has deliberately offered a vote of thanks to the pirate Wilks; and though it is technically true that this is not precisely the same thing as a vote of our House of Commons, it is equally true, and more to the purpose, that the House of Representatives expresses the sentiments of those who, to the disgrace of the higher classes in the States, are permitted to engross political power. In the face of all these demonstrations, to say nothing of an official utterance by the head of the Federal Navy, we dare scarcely believe that the despatch of Earl Russell will receive the only answer which we can accept. Still we have only to wait and hear. Our next Impression will, in all probability, contain the expected intelligence. The news regarding the struggle between the North and South merely states that General M'Clellan has not moved, "nor will he move until he is certain to win "-a somewhat indefinite date. We learn with something akin to disgust that the barbarous reprisal system is likely to come into effect, that prisoners are being cruelly treated, and may be actually executed in cold blood-facts which reduce a war to an abominable brigandage. The North, in its excess of zeal for civilisation, is also elaborately destroying harbours in the South, thus by savage acts giving the lie to the profession of belief that the territory to which the harbours belong will ever again be a portion of the Federal dominions.</p>
+	</div2>
 
 
 {VOL. 39 ISSUE 1122 12-21-1861 PG. 620}
-NAVAL AND MILITARY INTELLIGENCE
 
-The Times Malta correspondent, writing on the 10th of Ddecember says:- "Oidcrs have been receive jilth as aiUaa,ssssiA4e. lsips,o war to, LbraLiar, for the p9rpoc. it
+<div2>
+<head> NAVAL AND MILITARY INTELLIGENCE.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1122</biblScope> 
+           <biblScope type="pages">p. 620</biblScope> 
+           <date value="1861-12-21">December 21, 1861</date>
+	</bibl>
 
-- iS
-
-- çp,yt\VarSyitlt he North AincrlcA,
-
-jdgOer ~~nd the Queen 8 ant
-
-, ';~' the 4 Irive already
-
-left; a&l,iwo other liners, the AgamennOfl, SI, and the James Watt, .91, ata4 another gun-boat, the Foxhound. 4, wIll leave for the same dti.mUoa vs soon as they are reedy for tea, probably about Saturday ,,ext. The oloap Firebrand. 6, which arrived here on the 81! iron, Gibraltar, wai ordore,l Imok again i,n'nediately, end left on the Oils. Two frigates, the Arnpl.ion. .96. from Meosiivx, and the Licoy. II, fresn Cortss, have bun likewise ordered off by telegraph toe the Straits. It is reported that the naval force now  'nat4lng there a curia
-
-l,aste will be still (infliCt au6tuCntc'd some of the hit; from tIn gie,l, c -
+<p>The <hi rend="italics">Times'</hi> Malta correspondent, writing on the 10th of December says:- "Orders have been received to dispatch, as specifically as possible, all the disposable ships of war to Gibralter, for the purpose, it is rumoured, of having the ready, in case of war with the Nrth American States, to send off into American waters. Two line-of-battle ships, the Algiers, 89, and the Queen, 80, and a gun-boat, the Alacrity, 4, have already left; and two other liners, the Agamemnon, 91, and the James Watt, 91, and another gun-boat, the Foxhound, 4, will leave for the same destination as soon as they are ready for sea, probably about Saturday next. The sloop Firebrand, 6, which arrived here on the 8th from Gibraltar, was ordered back again immediately, and left on the 9th. Two frigates, the Amphion, 36, from Messina, and the Liffey, 51, from Corfu, have been likewise ordered off by telegraph for the Straits. It is reported that the naval force now assembling there in such haste will be still further augmented by some of the ships from the coast of Syria.</p>
+	</div2>
 
 {VOL. 39 ISSUE 1122 12-21-1861 PG. 650-651}
-
-ILLUSTRATION OF THE WAR IN AMERICA. 
-SKIRMISH IN VIRGINIA. 
-ALTHOUGH there had been no engagement of note between the rival forces on the banks of the Potomac at the time of the latest despatches leaving America, yet attacks end counterattacks on a small scale be
-tween detached bodice were continually occurring. The accompanying Illustration, from a Sketch by our Special Artist in the Federal camp, shows a skirmish which took place a short time ago near Fall
-
-'s Church,
-
-Virginia, between a body of the 14th New York (Brookl'n) Regiment and a troop of Confederate cavalry. The 14th were surprised while out foraging, and, after a smart skirmish, both parties separated, the Con. federates, who lost three men, carrying off with them thirty-six prisoners and six waggons. The remainder of the 14th fell back on their supports with their wounded, leaving some dead on the ground.
-
-
-{VOL. 39 ISSUE 1124 12-28-1861 PG. 656}
-
-THE BOUNDARY BETWEEN THE UNITED
-
-STATES AND CANADA.
-
-Oua 1ilutration represents a portion of the boundary line where it crosses the Grand Trunk Railway or rather that brsnh of it which connects the Atlantic port of Portland, in the State of Maine, with the line between Montreal and Quebec. The boundary line is straight at this point, but afterwards becomes exceeding crooked, following the courses of strcamlet and a portion of the River St. John. Where tha line passes through the wildertiesses the trees have been cut down so as to leave an open avenue-stone posts being setup at intervals. A short distance north, on the Canadian side of this lire, are situated good towns arid villages, being theeastern townships of Canada. iletwecathein and the United States there exists no physical barrier: we may, therefore, assume that in the event of war it is upon this portion of tha
-
-colony that the fir--t blow will fall.
+<div2>
+<head> ILLUSTRATION OF THE WAR IN AMERICA.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1122</biblScope> 
+           <biblScope type="pages">p. 650-651</biblScope> 
+           <date value="1861-12-21">December 21, 1861</date>
+	</bibl>
+ 
+<p rend="center">SKIRMISH IN VIRGINIA. </p>
+<p>A<hi rend="smallcaps">LTHOUGH</hi> there had been no engagement of note between the rival forces on the banks of the Potomac at the time of the latest despatches leaving America, yet attacks and counter-attacks on a small scale be<pb n="650">
+tween detached bodies were continually occurring. The accompanying Illustration, from a Sketch by our Special Artist in the Federal camp, shows a skirmish which took place a short time ago near Fall's Church, Virginia, between a body of the 14th New York (Brooklyn) Regiment and a troop of Confederate cavalry. The 14th were surprised while out foraging, and, after a smart skirmish, both parties separated, the Confederates, who lost three men, carrying off with them thirty-six prisoners and six waggons. The remainder of the 14th fell back on their supports with their wounded, leaving some dead on the ground.</p>
+	</div2>
 
 
 {VOL. 39 ISSUE 1124 12-28-1861 PG. 656}
 
-THE CIVIL WAR IN AMERICA
+<div2>
+<head> THE BOUNDARY BETWEEN THE UNITED</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1124</biblScope> 
+           <biblScope type="pages">p. 656</biblScope> 
+           <date value="1861-12-28">December 28, 1861</date>
+	</bibl>
 
-BY the arrival of the City of Baltimore as-c have telegrams from l'4'w York to th evening of the 13th inst. Congress has not done anything of importance except to pass a rr'o1utio in favour of the adoption of measures for an exchange of pt iecneia. The President has rot iteii for the prcemmt to furnilh that body with the correspondence betwcn the Federal Government and foreign Powers relative to the European intervention in Mexico.
+<p rend="center">STATES AND CANADA.</p>
 
-MR. SEWARD'S DIPLOMACY.
+<p>O<hi rend="smallcaps">UR</hi> Illustration represents a portion of the boundary line where it crosses the Grand Trunk Railway or rather that branch of it which connects the Atlantic port of Portland, in the State of Maine, with the line between Montreal and Quebec. The boundary line is straight at this point, but afterwards becomes exceeding crooked, following the courses of streamlets and a portion of the River St. John. Where the line passes through the wildernesses the trees have been cut down so as to leave an open avenue-stone posts being set up at intervals. A short distance north, on the Canadian side of this line, are situated good towns and villages, being the eastern townships of Canada. Between them and the United States there exists no physical barrier: we may, therefore, assume that in the event of war it is upon this portion of the
+colony that the first blow will fall.</p>
+	</div2>
 
-A mass of correspondence between Mr. S uward and the American Ministers in Europe has been presented to Congress. The matters
 
-treated of relate to the concession of belligerent rights to the Confede-rate States, at whuch Mr. Seward is highly offended, atid to the adhesion of the United States to the Declaration of the Cutigress of Paris relative to maritime rights, an adhesion which Great Britain and France would only, receive without prejudice to the rights of the seceded States, and Which was therefore withdrawn by file United Statc. Time dispatch of reinforcements to Canada was also complained of, but justified on tile ground of the distrust of the United States' Government entertained by that of Great Britain and of the vague menaces uttered by Br. Seward.
+{VOL. 39 ISSUE 1124 12-28-1861 PG. 656}
 
- THE REPORT OF THE SECMETAUY 01' THE TIIEASL'RY.
+<div2>
+<head> THE CIVIL WAR IN AMERICA</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1124</biblScope> 
+           <biblScope type="pages">p. 656</biblScope> 
+           <date value="1861-12-28">December 28, 1861</date>
+	</bibl>
 
-Mr. Chase in July estimated the expenditure of the current decal year (July 1, 1861, to June 30, 1862) at 315,520,000 dollars; but, in consequence of the increased number of men levied for the army, his amended estimate is raised to 532,520,000 dollars. Of this aggregate he has already raised by loans the stun of 1117,213,001) dollars. The which ho had estimated would produce 80,000,000 dollars, had, partly owing to Congress refusing to pass measures he had recommended, and partly owing to the depression of trade, so fallen ott that he only expected to receive 54,500,000 dollars from it. For the purpose of tilling up the deficit, the Secretary recommends the confiscation of the property of rebels, whether found in the loyal or disloyal States, but his main reliance is on loans and taxation, lie recommends that the duty on brown sugar should be increased to 2 cents per pound, on clayed sugar 3 cents, on green tea to 20 cents, and on coffee to 5 cents, lie further recommends that the dirrt tax be increased, so as to produce 20,000,000 dollars from the loyal States alone, and not only their proportion of the same, on the fiction that all the States were loyal. He has a plan of excise and stamp taxes, lie proposes duties on stills and ditihled. liquors, on tobacco, bank-notes, on carriages, legacies, cvi tenecs of debt, and instruments for the convoyamice or property and other like subjects, such as will produce 20,000,000 fog. Inure. From the 3 per cent income tax lie hopes to procure ten millions more. The whole direct and indirect tnxes will thug produce V0,000,000 dolt. This sum is small compared with the aggregate property and annual earnings of the people.
+<p>B<hi rend="smallcaps">Y</hi> the arrival of the City of Baltimore we have telegrams from New York to the evening of the 13th inst. Congress has not done anything of importance except to pass a resolution in favour of the adoption of measures for an exchange of prisoners. The President has refused for the present to furnish that body with the correspondence between the Federal Government and foreign Powers relative to the European intervention in Mexico.</p>
 
- The teecretary's great resource lies iii supplanting the banks. Tbir circulation in the loyal States and Western Virginia amounts to a',34 130,000,000 ibIs. Ho arguc.s that this currency is a loan from the people to the balks, casting the latter nothing but the c tiseqe of P°se amid medcinption and the iitieveat on the specie kept in hand. Thcs advantages ought to be transferred from the stockholders of the banks to the national Government. He claims to find authority in the United States' Constitution for this measure, under time powers to reguiste commerce and the value of coin. his rielliorl of issue is to hand this national citrrcncy to the banks, who shall secure their redemption by itledge of United States' stocks and an utfiCitlate provision of specie. 'lIne people will thus have it uniform currency and the Government enjoy the advantages of a loan without interest. The competition of local basIc-notes is to h annihilated by a spccial tax, lie estimates the specie now in the United States at 275,000,1)00 dots. Existing Acts of Congress cnah,lc the Secretary to raise 73,000,00(1 do],. more
+<p rend="center">MR. SEWARD'S DIPLOMACY.</p>
 
-ta
+<p>A mass of correspondence between Mr. Seward and the American Ministers in Europe has been presented to Congress. The matters treated of relate to the concession of belligerent rights to the Confederate States, at which Mr. Seward is highly offended, and to the adhesion of the United States to the Declaration of the Congress of Paris relative to maritime rights, an adhesion which Great Britain and France would only receive without prejudice to the rights of the seceded States, and which was therefore withdrawn by the United States. The dispatch of reinforcements to Canada was also complained of, but justified on the ground of the distrust of the United States' Government entertained by that of Great Britain and of the vague menaces uttered by Mr. Seward.</p>
 
-h n ho lia yet raised on bonds and Treasury notes payable on demand, and 50,000,0011 dols. more must be raised by another loan.
+<p rend="center">THE REPORT OF THE SECRETARY 0F THE TREASURY.</p>
 
-For the fiscal year 1863 no reliable estimates cars be mad. Tue Secretary hopes that time present war will be over before midsummer; but in order to he prepared for all eventualities he sub-nits estimates based on the hypothesis that the war will continue. These estimates (including 43,000,000 dols, its interest on debt) amount to 175,331,001) dols., of which P3,500.IlOO may bc raised by revenue, leae:ng a balance to be provided for of 3711.531,000dsmhs. On July 1, 18621 bo Public Debt will be 517,37:1,00 dolt., and on time above hypothesis 807,37:1,000 dols, on July 1, lSid. lie thinks this loyal States alone could pity elf this latter suimi iii thirty years. Of the 72,000,01)0 dols. worth of hellion deposited in tine United States' ,'ltimmt in 1861, :J7,Od0,000 dollars came from Europe. The Secretary elect his report by recommending time adoption of an international decimal system of weights, measures, and coins.
+<p>Mr. Chase in July estimated the expenditure of the current fiscal year (July 1, 1861, to June 30, 1862) at 318,520,000 dollars; but, in consequence of the increased number of men levied for the army, his amended estimate is raised to 532,520,000 dollars. Of this aggregate he has already raised by loans the sum of 197,243,000 dollars. The revenue, which he had estimated would produce 80,000,000 dollars, had, partly owing to Congress refusing to pass measures he had recommended, and partly owing to the depression of trade, so fallen off that he only expected to receive 54,500,000 dollars from it. For the purpose of filling up the deficit, the Secretary recommends the confiscation of the property of rebels, whether found in the loyal or disloyal States, but his main reliance is on loans and taxation. He recommends that the duty on brown sugar should be increased to 2&fract12:  cents per pound, on clayed sugar 3 cents, on green tea to 20 cents, and on coffee to 5 cents. He further recommends that the direct tax be increased, so as to produce 20,000,000 dollars from the loyal States alone, and not only their proportion of the same, on the fiction that all the States were loyal. He has a plan of excise and stamp taxes. He proposes duties on stills and distilled liquors, on tobacco, bank-notes, on carriages, legacies, evidences of debt, and instruments for the conveyance of property and other like subjects, such as will produce 20,000,000 dols. more. From the 3 per cent income tax he hopes to procure ten millions more. The whole direct and indirect taxes will thus produce 90,000,000 dols. This sum is small compared with the aggregate property and annual earnings of the people.</p>
 
-The hankers arid financiers do not relish the propositions of Mr. Chase, so far as they relate to the suppression of the bank currency.
+<p>The Secretary's great resource lies in supplanting the banks. Their circulation in the loyal States and Western Virginia amounts to about 150,000,000 dols. He argues that this currency is a loan from the people to the banks, costing the latter nothing but the expense of issue and redemption and the interest on the specie kept in hand. These advantages ought to be transferred from the stockholders of the banks to the national Government. He claims to find authority in the United States' Constitution for this measure, under the powers to regulate commerce and the value of coin. His method of issue is to hand this national currency to the banks, who shall secure their redemption by pledge of United States' stocks and an adequate provision of specie. The people will thus have a uniform currency and the Government enjoy the advantages of a loan without interest. The competition of local bank-notes is to be annihilated by a special tax. He estimates the specie now in the United States at 275,000,000 dols. Existing Acts of Congress enable the Secretary to raise 75,000,000 dols. more than he has yet raised on bonds and Treasury notes payable on demand, and 50,000,000 dols. more must be raised by another loan.</p>
 
-nEtajo EI1EET OI'EIIATIONS,
+<p>For the fiscal year 1863 no reliable estimates can be made. The Secretary hopes that the present war will be over before midsummer; but in order to be prepared for all eventualities he submits estimates based on the hypothesis that the war will continue. These estimates (including 43,000,000 dols. as interest on debt) amount to 475,331,000 dols., of which 95,800,000 may be raised by revenue, leaving a balance to be provided for of 379,531,000 dols. On July 1,1862 the Public Debt will be 517,373,000 dols., and on the above hypothesis 897,373,000 dols, on July 1,l863. He thinks the loyal States alone could pay off this latter sum in thirty years. Of the 72,000,000 dols. worth of bullion deposited in the United States' Mint in 1861, 37,000,000 dollars came from Europe. The Secretary closes his report by recommending the adoption of an international decimal system of weights, measures, and coins.</p>
 
-The Pe'lerals were about to occupy Tybec Island, at the entrance to the Savannah River.
+<p>The bankers and financiers do not relish the propositions of Mr. Chase, so far as they relate to the suppression of the bank currency.</p>
 
-Federal accounts state that the late artillery fuel at Fort Pickens
+<p rend="center">BELLIGERENT OPERATIONS.</p>
 
-rcniltcd in no harm to the fort, but that Warrington and part of the
+<p>The Federals were about to occupy Tybee Island, at the entrance to the Savannah River.</p>
 
-Pensacola Navy-yard were burnt.
+<p>Federal accounts state that the late artillery duel at Fort Pickens resulted in no harm to the fort, but that Warrington and part of the Pensacola Navy-yard were burnt.</p>
 
-A Government agent had been appointed to superintend the packing of cotton by time aid of time negroes in the neighbourhood.
-CANADA.
+<p>A Government agent had been appointed to superintend the packing of cotton by the aid of the negroes in the neighbourhood.</p>
 
-The jounaI report considerable activity throughout CauaTa ixi
+<p rend="center">CANADA.</p>
 
-ox usiug the Militia and Volunteers.
+<p>The jounals report considerable activity throughout Canada in organising the Militia and Volunteers.</p>
+	</div2>
 
 {VOL. 39 ISSUE 1124 12-28-1861 PG. 657}
 
