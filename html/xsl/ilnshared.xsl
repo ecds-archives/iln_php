@@ -71,14 +71,19 @@ select="./@entity"/>')</xsl:attribute>
  <xsl:element name="p">
   <xsl:element name="a">
     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/><xsl:if test="$term_string"><xsl:value-of select="$term_string"/></xsl:if></xsl:attribute>
-  <xsl:if test="head = ''">Untitled</xsl:if>
+  <xsl:if test="head = ''">[Untitled]</xsl:if>
   <xsl:apply-templates select="head"/>
   </xsl:element> <!-- a -->
 
+  <!-- put bibliographic info on second line -->
+  <xsl:element name="br"/>
  <xsl:element name="font">
  <xsl:attribute name="size">-1</xsl:attribute>
+  <xsl:value-of select="bibl/biblScope[@type='volume']" />,
+  <xsl:value-of select="bibl/biblScope[@type='issue']" />,  
+  <xsl:value-of select="bibl/biblScope[@type='pages']" />.  
+  <xsl:value-of select="bibl/date" /> 
   - <xsl:value-of select="./@type"/>
-  - <xsl:value-of select="bibl/date" /> 
   <xsl:if test="bibl/extent">
       - (<xsl:value-of select="bibl/extent" />)
   </xsl:if>
@@ -86,6 +91,7 @@ select="./@entity"/>')</xsl:attribute>
 </xsl:element> <!-- end p -->
 
 </xsl:template>
+
 
 <xsl:template match="@*|node()" name="default"> 
   <xsl:value-of select="."/>
