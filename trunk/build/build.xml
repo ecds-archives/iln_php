@@ -97,7 +97,7 @@ To specify an input file other than the default, run as
 <!-- output doctype to a file so we can insert in the xml files -->
 <concat destfile="${doctype}" append="no"><![CDATA[<!DOCTYPE TEI.2 PUBLIC
 	"-//TEI//DTD TEI Lite XML ver. 1//EN" 
-	"/chaucer/data/dtd/teixlite.dtd" [
+	"${dataPrepdir}/DTD/iln.dtd" [
         <!NOTATION JPEG PUBLIC 'ISO DIS 10918//NOTATION JPEG Graphics Format//EN'>
  	<!ENTITY % iln SYSTEM "${dataPrepdir}/iln_entities" >
          %iln; ] >]]></concat>
@@ -119,7 +119,7 @@ To specify an input file other than the default, run as
  <xmlvalidate  lenient="false" failonerror="true" warn="true">
    <fileset dir="${xmldir.doctype}" includes="*.xml"/>
     <dtd publicId="-//TEI//DTD TEI Lite XML ver. 1//EN" 
-	location="http://www.tei-c.org/Lite/DTD/teixlite.dtd"/>
+	location="${dataPrepdir}/DTD/iln.dtd"/>
   </xmlvalidate>
 
  <!-- If we get to this point, it worked. --> 
