@@ -624,11 +624,11 @@ the Confederate States.</p>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
                   <biblScope type="issue">1098</biblScope> 
-                  <biblScope type="pages">p. 26</biblScope> 
+                  <biblScope type="pages">p. 28</biblScope> 
                   <date value="1861-07-13">July 13, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p28a">
                      <head>THE CIVIL WAR IN AMERICA: HOW THE OUTLYING
                      SENTRIES OF THE FEDERAL ARMY ARE KILLED BY
                      SECESSIONIST SCOUTS.-FROM A SKETCH BY OUR SPECIAL
@@ -687,7 +687,7 @@ and our artist were in the centre.</p>
                   <date value="1861-07-13">July 13, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p28b">
                      <head>THE OUTLYING SENTRIES OF THE FEDERAL ARMYUNIONIST SCOUTING
    PARTY IN THE VIRGINIAN WOODS IN THE NEIGHBOURHOOD OF
    ALEXANDRIA.-FROM A SKETCH BY OUR SPECIAL ARTIST</head>
@@ -762,10 +762,10 @@ OUR SPECIAL ARTIST.-SEE NEXT PAGE</head>
                   <date value="1861-07-20">July 20, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
-                     <head>THE OUTLYING SENTRIES OF THE FEDERAL ARMYUNIONIST SCOUTING
-   PARTY IN THE VIRGINIAN WOODS IN THE NEIGHBOURHOOD OF
-   ALEXANDRIA.-FROM A SKETCH BY OUR SPECIAL ARTIST</head>
+                  <figure entity="v39p47">
+                     <head>ATTACK ON THE PICKETS OF THE
+GARIBALDI GUARD ON THE EAST BRANCH OF THE POTOMAC.-FROM A SKETCH BY
+OUR SPECIAL ARTIST.-SEE NEXT PAGE</head>
                   </figure>
                </p>
   </div2>
@@ -1021,11 +1021,11 @@ STATES' ARTILLERY</head>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
                   <biblScope type="issue">1099</biblScope> 
-                  <biblScope type="pages">p. 47</biblScope> 
+                  <biblScope type="pages">p. 58</biblScope> 
                   <date value="1861-07-20">July 20, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p58">
                      <head>THE LONG BRIDGE OVER THE POTOMAC AT WASHINGTON, 
 GUARDED BY UNITED  STATES' ARTILLERY.</head>
                   </figure>
@@ -1109,7 +1109,7 @@ all these constitutional argumentations have a wonder-
 
 
     
-      <figure>
+      <figure entity="v39p71">
          <head>CAPTURE OF A UNITED STATES' DRAGOON BY GUERRILLA
          HORSEMEN OF VIRGINIA.-FROM A SKETCH BY OUR SPECIAL
          ARTIST.-SEE PAGE 83.</head>
@@ -1361,7 +1361,7 @@ type="Illustration">
                <extent>1 paragraph</extent>
 	      </bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p82">
                      <head>THE NEW WORLD, ONE OF THE HUDSON RIVER STEAMERS</head>
                   </figure>
                </p>
@@ -1496,7 +1496,7 @@ SPECIAL ARTIST" type="Illustration">
                   <date value="1861-07-20">July 27, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p83">
                      <head>"CONTRABAND OF WAR."-FROM  A SKETCH BY OUR SPECIAL 
                            ARTIST</head>
                   </figure>
@@ -2380,7 +2380,7 @@ PAST.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE PRECEDING PAGE.</head>
                   <date value="1861-08-03">August 3, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p111">
                      <head>REVIEW OF FEDERAL TROOPS ON THE 4TH OF JULY BY
 PRESIDENT LINCOLN AND GENERAL SCOTT: THE GARIBALDI GUARD FILING
 PAST.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE PRECEDING PAGE.</head>
@@ -2646,7 +2646,7 @@ VIRGINIA, THE CAPITAL OF THE CONFEDERATE STATES OF AMERICA</head>
                   <date value="1861-08-10">August 10, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p127">
                      <head>SKETCHES FROM RICHMOND, VIRGINIA, THE
 CAPITAL OF THE CONFEDERATE STATES OF AMERICA</head> 
                   </figure>
@@ -2978,7 +2978,7 @@ preference.-<hi rend="italic">Medical Times and Gazette</hi>.</p>
                   <date value="1861-08-10">August 10, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p143">
                      <head>FIGHT AT HAINSVILLE, ON THE UPPER POTOMAC-ADVANCE   
 OF THE WISCONSIN MEN (FEDERALISTS) ON THE SECESSIONIST POSITION.-SEE  PAGE 145.
 </head> 
@@ -3022,12 +3022,12 @@ These are the advanced defences of Manassas Junction, which is some
 three miles further off.  Until these were carried no approach could
 be made to that place; and after they should be carried others of a
 similar character would have to be overcome at every point where they
-could be erected.  The utmost <pb n="144"/>
+could be erected.  The utmost 
   
-      <figure>
+      <figure entity="v39p144">
          <head>MAP OF DISTRICT OF COLUMBIA</head>
       </figure>
-
+<pb n="145"/>
 that military skill and ingenuity could accomplish for the defence of this point
 was done.
 General M'Dowell was unwilling to make an attack directly in face of
@@ -3738,7 +3738,7 @@ parties than a civil war on the largest scale, of the fiercest
 character and the most doubtful results. The first frost of adversity
 has withered this vainglorious spirit.   The North recognises in the
 South a foe formidable on her own soil; and
-<figure>
+<figure entity="v39p151">
  <head>CONFEDERATE PRISONERS
 CAPTURED BY UNITED STATES' PICKETS BETWEEN FAIRFAX AND MANASSAS
 JUNCTION, VIRGINIA.  FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
@@ -4271,7 +4271,7 @@ ARTIST.</head>
                   <date value="1861-08-17">August 17, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p155">
                      <head> THE CIVIL WAR IN AMERICA: CAROLINIAN PICKETS 
 FLYING BEFORE THE ADVANCES OF THE FEDERAL TROOPS ON FAIRFAX. -FROM A SKETCH 
 BY OUR SPECIAL ARTIST.</head>
@@ -4651,7 +4651,7 @@ TELEGRAPHS.</head>
                   <date value="1861-08-24">August 24, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p179">
                      <head> CAPE RACE, NEWFOUNDLAND, THE TERMINATION OF THE 
 AMERICAN SYSTEM OF TELEGRAPHS.</head>
                   </figure>
@@ -5044,7 +5044,7 @@ ALABAMA REGIMENT AT THE BATTLE OF BULL RUN.-FROM A SKETCH BY OUR SPECIAL ARTIST.
                   <date value="1861-08-31">August 31, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p226">
                      <head> THE CIVIL WAR IN AMERICA: ENGAGEMENT BETWEEN THE 
 71ST NEW YORK AND AN ALABAMA REGIMENT AT THE BATTLE OF BULL RUN.-FROM A SKETCH 
 BY OUR SPECIAL ARTIST.</head>
@@ -5316,7 +5316,7 @@ STATES OF AMERICA." type="illustration">
                   <date value="1861-09-07">September 7, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p261">
                      <head> RICHMOND, VIRGINIA, THE CAPITAL OF THE CONFEDERATE 
 STATES OF AMERICA.</head>
                   </figure>
@@ -5336,7 +5336,7 @@ ALEXANDRIA AND FAIRFAX, VIRGINIA.-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                   <date value="1861-09-14">September 14, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p263">
                      <head> THE WAR IN AMERICA:  TEXAN LANCERS (FEDERALISTS) 
 RECONNOITRING BETWEEN ALEXANDRIA AND FAIRFAX, VIRGINIA.-FROM A SKETCH BY OUR 
 SPECIAL ARTIST.</head>
@@ -5524,7 +5524,7 @@ FEDERAL CAMP, VIRGINIA.- FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE SUPPLEMENT.
                   <date value="1861-09-14">September 14, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p271">
                      <head> THE WAR IN AMERICA: QUARTERMASTER'S DEPARTMENT-
 KILLING BULLOCKS IN THE FEDERAL CAMP, VIRGINIA.- FROM A SKETCH BY OUR SPECIAL 
 ARTIST.-SEE SUPPLEMENT.</head>
@@ -5607,7 +5607,7 @@ THE STREETS OF WASHINGTON.-FROM A SKETCH BY OUR SPECIAL ARTIST</head>
                   <date value="1861-09-14">September 14, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p283">
                      <head> THE WAR IN AMERICA: UNION TROOPS ATTACKING 
 CONFEDERATE PRISONERS IN THE STREETS OF WASHINGTON.-FROM A SKETCH BY OUR 
 SPECIAL ARTIST</head>
@@ -5922,7 +5922,7 @@ POTOMAC FLEET.-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                   <date value="1861-09-21">September 21, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p303">
                      <head> THE CIVIL WAR IN AMERICA: CONFEDERATES TRAPPING A 
 BOAT'S CREW OF THE POTOMAC FLEET.-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                   </figure>
@@ -6255,7 +6255,7 @@ BY OUR SPECIAL ARTIST.</head>
                   <date value="1861-09-28">September 28, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p319">
                      <head> THE CIVIL WAR IN AMERICA: THE GREAT FALLS OF THE 
 POTOMAC.-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                   </figure>
@@ -6634,7 +6634,7 @@ NELSON HOUSE.</head>
                   <date value="1861-10-05">October 5, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p338">
                      <head> THE CIVIL WAR IN AMERICA: VIEW OF YORKTOWN, 
 VIRGINIA, FROM THE OLD NELSON HOUSE. </head>
                   </figure>
@@ -6718,7 +6718,7 @@ OUR SPECIAL ARTIST.</head>
                   <date value="1861-10-05">October 5, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p351">
                      <head> THE CIVIL WAR IN AMERICA: MUNSON'S HILL.  WITH THE 
 EARTHWORK THROWN UP BY THE CONFEDERATES IN FRONT OF THE UNION LINES, VIRGINIA.  
 FROM A SKETCH BY OUR SPECIAL ARTIST. </head>
@@ -7032,7 +7032,7 @@ BY OUR SPECIAL ARTIST." type="illustration">
                   <date value="1861-10-12">October 12, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p362">
                      <head> THE WAR IN AMERICA: THE CHAIN-BRIDGE ACROSS THE 
 POTOMAC ABOVE GEORGETOWN, LOOKING TOWRDS THE VIRGINIAN SHORE.-FROM A SKETCH 
 BY OUR SPECIAL ARTIST.</head>
@@ -7054,7 +7054,7 @@ AT LEWINSVILLE, VIRGINIA.-FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                   <date value="1861-10-12">October 12, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p363">
                      <head>THE WAR IN AMERICA: BRINGING IN THE FEDERAL WOUNDED 
 AFTER THE SKIRMISH AT LEWINSVILLE, VIRGINIA.-FROM A SKETCH BY OUR SPECIAL 
 ARTIST.</head>
@@ -7210,9 +7210,9 @@ the southern route, of which he is a zealous and most influential advocate."</p>
                   <date value="1861-10-12">October 12, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p386">
                      <head>THE AMERICAN PONY EXPRESS, EN ROUTE FROM THE 
-MISSOURI RIVER TO SAN FRANCISCO.-FROM A DRAWING BY           G.H. ANDREWS.</head>
+MISSOURI RIVER TO SAN FRANCISCO.-FROM A DRAWING BY G.H. ANDREWS.</head>
                   </figure>
                </p>
   </div2>
@@ -7851,7 +7851,7 @@ NORTH CAROLINA, DESTROYED BY FIRE ON THE 17TH ULT. BY THE FEDERALISTS</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure>
+                  <figure entity=">
                      <head> THE WAR IN AMERICA:-FORT OCRACOKE, ON BEACON 
 ISLAND, NORTH CAROLINA, DESTROYED BY FIRE ON THE 17TH ULT. BY THE FEDERALISTS
 </head>
@@ -9134,7 +9134,7 @@ received with honour by the Legislature then in session there.</p>
                   <date value="1861-11-09">November 9, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p467">
                      <head> THE CIVIL WAR IN AMERICA:  GUARD TENT-PUNISHMENT 
 DRILL IN THE FEDERAL CAMP.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE SUPPLEMENT,
  P. 485. </head>
@@ -9199,11 +9199,11 @@ ON THE POTOMAC, NEAR FREESTONE POINT.-FROM A SKETCH BY OUR SPECIAL ARTIST.-SEE
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 39</biblScope> 
                   <biblScope type="issue">1116</biblScope> 
-                  <biblScope type="pages">p. 467</biblScope> 
+                  <biblScope type="pages">p. 470</biblScope> 
                   <date value="1861-11-09">November 9, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p470">
                      <head> THE CIVIL WAR IN AMERICA:  CUTTING OFF A 
 CONFEDERATE DESPATCH-GALLEY ON THE POTOMAC, NEAR FREESTONE POINT.-FROM A SKETCH 
 BY OUR SPECIAL ARTIST.-SEE SUPPLEMENT, PAGE 485. </head>
@@ -9488,7 +9488,7 @@ GENERAL BEAUREGARD.</head>
                   <date value="1861-11-16">November 16, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p491a">
                      <head> THE CIVIL WAR IN AMERICA: FAIRFAX COURTHOUSE; THE 
 HEAD-QUARTERS OF GENERAL BEAUREGARD.</head>
                   </figure>
@@ -9506,7 +9506,7 @@ type="illustration">
                   <date value="1861-11-16">November 16, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure>
+                  <figure entity="v39p491b">
                      <head> VIEW OF ST. JOE, MISSOURI, FROM THE KANSAS SIDE. 
 </head>
                   </figure>
@@ -9801,31 +9801,8 @@ MORMON CHURCH." type="illustration">
                   <biblScope type="pages">p. 503</biblScope> 
                   <date value="1861-11-16">November 16, 1861</date>
                <extent>1 paragraph</extent></bibl>
-               <p>
-                  <figure>
-                     <head> BRIGHAM YOUNG, PRESIDENT AND CHIEF PROPHET OF THE 
-MORMON CHURCH. </head>
-                  </figure>
-               </p>
   </div2>
 
-<div2 id="iln39.1117.149" n="THE RESIDENCE OF BRIGHAM YOUNG AT THE GREAT SALT
- LAKE CITY, UTAH." type="illustration">
- <head> THE RESIDENCE OF BRIGHAM YOUNG AT THE GREAT SALT LAKE CITY, UTAH. </head>
-               <bibl> 
-                  <title>The Illustrated London News</title> 
-                  <biblScope type="volume">vol. 39</biblScope> 
-                  <biblScope type="issue">1117</biblScope> 
-                  <biblScope type="pages">p. 503</biblScope> 
-                  <date value="1861-11-16">November 16, 1861</date>
-               <extent>1 paragraph</extent></bibl>
-               <p>
-                  <figure>
-                     <head> THE RESIDENCE OF BRIGHAM YOUNG AT THE GREAT SALT 
-LAKE CITY, UTAH. </head>
-                  </figure>
-               </p>
-  </div2>
 
 <div2 id="iln39.1117.150" n="[The Hawaian Government]" type="article">
 <head>[The Hawaian Government]</head>
