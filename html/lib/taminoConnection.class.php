@@ -24,10 +24,6 @@ class taminoConnection {
   var $count;
   var $position;
 
-  // variables for highlighting search terms
-  var $begin_hi;
-  var $end_hi;
-  
 
   function taminoConnection($argArray) {
     $this->host = $argArray['host'];
@@ -36,12 +32,6 @@ class taminoConnection {
     $this->debug = $argArray['debug'];
 
     $this->base_url = "http://$this->host/tamino/$this->db/$this->coll?";
-
-    // variables for highlighting search terms
-    $this->begin_hi[0]  = "<span class='term1'>";
-    $this->begin_hi[1] = "<span class='term2'>";
-    $this->begin_hi[2] = "<span class='term3'>";
-    $this->end_hi = "</span>";
   }
 
   // send an xquery to tamino & get xml result
@@ -64,7 +54,7 @@ class taminoConnection {
       }
       
       if (!($this->xq_rval)) {    // tamino Error code (0 = success)
-         $this->getXQueryCursor();
+         $this->getCursor();
       } else if ($this->xq_rval == "8306") {
       // invalid cursor position (returned when there are no matches)
         $this->count = $this->position = $this->quantity = 0;
@@ -118,7 +108,7 @@ class taminoConnection {
   }
 
    // retrieve the cursor & get the total count
-   function getCursor () {
+   function getXqlCursor () {
      // NOTE: this is an xql style cursor, not xquery
      if ($this->xml) {
        $nl = $this->xpath->query("/ino:response/ino:cursor/@ino:count");
@@ -129,7 +119,7 @@ class taminoConnection {
    }
 
       // retrieve the XQuery style cursor & get the total count
-   function getXQueryCursor () {
+   function getCursor () {
      if ($this->xml) {
        $nl = $this->xpath->query("/ino:response/ino:cursor/ino:current/@ino:position");
        if ($nl) {  $this->position = $nl->item(0)->textContent; }
@@ -149,7 +139,7 @@ class taminoConnection {
     $this->xml = new domDocument();
     $this->xml->loadXML($this->xmlContent);
     if (!$this->xml) {
-      print "TaminoConnection::xquery error: unable to parse xml content.<br>";
+      print "TaminoConnection::initializeXML error: unable to parse xml content.<br>";
       $this->xq_rval = 0;	// not a tamino error but a dom error
     } else {
      $this->xpath = new domxpath($this->xml);
