@@ -47,7 +47,8 @@
   <xsl:value-of select="biblScope[@type='volume']"/>,
   <xsl:value-of select="biblScope[@type='issue']"/>,
   <xsl:value-of select="biblScope[@type='pages']"/>.<br/>
-  <p><xsl:value-of select="date"/></p>
+<!-- date information seems redundant for some articles... -->
+   <p><xsl:value-of select="date"/></p>
 </xsl:template>
 
 <xsl:template match="p/title">
