@@ -8,8 +8,8 @@ search.php?region=article&term=lincoln&sort=date&op=and&region2=title&term2=amer
  
 (values are as specified below)  */
 
-include_once("lib/taminoConnection.class.php");
 include_once("config.php");
+include_once("taminoConnection.class.php");
 include_once("common_functions.php");
 
 $region = $_GET["region"]; //options: document|article|title|date|illustration
@@ -67,9 +67,7 @@ print '<div class="content">
           <h2>Search Results</h2>';
 
 
-// run the xql query
-//$rval = $tamino->xql($query, $position, $maxdisplay);
-//xquery
+// run the query
 $tamino->xquery($xquery, $position, $maxdisplay);
 
 print "<center><font size='+1'>";
@@ -132,22 +130,18 @@ print "</center>";
 
 print "<hr>";
 
-// use sablotron to transform xml
+// transform xml
 $tamino->xslTransform($xsl, $xsl_params);
 $myterms = array($term, $term2);
 $tamino->printResult($myterms);
-//$tamino->printResult();
 
-print "<hr>";
+print "<hr>\n";
 
-print "<center>$result_links</center>";
+print "<center>$result_links</center>\n";
 
-?>
+print "</div>\n";
    
-  </div>
-   
-<?php
-  include("xml/foot.xml");
+include("xml/foot.xml"); 
 
 function getRegion ($r) {
    switch ($r) {
@@ -187,8 +181,6 @@ function sort_options ($current) {
     }
   }
 print "<p>";
-
-
 
 }
 
