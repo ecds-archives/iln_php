@@ -63,7 +63,7 @@ London News Perspective</title>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 2</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 <p>And here it becomes necessary to infuse into our domestic chronicle
@@ -98,7 +98,7 @@ h America.</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 3</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>24 paragraphs</extent>
 	</bibl>
  
@@ -242,7 +242,7 @@ and volunteering is being carried on with admirable spirit.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 3</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>4 paragraphs</extent>
 	</bibl>
 
@@ -287,7 +287,7 @@ will not.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 3</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 
@@ -340,7 +340,7 @@ received any impetus from the deranged state of American affairs.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 6</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>3 paragraphs</extent>
 	</bibl>
 
@@ -444,7 +444,7 @@ ON THE AMERICANS.</head>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 19</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>9 paragraphs</extent>
 	</bibl>
 
@@ -608,7 +608,7 @@ PRESIDENT LINCOLN.</head>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 19</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>24 paragraphs</extent>
 	</bibl>
 
@@ -854,7 +854,7 @@ avoided.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 23</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 
@@ -870,7 +870,7 @@ newspaper, has been making its appearance on brown wrapping-paper.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1125</biblScope> 
            <biblScope type="pages">p. 30</biblScope> 
-           <date value="1861-07-06">Jan. 4, 1862</date>
+           <date value="1862-01-04">Jan. 4, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 
@@ -914,7 +914,7 @@ a thick fog.</p>
 	    </div2>
 
 
-<div2 id="iln40.1125.011" n="PROSPECTS OF THE YEAR" type="Article">
+<div2 id="iln40.1126.001" n="PROSPECTS OF THE YEAR" type="Article">
 
 <head>PROSPECTS OF THE YEAR</head>
       <bibl> 
@@ -922,7 +922,7 @@ a thick fog.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1126</biblScope> 
            <biblScope type="pages">p. 33-34</biblScope> 
-           <date value="1861-07-06">Jan. 11, 1862</date>
+           <date value="1862-01-11">Jan. 11, 1862</date>
          <extent>5 paragraphs</extent>
 	</bibl>
 
@@ -996,7 +996,7 @@ with equal pleasure on the course which has been adopted by the
 American Government.</p>
 	    </div2>
 
-<div2 id="iln40.1125.012" n="AMERICA" type="Article">
+<div2 id="iln40.1126.002" n="AMERICA" type="Article">
 
 <head>AMERICA</head>
       <bibl> 
@@ -1004,7 +1004,7 @@ American Government.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1126</biblScope> 
            <biblScope type="pages">p. 34-35</biblScope> 
-           <date value="1861-07-06">Jan. 11, 1862</date>
+           <date value="1861-01-11">Jan. 11, 1862</date>
          <extent>41 paragraphs</extent>
 	</bibl>
 
@@ -1237,7 +1237,7 @@ that befalls the United States is also pregnant with suffering and
 sorrow sooner or later to be borne by Great Britain.</p>
 	    </div2>
 
-<div2 id="iln40.1125.013" n="LATEST NEWS FROM ABROAD" type="Article">
+<div2 id="iln40.1126.003" n="LATEST NEWS FROM ABROAD" type="Article">
 
 <head>LATEST NEWS FROM ABROAD</head>
       <bibl> 
@@ -1245,7 +1245,7 @@ sorrow sooner or later to be borne by Great Britain.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1126</biblScope> 
            <biblScope type="pages">p. 35</biblScope> 
-           <date value="1861-07-06">Jan. 11, 1862</date>
+           <date value="1862-01-11">Jan. 11, 1862</date>
          <extent>3 paragraphs</extent>
 	</bibl>
 
@@ -1292,7 +1292,7 @@ watched by the Tuscarora, until the conflict is over, or whether, on
 some favourable opportunity, she will venture to 'run the blockade'
 and escape, time only can determine."</p></div2>
 
-<div2 id="iln40.1125.014" n="THE ILLUSTRATED LONDON NEWS" type="Article">
+<div2 id="iln40.1126.004" n="THE ILLUSTRATED LONDON NEWS" type="Article">
 
 <head>THE ILLUSTRATED LONDON NEWS</head>
       <bibl> 
@@ -1300,7 +1300,7 @@ and escape, time only can determine."</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1126</biblScope> 
            <biblScope type="pages">p. 38</biblScope> 
-           <date value="1861-07-06">Jan. 11, 1862</date>
+           <date value="1862-01-11">Jan. 11, 1862</date>
          <extent>5 paragraphs</extent>
 	</bibl>
 
@@ -1388,7 +1388,7 @@ unkindness, she ever retains a warmer sympathy than she can feel for
 any other nation in the world.</p>
 	      </div2>
 
-<div2 id="iln40.1125.015" n="AMONG the Illustrations of the civil war
+<div2 id="iln40.1126.006" n="AMONG the Illustrations of the civil war
       in America" type="Article">
 
 <head>[AMONG the Illustrations of the civil war
@@ -1398,7 +1398,7 @@ any other nation in the world.</p>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1126</biblScope> 
            <biblScope type="pages">p. 40</biblScope> 
-           <date value="1861-07-06">Jan. 11, 1862</date>
+           <date value="1862-01-11">Jan. 11, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 
@@ -1431,7 +1431,7 @@ reserve was ordered to fire, and four other shots were fired, one of
 which entered his eye, and another his mouth, and he fell
 dead.</p></div2>
  
-<div2 id="iln40.1125.016" n="The privateer Sumter" type="Article">
+<div2 id="iln40.1126.006" n="The privateer Sumter" type="Article">
 
 <head>[The privateer Sumter]</head>
       <bibl> 
@@ -1439,7 +1439,7 @@ dead.</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1126</biblScope> 
            <biblScope type="pages">p. 43</biblScope> 
-           <date value="1861-07-06">Jan. 11, 1862</date>
+           <date value="1862-01-11">Jan. 11, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 
@@ -1451,7 +1451,7 @@ port. The American Consul demanded that this request should be
 refused, but, the Government having been consulted, the Sumter was
 admitted into the port without being saluted.</p></div2>
 
-<div2 id="iln40.1125.017" n="Mr. Wendell Phillips delivered a speech"
+<div2 id="iln40.1126.007" n="Mr. Wendell Phillips delivered a speech"
       type="Article">
 
 <head>[Mr. Wendell Phillips delivered a speech]</head>
@@ -1460,7 +1460,7 @@ admitted into the port without being saluted.</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1126</biblScope> 
            <biblScope type="pages">p. 55</biblScope> 
-           <date value="1861-07-06">Jan. 11, 1862</date>
+           <date value="1862-01-11">Jan. 11, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 
@@ -1470,7 +1470,7 @@ Institute was crowded, and his audience included a large number of the
 elite of the city. His radical anti-slavery sentiments evoked
 unbounded enthusiasm.</p></div2>
 
-<div2 id="iln40.1125.018" n="PAST DANGER AND PRESENT DUTY." type="Article">
+<div2 id="iln40.1127.001" n="PAST DANGER AND PRESENT DUTY." type="Article">
 
 <head>PAST DANGER AND PRESENT DUTY.</head>
       <bibl> 
@@ -1478,7 +1478,7 @@ unbounded enthusiasm.</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1127</biblScope> 
            <biblScope type="pages">p. 57-58</biblScope> 
-           <date value="1861-07-06">Jan. 18, 1862</date>
+           <date value="1862-01-18">Jan. 18, 1862</date>
          <extent>8 paragraphs</extent>
 	</bibl>
 
@@ -1668,7 +1668,7 @@ Trent. In that case the event will have furnished the happiest modern
 solution of Samson's riddle, "Out of the eater came forth meat, and
 out of the strong came forth sweetness."</p></div2>
 
-<div2 id="iln40.1125.019" n="AMERICA." type="Article">
+<div2 id="iln40.1127.002" n="AMERICA." type="Article">
 
 <head>AMERICA.</head>
       <bibl> 
@@ -1676,7 +1676,7 @@ out of the strong came forth sweetness."</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1127</biblScope> 
            <biblScope type="pages">p. 59</biblScope> 
-           <date value="1861-07-06">Jan. 18, 1862</date>
+           <date value="1862-01-18">Jan. 18, 1862</date>
          <extent>28 paragraphs</extent>
 	</bibl>
 
@@ -1820,7 +1820,7 @@ Germans, 2182; Russian Poles, 27; French, 10; United States' Citizens,
 12; Canadians and others, 371. The destination of about half was the
 United States.</p></div2>
 
-<div2 id="iln40.1125.020" n="ADDITIONAL OFFICIAL CORRESPONDENCE ON
+<div2 id="iln40.1127.003" n="ADDITIONAL OFFICIAL CORRESPONDENCE ON
       THE TRENT AFFAIR" type="Article">
 
 <head>ADDITIONAL OFFICIAL CORRESPONDENCE ON THE<lb/>TRENT AFFAIR</head>
@@ -1829,7 +1829,7 @@ United States.</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1127</biblScope> 
            <biblScope type="pages">p. 59</biblScope> 
-           <date value="1861-07-06">Jan. 18, 1862</date>
+           <date value="1862-01-18">Jan. 18, 1862</date>
          <extent>5 paragraphs</extent>
 	</bibl>
 
@@ -1874,7 +1874,7 @@ repeat acts for which the British Government will have to ask for
 redress and which the United States' Government cannot undertake to
 justify."</p></div2>
 
-<div2 id="iln40.1125.021" n="ILLUSTRATION OF THE WAR IN AMERICA."
+<div2 id="iln40.1127.004" n="ILLUSTRATION OF THE WAR IN AMERICA."
       type="Article">
 
 <head>ILLUSTRATION OF THE WAR IN AMERICA.</head>
@@ -1883,7 +1883,7 @@ justify."</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1127</biblScope> 
            <biblScope type="pages">p. 62</biblScope> 
-           <date value="1861-07-06">Jan. 18, 1862</date>
+           <date value="1862-01-18">Jan. 18, 1862</date>
          <extent>3 paragraphs</extent>
 	</bibl>
 
@@ -1902,7 +1902,7 @@ York they clutched at them and dragged thirteen off at a gallop. Three
 or four were killed on each side. An Engraving of this dashing attack,
 from a sketch by our Special Artist, is given at page 61.</p></div2>
 
-<div2 id="iln40.1125.022" n="The Queen has approved of Mr. James
+<div2 id="iln40.1127.005" n="The Queen has approved of Mr. James
       Q. Howard" type="Article"> 
 
 <head>[The Queen has approved of Mr. James Q. Howard]</head>
@@ -1911,7 +1911,7 @@ from a sketch by our Special Artist, is given at page 61.</p></div2>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1127</biblScope> 
            <biblScope type="pages">p. 66</biblScope> 
-           <date value="1861-07-06">Jan. 18, 1862</date>
+           <date value="1862-01-18">Jan. 18, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 
@@ -1922,7 +1922,7 @@ Mr. Randolph Zapp as Consul at Singapore, for the King of Honover; and
 of Don Pio de Emparanza as Consul, and of Don Narciso Perez Petinto as
 Vice-Consul at Sierra Leone, for the Queen of Spain.</p></div2>
 
-<div2 id="iln40.1125.023" n="THE GREAT INTERNATIONAL RAILWAY
+<div2 id="iln40.1127.006" n="THE GREAT INTERNATIONAL RAILWAY
       SUSPENSION BRIDGE OVER THE NIAGRA RIVER." type="Article"> 
 
 <head>THE GREAT INTERNATIONAL RAILWAY SUSPENSION<lb/> BRIDGE OVER THE
@@ -1932,7 +1932,7 @@ NIAGRA RIVER.</head>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1127</biblScope> 
            <biblScope type="pages">p. 67-68</biblScope> 
-           <date value="1861-07-06">Jan. 18, 1862</date>
+           <date value="1862-01-18">Jan. 18, 1862</date>
          <extent>7 paragraphs</extent>
 	</bibl>
 
@@ -2021,7 +2021,7 @@ altogether, yet only a portion of it gave way, the bridge proving
 itself in all other respects equal to withstanding strains that it
 never was expected to be subjected to.</p></div2>
 
-<div2 id="iln40.1125.024" n="On the 26th of December the Government
+<div2 id="iln40.1127.007" n="On the 26th of December the Government
       stables at Washington were destroyed by fire." type="Article"> 
 
 <head>[On the 26th of December the Government stables at Washington
@@ -2031,7 +2031,7 @@ were destroyed by fire.]</head>
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1127</biblScope> 
            <biblScope type="pages">p. 74</biblScope> 
-           <date value="1861-07-06">Jan. 18, 1862</date>
+           <date value="1862-01-18">Jan. 18, 1862</date>
          <extent>1 paragraph</extent>
 	</bibl>
 
@@ -2039,7 +2039,7 @@ were destroyed by fire.]</head>
 destroyed by fire. Between 200 and 300 homes were either burnt to
 death or received such injuries that it was deemed humane to destroy them. More than 1000 sets of harness were also destroyed.</p></div2>
 
-<div2 id="iln40.1125.025" n="AMERICA." type="Article"> 
+<div2 id="iln40.1128.001" n="AMERICA." type="Article"> 
 
 <head>AMERICA.</head>
       <bibl> 
@@ -2047,7 +2047,7 @@ death or received such injuries that it was deemed humane to destroy them. More 
            <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1128</biblScope> 
            <biblScope type="pages">p. 80-81</biblScope> 
-           <date value="1861-07-06">Jan. 25, 1862</date>
+           <date value="1862-01-25">Jan. 25, 1862</date>
          <extent>28 paragraphS</extent>
 	</bibl>
 
@@ -2184,10 +2184,19 @@ the channel, if necessary.</p>
 <p rend="center">DESPATCHES FROM LORD LYONS TO EARL RUSSELL.</p>
 <p>In Friday's <hi rend="smallcaps">Gazette</hi> were published copies
 of some despatches from Lord Lyons. The first informs Earl Russell that Messrs. Zacharie and Rogers, taken from on board the Eugenia Smith, under the British flag, and confined in Fort Lafayette, had been released, and the act disavowed; a second refers to a case in which a captured British schooner, the James Campbell, was taken into port with the British flag flying under the American-a proceeding which has been rebuked by Mr. Seward, and ordered not to be repeated; and the third relates that certain English seamen, captured for a break of blockade, having been required to take an oath never to be engaged in such a proceeding again, have been declared by Mr. Seward absolved from such oath.</p></div2>
+<div2 id="iln40.1128.002" n="The Tuscarora in Southampton Water"
+      type="article">
+<head>THE TUSCAROA IN SOUTHAMPTON WATER.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 81</biblScope> 
+           <date value="1862-01-25">Jan. 25, 1862</date>
+         <extent>3 paragraphs</extent>
+	</bibl>
 
-THE TUSCARORA IN SOUTHAMPTON WATER.
-
-TRI5 vessel, whose presence in Southampton Water has caused the greatest excitement for the last fortnight, still keeps her position o
+<P>T<hi rend= "small caps">HIS</hi> vessel, whose presence in Southampton Water has caused the greatest excitement for the last fortnight, still keeps her position o
 
 the mouth of the Itchen, supposed to be waiting the arrival of the
 
@@ -2197,38 +2206,123 @@ s -two of them, placed amidships, are the famous
 
 coltmbiad 120.poundera-and a rifled 30.pounder of Parrot's on her forecastle. She is commanded by Captain Craven, and has a large and well-appointed crew of 200 men.
 
-Messrs. Slidell and Mason and their secretaries have stilea from Halifax for Bermuda.
+<P>Messrs. Slidell and Mason and their secretaries have stilea from Halifax for Bermuda.</P>
 
-The United States' Government is erecting batteries on Croil's
+<p>The United States' Government is erecting batteries on Croil's
 
 island in the Long Soult of the St. Lawrence. These batteries will command
 
-the Csnadhn Cornwall Cane].
+the Csnadhn Cornwall Cane].</p>
 
-The Confederate steamer Sumter was ordered on Saturday last
+<p>The Confederate steamer Sumter was ordered on Saturday last
 
 to emit Cadiz 'within six hours. She accordingly proceeded to Gibraltar.
 
-Before entering that port she captured two American vessels, one of which she bunted, releasing the other, apparently because she was bound to a British port, and was laden wit a cargo belonging to neutrals.
+Before entering that port she captured two American vessels, one of which she bunted, releasing the other, apparently because she was bound to a British port, and was laden wit a cargo belonging to neutrals.</p>
 
-The West Indian, a vessel belonging to a Southern planter, has arrived at Liverpool direct from Charleston, having succeisf ally run the blockade. She is 241 tone burden, and has s full cargo of spirits of turpentine. She loft Charleston in the evening of the 24th of December. It was a fins tar1lght night, 'with a favourable wind ; the blockade was run without nicetieg 'with any of the blockading float. The West Indian left Charleston
+<p>The West Indian, a vessel belonging to a Southern planter, has
+arrived at Liverpool direct from Charleston, having succeisf ally run
+the blockade. She is 241 tone burden, and has s full cargo of spirits
+of turpentine. She loft Charleston in the evening of the 24th of
+December. It was a fine starlight night,with a favourable wind ; the
+blockade was run without meeting with any of the blockading fleet. The West Indian left Charleston
 
-I alter the atone fleet bad been stick, and ran down to the sea through one of
+after the stone fleet had been sunk, and ran down to the sea through one of
 
-I channels left open by the yederais.
-The Queen has approved of Mr. Horace N. Ciongar as Consul
+ channels left open by the Federals.</p>
+<div2 id="iln40.1128.003" <n="The Queen has approved of Mr. Horace
+N.Congar">
+<type="Article">
 
-at Hong-Kong for the United StaLes of America.
-Once more we hear from America that a grand movement by the North is in hand. Land and water armaments are to penetrate into the heart of the South, Nashville is to in taken, and then a great blow is to be struck at New Orlea'is. We can only say, as heretofore, that we shall see. The Mississippi will now be the centre of interest for the spectators of the strife. The sinews of war are to be provided by a fax of 150 millions of dollars, at least such is the resolution of the Congressional Committee of Ways and Means. There had been some violent anti-English language in both Houses, but it seems to have expressed the feelings of a miserable minority, the people generally being bent upon the prosecution of the war with the South. It was said that the Vindictive effort to destroy Charleston harbour was not likely to be very mischievous, some reports declaring that the sinking of the vessels would actually facilitate the improvement of the port, while Southern organs thank the North for having made the city impregnable. The American question has not received much public discussion here during the week, save that Mr. Massey, the Chairman of Committees and in some sort a Government authority, has delivered a speech in 'which he manifested a desire that the blockade should be broken. The journals of the Southern States believe that, bond Pabnerston's Government are friendly to the North, and that the people of England are inclined towards the South; and therefore the slave journalists venture to predict a speedy fall for our present Administration. We cite this in evidence of the titter ignorance of the Americans of English affairs.
+<head>[The Queen has approved of Mr. Horace N. Congar as
+Consul]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 84</biblScope> 
+           <date value="1862-01-25">Jan. 25, 1862</date>
+         <extent></extent>
+	</bibl>
 
-As regards foreign affairs there is not much to record, except that the Spanish expedition to Mexico is left to do the principal pait of the work of amelioration; and the commander seems inclined to perform his duties in an effective way, and one 'which weuld probably invite unfriendly interference by the 'United States if they were united and had not their hands full. But circumstances forbid the enforcement of the insolent and nonsensical doctrine that the Powers of the East have no right to interfere in the affairs of the Western World, a bit of geographical pedantry which will certainly not be tolerated in Europe. The interests of the New World are too important to -the Old to permit their being left in the hands of any single nation.
-Commander s;mmes, of the Confederate ship-of-war Sumttr, writes to the Times, from Cadiz, to defend himself from imputations on the
+<p>The Queen has approved of Mr. Horace N. Congar as Consul at
+Hong-Kong for the United States of America.</p>
+<div2 id="iln40.1128.004" n="Once more we hear from America"
+ type="Article">
 
-character of his ship convoyed in the report of Mr. Gideon Weiles, Secretaxy
+<head>[Once more we hear from America]</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 85</biblScope> 
+           <date value="1862-01-25">Jan. 25, 1862</date>
+         <extent></extent>
+	</bibl>  
+<p>Once more we hear from America that a grand movement by the North
+is in hand. Land and water armaments are to penetrate into the heart
+of the South, Nashville is to in taken, and then a great blow is to be
+struck at New Orlea'is. We can only say, as heretofore, that we shall
+see. The Mississippi will now be the centre of interest for the
+spectators of the strife. The sinews of war are to be provided by a
+fax of 150 millions of dollars, at least such is the resolution of the
+Congressional Committee of Ways and Means. There had been some violent
+anti-English language in both Houses, but it seems to have expressed
+the feelings of a miserable minority, the people generally being bent
+upon the prosecution of the war with the South. It was said that the
+Vindictive effort to destroy Charleston harbour was not likely to be
+very mischievous, some reports declaring that the sinking of the
+vessels would actually facilitate the improvement of the port, while
+Southern organs thank the North for having made the city
+impregnable. The American question has not received much public
+discussion here during the week, save that Mr. Massey, the Chairman of
+Committees and in some sort a Government authority, has delivered a
+speech in 'which he manifested a desire that the blockade should be
+broken. The journals of the Southern States believe that, bond
+Pabnerston's Government are friendly to the North, and that the people
+of England are inclined towards the South; and therefore the slave
+journalists venture to predict a speedy fall for our present
+Administration. We cite this in evidence of the titter ignorance of
+the Americans of English affairs.</p>
 
-i the United States Navy. "The Sumter," he states, "is a regularly
+<div2 id="iln40.1128.005" n="As regards foreign
+affairs" type="Article">
+<head>[As regards foreign affairs]</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 85</biblScope> 
+           <date value="1862-01-25">Jan. 25, 1862</date>
+         <extent></extent>
+	</bibl>
+<p>As regards foreign affairs there is not much to record, except that
+the Spanish expedition to Mexico is left to do the principal part of
+the work of amelioration; and the commander seems inclined to perform
+his duties in an effective way, and one which would probably invite
+unfriendly interference by the United States if they were united and
+had not their hands full. But circumstances forbid the enforcement of
+the insolent and nonsensical doctrine that the Powers of the East have
+no right to interfere in the affairs of the Western World, a bit of
+geographical pedantry which will certainly not be tolerated in
+Europe. The interests of the New World are too important to -the Old
+to permit their being left in the hands of any single nation.</p>
+<div2 id="iln40.1128.006" n="Commander Semmes of the Confederate"
+      type="Article">
+<head>[Commander Semmes of the Confederate]</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1128</biblScope> 
+           <biblScope type="pages">p. 89</biblScope> 
+           <date value="1862-01-25">Jan. 25, 1862</date>
+         <extent></extent>
+	</bibl>
 
-omixeissloned ship-of-war of the Confederate States."
+<p>Commander Semmes, of the Confederate ship-of-war Sumter, writes to the Times, from Cadiz, to defend himself from imputations on the
+
+character of his ship convoyed in the report of Mr. Gideon Welles, Secretary
+
+of the United States' Navy. "The Sumter," he states, "is a regularly
+
+commissioned ship-of-war of the Confederate States."</p>
 IeEE. yANCEY, COMMISSIONER OF THE C0}tPEDERATB STATES.
 
 Pnm Hon. Wm. Lowndes Yancey is a native of the State of South Carolina, where he was
