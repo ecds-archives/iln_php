@@ -10,10 +10,10 @@
           </tsd:logical>
         </tsd:doctype>
         <tsd:adminInfo>
-          <tsd:created>2004-04-07T16:22:26.237-05:00</tsd:created>
-          <tsd:modified>2004-04-07T16:25:43.667-05:00</tsd:modified>
-          <tsd:version>TSD4</tsd:version>
           <tsd:server>4.1.4.1</tsd:server>
+          <tsd:modified>2004-04-07T16:25:43.667-05:00</tsd:modified>
+          <tsd:created>2004-04-07T16:22:26.237-05:00</tsd:created>
+          <tsd:version>TSD4</tsd:version>
         </tsd:adminInfo>
       </tsd:schemaInfo>
     </xs:appinfo>
@@ -68,7 +68,7 @@
   </xs:element>
   <xs:element name = "edit">
     <xs:complexType>
-      <xs:choice>
+      <xs:choice maxOccurs = "unbounded">
         <xs:element ref = "dc:date"></xs:element>
         <xs:element ref = "dc:contributor"></xs:element>
         <xs:element ref = "dc:description"></xs:element>
