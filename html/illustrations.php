@@ -11,10 +11,10 @@ $args = array('host' => $tamino_server,
 	      'debug' => false);
 $tamino = new taminoConnection($args);
 
-$query = 'for $b in input()/TEI.2//div1
+$query = 'for $b in input()/TEI.2/:text/body/div1
+sort by (@id)
 let $fig := $b//figure
-return <div1>
- {$b/@type}
+return <div1 type="{$b/@type}">
  {$b/head}
  {$b/docDate}
  {$fig}
@@ -29,7 +29,7 @@ if ($rval) {       // tamino Error code (0 = success)
 } 
 
 
-html_head("Browse - Illustrations");
+html_head("Browse - Illustrations", true);
 
 include("xml/head.xml");
 include("xml/sidebar.xml");
