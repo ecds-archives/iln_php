@@ -49,7 +49,7 @@ or name(.) = 'cellpadding'">
     <xsl:copy-of select="."/>
  </xsl:if>
  </xsl:for-each>
- <xsl:call-template name="makeAnchor"/>
+<!--  <xsl:call-template name="makeAnchor"/> -->
 <xsl:apply-templates/></table>
 </xsl:template>
 
