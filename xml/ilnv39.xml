@@ -33,7 +33,7 @@ London News Perspective</title>
          </seriesStmt>
          <sourceDesc>
             <bibl>
-               <title>The Illustrated London News</title>
+               <title>The Civil War: The Illustrated London News Perspective</title>
                <biblScope type="volume">Volume 39</biblScope> 
                <date>JULY to DEC<hi rend="smallcaps">R</hi> 1861</date>
             </bibl>
@@ -45,6 +45,13 @@ London News Perspective</title>
          </projectDesc>
       </encodingDesc>
       <revisionDesc>
+         <change>
+<date>2003</date>
+<respStmt>
+<name>Rebecca Sutton and Stacy Brooks</name>
+<resp>Staff</resp>
+</respStmt>
+<item>Encoded according to TEI guidelines</item></change>
       </revisionDesc>
    </teiHeader>
    <text> 
