@@ -3,7 +3,10 @@
 
 
 // base url for close/open images
+    //production
 var base_url = "http://cti.library.emory.edu/iln/images/";
+    //development
+var base_url = "http://reagan.library.emory.edu/rebecca/ilnweb/images/";
 
 
 function toggle_ul (id) {
@@ -26,6 +29,7 @@ function toggle_gif (id) {
    }
    a.status = (a.status == "open") ? "closed":"open";
    a.src = base_url + a.status + ".gif";
+   a.alt = (a.status == "open") ? "v" : ">";
   }
 }
 
