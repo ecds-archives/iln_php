@@ -40,6 +40,24 @@ And the maiden's brow hath a shade of care
 <P>Mr. Thomas H. Dudley has been approved as Consul at Liverpool for the United States of America.</p>
 	  </div2>
 
+<div2>
+               <head> [THE SEIZURE BY CAPTAIN WILKS]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1120</biblScope> 
+                  <biblScope type="pages">p. 583</biblScope> 
+                  <date value="1861-12-07">December 7, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE SEIZURE BY CAPTAIN WILKS, OFTHE UNITED STATES' WARSHIP SAN JACINTO, OF MESSRS. SLIDELL AND MASON, CONFEDERATE COMMISSIONERS, ON BOARD THE BRITISH MAIL-STEAMER TRENT.- SEE NEXT PAGE.</head>
+                  </figure>
+               </p>
+  </div2>
+
+
 {Vol. 39 Issue 1120 12-07-1861 Pg. 584}
 
 <div2>
@@ -48,7 +66,7 @@ And the maiden's brow hath a shade of care
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
            <biblScope type="issue">no. 1120</biblScope> 
-           <biblScope type="pages">p. 570</biblScope> 
+           <biblScope type="pages">p. 584</biblScope> 
            <date value="1861-12-07">December 7, 1861</date>
 	</bibl>
 
@@ -58,6 +76,40 @@ And the maiden's brow hath a shade of care
 Slidell, Mason, Eustis, and M'Farland were on board, and demanded that they should be given up. This also being indignantly refused, Mr. Slidell himself came forward and said that the four gentlemen named were then before him, but he appealed to the British flag, under which they were sailing, for protection. The Lieutenant said that his orders were to take them on board the San Jacinto by force if they would not surrender. He then walked to the side of the ship waved his hand: immediately three more heavily-armed boats pushed off and surrounded the ship, and the party of marines who come in first boat came up and took possession of the quarter-deck; these, however, he ordered down on the main-deck, to take charge of the gangway ports. Captain Williams, R.N., the naval agent in charge of the mails, who was of course present during this interview, then, in the name of her Majesty, he being the only person on board directly representing her, made a vehement protestation against this piratical act.</p>
 <p>During the whole of this time the San Jacinto was about 200 yards distant from us on the port beam, her broadside guns, which were all manned, directly bearing upon us. Any open resistence to such a force was of course hopeless, although, from the loud and repeated plaudits which followed Captain William's protestations, and which were joined in by every one, without exception, of the passengers congregated on the quarter-deck, men of all nations, and from the manifested desire of some to resist to the last, I have no doubt but that every person would have joined heart and soul in the struggle had our Commander but given the order. Such an order he could not, under such adverse circumstances, conscientiously give, and it was therefore considered sufficient that a party of marines, with bayonets fixed, should forcibly lay hands on the gentlemen named. This was done, and the gentlemen retired to their cabins to arrange some few changes of clothing. A most heartrending scene now took place between Mr. Slidell, his eldest daughter-a noble girl devoted to her father-and the Lieutenant. It would require a far more able pen than mine to describe how, with flashing eyes and quivering lips, she threw her herself in the doorway of the cabin where her father was, resolved to defend him with her life, till, on the order being given to the marines to advance, which they did, with bayonets pointed at this poor defenceless girl, her father ended the painful scene by escaping from the cabin by a window, when he was immediately seized by the marines and hurried into the boat, calling out to Captian Moir as he he left that he held him and his Government responsible for this outrage.</p>
 	  </div2>
+
+<div2>
+               <head> CAPTAIN WILKS, OF THE SAN JACINTO</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 591</biblScope> 
+                  <date value="1861-12-14">December 14, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> CAPTAIN WILKS, OF THE SAN JACINTO</head>
+                  </figure>
+               </p>
+  </div2>
+
+<div2>
+               <head> [THE CONFEDERATE COMMISSIONERS TO ENGLAND]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 591</biblScope> 
+                  <date value="1861-12-14">December 14, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CONFEDERATE COMMISSIONERS TO ENGLAND AND FRANCE SEIZED ON BOARD THE TRENT.- SEE NEXT PAGE.</head>
+                  </figure>
+               </p>
+  </div2>
 
 
 {Vol. 39 Issue 1121 12-14-1861 Pg. 591-592}
