@@ -5,7 +5,7 @@
       charset=iso-8859-1">
 <script language="Javascript" 
 	src="http://cti.library.emory.edu/iln/browser-css.js"></script> 
-<!-- <link rel="stylesheet" type="text/css" href="iln.css" />   -->
+<link rel="stylesheet" type="text/css" href="iln.css" />  
 
 </head>
 
@@ -22,7 +22,7 @@ include("xml/sidebar.xml");
   <td>in:</td>
   </tr>
 <tr>
-<form name="ilnquery" 
+<form name="ilnquery" id="ilnquery"
       action="search.php" method="get">
 <td><input type="text" size="30" name="term"></td>
 <td>
