@@ -54,6 +54,7 @@
 <!ENTITY v39p144 SYSTEM "/chaucer/data/iln/images/ILNv39p144.jpg" NDATA JPEG>
 <!ENTITY v39p151 SYSTEM "/chaucer/data/iln/images/ILNv39p151.jpg" NDATA JPEG>
 <!ENTITY v39p155 SYSTEM "/chaucer/data/iln/images/ILNv39p155.jpg" NDATA JPEG>
+<!ENTITY v39p167 SYSTEM "/chaucer/data/iln/images/ILNv39p167.jpg" NDATA JPEG>
 <!ENTITY v39p179 SYSTEM "/chaucer/data/iln/images/ILNv39p179.jpg" NDATA JPEG>
 <!ENTITY v39p226 SYSTEM "/chaucer/data/iln/images/ILNv39p226.jpg" NDATA JPEG>
 <!ENTITY v39p261 SYSTEM "/chaucer/data/iln/images/ILNv39p261.jpg" NDATA JPEG>
@@ -89,6 +90,7 @@
 <!ENTITY v39p591a SYSTEM "/chaucer/data/iln/images/ILNv39p591a.jpg" NDATA JPEG>
 <!ENTITY v39p591b SYSTEM "/chaucer/data/iln/images/ILNv39p591b.jpg" NDATA JPEG>
 <!ENTITY v39p594 SYSTEM "/chaucer/data/iln/images/ILNv39p594.jpg" NDATA JPEG>
+<!ENTITY v39p599 SYSTEM "/chaucer/data/iln/images/ILNv39p599.jpg" NDATA JPEG>
 <!ENTITY v39p607 SYSTEM "/chaucer/data/iln/images/ILNv39p607.jpg" NDATA JPEG>
 <!ENTITY v39p610 SYSTEM "/chaucer/data/iln/images/ILNv39p610.jpg" NDATA JPEG>
 <!ENTITY v39p611 SYSTEM "/chaucer/data/iln/images/ILNv39p611.jpg" NDATA JPEG>
@@ -97,6 +99,7 @@
 <!ENTITY v39p655 SYSTEM "/chaucer/data/iln/images/ILNv39p655.jpg" NDATA JPEG>
 <!ENTITY v39p659 SYSTEM "/chaucer/data/iln/images/ILNv39p659.jpg" NDATA JPEG>
 <!ENTITY v39p662 SYSTEM "/chaucer/data/iln/images/ILNv39p662.jpg" NDATA JPEG>
+<!ENTITY v39p666 SYSTEM "/chaucer/data/iln/images/ILNv39p666.jpg" NDATA JPEG>
 <!ENTITY v39p71 SYSTEM "/chaucer/data/iln/images/ILNv39p71.jpg" NDATA JPEG>
 <!ENTITY v39p82 SYSTEM "/chaucer/data/iln/images/ILNv39p82.jpg" NDATA JPEG>
 <!ENTITY v39p83 SYSTEM "/chaucer/data/iln/images/ILNv39p83.jpg" NDATA JPEG>
