@@ -109,6 +109,13 @@
   </xsl:element>
 </xsl:template>
 
+<xsl:template match="q">
+  <xsl:element name="blockquote">
+    <xsl:apply-templates/> 
+  </xsl:element>
+</xsl:template>
+
+
 <!-- convert rend tags to their html equivalents 
      so far, converts: center, italic 		  -->
 <xsl:template match="//*[@rend]">
@@ -120,6 +127,12 @@
     </xsl:when>
     <xsl:when test="@rend='italic'">
       <xsl:element name="i">
+        <xsl:apply-templates/>
+      </xsl:element>
+    </xsl:when>
+    <xsl:when test="@rend='smallcaps'">
+      <xsl:element name="span">
+	<xsl:attribute name="class">smcaps</xsl:attribute>
         <xsl:apply-templates/>
       </xsl:element>
     </xsl:when>
