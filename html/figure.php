@@ -26,7 +26,7 @@ $args = array('host' => $tamino_server,
 	      'coll' => $tamino_coll,
       	      'debug' => false);
 $tamino = new taminoConnection($args);
-$xql = "TEI.2//figure[@entity='" . $id . "']"; 
+$xql = "/TEI.2//figure[@entity='" . $id . "']"; 
 
 if ($id) {
   // run the query 
