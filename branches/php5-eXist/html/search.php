@@ -22,11 +22,14 @@ $position = $_GET["pos"];  // position (i.e, cursor)
 $operator = $_GET["op"];  // and|or
 
 
-$args = array('host' => $tamino_server,
-	      'db' => $tamino_db,
-	      'coll' => $tamino_coll,
+
+$args = array('host' => "bohr.library.emory.edu",
+	      'port' => "8080",
+	      'db' => "ILN",
+	      //	      'coll' => $tamino_coll,
+	      'dbtype' => "exist",
 	      'debug' => false);
-$tamino = new xmlDbConnection($args);
+$xmldb = new xmlDbConnection($args);
 $xsl    = "search.xsl";
 
 // pass terms into xslt as parameters 
@@ -49,14 +52,24 @@ switch ($sort) {
 }
 
 // construct xquery
-$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
-$for = 'for $a in input()/TEI.2/:text/body/div1/div2';
-$where  = "where tf:containsText(\$a$reg, '$term')";
-if ($term2) { $where .= " $operator tf:containsText(\$a$reg2, '$term2')"; }
-$return = 'return <div2>{$a/@id}{$a/@type}{$a/head}{$a/bibl}' . 
-"<total> {count($for $where return \$a)}</total> </div2>";
-$qsort = "sort by ($sort)";
-$xquery = "$declare $for $where $return $qsort";
+//$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
+//$for = 'for $a in input()/TEI.2/:text/body/div1/div2';
+//$where  = "where tf:containsText(\$a$reg, '$term')";
+//if ($term2) { $where .= " $operator tf:containsText(\$a$reg2, '$term2')"; }
+//$return = 'return <div2>{$a/@id}{$a/@type}{$a/head}{$a/bibl}' . 
+//"<total> {count($for $where return \$a)}</total> </div2>";
+//$qsort = "sort by ($sort)";
+//$xquery = "$declare $for $where $return $qsort";
+
+
+// FIXME: this causes some kind of xpath error in exist?
+$xquery = "for \$a in //div2[$reg &= '$term'";
+// operator & second term, if defined
+if ($term2) { $query .= " $operator $reg2 &= '$term2'"; }
+//$xquery .= '] return <div2 id="{$a/@id}" type="{$a/@type}">{$a/head}{$a/bibl}</div2>';
+$xquery .= '] return <div2 id="{$a/@id}" type="{$a/@type}">{$a/head}{$a/bibl}</div2>';
+//<total>{text:match-count($a)}</total></div2>";
+
 
 html_head("Search Results");
 
@@ -68,12 +81,12 @@ print '<div class="content">
 
 
 // run the query
-$tamino->xquery($xquery, $position, $maxdisplay);
+$xmldb->xquery($xquery, $position, $maxdisplay);
 
 print "<center><font size='+1'>";
-if ($tamino->count == 0) { print "No matches "; }
-else if ($tamino->count == 1) { print "$count match "; }
-else { print "$tamino->count matches "; }
+if ($xmldb->count == 0) { print "No matches "; }
+else if ($xmldb->count == 1) { print "$count match "; }
+else { print "$xmldb->count matches "; }
 print "found for $begin_hi$term$end_hi in $region ";
 if ($term2) { print "$op $begin_hi2$term2$end_hi in $region2"; }
 print "</font><p>"; 
@@ -83,9 +96,9 @@ print "</font><p>";
 $result_links = '';
 
 // if there are further pages of search results, link to them.
-if ($tamino->count > $maxdisplay) {
+if ($xmldb->count > $maxdisplay) {
   $result_links .= '<li class="firsthoriz">More results:</li>';
-  for ($i = 1; $i <= $tamino->count; $i += $maxdisplay) {
+  for ($i = 1; $i <= $xmldb->count; $i += $maxdisplay) {
     if ($i == 1) {
       $result_links .= '<li class="firsthoriz">';
     } else { 
@@ -105,7 +118,7 @@ if ($tamino->count > $maxdisplay) {
       $result_links .= "<a href='$url'>";
       // url should be based on current search url, with new position defined
     }
-    $j = min($tamino->count, ($i + $maxdisplay - 1));
+    $j = min($xmldb->count, ($i + $maxdisplay - 1));
     // special case-- last set only has one result
     if ($i == $j) {
       $result_links .= "$i";
@@ -122,7 +135,7 @@ if ($tamino->count > $maxdisplay) {
 print "$result_links<p>";
 
 // Don't display sort options if there are no results
-if ($tamino->count) {
+if ($xmldb->count) {
   sort_options($sort);
 }
 
@@ -131,9 +144,9 @@ print "</center>";
 print "<hr>";
 
 // transform xml
-$tamino->xslTransform($xsl, $xsl_params);
+$xmldb->xslTransform($xsl, $xsl_params);
 $myterms = array($term, $term2);
-$tamino->printResult($myterms);
+$xmldb->printResult($myterms);
 
 print "<hr>\n";
 
@@ -151,7 +164,7 @@ function getRegion ($r) {
    // case "illustration" : $reg = "@type='Illustration' and ."; break;
  case "illustration" : $myreg = "/p/figure/head"; break;
  case "document":   // same as default
- default:          $myreg = ""; break;
+ default:          $myreg = "."; break;
  }
    return $myreg;
 }
