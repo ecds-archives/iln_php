@@ -6,9 +6,37 @@
 <script language="Javascript" 
 	src="http://chaucer.library.emory.edu/iln/browser-css.js"></script> 
 <!-- <LINK REL="STYLESHEET" TYPE="text/css" HREF="iln.css" />   -->
+<script language="javascript">
+
+function getSortVal () {
+  for (var i=0; i < document.ilnquery.sort.length; i++) {
+    if (document.ilnquery.sort[i].checked) {
+      var val = document.ilnquery.sort[i].value;
+    }
+  }
+ return val;
+}
+
+function submitForm () {
+
+var addquery = '';
+if (document.ilnquery.string2.value != '') {
+  var addquery = "' " + document.ilnquery.operator.value + " " +
+	document.ilnquery.region2.value + "~='" + 
+	document.ilnquery.string2.value;
+}
+
+newurl = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql(1," + 
+  	document.ilnquery.maxdisplay.value + ")=TEI.2//div2" + document.ilnquery.region.value + "~='" + 
+    document.ilnquery.string.value + addquery + "']sortby("+
+    getSortVal() + ")&_xslsrc=xsl:stylesheet/ilnsearch.xsl";
+//alert(newurl);
+document.location.href = newurl;
+}
+
+</script>
 
 </head>
-
 
 <div class="heading"> 
   <p class="head"><img src="hline2.jpg" width="417" height="3"></p>
@@ -36,34 +64,34 @@
   </tr>
 <tr>
 <form name="ilnquery" 
-      action="search.php" method="get">
-<td><input type="text" size="30" name="query"></td>
+      action="javascript:submitForm()">
+<td><input type="text" size="30" name="string"></td>
 <td>
 <select name="region">
 <!-- FIXME: is this a useful option? -->
-  <option selected value="document">Entire Document</option> 
-  <option value="article">Article </option>
-  <option value="title">Article title</option>
-  <option value="date">Date</option>
-  <option value="illustration">Illustrations</option>
+  <option selected value="[.">Entire Document</option> 
+  <option value="[p">Article </option>
+  <option value="[head">Article title</option>
+  <option value="[bibl/date">Date</option>
+  <option value="[@type='Illustration' and .">Illustrations</option>
 </select> 
 </td>
 <td>
- <select name="op">
+ <select name="operator">
    <option value="and">and</option>
    <option value="or">or</option>
  </select>
 </td>
 <tr>
 <tr>
-<td><input type="text" size="30" name="query2"></td>
+<td><input type="text" size="30" name="string2"></td>
 <td>
 <select name="region2">
-  <option selected value="document">Entire Document</option> 
-  <option value="article">Article </option>
-  <option value="title">Article title</option>
-  <option value="date">Date</option>
-  <option value="illustration">Illustrations</option>
+  <option selected value=".">Entire Document</option> 
+  <option value="p">Article </option>
+  <option value="head">Article title</option>
+  <option value="bibl/date">Date</option>
+  <option value="@type='Illustration' and .">Illustrations</option>
 </select> 
 </td>
 
@@ -72,16 +100,16 @@
 <table cellspacing="8" border=0>
 <tr><td>Sort by:</td>
 <td>
-  <input type="radio" name="sort" value="date" checked> Date</td>
+  <input type="radio" name="sort" value="bibl/date/@value" checked> Date</td>
 <td>
-  <input type="radio" name="sort" value="type"> Article Type</td>
+  <input type="radio" name="sort" value="@type"> Article Type</td>
 <td> 
-  <input type="radio" name="sort" value="title"> Title</td>
+  <input type="radio" name="sort" value="head"> Title</td>
 </tr></table>
 
 <p align="left">
 Results to display per page:
-<select name="max">
+<select name="maxdisplay">
   <option value="10">10</option>
   <option selected value="20">20</option>
   <option value="50">50</option>
