@@ -9,6 +9,7 @@
 // root directory and url where the website resides
 $server = "biliku.library.emory.edu";
 $base_path = "/rebecca/ilnweb";
+$basedir = "/home/httpd/html$base_path";
 $base_url = "http://$server$base_path/";
 
 // add basedir to the php include path (for header/footer files and lib directory)
@@ -18,4 +19,5 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib");
 $tamino_server = "vip.library.emory.edu";
 $tamino_db = "BECKCTR";
 $tamino_coll = "ILN";
+$link_coll = "iln_links";
 ?>
