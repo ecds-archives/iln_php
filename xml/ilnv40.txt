@@ -7142,150 +7142,475 @@ Mexico with your frail craft or perish&#x0021; I have all my life
 asserted that mechanical science will put an end to the power of
 England over the seas. The ocean is nature's highway between the
 nations. It should be free; and surely nature's laws, when properly
-applied, will make it so. Yours very truly, J. <hi rend="smallcaps">ERICSSON</hi></q></p></div2>
-'THE ILLUSTRATED LONDON- NEWS.
+applied, will make it so. Yours very truly, J. <hi
+rend="smallcaps">ERICSSON</hi></q></p></div2>
 
-&OJIDON, SATURDAY, APRIL 5,1862.
+<div2 id="iln40.1138.003" n="The Illustrated London News"
+      type="article">
+<head>THE ILLUSTRATED LONDON NEWS.</head>
 
-TE news from America is of a strange and perplexing kind. The sudden and grand movement of the army of the Potomac was an event in the war, and it excited the utmost interest all over the North. The details of the breaking up and onward march were truly spirit-stirring. It is true that the enemy did not wait to receive General M'Cllella–, but completed a masterly retreat which left nothing but the soil and some abandoned fortifications to the Federals. On this account the young General has been severely attacked by a party in the North, though how he could prevent his enemy running away it is difficult to under. stand. We are sorry, too, to observe that such attacks proceeded from the Abolitionists, who have chosen to regard. the General as a friend to the domestic institution, though, so far as we can learn, he seems to have adhered to the duty of a soldier, and. to have known nothing except that there were enemies to be cinched. But the army moved, and a somewhat grandiose proclamation was put forth by General M'OleUan, inviting his men to follow him to their graves, if necessary, but not to wonder at any strange action of his, warning them that they had no light task before them, for that their enemies were brave men, and adding, "God smiles on us." The next news is that the hideous mud of the invaded country has made it impossible for the Federals to march; that their ranks are thinned, to a remarkable extent, by desertion, drunkenness, and death; and that their Commander is compelled to devise another route for them, by water, which seems to promis better, but which was by no means in the original programme. Beyond this very unsatisfactory reprt, and the statement that one of the Mississippi islands is being stoutly held by the South, while another victory of some magnitude has been gained by the Burnside expedition, there is little definite news; and it is not worth while subjecting to the crucible the heap of rumours which we receive touching the want of confidence in M'CIeUan, the reasons for the again confiding the command to the "tainted" Kremont, and the rest of the points which the American press-now far more sternly bound down by authority than the press in Frsnce.-rsises for the amusement of those for whom war news must not be provided.
-MB. GEORGE PEABODY.
+<dateline rend="center"><hi rend="italic">LONDON, SATURDAY, APRIL</hi> 5,1862.</dateline>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1138</biblScope> 
+           <biblScope type="pages">p. 332</biblScope> 
+           <date value="1862-04-05">Apr.5,1862</date>
+         <extent></extent>
+</bibl>
+<p>T<hi rend="smallcaps">HE</hi> news from America is of a strange and
+perplexing kind. The sudden and grand movement of the army of the
+Potomac was an event in the war, and it excited the utmost interest
+all over the North. The details of the breaking up and onward march
+were truly spirit-stirring. It is true that the enemy did not wait to
+receive General M'Clellan, but completed a masterly retreat which left
+nothing but the soil and some abandoned fortifications to the
+Federals. On this account the young General has been severely attacked
+by a party in the North, though how he could prevent his enemy running
+away it is difficult to under-stand. We are sorry, too, to observe
+that such attacks proceeded from the Abolitionists, who have chosen to
+regard the General as a friend to the domestic institution, though, so
+far as we can learn, he seems to have adhered to the duty of a
+soldier, and. to have known nothing except that there were enemies to
+be cinched. But the army moved, and a somewhat grandiose proclamation
+was put forth by General M'Clellan, inviting his men to follow him to
+their graves, if necessary, but not to wonder at any strange action of
+his, warning them that they had no light task before them, for that
+their enemies were brave men, and adding, "God smiles on us." The next
+news is that the hideous mud of the invaded country has made it
+impossible for the Federals to march; that their ranks are thinned, to
+a remarkable extent, by desertion, drunkenness, and death; and that
+their Commander is compelled to devise another route for them, by
+water, which seems to promise better, but which was by no means in the
+original<orig reg="program"> programme</orig>. Beyond this very
+unsatisfactory reprt, and the statement that one of the Mississippi
+islands is being stoutly held by the South, while another victory of
+some magnitude has been gained by the Burnside expedition, there is
+little definite news; and it is not worth while subjecting to the
+crucible the heap of rumours which we receive touching the want of
+confidence in M'Cllellan, the reasons for the again confiding the
+command to the "tainted" Fremont, and the rest of the points which the
+American press-now far more sternly bound down by authority than the
+press in France--raises for the amusement of those for whom war news
+must not be provided.</p></div2>
 
-Tins gentleman, whose munificant act is now the theme of c)mm'Zt diecoune throughout the land, and whose Portrait h given on page 335, is a native of Danvers, Massachusetts, where he was burn Feb. 18, 1795. He is the sixth in descent from Francis Peaboiy, who, at the age of twenty-one, and in the year 1635, went to New England from St. Albans, Herts. He died, in 1698, the father of fourteen children, of whom six were sons. His name is now a common one in Masse. ohusette. The parents of the subject of this brief memoir were not. blessed with any superfluity of means, and the future merchant prince of both worlds gained all the scholastic education, he ever acquired at the district common chool of his native tiwn. At the early, age of eleven he was placed in a grocer's store in Denvers, where he remained four years. At the age of sixteen the youth was in-vital to help an elder brother in a dry-goods business in Newbnryport, then, as now, one of the principal seaport towns of Massachusetts. His brother was soon "burnt out" in the conflagration still known to local fame as the great fire of Newburyport. In May, 1812 his uncle started a dry-goods bueiness in Georgetown, in the district of dolumbia, and called upon his nephew to join him. The management of the business devolved upon the younger relative. But for a time the pressing demands of patriotism made themselves heard above those of business. The war of 1812 had broken out, and George Peabody joined a volunteer company of athll formed at Georgetown, and found himself on active duty at Port W arburton. Happily, no engagement tookplace, and the volunteer soon returned to the more congenial and more profitable pursuits of peace. Re remained, with his uncle two years. The business was not promising, and he reluctantly withdrew from it.
+<div2 id="iln40.1138.004" n="Mr. George Peabody" type="article">
+<head>MR. GEORGE PEABODY.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1138</biblScope> 
+           <biblScope type="pages">p. 333</biblScope> 
+           <date value="1862-04-05">Apr.5,1862</date>
+         <extent></extent>
+</bibl>
 
- There was one man, however, who had noticed the remarkable ability and activity of young George Peabody, and who judged that in him the capitalist would gain a desirable coadjutor. This man was Mr. Elisha Riggs. Mr. Riggs proposed to find the capital to establish a dry goods business which young Peabody was to manage. The dis. covery that the latter was only nineteen years of age did not make Mr. Riggs waver. And now Mr. Peabody may be said to have entered that channel which led directly to his great success in life. In 1815 the house was removed to Baltimore; and in 1822 the extension of its operations justified the establishment of branches in Philadelphia and New York. In 1829 Mr. Elisha Riggs retired, and Mr. Peabody became senior partner.
+<p>T<hi rend="smallcaps">HIS</hi> gentleman, whose munificent act is
+now the theme of common[sic] discourse throughout the land, and whose
+Portrait is given on page 335, is a native of Danvers, Massachusetts,
+where he was burn Feb. 18, 1795. He is the sixth in descent from
+Francis Peabody, who, at the age of twenty-one, and in the year 1635,
+went to New England from St. Albans, Herts. He died, in 1698, the
+father of fourteen children, of whom six were sons. His name is now a
+common one in Massachusetts. The parents of the subject of this brief
+memoir were not blessed with any superfluity of means, and the future
+merchant prince of both worlds gained all the scholastic education, he
+ever acquired at the district common chool of his native town. At the
+early age of eleven he was placed in a grocer's store in Danvers,
+where he remained four years. At the age of sixteen the youth was
+invited to help an elder brother in a dry-goods business in
+Newburyport, then, as now, one of the principal seaport towns of
+Massachusetts. His brother was soon "burnt out" in the conflagration
+still known to local fame as the great fire of Newburyport. In May,
+1812 his uncle started a dry-goods business in Georgetown, in the
+district of Columbia, and called upon his nephew to join him. The
+management of the business devolved upon the younger relative. But for
+a time the pressing demands of patriotism made themselves heard above
+those of business. The war of 1812 had broken out, and George Peabody
+joined a volunteer company of artillery formed at Georgetown, and
+found himself on active duty at Fort Warburton. Happily, no engagement
+took place, and the volunteer soon returned to the more congenial and more profitable pursuits of peace. He remained with his uncle two years. The business was not promising, and he reluctantly withdrew from it.</p>
 
-About this time Mr. Peabody began to 'visit Europe. On more than one occasion he was charged with important financial negotia. tions for the State of Maryland. For his gratuitous services to the State the General Assembly passed a vote of than'rs t their generous agent and representative. Early in 1837 he took up his abode in London. He had not been in London long when the financial crash of 1837 occurred, which prostrated American credit in England. Mr. Peabody's optimist 'views of the elastic resources of his native country, sound though they were were received with sceptiniant in the City, but established for him a solid title to the gratitude of the American world of commerce. In 1843 Mr. Peabody retired from the firm of Peabody, Riggs, and Co., and established the moneydealing house of George Peabody and Co., of which he is still tee efficient and active head. In this business he became a millionaire. His biographer, in Hunts Merchants' Magazine, to whom we owe the principal facts in the above sketch, thus enumerates the qualities which have contributed to this result :-" A. judgment quick and cautioa, and clear and sound; a decided purpose, a firm will, energetic and persevering industry; punctuality and fidelity in every engagemeots justice and honour controlling every transaction; and courtesy-that true courtesy which springs from genuine kindness-presiding over all the intercourse of life."
+ <p>There was one man, however, who had noticed the remarkable ability and activity of young George Peabody, and who judged that in him the capitalist would gain a desirable coadjutor. This man was Mr. Elisha Riggs. Mr. Riggs proposed to find the capital to establish a dry goods business which young Peabody was to manage. The dis-covery that the latter was only nineteen years of age did not make Mr. Riggs waver. And now Mr. Peabody may be said to have entered that channel which led directly to his great success in life. In 1815 the house was removed to Baltimore; and in 1822 the extension of its operations justified the establishment of branches in Philadelphia and New York. In 1829 Mr. Elisha Riggs retired, and Mr. Peabody became senior partner.</p>
 
- Mr. Peabody's career has another aspect beside the financial. His position as a merchant has served only as a foil to display him in the character of a humanitarian. The Anglo-American merchant, though no professional politician, early perceived that his postion would. enable him to act as a link between the English and American People. His Fourth of July dinners, where pbilo-American English and philoEuglithAmerican gentlemensatroundthesametable and, made an annual demonstration of international fraternity in the eyes of the two worlds, constitute an event in the history of the relations of the two kindred. but alas! too often alienated, nations. These dinners were discontinued only when there was a body of American residents who were ready to take the good work out of Mr. Peabody's hands.
+<p>About this time Mr. Peabody began to visit Europe. On more than one
+occasion he was charged with important financial negotia-tions for the
+State of Maryland. For his gratuitous services to the State the
+General Assembly passed a vote of thanks to their generous agent and
+representative. Early in 1837 he took up his abode in London. He had
+not been in London long when the financial crash of 1837 occurred,
+which prostrated American credit in England. Mr. Peabody's optimist
+views of the elastic resources of his native country, sound though
+they were were received with skepticism in the City, but established
+for him a solid title to the gratitude of the American world of
+commerce. In 1843 Mr. Peabody retired from the firm of Peabody, Riggs,
+and Co., and established the money-dealing house of George Peabody and
+Co., of which he is still the efficient and active head. In this
+business he became a millionaire. His biographer, in<hi rend="italic"> Hunt's Merchants' Magazine</hi>, to whom we owe the principal facts in the above sketch, thus enumerates the qualities which have contributed to this result :-" A judgment quick and cautios, and clear and sound; a decided purpose, a firm will, energetic and persevering industry; punctuality and fidelity in every engagement; justice and honour controlling every transaction; and courtesy-that true courtesy which springs from genuine kindness-presiding over all the intercourse of life."</p>
 
-Mr. Peabody is not encumbered with family ties; he is a bac'ielor; his collateral relations, some of whom he supported when he was a very young man, have long since ceased to need help from him. Of the copious stream of private benefactions which he dispensed to needy Americans in England we can speak only from general repute, bat the monuments of his public beneficence are, or soon will be (we may almost say), scattered over the world. To hi native town he has given about lO0,000dol. to found a library and lecture fund. The Peabody Institute of Danvers is now in active operation. To the citizens of Baltimore-the city where he spent more than twenty years of his business life, and where he gained. that standing which was the source of his success in London-he gave, in 1857, the sum of 500,001) dollars to found an institute in that wealthy but heretofore unlettered city, which should embrace a free library, a fund to pay for lentures to which certain classes were to have free admission, an academy of music, a gallery of art, and premises for the accommodation of the Maryland Historical Society. The opening of this institution has been retarded by the war in America, which has brought upon Baltimore the inconveniences of a military occupation. His last public benefaction, that of £150,000 for the benefi of the poor of London, differing in kind as it does from those which he has bestowed upon his native country, surpasses them all in magnitude. It has long been the praiseworthy fashion of American millionaires, after providing amply for their families, if they have any, to found with the bulk of their wealth some public institution, proinotive of the intellectual or physical welfare of their fellow-citizens. Thus, New Orleans has had. her M'Donogh, Philadelphia her Stephen G'irard, Boston her John Lowell and Abbott Lawrence, Oswego her Gerxitt Smith, New York her John Jacob and William B. Astor and her Peter Cooper, and Baltimore her George Peabody. The last has excelled all other American public benefactors, not alone in the extent out variety of his munificence, but especially in this reap act-that while they will be remembered by a grateful posterity in one branch only of the English-speaking race, the memory of our Anglo-American Macmuss will be an inheritance shared equally between Britain and.
+ <p>Mr. Peabody's career has another aspect beside the financial. His
+ position as a merchant has served only as a foil to display him in
+ the character of a humanitarian. The Anglo-American merchant, though
+ no professional politician, early perceived that his postion would
+ enable him to act as a link between the English and American
+ People. His Fourth of July dinners, where philo-American English and
+ philo-English American gentlemen sat round the same table and made an annual demonstration of international fraternity in the eyes of the two worlds, constitute an event in the history of the relations of the two kindred. but alas&#x0021; too often alienated, nations. These dinners were discontinued only when there was a body of American residents who were ready to take the good work out of Mr. Peabody's hands.</p>
 
-,-s, rr ;+.,.s a,-,+,. ,.5.4 ,., +,, ,h.f 1.- , .-.s 4.,
-MU1TFICENT GIFT TO THE LONDON P0011 Y MB.. PAB0DY. Oim columns last week contained the announcement of an extraordinary gift made to the poor of the metropolis by Mr. George Peabody, the well-known American banker in London, whose Portrait we have
+<p>Mr. Peabody is not encumbered with family ties; he is a bachelor;
+his collateral relations, some of whom he supported when he was a very
+young man, have long since ceased to need help from him. Of the
+copious stream of private benefactions which he dispensed to needy
+Americans in England we can speak only from general repute, but the
+monuments of his public beneficence are, or soon will be (we may
+almost say), scattered over the world. To his native town he has given
+about lO0,000 dols. to found a library and lecture fund. The Peabody
+Institute of Danvers is now in active operation. To the citizens of
+Baltimore-the city where he spent more than twenty years of his
+business life, and where he gained that standing which was the source
+of his success in London-he gave, in 1857, the sum of 500,000 dollars
+to found an institute in that wealthy but heretofore unlettered city,
+which should embrace a free library, a fund to pay for lectures to
+which certain classes were to have free admission, an academy of
+music, a gallery of art, and premises for the accommodation of the
+Maryland Historical Society. The opening of this institution has been
+retarded by the war in America, which has brought upon Baltimore the
+inconveniences of a military occupation. His last public benefaction,
+that of &#x00A3;150,000 for the benefit of the poor of London,
+differing in kind as it does from those which he has bestowed upon his
+native country, surpasses them all in magnitude. It has long been the
+praiseworthy fashion of American millionaires, after providing amply
+for their families, if they have any, to found with the bulk of their
+wealth some public institution, promotive of the intellectual or
+physical welfare of their fellow-citizens. Thus, New Orleans has had
+her M'Donogh, Philadelphia her Stephen Girard, Boston her John Lowell
+and Abbott Lawrence, Oswego her Gerritt Smith, New York her John Jacob
+and William B. Astor and her Peter Cooper, and Baltimore her George
+Peabody. The last has excelled all other American public benefactors,
+not alone in the extent and variety of his munificence, but especially
+in this respect-that while<hi rend="italic"> they</hi> will be
+remembered by a grateful posterity in one branch only of the
+English-speaking race, the memory of our Anglo-American Mac&#x00e6;nas
+will be an inheritance shared equally between Britain and the United
+States, and will add one to that long list of names in the United
+States, and will add one to that long list of names in politics and
+literature which both nations delight to honour, and which serve to
+nourish a sentiment which moderates the violence and survives the
+effects of temporary causes of estrangement.</p></div2>
 
-0*at pleasure in giving. Mr. Adams, the American i.t. Lord Stanley, Sir J. Emerson Tennent, Mr. C). Iampson, and the donor's partner, Mr. Moxgan, are requested by Mr. Peabody to act in the capacity of trustees for the application of the fund (.fi150,000) which he proposes to devote to the amelioration of the condition of the London poor.. Mr. Peabody's letter to these gentlemen, announcg and slightly developing his plan, is as follows:
+<div2 id="iln40.1138.005" n="The Schooner Adelaide" type="article">
+<head>The Schooner Adelaide</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1138</biblScope> 
+           <biblScope type="pages">p. 333</biblScope> 
+           <date value="1862-04-05">Apr.5,1862</date>
+         <extent></extent>
+</bibl>
+<p>The schooner Adelaide arrived in Liverpool on Tuesday from
+Charleston having successfully run the blockade. She got away on the
+3rd of March, and has brought a cargo consisting chiefly of cotton and
+resin.
 
-London, March 12, 1862.
+At a recent election in Oskaloosa , Iowa, Mrs. Nancy Smith,
+Democratic, was elected Mayor by a majority of 21 over the Republican
+male candidate for that office.</p></div2>
 
-Gentlemen,-In reference to the intention which it is the object of this letter to communicate, I am desirous to explain that from a comparatively early period of my commercial life I had resolved in my own mind that, should my labours be blessed with success, I would devote a portion of the property thus acquired to promote the intellectual, moral, and. physical welfare and comfort of my fellow-men, wherever, from circumstances or location, their claims upon me would be the strongest.
+<div2 id="iln40.1138.006" n="Munificent Gift to the London Poor by
+      Mr. Peabody" type="article">
+<head>MUNIFICENT GIFT TO THE LONDON POOR BY MR. PEABODY.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1138</biblScope> 
+           <biblScope type="pages">p. 335</biblScope> 
+           <date value="1862-04-05">Apr.5,1862</date>
+         <extent></extent>
+</bibl>
+<p>O<hi rend="smallcaps">UR</hi> columns last week contained the announcement of an extraordinary gift made to the poor of the metropolis by Mr. George Peabody, the well-known American banker in London, whose Portrait we have
 
-A kind Providence has continued me in prosperity,
+great pleasure in giving. Mr. Adams, the American Minister Lord Stanley, Sir J. Emerson Tennent, Mr. C. Lampson, and the donor's partner, Mr. Morgan, are requested by Mr. Peabody to act in the capacity of trustees for the application of the fund (&#x00a3;150,000) which he proposes to devote to the amelioration of the condition of the London poor. Mr. Peabody's letter to these gentlemen, announcg and slightly developing his plan, is as follows:--</p>
 
-and consequently, in furtherance of my resolution, I, in the year 1852, founded an institute and library for the benefit of the people of the place of my birth, in the town of Danvera, in the State. of Massachusetts, the result of which has proved in every respect most beneficial to the locality and gratifying to myself.
+<p rend="right">London, March 12, 1862.</p>
 
-Alter an absence of twenty years I visited my
+<p><q>Gentlemen,-In reference to the intention which it is the object of this letter to communicate, I am desirous to explain that from a comparatively early period of my commercial life I had resolved in my own mind that, should my labours be blessed with success, I would devote a portion of the property thus acquired to promote the intellectual, moral, and physical welfare and comfort of my fellow-men, wherever, from circumstances or location, their claims upon me would be the strongest.</q></p>
 
- native land in 1857, and founded in the city of Baltimore, in the State of Maryland (where more than twenty years of my business life had been passed), an institute upon a much more extended scale, devoted to science and the arts, with a free library, coinciding with the character of the institution. The corneratone was laid in 1858, and the building is now completed, but its dedication has been poatpuned in consequence of the unhappy sectional differences at pent prevailing in the United States.
+<p><q>A kind Providence has continued me in prosperity,
 
-It is now twenty-five years since I commenced my residence and business in London as a stranger.; but I didnot long feel myself " astranger " orina" strange land," for in all my commercial and social intercourse with my British friends during that long period I have constantly received courtesy, kindness, and confidence, Under a sense of gratitude for these blessings of a kind Providence, encouraged by early associations, and stimulated by my views as well of duty as of inclination, to follow the path which I had heretofore marked out for my guidance, I have been prompted for several years past repeatedly to state to some of my confidential friends my intention at no distant period, if my life was spared, to. make a donation for the benefit of the poor of London. Among those friends are three of the number to whom I have now the honour to address this letter. To my particular friend, 0, M. Lampoon, Esq., I first mentioned the subject five years ago. My next conversations in relation to it were held about three yews since with my esteemed friend Sir James Emerson Tennent, and with my partner, 3. S. Morgan, Esq. I also availed myself of opportunities to consult the Right Rev. Bishop M'Ilvaine, of Ohio, and with all these gentlemen I have since freely conversed upon the subject in away to confirm that original intention.
+and consequently, in furtherance of my resolution, I, in the year 1852, founded an institute and library for the benefit of the people of the place of my birth, in the town of Danvera, in the State of Massachusetts, the result of which has proved in every respect most beneficial to the locality and gratifying to myself.</q></p>
 
- My object being to ameliorate the condition of the poor and need
+<p><q>After an absence of twenty years I visited my
 
-of this great metropolis, and to promote their comfort said happiness, take pleasure in apprising you that I have determined to transfer to you the sum of £150,000, which now stands available for this purose on the books of Messrs. George Peabody and Co., as you will am- by the accompanying correspondence.
+ native land in 1857, and founded in the city of Baltimore, in the State of Maryland (where more than twenty years of my business life had been passed), an institute upon a much more extended scale, devoted to science and the arts, with a free library, coinciding with the character of the institution. The cornerstone was laid in 1858, and the building is now completed, but its dedication has been postponed in consequence of the unhappy sectional differences at present prevailing in the United States.</q></p>
 
-mm, GEORGE £iSDU‹Ji, 10011 m it 000
+<p><q>It is now twenty-five years since I commenced my residence and
+business in London as a stranger; but I did not long feel myself " a
+stranger " or in a "strange land," for in all my commercial and social
+intercourse with my British friends during that long period I have
+constantly received courtesy, kindness, and confidence. Under a sense
+of gratitude for these blessings of a kind Providence, encouraged by
+early associations, and stimulated by my views as well of duty as of
+inclination, to follow the path which I had heretofore marked out for
+my guidance, I have been prompted for several years past repeatedly to
+state to some of my confidential friends my intention at no distant
+period, if my life was spared, to make a donation for the benefit of
+the poor of London. Among those friends are three of the number to
+whom I have now the honour to address this letter. To my particular
+friend, C.M. Lampoon, Esq., I first mentioned the subject five years
+ago. My next con-versations in relation to it were held about three
+years since with my esteemed friend Sir James Emerson Tennent, and
+with my partner, J. S. Morgan, Esq. I also availed myself of
+opportunities to consult the Right Rev. Bishop M'Ilvaine, of Ohio, and
+with all these gentlemen I have since freely conversed upon the
+subject in a way to confirm that original intention.</q></p>
 
-I committing to you, in full confidence in your judgment, the administration of this fund, I cannot but feel grateful to you for the onerous duties you have so cheerfully undertaken to perform, and I sincerely hope and trust that the benevolent feelings that have prompted a devotion of so much of your valuable time will be appreciated not on)y by the present but future generations of the people of London.
+<p><q> My object being to ameliorate the condition of the poor and need
 
-I have few instructions to give, or conditions to impose, but there are
+of this great metropolis, and to promote their comfort and happiness, take pleasure in apprising you that I have determined to transfer to you the sum of&#x00a3;150,000, which now stands available for this purpose on the books of Messrs. George Peabody and Co., as you will see by the accompanying correspondence.</q></p>
 
-some fundamental principles from which itis my solemn injunction
 
-that those intrueted with its application shall never, under any circumstances, depart.
+<p><q>In committing to you, in full confidence in your judgment, the administration of this fund, I cannot but feel grateful to you for the onerous duties you have so cheerfully undertaken to perform, and I sincerely hope and trust that the benevolent feelings that have prompted a devotion of so much of your valuable time will be appreciated not only by the present but future generations of the people of London.</q></p>
 
-First said foremost among them is the limitation of
+<p><q>I have few instructions to give, or conditions to impose, but there are
 
-its uses absolutely and exclusively to such purposes as may be calculated directly to ameliorate the condition and augment the comforts of the poor, who, either by birth or established residence, form a race nised portion of the population of London.
+some fundamental principles from which it is my solemn injunction
 
-Secondly, it is my intention that now and for all time there shell be a rigid enclusionfrom the management of this fund of any influences calculated to impart to it a character either sectarian as regards religion, or exclusive in relation to local or party politico.
+that those intrueted with its application shall never, under any circumstances, depart.</q></p>
 
-Tblrdly1in conformity with the foregoing conditions, it is ray won and intention that the sole pialiflcationa for a participation in the benefits of this fund shall be an ascertained and continued condition of life such as brings the individual within the description (in the. ordinary some of the word) of 11 the poor" of London, combined with moral character and good conduct as a member of aociet-. It must therefore be held to be a violation of my intentions if any duly qualified and deserving claimant were to be excluded either on the grounds of religious belief or of political bias.
+<p><q>First and foremost among them is the limitation of
 
- Without in the remotest degree desiring to limit your discretion in the selection of the most suitable means of giving effect to these objects, I may be permitted to throw out for your consideration, among the other projeota which will necessarily occupy your attention, whether it may not be found conducive to the conditions specified above for their ultimate realisation, and least likely to present difficulties on the grounds I have pointed out for avoidance, to apply the fund, or a portion of it, in the construction of such improved dwellings for the poor as may combine in the utmost possible degree the essentials of healthfulness, comfort, social enjoyment, and economy.  -
+its uses absolutely and exclusively to such purposes as may be
+calculated directly to ameliorate the condition and augment the
+comforts of the poor, who, either by birth or established residence,
+form a <orig reg="recognized">recognised</orig> portion of the population of London.</q></p>
 
-Preparatory to due provision being made for the
+<p><q>Secondly, it is my intention that now and for all time there
+shall be a rigid exclusion from the management of this fund of any influences calculated to impart to it a character either sectarian as regards religion, or exclusive in relation to local or party politics.</q></p>
+
+<p><q>Thirdly in conformity with the foregoing conditions, it is my wish and intention that the sole qualifications for a participation in the benefits of this fund shall be an ascertained and continued condition of life such as brings the individual within the description (in the ordinary sense of the word) of "the poor" of London, combined with moral character and good conduct as a member of society. It must therefore be held to be a violation of my intentions if any duly qualified and deserving claimant were to be excluded either on the grounds of religious belief or of political bias.</q></p>
+
+<p><q> Without in the remotest degree desiring to limit your discretion in the selection of the most suitable means of giving effect to these objects, I may be permitted to throw out for your consideration, among the other projects which will necessarily occupy your attention, whether it may not be found conducive to the conditions specified above for their ultimate realisation, and least likely to present difficulties on the grounds I have pointed out for avoidance, to apply the fund, or a portion of it, in the construction of such improved dwellings for the poor as may combine in the utmost possible degree the essentials of healthfulness, comfort, social enjoyment, and economy.</q></p> 
+
+<p><q>Preparatory to due provision being made for the
 
 formal declaration of the trust, and for its future
 
-management and appropriation, the sum of £150,000
+management and appropriation, the sum of &#x00a3;150,000
 
 will be at once transferred into your names and placed
 
-at your disposal, for which purpose I reserve to myself full power and authority; but, as a portion of the money may probably not be required for some time to come to meet the legitimate purposes contemplated, I would suggest that, as early a possible after the organisation of the trust, £100,000 should be invested for the time being in your names, in Console or East India Stock; thus adding to the capital by means of the accruing interest; and the stock so purchased can be gradually sold out as the money is wan&d for the objects designated. Meantime, pending the preparation of a formal trust deed, you shall be under no responsibility whatever in respect of the fund, or its liweatment or disposition.
+at your disposal, for which purpose I reserve to myself full power and authority; but, as a portion of the money may probably not be required for some time to come to meet the legitimate purposes contemplated, I would suggest that, as early as possible after the organisation of the trust, &#x00a3;100,000 should be invested for the time being in your names, in Consols or East India Stock; thus adding to the capital by means of the accruing interest; and the stock so purchased can be gradually sold out as the money is wanted for the objects designated. Meantime, pending the preparation of a formal trust deed, you shall be under no responsibility whatever in respect of the fund, or its investment or disposition.</q></p>
 
-With these preliminary stipulations I coznniifi the fund to your management, and to that of such other persona as by a majority of your voices you may elect, giving you the power either, to add to your number, which I think should not at any time exceed nine, or to supply casual vacancies occurring in your body. It is my further desire that theUnited States' Minister in London for the time being should always, in virtue of the office, be a member of the trust, unless in 'the event of his signifying his inability to actin discharge of the duties.-I have the honour to be, gentlemen, yours very faithfully,  Gsortuei PBA.BODv.
+<p><q>With these preliminary stipulations I commit the fund to your
+management, and to that of such other persons as by a majority of your
+voices you may elect, giving you the power either, to add to your
+number, which I think should not at any time exceed nine, or to supply
+casual vacancies occurring in your body. It is my further desire that
+the United States' Minister in London for the time being should
+always, in virtue of the office, be a member of the trust, unless in
+the event of his signifying his inability to actin discharge of the
+duties.-I have the honour to be, gentlemen, yours very
+faithfully,</q></p>
+<p rend="right">G<hi rend="smallcaps">EORGE PEABODY.</hi></p>
 
-Mr. Adams, Lord Stanley, Sir J. B, Torment, Messrs. Lampeon and Morgan have accpted the trust, and in their reply to Mx. Peabody justly remark '-' Whether we consider the purity of the motive, the magnitude of the gift, or the discrimination displayed in selecting the purposes to which it is to be applied, we cannot but feel that it 39 for the nation to appreciate, rather than for a few individuals to express their gratitude for, an act of beneficence which has few (if any) parallels in odern times."
-THE CONFEDERATE ACCOUNT OF THE NAVAL
 
-FIGHT IN HAMPTON ROADS.
+<p>Mr. Adams, Lord Stanley, Sir J.E. Tennent, Messrs. Lampson and
+Morgan have accepted the trust, and in their reply to Mr. Peabody
+justly remark:--"Whether we consider the purity of the motive, the
+magnitude of the gift, or the discrimination displayed in selecting
+the purposes to which it is to be applied, we cannot but feel that it
+is for the nation to appreciate, rather than for a few individuals to
+express their gratitude for, an act of beneficence which has few (if
+any) parallels in ,odern times."</p></div2>
 
-IN the Confederate Congress, on the 10th ult., the following consmunication was received from the Executive, in respnnae to the resolution of Mr. Lyons calling for the report of the naval battle in Hampton Roads. The description diEcra, it will be seen, from the Federal account, especially as regards the result of the contest between the Merthnnc and the Monitor. It 'will be observed that the Merrimac is throughout called the Virginia, hawing been renamed by the Confideratee:
+<div2 id="iln40.1138.007" n="The Confederate Account of the Naval
+      Fight in Hampton Roads" type="article">
+<head>THE CONFEDERATE ACCOUNT OF THE NAVAL FIGHT IN HAMPTON
+ROADS.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1138</biblScope> 
+           <biblScope type="pages">p. 335</biblScope> 
+           <date value="1862-04-05">Apr.5,1862</date>
+         <extent></extent>
+</bibl>
 
-Confederate States' Steam-battery Virginia,
+<p>I<hi rend="smallcaps">N</hi> the Confederate Congress, on the 10th ult., the following communi-cation was received from the Executive, in response to the resolution of Mr. Lyons calling for the report of the naval battle in Hampton Roads. The description differs, it will be seen, from the Federal account, especially as regards the result of the contest between the Merrimac and the Monitor. It will be observed that the Merrimac is throughout called the Virginia, hawing been renamed by the Confederates:--</p>
 
-off Sewe.llle Point, March 8.
+<p rend="right">Confederate States' Steam-battery Virginia,</p>
 
-Flog Officer -In consequence of the wound of Flag-officer B,ochanan, it
+<p rend="right">off Sewall's Point, March 8.</p>
 
-becomes nay tuty to report that the 'Virginia loft the yard this morning at
+<p><q>Flag Officer -In consequence of the wound of Flag-officer Buchanan, it
+
+becomes my duty to report that the Virginia loft the yard this morning at
 
 eleven o'clock, steamed down the river past our batteries, and over to Newport
 
 News, where we engaged the frigates Cumberland, and Congress and the
 
-batteries ashore, and also two large steam-frigates, supposed to be the Rio
+batteries ashore, and also two large steam-frigates, supposed to be the Min-nesota and Roanoke, and a sailing-frigate and several small steamers armed
 
-oaeeota and Roanoke, and a calling-frigate and several small steamers armed
+with heavy rifled guns. We sank the Cumberland, and drove the Congress
+ashore, where she hauled down her colours and hoisted the white flag;
+but she fired upon us with the white flag flying, wounding Lieutenant
+Minor and some of our men. We again opened fire upon her, and she is
+now in flames, The shoal water prevented our reaching the other
+frigates. This, with approaching night, we think, saved them from
+destruction. Our loss is two killed and eight wounded. Two of our guns
+have the muzzles shot off; the prow was twisted, and armour somewhat
+damaged; the anchor and all flagstaffs shot away, and the smoke-stack
+and steam-pipe were riddled. The bearing of officers and men was all
+that could be wished; and, in fact, it could not have been otherwise,
+after the noble and daring conduct of the flag officer, whose wound is
+deeply regretted by all on board, who would kindly have sacrificed
+themselves in order to save him. We were accompanied from the yard by
+the Beaufort, Lieutenant Parker, and Raleigh, Lieutenant Alexander;
+and as soon as it was discovered up the James River that the action
+had commenced we were joined by the Patrick Henry, Commander Tucker;
+the Jamestown, Lieutenant Barney; and the Teaser, Lieutenant Webb, all
+of which were actively engaged and rendered very efficient
+service. Enclosed I send the surgeons' report of the casualties.</q></p>
 
-with heavy tided guns. We sank the Ounoberland, and drove the Congress who, a, where she hauled down her colours and hoisted the white flag; but she fired upon us with the white flag flying, wounding Lieutenant Minor and some of our men. We again opened fire upon her, and she is now in :games, The -shoal water prevented our reaching the other frigates. This, with approaching night, we think, saved them from destruction. Our lose is two killed and' eight wounded. Two of our guns have the muzzles shot off; the prow was twisted, and armonc somewhat damaged; the anchor and all flsgstaffe shot away, and the smoke-stack and tteam-pipe were riddled. The bearing of officers and men 'was all that could be wished; and, In fact, it could not have been otherwise, after the noble and daring conduct of the flag officer, whose wound is deeply regretted by all on board, who would kindly have sacrificed themselves in erder to save him. We were accompanied from the yard by the Beaulorb, Lieutenant Parker, and Raleigh, Lieutenant Alexander; and as soon as It was discovered up the James River that the action had commenced we were
+<p rend="right">I have the honour to be, Sir, very respectfully,</p>
+ <p rend="right">Your obedient servant,</p>
 
- clued by the Patrick Henry, Commander Tucker; the Jamestown, Lieutenant Barney; and the Teaser, Lieutenant Webb, all of 'which were actively engaged and rendered very efficient service. Buclosed I send the surgeons' report 01 gm casualties.
+<p rend="right">C<hi rend="smallcaps">ATESBY AP. R. JONES</hi>,
+Ex. and Ord. Officer.</p> 
 
-I have the honour to be, Sir, very respectfully, tour obedient servant,
+<p>Flag Officer F. Forrest.</p>
 
-CATESBT AP. B. JONES, Bx. and Ord. Officer. Flog Officer F. Forrest.
+<p>The following spiritedly-written account of the engagement is from
 
-The following spiritedly-written account of the engagement is from
+the <hi rend="italic">Norfolk Daybook</hi> of the 10th ult.:--
 
-the NorfoTh 2) aybools of the 10th ult.:
+<p rend="center">T<hi rend="smallcaps">HE BATTLE ON SATURDAY</hi>
 
-rns BATTLE ON SATMDAT.
+,<p><q>On the morning of the 8th the steam-frigate Virginia,
+flag-officer Franklin Buchanan commanding, left her moorings at the
+dockyard, and, attended by the steam-tugs Beaufort,
+Lieutenant-Commanding Parker, and the Raleigh, Lieutenant-Commanding
+Alexander, steamed down the harbour. It was a gallant sight to see the
+iron-clad leviathan gliding noiselessly through the water, flying the
+red pennon of her commander at the fore flagstaff and the gay
+Confederate ensign aft. Not the least impressive thought which she
+suggested was that her gallant crew, under a commander and officers
+worthy to direct their destiny and defend the dog she bore, went thus
+boldly with smiles and buzzes to solve a new problem in maritime
+warfare to make the "trial-trip" of the Virginia the trial of
+battle. Nor could any man behold the little tugs, with the gay ensigns
+at peak and masthead, their battle flags set, steaming in her wake,
+without an emotion of admiration for the brave men they thus bore and
+a prayer for their deliverance. In the wake of all came the Port
+Admiral, with a staff of naval officers. Thus down the harbour, past
+the wharves, thronged with eager citizens, past the batteries, whose
+parapets were dark with soldiers, steamed the squadron. Through the
+two barricades, and then the Virginia put her helm a-starboard and
+took the south channel. Meantime, the morning was as still as that of
+a Sabbath. The two frigates lay with their boats as the booms and
+washclothes in the rigging. Did they see the long dark hull? Had they
+made her out? Was it ignorance, apathy, or composure? These were the
 
-On the morning of the 8th the steam-frigate 'Virginia, flag-officer'Franklln Buchanan commanding, left her moorings at the dockyard, and, attended by the steam-tugs Beaufert, Lleutenant-Commanding Parker, and the Raleigh, Lieutenant-CommandIng Alexander, steamed down the harbour. It was a gallant eight to see the iron-clad leviathan gliding noiselessly through the seater, dying the red pennon- of her commander at the fore flagstaff and the gay Confederate ensign aft. Not the least impressive thought which she suggested was that her gallant crew, under a commander and officers worthy to direct their destiny and defend the dog she bore, went thus boldly with smiles and buzzes to solve a new problem in maritime warfareto make the "trial-trip" of the Virginia the trial of battle. Nor could any man behold the little tugs, with the gay ensigns at peak and masthead, their battle flags set, steaming in her wake, without an emotion of admiration for the brave men they thus bore and a prayhe for their deliverance. In the wake of all canoe the Port Admiral, with a stall of naval officers. Thus down the harbour, past the wharves, thronged with eager citizens, past the batteries, 'whose parapets were dark with soldiers, steamed the squadron. Through the two barricades, and then the Virginia put her helm a-starboard end took- the south channel. Meantime, t be morning wasaastill nethat ofaSabbath. Tlaetwofrigates lay with thelrbGets aethe booms and wsshclothe5 In the rigging. Did they see the long dark hull? Had they madeber out? Was it ignorance, apathy, or composure? These were the
+ questions we discussed as we steamed across the flats to the south of the frigate,
 
- Zq "wous we dJocuased as we steamed across the flats to the south of the frigate,
+with the two gallant little gun-boats well on our starboard team,
+heading up for the enemy. Our doubts were solved by the heavy boom of
+a gun from beyond Sewall's Point. The reverberation rolled across the
+sunlit water and died away; but still the clothes hung in the rigging,
+sun the boats lay at the booms. Another gun (1.20) broke on the air,
+and a tug started from Newport News, while at the same time two others
+left Old Point, taking the channel inside Hampton bar. Steadily, with
+a grim and ominous silence, the Virginia glides through the water;
+steadily and with defiant valour the Beaufort and Raleigh follow where
+she leads. At 1.50 a rifled gun from one of these little weasels rang
+out, then a white puff from her consort. Still the clothes in the
+rigging and the boats at the boom. Was this confidence? It could not
+be ignorance. Did it mean torpedoes, submarine batteries, infernal
+machines? The gun-boats have fired again, and lo&#x0021; here away to
+the eastward were the Roanoke and Minnesota, rising like prodigious
+castles above the placid water, the first under steam, the second in
+tow. Other puffs of smoke, other sharp reports from the gun-boats, but
+the Virginia goes on steadily, silently, to do her work.Now the
+in-shore frigate, the Cumberland, fires; now the Virginia close
+aboard, now Sewall's Point Battery, now the Minnesota, now the
+Roanoke, now the air trembles with the cannonade. Now the Virginia
+delivers both broadsides, now she runs fall against the Cumberland's
+starboard bow, now the smoke clears away, and she appears to be
+heading up James River. This at twenty-two minutes to two. The
+Congress now lets fall foretopsail and then the main, and so, with a
+tug alongside, starts down the north channel, where the Minnesota has
+grounded, and presently runs plump ashore. Meanwhile the Virginia
+opens upon the Yankee fort; slowly she steams back, and the
+Cumberland, sunk now to her white streak, opens upon her again. A
+gallant man fought that ship-a man worthy to have maintained a better
+cause. Gun after gun he fired; lower and lower sank his ship, his last
+discharge comes from his pivot-gun, the ship lurches to starboard, now
+to port, his flag streams out wildly, and now the Cumberland goes down
+on her beamends, at ones a monument and an epitaph of the gallant men
+who fought her. The Virginia stops. Is she aground? And the gun-boats Raleigh and Beaufort-glorious Parker, glorious Alexander? There they are on the quarters of the Congress hammering away, and creeping up closer and closer all the time. At ten minutes to four the Congress struck. Parker hauled down the ensign, run up his own battle-flag in its place. There the heroic Taylor, who fought the Fanny at Roanoke Island and Elizabeth City, got his wound; there the gallant young Hutter fell--all shot by the dastards who fired from the ship and shore when the white flag was flying at the main and mizen of the Congress. Here, too, and in the same way, flag-officer Buchanan and flag Lieutenant R. Minor were wounded. Now the James River gun-boats, whose dark smoke had been seen against the blue distance ever since three o'clock, come dashing along past the shore batteries, Pucker, the courtly and chivalrous, leading the van, with the
 
-ith the two gallant little gun-boats well on curetarboard beam, heading uptor the enemy. Our doubts were solved by the heavy boom of a gun from beyond SeweD's Point. The reverberation rolled across the sunlit water and died away; but still the clothes hung in the rigging, sun the boats lay at the booms. Another gun (1.20) broke on the air, and a tug started from Newport News, 'while at the same time two others left Old Point, taking the channel inside Hampton bar. Steadily, with a grim andonoinous silence, the Virginia glides through the water; steadily and with defiant valour the Beaufort and Raleigh follow 'where she leads. At 1.50 a rifled gun from ass of these little weasels rang out, then a 'white puff from bar consort. Still the clothes in the rigging and the boats at the boom. Was this confidence? It could not be ignorance. Did it moan torpedoes, submarine batteries, infernal machines? The gun-boats have fired again, and 101 here away to the eastward were the Bonoke and Minnesota, rising like prodigious castles above the placid water, the first under steam, the second in tow. Other puffs of smoke, other sharp reports from the gun-boats, but the Virginia goes on steadily, silently, to do her work. - Now the la-shore frigate, the Cumberland, fires; now the Virginia deco aboard, now Sewall'e Point Battery, now the Minnesota, now the Roanolce, now the air trembles with the cannonade. Now the Virginia delivers both broadsides, now she runs fall against the Cumberland's starboard bow, now the smoke clears away, and she appears to be heading up James River. This at- twentytwo minutes to two. The Congress now lets fall foretopsall end then the main, and so, with a tug alongside, starts down he north channel, 'where the Minnesota has grounded, and presently runs plump ashore. Meanwhile the Virginia opens upon the Yankee fort; slowly she steams back, and the Cumberland, sunk now to her 'white streak, opens upon her again. al. gallant man fought that ship-a man worthy to have maintained a better cause. inn after gun he fired; lower and lower sank his ship, his last discharge comes from his pivot-gun, the ship lurches to starboard, now to port, his flag streams out wildly, and now the Cumberland goes down on her beanacuds, at ones a monumont and an epitaph of the gallant men who fought her. The Virginia stops, is she aground? And the gun-boaisBalelgh and Beaaforb-glcrious Parker, glorious Alexander? There they are on the quarters of the Congress hammering away, and creeping n closer and closer sit the time. At ten minutes to four the Congress struck. Parker hauled down the ensign, run up his own battle-flag in its place. There the heroic Taylor, who fought the Fanny at Roauoke Island and BIIzabeth City, got his wound; there the gallant young Hatter fellen ahnt h the ,lnstar,le who rod from the akin and shore when the
-
-that, notwithstanding the firing was munch heavier than on Saturday, there were no casualties in either of our weasels, not a man- being in the least injured by shots from the enemy or otherwise. Several of the enemy's gunboats being within range, they were favoured with a shell or two from'ths Virginia with telling effort, and in every ease disabling or sinking them. One of these lying alongside the Minnesota had a shell thrown aboard of her, which on bursting tore her asunder and sent her to the bottom. Raving oornplstsly riddled the Minnesota, and dieablei the St. Lawrence and Monitor, besides, as stated above, destroying several of the enemy's ga-boats,in a word, having accomplished all that they designed, and having no more material to work upon, our noble vessels left the scene of their triumphs and returned to the yard, where they await another opportunity of displaying their prowess.
-
-[The Number of this Journal for Oct. 18, 1856, contains a page
-
-Engraving of the Methmac previous to her conversion- into a steambattery.]
-Elizabeth City, got his wound; there the gallant young Ratter fellall hob by the dastards who fired from the ship and shore when the white flag was flying at the main and oilier. of the Congress. Here, too, and In the earns way, flag-officer Buchanan and flag Lieutenant B. Minor were wounded. Now the James River gun-boats, whose dark smoke had been seen against the blue distance ever since three o'clock, come dashing along past the shore batteries, 'Pucker, the courtly and chivalrous, leading the van, with the
-
-Zainestown, Lieutenant-Commanding Barney, clues aboard, and the little
+Jamestown, Lieutenant-Commanding Barney, close aboard, and the little
 
 Teaser, Lieutenant Webb, in her wake, like a bow-legged bulldog in chase of
 
-the long, lean etaghounds. It was a gallant dash, and, once past the
+the long, lean staghounds. It was a gallant dash, and, once past the
 
-batteries, the two heavy vessels took position in line of battle, while the Tenser flashed at the Minnesota, looking no larger then a ookboat. And right well she maintained the honour of her flag and the appropriateness of her name. Now the Itoanoke puts her helm up end, declines the battle. Now the Virginia is thundering away again, the Tearer still closer in. We are closer inten comes a shell ahead; presently another astern; flashy a third, with a clear, sharp whizz, just over head, to the great delight of the Commodore, 'who appreciated the compliment of these good shots, which were the last of six directed shots at the Harmony. Now the schooner Reindeer comes foaming along, cut out from under the shore batteries; she reports, and is sent up in charge 01: Acting Master Gibbs; and next the gallant Beo.etforb runs down. Parker steps and brings on board the great piece of bunting we saw hauled, down just now. He brings also some thirty prisoners and some wounded men -men wounded, under that white flag yonder desecrated by the Yankees. One of these lies stretched out decently covered over, gasping his life on the docka Yankee shot through the head, all bloody and ghastly, killed by the Inhuman fire of his own people. Another pale and stern, the captain of the Beaufort's gun, lies there too, a noble specimen of a man, who has since gone where the weary are at teat. A gallant man, a brave seaman I We shake hands with Parker; he gets back to his vessel slightly wounded, as is Alexander also, and steams back gallantly to the fight. The Patrick Henry, the Jamestown, the Teaser, the Beaufort, the Raleigh, and the grand old Virginia, are thundering away. We steam down and speak the We hear a report of casualties; we shake hands with friends; we shove off, cheer ,anfl steam towards the Swash Channel. Presently, through the thickening gloom, we see a rod glare; it grows larger,
+batteries, the two heavy vessels took position in line of battle,
+while the Tenser flashed at the Minnesota, looking no larger then a
+cockboat. And right well she maintained the honour of her flag and the
+appropriateness of her name. Now the Roanoke puts her helm up and
+declines the battle. Now the Virginia is thundering away again, the
+Tearer still closer in. We are closer in-sizz comes a shell ahead;
+presently another astern; flashy a third, with a clear, sharp whizz,
+just over head, to the great delight of the Commodore, who appreciated
+the compliment of these good shots, which were the last of six
+directed shots at the Harmony. Now the schooner Reindeer comes foaming
+along, cut out from under the shore batteries; she reports, and is
+sent up in charge of Acting Master Gibbs; and next the gallant
+Beaufort runs down. Parker steps and brings on board the great piece
+of bunting we saw hauled down just now. He brings also some thirty
+prisoners and some wounded men -men wounded, under that white flag
+yonder desecrated by the Yankees. One of these lies stretched out
+decently covered over, gasping his life on the dock--a Yankee shot
+through the head, all bloody and ghastly, killed by the inhuman fire
+of his own people. Another pale and stern, the captain of the
+Beaufort's gun, lies there too, a noble specimen of a man, who has
+since gone where the weary are at rest. A gallant man, a brave seaman
+&#x0021; We shake hands with Parker; he gets back to his vessel
+slightly wounded, as is Alexander also, and steams back gallantly to
+the fight. The Patrick Henry, the Jamestown, the Teaser, the Beaufort,
+the Raleigh, and the grand old Virginia, are thundering away. We steam
+down and speak the first. We hear a report of casualties; we shake hands with friends; we shove off, cheer ,and steam towards the Swash Channel. Presently, through the thickening gloom, we see a red glare; it grows larger,
 
- andbrighter,
+ and brighter,
 
-and fuller and redder. It creeps higher and higher, and now gun after gun booming on the still night, as the fire reaches thorn; the batteries of the Congress are discharged across the water in harmless thunder. It wee a grand sight to see, and by the light of the burning ship we made our way back to Norfolk. At half-past eleven the act of retribution was complete, for at that hour, with a great noise, she blew up.
+and fuller and redder. It creeps higher and higher, and now gun after gun booming on the still night, as the fire reaches thorn; the batteries of the Congress are discharged across the water in harmless thunder. It was a grand sight to see, and by the light of the burning ship we made our way back to Norfolk. At half-past eleven the act of retribution was complete, for at that hour, with a great noise, she blew up.</q></p>
 
-ME BATTLID ON SUNDAY.
+<p rend="center"><hi rend="smallcaps">THE BATTLE ON SUNDAY.</hi></p>
 
-Some detention occurred on board the Virginia on Sunday morning, we
+<p>Some detention occurred on board the Virginia on Sunday morning, we
 
-learn, or she would have commenced the engagement moult earlier than half
+learn, or she would have commenced the engagement much earlier than half
 
-past eight o'clock, at which time she, together with the Patrick Henry and Jamestown said our other gun-boats, opened fire on the Minnesota, which still lies hard and fast aground. The tide being at the ebb, the Virginia did not take the channel where the Minnesota lay, probably. for fear of grounding,
+past eight o'clock, at which time she, together with the Patrick Henry and Jamestown and our other gun-boats, opened fire on the Minnesota, which still lies hard and fast aground. The tide being at the ebb, the Virginia did not take the channel where the Minnesota lay, probably. for fear of grounding,
 
-but, getting within is good range of her, she opened fire with terrific effect, completely riddling her, end, rendering constant exertion at the pump necessary to prevent her from filling. Early in the morning the Ericsson battery, now called the Monitor, was discovered off Newport News Point, she having gene uttloere during tIle night. A sharp encounter soon took place between her and the vlrglnla,durtagwhichtjmethey'we frequently not morethanthirbyor forty yards apart. Thtlortunately the Virginia ran aground, and the 1:lricsson, teeing her advantage, poured shot sitet shoe into her, but without doing any serious damage. In a short while, however, the 'Virginia succeeded in getting off, and, putting on a full head of steam, ran her bow into the Ericsson, doing her, as it is thought, greet damage. We are rejoiced to say
+but, getting within is good range of her, she opened fire with
+terrific effect, completely riddling her, end, rendering constant
+exertion at the pump necessary to prevent her from filling. Early in
+the morning the Ericsson battery, now called the Monitor, was
+discovered off Newport News Point, she having gone up there during the
+night. A sharp encounter soon took place between her and the Virginia,
+during which time they were frequently not more than thirty or forty
+yards apart. Unfortunately the Virginia ran aground, and the Ericsson,
+using her advantage, poured shot into her, but without doing any
+serious damage. In a short while, however, the Virginia succeeded in
+getting off, and, putting on a full head of steam, ran her bow into
+the Ericsson, doing her, as it is thought, great damage. We are
+rejoiced to say that, notwithstanding the firing was much heavier than
+on Saturday, there were no casualties in either of our vessels, not a
+man- being in the least injured by shots from the enemy or
+otherwise. Several of the enemy's gunboats being within range, they
+were favoured with a shell or two from the Virginia with telling effort, and in every case disabling or sinking them. One of these lying alongside the Minnesota had a shell thrown aboard of her, which on bursting tore her asunder and sent her to the bottom. Having completely riddled the Minnesota, and disabled the St. Lawrence and Monitor, besides, as stated above, destroying several of the enemy's gun-boats,--in a word, having accomplished all that they designed, and having no more material to work upon, our noble vessels left the scene of their triumphs and returned to the yard, where they await another opportunity of displaying their prowess.</p>
+
+<p>[The Number of this Journal for Oct. 18, 1856, contains a page
+
+Engraving of the Merrimac previous to her conversion- into a steambattery.]</p>
 -1---
 
 ENGLISH MM "ERICAX IRON-CASED SHIPS.
