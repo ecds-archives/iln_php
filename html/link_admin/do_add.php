@@ -1,7 +1,7 @@
 <?php
 include_once("common_funcs.php");
 include_once ("linkRecord.class.php");
-html_head("Links - Process new link");
+link_head("Links - Process new link");
 
 print '<div class="content">
 <h2>Processing new link</h2>'; 
@@ -16,8 +16,6 @@ $date = $_GET["date"];
 $contributor = $_GET["contrib"];
 
 
-// set id based on date & contributor? (should be unique)
-$id = "$date-$contrib";
 
 // check that variables are set (all fields should be set)
 if (!(isset($url))||(!(isset($title)))||(!(isset($description)))
@@ -37,7 +35,7 @@ $myargs = array('host' => "vip.library.emory.edu",
 		'date' => $date,
 		'contributor' => $contributor);
 $newlink = new LinkRecord($myargs, $subject);
-$newlink->taminoAdd();
-$newlink->printHTML();
+$newlink->taminoAdd(); 
+$newlink->printHTML(); 
 
 ?>

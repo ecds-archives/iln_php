@@ -2,7 +2,7 @@
 include_once ("subjectList.class.php");
 include_once ("common_funcs.php");
 
-html_head("Links - Manage Subjects");
+link_head("Links - Manage Subjects");
 
 $myargs = array('host' => "vip.library.emory.edu",
 		'db' => "BECKCTR",

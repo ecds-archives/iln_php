@@ -1,92 +1,100 @@
 <?php
 
-include_once("../phpDOM/classes/include.php");
+include_once("taminoConnection.class.php");
+include_once("phpDOM/classes/include.php");
 include_once("common_funcs.php");
 import("org.active-link.xml.XML");
 
 class subjectList {
-  var $host;
-  var $db;
-  var $coll;
+  var $tamino;
   var $subject_url;
   var $xmlContent;
   var $xml;
   var $xml_result;
   var $subjects;
-  
-  var $xquery;
-  var $STRING;
+
 
   // constructor
   function subjectList($argArray) {
-    $this->host = $argArray['host'];
-    $this->db = $argArray['db'];
-    $this->coll = $argArray['coll'];
-
-    // a string to replace in xqueries that need it
-    $this->STRING = 'STRING';
-
-    // presumes that the above variables are actually set...
-    $this->xquery['base'] = "http://$this->host/tamino/$this->db/$this->coll?_xquery=";
-    $this->xquery['subject'] = "declare namespace dc='http://purl.org/dc/elements/1.1/'
-for \$b in input()/link_collection/subject_list/dc:subject 
-return \$b"; 
-    $this->xquery['delete'] = "declare namespace dc=\"http://purl.org/dc/elements/1.1/\"  
-update for \$b in input()/link_collection/subject_list/dc:subject
-where \$b eq \"$this->STRING\"
-do delete \$b";
-    /* update xquery -- add a new subject to subject list */
-    $this->xquery['add'] = "declare namespace dc=\"http://purl.org/dc/elements/1.1/\"  
-update for \$b in input()/link_collection/subject_list
-do insert <dc:subject>$this->STRING</dc:subject> into \$b";
+    // pass host/db/collection settings to tamino object
+    $this->tamino = new taminoConnection($argArray);
 
     // initialize subject list from Tamino
     $this->taminoGetSubjects();
   }
 
+  // generate an xquery using current settings, depending on the mode 
+  // optionally takes a string to search against
+  function xquery ($mode, $string = NULL) {
+    // Dublin Core namespace
+    $dcns = 'dc="http://purl.org/dc/elements/1.1/"';
+    
+    switch ($mode):
+  case 'subject':
+    // retrieve all subjects
+    $query = "declare namespace $dcns
+              for \$b in input()/linkCollection/subjectList/dc:subject 
+              return \$b"; 
+    break;
+  case 'delete':
+    // delete a subject
+    $query = "declare namespace $dcns
+              update for \$b in input()/linkCollection/subjectList/dc:subject
+              where \$b eq '$string'
+              do delete \$b";
+    break;
+  case 'add':
+    // add a new subject to subject list 
+    $query = "declare namespace $dcns
+              update for \$b in input()/linkCollection/subjectList
+              do insert <dc:subject>$string</dc:subject> into \$b";
+    break;
+    endswitch;
+    return $query;
+  }
+  
+
   // get the full list of possible subjects from Tamino
   function taminoGetSubjects() {
-    $url = $this->xquery['base'] . $this->xquery['subject'];
-    $url =  encode_url($url);
-    $this->xmlContent = file_get_contents($url);
-    $this->xml = new XML($this->xmlContent);
-    if (!($this->xml)) {        ## call failed
-      print "Error! unable to open xml for subject list.<br>";
-    }
-    $this->subjects = array();
-    // convert xml subjects into a php array
-    $this->xml_result = $this->xml->getBranches("ino:response/xq:result");
-    if ($this->xml_result) {
-      // Cycle through all of the branches 
-      foreach ($this->xml_result as $branch) {
-	if ($val = $branch->getTagContent("dc:subject")) {
-	  array_push($this->subjects, $val);
-	}       
+    $rval = $this->tamino->xquery($this->xquery('subject'));
+    if ($rval) {
+      print "<p>SubjectList Error: failed to retrieve subject list.<br>";
+      print "(Tamino error code $rval)</p>";
+    } else {       
+      // convert xml subjects into a php array 
+      $this->subjects = array();
+      $this->xml_result = $this->tamino->xml->getBranches("ino:response/xq:result");
+      if ($this->xml_result) {
+	// Cycle through all of the branches 
+	foreach ($this->xml_result as $branch) {
+	  if ($val = $branch->getTagContent("dc:subject")) {
+	    array_push($this->subjects, $val);
+	  }
+	} /* end foreach */
       }
-    }
+    } /* end else */
   }  /* end taminoGetSubjects() */
 
   // Delete a subject from subject list in tamino
   function taminoDelete ($subj) {
-    print "<p>Deleting subject <b>$subj</b> from tamino.</p>";
-    $delete_url = $this->xquery['base'] . str_replace($this->STRING, $subj, $this->xquery['delete']);
-    $delete_url = encode_url($delete_url);
-    $this->xmlContent = file_get_contents($delete_url);
-    // check that the update succeeded
-    if (strpos($xmlContent, "XQuery Update Request processed")) {
+    $rval = $this->tamino->xquery($this->xquery('delete', $subj));
+    if ($rval) {
+      print "<p>There was an error deleting <b>$subj</b> from the subject list.<br>";
+      print "(Tamino error code $rval).</p>";
+    } else {
       print "<p>Successfully deleted <b>$subj</b> from the subject list.</p>";
-    } // else? check if not found?
+    } 
   }
 
   // Add a new subject to the list in tamino
   function taminoAdd ($subj) {
-    $add_url = $this->xquery['base'] . str_replace($this->STRING, $subj, $this->xquery['add']);
-    $add_url = encode_url($add_url);
-    $this->xmlContent = file_get_contents($add_url);
-    // check that the update succeeded
-    if (strpos($this->xmlContent, "XQuery Update Request processed")) {
+    $rval = $this->tamino->xquery($this->xquery('add', $subj));
+    if ($rval) {
+      print "<p>There was an error adding <b>$subj</b> to the subject list.<br>";
+      print "(Tamino error code $rval).</p>";
+    } else {
       print "<p>Successfully added <b>$subj</b> to the subject list.</p>";
-     }
+    }
   }
 
   // check if a subject is in the list of subjects
@@ -111,8 +119,11 @@ do insert <dc:subject>$this->STRING</dc:subject> into \$b";
     $selected = '';
     print "<select name='subj[]' size='5' multiple='yes'>"; 
     foreach ($this->subjects as $subj) { 
+      // mark a subject as selected if it is in the list of matches
       if (isset($matches) && (in_array($subj, $matches))) { 
 	$selected = "selected='yes' ";
+      } else {
+	$selected = "";
       }
       print "<option value='$subj' $selected>$subj</option>"; 
     } 
