@@ -19,5 +19,5 @@ set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib");
 $tamino_server = "vip.library.emory.edu";
 $tamino_db = "ILN";
 $tamino_coll = "iln";
-$link_coll = "iln_links";
+$link_coll = "links";
 ?>
