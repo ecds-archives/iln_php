@@ -8,8 +8,6 @@
 <xsl:include href="ilnshared.xsl"/>
 <xsl:include href="teihtml-tables.xsl"/>
 
-<<<<<<< browse.xsl
-
 <!-- copied from search.xsl; unnecessary at this point, but used ilnshared -->
 <xsl:param name="term">0</xsl:param>
 <xsl:param name="term2">0</xsl:param>
@@ -18,52 +16,12 @@
 <!-- construct string to pass search term values to browse via url -->
 <xsl:variable name="term_string"><xsl:if test="$term != 0">&amp;term=<xsl:value-of select="$term"/></xsl:if><xsl:if test="$term2 != 0">&amp;term2=<xsl:value-of select="$term2"/></xsl:if><xsl:if test="$term3 != 0">&amp;term3=<xsl:value-of select="$term3"/></xsl:if></xsl:variable>
 
-=======
-<xsl:param name="term">0</xsl:param>
-<xsl:param name="term2">0</xsl:param>
-<xsl:param name="term3">0</xsl:param>
-
-<!-- construct string to pass search term values to browse via url -->
-<xsl:variable name="term_string"><xsl:if test="$term != 0">&amp;term=<xsl:value-of select="$term"/></xsl:if><xsl:if test="$term2 != 0">&amp;term2=<xsl:value-of select="$term2"/></xsl:if><xsl:if test="$term3 != 0">&amp;term3=<xsl:value-of select="$term3"/></xsl:if></xsl:variable>
-
-
-
-<xsl:param name="pos">0</xsl:param>
-<xsl:param name="xql">0</xsl:param>
-<xsl:param name="rmode">0</xsl:param>
-<xsl:param name="range">0</xsl:param>
-
-<!-- not actually used in browse mode -->
-<xsl:variable name="max">0</xsl:variable>
-<xsl:variable name="start">0</xsl:variable>
-
-<xsl:variable name="match"><xsl:call-template name="get-match"/></xsl:variable> 
-<xsl:variable name="mode_name">Browse</xsl:variable> 
-<xsl:variable name="begin_idxql">?_xql=TEI.2//div2[@id='</xsl:variable>
-<xsl:variable name="end_idxql">']</xsl:variable>
-<xsl:variable name="begin_posxql">?_xql=TEI.2<xsl:choose>
-<xsl:when test="contains($xql, 'sortby')">
-<xsl:value-of select="substring-before($xql, 'sortby')"/>
-</xsl:when>
-<xsl:otherwise>
-<xsl:value-of select="$xql"/>
-</xsl:otherwise>
-</xsl:choose>[</xsl:variable>
-<xsl:variable name="end_posxql">]<xsl:if test="contains($xql, 'sortby')">sortby<xsl:value-of select="substring-after($xql, 'sortby')"/></xsl:if></xsl:variable>
-<xsl:variable name="curxsl" select="$xsl_browse"/>
-
->>>>>>> 1.2
  <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
   <xsl:apply-templates select="//div1/div2" />
 
-<<<<<<< browse.xsl
    <!-- links to next & previous titles (if present) -->
-=======
-      <xsl:apply-templates select="//div1/div2" />
-   <!-- links to next & previous matches (if specified) -->
->>>>>>> 1.2
   <xsl:call-template name="next-prev" />
 
 </xsl:template> 
