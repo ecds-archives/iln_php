@@ -74,7 +74,7 @@ class taminoConnection {
 
     if ($this->xmlContent) {		// if xquery was successful
       $length = strlen($this->xmlContent);
-      if ($length < 150000) {
+      if ($length < 160000) {
         // phpDOM can only handle xmlContent within certain size limits
         $this->xml = new XML($this->xmlContent);
         if (!($this->xml)) {        ## call failed
