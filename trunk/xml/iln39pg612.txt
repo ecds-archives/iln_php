@@ -3,6 +3,22 @@ VOLUME 39
 
 {VOL. 39 ISSUE 1121 12-14-1861 PG. 612}
 
+<div2>
+               <head> ARTILLERY SLEDGES FOR CANADA.</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 612</biblScope> 
+                  <date value="1861-12-14">December 14, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> ARTILLERY SLEDGES FOR CANADA.</head>
+                  </figure>
+               </p>
+  </div2>
 
 <div2>
 <head> TORCHLIGHT PROCESSION AT WASHINGTON</head>
@@ -48,6 +64,23 @@ VOLUME 39
 
 <p>O<hi rend="smallcaps">N</hi> the retirement of General Scott, on the 31st of last October, General M'Clellan was formally declared Commander-in-Chief of the Federal forces, of which he had been for some time the actual head. George M'Clellan was born at Philadelphia in December, 1826, and destined for the military service. In his sixteenth year he was sent to West Point, and left it in 1846, as Second Lieutenant in the Engineers, to take part in the Mexican War. His bravery in the battles of Contreras and Churubusco gained him promotion, and at the storming of the forts of Molino del Rey and Chapultepec his conduct was so brilliant that it gained him his captaincy. After the peace he was appointed a teacher at West Point, where he wrote a manual of the art of war, which is highly esteemed by American soldiers. After this he built Fort Delaware, and then was ordered to Texas and New Mexico to make a topographic survey of the district through which the Pacific Railway was to run. This difficult task was interrupted by a summons to Washington, where the military department had selected him, in conjunction with Major Mordecai and Captain Delafield, to go and witness the operations in the Crimea, which excited as great interest in America as they did in Europe. As there was no prospect of active service on his return home, M'Clellan determined to leave the army, and accepted the post of technical director to the Illinois Central Railway, which he held for several years with credit. In this position the outbreak of the civil war surprised him, and, as he was universally respected and known in the West, he was at once called to a high post. The Governor of Ohio appointed him Major-General and chief of the militia of that State ; but by the recommendation of General Scott he was made Major-General of the regular Army, and intrusted with a most important command in Western Virginia. After the defeat of the Federal army at Bull Run, M'Clellan was summoned to Washington to take supreme command. A Washington letter describes the enthusiasm felt by his men for General M'Clellan:- "General M'Clellan (it states) is one of the least pretentious of men; he generally wears the simple blouse of the rifleman, with not even the starred shoulder-straps to denote his rank; a man who never wastes time-who is indefatigable in his pursuit and attack of the enemy, and equally untiring in his efforts to secure the utmost comfort of his men compatible with the circumstances of a soldier's life. When his line is on the march he is ever among the men, with a kind and cheering word for every company-a pleasant look, or kind salute, or hearty grasp of the hand for every officer or private with whom he is brought on speaking terms by business; and in a fight he is always at the front of the column, in the thickest of the danger, encouraging his soldiers by cheering word and fearless deed. He takes soldier's fare with the rest, asking no better food, and no more luxurious bed than the newest-recruited private under his command. If he sees a man without proper shoes or clothing he has that man with his Captain sent to his own quarters, where the man is served with the garments he needs and the Captain receives a reprimand that leads him to look more closely after the comfort of his men in future."</p>
 	  </div2>
+
+<div2>
+               <head> [REINFORCEMENTS FOR CANADA</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1122</biblScope> 
+                  <biblScope type="pages">p. 616</biblScope> 
+                  <date value="1861-12-21">December 21, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> REINFORCEMENTS FOR CANADA: TEH MILITARY TRAIN.- SEE PAGE 620.</head>
+                  </figure>
+               </p>
+  </div2>
 
 {VOL. 39 ISSUE 1122 12-21-1861 PG. 617}
 
@@ -453,6 +486,40 @@ VOLUME 39
 tween detached bodies were continually occurring. The accompanying Illustration, from a Sketch by our Special Artist in the Federal camp, shows a skirmish which took place a short time ago near Fall's Church, Virginia, between a body of the 14th New York (Brooklyn) Regiment and a troop of Confederate cavalry. The 14th were surprised while out foraging, and, after a smart skirmish, both parties separated, the Confederates, who lost three men, carrying off with them thirty-six prisoners and six waggons. The remainder of the 14th fell back on their supports with their wounded, leaving some dead on the ground.</p>
 	</div2>
 
+<div2>
+               <head> [SKIRMISH NEAR FALL'S CHURCH, VIRGINIA.]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 651</biblScope> 
+                  <date value="1861-12-21">December 21, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CIVIL WAR IN AMERICA: SKIRMISH NEAR FALL'S CHURCH, VIRGINIA.- FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
+                  </figure>
+               </p>
+  </div2>
+
+<div2>
+               <head> [THE BOUNDARY LINE BETWEEN THE UNITED STATES AND CANADA.]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 655</biblScope> 
+                  <date value="1861-12-28">December 28, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE BOUNDARY LINE BETWEEN THE UNITES STATES AND CANADA.-SEE NEXT PAGE.</head>
+                  </figure>
+               </p>
+  </div2>
+
 
 {VOL. 39 ISSUE 1124 12-28-1861 PG. 656}
 
@@ -549,3 +616,37 @@ colony that the first blow will fall.</p>
 
 <p>Accounts from Kingston, Canada, of the 6th inst., denote much activity in military and warlike preparations. General Sir Fenwick Willliams, accompanied by Lieutenant-Colonel Robertson, Royal Engineers, and the members of the Staff, had made a thorough inspection of the facilities for fortifying Toronto. Guns of heavy calibre were to be placed along the margin of the bay in the vicinity of the Nadaud Old Forts. Workmen were immediately to commence repairing the blockhouse. The men of the 30th Regiment were busily employed in the use of heavy guns. A party of engineers, Sappers and Miners, had gone to Quebec, and a number of them would immediately be dispatched westward. Mr. S. Cunard had gone to Quebec at the request of the Canadian Government. The 62nd and another regiment were to be sent to this province; and it was thought some arrangement was likely to be effected with the Cunard Company to bring up these troops at least as far as Rivi&eacute:re du Loup before the close of the navigation.</p>
 	</div2>
+
+<div2>
+               <head> [REINFORCEMENTS FOR CANADA]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 659</biblScope> 
+                  <date value="1861-12-28">December 28, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> REINFORCEMENTS FOR CANADA: THE GUARDS LEAVING THE SOUTH-WESTERN RAILWAY STATION FOR SOUTHAMPTON.- SEE NEXT PAGE.</head>
+                  </figure>
+               </p>
+  </div2>
+
+<div2>
+               <head> [SHIPPING MUNITIONS OF WAR]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 659</biblScope> 
+                  <date value="1861-12-28">December 28, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> SHIPPING MUNITIONS OF WAR AT THE TOWER FOR CANADA.- SEE NEXT PAGE.</head>
+                  </figure>
+               </p>
+  </div2>
