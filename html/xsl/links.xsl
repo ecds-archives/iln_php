@@ -4,27 +4,29 @@
 
   <xsl:output method="html"/>
 
+  <!-- brief listing of link records (in Dublin Core format) -->
+
   <xsl:template match="/">
     <xsl:apply-templates select="//record"/>
   </xsl:template>
-
+  
   <xsl:template match="record">
     <xsl:element name="p">
-     <xsl:element name="a">
-      <xsl:attribute name="href"><xsl:value-of select="dc:identifier"/></xsl:attribute>
-      <xsl:value-of select="dc:title"/>
-    </xsl:elemeyes ynt>  <!-- a -->
-
-   <xsl:element name="font">
-      <xsl:attribute name="size">-1</xsl:attribute>
-      (<xsl:value-of select="dc:identifier"/>)
-    </xsl:element> <!-- font -->
- 
-    <xsl:element name="br"/>
-
+      <xsl:element name="a">
+        <xsl:attribute name="href"><xsl:value-of select="dc:identifier"/></xsl:attribute>
+        <xsl:value-of select="dc:title"/>
+      </xsl:element>  <!-- a -->
+      
+      <xsl:element name="br"/>
+      <xsl:element name="font">
+        <xsl:attribute name="size">-1</xsl:attribute>
+        (<xsl:value-of select="dc:identifier"/>)
+      </xsl:element> <!-- font -->
+      
+      <xsl:element name="br"/>
+      
       <xsl:value-of select="dc:description"/>
     </xsl:element> <!-- p -->
-
-  </xsl:template>
-
+  </xsl:template>  <!-- end record -->
+  
 </xsl:stylesheet>
