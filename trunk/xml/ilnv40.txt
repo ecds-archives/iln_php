@@ -9692,7 +9692,7 @@ rend="italic">Once A Week.</hi></p></div2>
 <head>AMERICA.</head>
 <bibl>
 <biblScope type="volume">vol. 40</biblScope> 
-           <biblScope type="issue">no. 1143</biblScope> 
+           <biblScope type="issue">no. 1144</biblScope> 
            <biblScope type="pages">p. 464</biblScope> 
            <date value="1862-05-03">May 10,1862</date>
          <extent></extent>
