@@ -1,6 +1,10 @@
-<?xml version="1.0" encoding="emacs-mule"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "iln.dtd"
+[<!ENTITY % iln-entities SYSTEM
+"/Beck-files/ILN/ILNCVS/ilnxml/iln_entities">
+ %iln-entities; ]>
 <TEI.2>
-   <teiHeader type="text">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Civil War: The Illustrated London News
@@ -18,7 +22,7 @@ Perspective</title>
                <addrLine>Atlanta, Georgia</addrLine>
             </address>
             <availability>
-               <p>1996 Emory University.
+               <p>2005 Emory University.
 Permission is granted to download, transmit, or otherwise reproduce,
 distribute or display the contributions to the work claimed by Emory
 University for non-profit educational purposes, provided this header
@@ -26,7 +30,7 @@ is included in its entirety.  For inquiries about commercial uses,
 contact the Lewis H. Beck Center, Woodruff Library, Emory University,
 Atlanta, Georgia 30322</p>
             </availability>
-            <date>2004</date>
+            <date>2005</date>
          </publicationStmt>
          <seriesStmt>
             <title>The Civil War: The Illustrated
@@ -36,7 +40,7 @@ London News Perspective</title>
             <bibl>
                <title>The Illustrated London News</title>
                <biblScope type="volume">Volume 41</biblScope> 
-               <date>JULY to DEC<hi rend="smallcaps">R</hi> 1862</date>
+               <date>July to December 1862</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -45,7 +49,10 @@ London News Perspective</title>
             <p/>
          </projectDesc>
       </encodingDesc>
-      <revisionDesc>
+      <revisionDesc><change><date>March 2005</date>
+          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</resp></respStmt>
+          <item>Encoded text according to TEI guidelines.</item>
+	</change>
       </revisionDesc>
    </teiHeader>
    <text> 
@@ -4135,7 +4142,7 @@ routed him, killing and wounding 300, and capturing their camp.</p>
 
 <p>On the 25th Pope arrived at Manassas Junction, but the Confederates
 under Jackson had evacuated the place three hours before. Jackson
-retreated viúÙ∞“úÙ££entreville. Six miles west of that place Jackson came
+retreated vi‹≤»£entreville. Six miles west of that place Jackson came
 upon the divisions of M'Dowell and Siegel. The Federals report that
 in this fight, which lasted until dark, the Confederates were driven
 back at all points. General Pope claims to have captured from
@@ -4170,7 +4177,7 @@ few miles of the Potomac. The river was then fordable at all points
 above Washington.</p>
 <p>In the west the events of the war are chequered.</p>
 
-<p>The Federals had evacuated BúÙ∞“úÙ´Ôn Rouge, and captured a steamer on
+<p>The Federals had evacuated B‹≤’Øn Rouge, and captured a steamer on
 the River Arkansas laden with 500 stand of arms for General Hindman,
 stationed at Little Rock. The Confederate General Morgan had
 defeated 800 troops, under General Johnson, near Gallatin, in
@@ -6181,7 +6188,7 @@ nauseous pill, which they gild and sweeten by the assurance, which
 they do not themselves credit, that the proclamation itself will
 remain a dead letter. Never were there more unwilling liberators than
 the Northern people, politicians, and army. There was an <hi
-rend="italic">ÅÈlan</hi> about the manner in which this undemocratic
+rend="italic">√©lan</hi> about the manner in which this undemocratic
 British nation set about the work of slave emancipation, in which the
 Autocrat of all the Russias set himself to a similar duty, and in
 which the Emperor of the French proclaimed the liberation of Italy

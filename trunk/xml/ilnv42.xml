@@ -1,6 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "iln.dtd"
+[<!ENTITY % iln-entities SYSTEM
+"/Beck-files/ILN/ILNCVS/ilnxml/iln_entities">
+ %iln-entities; ]>
 
 <TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Civil War: The Illustrated London News
+Perspective</title>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Sandra Still</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>         
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>2005 Emory University.
+Permission is granted to download, transmit, or otherwise reproduce,
+distribute or display the contributions to the work claimed by Emory
+University for non-profit educational purposes, provided this header
+is included in its entirety.  For inquiries about commercial uses,
+contact the Lewis H. Beck Center, Woodruff Library, Emory University,
+Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2005</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>The Civil War: The Illustrated
+London News Perspective</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Illustrated London News</title>
+               <biblScope type="volume">Volume 42</biblScope> 
+               <date>Jan to June 1863</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+	<change><date>March 2005</date>
+          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</resp></respStmt>
+          <item>Encoded text according to TEI guidelines.</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
 <text>
 <body>
 <div1 id="iln42.001" n="Illustrated London News: Volume 42" type="Volume"> 
@@ -10931,400 +10986,632 @@ be desired by Christians; and finally go on to condemn abolitionism in
 terms as strong as those lately adopted by the Bishops of the American
 Church.</p></div2>
 
-  IMPERIAL PARLIAMENT.
-
-HOUSE O' LORDS.-MogtDAy,
-
-Tnv AMERICAN BLOOKADO. -SEIZURE 015 BRITISH VESSELS-The
-
-Marquis of CnaEititAitDo brought forward a motion for paporo lit regard to the protection of British 005rehent-veosels in the West IndIan waters. In a speech of some length he condemned tics conduct of the Federal cruisers in capturing British vessels, and contended that the British Government ought to intrrftrc, even though woe should be too result-East RUSSELL dented that too FsdoroIo had shown any animus against British commerce. The trade of which the Marquis of Clourteardo had spoken was out altogether of
-
-an innocent hind. Representations had, however, heen mode to the Federal
-
-Government against a reckless selsero of ships, and these representatIons had met with every attention.-.The Duke of BOteunosrr also send a totter from
-
-Admiral Mime, In which he stated that all the editors who had anything to do with Admiral WIlkes spoke of his courtesy.
-
-- F., It.- , 0 .tr ........ ii
-MASTER WILLIE PAPE, THE AMERICAN
-
-PIANIST.
-
-Wrrn BenlczsMoRE FAME was born at Mobile,
-
-Alabama, on the 27th of February, 1850. His
-
-talent for music was noticed when only four years old. In 1854 his father commenced giving bier instruction, and such was his progress that he played at an exhibition of the new organ of St. John's Cathedral, in Mobile, one of Baoh's voluntaries, before an audience of over 2000 persons. In 1858 he was admitted a member of the Alabama Philbannonic Society, and up to January, 1881, he had the honour to be a soloist at every concert given by that society.
-
-At this time his father was advised to place him
-
-under some distinguished master in Europe, and for this purpose he left Mobile in January, 1858, and was about taking passage for England when the intelligence arrived, of the secession of Alabama from the Union. This determined his father to remain for a time in New York, until the result of this disunion sentiment should be own. In the meantime the b07 was placed under the tuition of Sebastian Bach Mills, a graduate of Leipsic, with whom he went through a course of classical study.
-
-Master Papa appeared publicly in New York for the first time in May, 1861, in a course of soires at the Stuveysoent Institute, with Mdme. Anna Bishop, and astonished the public by his extraordinary execution and wonderful memory.
-
-In July he made his first appearance at the Academy of Music, New York, playing pieces by Beethoven, Thalberg, and Liszt. In February, 1862, he accepted an engagement in Havannah, where he secured the patronage of the Captain-General, Count Serrano. Alter spending a few weeks in Havannah he returned to the United States, and was invited by the Philharmonic Society of Brooklyn to be their soloist at their concert of the 8th of May, at which he met with the most marked success, both from the audience and the press. Alter a short engagement in New York with Mdlle. Pat ti and other distinguished artists, he took a tour through Canada, making the acquaintance of the Governor-General, Lord Munok, and other noblemen and gentlemen, who took a kindly interest in the young pianist and gave him introductory letters to many influential personages in England. Master Pa1=.
-
-Rooms his first public appearance in England
-
-at  Pu's matine at the Hanover-square
-
-on April 27, where he made a most success
-
-ful debut, and was highly spoken of by all the leading journals. He has since played again at the Hanover-square Booms and at St. James's Hall with great applause, and he has altogether, during the short time he has been in England, a legitimate and marked success.
-WAR AIM PORT =MON.
-
-According to the last intelligence from America little progress baa
-
-been made by either party in any quarter.
-
-Viokeburg and Port Hudson still held out. General Grant repocta that the siege of the former was progressing satisfactorily; bag tho Southern ad-vices state that General Pemberton has announced his confidence of holding the fortress, and that General Jhnatone was to
-
-take his time to organise his forces.
-
-Richmond papers of the 6th publish the following speech of General Pemberton to his army:
-
-You have heard that I was incompetent, a traitor, and that it was my
-
-intention to sell Vickaburg. Follow me, and you wiU see too coat at which l
-
-will cell Vickaburg; when the last pound of beef, bacon, and ftae, the last
-
-grain of corn, the loot cow and long, liorco and dog, shall have been Consumed,
-
-and the lest man atoll have perished in the trenches-then, and only then.
-
-will I cell Yickobsrg.
-
-A special correspondent of the New York- Times, writing from the Federal head-quarters near Vickabuxg, states that after some of the assaults on the place many of the wounded lay where they fell for
-
-nearly four days, and that "the proportion of living to dead was
-
-terribly emaIl," Few of those brou?lit off alive were likely to recover. In reference to the defences of Vicksburg, the same correspondent says
-
-The rebels are, indefatigable in their efiorts to strengthen their works. Every
-
-noorcieg reveals the erection of a new work, the repairing of an old one or the plenting of batteries in new positions. Yesterday mooning they aslontefied our forces on the right by opening up= them with two now guns-one a mouth 04 end the other a rifled Ill pounder. In fact, from on appearances,
-
-they are as busy digging within as we are without; the morning roar of a new gun from our aide to smelly answered with delianue by some night-grown battery on theirs; and, in short, when we move they countermove; we mine and they countermine; and If we seemed In blowing tap or carrying their first line of works we shall probably find another loomeoliatofy In its rear.
-
-General Johastone was concentrating a large force, and it was thought that his attack on the Federal rear would not belong delayed. As a preliminary movement, it is said that the Confederate General
-
-Kirby Smith had occupied Milliken'e Bend, above Viokeburg, cutting
-
-off General Grant's euppliee.
-
-Admiral Porter ofSeially reports that he sent another expedition up the Yaooo which destroyed nine Confederate transports. Admiral
-
-Porter ade that, with the exception of some few steamers beyond Fort Pembert on, the Confederates can now transport nothing on the Yacoo
-
-General Banks was puohin the siege of Port Hudson, but acreunta from Mobile assert that the l'edsrala had been repulsed and that the General had lost his arm, The General reported that the behaviour of
-
-the negro soldiers during the assault was heroic. All accounts of the conduct of the black troops sent into battle by the Fodorale at Port Hudson cancer in stating that they fought with great ferocity, The It
-jV Orl.ana Express &lso intimates. that their appearance much
-
-exasperated the Southerners, and that the latter gave no quarter.
-
-A correepondent of the Cincinnati Inquires' writes from Mississippi
-
-that the whole country from Milhiken's Bond to Hard Pines, opposite
-
-arena G1f, a distance of sixty miles, is one "abomination of deso
-
-lation"
-
-It has been an earthly paradise; lordly palaces filled with pictures, statues, . articles of virus; beautiful gardens, teeming with floral beauties, are now all laid waste. In those magnificent halls where Southern beauty and chivalry were 'went to revel, soldiers k their despised with fires built out of rosewood chairs and curiously-carved furniture, sleep on cotton beds 'worth.sOdole. each, and in the morning abandon all to the horde of fifty bungry negroes, who follow the stony and, gather its refuse, like troops of unclean birds which smell the carcass from afar. Among these rich nabobs same excelled the Hon. John Perkins. His dwelling is magnificent even in its rains, and his gardens are still fragrant with acres of roses. When General luau catered New Orleans he chartered the Magnolia, one of the largest boats on the river, pest his most valuable slaves, pictures, plate, cattle, &c., on board, and set fire to the rest. Far seven miles his land blazed with 1000 bales of burning cotton and granaries of corn. His honed, with fnrnirurs which cast 200,000 dole, In Paris, end the houses of his overseers, all were fired, while he stood on the bank and watched the mighty conflagration. In the morning he embarked, a ruined man. I had never dreamed of such Arabian magnificence as I find in the ruins of the houses of these rich planters. In one garden I found no lees than seven hundred varieties of roses. This is, I believe, the largest collection In America. There are not more than three in Europe that equal it.
-
- Tim WAR flO VIRGINIA,
-
-The report that General Leo had evacuated Fredericksburg and that Hooker had occupied the city was untrue. It appoars that, in consequence of the withdrawal of a Confederate brigade from Predeiioksburg, General Hooker sent a division across the Rappahannook at Deel) Run to reconnoitre. This division crossed in face of a heavy dre from the Confederate rifle-pits on the opposite shore, and, after capturing 100 Confederates in therifle-pits andasiertaining that Leaogstreet was there in force, crossed the river with the lose of forty men.
-
-Onk.he 9th there was a Fevers cavalry engagement on the Rappa
-
-]iencek. Lee had assembled a force of cavalry at Onipepper Courthouse for a raid into Maryland, and three brigades of Federal oavalry and 2000 infantry crossed the river at Beverley Ford to attack them.
-
-A fight ensued, 'which lasted all day, when, heavy infantry reinforce-ments reaching the Confederates the Fedarals retired taking with thorn their dead end wounded. ha object of the expedition, to pre'vent the raid, is said to have been accomplished.
-
-The .ZView Th* Times thus epitomises the great cavalry fight beyond
-
-the Rappahsnnook
-
-At daylight on Tuesday, the 0th, General Pleasa'oton crossed the Kappahassock in two columns, the right at Beverley's Ford and the left at Kelly's Ford, both fords being captured without much loss. Trio right column, commanded by BnBord, a mile from the river, canoe upon a brigade of Confederate cavalry just aroused from their sleep, when the fight commenced, and continued from five am, till three p.m., by which time the entire Confederate force, under general Stuart, consisting of 12,000 cavalry and 10 pieces of artillery, had been engaged, and driven back three miles on the right and five on the left with alight lees, the left column, under Gregg, having formed a junction with the right about two p.m. near Brandy Station. At three o'clock the fight was discontinued, the rebels having been driven back upon strong infantry supports, which were hurried up by rail from Ceilpepper, supposed to be a part of General Longstreet's force; and our forces returned almost unnoolcsteel to this ride of the river, The Confederate force proved to be more numerous than ours; but, notwithstanding this advantage, they were driven back with a'less of twenty and a stand of colours. Important papers were taken in the camps, by which it appears that General Stuart was to start on his great raid through the loyal States, passing through the Shenandoah Valley. This enterprise has new probably been postponed for a time.
-
- Several ylundering expeditions have been sent in different directions
-
-by the Fe derals, and a great deal of property has been destroyed.
-
-SiXSOP,LJ,,A2IEOlla. The Democratic State Convention of Ohio, after having unanimously
-
-nominated Mr. Vallandigham for the governorship, appointed a committee to demand his release of the President. Mr. Vallandigham is said to have reached a Southern port, intending to sail for Nassau.
-
-,The Governor of Illinois has prorogued the State Legislature till the 18th inst. Sixty-free Republicans left the Legislature, thereby preventing a quorum; but the Democrats refused to r000guise the prorogation, and entered a protest against the Governor for unconstitutional usurpation end the revolutionary breaking up of the Legislature. The Governor's pretext for his action was that there was disagreement between both Houses on the subject of adjournment. Great indignation was manifested among the Democrats,
-
-A meeting has been held to raise 10,000 negroes for General Fremont. It was announced that President Lincoln had consented to give Prescient a department if negroes were raised.
-
--President Lincoln, in reply to a Missouri committee of Germans,
-
-stated that Generals Fremont, Siegel, and Butler were not system
-
-atically kept out of commend, but had y their own action placed themselves in their present position. He said that he favoured gradual emancipation. His being President might be a misfortune; but having been elected he meant to be President, and perform his duty if he died for it.
-
-The enrolment is being resisted in Indiana. The Provost Marshal and his assistants have been shot. Considerable excitement prevails, and a military force has been sent to the scene of disorder.
-
-General M'OIellan has reviewed two returned regiments from the balcony of the Fifth Avenue Hotel. Tremendous enthusiasm was displayed for him by the soldiers and people.
-
-A Democratic meeting has been called in Brooklyn to denounce the
-
-usurpation of the Administration.
-
-The editors of the New York journals have passed resolutions
-
-asserting their right to criticise the acts of the Administration and its subordinates, and denying the right of the military to suppress papers published fax from the seat of war.
-
-A strike of the stevedores and longahore men is assuming a for
-
-midable shape in New York, end all the men refusing to join are
-
-threatened with violence. The Government vessels are being loaded by Government officials under a guard of soldiers for their protection against the loosgehore men.
-
-In the case of the Dolphin it has been derided that a vessel sailing
-
-for Nassau with the intention of proceeding thence to a blockaded
-
-Fort is equally liable to capture as if she were bound direct to the
-
-locaded port. A similar decision had been given in the ease of the
-
-Eight schooners are reported to have been captured in the Gulf,
-
-President Davis has revoked the exequatur of the British Consul at Biobmond for disregarding the legal authority of the Confederate Government in assuming to act as Consul for other cities than Ilichmcnd and other States than Virginia.
-'We have received from 3eaera. Bacon wad. Co., Paterno ;tow.
-
-row, copies of Hare's Map of the Vicinity of Rich mind end he Peninsular
-
-Campaign ice Virginia; a Topographical Map of Loa lelaca, Mississippi, and Alabama; and a large Map of the State of Virginia- all published by S. K Caltoo, of New York. The first of the above valoabli nape is compiled from the official nape of the War Department at Washing too, and they will all be found moat useful in eempreheedieg the great milita ry struggle of which the
-
-S totes above named form the some. -
-THE BATTLE-FIELDS OF YIRGBIIU.
-
-Wz present our readers with a carefully-prepared Map of the great B
-
-battle-fields round Washington and Richmond. The majority of the M
-
-apiled. with sufficient care le hitherto published have not beau our
-
-knowledge to rander them reliable or Intelli ant guides in the fr
-
-grant milLts" movements that have been follove with so much in- on
-
-terest. We understand, however, that au officer of neral O's p
-
-army who served with that General a 0 Too a and h
-
-Long;h~ot from the beginning of the shrug a a hattl of e;
-
-dorlokaburg, is in England and preparing tic series of q
-
-of the war. b
-
-The successive campaigias of MiClellen rope, Burnside and
-
-Hooker are no doubt fresh in the memory ol our readers. We map fr
-
-which we offer them will, however enable them more clearly to dis- r
-
-Oem the positions of the contou&g forces and to appreciate the I
-
-B gin art by which Rio ox~d as ng on, in, t eat d and aef (is it
-
-oli ebri'lauliS! .3' Vaelso , In d t ding a hure rMA vemonts of i a 01 tote Of 'Vi in pr ability be yet the scene.
-
-*ith this preface we will proceed to a more detailed. account of the8
-
-'various battles. The country represented on the map is about 200 p miles long by 110 broad, The battles fought thereon ranged, there- p
-
-fore, over a Pliatio similar to that extending between. London and J
-
-the Scattish border. The figures used, it wilL be soon, are of two characters, The larger denote twerity-four successive bettle-fields, of more or less importance; the smallermilicate the several occasions and the various routes by which the masterly marches of the late General Jackson to the rear of the Federal arming contributed. to defeat their purpose. It should she be wild thak, for the purpose
-
- of avoiding mmecossaxy detail and. consequent confusion, no towns have been denoted. upon our map save such as are of military or i stratooo importance. We shall now proceed to explain: the battlefields in detail, and. in their arithmetical, which will also be found to be their cluronological, order, 1. Yorktown (from April 6 to May 4, 186Z).-It was from this lpiut that the first noxious advance upon Richmond was niade. It will be remembered that when General M'Clolhm approached Richmond from Fort Monroe, with a~na
-
-t7x4oof 158.000 man and a large fleet of gun-boate, the conied neral M'Gruder (now in Texas) throw a line of worts across from Yorktown to the James River, distance, about twelve miles. A portion of it, however, was composed of mffi-dams and avveraps. General Joseph Johnston arrived with his army from the Rappahannock in time to stop the gogress of the Federal General, who could otherwise have proceeded
-
-I ally to Richmond, as MIGrador only had 6000 men under his earnmand. Upon General M'Clellan being reinforced by his iron- dad
-
-boa-ts Johnston had to abandon his works, lest his suppliep, w reached him. by steamers, &a., on York River, should be out off. There were several sanguinary assaults upon Johnston's works; hub they failed, with considerable lose to thoFwlerds. Artillery duds ontinued for some forty days.
-
-2. At Williamsburg (May 5, 1862) the Fedonds fall with force upon Johnston's rear as he retired towards Richmond. This 'action was very hotly contested, and resuitea iri Frost slaughter, the total killed and wounded reaching 6400, The Frost fought long and well; but they could not ourapeas impossibilities-the state of the roads and the heraig endurance of the Confederates baflling all their efforts.
-
- 3. Barhomaville (May 7th).-Here General MIOIeU= next landed 20,000 man, supported by a fleet of vessels, intraiding to out off the rigarguard and waggon-train of Johnston, under command of General G. W. Smith, which must necessarily pass within two miles of this point. General Smith directed Brigaffier-General Whiting with 8000 men, to attack this force and drive them back to their boa;e. So un
-
-Uhad an attack in the dense forests, where Texan rifles lurked
-
-K= every Use, had its offbob~ and that trains passed in safety all that day.
-
-4. "The Seven Pines" and "The Fair Oaks" (May 31 and June 1).-General Johnston, ban followed by M'Olellan across the Chiokahominy, turned upon and attacked him. The action ceasad after dark, General Johnston being severely wounded. The lationes
-
-of the hour and the lose of General Johnston rendered the hard day,: struggle fruitless, although the Confederates hold the field. On the let Of June, 18G2, General Lee assumed the general oommand. of the Confederate forces.
-
-5 and 6. Battles near Mechanicsville (June 26).-Gonoral Jackson at this time was near liechroYa River. General Lee, knowing that General M'Olellan had spies in Richmond, used them to mialewl him. He ordered General Whiting to take a division and proceed by niglit,
-
-th d diapshoh, vi9L Lynchburg and Charlottesville, to
-
-el onhoTs Rrv~enr (about 200 miles), and rop art to General Jackson.
-
-While General M'Clellau wag tologrWhing to President Lincoln in Washington, and General Banks at thheater, to look out for Stonewall Jackson, who had been thus heavily minforoad and might threaten either place, Jackson was, by forced marches (sea I and arrows denoting his route), taking those very reinforcements back towards Richmond; and before M'Olellan suspected it he was in his re~ some miles norbh-eastof Mechanicsville. AlsoonaoLooknewof Ja son's arrival at ABbland, treat and Hill passed the Chialtahominy and oval c~fbqoiihaniosvillo and on Thursday, June 26, begari. a series at battles in which the iNderala fought well and long, but were only saved Zrom. entire destruction by the slow moveineite of one of the Confederate Generals and.the admirable had and skill of General M'CIOUSIL in the rise of his splendid and. numorousaxtillory. Those battles continued for maven days, and were fought onty-five ea a a , 0 ead man Rua horgen wa, no, rumnou, nmiums  eta, &a.
-
- 7. Cold arbour and Gains ,  age were the battle-fields of
-
-Juns27, when Gortaral1loo(PoTexims, at command of General Whiting, stormed the triple works of Mfolellan; and Jackson, Longstoot, the Hills, &a., fought over miles of ground.
-
-8. Battles were fought at White Oak Swamp, subd&7 and Monday,
-
-June 29-30.
-
-9- Malvern Hill- the scene Of the terrible action of Tuesday, July 1.
-
-In the abo-ve angagereenlig the losses can hardly be estimstDd, They have been computed from 25,000 to 30,000. Thoirresultwaiito deliver Richmond and to endanger Washington.
-
-10. Second battle at Malvern Hill (August 5-6).
-
-11. August 8 and-9-imokson, whose line of March will be found denoted by the smaller figure 2 and arrows, hero defoatod Banks at Cedar Mountain (MISD Called 11 South-vast Mountain- anti
-
-Slaughter's Mountain ") ; loss about 25 )OD.
-
-12-Artillory duel and skirmishing were continued along the Rappahannock River.
-
-18, August 29 and 30_4ackson. here fought the second battle Of
-
-Maryland. he detached -several batteries of artillery, with sufficient ape to guard them, and had them secretly posted upon the London sights, rpA08ibe the Shenandoah side of Harper's Ferry, and on the
-
-arylaud. eights, on the Potomac side. About the time that these
-
-atteries were getting into position Jackson, diverged from the road
-
-am Boonaboro' to Hagerstown, which General Lee took, and pur
-
-ed the road leading to a ford ova the Potamao River at Williams
-
-orb. His course is ixidioated. by fig. 4 and exrows, By this means
-
-drove a large force of Federals out of Martinsburg saul followed
-
-henitollarpor's a , av g en as 0 1 a a
-
-Red OIL am 0 t a oudon eights, and ey too rel
-
-w a r
-
-B tithe ro 11 on the or side of 0 hill hot ~es ne TOb t
-
- hem from the Mearyland Heights, Jackson me w i a Ing t
-
-am big position in the rear. The place, being unte a, as
-
-adored, with very large shares, artillery, in ets, a..  out
-
-3,000 prisonon were taken, including nearly 12,000 Federal soldiers.
-
-The surrender of Haxpor'ii Ferry was inwle on Alonday. That night
-
-TacksDa marched. to Shephord'a-town, and on Tuesday night was on eneral. Laela~lelb at Sharpaburg, engaging in the battle which culminated on Wednesday.
-
-19. On the night of Sept. 14 General Lee withdrew big men from outh Mountain, in consequence of General U401ellanhaTing obtained ossession. of Crampton's Gap, loading directly to Sharpsburg; and, roceedinR to the latter position, he t-here awaitod the coming of ackson. GenexulAl'Olellan followed him on Monday afternoon (16th),
-
+<div2 id="iln42.1209.003" n="Imperial Parliament." type="Article">
+<head>IMPERIAL PARLIAMENT.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1209</biblScope>
+<biblScope type="pages">p. 670</biblScope>
+<date value="1863-06-20">June 20, 1863</date>
+<extent></extent>
+</bibl>
+
+<p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
+<p rend="center">HOUSE OF LORDS.--MONDAY.</p>
+<p><hi rend="smallcap">The American Blockade.--Seizure Of British
+Vessels</hi>.--The Marquis of <hi rend="smallcap">Clanricarde</hi>
+brought forward a motion for papers with regard to the protection of
+British merchant-vessels in the West Indian waters. In a speech of
+some length he condemned the conduct of the Federal cruisers in
+capturing British vessels, and contended that the British Government
+ought to interfere, even though war should be the result.--Earl <hi
+rend="smallcap">Russell</hi> denied that the Federals had shown any
+animus against British commerce. The trade of which the Marquis of
+Clanricarde had spoken was not altogether of an innocent
+kind. Representations had, however, been made to the Federal
+Government against a reckless seizure of ships, and these
+representations had met with every attention.--The Duke of <hi
+rend="smallcap">Somerset</hi> also read a letter from Admiral Milne,
+in which he stated that all the editors who had anything to do with
+Admiral Wilkes spoke of his courtesy.</p></div2>
+
+<div2 id="iln42.1209.003" n="The Queen has Approved." type="Article">
+<head>[THE QUEEN HAS APPROVED]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1209</biblScope>
+<biblScope type="pages">p. 679</biblScope>
+<date value="1863-06-20">June 20, 1863</date>
+<extent></extent>
+</bibl>
+
+<p>The Queen has approved of Mr. Ludwig Wiese as Consul at Victoria
+Hong-Kong, for the King of Sweden and Norway; and of Mr. Walter
+Graham as Consul at Cape Town for the United States of
+America.</p></div2>
+
+<div2 id="iln42.1209.004" n="Master Willie Pape, the American Pianist." type="Article">
+<head>MASTER WILLIE PAPE, THE AMERICAN PIANIST.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1209</biblScope>
+<biblScope type="pages">p. 681</biblScope>
+<date value="1863-06-20">June 20, 1863</date>
+<extent></extent>
+</bibl>
+
+<p rend="center">MASTER WILLIE PAPE, THE AMERICAN</p>
+<p rend="center">PIANIST.</p>
+<p><hi rend="smallcap">Willie Barnesmore Pape</hi> was born at Mobile,
+Alabama, on the 27th of February, 1850. His talent for music was
+noticed when only four years old. In 1854 his father commenced giving
+him instruction, and such was his progress that he played at an
+exhibition of the new organ of St. John's Cathedral, in Mobile, one of
+Bach's voluntaries, before an audience of over 2000 persons. In 1858
+he was admitted a member of the Alabama Philbannonic Society, and up
+to January, 1861, he had the honour to be a soloist at every concert
+given by that society.</p>
+<p>At this time his father was advised to place him under some
+distinguished master in Europe, and for this purpose he left Mobile in
+January, 1858, and was about taking passage for England when the
+intelligence arrived of the secession of Alabama from the Union. This
+determined his father to remain for a time in New York, until the
+result of this disunion sentiment should be known. In the meantime the
+boy was placed under the tuition of Sebastian Bach Mills, a graduate
+of Leipsic, with whom he went through a course of classical study.</p>
+<p>Master Pape appeared publicly in New York for the first time in
+May, 1861, in a course of soir&#x00E9;es at the Stuveyscent Institute, with
+Mdme. Anna Bishop, and astonished the public by his extraordinary
+execution and wonderful memory.</p>
+<p>In July he made his first appearance at the Academy of Music, New
+York, playing pieces by Beethoven, Thalberg, and Liszt. In February,
+1862, he accepted an engagement in Havannah, where he secured the
+patronage of the Captain-General, Count Serrano. Alter spending a few
+weeks in Havannah he returned to the United States, and was invited by
+the Philharmonic Society of Brooklyn to be their soloist at their
+concert of the 8th of May, at which he met with the most marked
+success, both from the audience and the press. After a short
+engagement in New York with Mdlle. Patti and other distinguished
+artists, he took a tour through Canada, making the acquaintance of the
+Governor-General, Lord Munck, and other noblemen and gentlemen, who
+took a kindly interest in the young pianist and gave him introductory
+letters to many influential personages in England. Master Pape made
+his first public appearance in England at Mdme. Puzzi's matin&#x00E9;e
+at the Hanover-square Rooms on April 27, where he made a most successful
+d&#x00E9;but, and was highly spoken of by all the leading journals. He has
+since played again at the Hanover-square Rooms and at St. James's Hall
+with great applause, and he has altogether, during the short time he
+has been in England, achieved a most legitimate and marked
+success.</p></div2>
+
+<div2 id="iln42.1210.001" n="Foreign and Colonial News: America." type="Article">
+<head>FOREIGN AND COLONIAL NEWS: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1210</biblScope>
+<biblScope type="pages">p. 686</biblScope>
+<date value="1863-06-27">June 27, 1863</date>
+<extent></extent>
+</bibl>
+
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
+<p rend="center">AMERICA.</p>
+<p rend="center"><hi rend="smallcap">War News.--Vicksburg and Port
+Hudson.</hi></p>
+<p>According to the last intelligence from America little progress
+has been made by either party in any quarter.</p>
+<p>Vicksburg and Port Hudson still held out. General Grant reports
+that the siege of the former was progressing satisfactorily; but the
+Southern advices state that General Pemberton has announced his
+confidence of holding the fortress, and that General Johnstone was to 
+take his time to organise his forces.</p>
+<p>Richmond papers of the 6th publish the following speech of General
+Pemberton to his army:--</p>
+<q><p>You have heard that I was incompetent, a traitor, and that it
+was my intention to sell Vicksburg. Follow me, and you will see the
+cost at which I will sell Vicksburg; when the last pound of beef,
+bacon, and flour, the last grain of corn, the last cow and hog, horse
+and dog, shall have been consumed, and the last man shall have
+perished in the trenches--then, and only then, will I sell
+Vicksburg.</p></q>
+<p>A special correspondent of the <hi rend="italic">New York
+Times</hi>, writing from the Federal head-quarters near Vicksburg,
+states that after some of the assaults on the place many of the
+wounded lay where they fell for nearly four days, and that "the
+proportion of living to dead was terribly small." Few of those brought
+off alive were likely to recover. In reference to the defences of
+Vicksburg, the same correspondent says:--</p>
+<q><p>The rebels are indefatigable in their efforts to strengthen
+their works. Every morning reveals the erection of a new work, the
+repairing of an old one or the planting of batteries in new
+positions. Yesterday morning they astonished our forces on the right
+by opening upon them with two new guns--one a smooth 64 and the other
+a rifled 82 pounder. In fact, from all appearances, they are as busy
+digging within as we are without; the morning roar of a new gun from
+our side is usually answered with defiance by some night-grown battery
+on theirs; and, in short, when we move they countermove; we mine and
+they countermine; and if we succeed in blowing up or carrying their
+first line of works we shall probably find another immediately in
+its rear.</p></q>
+<p>General Johnstone was concentrating a large force, and it was
+thought that his attack on the Federal rear would not be long
+delayed. As a preliminary movement, it is said that the Confederate
+General Kirby Smith had occupied Milliken's Bend, above Viokeburg,
+cutting off General Grant's supplies.</p>
+<p>Admiral Porter offcially reports that he sent another expedition up
+the Yazoo which destroyed nine Confederate transports. Admiral Porter
+adds that, with the exception of some few steamers beyond Fort
+Pemberton, the Confederates can now transport nothing on the
+Yazoo.</p>
+<p>General Banks was pushing the siege of Port Hudson, but accounts
+from Mobile assert that the Federals had been repulsed and that the
+General had lost his arm. The General reported that the behaviour of
+the negro soldiers during the assault was heroic. All accounts of the
+conduct of the black troops sent into battle by the Federals at Port
+Hudson concur in stating that they fought with great ferocity. The <pb
+n="687"/><hi rend="italic">New Orleans Express</hi> also intimates
+that their appearance much exasperated the Southerners, and that the
+latter gave no quarter.</p>
+<p>A correspondent of the Cincinnati <hi rend="italic">Inquirer</hi>
+writes from Mississippi that the whole country from Milliken's Bend to
+Hard Pines, opposite Grand Gulf, a distance of sixty miles, is one
+"abomination of desolation."</p>
+<q><p>It has been an earthly paradise; lordly palaces filled with
+pictures, statues, articles of virt&#x00F9;; beautiful gardens, teeming
+with floral beauties, are now all laid waste. In those magnificent
+halls where Southern beauty and chivalry were wont to revel, soldiers
+cook their despised "sow-belly" with fires built out of rosewood chairs and
+curiously-carved furniture, sleep on cotton beds worth 50 dols. each,
+and in the morning abandon all to the horde of fifty hungry negroes,
+who follow the army and gather its refuse, like troops of unclean
+birds which smell the carcass from afar. Among these rich nabobs none
+excelled the Hon. John Perkins. His dwelling is magnificent even in
+its ruins, and his gardens are still fragrant with acres of
+roses. When General butler entered New Orleans he chartered the
+Magnolia, one of the largest boats on the river, put his most
+valuable slaves, pictures, plate, cattle, &amp;c., on board, and set fire
+to the rest. For seven miles his land blazed with 5000 bales of
+burning cotton and granaries of corn. His house, with furniture which
+cost 200,000 dols. in Paris, and the houses of his overseers, all were
+fired, while he stood on the bank and watched the mighty
+conflagration. In the morning he embarked, a ruined man. I had never
+dreamed of such Arabian magnificence as I find in the ruins of the
+houses of these rich planters. In one garden I found no less than
+seven hundred varieties of roses. This is, I believe, the largest
+collection in America. There are not more than three in Europe that
+equal it.</p></q>
+
+<p rend="center"><hi rend="smallcap">The War In Virginia.</hi></p>
+<p>The report that General Lee had evacuated Fredericksburg and that
+Hooker had occupied the city was untrue. It appears that, in
+consequence of the withdrawal of a Confederate brigade from
+Fredericksburg, General Hooker sent a division across the Rappahannock
+at Deep Run to reconnoitre. This division crossed in face of a heavy
+fire from the Confederate rifle-pits on the opposite shore, and, after
+capturing 100 Confederates in the rifle-pits and ascertaining that
+Longstreet was there in force, crossed the river with the loss of
+forty men.</p>
+<p>On the 9th there was a severe cavalry engagement on the
+Rappahannock. Lee had assembled a force of cavalry at Culpepper
+Courthouse for a raid into Maryland, and three brigades of Federal
+Cavalry and 2000 infantry crossed the river at Beverley Ford to attack
+them. A fight ensued, which lasted all day, when, heavy infantry
+reinforcements reaching the Confederates, the Federals retired, taking
+with them their dead and wounded. The object of the expedition, to
+prevent the raid, is said to have been accomplished.</p>
+<p>The <hi rend="italic">New York Times</hi> thus epitomises the great
+cavalry fight beyond the Rappahannock:--</p>
+<q><p>At daylight on Tuesday, the 9th, General Pleasanton crossed the
+Rappahannock in two columns, the right at Beverley's Ford and the left
+at Kelly's Ford, both fords being captured without much loss. The
+right column, commanded by Bufford, a mile from the river, came upon a
+brigade of Confederate cavalry just aroused from their sleep, when the
+fight commenced, and continued from five a.m., till three p.m., by which
+time the entire Confederate force, under General Stuart, consisting of
+12,000 cavalry and 16 pieces of artillery, had been engaged, and
+driven back three miles on the right and five on the left with slight
+loss, the left column, under Gregg, having formed a junction with the
+right about two p.m. near Brandy Station. At three o'clock the fight
+was discontinued, the rebels having been driven back upon strong
+infantry supports, which were hurried up by rail from Culpepper,
+supposed to be a part of General Longstreet's force; and our forces
+returned almost unmolested to this side of the river. The
+Confederate force proved to be more numerous than ours; but,
+notwithstanding this advantage, they were driven back with a loss of
+twenty and a stand of colours. Important papers were taken in the
+camps, by which it appears that General Stuart was to start on his
+great raid through the loyal States, passing through the Shenandoah
+Valley. This enterprise has now probably been postponed for a
+time.</p></q>
+<p>Several plundering expeditions have been sent in different
+directions by the Federals, and a great deal of property has been
+destroyed.</p>
+
+<p rend="centeR"><hi rend="smallcap">Miscellaneous.</hi></p>
+<p>The Democratic State Convention of Ohio, after having unanimously
+nominated Mr. Vallandigham for the governorship, appointed a committee
+to demand his release of the President. Mr. Vallandigham is said to
+have reached a Southern port, intending to sail for Nassau.</p>
+<p>The Governor of Illinois has prorogued the State Legislature till
+the 18th inst. Sixty-five Republicans left the Legislature, thereby
+preventing a quorum; but the Democrats refused to recognise the
+prorogation, and entered a protest against the Governor for
+unconstitutional usurpation and the revolutionary breaking up of the
+Legislature. The Governor's pretext for his action was that there was
+disagreement between both Houses on the subject of adjournment. Great
+indignation was manifested among the Democrats.</p>
+<p>A meeting has been held to raise 10,000 negroes for General
+Fremont. It was announced that President Lincoln had consented to give
+Fremont a department if negroes were raised.</p>
+<p>President Lincoln, in reply to a Missouri committee of Germans,
+stated that Generals Fremont, Siegel, and Butler were not
+systematically kept out of command, but had by their own action placed
+themselves in their present position. He said that he favoured gradual
+emancipation. His being President might be a misfortune; but having
+been elected he meant to be President, and perform his duty if he died
+for it.</p>
+<p>The enrolment is being resisted in Indiana. The Provost Marshal and
+his assistants have been shot. Considerable excitement prevails, and a
+military force has been sent to the scene of disorder.</p>
+<p>General M'Clellan has reviewed two returned regiments from the
+balcony of the Fifth Avenue Hotel. Tremendous enthusiasm was displayed
+for him by the soldiers and people.</p>
+<p>A Democratic meeting has been called in Brooklyn to denounce the
+usurpation of the Administration.</p>
+<p>The editors of the New York journals have passed resolutions
+asserting their right to criticise the acts of the Administration and
+its subordinates, and denying the right of the military to suppress
+papers published far from the seat of war.</p>
+<p>A strike of the stevedores and longshore men is assuming a
+formidable shape in New York, and all the men refusing to join are
+threatened with violence. The Government vessels are being loaded by
+Government officials under a guard of soldiers for their protection
+against the longshore men.</p>
+<p>In the case of the Dolphin it has been decided that a vessel
+sailing for Nassau with the intention of proceeding thence to a
+blockaded port is equally liable to capture as if she were bound
+direct to the blockaded port. A similar decision had been given in the
+case of the Pearl.</p>
+<p>Eight schooners are reported to have been captured in the Gulf.</p>
+<p>President Davis has revoked the exequatur of the British Consul at
+Richmond for disregarding the legal authority of the Confederate
+Government in assuming to act as Consul for other cities than
+Richmond and other States than Virginia.</p></div2>
+
+<div2 id="iln42.1210.002" n="Map of the Seat of War in Virginia.--See
+      Page 702." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.42</biblScope>
+<biblScope type="issue">no.1210</biblScope>
+<biblScope type="pages">p. 689</biblScope>
+<date value="1863-06-27">June 27, 1863</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="v42p689">
+<head>Map of the Seat of War in Virginia.--See
+      Page 702.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln42.1210.003" n="We Have Received" type="Article">
+<head>[WE HAVE RECEIVED]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1210</biblScope>
+<biblScope type="pages">p. 694</biblScope>
+<date value="1863-06-27">June 27, 1863</date>
+<extent></extent>
+</bibl>
+
+<p>We have received from Messrs. Bacon and. Co., Paternoster-row,
+copies of Hare's Map of the Vicinity of Richmond and he Peninsular
+Campaign in Virginia; a Topographical Map of Louisiana, Mississippi,
+and Alabama; and a large Map of the State of Virginia--all published
+by J. H. Colton, of New York. The first of the above valuable maps is
+compiled from the official maps of the War Department at Washington,
+and they will all be found most useful in comprehending the great
+military struggle of which the States above named form the
+scene.</p></div2>
+
+<div2 id="iln42.1210.004" n="The Battle-fields of Virginia." type="Article">
+<head>THE BATTLE-FIELDS OF VIRGINIA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1210</biblScope>
+<biblScope type="pages">p. 702</biblScope>
+<date value="1863-06-27">June 27, 1863</date>
+<extent></extent>
+</bibl>
+
+<p rend="center">THE BATTLE-FIELDS OF VIRGINIA.</p>
+<p><hi rend="smallcap">We</hi> present our readers with a
+carefully-prepared Map of the great battle-fields round Washington and
+Richmond. The majority of the Maps hitherto published have not been
+compilied with sufficient care and knowledge to render them reliable
+or intelligent guides in the great military movements that have been
+followed with so much interest. We understand, however, that an
+officer of General Lee's army who served with that General and
+Generals Jackson and Longstreet from the beginning of the struggle
+until the battle of Fredericksburg, is in England and preparing an
+authentic series of maps of the war.</p>
+<p>The successive campaigns of M'Clellan, Pope, Burnside, and Hooker
+are no doubt fresh in the memory of our readers. The map which we
+offer them will, however, enable them more clearly to discern the
+positions of the contending forces and to appreciate the strategic art
+by which Richmond and Washington, the two capitals of the rival
+States, have been in turn threatened and defended. It will be found
+useful, also, in understanding the future military movements of which
+the old State of Virginia will in all probability be yet the
+scene.</p>
+<p>With this preface we will proceed to a more detailed account of the
+various battles. The country represented on the map is about 200 miles
+long by 140 broad, The battles fought thereon ranged, therefore, over
+a space similar to that extending between London and the Scottish
+border. The figures used, it will be seen, are of two characters. The
+larger denote twenty-four successive bettle-fields, of more or less
+importance; the smaller indicate the several occasions and the various
+routes by which the masterly marches of the late General Jackson to
+the rear of the Federal armies contributed to defeat their purpose. It
+should also be said that, for the purpose of avoiding unnecessary
+detail and consequent confusion, no towns have been denoted upon our
+map save such as are of military or strategic importance. We shall
+now proceed to explain the battlefields in detail, and in their
+arithmetical, which will also be found to be their chronological,
+order.</p>
+<p>1. Yorktown (from April 6 to May 4, 1862).--It was from this point
+that the first noxious advance upon Richmond was made. It will be
+remembered that when General M'Clellan approached Richmond from Fort
+Monroe, with an army of 158,000 men and a large fleet of gun-boats,
+the Confederate General M'Gruder (now in Texas) threw a line of works
+across from Yorktown to the James River, distance, about twelve
+miles. A portion of it, however, was composed of mill-dams and
+swamps. General Joseph Johnston arrived with his army from the
+Rappahannock in time to stop the progress of the Federal General, who
+could otherwise have proceeded directly to Richmond, as M'Gruder only
+had 5000 men under his command. Upon General M'Clellan being
+reinforced by his iron-clad gun-boats Johnston had to abandon his
+works, lest his supplies, which reached him by steamers, &amp;., on
+York River, should be cut off. There were several sanguinary assaults
+upon Johnston's works; but they failed, with considerable loss to
+the Federals. Artillery duels continued for some forty days.</p>
+<p>2. At Williamsburg (May 5, 1862) the Federals fell with force upon
+Johnston's rear as he retired towards Richmond. This action was very
+hotly contested, and resulted in great slaughter, the total killed
+and wounded reaching 5400. The Federals fought long and well; but they
+could not compass impossibilities--the state of the roads and the
+heroic endurance of the Confederates baffling all their efforts.</p>
+<p> 3. Barhamsville (May 7th).--Here General M'Clellan next landed
+20,000 men, supported by a fleet of vessels, intending to cut off the
+rearguard and waggon-train of Johnston, under command of General
+G. W. Smith, which must necessarily pass within two miles of this
+point. General Smith directed Brigadier-General Whiting with 8000 men,
+to attack this force and drive them back to their boats. So unexpected
+an attack in the dense forests, where Texan rifles lurked behind
+every tree, had its effect, and the trains passed in safety all that
+day.</p>
+<p>4. "The Seven Pines" and "The Fair Oaks" (May 31 and June
+1).--General Johnston, being followed by M'Clellan across the
+Chickahominy, turned upon and attacked him. The action ceased after
+dark, General Johnston being severely wounded. The lateness of the
+hour and the loss of General Johnston rendered the hard day's struggle
+fruitless, although the Confederates held the field. On the 1st of
+June, 1862, General Lee assumed the general command of the
+Confederate forces.</p>
+<p>5 and 6. Battles near Mechanicsville (June 26).--General Jackson at
+this time was near Mechum's River. General Lee, knowing that General
+M'Clellan had spies in Richmond, used them to mislead him. He ordered
+General Whiting to take a division and proceed by night, with secrecy
+and dispatch, vi&#x00E2; Lynchburg and Charlottesville, to Mechum's
+River (about 200 miles), and report to General Jackson.</p>
+<p>While General M'Clellan was telegraphing to President Lincoln in
+Washington, and General Banks at Winchester, to look out for Stonewall
+Jackson, who had been thus heavily reinforced and might threaten either
+place, Jackson was, by forced marches (see 1 and arrows denoting his
+route), taking those very reinforcements back towards Richmond; and
+before M'Clellan suspected it he was in his rear, some miles
+north-east of Mechanicsville. As soon as Lee knew of Jackson's arrival at
+Ashland, Longstreet and Hill passed the Chickahominy and swept down
+upon Mechanicsville, and on Thursday, June 26, began a series of
+battles in which the Federals fought well and long, but were only
+saved from entire destruction by the slow movements of one of the
+Confederate Generals and the admirable tact and skill of General
+M'Clellan in the use of his splendid and numerous artillery. These
+battles continued for seven days, and were fought over twenty-five
+miles of ground, cumbered with dead men and horses, waggons, cannon,
+muskets, blankets, &amp;.</p>
+<p>7. Cold Harbour and Gain's Farm.--These were the battle-fields of
+June 27, when General Hood's Texans, at command of General Whiting,
+stormed the triple works of M'Clellan; and Jackson, Longstreet, the
+Hills, &amp;., fought over miles of ground.</p>
+<p>8. Battles were fought at White Oak Swamp, Sunday and Monday, June
+29-30.</p>
+<p>9. Malvern Hill, the scene of the terrible action of Tuesday, July
+1. In the above engagements the losses can hardly be estimated. They
+have been computed from 25,000 to 30,000. Their result was to deliver
+Richmond and to endanger Washington.</p>
+<p>10. Second battle at Malvern Hill (August 5-6).</p>
+<p>11. August 8 and 9.--Jackson, whose line of march will be found
+denoted by the smaller figure 2 and arrows, here defeated Banks at
+Cedar Mountain (also called "South-west Mountain" and "Slaughter's
+Mountain"); loss about 2500.</p>
+<p>12. Artillery duel and skirmishing were continued along the
+Rappahannock River.</p>
+<p>13. August 29 and 30.--Jackson here fought the second battle of
+Manassas. The small figure 2 and arrows show the course Jackson took to
+get in Pope's rear, Pope having fallen back to Warrenton. Jackson had
+marched day and night some fifty miles through Jefferson, Orleans, and
+Salem, meeting on the way and driving back to Alexandria the forces
+sent out to capture General Stuart. He then took and destroyed
+railroad trains and immense stores that he found at Manassas; and,
+when Pope sent several divisions to surround him he met and fought them
+separately, holding them in check until Longstreet came up.</p>
+<p>14. Longstreet, stopped by M'Dowell at Thoroughfare Gap, forced his
+way through, after an action of a few hours, hastening to reinforce
+Jackson.</p>
+<p>15. Jackson's battle-field at Sudley, and Longstreet's at Groveton
+and Manassas. The actions began on Friday, Aug. 29, 1862, and were
+renewed on Saturday, ending, after dark, in the rout of the Federals.
+The line of battle extended in a crescent four miles long, and crossed
+that of 1861 (called "Bull Run") at right angles.</p>
+<p>16. Battle of Chantilly (September 1). The small figure 3 and
+arrows denote Jackson's route in again getting on the Federal
+flank. On Sunday, after marching and fighting for a week, Jackson
+again sought the Federal rear, at Fairfax Court House. General Pope
+sent General Kearney and others to hold him in check at Chantilly
+while he drew all his troops to Washington. Kearney was killed. The
+Federals fought well in all these engagements, but were compelled to
+seek shelter in the works around Washington.</p>
+<p>17. Braddock's Gap, or South Mountain. General D. H. Hill here held
+M'Clellan in check until a portion of Longstreet's corps came up.</p>
+<p>18. Harper's Ferry (Sept. 14, 15). When General Lee went into
+Maryland he detached several batteries of artillery, with sufficient
+troops to guard them, and had them secretly posted upon the Loudon
+Heights, opposite the Shenandoah side of Harper's Ferry, and on the
+Maryland Heights, on the Potomac side. About the time that these
+batteries were getting into position Jackson diverged from the road
+from Boonsboro' to Hagerstown, which General Lee took, and pursued the
+road leading to a ford over the Potomac River at Williamsport. His
+course is indicated by fig. 4 and arrows. By this means he drove a
+large force of Federals out of Martinsburg and followed them to
+Harper's Ferry. Having then invested the place, the batteries opened
+on them from the Loudon Heights, and when they took refuge behind the
+rocks on the other side of the hill batteries opened upon them from
+the Maryland Heights, Jackson meanwhile shelling them from his
+position in the rear. The place, being untenable, was surrendered,
+with very large stores, artillery, muskets, &amp;c. About 13,000
+prisoners were taken, including nearly 12,000 Federal soldiers. The
+surrender of Harper's Ferry was made on Monday. That night Jackson
+marched to Shepherdstown, and on Tuesday night was on General Lee's
+left at Sharpsburg, engaging in the battle which culminated on
+Wednesday.</p>
+<p>19. On the night of Sept. 14 General Lee withdrew his men from
+South Mountain, in consequence of General M'Clellan having obtained
+possession of Crampton's Gap, leading directly to Sharpsburg; and,
+proceeding to the latter position, he there awaited the coming of
+Jackson. General M'Clellan followed him on Monday afternoon (16th),
 and General Lee stood at bay for two days on the south-west bank of
-
-Antietam, using his artilloryto delay M,CleUw!s %ttackuntilXackgon could join him. Jackson marohed all night afbar the capture of Harper's Ferry; andoxiWeduesday, the 17th, he fought a battle oxithe extreme left of the Confederate lines, which were more than four miles long,
-
-General M'Olellan had three hose of battle; General Los was
-
-scarcely able to present a single line, whirls 1 in some places, was not adequately supported. In addition to thin M'Cisllan had a large reserve, which was so admirably need that, when the Confederates at any point drove in the Federal lines, which they often did, the reserves overwhelmed them and compelled them to fell hack. The Federal signal corps contributed to this result, by giving immediate notice to M'Clellan of every event along the lines. In addition, there was great disparity of numbers between the contending forces. The action lasted from morning until dark. General A. P. Hill did not gsa into position until late in the afternoon, and his men wore weer'oed by their march from Rarpsr'e Ferry. General Lee, finding himself short of ammunition, forage, rations for the men, Go., and that M'Cleilan did not renew the notion on Thursday, crossed the Potomac that night. This movement was managed with such skill that the Confederate pickets did not know the army was gene until they were driven in after sunrise next morning.
-
- 20. Shophordetown (September 20).-On Friday there was an artillery duel between the Confederate General Pondlston and M'Clsilan, across the Potomac River at Shepbsrdstown; but on the next day Jackson directed that a low brigades of M'Clellan'e army should be allowed to cross the river, and that General A. P. Hill should then attack them. It is impossible to estimate the immense numbers that were slaughtered or drowned on that occasion. The river was rod with blood and dieSgured with bodies for some distance. The total lees could not have been loss than 4000.
-
-21. Pkoderichosborg (December 3)-This was the first occasion on which General Lee had the advantage of an extended line of works. He selected aonagniflcont plain about five miles long and from two to two and a half breed, and surrounded it with abattis, riflepits, and mesksd batteries, Into this plain the Federal army, under commend of General Burnsido ventured. Lungstrcet was on the left, Jackson and Stuart on he right. The hills around the plain were in the form of a crescent, and were each surmounted with batteries commanding the whole plain. Had General Lee been acquainted. with the extent of the Federal looses, he would have moved from his position and completed their destruction. As it was, he doily expected them to make another attempt to carry his works, and General Bornoido succeeded in withdrawing his army in the night across the river. The plan of the relative position of Lee and Barnsido's armies at Fredericksburg shows than so distiuotly as to prooludo the necessity of verbal description. The plain on which the battles were fought is, it will be sees, overlooked by the Stafford heights, on which batteries of guns of large size were placed, and in some noose shot and shell were sent five miles across the river and plain. There were few trees upon the plain, and consequently the movements of the Federal troops could be aeon from the hills.
-
- Stonewall Jackson had his hoart-qusrtere on a hill in roar of Hamilton's Crossing, end nearly 500 shot and shell fell that day within one hundred yards of whom he stood. At Mavye'e-hill the ground was covered for acres with killed and wounded Foderale lying in some places two or three deep. The orcos-street on this hill formed a fine stone bonastwork for the Confederates.
-
-22. (Mao-oh 7, lS';l). A cavalry ongagemnnt between aiargobsdy of Federal cavalry (said to be 2500) and Brigadier-General Fit-c-Leo (a nephew of the lion. J. M. Mason). The losses were heavy', but the Federals n-crossed the itappahannook. General Los had only 750 men under his commend.
-
-23. The Wilderness.-Geusmh Jackson, with a portion of his corps, pursued the source indioatsd by fig. ii and arrows, in order to tore the flank of General Hooker, whose army had crossed the river and was at Chanoollerevillo, and got between him and the fords and pontoons by which alone he could re-cress the river. Had it not been for his being wounded by his own men he would, in all probability, have compelled Hooker to surrender or fight his way hack to the river. Jackson had only 20,000 men in the action. In consequence of his wounds, the action defeated but did not destroy Hooker,
-
-24. felarye's-bill.-Geueral flodgwiok, with 20,000 Federal troops (another statement makes it only 15, 000), having taken possession of the heights above Fredoriokoburg, and alsin, captured, or scattered the troops left in charge (aupposod to be Colonel llarkosdals's regiment)
-
-was to turn attacked by a division of General Lee's army, and rontort with great slaughter.
-
-In all the above engagements, and in ethers of lees importance, the Federal olSoers arid men fought with great snduraneo and bravery. as must be evident when the length of time they held their ground and their heavy losses are considered.
-
-On the other hand, the victories of the Confederate leaders, hardly groused no they havo boon, havo failed often in bringing about those rsenltswhioh might fairly havo been expected from them. The overwhelming numbers of the Federal armies, their abundant eupphies, the -plan did artillery at their command, and the good use made of it, cant riteoted, with the numerioul disproportion end or loasrelon of the Confederates, their limited On, a. of horses, ammunition, and ratsons, to render many of the above her dlv-fsuoht sod victorious
-In the above engagements the lessee can hardly be estimated, They have been computed from 25,000 to 30,000. Their reenlt wae to deliver Richmond end to endanger Washington.
-
-10. Second battle at Malvern Hill (August 5-6).
-
-11. August 8 and 9.-Jaokeee, whose line of march will be found denoted by the smaller figure 2 and arrows, here defeated Banks at Cedar Mountain (ales called "South-waet Mountain" and "Sleughter'eMountain "); lees about 2500.
-
-l2.-Artillery duel end skirmishing were continued along the Rappahannenk River.
-
-13. Auguat 29 and l0.-,Tackeon here fought the second battle of Manaseee. The small fignre 2 and arrows show the entree Satan took to get in Pope's rear, Pope having fallen back to Warrenten. Jackson had marched day and night some fifty miles through Jefferson, Orleans, and Salem, meeting on the way and driving back to Alexandria the forces sent out to capture General Stuart. Re then took and deetroycl railroad traine and igoacce, cOerce that he found at lleneeeae; and, when Pope sent several dictions to surround him be met and fought them separately, holding them in check until Longetreet came up.
-
-14. Lengetreet stopped by M'Dowell at Thoroughfare Gap, forced
-
-his way through, utter an action of a few hours, hastening to reinforce Jackson.
-
-15. Jaekeen's battle-field at Sudley, and Loogetroet'e at Orovetou
-
-and Manaeeae. The aetionebegan onFriday, Aug. 29, 1802, and were
-
-renewed on Saturday, ending, after dark, in the rout of the Federale, The line of battle extended m a crescent four miles long, and crossed that of 1801 (called "Boll Ben") at right angles.
-
-16. Battle of Ohcntilly (September 1). Floe small figure 3 end amewa deoeto Jaekoan'e route in again getting on the Federal flank. On San day, after marching and fighting for a week, Jaolceen again sought the Federal rear, at Fairfax Court Reuse. General rope sent General ICoarney and ethers to hold him in check at Chantilly while he draw oil his troops to Washington. Reamey was killed. The
-
-Red rate fot"ght well m all these engagements, but were compelled
-
-to eeek ehelte.y an the works around Washington.
-
-17. BraddeciN e Gap, or South Mountain, General D. H. Hill here held M'Olellan in cheek until a portion of tongetreet's corps rate op.
-
-18, Rarpec's i'orry (Sept. 14, 15). When General Lee went into
-
-In all the above engagements, and in others of less importance, the
-
-Federal elilecre and men fought with great endurance and bravery.
-
-as must be evident when the length of time they held their ground
-
-and then heavy losses are considered.
-
-On the ether band, the victories of the Confederate leaders, hardly
-
+Antietam, using his artillery to delay M'Clellan's attack until Jackson
+could join him. Jackson marohed all night after the capture of
+Harper's Ferry; and on Wednesday, the 17th, he fought a battle on the
+extreme left of the Confederate lines, which were more than four miles
+long.</p>
+<p>General M'Clellan had three lines of battle; General Lee was
+scarcely able to present a single line, which in some places, was
+not adequately supported. In addition to this, M'Clellan had a large
+reserve, which was so admirably used that, when the Confederates at
+any point drove in the Federal lines, which they often did, the
+reserves overwhelmed them and compelled them to fall hack. The Federal
+signal corps contributed to this result, by giving immediate notice to
+M'Clellan of every event along the lines. In addition, there was great
+disparity of numbers between the contending forces. The action lasted
+from morning until dark. General A. P. Hill did not get into position
+until late in the afternoon, and his men were wearied by their march
+from Harper's Ferry. General Lee, finding himself short of ammunition,
+forage, rations for the men, &amp;c., and that M'Clellan did not renew the
+action on Thursday, crossed the Potomac that night. This movement was
+managed with such skill that the Confederate pickets did not know the
+army was gone until they were driven in after sunrise next
+morning.</p>
+<p>20. Shepherdstown (September 20).--On Friday there was an artillery
+duel between the Confederate General Pendleton and M'Clellan, across
+the Potomac River at Shepherdstown; but on the next day Jackson
+directed that a few brigades of M'Clellan's army should be allowed to
+cross the river, and that General A. P. Hill should then attack
+them. It is impossible to estimate the immense numbers that were
+slaughtered or drowned on that occasion. The river was red with blood
+and disfigured with bodies for some distance. The total loss could not
+have been less than 4000.</p>
+<p>21. Fredericksburg (December 3).--This was the first occasion on
+which General Lee had the advantage of an extended line of works. He
+selected a magnificent plain about five miles long and from two to two
+and a half broad, and surrounded it with abattis, rifle-pits, and
+masked batteries. Into this plain the Federal army, under command of
+General Burnside, ventured. Longstreet was on the left, Jackson and
+Stuart on the right. The hills around the plain were in the form of a
+crescent, and were each surmounted with batteries commanding the whole
+plain. Had General Lee been acquainted with the extent of the Federal
+losses, he would have moved from his position and completed their
+destruction. As it was, he fully expected them to make another attempt
+to carry his works, and General Burnside succeeded in withdrawing his
+army in the night across the river. The plan of the relative position
+of Lee and Burnside's armies at Fredericksburg shows them so
+distinctly as to preclude the necessity of verbal description. The
+plain on which the battles were fought is, it will be seen, overlooked
+by the Stafford heights, on which batteries of guns of large size were
+placed, and in some cases shot and shell were sent five miles across
+the river and plain. There were few trees upon the plain, and
+consequently the movements of the Federal troops could be seen from
+the hills.</p>
+<p>Stonewall Jackson had his head-quarters on a hill in rear of
+Hamilton's Crossing, and nearly 500 shot and shell fell that day
+within one hundred yards of where he stood. At Marye's-hill the ground
+was covered for acres with killed and wounded Federals, lying in some
+places two or three deep. The cross-street on this hill formed a fine
+stone breastwork for the Confederates.</p>
+<p>22. (March 17, l863). A cavalry engagement between a large body of
+Federal cavalry (said to be 2500) and Brigadier-General Fitz-Lee (a
+nephew of the Hon. J. M. Mason). The losses were heavy, but the
+Federals re-crossed the Rappahannock. General Lee had only 750 men
+under his command.</p>
+<p>23. The Wilderness.--General Jackson, with a portion of his corps,
+pursued the source indicated by fig. 5 and arrows, in order to turn
+the flank of General Hooker, whose army had crossed the river and was
+at Chancellorsville, and got between him and the fords and pontoons by
+which alone he could re-cross the river. Had it not been for his being
+wounded by his own men he would, in all probability, have compelled
+Hooker to surrender or fight his way back to the river. Jackson had
+only 20,000 men in the action. In consequence of his wounds, the
+action defeated but did not destroy Hooker.</p>
+<p>24. Marye's-hill.--General Sedgwick, with 20,000 Federal troops
+(another statement makes it only 15,000), having taken possession of
+the heights above Fredericksburg, and slain, captured, or scattered
+the troops left in charge (supposed to be Colonel Barkesdale's
+regiment) was in turn attacked by a division of General Lee's army,
+and routed with great slaughter.</p>
+<p>In all the above engagements, and in others of less importance, the
+Federal officers and men fought with great endurance and bravery, as
+must be evident when the length of time they held their ground and
+their heavy losses are considered.</p>
+<p>On the other hand, the victories of the Confederate leaders, hardly
 gained as they have been, have failed often in bringing about those
+resullts which might fairly have been expected from them. The
+overwhelming numbers of the Federal armies, their abundant supplies,
+the splendid artillery at their command, and the good use made of it,
+contributed, with the numerical disproportion and exhaustion of
+the Confederates, their limited supplies of horses, ammunition, and
+rations, to render many of the above hardly-fought and victorious
+fields barren of decisive results.</p>
+<p>[A map of Vicksburg and te adjacent country, illustrating the plan
+of General Grant's campaign, is in preparation.]</p></div2>
 
-results which might fairly have been expected from them. The over
+<div2 id="iln42.1210.005" n="The New Haven Journal Says." type="Article">
+<head>[THE NEW HAVEN JOURNAL SAYS]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1210</biblScope>
+<biblScope type="pages">p. 707</biblScope>
+<date value="1863-06-27">June 27, 1863</date>
+<extent></extent>
+</bibl>
 
-whelming numbers 0f the Federal accuses, their abundant supplies,
+<p>The <hi rend="italic">New Haven</hi> (U .S.) <hi
+rend="italic">Journal</hi> says that a Captain Davis Hatch, of
+Norfolk, Connecticut, has returned from a visit to the salt mines at
+the east end of St. Domingo. He states that there is a mountain there
+of pure rock salt ten miles long, one mile and a half wide, and 400
+ft. high. He has obtained from the Government of St. Domingo a grant
+for working the mines, and the exclusive privilege for making a
+railroad from the mines to the port of Barahona, twelve miles
+distant.</p></div2></div1></body></text></TEI.2>
 
-the splendid arbillory at their command, and the good use made of
-
-Z their ir an 0 goo' use ml
-
-on nb 4~ he dis d h~io. of 'he
-
-e c p_Vo on an ex one
-
-c r e7 he ire he. of h  a, !~-d
-
-splendid arbillory at their command, and the good use made of
-
-n-ori a' b ited at. y of the
-
-E.' be
-
-d. M afd&.
-
-results,
-
-[A mop of Viekeburg and the adj aeeat country, illustrating the plan of General Grant's campaign, is in preparation.]
-The .M?tv Haves (u .s.) Jinernai says that a Captain Davis
-
-Hatch, of Norfolk, Connecticut, has returned from a 'visit to the salt mines at the east end of St. Domingo. He states that there is a mountain there of pure rack salt tea miles long, one mile end a belt wide, and 400 ft. high. i-to has obtained from the Government of St. Domingo a grant for working the mines, and the exclusive privilege for making a railroad from the mines to the port of Darahona, twelve miles distant.
 
