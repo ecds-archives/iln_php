@@ -10545,187 +10545,352 @@ gamst each other.</p>
 
 <p>More of Cairo and St. Louis in my next. At present I must close to
 save the mail.</p>
-<p rend="right">F.V.</p>
+<p rend="right">F.V.</p></div2>
 
-AMERICA.
+<div2 id="iln40.1147.001" n="America" type="article">
+<head>AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1147</biblScope> 
+           <biblScope type="pages">p. 540</biblScope> 
+           <date value="1862-05-31">May 31,1862</date>
+         <extent></extent>
+</bibl>
+<p>By the arrival of the Etna we have news from New York to the 17th inst.</p>
 
-By the arrival of the Etna we have news from New York to the 17th inst.
+<p rend="right"><hi rend="smallcaps">BELLIGERENT OPERATIONS BY SEA AND LAND.</hi></p>
 
-DBLOGERWT OPERATIONS 23Y SEA AND LAND.
+<p>Norfolk, the naval dep&#x00f4;t of the Confederates, has surrendered, the
 
-Norfolk, the naval dp6t of the Confederates, has surrendered, the
+navy-yard, dry dock, machinery, and vessels there having all been
+pre-viously destroyed, On the 10 inst. General Wool landed with 5000
+men at Willoughby Point and marched on Norfolk. A delegation of
+citizens met him near Norfolk and surrendered the
+city. Brigadier-General Viele was appointed Military Governor, and
+issued a proclama-tion assring the citizens that their rights of property should be respected. The citizens are as disaffected to the Federal Government as those of New Orleans. They greeted the Federal troops with cheers for the Confederate, and groans for the Federal, President.</p>
 
-navy-yard, dry dock, machinery, and 7esaels there having all been pre-viously destroyed, On the IM inst. General Wool landed with 5000 men at Willoughby Point and marched on Norfolk. A delegation of citizens met him near Norfolk and surrendered the city. BrigadierGeneral Viele was appointed Military Governor, and issued aproclamation assn±ig the citizens that their rights of property should be respected. The citizens are as disaffected to the Federal Government as those of New Orleans. They greeted the Federal troops with cheers for the Confederate, and groans for the Federal, President.
+<p>The Confederate General Huger withdrew with the garrison to rein
 
-The Confederate General Huger withdrew with the garrison to rein
+force General Johnson. On the 11th the Confederates blew up the cele-
 
-force General 1'obnson. On the 11th the Confederates blew up the cain..
+brated Merrimac, the late reconnaissance of Federal vessels having convinced them of the hopelessness of resistance, and the Merrimac drawing too much water to allow her to escape up any of the rivers.</p>
 
-brated Mcrrirnae, the late reconnaissance of Federal vessels having convinced them of the hopelessness of resistance, arid the Merrimar drawing too much water to allow her to escape up any of the rivers.
+<p>The vanguard of the main army of General M'Clellan has advanced
 
-The vanguard of the main army of General M'Olellan has advanced
+beyond New Kent Courthouse, within twenty-two miles of Richmond. The inhabitants have, in nearly every instance, fled before the advance of the invaders. General M'Clellan thinks that the enemy will make a stand at Bottom Bridge, fifteen miles from Richmond, at the head waters of the Chickahominy River. He admits that "the enemy's retreat has been most admirably accomplished, carrying almost everything with them in the shape of forage and provisions, the waggon-trains in the daytime and their troops at night." The report that the main body of the Confederates had retreated to the south side of the James River is untrue.</p>
 
-beyond New Kent Courthouse, within twenty-two miles of Richmond. The inhabitants have, in nearly every instance, fled before the advance of the invaders. General MO1el1au thinks that the enemy will make a stand at Bottom Bridge, fifteen miles from Richmond, at the head waters of the Ohickahominy River. He admits that "the enemy's retreat has been most admirably accomplished, carrying almost everything with them in the shape of forage and provisions, the waggontrains in the daytime and their troops at night." The report that the main body of the Confederates had retreated to the south side of the James River is untrue.
+<p>Released prisoners coming from Richmond on the 12th reported that they passed the Federal steamers Monitor, Nangatuck, and Galena beyond City Point, steaming towards Richmond. The Confederate steamers Jamestown and Yorktown were at Rocketts, about a mile from Richmond.</p>
 
-Released prisoners coming from Richmond on the 12th reported that they passed the Federal eteaniers Monitor, Nangatuck, and Galena beyond City Point, steaming towards Richmond. The Confederate steamers Tarnestown arid Yorktown were at Rocketits, about a mile from Richmond.
-
-'The Federal General Buster, commanding the Military Department
-of Georgia, Florida, and South Carolina, has issued a proc1na
+<p>The Federal General Hunter, commanding the Military Department
+of Georgia, Florida, and South Carolina, has issued a proclamation
 
 declaring martial law in those States; and, as martial law and slavery
 
-are incompatible, all slaves in Georgia, Florida, and South Carolina era
+are incompatible, all slaves in Georgia, Florida, and South Carolina are
 
-declared for ever free.
+declared for ever free.</p>
 
-A coloured pilot and crew had arrived at Port Royal with a steamer
+<p>A coloured pilot and crew had arrived at Port Royal with a steamer
 
 of eight guns which the Confederates had sent from Charleston to
 
-Port Ripley. The coloured crew seized the steamer and took her to, the Federals at Port Royal.
+Port Ripley. The coloured crew seized the steamer and took her to the Federals at Port Royal.</p>
 
-A despatch from Cormth states, that the Confederates admit that Pensacola has surrendered to the Federals.
+<p>A despatch from Corinth states that the Confederates admit that Pensacola has surrendered to the Federals.</p>
 
-From New Orleans we learn that the Mayor said Aldermen had bee]] sent to prison for refusing to take the oath of allegiance. The greatest dearth of provisions prevailed, and General Butler occupsid the St. Charles Hotel as his head-quarters. Re sent a proclamation to the newspaper offices for publication, but they refused to print it. A Federal guard was sent to each office, and Northern printers were procured, by whom the proclamation was set up and published.
+<p>From New Orleans we learn that the Mayor and Aldermen had been sent to prison for refusing to take the oath of allegiance. The greatest dearth of provisions prevailed, and General Butler occupied the St. Charles Hotel as his head-quarters. He sent a proclamation to the newspaper offices for publication, but they refused to print it. A Federal guard was sent to each office, and Northern printers were procured, by whom the proclamation was set up and published.</p>
 
-The Southern papers state that the Federal scjuadron had arrived off Fort Morgan, to attack Mobile.
+<p>The Southern papers state that the Federal squadron had arrived off Fort Morgan, to attack Mobile.</p>
 
-General Beauregard has obtained a alight advantage at Farmington,, a place five miles east of Corinth. The brigade of the Federal General Pope was attacked on the banks of a creek near Farmington. After an
+<p>General Beauregard has obtained a slight advantage at Farmington, a
+place five miles east of Corinth. The brigade of the Federal General
+Pope was attacked on the banks of a creek near Farmington. After an
+engagement of five hours the Federal forces were driven across the
+creek with great loss. Beauregard continues to receive
+reinforcements.The Federals estimate the number of his force at
+125,000 at the least.</p>
+<p>There has been another naval engagement on the Mississippi. Captain Davis reports from above Fort Pillow that on the 10th inst. eight Confederate iron-clad gun-boats attacked the Federal flotilla. under Commodore Foote. The action lasted one hour. Two of the Confederate gun-boats were blown up and one sunk, when the rest retired under the guns of the fort. One Federal gun-boat was sunk, and one disabled.</p>
 
-engagement of five hours the Federal forces were driven across the.
+<p>Another iron-clad steamer, christened the Ironsides, had been
 
-creek with great loss. Beauregard continues to receive reinforcements.
+launched at Philadelphia.</p>
 
-The Federals estimate the number of his force at 125,000 at the least. • There has been another naval engagement on the Mississippi. Captain Davis reports from above Fort Pillow that on the 10th inst. eight Confederate iron-clad gun-boats attacked the Federal flotilla. under Commodore Foote. The action lasted one hour. Two of the Confederate gun-boats were blown up and one sunk, when the rest. retired under the guns of the fort. One Federal gun-boat was sunk, and one disabled.
+<p rend="center">WASHINGTON.</p>
 
-Another iron-clad steamer, christened the Ironaides, had b eeu
+<p>President Lincoln had issued a proclamation to the effect that the
 
-launched at Philadelphia.
+blockade of New Orleans, Beaufort, and Port Royal should cease
 
-WASiiJNGrON.
+from June 1 on the following conditions:--</p>
 
-President Lincoln had issued a proclamation to the effect that the
+<p><q>Vessels clearing from foreign ports destined for New Orleans, Beaufort, or Port Royal must obtain licences from American Consuls abroad, which will be granted upon satisfactory evidence that such vessels will convey no person, property, or information contraband of war, either to or from the above port.</q></p>
 
-blockade of Few Orleans, Beanfort, and Port Royal should cease
+<p><q>These<orig reg="licenses"> licences</orig> must be exhibited on arrival to the collectors at the above ports.</q></p>
 
-from June 1 on the following conditions
+<p><q>When cleared outwards from the above ports such vessels must have the collector's clearance, showing that the above conitious have not been violated.</q></p>
 
-Vessels clearing from foreign ports destined for New Orleans, Beaufort. or Port Royal must obtain licences from American Consuls abroad, which will be granted upon satisfactory evidence that such vessels will convey no person, property, or information contraband of war, either to or from the above port..
+<p><q>The violation of these conditions will involve the forfeiture and condemnation of vessel and cargo, and exclusion from entering the United States during the war.</q></p>
 
-These licences must be exhibited on arrival to the collectors at the abovø poits.
-
-When cleared outwards from the above ports such vessels must have the. collector's clearance, showing that the above conitious have not been violated.
-
-The violation of these conditions will involve the forfeiture and condemnation of vessel and cargo, and exclusion from entering the Vatted Slates daring the war.
-
-Congress continues firm in its anti-slavery course. The House of
+<p>Congress continues firm in its anti-slavery course. The House of
 
 Representatives had passed a bill abolishing slavery in the territories.
 
 of the United States by a vote of 85 against 50. This bill, if passed
 
-into law, 'will render nugatory the Dred Scott decision. The Senate has voted an appropriation for the education of coloured children in. the district of Oolumbia, for whom no pablic schools of any kind have hitherto been provided. The Democratic members of Congress have assembled and passed resolutions condemning the policy of the recent measures of emancipation and liberality towards the oppressed race.
+into law, will render nugatory the Dred Scott decision. The Senate has voted an appropriation for the education of coloured children in the district of Columbia, for whom no public schools of any kind have hitherto been provided. The Democratic members of Congress have assembled and passed resolutions condemning the policy of the recent measures of emancipation and liberality towards the oppressed race.</p>
 
-Mr. Edward Stanley, of San Francisco, but anative of North Carolina, has been appointed Military Governor of that State. Mr. Stanley is one of. those few Southerners who adhered to the Republican partyfrom il's birth.
+<p>Mr. Edward Stanley, of San Francisco, but a native of North Carolina, has been appointed Military Governor of that State. Mr. Stanley is one of. those few Southerners who adhered to the Republican partyfrom it's birth.</p>
 
-MX5CELLAI1IOUS.
+<p rend="center"><hi rend="smallcaps">MISCELLANEOUS.</hi></p>
 
-President Davis had recommended the observance of a solemn fast.
+<p>President Davis had recommended the observance of a solemn fast.
 
-and humiliation on the 16th day of this month.
+and humiliation on the 16th day of this month.</p>
 
-A vessel had arrived at New York with 1943 bales of cotton from..
+<p>A vessel had arrived at New York with 1943 bales of cotton from
 
-Port Royal.
+Port Royal.</p>
 
-Gold was at 3 preen.
-BICEMOND, VIRGINIA.
+<p>Gold was at 3&#x00bd; prem.</p></div2>
+<div2 id="iln40.1145.002" n="Richmond, Virginia" type="article">
+<head>RICHMOND, VIRGINIA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1147</biblScope> 
+           <biblScope type="pages">p. 540</biblScope> 
+           <date value="1862-05-31">May 31,1862</date>
+         <extent></extent>
+</bibl>
 
-By the time this reaches the hands of our readers it is not only potsible, but extremely probable that the city of Richmond may be in the hands of the Federal forces. The latest news announces the evacuation of the fortified position of the Confederate forces at Yorktown, and there is a rumour that they have suffered defeat at the position to which they have retired.
+<p>By the time this reaches the hands of our readers it is not only possible, but extremely probable that the city of Richmond may be in the hands of the Federal forces. The latest news announces the evacuation of the fortified position of the Confederate forces at Yorktown, and there is a rumour that they have suffered defeat at the position to which they have retired.</p>
 
-The fall of Richmond would be a far greater blow to the cause of the South than a similar calamity at' ew Orleans or Charleston. Richmond is not only the capital of Virginia, but it is the capital of what is called the Old Dominion and is intimately connected with all the old associations of the early iiistory of the colony. Most of the remarkable events which happened during that period when the first colonists were securing their foothold upon this portion of the American continent took place upon the banks of the James River.
+<p>The fall of Richmond would be a far greater blow to the cause of
+the South than a similar calamity at New Orleans or Charleston. Richmond is not only the capital of Virginia, but it is the capital of what is called the Old Dominion and is intimately connected with all the old associations of the early history of the colony. Most of the remarkable events which happened during that period when the first colonists were securing their foothold upon this portion of the American continent took place upon the banks of the James River.</p>
 
-The colony of Virginia was born at that most remarkable period of English history, "the age of Elizabeth." It was founded by Eaglish gentlemen, who carried with theta the loyalty, courage spirit, and chivalric feeling peculiar to the clans to which they belonged at home. The Virginians remained a loyal people, and stood by King and Church while Puritanism and Republicanism were rampant in New England. During the civil war between Charles I. and his Parliament the Virginians continued faithful to the Royal cause, and, even after the execution of the King, his son Charles IL, although a fugitive from England, was still recognised as the Sovereign of Virginia. Although loyal to the King they showed no want of spirit in claiming such. rights as should place them in the position of free men; and numerous important privileges were conceded to them, snub as the right of trial by jury; and they claimed and were allowed to have a representative government. Having obtained a right they never allowed it to be wrested from them. The other colonies afterwards planted claimed as extensive privileges as had been conceded to their eider sister, and future proprietaries could hope to win emigrants only by bestowing franchises as large as those enjoyed by Virginia; they, therefore, may be justly said to be the founders of liberty in America.
+<p>The colony of Virginia was born at that most remarkable period of English history, "the age of Elizabeth." It was founded by English gentlemen, who carried with them the loyalty, courage, spirit, and chivalric feeling peculiar to the clans to which they belonged at home. The Virginians remained a loyal people, and stood by King and Church while Puritanism and Republicanism were rampant in New England. During the civil war between Charles I and his Parliament the Virginians continued faithful to the Royal cause, and, even after the execution of the King, his son Charles II, although a fugitive from England, was still recognised as the Sovereign of Virginia. Although loyal to the King they showed no want of spirit in claiming such rights as should place them in the position of free men; and numerous important privileges were conceded to them, such as the right of trial by jury; and they claimed and were allowed to have a representative government. Having obtained a right they never allowed it to be wrested from them. The other colonies afterwards planted claimed as extensive privileges as had been conceded to their eider sister, and future proprietaries could hope to win emigrants only by bestowing franchises as large as those enjoyed by Virginia; they, therefore, may be justly said to be the founders of liberty in America.</p>
 
- The early history of the colony is a web of romance in the days when the genius f Raleigh abed its light upon it, when the gallant Smith performed his bold and courageous exploits, and the gentle Indian princess came a visitor to Europe, until the time when she struck for liberty, set an example to future ages, and received the sword of the conquered Coruwallis and his whole army prisoners on the plains at Yorktown. Not one of the States has given so many great names to the nation as this; it is full of hallowed shrines where i great men were either born, lived, died, taught, or fought' and the names of Jeerson, Patrick Henry Clay, Madison, Monroe, lee, and a host of others, rise instantly in our memory.
+<p>The early history of the colony is a web of romance in the days when the genius of Raleigh shed its light upon it, when the gallant Smith performed his bold and courageous exploits, and the gentle Indian princess came a visitor to Europe, until the time when she struck for liberty, set an example to future ages, and received the sword of the conquered Coruwallis and his whole army prisoners on the plains at Yorktown. Not one of the States has given so many great names to the nation as this; it is full of hallowed shrines where  great men were either born, lived, died, taught, or fought and the names of Jefferson, Patrick Henry Clay, Madison, Monroe, lee, and a host of others, rise instantly in our memory.</p>
 
-Thecity ofRichmond issituated intheeastern part of theState of
+<p>The city of Richmond is situated in the eastern part of the State of
 
 Virginia, upon the James River, at the point where the navigation
 
-ends and the rapids-commence. It is about 100 miles south by west of Washington, and is on the great railway mail route from New England to New Orleans.
+ends and the rapids commence. It is about 100 miles south by west of Washington, and is on the great railway mail route from New England to New Orleans.</p>
 
-Richmond is a cell-built city, and contains a number of fine edifices.
+<p>Richmond is a well-built city, and contains a number of fine edifices.
 
-It isfor themost part situated onthesides of some hills, which slope
+It is for the most part situated on the sides of some hills, which slope
 
-towards the river. The principal buildings are of stone, but the general character of the city, as seen from any elevated point in the neighbourhood, is that it is built of red brick. It has all the characteristics of a manufacturing city in England (except that it is neither black nor dirty): this is caused by the superior elevation and extent of the numerous tobacco warehouses, of which the city is full, it being the great dp8t for this famous produce of Virginia. The buildings in which the tobacco is stored and manufactured are much in external appearance
+towards the river. The principal buildings are of stone, but the general character of the city, as seen from any elevated point in the neighbourhood, is that it is built of red brick. It has all the characteristics of a manufacturing city in England (except that it is neither black nor dirty): this is caused by the superior elevation and extent of the numerous tobacco warehouses, of which the city is full, it being the great dep&#x00f4;t for this famous produce of Virginia. The buildings in which the tobacco is stored and manufactured are much in external appearance
 
-like the factories in England, being long and many-storied. The popu.
+like the factories in England, being long and many-storied. The popu-
 
-lation, previous to the war, was about 85,000, one third of which were
+lation, previous to the war, was about 35,000, one third of which were
 
-black, either slave or free.
+black, either slave or free.</p>
 
-The public buildings are numerous: they consist of the Capitol, the City Hall, the Penitentiary, Custom House, colleges, said about thirty churches.
+<p>The public buildings are numerous: they consist of the Capitol, the City Hall, the Penitentiary, Custom House, colleges, and about thirty churches.</p>
 
-The Capitol is a fine building, splendidly situated on an eminence overlooking the James River: the view from the portico is extremely fine. In the centre of the building is a hail 4Oft. square, covered by a dome, through which the light is dmitted. In the centre of this hail is a marble statue of George Washington, on the pedestal of which is this inscription:-11 The General Assembly of the Commonwealth of Virginia have caused this statue to be erected as a monument of affection and gratitude to George Washington, who, uniting to the endowments of the hero the virtues of the patriot, and exerting both in establishing the liberties of his country, has rendered his name dear to his fellow-citizens and given the world an immortal example of true glory. Done in theyearof Christ onethousand seven hundred and eighty-right, and in year of the Commonwealth the twelfth." The sculptor has placed his name on the statue; it reads thus: "Fait par Iloudon, dtoyen Françaia, 1788." The figure of Washington is of the size of life, and the costume is precisely copied from that which the General wore during the War of Independence. There is no hat on the head, and the hair is dressed in the fashion of the time; the legs are placed in large boots strapped to the knee-buttons of the breeches, which are surmounted by a waistcoat which has large flaps and capadons pockets. The attitude of the figure is simple and natural; his hand rests on abundle of iasce over'whieh hang his military cloak anil a small sword; a plough is ingeniously arranged to complete the group.
+<p>The Capitol is a fine building, splendidly situated on an eminence
+overlooking the James River: the view from the portico is extremely
+fine. In the centre of the building is a hall 4Oft. square, covered by
+a dome, through which the light is admitted. In the centre of this
+hall is a marble statue of George Washington, on the pedestal of which
+is this inscription:-"The General Assembly of the Commonwealth of
+Virginia have caused this statue to be erected as a monument of
+affection and gratitude to George Washington, who, uniting to the
+endowments of the hero the virtues of the patriot, and exerting both
+in establishing the liberties of his country, has rendered his name
+dear to his fellow-citizens and given the world an immortal example of
+true glory. Done in the year of Christ one thousand seven hundred and
+eighty-eight, and in year of the Commonwealth the twelfth." The
+sculptor has placed his name on the statue; it reads thus: "Fait par
+Houdon, citoyen Fran&#x00e7;ais, 1788." The figure of Washington is of
+the size of life, and the costume is precisely copied from that which
+the General wore during the War of Independence. There is no hat on
+the head, and the hair is dressed in the fashion of the time; the legs
+are placed in large boots strapped to the knee-buttons of the
+breeches, which are surmounted by a waistcoat which has large flaps
+and capa-cious pockets. The attitude of the figure is simple and
+natural; his hand rests on abundle of fasces over which hang his military cloak and a small sword; a plough is ingeniously arranged to complete the group.
 
-Besides thin statue in the Capitol there is another, an equestrian
+Besides this statue in the Capitol there is another, an equestrian
 
-statue on a large scale, elevated upon a pedestal (much too small for it) which has bas-reliefs upon its sides illustrating remarkable events that occurred during the war; at the angles are statues of other men who were eminent either as statesmen or soldiers. There is also a flue statue of Clay, and the bronze works by the eminent I American aculptox Crawford erected upon the elevated terrace wnich
-surrounds the Capitol. The City Hail is a fine building, situated at an angle of the Capitol square. The Penitentiary is situated in the western part of the city, and has a façade over SOOft.inlength. The Custom House cost half a million dollars. Some of the churches have considerable architectural pretensions. Richmond College was founded by the Baptists in 1832. St. Vincent's College is under the direction of the Catholics. The medical department of Hampden and Sydney Colleges occupies a large building of the Egyptian style of architecture.
+statue on a large scale, elevated upon a pedestal (much too small for
+it) which has bas-reliefs upon its sides illustrating remarkable
+events that occurred during the war; at the angles are statues of
+other men who were eminent either as statesmen or soldiers. There is
+also a fine statue of Clay, and the bronze works by the eminent
+American sculptor Crawford erected upon the elevated terrace which<pb n="547"/>
+surrounds the Capitol. The City Hall is a fine building, situated at
+an angle of the Capitol square. The Penitentiary is situated in the
+western part of the city, and has a fa&#x00e7;ade over 300ft. in length. The Custom House cost half a million dollars. Some of the churches have considerable architectural pretensions. Richmond College was founded by the Baptists in 1832. St. Vincent's College is under the direction of the Catholics. The medical department of Hampden and Sydney Colleges occupies a large building of the Egyptian style of architecture.</p>
 
-There are several large bridges over the wide shallow waters that run by the town, which connect it with the suburbs of Manchester and Spring-hill. The navigation extends up to the bridge for small vessels, such as coasting schooners and small steamers. Immediately above the bridge the waters tumble over rocks, which axe strewed about in the most picturesque manner, and form beautiful cascades. The views from the bridges, looking up and down the river and towards the city, are delightful, the river being split-into separate branches, which, uniting at intervals, form pretty little thickly-wooded Islands.
+<p>There are several large bridges over the wide shallow waters that run by the town, which connect it with the suburbs of Manchester and Spring-hill. The navigation extends up to the bridge for small vessels, such as coasting schooners and small steamers. Immediately above the bridge the waters tumble over rocks, which are strewed about in the most picturesque manner, and form beautiful cascades. The views from the bridges, looking up and down the river and towards the city, are delightful, the river being split-into separate branches, which, uniting at intervals, form pretty little thickly-wooded Islands.</p>
 
-In one of the principal streets of Richmond there is a group of buildings of ordinary character as places of business, but they have their ground-floor apartments large and open to the streetthere may be half :its of them in a row, or near together. Beside the door of each is alittle red baize flag, and upon it is pinned a small piece of paper. An involuntary shudder passes though the entire frame of an Englishman when he for the fitat time reads what is 'written upon that bit of paper. The announcement is exceedingly short, but in its half
+<p>In one of the principal streets of Richmond there is a group of
+buildings of ordinary character as places of business, but they have
+their ground-floor apartments large and open to the street--there may
+be half a dozen of them in a row, or near together. Beside the door of
+each is a little red baize flag, and upon it is pinned a small piece of paper. An involuntary shudder passes though the entire frame of an Englishman when he for the first time reads what is written upon that bit of paper. The an-nouncement is exceedingly short, but in its half
 
-dozen syllables it speaks volumes. It says -"Negroes for sale at auction this day at twelve
+dozen syllables it speaks volumes. It says:--"Negroes for sale at auction this day at twelve
 
 o'clock" How much of human misery is contained
 
-in that short announcement I What a curse has
+in that short announcement  &#x0021; What a curse has
 
-that institution " brought upon all the land, all so bountifully treated by the Creator; but this particular part, Virginia, seems favoured inøst espe daIly in soil, climate, beautiful scenery, and contains
-every gift of nature that can add to the happiness. of those who dwell in it. The slaves in Richmond are well clothed and fed, and have a happy and contented look-at least it was so before the war broke out. What their position may he now we have no means of judging.
+"that institution" brought upon all the land, all so bountifully treated by the Creator; but this particular part, Virginia, seems favoured most espe-cially in soil, climate, beautiful scenery, and contains
+every gift of nature that can add to the happiness of those who dwell in it. The slaves in Richmond are well clothed and fed and have a happy and contented look--at least it was so before the war broke out. What their position may be now we have no means of judging.</p>
 
-Richmond is the centre of an important railway system. The Richmond and Petersburg Railway is its first route southward on the Great Northera and Southern transit, and the line from Predricksburg the first to the northward. The Central Rail.
+<p>Richmond is the centre of an important railway system. The Richmond and Petersburg Railway is its first route southward on the Great Northern and Southern transit, and the line from Fredricks-burg the first to the northward. The Central Rail-
 
-M&Ar leaving the city, makes a long xe Mon
+way,after leaving the city, makes a long excursion to the north and
+then turns westward in the interior of the State, the region of the famous springs. It passes by Gordonsville, Charlottesville, and Staunton, audit was proposed to continue it through the State to Guyandotte, on the Ohio River. The Richmond and Denville Railway runs south-west 141 miles to the upper boundary of North Carolina, and connects with the railways of Tennessee, Georgia, and the Carolinas. The city is also connected with Lynchhurg by railway, and thence, by the Virginia and Tennessee line, with Knoxville, Tennessee.</p>
 
-ea north and then turns westward mL ge interior of the State, the region of the famous springs. It passes by Gordoneville, Charlottesville, and Staunton, audit was proposed to continua it through the State to Guyandotté, on the Ohio River. The Richmond and Denville Railway runs south-west 141 miles to the upper boundary of North Carolina, and connects with the railways of Tennessee, Georgia, and the Carolinas. The city is also connected with Lynchhurg by railway, and thence, by the Virginia and Tennessee line, with Knoxville, Tennessee.
+<p>The Kenawha Canal and the James River extend the communications westward by water nearly 300 miles. The ordinary route from Washington to Richmond before the war was by steam-boat to Aquia Creek, on the Potomac, thence by rail through Fredricksburg to Richmond.</p>
 
-The Keuawha Canal and the James River extend the communications westward by water nearly 300 miles. The ordinary route from Washington to Richmond before the war was by steam-boat to Aquia Creek, on the Potomac, thence by rail through Predricksburg to Richmond.
+<p>The subjects of our Illustrations of Richmond are,first, a general
+view, looking across the river. This view was taken from the top of a small hill at the
+southern part of the town: it shows the principal features of the
+locality, but not the principal part of the city, which lies more to
+the right of the spectator. The second Engraving is of the quay below
+the town, where the craft which navigate the James River lie to
+discharge and take in their cargoes. The third Engraving is of the
+railway bridge which, crosses the river at the foot of the rapids,
+taken from one of the islands which divide the waters into separate
+streams.</p></div2>
+<div2 id="iln40.1147.003" n="The Civil War in America: General View of
+      Richmond, Virginia.--From a Sketch by G.H. Andrews."
+      type="illustration">
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1147</biblScope> 
+           <biblScope type="pages">p. 547</biblScope> 
+           <date value="1862-05-31">May 31,1862</date>
+         <extent></extent>
+</bibl>
+<p>
+<figure entity="v40p547a">
+<head>The Civil War in America: General View of
+      Richmond, Virginia.--From a Sketch by G.H. Andrews.</head>
+</figure>
+</p>
+</div2>
 
-The subjects of our Illustrations of Richmond are,
+<div2 id="iln40.1147.004" n="The City Quay, Richmond.--From a Sketch
+      by G.H. Andrews" type="illustration">
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1147</biblScope> 
+           <biblScope type="pages">p. 547</biblScope> 
+           <date value="1862-05-31">May 31,1862</date>
+         <extent></extent>
+</bibl>
+<p>
+<figure entity="v40p547b">
+<head>The City Quay, Richmond.--From a Sketch
+      by G.H. Andrews.</head>
+</figure>
+</p>
+</div2>
 
-first, a general 'view, looking across the river. This
+<div2 id="iln40.1147.005" n="Railway Bridge Over the Rapids of James
+      River.--From a Sketch by G.H. Andrews." type="illustration">
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1147</biblScope> 
+           <biblScope type="pages">p. 547</biblScope> 
+           <date value="1862-05-31">May 31,1862</date>
+         <extent></extent>
+</bibl>
+<p>
+<figure entity="v40p547c">
+<head>Railway Bridge Over the Rapids of James
+      River.--From a Sketch by G.H. Andrews.</head>
+</figure>
+</p>
+</div2>
+<div2 id="iln40.1147.006" n="The Illustrated London News" n="article">
+<head>THE ILLUSTRATED LONDON NEWS.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1147</biblScope> 
+           <biblScope type="pages">p. 549</biblScope> 
+           <date value="1862-05-31">May 31,1862</date>
+         <extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY</hi> 31, 1862.</p>
 
-view was taken from the top of a smell bill at the
+<p>V<hi rend="smallcaps">ICTORIES</hi>,such as they are, but at all
+events successive occupations of positions lately held by the
+Confederates, are ported by every American mail, and there seems
+little ground to doubt that the cause of the south is, in a military
+point of view, hopeless. The Confederates are pressed at all points by
+the enormous forces opposed to them, and, whether they gain a battle
+here or repulse an attack there, such items will go for nothing in the
+general account. The Merrimac, hitherto valued as equal to an army of
+50,000 men, has been blown to pieces to prevent her falling into
+Federal hands, and all other war material at Norfolk has been
+similarly dealt with, though it is alleged that the Federal commanders
+might have prevented the destruction, by some display of the dash
+which has been so singularly deficient in this war. General M'Clellan was, by the last advices, stated to be pursuing the Confederate force that so hastily abandoned the peninsula where the work of Sebastopol was to have been done over again, and, from the" positions of the armies that were to support him, there seemed every chance of that portion of the Southern force being checkmated. Only where Halleck and Beauregard continue to look at one another was there hope for the Confederates, and his hope was not worth much amid the circumstances of the campaign. But anxiety, as to the Federal army was openly expressed, and Government had forbidden the publication of any news from Corinth. Mr. Jefferson Davis had named a day for humiliation and prayer. The bitter hatred of the South for the
 
-southern part of the town: it shows the principal
+"Yankee" was becoming more deep and deadly, and it is manifest that,
+though the Confederation may be suppressed by force of arms, no
+reunion, in the true sense of the word, can be possible. As if to make
+the breach wider, the Senate had passed a bill enfranchising the
+slaves in all the Territories, and the threat was that all the States
+that did not at once rejoin the Union in a loyal way should be reduced
+to the territorial condition. Flushed with conquest, the North
+announces that it never can again be the peaceful nation which it
+curiously discovers itself always to have been, and begs England to
+revise her rule of behaviour; to avoid abolition talk; to dismiss
+Ministers who are disliked in the States; and by such submissions to
+avoid the anger of the now martial Republic. We are, of course, duly
+schooled, but have not sent back the Emily St Pierre.</p></div2>
+<div2 id="iln40.1147.007" n="House of Lords.--Monday" type="article">
+<head>HOUSE OF LORDS.-MONDAY.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1147</biblScope> 
+           <biblScope type="pages">p. 552</biblScope> 
+           <date value="1862-05-31">May 31,1862</date>
+         <extent></extent>
+</bibl>
 
-features of the locality, but not the principal part of the city, which lies more to the right of the spectator. The second Engraving is of the quay below the town, where the craft which navigate the James River he to discharge and take in their cargoes. The third Engraving is of the railway bridge which, crosses the river at the foot of the rapids, taken from one of the islands which divide the waters into separate streams.
-THE ILLUSTRATED LONDON NEWS.
+<p>T<hi rend="smallcaps">HE SLAVE TRADE</hi>.-Lord B<hi rend="smallcaps">ROUGHAM</hi> directed attention to an omission
 
-LOIDO!, .SATURDAY, MAY 31, 1862.
+from the recent treaty with the United States of America for the
+suppression of the slave trade by which the limits of the right of
+search were not extended to <orig reg="Puerto Rico">Porto Rico</orig>,
+a coast peculiarly well adapted for the operations of slavers.--Earl
+R<hi rend="smallcaps">USSELL</hi> said that if it were found necessary
+to include <orig reg="Puerto Rico">Porto Rico</orig> in the provisions
+of the treaty he was so confident in the sincerity of the Govern-ment
+of the United States that he had no doubt any suggestion to that
+effect would meet with attention.</p></div2>
 
-such as they, are, but at all events successive occupations of positions lately held by the Confederates, are ported by every American mail, and there seems little ground to doubt that the cause of the south is, in a military point
-
-view, hopeless. The Confederates are pressed at all points by the enormous forces opposed to them, and, whether they gain a battle here or repulse an attack there, such items will go for nothing in the.general account.. The Merrimac, hitherto valued as equal to an army of 50,000.men, has been blown to pieces to prevent her falling into Federal hands, and all other war material at Norfolk has been similarly dealt with, though it is alleged that the Federal commanders might have prevented the destruction, by some display of the dash which has been 5ojngulaily deficient in this war. General M'Clellan was, by the last advices, stated to be pursuing the Confederate force that so hastily abandoned the peninsula where the work of gebastopOl was to have been done over again, and, from the" positioxls of the armies that were to support him, there seemed every chance of that portion of the Southern force being checkmated, Only where Halleck' and Beauregard continue to look at one another was there hope for the Confederates, and his hope was not worth much amid the circumstances of the campaign. But anxiety, as to the Federal army was openly expressed, and Government had forbidden the publication of any news from Corinth. Mr. Jefferson Davis had named a day for humiliation and prayer. The bitter hatred of the South for the
-
-'Yankee" was becoming more deep and deadly, and it is manliest that, though the Confederation may be suppressed by force of arms, no reunion, in the true senre of the word, can be possible. . As if to make the breach wider, the Senate had passed a bill enfranchising the slaves in all the Territories, and the threat was that all the States that did not at once rejoin the Union in a loyal way should be reduced to the territorial condition. Flushed with conquest, the North announces that it never can again be the peaceful nation which it curiously discovers itself always to have been, and begs England to revise her rule of behaviour; to avoid abolition talk; to dismiss Jfjnisters who 'are disliked in the States; and by such submissions to avoid the auger of the now martial Republic. We are, of course, duly schooled, but have not sent back the Emily St Pierre
-HOUSE OF LORDS.-Morgaiy.
-
--baustoms toI Inland Revenue Bill Was  utef
-
-standing that the 1souasco  Oomoiittco on Eriday.
-
-The P n (rr3land) Bill pas rm.a.y pTrtjn (Ire1,uwl TIM was Tend a third time an n
-
-THE SLAVE TRADE.-Lord BItOnunAE directed attention to an omission
-
-from the recent treaty with the United Slates of America for the suppression of the slave trade by which the limits of the right of search were not extended to Porte Rico, a coast peculiarly well adapted for the operations of slavers.Earl RUSLlljL said that if it were found necessary to include Porlo Rico in the provisions of the treaty he was so confident in thesincerity of the Government of the United States that he had no doubt any suggestion to that effect would meet with attention.
+<div2 id="iln40.1147.008" n="The War in America: General Pope's
+      Division at the Levee Cairo, on its Way from New Madrid to
+      Reinforce General Halleck, near Corinth.--From a Sketchy by Our
+      Special Artist" type="illustration">
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1147</biblScope> 
+           <biblScope type="pages">p. 554</biblScope> 
+           <date value="1862-05-31">May 31,1862</date>
+         <extent></extent>
+</bibl>
+<p>
+<figure entity="v40p554">
+<head>The War in America: General Pope's
+      Division at the Levee Cairo, on its Way from New Madrid to
+      Reinforce General Halleck, near Corinth.--From a Sketchy by Our
+      Special Artist</head>
+</figure>
+</p>
+</div2>
 
 
 
