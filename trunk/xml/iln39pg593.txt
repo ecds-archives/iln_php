@@ -149,7 +149,22 @@ VOLUME 39
 <p>Commander Williams, R.N., the Admiralty agent of the Trent, has received a letter from the Government approving of his conduct.</p>
 	    </div2>
 
-
+<div2>
+               <head> CAPTAIN MOIR, OF THE TRENT.</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 594</biblScope> 
+                  <date value="1861-12-14">December 14, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> CAPTAIN MOIR, OF THE TRENT.</head>
+                  </figure>
+               </p>
+  </div2>
 
 {VOL. 39 ISSUE 1121 12-14-1861 PG. 594}
 
@@ -186,6 +201,40 @@ VOLUME 39
 
 <p>A<hi rend="smallcaps">LTHOUGH</hi> a certain and computed time must elapse before the answer from America shall determine whether bells or cannon will be the fittest ushers to announce the New Year, it is impossible to obtain much serious attention for any other subject. The candidate addressing the crowd, the senator giving in his accounts to his constituents, even the ex-Minister casually complimenting volunteers, at once fix on the American difficulty and submit their hopes or their solutions. Meantime journalists can but speculate and express the united feeling of the nation that we must uphold the honour of the English flag, but that we trust the good sense of the respectable classes in America will dominate over the passionate mob and spare us the terrible necessity of striking a blow. From the French papers we cull little save the expression of French opinion upon the outrage for which we have demanded redress, and it is satisfactory to see that the logical minds of the Parisian journalists, when permitted fair play, at once lead them to the conclusion that England had but one course open to her. Deeply interesting as would be at any other time the debates in the Italian Parliament and the situation of Baron Ricasoli and his Ministry, the fiery elegance or languid pedantry of the speakers is little heeded, nor can much indignation be spared for the atrocious cruelties which, if accounts be true, are being perpetrated upon the unfortunate Poles, in punishment for their recent demonstrations of love of country. All this negligence of all but one subject should be noted across the Atlantic, for it is a grim proof how thoroughly England-once aroused-shows herself in earnest.</p>
 	  </div2>
+
+<div2>
+               <head> [GENERAL M'CLELLAN, COMMANDER-IN-CHIEF OF THE FEDERAL FORCES]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 599</biblScope> 
+                  <date value="1861-12-14">December 14, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> GENERAL M'CLELLAN, COMMANDER-IN-CHIEF OF THE FEDERAL FORCES.- SEE SUPPLEMENT, PAGE 612.</head>
+                  </figure>
+               </p>
+  </div2>
+
+<div2>
+               <head> [EMBARKATION AT WOOLWICH, YESTERDAY WEEK]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 607</biblScope> 
+                  <date value="1861-12-14">December 14, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> EMBARKATION AT WOOLWICH, YESTERDAY WEEK, OF THE E BATTERY FOURTH BRIGADE OF ROYAL FIELD ARTILLERY ON BOARD THE  MELBOURNE FOR CANADA.- SEE NEXT PAGE.</head>
+                  </figure>
+               </p>
+  </div2>
 
 
 {VOL. 39 ISSUE 1121 12-14-1861 PG. 608}
@@ -227,3 +276,37 @@ VOLUME 39
 
 <p>The <hi rend="italic">Globe</hi> of Wednesday has a brief leader to the following effect:-Various statements, all more or 1ess inaccurate, having been made respecting the reinforcements for the protection of our interests in North America, it may be well to mention the steps actually taken for that purpose. The following troops have been ordered to Canada in the Persia,tho Australasian, and the Melbourne, of which the Melbourne has sailed:- Two battalions of infantry of the Line, two batteries of Field Artillery, one company of Royal Engineers. And we understand that arrangements are being made for forwarding to British North America at once two battalions of Guards, four battalions of infantry of the Line, three batteries of Field Artillery, five batteries of Garrison Artillery, two battalions of Military Train, and two companies of Royal Engineers. The two battalions of the Guards under orders are the first battalion of the Grenadier Guards, now at the Tower, and the second battalion Scots Fusilier Guards, at Wellington Barracks. The Rifle Brigade and first battalion of the l6th are in course of embarkation, and the following battalions are held in readiness- viz., the first of the 15th, 96th, and second of the 16th Regiments.</p>
 	  </div2>
+
+<div2>
+               <head> [THE CONFEDERATE ARMY]</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 610</biblScope> 
+                  <date value="1861-12-14">December 14, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CIVIL WAR IN AMERICA: THE CONFEDERATE ARMY- MISSISSIPPIANS PASSING IN REVIEW BEFORE GENERAL BEAUREGARD AND STAFF</head>
+                  </figure>
+               </p>
+  </div2>
+
+<div2>
+               <head> TORCHLIGHT PROCESSION OF GENERAL BLENKER'S BRIGADE</head>
+               <bibl> 
+                  <title>The Illustrated London News</title> 
+                  <biblScope type="volume">vol. 39</biblScope> 
+                  <biblScope type="issue">1121</biblScope> 
+                  <biblScope type="pages">p. 611</biblScope> 
+                  <date value="1861-12-14">December 14, 1861</date>
+               <extent>1 paragraph</extent>
+               </bibl>
+               <p>
+                  <figure>
+                     <head> THE CIVIL WAR IN AMERICA: TORCHLIGHT PROCESSION OF GENERAL BLENKER'S BRIGADE AT WASHINGTON IN HONOUR OF GENERAL M'CLELLAN TAKING COMMAND OF THE FEDERAL ARMY.- FROM A SKETCH BY OUR SPECIAL ARTIST.- SEE NEXT PAGE.</head>
+                  </figure>
+               </p>
+  </div2>
