@@ -1,0 +1,105 @@
+<html>
+<head>
+<script language="javascript">
+
+document.write("testing...<br>\n");
+
+var name = navigator.appName;
+var version = navigator.appVersion;
+var os = navigator.platform;
+
+//document.write("Name: "+name+"<br>\n");
+//document.write("Version: "+version+"<br>\n");
+//document.write("OS: "+os+"<br>\n");
+//alert("Browser: "+name+"; OS: "+os);
+
+var css = "iln.css";
+
+if (name.match(/Internet Explorer/i)) {
+  if (os.match(/mac/i)) {
+    css = "iln-iemac.css";
+  } else if (os.match(/win/i)) {
+    css = "iln-iewin.css";
+  }
+}
+
+var css_link = '<link rel="stylesheet" type="text/css" href="http://chaucer.library.emory.edu/iln/';
+var end_css = '"/>';
+
+//document.write("css is "+css+"<br>\n");
+document.write(css_link+css+end_css);
+
+</script>
+</head>
+<body>
+<div class="heading">
+<p class="head"><img src="http://chaucer.library.emory.edu/iln/hline2.jpg" /></p>
+<p class="head"><a href="http://chaucer.library.emory.edu/iln">
+<img src="http://chaucer.library.emory.edu/iln/finalheader.gif"
+     alt="The Illustrated London News" align="absmiddle" 
+     border="0" width="363" height="77" /></a></p>
+<p class="head"><a href="http://chaucer.library.emory.edu/iln">Home</a> 
+| <a href="http://chaucer.library.emory.edu/iln/ilnintro.html">Introduction</a> 
+| <a href="http://chaucer.library.emory.edu/iln/ilnbib.html">Bibliography</a> 
+| <a href="http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql=//div1&amp;_xslsrc=xsl:stylesheet/ilncontents.xsl">Browse</a> 
+| <a href="http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xql=//figure&amp;_xslsrc=xsl:stylesheet/ilncontents.xsl">Illustrations</a> 
+| <a href="http://chaucer.library.emory.edu/iln/xmlsearch.html">Search</a> 
+| <a href="http://chaucer.library.emory.edu/iln/ilnlinks.html">Links</a></p>
+</div>
+<div class="sidebar">
+  <img src="http://chaucer.library.emory.edu/iln/manoutlne.jpg" />
+</div>
+
+<div class="content">
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+  <p>TESTING...</p>
+
+</div>
+<div class="footing">
+<p class="head"><img src="http://chaucer.library.emory.edu/iln/hline2.jpg" 
+	width="417" height="3" /></p>
+<p class="head"><a href="http://www.emory.edu/LIBRARIES/">University Libraries</a> |
+<a href="http://chaucer.library.emory.edu/">Beck Center</a> | 
+<a href="http://www.emory.edu">Emory University</a> <br />
+<font face="Book Antiqua" size="2" color="#000000"><i>A 
+          Joint Project by Sandra J. Still, Emily E. Katt, Collection Management, 
+          and the Beck Center.</i></font></p>
+</div>
+
+
+
+</body>
+</html>
