@@ -1,0 +1,163 @@
+<project name="Illustrated London News Data Preparation" default="all" basedir=".">
+
+<target name="all" depends="unicode-entities,xml-parse,tamino-data-loader" description="* Do everything"/>
+
+
+<!-- not called by anything else... optional -->
+<target name="clean" depends="init" description="* Clean up; delete
+directories created by build script" >
+<delete dir="${xmldir}"/>
+</target>
+
+<target name="help" depends="" description="* Usage instructions">
+<echo>How to use this build script:
+  'ant -projecthelp'  display available targets with brief descriptions 
+  'ant'               run the default target (in this case, all)
+  'ant [target]'      run only the specified task
+To specify an input file other than the default, run as 
+  ant  -Dinputfile filename [target]
+</echo>
+<!-- insert more instructions here -->
+</target>
+
+
+<target name="init">
+<!--      <splash/> -->
+    <echo message="Defining parameters."/>
+    <!-- Set a default input file; this should be specified when ant
+	 is called -->
+    <property name="inputfile" value="${basedir}/../xml/ilnv39.xml"/>
+
+    <property name="dataPrepdir"     value="${basedir}/dataPrep"/>
+    <property name="xmldir"     value="${basedir}/xml"/>
+    <property name="xmldir.data" value="${basedir}/xml/data"/>
+    <property name="xmldir.entities"     value="${basedir}/xml/entities"/>
+    <property name="xmldir.doctype"     value="${basedir}/xml/doctype"/>
+    <property name="xmldir.tamino" value="${basedir}/xml/tamino"/>
+    <property name="add_doctype.sh"     value="${dataPrepdir}/add_doctype.sh"/>
+    <property environment="env"/> <!-- provides access to environment var -->
+    <path id="base.path">
+      <pathelement path="${env.CLASSPATH}"/>
+    </path>
+    <property name="env.PERL_INCS" value="${basedir}"/> 
+
+<!-- FIXME: this part is not completed/used yet -->
+    <available file="${xmldir}" type="dir" property="xmldir.present"/>
+    <available file="${xmldir.data}" type="dir" property="xmldir.present"/>
+    <available file="${xmldir.entities}" type="dir" property="xmldir.present"/>
+    <available file="${xmldir.doctype}" type="dir" property="xmldir.present"/>
+
+</target>
+
+
+<target name="xmldata" depends="init">
+  <delete dir="${xmldir.data}"/>
+  <delete dir="${xmldir}"/>
+  <mkdir dir="${xmldir}"/>
+  <mkdir dir="${xmldir.data}"/>
+
+<copy todir="${xmldir.data}" file="${inputfile}"/>
+
+</target> <!-- end xmldata -->
+
+<target name="unicode-entities" depends="init,xmldata" description="* Convert entities to unicode entities ">
+
+ <echo message="Converting sgml entities to unicode entities."/>
+ <echo message="**********************************************"/>
+
+<delete dir="${xmldir.entities}"/>
+<mkdir dir="${xmldir.entities}"/>
+
+<exec executable="perl" dir="${dataPrepdir}" failonerror="true">
+<arg line="convertEntities2Unicode_controller.pl -i ${xmldir.data} -o ${xmldir.entities}"/>
+</exec>
+
+<!-- copy latest version of files into main xml directory -->
+<copy todir="${xmldir}">
+  <fileset dir="${xmldir.entities}" includes="*.xml"/>
+</copy>
+
+</target> <!-- end unicode-entities -->
+
+<!-- only run xml-parse if the xml directory exists -->
+<target name="xml-parse" depends="init" 
+ 	description="* Parse xml files.">
+<!-- Note: only run xml-parse if the xml directory exists? 
+     add if="xmldir.present" to target declaration.  -->
+
+ <echo message="Parsing xml files."/>
+ <echo message="**********************************************"/>
+
+<delete dir="${xmldir.doctype}"/>
+<mkdir dir="${xmldir.doctype}"/>
+
+<!-- create doctype file -->
+<property name="doctype" value="${xmldir.doctype}/doctype"/>
+
+<!-- output doctype to a file so we can insert in the xml files -->
+<concat destfile="${doctype}" append="no"><![CDATA[<!DOCTYPE TEI.2 PUBLIC
+	"-//TEI//DTD TEI Lite XML ver. 1//EN" 
+	"/chaucer/data/dtd/teixlite.dtd" [
+        <!NOTATION JPEG PUBLIC 'ISO DIS 10918//NOTATION JPEG Graphics Format//EN'>
+ 	<!ENTITY % iln SYSTEM "${dataPrepdir}/iln_entities" >
+         %iln; ] >]]></concat>
+<!-- Note: iln_entities is the list of figure entities and
+     corresponding jpeg filenames. -->
+
+<copy todir="${xmldir.doctype}">
+  <fileset dir="${xmldir}" includes="*.xml"/>
+</copy>
+
+<apply executable="tcsh" parallel="false" failonerror="true">
+ <arg line="${add_doctype.sh} ${doctype}"/>
+  <fileset dir="${xmldir.doctype}">
+    <include name="*.xml"/>
+  </fileset>
+  </apply>
+
+
+ <xmlvalidate  lenient="false" failonerror="true" warn="true">
+   <fileset dir="${xmldir.doctype}" includes="*.xml"/>
+    <dtd publicId="-//TEI//DTD TEI Lite XML ver. 1//EN" 
+	location="http://www.tei-c.org/Lite/DTD/teixlite.dtd"/>
+  </xmlvalidate>
+
+ <!-- If we get to this point, it worked. --> 
+ <echo message="Successfully parsed all xml files."/>
+
+<!-- delete temporary files, directory? -->
+
+</target> <!-- end xml-parse -->
+
+
+<target name="tamino-data-loader" depends="init" description="* Set up
+data and scripts for loading data to Tamino">
+
+ <echo message="Setting up scripts for loading data to Tamino."/>
+ <echo message="***********************************************"/>
+
+<delete dir="${xmldir.tamino}"/>
+<mkdir dir="${xmldir.tamino}"/>
+<copy todir="${xmldir.tamino}">
+  <fileset dir="${xmldir}" includes="*.xml"/>
+</copy>
+
+
+<copy todir="${basedir}" file="${dataPrepdir}/tamino-data-load.pl"/>
+<copy todir="${basedir}" file="${dataPrepdir}/tamino-data-controller.pl"/>
+<mkdir dir="${xmldir.tamino}/done"/>
+<mkdir dir="${xmldir.tamino}/errors"/>
+
+
+<echo message="Tamino data load directory: ${xmldir.tamino}"/>
+<echo message="--------------------------------------------------------------"/>
+<echo message="To load the data in Tamino, perform the following steps:"/>
+<echo message="  1. If these records have already been loaded in Tamino and you want to replace them, remove the existing records from Tamino first."/>
+<echo message="  2. Run java loader by executing 'perl tamino-data-controller.pl'"/>
+<echo message="  3. Check for success of javaloader by examining ${xmldir.tamino}/done and ${xmldir.tamino}/errors"/>
+<echo message="--------------------------------------------------------------"/>
+
+</target>
+
+
+</project>
