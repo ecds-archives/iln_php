@@ -1,6 +1,6 @@
 <?php
 
-include_once("taminoConnection.class.php");
+include_once("xmlDbConnection.class.php");
 
 class subjectList {
   var $tamino;
@@ -14,7 +14,7 @@ class subjectList {
   // constructor
   function subjectList($argArray) {
     // pass host/db/collection settings to tamino object
-    $this->tamino = new taminoConnection($argArray);
+    $this->tamino = new xmlDbConnection($argArray);
 
     // initialize subject list from Tamino
     $this->taminoGetSubjects();
