@@ -28,7 +28,8 @@
 <!ENTITY v38p479 SYSTEM "/chaucer/data/iln/images/ILNv38p479.jpg" NDATA JPEG>
 <!ENTITY v38p486-487 SYSTEM "/chaucer/data/iln/images/ILNv38p486-487.jpg" NDATA JPEG>
 <!ENTITY v38p498 SYSTEM "/chaucer/data/iln/images/ILNv38p498.jpg" NDATA JPEG>
-<!ENTITY v38p499 SYSTEM "/chaucer/data/iln/images/ILNv38p499.jpg" NDATA JPEG>
+<!ENTITY v38p499a SYSTEM "/chaucer/data/iln/images/ILNv38p499.jpg" NDATA JPEG>
+<!ENTITY v38p499b SYSTEM "/chaucer/data/iln/images/ILNv38p499.jpg" NDATA JPEG>
 <!ENTITY v38p543 SYSTEM "/chaucer/data/iln/images/ILNv38p543.jpg" NDATA JPEG>
 <!ENTITY v38p563a SYSTEM "/chaucer/data/iln/images/ILNv38p563a.jpg" NDATA JPEG>
 <!ENTITY v38p563b SYSTEM "/chaucer/data/iln/images/ILNv38p563b.jpg" NDATA JPEG>
