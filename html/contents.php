@@ -1,11 +1,15 @@
 <?php
 
-//one possibe way to deal with messy xqueries & the urls they produce
-
+include_once("link_admin/taminoConnection.class.php");
 include("common_functions.php");
-//$url = 'http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xquery=
-$url = 'http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xquery=
-for $b in input()/TEI.2//div1
+
+$args = array('host' => "vip.library.emory.edu",
+		'db' => "BECKCTR",
+	      //	      'debug' => true,
+		'coll' => 'ILN');
+$tamino = new taminoConnection($args);
+
+$query = 'for $b in input()/TEI.2//div1
 return <div1>
  {$b/@type}
  {$b/head}
@@ -20,26 +24,25 @@ return <div1>
    </div2>
 }</div1>';
 
-$url = encode_url($url);
+$rval = $tamino->xquery($query);
+if ($rval) {       // tamino Error code (0 = success)
+  print "<p>Error: failed to retrieve contents.<br>";
+  print "(Tamino error code $rval)</p>";
+  exit();
+} 
 
-$xsl_file = "contents.xsl";
 
 html_head("Browse");
 
 include("xml/head.xml");
 include("xml/sidebar.xml");
-?>
 
-   <div class="content"> 
-          <h2>Browse</h2>
-
-<?php
-
+print '<div class="content"> 
+          <h2>Browse</h2>';
 print "<hr>";
-// use sablotron to transform xml
-$xmlContent = file_get_contents($url);
-$result = transform($xmlContent, $xsl_file); 
-print $result;
+$xsl_file = "contents.xsl";
+$tamino->xslTransform($xsl_file);
+$tamino->printResult();
 
 print "<hr>";
 
