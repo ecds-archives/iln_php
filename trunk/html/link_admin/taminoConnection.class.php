@@ -55,9 +55,9 @@ class taminoConnection {
   // send an xquery to tamino & get xml result
   // returns  tamino error code (0 for success, non-zero for failure)
   function xquery ($query, $position = NULL, $maxdisplay = NULL) {
-    $myurl = $this->base_url . "_xquery=" . $this->encode_xquery($query) . "&_encoding=utf-8";
+    $myurl = $this->base_url . "_xquery=" . $this->encode_xquery($query);
     if (isset($position) && isset($maxdisplay)) {
-      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague";
+      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague&_encoding=utf-8";
     }
     if ($this->debug) {
       print "DEBUG: In function taminoConnection::xquery, url is $myurl.<p>";
@@ -74,7 +74,7 @@ class taminoConnection {
 
     if ($this->xmlContent) {		// if xquery was successful
       $length = strlen($this->xmlContent);
-      if ($length < 5000) {
+      if ($length < 150000) {
         // phpDOM can only handle xmlContent within certain size limits
         $this->xml = new XML($this->xmlContent);
         if (!($this->xml)) {        ## call failed
@@ -82,25 +82,24 @@ class taminoConnection {
         }
         $error = $this->xml->getTagAttribute("ino:returnvalue", 
 					   "ino:response/ino:message");
-
-        if (!($error)) {    // tamino Error code (0 = success)
-         $this->getXQueryCursor();
-        } else if ($error == "8306") {	    // invalid cursor position (also returned when there are no matches)
-          $this->count = $this->position = $this->quantity = 0;
-          if ($debug) {
-     	  print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
-          }
-        } else if ($error) {
-           $this->count = $this->position = $this->quantity = 0;
-           print "<p>Error: failed to retrieve contents.<br>";
-           print "(Tamino error code $error)</p>";
-        }
-
       } else {
         // not really a tamino error.... might have unexpected results
-	// (too large to hand off to phpdom)
         $this->xml = 0;
         $error = 0;
+      }
+
+      if (!($error)) {    // tamino Error code (0 = success)
+ 	// copied from WW1 - not used in current version of ILN
+	//       $this->getXQueryCursor();
+      } else if ($error == "8306") {	    // invalid cursor position (also returned when there are no matches)
+        $this->count = $this->position = $this->quantity = 0;
+        if ($debug) {
+  	print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
+        }
+      } else if ($error) {
+         $this->count = $this->position = $this->quantity = 0;
+         print "<p>Error: failed to retrieve contents.<br>";
+         print "(Tamino error code $error)</p>";
       }
 
     } else {
@@ -125,7 +124,7 @@ class taminoConnection {
       $xql = "_xql=";
     }
 
-    $myurl = $this->base_url . $xql . $this->encode_xquery($query)  . "&_encoding=utf-8";
+    $myurl = $this->base_url . $xql . $this->encode_xquery($query);
     if ($this->debug) {
       print "DEBUG: In function taminoConnection::xql, url is $myurl.<p>";
     }
@@ -139,7 +138,7 @@ class taminoConnection {
     }
 
     $length = strlen($this->xmlContent);
-    if ($length < 200000) {
+    if ($length < 150000) {
       // phpDOM can only handle xmlContent within certain size limits
       $this->xml = new XML($this->xmlContent);
       if (!($this->xml)) {        ## call failed
@@ -212,7 +211,7 @@ class taminoConnection {
    // get content of an xml node by name when the path is unknown
    // FIXME: should this really be a taminoConnection class function?
    function findNode ($name, $node = NULL) {
-     if ($node == NULL){	// by default, search xq:result or xql:result
+     if ($node == NULL){	// by default, search xq:result
        // xquery result
        $branch = $this->xml->getBranches("ino:response", "xq:result");
        if ($branch) {
@@ -225,6 +224,7 @@ class taminoConnection {
 	} else { return 0; }	// no node specified, and neither xq:result nor xql:result found
        }
      }
+
      $result = $node->getTagContent($name);
      if ($result) {	// found it
        return $result;
