@@ -1,12 +1,14 @@
 <?php
 
+include_once("config.php");
+
 include_once("lib/taminoConnection.class.php");
 include("common_functions.php");
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll,
-	      'debug' => true);
+	      'debug' => false);
 $tamino = new taminoConnection($args);
 
 $query = 'for $b in input()/TEI.2//div1
@@ -35,14 +37,14 @@ $tamino->xquery($query);
 html_head("Browse");
 
 include("xml/head.xml");
-//include("xml/sidebar.xml");
+include("xml/sidebar.xml");
 
 print '<div class="content"> 
           <h2>Browse</h2>';
 print "<hr>";
 $xsl_file = "contents.xsl";
-//$tamino->xslTransform($xsl_file);
-//$tamino->printResult();
+$tamino->xslTransform($xsl_file);
+$tamino->printResult();
 
 print "<hr>";
 
