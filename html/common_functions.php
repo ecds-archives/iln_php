@@ -9,6 +9,7 @@ include("config.php");
 */
 
 function getCSS () {
+  global $base_url;
   $HTTP_USER_AGENT = getenv("HTTP_USER_AGENT");
 
   if (eregi ("MSIE", $HTTP_USER_AGENT)) { $browser = "MSIE"; }
@@ -28,19 +29,21 @@ function getCSS () {
 
 
 function html_head ($mode) {
+  global $base_url;
   $mycss = getCSS();
 print "<html>
  <head>
  <title>$mode - The Civil War in America from The Illustrated London News</title>
 <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
+<!-- base url is $base_url -->
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">
 <script language=\"Javascript\" 
 	src=\"$base_url/cookies.js\"></script>
 <script language=\"Javascript\" 
 	src=\"$base_url/content-list.js\"></script>
 <script language=\"Javascript\" 
-	src=\"http://$base_url/image_viewer/launchViewer.js\"></script>
-<link rel=\"stylesheet\" type=\"text/css\" href=\"http://$base_url/contents.css\">
+	src=\"${base_url}image_viewer/launchViewer.js\"></script>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"${base_url}contents.css\">
 
  </head>";
 }
