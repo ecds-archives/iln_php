@@ -25,7 +25,7 @@ div.content {	position: relative;
 /*		border-top: double medium black;*/
 	    }
 div.footing {	position: relative;
-		bottom: -4cm;
+		bottom: -2cm; 
 		left: 5cm; 
 		width: 50%;
 		margin-left: 5%;
