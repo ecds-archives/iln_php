@@ -8,8 +8,7 @@ include("xml/head.xml");
 include("xml/sidebar.xml");
 
 print '<div class="content"> 
-      <h2>Links</h2>
-	<hr>';
+      <h2>Links</h2>';
 
 $sort = $_GET["sort"]; // options: title|contrib|date
 $subject = $_GET['subj'];
@@ -24,11 +23,9 @@ $linkset = new LinkCollection($args);
 
 $linkset->printSortOptions("links.php");
 $linkset->printSubjectOptions("links.php", $subject);
-print "<hr width='50%'>";
 $linkset->printSummary();
 
-
-print "<hr>\n</div>";
+print "</div>";
    
 include("xml/foot.xml");
 
