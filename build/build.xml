@@ -16,7 +16,7 @@
   'ant [target]'      run only the specified task
 
 This build uses an xml config file (build-config.xml).  You should
-edit that file to specify your input file &amp; the ILN volume number,
+edit that file to specify your input file &#x0026; the ILN volume number,
 as well as your chaucer user id (for cvs access).
 </echo>
 <!-- insert more instructions here -->
@@ -32,7 +32,7 @@ as well as your chaucer user id (for cvs access).
 <!-- user-readable printout of settings loaded from config file -->
 
   <echo message="Using the following input file:"/>
-  <echo message="   file         : ${basedir}/${config.input.file}"/>
+  <echo message="   file         : ${config.input.file}"/>
   <echo message="   volume       : ${config.input.volume}"/>
   <echo message="Resulting xml files will be added to cvs with named tag ${config.cvs.tag}"/>
   <echo message="Using the following settings for loading &amp; deleting data on tamino:"/>
