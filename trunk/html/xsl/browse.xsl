@@ -107,7 +107,7 @@
     <xsl:if test="@id = $main_id">
       <xsl:value-of select="position()"/>
     </xsl:if>
-  </xsl:for-each>
+  </xsl:for-each> 
 </xsl:variable>
 
 <xsl:element name="table">
@@ -130,6 +130,18 @@
 <xsl:template match="siblings/div2">
 <xsl:param name="mode"/>
 
+<xsl:variable name="linkrel">
+    <xsl:choose>
+        <xsl:when test="$mode='Previous'">
+            <xsl:text>prev</xsl:text>
+        </xsl:when>
+        <xsl:when test="$mode='Next'">
+            <xsl:text>next</xsl:text>
+        </xsl:when>
+    </xsl:choose>
+</xsl:variable>
+
+
 <xsl:element name="tr">
  <xsl:element name="th">
   <xsl:attribute name="valign">top</xsl:attribute>
@@ -142,6 +154,8 @@
   <xsl:element name="a">
    <xsl:attribute name="href">browse.php?id=<xsl:value-of
 		select="@id"/></xsl:attribute>
+    <!-- use rel attribute to give next / previous information -->
+    <xsl:attribute name="rel"><xsl:value-of select="$linkrel"/></xsl:attribute>
     <xsl:value-of select="./head"/>
   </xsl:element> <!-- a -->   
   </xsl:element> <!-- td -->
