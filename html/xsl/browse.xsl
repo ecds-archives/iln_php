@@ -173,46 +173,11 @@
 <xsl:param name="mode"/>
 
 <xsl:element name="tr">
-<!--   <xsl:element name="td">
- <xsl:attribute name="align">
- <xsl:choose>
-  <xsl:when test="$mode = 'Previous'">left</xsl:when>
-  <xsl:when test="$mode = 'Next'">right</xsl:when>
- </xsl:choose>
- </xsl:attribute>  -->
-
  <xsl:element name="th">
   <xsl:attribute name="valign">top</xsl:attribute>
    <xsl:attribute name="align">left</xsl:attribute>
-<!--    <xsl:choose>
-     <xsl:when test="$mode = 'Previous'">&lt;- </xsl:when>
-     <xsl:when test="$mode = 'Next'">-&gt; </xsl:when>
-   </xsl:choose> -->
    <xsl:value-of select="concat($mode, ': ')"/>
  </xsl:element> <!-- th -->
-=======
-<xsl:template match="siblings/div2">
-<xsl:param name="mode"/>
-
-<xsl:element name="tr">
-<!--   <xsl:element name="td">
- <xsl:attribute name="align">
- <xsl:choose>
-  <xsl:when test="$mode = 'Previous'">left</xsl:when>
-  <xsl:when test="$mode = 'Next'">right</xsl:when>
- </xsl:choose>
- </xsl:attribute>  -->
-
- <xsl:element name="th">
-  <xsl:attribute name="valign">top</xsl:attribute>
-   <xsl:attribute name="align">left</xsl:attribute>
-<!--    <xsl:choose>
-     <xsl:when test="$mode = 'Previous'">&lt;- </xsl:when>
-     <xsl:when test="$mode = 'Next'">-&gt; </xsl:when>
-   </xsl:choose> -->
-   <xsl:value-of select="concat($mode, ': ')"/>
- </xsl:element> <!-- th -->
->>>>>>> 1.2
 
  <xsl:element name="td">
   <xsl:attribute name="valign">top</xsl:attribute>
