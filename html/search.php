@@ -45,10 +45,11 @@ $reg = getRegion($region);
 if ($term2) { $reg2 = getRegion($region2); }
 
 switch ($sort) {
- case "type"  : $_sort = "@type"; break;
- case "title" : $_sort = "head"; break;
- case "date"  :
- default      : $_sort ="bibl/date/@value";  break;
+ case "type"  : $_sort = '$a/@type'; break;
+ case "title" : $_sort = '$a/head'; break;
+ case "date"  : $_sort = '$a/bibl/date/@value';  break;
+ case "match" : $_sort = 'text:match-count($a) descending';  break;
+ default      :
 }
 
 // construct xquery
@@ -62,14 +63,18 @@ switch ($sort) {
 //$xquery = "$declare $for $where $return $qsort";
 
 
-// FIXME: this causes some kind of xpath error in exist?
-$xquery = "for \$a in //div2[$reg &= '$term'";
+// construct xquery - eXist version
+$for = "for \$a in //div2[$reg &= '$term'";
 // operator & second term, if defined
-if ($term2) { $query .= " $operator $reg2 &= '$term2'"; }
-//$xquery .= '] return <div2 id="{$a/@id}" type="{$a/@type}">{$a/head}{$a/bibl}</div2>';
-$xquery .= '] return <div2 id="{$a/@id}" type="{$a/@type}">{$a/head}{$a/bibl}</div2>';
-//<total>{text:match-count($a)}</total></div2>";
-
+if ($term2) { $for .= " $operator $reg2 &= '$term2'"; }
+$for .= ']';
+//$orderby = 'order by text:match-count($a) descending';
+$orderby = "order by $_sort ";
+$return = 'return <div2 id="{$a/@id}" type="{$a/@type}">{$a/head}{$a/bibl}
+<count>{text:match-count($a)}</count></div2>';
+// FIXME: pragma doesn't seem to work
+$highlight = "(::pragma exist:serialize highlight-matches=both ::)";
+$xquery = "$for $orderby $return";
 
 html_head("Search Results");
 
@@ -158,11 +163,11 @@ include("xml/foot.xml");
 
 function getRegion ($r) {
    switch ($r) {
- case "article" : $myreg = "/p"; break;
- case "title"   : $myreg = "/head"; break;
- case "date"    : $myreg = "/bibl/date"; break;
+ case "article" : $myreg = "p"; break;
+ case "title"   : $myreg = "head"; break;
+ case "date"    : $myreg = "bibl/date"; break;
    // case "illustration" : $reg = "@type='Illustration' and ."; break;
- case "illustration" : $myreg = "/p/figure/head"; break;
+ case "illustration" : $myreg = "p/figure/head"; break;
  case "document":   // same as default
  default:          $myreg = "."; break;
  }
@@ -177,9 +182,10 @@ function sort_options ($current) {
     $sort_url .= "&term2=$term2&region2=$region2&op=$operator";
   }
   
-  print "<li class='firsthoriz'>Currently sorting by <b>$current</b>. Sort by:</li>";
-  $option = array("date" => "Date", "type" => "Type", "title" => "Title");
-  $first_opt = "date";
+  $option = array("match" => "Matches", 
+		"date" => "Date", "type" => "Type", "title" => "Title");
+  print "<li class='firsthoriz'>Currently sorting by <b>$option[$current]</b>. Re-sort by:</li>";
+  $first_opt = "match";
 
   foreach ($option as $opt => $val) {
     if ($val == $option[$first_opt]) {
