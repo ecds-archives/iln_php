@@ -3445,6 +3445,7 @@ propose to free a single slave, but to keep them as slaves for ever within parti
  naval stores, and who desire to offer to manufacturing Europe the
  benefits of free trade in the peaceful interchange of those valuable
  products for the woollen, cotton, silk, and hardware fabrics of the
+
  Old World, unrestricted and untaxed by prohibitory tariffs. In view
  of that great object, any discussion of the internal or domestic laws
  of the Confederate Statesis irrelevant. Our system of labour is our
@@ -3452,194 +3453,354 @@ propose to free a single slave, but to keep them as slaves for ever within parti
  responsible to God or to man, and about which we will treat with no
  country."</p></div2>
 
-Colonel Samuel Colt, the inventor -of the :fa.us ClVs
+<div2 id="iln40.1129.009 n="Colonel Samuel Colt" type="Article">
+<head>Colonel Samuel Colt</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1129</biblScope> 
+           <biblScope type="pages">p. 132</biblScope> 
+           <date value="1862-02-01">Feb. 1,1862</date>
+         <extent></extent>
+</bibl>
+<p>Colonel Samuel Colt, the inventor of the famous Colt's
 
-revolver, died- hit Hartford, Connecticut, on the 10th Ult., in hi forty-eighth
+revolver, died at Hartford, Connecticut, on the 10th ult., in his forty-eighth
 
-year. It is stated that the wooden -model of his pistol-was- made on
+year. It is stated that the wooden model of his pistol was made on
 
-board a vessel while the inventor was on a voyage to Calcntta, in 1829. Re received his first patent in 1839, and established a factory in Paterson, N.J., but met with indifferent success. Colonel Colt afterwards invented a submarine torpedo which was intended for the deatrnetlou of vessels. Re gave two exblbitions of the power of his new invention in the bay off Castle Garden, by blowing up firsts a schooner and afterwards a large brig. He then established a line of telegraph between New York and Sandy Book and Montauk, which was intended to announce the arrival of vessels, end to facilitate the dispatch of important foreign nwe; but this enterprise failed, end Mr. Colt became reduced in circumstances. - A. year or two later he again got possession of his patent for the revolving pistol, and with the assistance of a few capitalists who joined him a company was formed and a manufactory established at Hartford, which has proved very successful, not only in the making of pistols but in the manufacture of a revolving rifle,
+board a vessel while the inventor was on a voyage to Calcntta, in
+1829. He received his first patent in 1835, and established a factory
+in Paterson, N.J., but met with indifferent success. Colonel Colt
+afterwards invented a submarine torpedo which was intended for the
+destruction of vessels. He gave two exblbitions of the power of his
+new invention in the bay off Castle Garden, by blowing up firsts a
+schooner and afterwards a large brig. He then established a line of
+telegraph between New York and Sandy Hook and Montauk, which was
+intended to announce the arrival of vessels, and to facilitate the
+dispatch of important foreign news but this enterprise failed, and
+Mr. Colt became reduced in circumstances. A year or two later he again got possession of his patent for the revolving pistol, and with the assistance of a few capitalists who joined him a company was formed and a manufactory established at Hartford, which has proved very successful, not only in the making of pistols but in the manufacture of a revolving rifle,
 
-which was also the invention of Mr. Colt. -
-¥ gut whatever else may betide it is quite certain that grave
+which was also the invention of Mr. Colt. </p></div2>
+<div2 id="iln40.1130.001" n="But whatever else may betide"
+      type="Article">
+<head>But whatever else may betide</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1130</biblScope> 
+           <biblScope type="pages">p. 136</biblScope> 
+           <date value="1862-02-08">Feb. 8,1862</date>
+         <extent></extent>
+</bibl>
 
-questions of international law will arise for discussion. The delicacy of our relations with the contending States of America will render necessary the exercise of all the tact and judgment which the Government have at their command during the ensuing sitting of the Legislature. There is, we believe, little or no concealment of the fact that a section of the House of Commons, composed of men of .?,U patties, will bring thesubject of the blockade of the Southernports, and evei the recognition of the Southern Republic, formally before Parliament. It is hardly less surely ascertained that our Ministry has had
+<p>But, whatever else may betide it is quite certain that grave
 
-/ to resist no ordinary pressure which has been put upon them in reference to these subjects from a quarter which is not generally famous for taking a denial; and it is no small, tribute to the sdli and temper with which the department of Foreign Affairs is at present conducted in this country that for the present, at least, the strictly neutral policy in American affairs which England has adopted has been triumphant. When, however, a movement which will not bear on the face of it the stamp of mere party motives becomes prominent in the Parliament of Great Britain, it would be too much to expect of human and political nature to suppose that the pressure from abroad will not be renewed with additional vigour of argument, caught from that whiob will be assumed to be a phase of public opinion in this country. In such a case, only too probable, it will need the binding up of every faculty of endurance and determination on the part of the Government to resist the force, the constraining power, and the inlicences brought to bear upon their policy towards America.
+questions of international law will arise for discussion. The delicacy
+of our relations with the contending States of America will render
+necessary the exercise of all the tact and judgment which the
+Government have at their command during the ensuing sitting of the
+Legislature. There is, we believe, little or no concealment of the
+fact that a section of the House of Commons, composed of men of all
+parties, will bring the subject of the blockade of the Southern ports,
+and even the recognition of the Southern Republic, formally before
+Parliament. It is hardly less surely ascertained that our Ministry has
+had to resist no ordinary pressure which has been put upon them in
+reference to these subjects from a quarter which is not generally
+famous for taking a denial; and it is no small, tribute to the skill
+and temper with which the department of Foreign Affairs is at present
+conducted in this country that for the present, at least, the strictly
+neutral policy in American affairs which England has adopted has been
+triumphant. When, however, a movement which will not bear on the face
+of it the stamp of mere party motives becomes prominent in the
+Parliament of Great Britain, it would be too much to expect of human
+and political nature to suppose that the pressure from abroad will not
+be renewed with additional vigour of argument, caught from that which will be assumed to be a phase of public opinion in this country. In such a case, only too probable, it will need the binding up of every faculty of endurance and determination on the part of the Government to resist the force, the constraining power, and the influences brought to bear upon their policy towards America.</p>
 
-Above all things, there should be no dalliance with this question, no hesitancy on their part in their declarations as to the sourre which they intend to pursue. Already the trade and commerce of England has suffered enough by the disturbed condition of the American States; and in this, the beginning of the year, it would be a crime towards those interests if the attitude of the Government was such as to leave a doubt as to what line they propose to take in this important matter. At present our rulers profess and observe that strict neutrality which in embodied in a phrase of Earl Russell when he said that it was the duty of England to allow every nation to settle
+<p>Above all things, there should be no dalliance with this question, no hesitancy on their part in their declarations as to the course which they intend to pursue. Already the trade and commerce of England has suffered enough by the disturbed condition of the American States; and in this, the beginning of the year, it would be a crime towards those interests if the attitude of the Government was such as to leave a doubt as to what line they propose to take in this important matter. At present our rulers profess and observe that strict neutrality which in embodied in a phrase of Earl Russell when he said that it was the duty of England to allow every nation to settle
 
-its own internal ir'. p4eltUN-Equesulon au_
-AMERICA.  \
+its own internal affairs.</p></div2>
+<div2 id="iln40.1130.002" n="America" type="Article">
+<head>AMERICA.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1130</biblScope> 
+           <biblScope type="pages">p. 136</biblScope> 
+           <date value="1862-02-08">Feb. 8,1862</date>
+         <extent></extent>
+</bibl>
 
-By the arrival of the Canada we have Boston journals to the 22nd \ ultimo.
+<p>By the arrival of the Canada we have Boston journals to the 22nd  ultimo.</p>
 
-THE FEDERAL VICTORY Dr KENTUCKY.
+<p rend="center">THE FEDERAL VICTORY IN KENTUCKY.</p>
 
-The Confederate General Zollicoffer, who occupied a strong position on the north bank of the Cumberland River, in South-eastern Kentucky finding that General Thomas, at the head of a Federal division of 15,000 men, was menacing his rear, determined to attempt to drive back General Schoepf, whose force of 8000 men was intrenched at Somerset, a little town Six miles north of the Cumberland River. On the 18th the attack took place, and the battle lasted nearly all day. General Zoilicoffer was killed, and his army retreated preciitate1y to tbeirintrenchmenison Cumberland River. On the following day General Thomas came up and followed the Confederates to their intrench-ruents. On Monday, the 20th, he was preparing to storm them, when he found them deserted, the enemy having left all their cannon, stores, 'tents, horses, and waggons in his hands. Even the steam-boat and nine barges the fugitives had used to cross the river were found an..
+<p>The Confederate General Zollicoffer, who occupied a strong position
+on the north bank of the Cumberland River, in South-eastern Kentucky
+finding that General Thomas, at the head of a Federal division of
+15,000 men, was menacing his rear, determined to attempt to drive back
+General Schoepf, whose force of 8000 men was intrenched at Somerset, a
+little town six miles north of the Cumberland River. On the 18th the
+attack took place, and the battle lasted nearly all day. General
+Zollicoffer was killed, and his army retreated precipitately to the
+intrenchments on Cumberland River. On the following day General Thomas came up and followed the Confederates to their intrench-ments. On Monday, the 20th, he was preparing to storm them, when he found them deserted, the enemy having left all their cannon, stores, tents, horses, and waggons in his hands. Even the steam-boat and nine barges the fugitives had used to cross the river were found uninjured.
 
-It is computed that 275 Confederates were killed and wounded, while the Federal loss is acknowledged to have been heavy, one regiment having had seventy-five killed and wounded. General Zollicoffer's body is in the hands of the victors. General Schoepf is a Hungarian refugee, and when the war broke out was holding the humble position of messenger in the Patent Office at Washington.
+It is computed that 275 Confederates were killed and wounded, while the Federal loss is acknowledged to have been heavy, one regiment having had seventy-five killed and wounded. General Zollicoffer's body is in the hands of the victors. General Schoepf is a Hungarian refugee, and when the war broke out was holding the humble position of messenger in the Patent Office at Washington.</p>
 
-OTHER MILITARY AND NAVAL HEWS.  -
+<p rend="center">OTHER MILITARY AND NAVAL NEWS.</p>
 
-The Buraide expedition had made its appearance off the coast of
+<P>The Burnside expedition had made its appearance off the coast of
 
- Worth Carolina.
+ North Carolina.</P>
 
-The movement from Cairo was only a reconnaissance.
+<p>The movement from Cairo was only a reconnaissance.</p>
 
-The army of the Potomac is said to be held in check by the fathom
+<p>The army of the Potomac is said to be held in check by the fathom-
 
-less mud of the Virginia roads. The health of General M'CleLlan, though improved, does not yet enable him to be as active as he could wish. Very little is said, of the sanitary condition of the army by the journals. The Washington correspondent of the New York lade
-
-pendent, however, draws a gloomy picture of the camp hospitals:-"Complaints are constantly made and rarely listened to by the proper
+less mud of the Virginia roads. The health of General M'Clellan,
+though improved, does not yet enable him to be as active as he could
+wish. Very little is said, of the sanitary condition of the army by
+the journals. The Washington correspondent of the New York <hi rend="italic">Independent</hi>, however, draws a gloomy picture of the camp hospitals:-"Complaints are constantly made and rarely listened to by the proper
 
 authorities. The regular hospitals within the district are in an excellent
 
 condition, but the regimental and brigade hospitals in Virginia are in a
 
-shocking state. The Sanitary Commission does not usually extend its, care to them. In one of them eighty sick men have lain for weeks without bed, straw, sheet, or pillow. Beds and bedding are generally unknown to these places, and the girth of the benevolent never reach them. The sick soldiers pass through the most distressing and long. continued fevers in their usual military clothes."
+shocking state. The Sanitary Commission does not usually extend its care to them. In one of them eighty sick men have lain for weeks without bed, straw, sheet, or pillow. Beds and bedding are generally unknown to these places, and the girth of the benevolent never reach them. The sick soldiers pass through the most distressing and long continued fevers in their usual military clothes."
 
 About 1000 prisoners have been exchanged by the two belligerent Governments.
 
-Mass meetings of German citizens had been held in several places, to denounce the treatment received by General Sigel, of Missouri, at the hands of General Etalleck. The resolutions denounced the narrow spirit of nativisra with which the graduates of West Point were sonmated towards officers of European birth and education.
+Mass meetings of German citizens had been held in several places, to denounce the treatment received by General Sigel, of Missouri, at the hands of General Halleck. The resolutions denounced the narrow spirit of nativism with which the graduates of West Point were animated towards officers of European birth and education.</p>
 
-CONFLIESS.
+<p rend="center">CONGRESS.</p>
 
-The Senate have confirmed the appointments of Mr. Stanton and Mr. Cameron to the posts assigned to them by the President.
+<p>The Senate have confirmed the appointments of Mr. Stanton and Mr. Cameron to the posts assigned to them by the President.</p>
 
-The Committee of Ways and Means has reported to the House a. National Currency and Loan Bill, which proposes to make 150,000,000 dol. worth of Treasury notes a legal tender, to be convertible-. inici Six per Cent Stocks; also to create a Six per Cent Stock of soo,000;ooo dollars, which is to be used in payment of the floating: debt and for funding the Treasury notes.
+<p>The Committee of Ways and Means has reported to the House a
+National Currency and Loan Bill, which proposes to make 150,000,000
+dol. worth of Treasury notes a legal tender, to be convertible into
+Six per Cent Stocks; also to create a Six per Cent Stock of 500,000,000 dollars, which is to be used in payment of the floating debt and for funding the Treasury notes.</p>
 
-Abill to abolish the franking privilege has passed both Houses of
+<p>A bill to abolish the franking privilege has passed both Houses of
 
-Congress.  -
+Congress.</p>  
 
-Kit. CEWABD AND THE PRUSSIAN OovsurmrENr.
+<p rend="center">Mr. SEWARD AND THE PRUSSIAN GOVERNMENT.</p>
 
-In his reply thanking Prussia for her advice, Mi'. Sawaul suggests.
+<p>In his reply thanking Prussia for her advice,Mr. Seward suggests
 
-the proprieiy of Prussia improving the occasion to recommend the general policy relative to neutral rights. suggested- by the American. Government to the European States. Re adds that the pCitOd5 when the United States will haveoccasion to act the part of a belligerent wiU probably be few and brief."
+the propriety of Prussia improving the occasion to recommend the
+general policy relative to neutral rights suggested- by the American
+Government to the European States. He adds that the periods when the
+United States will have occasion to act the part of a belligerent will probably be few and brief."</p>
 
-THE CONFEDERATE STATES.
+<p rend="center">THE CONFEDERATE STATES.</p>
 
-Richmond advices report the arrival of the British Steamer Gladiator
+<p>Richmond advices report the arrival of the British Steamer Gladiator
 
 at Savannah and the Confederate steamer Vanderbilt at Charleston
 
-both vessels having rim the blockade. The former vessel, which had. been waiting at Nassau for some time, was laden with arms, stores, and
+both vessels having run the blockade. The former vessel, which had been waiting at Nassau for some time, was laden with arms, stores, and
 
-clii;aident Tyler died at Richmond on the 17th ult. after a very
+clothing.</p>
+<p>Ex-President Tyler died at Richmond on the 17th ult. after a very
 
-- brief illness. Mr. Tyler was elected Vice-President in 1840 by the Whig party, and succeeded to the presidential office on the death of General Harrison, in April, 1841. - - -  -
+ brief illness. Mr. Tyler was elected Vice-President in 1840 by the Whig party, and succeeded to the presidential office on the death of General Harrison, in April, 1841.</p>
 
-A report from New Orleans says that a large meeting of the 'French
+<p>A report from New Orleans says that a large meeting of the French
 
-- residents was held on the 10th tilt, to devise some means of leaving the
+residents was held on the 10th ult, to devise some means of leaving the
 
-confederate States. A committee was appointed to communicate ',vitli
+Confederate States. A committee was appointed to communicate with
 
-the Federal forces at Ship Island on the subject.
+the Federal forces at Ship Island on the subject.</p>
 
-BRITISH OFFICERS EN ROUTE FOR CANADA.
+<p rend="center">BRITISH OFFICERS EN ROUTE FOR CANADA.</p>
 
-The British officers who passed through the United States en route for Canada were pleased with the courtesy extended towards them by
+<p>The British officers who passed through the United States en route for Canada were pleased with the courtesy extended towards them by
 
-- the officials and the people; One of them who -went out by the Canada,. and arrived at Boston on the 10th i, writes a follows
+- the officials and the people; One of them who went out by the Canada, and arrived at Boston on the 10th ult., writes a follows:--
 
-on landing the next-morning the English passengers were no lees delighted,rised to find that the sinister anticipations which we had entarceSued of annoyance from the mob were 80 far from being roaijd tiui',t we were
+on landing the next-morning the English passengers were no lees
+delighted than surprised to find that the sinister anticipations which
+we had entertained of annoyance from the mob were so far from being
+realised that we were<pb n="137"></pb>
 received with the utmost politeness and courtesy. The whole of the baggage
 
-waspermitted to pass through the Custom House without examination, and in
+was permitted to pass through the Custom House without examination, and in
 
-no stogie instance was passport demanded, while, accustomed as I am to the attention and courtesy which a stranger usually receives in an American city, I was most agreeably astonished, so soon after the surrender of the Cornssisciooer, and in the very place of their late imprisonment, to be welcomed with a friendliness and a warmth which left nothing to be desired.
+no single instance was a passport demanded, while, accustomed as I am to the attention and courtesy which a stranger usually receives in an American city, I was most agreeably astonished, so soon after the surrender of the Commissioners, and in the very place of their late imprisonment, to be welcomed with a friendliness and a warmth which left nothing to be desired.</p>
 
-On the journey from Boston to Buffalo by the New York Central
+<p>On the journey from Boston to Buffalo by the New York Central
 
 Railway and its connections, the "conversation of the passengers on the
 
 topic of the day confirmed the opinion which I had formed at Boston,
 
-that a great reaction had set in in favour of England."
+that a great reaction had set in in favour of England."</p>
 
-CALIFOItBIA.
+<p rend="center">CALIFORNIA.</p>
 
-The State Legislature, which meets at Sacramento city, had adjourned to allow the water to subside. The people of San Franciaoo had sent; aid to the distressed citizens in cooked provisions and clothing. The American River, on which the city lies, rose at one time fifty feet. Very heavy rains continued to fail, and it was expected that the annual gold products of Oalfornia would be reduced by millions of dollars. Onagon and Washington Territory had been similarly visited
-BELLIGERENTS fl BItETIS PORTS.-An important letter: has
+<p>The State Legislature, which meets at Sacramento city, had
+adjourned to allow the water to subside. The people of San Francisco
+had sent aid to the distressed citizens in cooked provisions and
+clothing. The American River, on which the city lies, rose at one time
+fifty feet. Very heavy rains continued to fall, and it was expected
+that the annual gold products of California[sic] would be reduced by
+millions of dollars. Oregon and Washington Territory had been
+similarly visited.</p></div2>
 
-been addressed by Earl Russell to the Lords of the Admiralty laying down very stringent rules with regard to American vessels of war or privateers which may enterBritieh ports. No such vessels will be permitted to enter anof tire Bahama Islands without special leave of the LieutenantG-71.11-0.1'r ; and with reference to all British ports, whether in the United Xingdom or in the colonies, the vessels alluded to will not be allowed to obtain any of the facilities for warlike equipment; and, when a ship belonging to one belligerent has sailed, twenty-four hours must elapse before a ship belonging to the other belligerent may also leave the harbour.The fleet result of these instructions has been to get rid of the two visitors who have so long oututaid their welcome in Southampton waters. The Nahvflle is off, and the Tuscarora after her. The Tuscarora put to sea on Saturday, returning to Yarmouth Roads on Monday morning. Captain Eeegrssn, taking advantage of her return, at once notified to the Admiralty iii intention to sail, and thus obtained the twenty-four hours' startof his adversary. The Nashville steamed oCt on Monday afternoon, and when last seen she had made the passage of the Needles, and was 11 standing away for sea with all sail." A despatch states that the frigate Shannon had token up a position near the Federal ship Tuccarora, with the view of preventing her from following the Nashville before the expiry of the twentyfour hours prescribed. Captain Feagram and his officers seem to have kept their secret well, nothing whatever being known as to the destination of the Nashville. A large steamer has been seen off Caps Clear. She showed neither colours nor name, but from her general appearance and movements sire as suspected to be either a Federal or a Confederate war-vessel,
-P 13 the Politics UbetQMemewemay±ecerdtha in the fortunes of the American War there appears to have been, for the first time, a change in favour of the North. An engagement has taken place in Somerset County, in the State of Kentucky, where the Confederates, with a comparatively small force, made a dash to break the line which the Northern Generals seem to be seeking to draw around their antagonists. The fight was protracted, and, as usual, the numbers of the slain are in curiously small proportion to that of the combatants and of the hours during which the struggle is said to have "raged." But at length the death of the Southern General and a decided movement b the overpowering force of the North turned the day, and the Confederates fled, leaving their slain and many of their wounded. The Commander-in-Chief has had other foes to deal with, and has actually been compelled to submit to an examination before a Congress Committee as to his plans of the campaign. It is satisfactory to learn that the intelligent civilians. who sat in judgment on General M'CleUan were pleased to. admit that be seemed to know what
-he nnicrn of the Council j Certain of the organs of the South write in rather a despairing way as to the condition of its army; but there is no sign of compromise, and no doubt the strongest efforts will be made to hold out until it can be ascertained whether France and England, or either, will interpose by mediation or by an infraction of the blockade.
+<div2 id=" iln40.1130.003" n="Belligerents in British Ports"
+      type="Article">
+<head>BELLIGERENTS IN BRITISH PORTS.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1130</biblScope> 
+           <biblScope type="pages">p. 137</biblScope> 
+           <date value="1862-02-08">Feb. 8,1862</date>
+         <extent></extent>
+</bibl>
+<p>B<hi rend="smallcaps">ELLIGERENTS IN BRITISH PORTS.</hi>-An important letter: has
 
-A semi-ministerial admission that the three Powers-England, France, and Austria-disbelieve in the fitness of Mexico for self-government, and that two of them will take an active part in the establishment of a monarchy under an &ustrianArchduke, has occasioned considerable "sensation ;" but as the topic must receive ample consideration in both Houses of Parliament it may be well to delay judgment upon this new and boidmeamire. Were the Northern States at peace, we imagine that so unceremonious a disregard of the Monroe doctrine would rouse a storm which under existing circumstances it may be convenient to postpone. -
-OPENING- OF PARLIAMENT.
+been addressed by Earl Russell to the Lords of the Admiralty laying
+down very stringent rules with regard to American vessels of war or
+privateers which may enter BritiSh ports. No such vessels will be
+permitted to enter any port of the Bahama Islands without special
+leave of the Lieutenant Governor ; and with reference to all British
+ports, whether in the United Kingdom or in the colonies, the vessels
+alluded to will not be allowed to obtain any of the facilities for
+warlike equipment; and, when a ship belonging to one belligerent has
+sailed, twenty-four hours must elapse before a ship belonging to the
+other belligerent may also leave the harbour.The first result of these
+instructions has been to get rid of the two visitors who have so long
+outstaid their welcome in Southampton waters. The Nashville is off,
+and the Tuscarora after her. The Tuscarora put to sea on Saturday,
+returning to Yarmouth Roads on Monday morning. Captain Peagram, taking
+advantage of her return, at once notified to the Admiralty of his
+intention to sail, and thus obtained the twenty-four hours' start of
+his adversary. The Nashville steamed out on Monday afternoon, and when
+last seen she had made the passage of the Needles, and was  "standing
+away for sea with all sail." A despatch states that the frigate
+Shannon had taken up a position near the Federal ship Tuscarora, with
+the view of preventing her from following the Nashville before the
+expiry of the twenty-four hours prescribed. Captain Peagram and his
+officers seem to have kept their secret well, nothing whatever being
+known as to the destination of the Nashville. A large steamer has been
+seen off Cape Clear. She showed neither colours nor name, but from her
+general appearance and movements she was suspected to be either a Federal or a Confederate war-vessel.</p></div2>
+<div2 id="iln40.1130.004 n="The Illustrated London News"
+      type="Article">
+<dateline><hi rend="italic">LONDON,
+SATURDAY,FEBRUARY</hi>8,1862</dateline>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1130</biblScope> 
+           <biblScope type="pages">p. 140</biblScope> 
+           <date value="1862-02-08">Feb. 8,1862</date>
+         <extent></extent>
+</bibl>
 
-Boyal Commission. great iced wnlcn
+<p>Meantime we may record that in the fortunes of the American War
+there appears to have been, for the first time, a change in favour of
+the North. An engagement has taken place in Somerset County, in the
+State of Kentucky, where the Confederates, with a comparatively small
+force, made a dash to break the line which the Northern Generals seem
+to be seeking to draw around their antagonists. The fight was
+protracted, and, as usual, the numbers of the slain are in curiously
+small proportion to that of the combatants and of the hours during
+which the struggle is said to have "raged." But at length the death of
+the Southern General and a decided movement by the overpowering force
+of the North turned the day, and the Confederates fled, leaving their
+slain and many of their wounded. The Commander-in-Chief has had other
+foes to deal with, and has actually been compelled to submit to an
+examination before a Congress Committee as to his plans of the
+campaign. It is satisfactory to learn that the intelligent civilians
+who sat in judgment on General M'Clellan were pleased to admit that he
+seemed to know whathe was about, and certified to the people that
+there was no cause at present for interfering with the young
+Napoleon. Certain of the organs of the South write in rather a despairing way as to the condition of its army; but there is no sign of compromise, and no doubt the strongest efforts will be made to hold out until it can be ascertained whether France and England, or either, will interpose by mediation or by an infraction of the blockade.</p>
 
-The Imperial Parliament was Uened ebb Qhg8day afternoon by
+<p>A semi-ministerial admission that the three Powers-England, France,
+and Austria-disbelieve in the fitness of Mexico for self-government,
+and that two of them will take an active part in the establishment of
+a monarchy under an Austrian Archduke, has occasioned considerable
+"sensation ;" but as the topic must receive ample consideration in
+both Houses of Parliament it may be well to delay judgment upon this
+new and bold measure. Were the Northern States at peace, we imagine that so unceremonious a disregard of the Monroe doctrine would rouse a storm which under existing circumstances it may be convenient to postpone. </p>
+<div2 id="iln40.1130.005" n="Opening of Parliament" type="Article">
+<head>OPENING OF PARLIAMENT.</head>
+<bibl>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1130</biblScope> 
+           <biblScope type="pages">p. 144</biblScope> 
+           <date value="1862-02-08">Feb. 8,1862</date>
+         <extent></extent>
+</bibl>
+<p> The Imperial Parliament was opened on Thursday afternoon by Royal Commission.</p>
 
-Consort deprived the. carenoniaFfi! all the
+<p rend="center">THE QUEEN'S SPEEECH</p>
 
-cur with, which it is ordinarily associa e public mind
+<p> M<hi rend="italic">Y LORDS AND GENTLEMEN,</hi></p>
 
-There plendid procession, no g to catch a glimpse of
-
-the Queen, no hsi ' t scene ouse of Lords. The noble Lords who were included ommission went down privately to their
-
-¥and ~~67M,- ted the attendance of the House of and 7Zd 2, Speaker. accompanied by
-
-r' - '9 S er'
-
-their Lordships baa
-
-r.
-
-th- m.m ~,nd2
-
-=Pof theVinisters and o The Loan
-
-TIM QUEEN'S SPERC My LORDS AND GENTLEXEN,
-
-We are commanded by her Majesty to assure you :that her Majesty is
+<p>We are commanded by her Majesty to assure you that her Majesty is
 
 persuaded that you will deeply participate in the affliction by which her
 
 Majesty has been overwhelmed by the calamitous, untimely, and irreparable
 
-loss of her beloved consort, who has been her comfort and support.
+loss of her beloved consort, who has been her comfort and support.</p>
 
-It has been, however, soothing to her Majesty, while suffering most acutely under this awful dispensation of Providence, to receive from all classes of her subjects the most cordial assurances of their sympathy with her sorrow, as well as of their appreciation of the noble character of him the greatness of whose loss to her Majesty and to the nation Is so justly and so universally felt and, lamented.
+<p>It has been, however, soothing to her Majesty, while suffering most acutely under this awful dispensation of Providence, to receive from all classes of her subjects the most cordial assurances of their sympathy with her sorrow, as well as of their appreciation of the noble character of him the greatness of whose loss to her Majesty and to the nation is so justly and so universally felt and, lamented.</p>
 
-We ore commanded by her Majesty to assure you that she recurs with
+<p>We are commanded by her Majesty to assure you that she recurs with
 
-confidence to your assistance and advice.
+confidence to your assistance and advice.</p>
 
-Her Majesty's relations with all the European Powers continue to be friendly and satisfactory; and her Majesty trusts there is no reason to apprehend any disturbance of the peace of Europe.
+<p>Her Majesty's relations with all the European Powers continue to be friendly and satisfactory; and her Majesty trusts there is no reason to apprehend any disturbance of the peace of Europe.</p>
 
-A question of great Importance, and which might have led to very serious consequences, arose between her Majesty and the Government of the United States of North America, owing to the seizure end forcible removal of tour passengers from on board a British mail-packet by the commander of a ship of war of the United Stbtco; but that question has been satisfactorily settled, by the restoration of the passengers to British protection and by the die. avowably the United States' Government of the act of violence committed by their naval officer.
+<p>A question of great Importance, and which might have led to very serious consequences, arose between her Majesty and the Government of the United States of North America, owing to the seizure and forcible removal of four passengers from on board a British mail-packet by the commander of a ship of war of the United States; but that question has been satisfactorily settled, by the restoration of the passengers to British protection and by the disavowably the United States' Government of the act of violence committed by their naval officer.</p>
 
- The friendly relations between her Majesty and the President of the TJstited
+ <p>The friendly relations between her Majesty and the President of the United
 
-States have therefore remained unimpaired.
+States have therefore remained unimpaired.</p>
 
-Her Majesty warmly appreciates the loyalty and patriotic spirit which have been manifested on this occasion by her North American subjects.
+<p>Her Majesty warmly appreciates the loyalty and patriotic spirit
+which have been manifested on this occasion by her North American
+subjects.</p>
 
------r..
+<head>HOUSE OF LORDS.--THURSDAY.</head>
+<p rend="center">HER MAJESTY' SPEECH.-THE ADDRESS.</p>
 
-Earl G-RANVILLE expressed his ss.tisfaetion at the coarse which Lord Derby
+<p>>The Royal Speech hAving been read by the Lord Chancellor and again by the clerk at the table,</p>
+
+<p>Lord D<hi rend="smallcaps">UFFERIN</hi> moved an Address In reply, which, as usual, was a mere
+
+echo of the Speech from the Throne. Adverting to America, he pointed out the ties of Interest and parentage which bound us to the United States, and
+
+expressed his approval of the neutral attitude,the Government had assumed  very outbreak of the civil war now desolating that country. He regarded the disputes which had arisen between the Northern and Southern States as the result of an incompatibility of temper but, at the same time, he held that her Majesty's Government, in the wise precautions they had taken to protect the vast commercial interests of the nation and to maintain unimpaired the prestige of our naval prowess, had received the full sympathies of every British subject. Amid loud cheers from all sides of the House, he briefly adverted to the patriotism, and determined spirit which had been manifested by Canada when a war with the United States appeared even more than imminent. In conclusion, he expressed a hope that the course her Majesty's Government had taken, in conjunction with France and Spain, in reference to the state of Mexico, would result in the establishment of order and the resumption of commercial tranquillity.</p>
+
+<p>The Earl of S<hi rend="smallcaps">HELBURNE</hi> briefly seconded the Address.</p>
+
+<p>The Earl of D<hi rend="smallcaps">ERBY</hi> concurred with the mover
+and seconder of the Address in the tribute they had paid to the memory
+of Prince Albert; and said he felt that the peculiar circumstances under which they had met rendered it most desirable that there should be no unnecessary differences of opinion. With regard to the American difficulty, he was bound to admit that her Majesty's Government had no alternative in the course they had taken. The moment they found that the act of Captain Wilks was not sanctioned by international law, a grave, serious, and imperative duty devolved upon them from which they could not shrink. However great sight be the horrors of war, far greater must be the ignominy of forfeiting the honour of the country. He deeply regretted the course which the Federal Government had taken, because, although they had assented to the just demands of this country, they had done so with a very ill grace, though feeling that they were in the wrong and had placed themselves, their Government, and their people in a position of undeserved humiliation. They had yielded not to their own sense of justice but to a demand by force, because they knew that this country would be satisfied with no less. Yet, though he approved the course the Government had taken in reference to the American difficulty, he thought they ought to be cautious how they entered upon negotiations which had for their object an alteration in the principles upon which international law was now regulated.</p>
+
+
+<p>Earl G<hi rend="smallcaps">RANVILLE</hi> expressed his satisfaction at the course which Lord Derby
 
 had taken, and said that throughout the whole of the differences with the
 
 American Government her Majesty's Government had entertained but one
 
-desire, and that was the preservation of the neatrality of the csnatry, so far
+desire, and that was the preservation of the neutrality of the country, so far
 
-as the internecine disputes with America were concerned, but not at the cost of dishonour to the British name. The moment the outrages upon the Trait occurred the Government felt that they had, but one duty to perform, end that was instant and satisfactory reparation; and it afforded him the utmost pleasure to find that in the course they had taken they had been anaalmonsly
+as the internecine disputes with America were concerned, but not at
+the cost of dishonour to the British name. The moment the outrages
+upon the Trent occurred the Government felt that they had, but one
+duty to perform, end that was instant and satisfactory reparation; and
+it afforded him the utmost pleasure to find that in the course they
+had taken they had been unanimously supported by the feelings of the country.
 
--------- . ..._,_._u- .....- ..........
+Earl R<hi rend="smallcaps">USSELL</hi> stated that all the papers which related to the American
 
-Earl RUSSELL stated that all the papers which related to the lLenerican
-
-difficulty and to the affairs of Mexico should at an early day be laid before Parliament. He expressed his satisfaction at the manner in which the efforts of the Government to maintain the honour of the British Sag had been supported by the country, and drew a contrast between the unanimity which prevailed on the present occasion with what had, been the course adopted in former times when, whatever might be the proposition which might be sub. issitted by thus Ministers, it would be sure to mast with the dissent of the Opposition. Adverting to the present position of American affairs, he stated that there could be no doubt, from the rapid success which had attended the efiorts of the Confederates to break the blockade, that it was of a most ineffectual character, but at the same time the Government had no desire to press hardly on the Northern States, but hoped that they would be able themSalves to settle their difficulties with the Southerners. Whether this struggle ended in the total disruption or in more firmly cementing the Union, her Majesty's Government would feel that they had dons their duty to both sides by ,raservin a strict neutralit  ¥
+difficulty and to the affairs of Mexico should at an early day be laid before Parliament. He expressed his satisfaction at the manner in which the efforts of the Government to maintain the honour of the British flag had been supported by the country, and drew a contrast between the unanimity which prevailed on the present occasion with what had, been the course adopted in former times when, whatever might be the proposition which might be submitted by the Ministers, it would be sure to meet with the dissent of the Opposition. Adverting to the present position of American affairs, he stated that there could be no doubt, from the rapid success which had attended the efforts of the Confederates to break the blockade, that it was of a most ineffectual character, but at the same time the Government had no desire to press hardly on the Northern States, but hoped that they would be able themselves to settle their difficulties with the Southerners. Whether this struggle ended in the total disruption or in more firmly cementing the Union, her Majesty's Government would feel that they had done their duty to both sides by preserving a strict neutrality.</p>
 
 ¥ HER MAJESTY'S SPEEOH.'-THE ADDRESS.
 
@@ -3654,23 +3815,6 @@ HOUSE OF LORDS.-TauRSDAX.
 
 Their Lordship resumed aj five o'clock.
 
-RIM MAJRSTY'S SPEECH.-THE ADDRESS.
-
-The Royal Speech hdving been read by the Lord Chancellor and again by the clerk at the table,
-
-Lord iwgEn moved an Address In reply, which, as usual. was a sue
-
-echo of the Speech from the Throne, 116 a u n realm  58
-
-e death r , and described, the House, those ,ecu]1ar char en r response from . to the nation e next referred to
-
-characterle wermleulogteed, Adverting to America, he pointed out the ties of Interest and parentage which bound us to the United States, and
-
-=ied his approval of the neutral attitude,the Government had assumed 10= very outbreak of the civil war now desolating that country. He regarded the dlspntes which had arisen between the ortJaern and Southern. States as the result of an incompatibility of temper but, at the same time, he held that her Majesty's Government, in the wise precautions they had taken to protect. the vast commercial interests of the nation and to maintain unimpaired the prestige of our naval prowess, had received the full sympathies of every British subject. Amid loud cheers from all tided of the House, he briefly adverted to the patriotism, and determined spirit which had been manifested by Canada when a war with the United States appeared even more than imminent. In conelusion, ho expressed a hope that the course her Majesty's Government had taken, in conjunction with Trance and Spain, in reference to the abate of Mexico, would result in the esbehlJehnisnt of order and the resumption of commercial t-ranqnilli . MeThouglii ou iTTy Tj3lhInails y been product to the country; e that if her MajeSty'S Government parsueaedfiiatory policy they  nimone support
-
- he Earl o Sifl,muumeg briefly seconded the Address.
-
-The Earl of DEnY concurred with the mover and seconder of the Address in the tribute they had paid to the memory of Prince Albert; and said he felt that the peculiar clrcnmstancsauncler which they lead met rendered it most desirable that there should be no unnecessary differentee of opinion. With regard to the American difficulty, he was bound to admit that her Majesty's Government had no alternative in the course they had taken. The moment they found that the act of- Captain Wilke was not sanctioned by international law, a grave, serious, and Imperative duty devolved upon them from which they could not shrink. However great sight be the horrors of war, far greeter must be the ignominy of forfeiting the honour of the country. He deeply regretted the course which the Federal Government bed taken, because, although they had assented to the jest demands of this country, they had done so with a very ill grace, though feeling that they were in the wrong. and had placed themselves, their Government, and their people in a posltioie of undeserved humiliation. They had yielded not to their own sense of justice but to a demand by force, because they knew that this country would be satisfied with no lees. Yet, though he approved the course the Government had taken in retorenh to the American difficulty, he thought they ought to be cautious how they entered upon negotiations which bed for their object an alteration in the principios _upon which international law was now regulated _ _ney
 
 I- -- - ---  He remarked
 
