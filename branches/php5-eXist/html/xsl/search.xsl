@@ -19,7 +19,40 @@
 <xsl:template match="/"> 
     <!-- returning at the div2 (article/illustration) level -->
     <!-- pull out table of contents information -->
-    <xsl:apply-templates select="//div2" />
+
+    <xsl:choose>
+      <xsl:when test="//div2/count">
+        <xsl:element name="table">
+          <xsl:attribute name="class">searchresults</xsl:attribute>
+	  <xsl:element name="tr">
+	    <xsl:element name="th"/>
+	    <xsl:element name="th">number of matches</xsl:element>
+	  </xsl:element>
+          <xsl:apply-templates select="//div2" mode="count"/>
+        </xsl:element>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:apply-templates select="//div2" />
+      </xsl:otherwise>
+    </xsl:choose>
+
 </xsl:template> <!-- / -->
+
+
+<!-- put article title in a table in order to align matches count off to the side -->
+<xsl:template match="div2" mode="count">
+  <xsl:element name="tr">
+    <xsl:element name="td">
+      <xsl:apply-templates select="."/>
+    </xsl:element>
+    <xsl:element name="td">
+      <xsl:attribute name="class">count</xsl:attribute>
+	<!-- number of matches for a search -->
+      <xsl:apply-templates select="count"/>
+    </xsl:element>
+  </xsl:element>
+</xsl:template>
+
+
 
 </xsl:stylesheet>
