@@ -1,74 +1,201 @@
-THE ILLUSTRATED LONDON NEWSA
+THE ILLUSTRATED LONDON NEWS
 VOLUME 39
 
 {VOL. 39 ISSUE 1121 12-14-1861 PG. 612}
 
-TORCHLIGUT PROCESSION AT WASHINGTON.
 
-Os page 611 we give an Illustration of a torchlight procession at Washington by lilenkers Brigade to celebrate MClellan's promotion to the command of the Federal Army.- The central figure on horseback is General Blenker. The New York Tribune gives the following account of the Bleaker procession :-"Three thousand Germans of General Bleaker's division constituted a torchlight procession on Monday evening, November 11, and, with regimental bands and fireworks and coloured lights, marched to General M'Clehlan's house to celebrate his promotion. Transparencies and pyrotechnic pieces of the most beautiful designs were added to the attraction. All Washington was out to see. The crowds soon demanded the American stimulus of a speech, and the calls for Secretaries Cameron and Seward brought them to the balcony. They briefly addrcsecl the crowd. Calls were then made for General Bleaker, who said :-' Citizens and Sojers,-I.will say a few words, and it shall be few. If ever I find the enemy I will fight tousands, and tousanda of us will fight better as I speak this noble English' (Immense cheering). Cries were made continually for General M'Clellan, but lie merely appeared at different tunes upon the balcony, and bowed to the crowd of soldiers and civilians that filled the street from one side to the other. Within his house the General extemporised a generous collation, and gave a warm welcome to the offlcere who swarmed in to take him by the hand. The whole teatimnonmal was a Splendid success, and is due entirely to the spirit and liberality of General Blenker and his staff."
+<div2>
+<head> TORCHLIGHT PROCESSION AT WASHINGTON</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1121</biblScope> 
+           <biblScope type="pages">p. 612</biblScope> 
+           <date value="1861-12-14">December 14, 1861</date>
+	</bibl>
 
-The special correspondent of the Times at Washington writes as follows respecting this demonstration -"The prettiest sight I have seen since I crossed the Atlantic was the torchlight procession got up by General Blenker and hits Germans in honour of Major-General MOlellan on his promotion to the command of the Army. It Was something like a Bursehen procession, but it exceeded very much any displays of the kind in the number of torchbearers and the variety of colour and effect. The camp of the Bleaker men-famous for lager beer and quaint pipes, also for perverted notions respecting the ,neusm of Unionists and the tunnm of Secessionists-lips some miles across the Potomac, in the valleys and dells of the 'old dominion,' which is ncery as old as Canadm,and is meeting with very rude treatment in its primitive antiquity. From it they came in a grand procession, with hands playing and rough chorus-singing, and tiled over the Longbridge in a dancing sweant of fire-blue, green, red, yellow, orange, and dazzling white. Time air was still, the night fine, and nothing could have been more successful than the fireworks in their way, or the impression produced by the stream crested with lire, which first ghved like a torrent of lava, then gradually broke its particles into a broad ribbon of nebulous flames, which, coming nearer, was resolved into balls of diverse-coloured light, and, thus winding on, thinned avay into a narrow stripe of orange-like molten iron running through the black courses of the mould. The 'Dutchmen' pursued their career by Pennsylvania-avenue, psst the State Department, and, turning in at the gates of the White House, treated the President to a sight of the demoastration intended for his benefit."
+<p>O<hi rend="smallcaps">N</hi> page 611 we give an Illustration of a torchlight procession at Washington by Blenker's Brigade to celebrate M'Clellan's promotion to the command of the Federal Army. The central figure on horseback is General Blenker. The <hi rend="italics">New York Tribune</hi> gives the following account of the Blenker procession:- "Three thousand Germans of General Blenker's division constituted a torchlight procession on Monday evening, November 11, and, with regimental bands and fireworks and coloured lights, marched to General M'Clellan's house to celebrate his promotion. Transparencies and pyrotechnic pieces of the most beautiful designs were added to the attraction. All Washington was out to see. The crowds soon demanded the American stimulus of a speech, and the calls for Secretaries Cameron and Seward brought them to the balcony. They briefly addressed the crowd. Calls were then made for General Blenker, who said :- 'Citizens and Sojers,-I will say a few words, and it shall be few. If ever I find the enemy I will fight tousands, and tousands of us will fight better as I speak this noble English' (Immense cheering). Cries were made continually for General M'Clellan, but he merely appeared at different times upon the balcony, and bowed to the crowd of soldiers and civilians that filled the street from one side to the other. Within his house the General extemporised a generous collation, and gave a warm welcome to the officers who swarmed in to take him by the hand. The whole testimonial was a splendid success, and is due entirely to the spirit and liberality of General Blenker and his staff."</p>
+
+<p>The special correspondent of the <hi rend="italics">Times</hi> at Washington writes as follows respecting this demonstration:-"The prettiest sight I have seen since I crossed the Atlantic was the torchlight procession got up by General Blenker and his Germans in honour of Major-General M'Clellan on his promotion to the command of the Army. It was something like a Burschen procession, but it exceeded very much any displays of the kind in the number of torchbearers and the variety of colour and effect. The camp of the Blenker men-famous for lager beer and quaint pipes, also for perverted notions respecting the <hi rend="italic">meum</hi> of Unionists and the <hi rend="italic">tuum</hi> of Secessionists-lies some miles across the Potomac, in the valleys and dells of the 'old dominion,' which is nearly as old as Canada,and is meeting with very rude treatment in its primitive antiquity. From it they came in a grand procession, with bands playing and rough chorus-singing, and filed over the Longbridge in a dancing stream of fire-blue, green, red, yellow, orange, and dazzling white. The air was still, the night fine, and nothing could have been more successful than the fireworks in their way, or the impression produced by the stream crested with fire, which first glowed like a torrent of lava, then gradually broke its particles into a broad ribbon of nebulous flames, which, coming nearer, was resolved into balls of diverse-coloured light, and, thus winding on, thinned away into a narrow stripe of orange-like molten iron running through the black courses of the mould. The 'Dutchmen' pursued their career by Pennsylvania-avenue, past the State Department, and, turning in at the gates of the White House, treated the President to a sight of the demonstration intended for his benefit."</p>
+	  </div2>
 
 {VOL. 39 ISSUE 1121 12-14-1861 PG. 612}
 
-THE Episcopal Church at Fairfax Court house. in Virginia,
+<div2>
+<head> [The Episcopal Church at Fairfax]</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1121</biblScope> 
+           <biblScope type="pages">p. 612</biblScope> 
+           <date value="1861-12-14">December 14, 1861</date>
+	</bibl>
 
-has been detroycd by the Confederate and Federal troops. The church was one of the oldest in the United Stetee. It was built by Lord lairfax, and the puh1,it and altar were constructed in England. It was in this church and at
-
-thili jlLaryhab Ucrge Wnshinetsn wMhek -
+<p>The Episcopal Church at Fairfax Court house, in Virginia, has been detroyed by the Confederate and Federal troops. The church was one of the oldest in the United States. It was built by Lord Fairfax, and the pulpit and altar were constructed in England. It was in this church and at this altar George Washington was married.</p>
+	  </div2>
 
 {VOL. 39 ISSUE 1121 12-14-1861 PG. 612}
 
-GENERAL M'CLELLAN.
+<div2>
+<head> GENERAL M'CLELLAN.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1121</biblScope> 
+           <biblScope type="pages">p. 612</biblScope> 
+           <date value="1861-12-14">December 14, 1861</date>
+	</bibl>
 
-Ox the retirement of General Scott, on the 31st of last October, General M'Clellan was formally declared Commander-in-Chief of tho Federal foree, of whia he had been for some time the actual head. George M(jleilais was born at Philadelphia in December, 1826, and destined for the military service. In his sixteenth year lie was sent to West Point, and left it in 1816, as Second Lieutenant in the Engineers, to take part in the Mexican War. His bravery in the battles of Contrera,s and Cliurubusco gained him promotion, and at the storming of the forts of Moliso do! Roy and Chapultepec his conduct was so brilliant that it gained bliss his captaincy. After the peace he was appointed a teacher at West Point, whore he wrote S manual of the nit of war, which is highly esteemed by American soldiers. Alter this he built Fort Delaware, and then was ordered to Texas and New Mexico to make a topographic survey of the district through which the Pacific Railway was to run. This difficult task was interrupted by's summons to Washington, where the military department had selected him, iii conjunction with Major Mordecai and Captain Delaüeld, to go and witness the operations in the Crimea, which excited as great interest in America as they did in Europe. As there was no prospect of active service on his return home, MClellan determined to leave the army, and accepted the post of technical director to the Illinois Central Railway, winch lie held for several years with credit. In this position the outlireik of the civil war surprised him, and, as ho was universally respected and known in the West, lie was at once called to a bight post, The Governor of Ohio appointed him Major-General and chief of the militia of that Slate ; but by the recommendation of General Scott he was made MajorGeneral of the regular Army, and intrusted with a most important command in Western Virginia. After the defeat of the Federal army at Bull Run, M'Cleljnn was summoned to Washington to take supreme command. A Washington letter describes the enthusiasm felt by his men for General MCiehlan
-
-General h1'Cleilan (it states) is one of the least pretentious of men; he generally wears the simple blouse of the rifleman, with not even the starred houIder-itaps to denote his rank ; a man who never wastes time--who is indefatigable in his pursuit and attack of the enemy, and equally untiring in his efforts to secure the utmost comfort of his men compatible with the circumstances of a soldier's life. When his line is on the march lie is ever among the men, with a kind and cheering word for every company-a pleasant look, or kind salute, or hearty grasp of the hand for every officer or private with whom lie is brought on speaking terms by business; and in a light lie is always at tile front of the column, in the thickest of the danger, encouraging his soldiers by cheering word and fearless deed, lie takes soldiers fare with tire rest, asking no better food, and no more luxurious bed than the newestrecruited private under his command. If he sees a nian without proper shoes or clothing he has that man with his Captain sent to his own quarters, where the man is served with the garments lie needs and the Csptain receives a reprimand that leads him to look more closely after the comfort of his men in future."
-
-{VOL. 39 ISSUE 1122 12-21-1861 PG. 617}
-
-Commander Williams, who had charge of the maM
-
-the Trout at the time of the seizure of Messrs. Slidell and Mason, was on Thursday week entertained at a complimentary dinner by the members of tSe ItvyalWtstern Yuoht Club. -  -
-
-{VOL. 39 ISSUE 1122 12-21-1861 PG. 617}
-
-Message of President Lincoln to the Federal Congress, hich contains 778 words, was telegraphed from Washington to New York in one hour and thirty two minutes.
+<p>O<hi rend="smallcaps">N</hi> the retirement of General Scott, on the 31st of last October, General M'Clellan was formally declared Commander-in-Chief of the Federal forces, of which he had been for some time the actual head. George M'Clellan was born at Philadelphia in December, 1826, and destined for the military service. In his sixteenth year he was sent to West Point, and left it in 1846, as Second Lieutenant in the Engineers, to take part in the Mexican War. His bravery in the battles of Contreras and Churubusco gained him promotion, and at the storming of the forts of Molino del Rey and Chapultepec his conduct was so brilliant that it gained him his captaincy. After the peace he was appointed a teacher at West Point, where he wrote a manual of the art of war, which is highly esteemed by American soldiers. After this he built Fort Delaware, and then was ordered to Texas and New Mexico to make a topographic survey of the district through which the Pacific Railway was to run. This difficult task was interrupted by a summons to Washington, where the military department had selected him, in conjunction with Major Mordecai and Captain Delafield, to go and witness the operations in the Crimea, which excited as great interest in America as they did in Europe. As there was no prospect of active service on his return home, M'Clellan determined to leave the army, and accepted the post of technical director to the Illinois Central Railway, which he held for several years with credit. In this position the outbreak of the civil war surprised him, and, as he was universally respected and known in the West, he was at once called to a high post. The Governor of Ohio appointed him Major-General and chief of the militia of that State ; but by the recommendation of General Scott he was made Major-General of the regular Army, and intrusted with a most important command in Western Virginia. After the defeat of the Federal army at Bull Run, M'Clellan was summoned to Washington to take supreme command. A Washington letter describes the enthusiasm felt by his men for General M'Clellan:- "General M'Clellan (it states) is one of the least pretentious of men; he generally wears the simple blouse of the rifleman, with not even the starred shoulder-straps to denote his rank; a man who never wastes time-who is indefatigable in his pursuit and attack of the enemy, and equally untiring in his efforts to secure the utmost comfort of his men compatible with the circumstances of a soldier's life. When his line is on the march he is ever among the men, with a kind and cheering word for every company-a pleasant look, or kind salute, or hearty grasp of the hand for every officer or private with whom he is brought on speaking terms by business; and in a fight he is always at the front of the column, in the thickest of the danger, encouraging his soldiers by cheering word and fearless deed. He takes soldier's fare with the rest, asking no better food, and no more luxurious bed than the newest-recruited private under his command. If he sees a man without proper shoes or clothing he has that man with his Captain sent to his own quarters, where the man is served with the garments he needs and the Captain receives a reprimand that leads him to look more closely after the comfort of his men in future."</p>
+	  </div2>
 
 {VOL. 39 ISSUE 1122 12-21-1861 PG. 617}
 
-THE CIVIL WAR IN AMERICA.
+<div2>
+<head> [Commander Williams]</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1122</biblScope> 
+           <biblScope type="pages">p. 617</biblScope> 
+           <date value="1861-12-21">December 21, 1861</date>
+	</bibl>
 
-By the ariivnl of the Bohemian, from Portland, we have New York eIegrama to the 7th inst. Congress assembled on the 2nd, end immelately passed reuclutions thanking Captain WUks for his arrest of the 'traitois" Slidell and Mason. Resolutions were also voted which requested the President to confine these two gentlemen in the cells of convicted felons until Colonels (Jorcoran and Wood should be treated as prisoners of war. Mr. Eliot, of Massachusetts, offered a series of rcsolut inns declaring that the war is waged simply for the re-establishment of the Union, but insisting upon the right of the President to emancipate all persons held as slaves in any militay district in a state of inurrceUon, and advising such a course. £he house refused to veto the resolution-by seventy against fifty-six-but its conBidet-steen was postponed for a week. In the Senate Mr. Trumbull, of lllinoi, gave notice of a bill to confiscate the propci ty of rebels and to give freedom to persons in the Slave States. On the second day the President's Message was received and read, and the reports of the several Departments of State were handed in to the Senate an, house of Representatives, except that of the Secretary of the 'I'reasury, which would not be ready for a few days. Subsequently, Messrs. Breckinridge and Burnett, of Kentucky, were expelled from Congress; and a committee had been appointed by the House to inquire into the expediency of abolishing slavery in the district of Columbia.
+<p>Commander Williams, who had charge of the mails on  board the Trent at the time of the seizure of Messrs. Slidell and Mason, was on Thursday week entertained at a complimentary dinner by the members of the Royal Western Yacht Club.</p>
+	  </div2>
 
-THE PRESIDENT'S MESSACE.
+{VOL. 39 ISSUE 1122 12-21-1861 PG. 617}
 
-After congratulating the country on its abundant harvests, the President refers to the foreign relations of the Republic in these
+<div2>
+<head> [The Message of President Lincoln] </head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1122</biblScope> 
+           <biblScope type="pages">p. 617</biblScope> 
+           <date value="1861-12-21">December 21, 1861</date>
+	</bibl>
 
-terms .,,on a ill not be surprised to learn that, In the peculiar exigencies of the times, our Intercourse with foreign nations has been attended with profound solicitude, cl.kIIy turning upon our own domestic affairs. A disloyal portion of the American people have, slating the whole year, been engaged In an attempt to divide and destroy the Union. A nation which endures factions domcetic divlclono Is evpoeed to disrespect abroad, and one party, if not both, is sure, sooner cc later, to invoke foreign intervention. Natlon.e thus tempted to interfere are not always able to resist the counsels of seeming expediency ted ungenerous ambition, although measures adopted under such influences seldom fail to be unfortunate and injurious to those adopting them.
+<p>The Message of President Lincoln to the Federal Congress, which contains 7578 words, was telegraphed from Washington to New York in one hour and thirty two minutes.</p>
+	  </div2>
 
- The disloyal citizens of the United States who have offered the ruin of our ecuniry in return for the old and comfort which they have invoked abroad have received less patronage and encouragement than they probably expected. if it were just to suppose, as the insurgents have seemed to assume, that foreign ucliotis, in this case, discarding all moral, social, said treaty obligations, would act solely and Selfishly for the most speedy restoration of coinmetes, including especially the acquisition of cotton, those nations appear as yet not to have seen their way to their object more directly or clearly through the destruction than through the preservation of the Union. If we could dare to believe that foreign nations are actuated by no higher principle than this, I am quite rare a second argument could be mode to show them that they can roach their aim more readily and easily by aiding to crush this rebellion thon by giving encouragement to it.
+{VOL. 39 ISSUE 1122 12-21-1861 PG. 617}
 
-The principal lever relied on by the insurgents for exciting foreign nations
-to hostility against its, as already intimated, to the embarrassment of cainmerce. Those nations, however, not improbably saw from this heat that it was the Union which made as well our foreign as our domestic commerce. They can scarcely have failed to perceive that the effort for disunion produces the existing clilIlculty, and that one strong nation produces more durable peace, and a more extensive, valuable, and reliable commerce than can the same nation broken Into hostile fragments.
+<div2>
+<head> THE CIVIL WAR IN AMERICA.</head>
+      <bibl> 
+        <title>The Illustrated London News</title> 
+           <biblScope type="volume">vol. 39</biblScope> 
+           <biblScope type="issue">no. 1122</biblScope> 
+           <biblScope type="pages">p. 617</biblScope> 
+           <date value="1861-12-21">December 21, 1861</date>
+	</bibl>
 
-It is not icy purposa to review our discussions with foreign States, because, whatever might be their wishes or dhsposition, tile integrity of our country and the tsbility of our (lovrrnnsent mainly depends, not upon them, but on the loyally, virtue, patiiotism, and intelligence of the Amricsn people. The correspondence itself, with the usual reservations, is herewith submitted. I venture to hope it will appear that we have practiced prudence and liberality towards foreign Powers, averting causes of irritation, and, with tirinness, maintaining our own rights and honour. Since, however, it Is apparent that here, as in avery other State, foreign dangers necessarily attend doinstic difficulties, I recommend that adequate and ample measures to rioptcd for maintaining the public defences on every aide, while, snider this g neral recommendation, prosi5ion for defending our coast line readily occule t, the mind. I also, in the same connection, ask the attention of Congress to o ir great lakes and rivers. Sc is believed that some fortilications and dp6ts o arnie and munitions, with harbour and navigation improvements at wellrileclid points upon these, would be of great importance to the national defence and preteivatlOn.
+<p>B<hi rend="smallcaps">Y</hi> the arrival of the Bohemian, from Portland, we have New York telegrams to the 7th inst. Congress assembled on the 2nd, and immediately passed resolutions thanking Captain Wilks for his arrest of the "traitors" Slidell and Mason. Resolutions were also voted which requested the President to confine these two gentlemen in the cells of convicted felons until Colonels Corcoran and Wood should be treated as prisoners of war. Mr. Eliot, of Massachusetts, offered a series of resolutions declaring that the war is waged simply for the re-establishment of the Union, but insisting upon the right of the President to emancipate all persons held as slaves in any militay district in a state of insurrcetion, and advising such a course. The House refused to veto the resolution-by seventy against fifty-six-but its consideration was postponed for a week. In the Senate Mr. Trumbull, of Illinois, gave notice of a bill to confiscate the property of rebels and to give freedom to persons in the Slave States. On the second day the President's Message was received and read, and the reports of the several Departments of State were handed in to the Senate and house of Representatives, except that of the Secretary of the Treasury, which would not be ready for a few days. Subsequently, Messrs. Breckinridge and Burnett, of Kentucky, were expelled from Congress; and a committee had been appointed by the House to inquire into the expediency of abolishing slavery in the district of Columbia.</p>
 
- The President pseserves a judicious silence on the affair of the Trent and San .1 acinto.
+<p>THE PRESIDENT'S MESSACE.</p>
 
-On the vital subject of emancipation by the right of war, he uses the following guarded yet significant language
+<p>After congratulating the country on its abundant harvests, the President refers to the foreign relations of the Republic in these terms:-</p>
+<p>You will not be surprised to learn that, in the peculiar exigencies of the times, our intercourse with foreign nations has been attended with profound solicitude, chiefy turning upon our own domestic affairs. A disloyal portion of the American people have, during the whole year, been engaged in an attempt to divide and destroy the Union. A nation which endures factions domestic divisions is exposed to disrespect abroad, and one party, if not both, is sure, sooner or later, to invoke foreign intervention. Nations thus tempted to interfere are not always able to resist the counsels of seeming expediency and ungenerous ambition, although measures adopted under such influences seldom fail to be unfortunate and injurious to those adopting them.</p>
 
-In conriclerlag the policy to bo'-adopteil for suppressing the Insurrection I have hem anxious and careful that the inevitable conflict for this purpose shall not dogenet ate iat a violent and remorseless revolutionary struggle. I have, tlicrelore, in every case, thought it proper to keep the integrity of the
+<p>The disloyal citizens of the United States who have offered the ruin of our country in return for the aid and comfort which they have invoked abroad have received less patronage and encouragement than they probably expected. If it were just to suppose, as the insurgents have seemed to assume, that foreign nations, in this case, discarding all moral, social, said treaty obligations, would act solely and selfishly for the most speedy restoration of commerce, including especially the acquisition of cotton, those nations appear as yet not to have seen their way to their object more directly or clearly through the destruction than through the preservation of the Union. If we could dare to believe that foreign nations are actuated by no higher principle than this, I am quite sure a second argument could be made to show them that they can reach their aim more readily and easily by aiding to crush this rebellion than by giving encouragement to it.</p>
 
-• U ,ilOn pioluilsent as the primary object of the contest on our part, leaving all
+<p>The principal lever relied on by the insurgents for exciting foreign nations to hostility against us, as already intimated, to the embarrassment of commerce. Those nations, however, not improbably saw from the first that it was the Union which made as well our foreign as our domestic commerce. They can scarcely have failed to perceive that the effort for disunion produces the existing difficulty, and that one strong nation produces more durable peace, and a more extensive, valuable, and reliable commerce than can the same nation broken into hostile fragments.</p>
 
-questions which ire list of vitlil military importance to the more deliberate action of the Legislature. In 11,0 exercise of my best discretion have edtior,'d to the blockade of the ports held by the insurgents, instead of putting in terre, by proclamation, the law of Congress enacted at the last Session for closing those ports. So, also, obeying the dictates of prudence as well as the obligations of law, instead of transcending I have adheres! to the Act of Congress to con tlecata priJIerty, and for insurrectionary purposes. If a new law upon the Baltic subject shall be proposed its propriety will be duly con' 5ideresi. The Union must he preserved, and hence all indispensable means must be employed. We should not be in haste to determine that radical and extreme measures, which may reach the loyal as well a the disloyal, are indispensable.
+<p>It is not my purpose to review our discussions with foreign States, because, whatever might be their wishes or dispositions, the integrity of our country and the stability of our Government mainly depends, not upon them, but on the loyalty, virtue, patriotism, and intelligence of the American people. The correspondence itself, with the usual reservations, is herewith submitted. I venture to hope it will appear that we have practiced prudence and liberality towards foreign Powers, averting causes of irritation, and, with firmness, maintaining our own rights and honour. Since, however, it is apparent that here, as in every other State, foreign dangers necessarily attend domestic difficulties, I recommend that adequate and ample measures be adopted for maintaining the public defences on every side, while, under this general recommendation, provision for defending our coast line readily occurs to the mind. I also, in the same connection, ask the attention of Congress to our great lakes and rivers. It is believed that some fortications and d&eacute:p&ocirc:ts of arms and munitions, with harbour and navigation improvements at well-selected points upon these, would be of great importance to the national defence and preservation.</p>
 
-THE REPORT OF THE SECRETARY OF WAR.
+<p>The President preserves a judicious silence on the affair of the Trent and San Jacinto.</p>
 
-Secretary Cameron presents the following statement of the entire
+<p>On the vital subject of emancipation by the right of war, he uses the following guarded yet significant language:-</p>
 
-strength of the Federal Army, both volunteers and regulate:
+<p>In considering the policy to be adopted for suppressing the insurrection I have been anxious and careful that the inevitable conflict for this purpose shall not degenerate into a violent and remorseless revolutionary struggle. I have, therefore, in every case, thought it proper to keep the integrity of the union prominent as the primary object of the contest on our part, leaving all questions which are not of vital military importance to the more deliberate action of the Legislature. In the exercise of my best discretion I have adhered to the blockade of the ports held by the insurgents, instead of putting in force, by proclamation, the law of Congress enacted at the last Session for closing those ports. So, also, obeying the dictates of prudence as well as the obligations of law, instead of transcending I have adhered to the Act of Congress to confiscate property, and for insurrectionary purposes. If a new law upon the same subject shall be proposed its propriety will be duly considered. The Union must be preserved, and hence all indispensable means must be employed. We should not be in haste to determine that radical and extreme measures, which may reach the loyal as well as the disloyal, are indispensable.</p>
+
+<p>THE REPORT OF THE SECRETARY OF WAR.</p>
+
+<p>Secretary Cameron presents the following statement of the entire strength of the Federal Army, both volunteers and regulars:</p>
+<table rows="16" cols="8">
+     <row role="label">
+         <cell>States.</cell>
+         <cell>3 mos.</cell>
+         <cell>The war.</cell>
+         <cell>Aggregate.</cell>
+         <cell>States.</cell>
+         <cell>3 mos.</cell>
+         <cell>The war.</cell>
+         <cell>Aggregate.</cell>
+     <row>
+         <cell role="label">California..</cell>
+         <cell>-</cell> <cell>4,688</cell> <cell>4,688</cell> <cell>New York..</cell> <cell> 10,188</cell> <cell>100,200</cell> <cell>110,388</cell>
+	    </row>
+     <row>
+         <cell role="label">Connecticut</cell>
+         <cell>2,236</cell> <cell>12,400</cell> <cell>14,636</cell> <cell>Ohio.....</cell> <cell> 10,236</cell> <cell>81,205</cell> <cell>91,441</cell>
+	    </row>
+     <row>
+         <cell role="label">Delaware..</cell>
+         <cell>775</cell> <cell>2,000</cell> <cell>2,775</cell> <cell>Pennsyl-</cell> <cell> 19,199</cell> <cell> 94,760</cell> <cell>113,959</cell>
+	    </row>
+     <row>
+         <cell role="label">Illinios</cell>
+         <cell>4941</cell> <cell>80,000</cell> <cell>84,941</cell> <cell>  vania</cell> <cell></cell> <cell></cell> <cell></cell>
+	    </row>
+     <row>
+         <cell role="label">Indiana....</cell>
+         <cell>4,686</cell> <cell>57,332</cell> <cell>62,018</cell> <cell>Rhode</cell> <cell> 1,285</cell> <cell> 5,898</cell> <cell>7,183</cell>
+	    </row>
+     <row>
+         <cell role="label">Iowa</cell>
+         <cell>968</cell> <cell>19,800</cell> <cell>20,768</cell> <cell>Island</cell> <cell></cell> <cell></cell> <cell></cell>
+	    </row>
+      <row>
+         <cell role="label">Kentucky</cell>
+         <cell>-</cell> <cell>15,000</cell> <cell>15,000</cell> <cell>Vermont..</cell> <cell> 780</cell> <cell> 8,000</cell> <cell>8,780</cell>
+	    </row>
+      <row>
+         <cell role="label">Maine......</cell>
+         <cell>768</cell> <cell>14,230</cell> <cell>15,007</cell> <cell>Virginia..</cell> <cell> 779</cell> <cell> 12,000</cell> <cell>12,779</cell>
+	    </row>
+      <row>
+         <cell role="label">Maryland</cell>
+         <cell>-</cell> <cell>7,000</cell> <cell>7,000</cell> <cell>Wisconsin</cell> <cell> 792</cell> <cell> 14,153</cell> <cell>14,945</cell>
+	    </row>
+      <row>
+         <cell role="label">Massachu-</cell>
+         <cell>3,435</cell> <cell>26,760</cell> <cell>30,195</cell> <cell>Kansas</cell> <cell>-</cell> <cell>5,000</cell> <cell>5,000</cell>
+	    </row>
+      <row>
+         <cell role="label">   setts</cell>
+         <cell></cell> <cell></cell> <cell></cell> <cell>Colorado</cell> <cell>-</cell> <cell>1,000</cell> <cell>1,000</cell>
+	    </row>
+      <row>
+         <cell role="label">Michigan..</cell>
+         <cell>781</cell> <cell>28,550</cell> <cell>29,331</cell> <cell>Nebraska..</cell> <cell>-</cell> <cell>2,500</cell> <cell>2,500</cell>
+	    </row>
+      <row>
+         <cell role="label">Minnesota</cell>
+         <cell>-</cell> <cell>4,160</cell> <cell>4,160</cell> <cell>Nevada</cell> <cell>-</cell> <cell>1,000</cell> <cell>1,000</cell>
+	    </row>
+      <row>
+         <cell role="label">Missouri....</cell>
+         <cell>9,356</cell> <cell>22,130</cell> <cell>31,486</cell> <cell>New Mexico</cell> <cell>-</cell> <cell>1,000</cell> <cell>1,000</cell>
+	    </row>
+      <row>
+         <cell role="label">   New  </cell>
+         <cell>779</cell> <cell>9,600</cell> <cell>10,379</cell> <cell>District of</cell> <cell>2,823</cell> <cell> 1,000</cell> <cell>3,823</cell>
+	    </row>
+      <row>
+         <cell role="label">Hampshire</cell>
+         <cell></cell> <cell></cell> <cell></cell> <cell>Columbia</cell> <cell></cell> <cell></cell> <cell></cell>
+	    </row>
+      <row>
+         <cell role="label">New Jersey</cell>
+         <cell>3,068</cell> <cell>9,342</cell> <cell>12,410</cell> <cell>Total</cell> <cell>---</cell> <cell>---</cell> <cell>---</cell>
+	    </row>
+      <row>
+         <cell role="label"></cell>
+         <cell></cell> <cell></cell> <cell></cell> <cell></cell> <cell>77,875</cell> <cell>640,637</cell> <cell>718,512</cell>
+	    </row>
+	  </table>
 
 V0LONTWEHS. Yo,.rsracr,q. -- ---
 
