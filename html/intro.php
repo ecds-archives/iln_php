@@ -1,12 +1,10 @@
-<html>
-<head>
-<title>Introduction - The Civil War in America from The Illustrated London News</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="Javascript" 
-	src="http://cti.library.emory.edu/iln/browser-css.js"></script> 
-</head>
+<?php
+include("common_functions.php");
+html_head("Introduction");
+?>
 
 <body>
+
 <?php
 include("xml/head.xml");
 include("xml/sidebar.xml");
