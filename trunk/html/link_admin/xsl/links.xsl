@@ -11,10 +11,37 @@
   </xsl:template>
   
   <xsl:template match="link_record">
+   <xsl:element name="p">
+     
+     <xsl:element name="table">
+       <xsl:element name="tr"><xsl:element name="td">
+     
     <xsl:element name="table">
       <xsl:attribute name="border">1</xsl:attribute>
+      <xsl:attribute name="width">475</xsl:attribute>
       <xsl:apply-templates />
-    </xsl:element>
+    </xsl:element> <!-- link_record table -->
+
+   </xsl:element>  <!-- td -->
+    
+   <xsl:element name="td">
+     
+   <xsl:element name="p">
+     <xsl:element name="a">
+      <xsl:attribute name="href">delete_link.php?url=<xsl:value-of select="./dc:identifier"/></xsl:attribute>Delete</xsl:element> <!-- a -->
+   </xsl:element> <!-- p -->
+    
+  <xsl:element name="p">
+    <xsl:element name="a">
+      <xsl:attribute name="href">modify_link.php?url=<xsl:value-of select="./dc:identifier"/></xsl:attribute>Modify</xsl:element> <!-- a -->
+  </xsl:element> <!-- p -->
+
+    </xsl:element> <!-- td -->
+   </xsl:element> <!-- tr -->
+
+ </xsl:element> <!-- outer table -->
+
+   </xsl:element> <!-- p -->
   </xsl:template>  <!-- end record -->
 
   <xsl:template match="dc:title">

@@ -1,21 +1,23 @@
 <?php
-include("../common_functions.php");
+include_once ("subjectList.class.php");
+include_once ("common_funcs.php");
 
-$url = 'http://vip.library.emory.edu/tamino/BECKCTR/iln_links?_xquery=
-declare namespace dc="http://purl.org/dc/elements/1.1/"
-for $b in input()/link_collection/subject_list
-return $b';
-$url = encode_url($url);
-$list_xsl = "subjlist.xsl";
-$select_xsl = "subjsel.xsl";
+html_head("Links - Manage Subjects");
 
-$xmlContent = file_get_contents($url);
-$result = transform($xmlContent, $list_xsl); 
-print "<h2>Current subject headings</h2>";
-print $result;
+$myargs = array('host' => "vip.library.emory.edu",
+		'db' => "BECKCTR",
+		'coll' => 'iln_links');
+$subjects = new subjectList($myargs);
 
-print "<hr><h2>Add a new subject</h2>";
-print '<form action="process_subj.php" method="get"> 
+print '<div class="contents">
+<h2>Manage Subjects</h2>';
+include("nav.html");
+print "<hr>";
+print "<h3>Current subject headings</h3>";
+$subjects->printHTMLList();
+
+print '<hr><h3>Add a new subject</h3>
+<form action="modify_subj.php" method="get"> 
 <input type="hidden" name="mode" value="add">
 <table>
  <tr>
@@ -28,19 +30,7 @@ print '<form action="process_subj.php" method="get">
 </form>
 ';
 
-
-// retransform xml into form select option list
-$result = transform($xmlContent, $select_xsl); 
-print "<hr><h2>Remove an existing subject</h2>";
-print '<form action="process_subj.php" method="get"> 
-<input type="hidden" name="mode" value="del">
-<select name="subj" size="5" multiple>'; 
-print $result; 
-print '</select>
-<input type="submit" value="Remove">
-<input type="reset">
-</form>
-';
-
+print "<hr><h3>Remove an existing subject</h3>";
+$subjects->printRemovalForm();
 
 ?>
