@@ -1430,7 +1430,6 @@ vessel was engaged in towing the disabled men-of-war from the thickest of the fi
 <p>Mr. Thurlow Weed, who is at present in this country, contradicts the statement that General Scott has returned to America in obedience to an urgent request from his Government. Mr. Weed states that the veteran General has gone back to Washington solely from a desire to be "at his post." at a time of "threatened danger."</p>
       </div2>
 
-{VOL. 39 ISSUE 1122 12-21-1861 PG. 620}
 
 <div2>
 <head> LONDON, SATURDAY, DECEMBER 21,1861</head>
@@ -1441,16 +1440,11 @@ vessel was engaged in towing the disabled men-of-war from the thickest of the fi
            <biblScope type="pages">p. 620</biblScope> 
            <date value="1861-12-21">December 21, 1861</date>
 	</bibl>
-  
-<p rend="center"> <hi rend="italic">LONDON, SATURDAY, DECEMBER</hi> 21, 1861.</p>
 
 <p>L<hi rend="smallcaps">AST</hi> week it seemed difficult to obtain attention for any subject save that of the American crisis. "Who can tell what a day may bring forth?" To-day, in the presence of the heavy affliction with which it has pleased the Almighty and Inscrutable to visit our beloved Sovereign and the nation, even the solemn situation in which we have been placed by the piratical act of the Americans is momentarily disregarded while we seek to realise the sudden sorrow. But the record of the week must be duly completed.</p>
 
 <p>President Lincoln's Message, as a composition, is conceived in the same low moral tone and executed with the same maladroitness which have characterised the preceding State Papers of his Government. But such considerations are of small importance compared with the indications of policy afforded by the document. There is no mention of the Trent outrage. From this circumstance, and from a meaningless declaration that the president does not desire hostilities with England, some sanguine writers have hastened to assume that the act of Captain Wilks will be disavowed, and the Southern Commissioners handed over to us. It is urged that Mr. Lincoln did not deem the act of the American Captain as worthy of notice in the Message, or that it is one upon which England has but to express her feeling to obtain immediate atonement. And this view is supported by reference to the fact that an actual wrong to British subjects is mentioned, and Congress is recommended to make compensation. We should be too happy to believe that so wise a course was that designed for adoption by the American Government, but we are afraid to resign ourselves to so agreeable a hope. It contradicts the general expression of that part of the American public which makes itself heard, and which exercises a fatal control over the so-called government of the American press (with one or two honourable exceptions), and of the American Secretary of State. The House of Representatives has deliberately offered a vote of thanks to the pirate Wilks; and though it is technically true that this is not precisely the same thing as a vote of our House of Commons, it is equally true, and more to the purpose, that the House of Representatives expresses the sentiments of those who, to the disgrace of the higher classes in the States, are permitted to engross political power. In the face of all these demonstrations, to say nothing of an official utterance by the head of the Federal Navy, we dare scarcely believe that the despatch of Earl Russell will receive the only answer which we can accept. Still we have only to wait and hear. Our next Impression will, in all probability, contain the expected intelligence. The news regarding the struggle between the North and South merely states that General M'Clellan has not moved, "nor will he move until he is certain to win "-a somewhat indefinite date. We learn with something akin to disgust that the barbarous reprisal system is likely to come into effect, that prisoners are being cruelly treated, and may be actually executed in cold blood-facts which reduce a war to an abominable brigandage. The North, in its excess of zeal for civilisation, is also elaborately destroying harbours in the South, thus by savage acts giving the lie to the profession of belief that the territory to which the harbours belong will ever again be a portion of the Federal dominions.</p>
 	</div2>
-
-
-{VOL. 39 ISSUE 1122 12-21-1861 PG. 620}
 
 <div2>
 <head> NAVAL AND MILITARY INTELLIGENCE.</head>
@@ -1465,7 +1459,6 @@ vessel was engaged in towing the disabled men-of-war from the thickest of the fi
 <p>The <hi rend="italics">Times'</hi> Malta correspondent, writing on the 10th of December says:- "Orders have been received to dispatch, as specifically as possible, all the disposable ships of war to Gibralter, for the purpose, it is rumoured, of having the ready, in case of war with the Nrth American States, to send off into American waters. Two line-of-battle ships, the Algiers, 89, and the Queen, 80, and a gun-boat, the Alacrity, 4, have already left; and two other liners, the Agamemnon, 91, and the James Watt, 91, and another gun-boat, the Foxhound, 4, will leave for the same destination as soon as they are ready for sea, probably about Saturday next. The sloop Firebrand, 6, which arrived here on the 8th from Gibraltar, was ordered back again immediately, and left on the 9th. Two frigates, the Amphion, 36, from Messina, and the Liffey, 51, from Corfu, have been likewise ordered off by telegraph for the Straits. It is reported that the naval force now assembling there in such haste will be still further augmented by some of the ships from the coast of Syria.</p>
 	</div2>
 
-{VOL. 39 ISSUE 1122 12-21-1861 PG. 650-651}
 <div2>
 <head> ILLUSTRATION OF THE WAR IN AMERICA.</head>
       <bibl> 
@@ -1478,9 +1471,6 @@ vessel was engaged in towing the disabled men-of-war from the thickest of the fi
  
 <p rend="center">SKIRMISH IN VIRGINIA. </p>
 <p>A<hi rend="smallcaps">LTHOUGH</hi> there had been no engagement of note between the rival forces on the banks of the Potomac at the time of the latest despatches leaving America, yet attacks and counter-attacks on a small scale be<pb n="650">
-tween detached bodies were continually occurring. The accompanying Illustration, from a Sketch by our Special Artist in the Federal camp, shows a skirmish which took place a short time ago near Fall's Church, Virginia, between a body of the 14th New York (Brooklyn) Regiment and a troop of Confederate cavalry. The 14th were surprised while out foraging, and, after a smart skirmish, both parties separated, the Confederates, who lost three men, carrying off with them thirty-six prisoners and six waggons. The remainder of the 14th fell back on their supports with their wounded, leaving some dead on the ground.</p>
-	</div2>
-
 <div2>
                <head> [SKIRMISH NEAR FALL'S CHURCH, VIRGINIA.]</head>
                <bibl> 
@@ -1497,6 +1487,10 @@ tween detached bodies were continually occurring. The accompanying Illustration,
                   </figure>
                </p>
   </div2>
+tween detached bodies were continually occurring. The accompanying Illustration, from a Sketch by our Special Artist in the Federal camp, shows a skirmish which took place a short time ago near Fall's Church, Virginia, between a body of the 14th New York (Brooklyn) Regiment and a troop of Confederate cavalry. The 14th were surprised while out foraging, and, after a smart skirmish, both parties separated, the Confederates, who lost three men, carrying off with them thirty-six prisoners and six waggons. The remainder of the 14th fell back on their supports with their wounded, leaving some dead on the ground.</p>
+	</div2>
+
+
 
 <div2>
                <head> [THE BOUNDARY LINE BETWEEN THE UNITED STATES AND CANADA.]</head>
@@ -1516,10 +1510,9 @@ tween detached bodies were continually occurring. The accompanying Illustration,
   </div2>
 
 
-{VOL. 39 ISSUE 1124 12-28-1861 PG. 656}
-
 <div2>
-<head> THE BOUNDARY BETWEEN THE UNITED</head>
+<head> THE BOUNDARY BETWEEN THE UNITED<lb/>
+STATES AND CANADA</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 39</biblScope> 
@@ -1528,14 +1521,9 @@ tween detached bodies were continually occurring. The accompanying Illustration,
            <date value="1861-12-28">December 28, 1861</date>
 	</bibl>
 
-<p rend="center">STATES AND CANADA.</p>
-
 <p>O<hi rend="smallcaps">UR</hi> Illustration represents a portion of the boundary line where it crosses the Grand Trunk Railway or rather that branch of it which connects the Atlantic port of Portland, in the State of Maine, with the line between Montreal and Quebec. The boundary line is straight at this point, but afterwards becomes exceeding crooked, following the courses of streamlets and a portion of the River St. John. Where the line passes through the wildernesses the trees have been cut down so as to leave an open avenue-stone posts being set up at intervals. A short distance north, on the Canadian side of this line, are situated good towns and villages, being the eastern townships of Canada. Between them and the United States there exists no physical barrier: we may, therefore, assume that in the event of war it is upon this portion of the
 colony that the first blow will fall.</p>
 	</div2>
-
-
-{VOL. 39 ISSUE 1124 12-28-1861 PG. 656}
 
 <div2>
 <head> THE CIVIL WAR IN AMERICA</head>
@@ -1576,8 +1564,6 @@ colony that the first blow will fall.</p>
 <p>The jounals report considerable activity throughout Canada in organising the Militia and Volunteers.</p>
 	</div2>
 
-{VOL. 39 ISSUE 1124 12-28-1861 PG. 657}
-
 <div2>
 <head>[SLAVERY AN INSTITUTION AMONG ANTS.] </head>
       <bibl> 
@@ -1591,8 +1577,6 @@ colony that the first blow will fall.</p>
 <p>S<hi rend="smallcaps">LAVERY</hi> A<hi rend="smallcaps">N</hi> I<hi rend="smallcaps">NSTITUTION</hi> A<hi rend="smallcaps">MONG</hi> A<hi rend="smallcaps">NTS</hi>.-Ten new species of ants from the Holy Land, collected by Dr.J.D.Hooker and Mr.Hanbury, are described by Mr. Frederick Smith in the last number of the <hi rend="italic">Joural of the Linnean Society</hi> The habits of some species as very remarkable, as still further substantiating the statement that some species, in the fulfillment of their economy, require the aid of a  distinct race, or rather are dependent on slave-labour, for the rearing of their young brood and for the performance of many of the offices connected with the duties of their establishments (formicaria). The connection between Formica viatica and Atta cephalotes is very remarkable. M. Roussel informed Dr. Nylander that both species are common in Algeria, live in numerous societies, and construct their formicaria usually in bank, frequently at roadsides. Fierce conflicts take place occasionally between the Formica and Att&aelig:, the former being always victorious, carrying off numbers of Att&aelig: captive, become henceforth nurse-slaves of Formica viatica. Mr. Bates, who has resided several years in Brazil, states that he not only observed the slave-making ants carrying off pup&aelig: from the nests of more peaceable communities, but also witnessed the slaughter of the more defenceless species. M. Roussel observed Atta cephalotes in great numbers living in perfect harmony in the nests of Formica viatica.</p>
 	</div2>
 
-{VOL. 39 ISSUE 1124 12-28-1861 PG. 657}
-
 <div2>
 <head> THE BRITISH COLONIES IN NORTH AMERICA. </head>
       <bibl> 
@@ -1603,9 +1587,9 @@ colony that the first blow will fall.</p>
            <date value="1861-12-28">December 28, 1861</date>
 	</bibl>
 
-<P>T<hi rend="smallcaps">HE</hi> attention of the Canadian people at the present juncture (says the <hi rend="italic">Halifax Reporter</hi>) is wisely directed to the all-important question of "national defences." There appears to be a prevalent impression, which is rapidly gaining ground among all classes of people, that they must take immediate measures to provide for the security of the province in case of a sudden invasion from across the borders. The unsatisfactory state of relations between England and the United States brings home forcibly to every intelligent man the necessity of preparing for any emergency. According to late Canadian papers, the military authorities are making their preparations slowly and surely; but still it is obvious that, unless the people themselves afford united assistance, Canada, the upper province especially, would in case of war be in a most perilous position. In Quebec, and other parts of Lower Canada, there are fortifications of an impregnable character; but in Western Canada, with the exception of Kingston, we believe there are none of any importance or strength. The cities of Toronto, Hamilton, London, and the towns of Niagara, Windsor (opposite Detroit), and a hundred other places, would be in most imminent danger if a war were to break out suddenly- during the winter or spring, for instance. All the fighting, in fact, in Upper Canada would have to be done in the open field or behind hastily-constructed batteries and earthworks. The importance, then, of forming a volunteer organisation all through the country is becoming a matter which cannot be disputed by any man of foresight who values the safety of the province. Already there is a general movement made to establish volunteer companies and we are told that "there is every reason to believe that much will be done to place the militia forces of the country on a better footing than they are at present, and thus to make this arm of the service perfectly reliable in case of emergency." The militia, we may mention, in Canada, as well as in all the provinces, is almost a nonentity-little else than an undisciplined mob; and, unless steps are taken to drill and discipline it, it would be useless in the field. This fact is being generally recognised on all sides, and the prospect is that there will soon be a change some way for the better. In Montreal a general calling out of the provincial militia for drill during the winter is spoken of. In Toronto the <hi rend="smallcaps">Leader</hi> is urging upon the officers of the sedentary militia the propriety of resigning their commissions or else taking immediate steps to become acquainted with their drill, and in many places all over the province it is said there is a desire among the sedentary officers to join with the active volunteers in order to learn their drill. Still, the impression amongst men of good judgment and discernment is that there is little reliance to be pleased on the militia, and that the best and surest mode of providing for the defence of the province is to form a volunteer regiment in every locality.</p>
+	      <P>T<hi rend="smallcaps">HE</hi> attention of the Canadian people at the present juncture (says the <hi rend="italic">Halifax Reporter</hi>) is wisely directed to the all-important question of "national defences." There appears to be a prevalent impression, which is rapidly gaining ground among all classes of people, that they must take immediate measures to provide for the security of the province in case of a sudden invasion from across the borders. The unsatisfactory state of relations between England and the United States brings home forcibly to every intelligent man the necessity of preparing for any emergency. According to late Canadian papers, the military authorities are making their preparations slowly and surely; but still it is obvious that, unless the people themselves afford united assistance, Canada, the upper province especially, would in case of war be in a most perilous position. In Quebec, and other parts of Lower Canada, there are fortifications of an impregnable character; but in Western Canada, with the exception of Kingston, we believe there are none of any importance or strength. The cities of Toronto, Hamilton, London, and the towns of Niagara, Windsor (opposite Detroit), and a hundred other places, would be in most imminent danger if a war were to break out suddenly- during the winter or spring, for instance. All the fighting, in fact, in Upper Canada would have to be done in the open field or behind hastily-constructed batteries and earthworks. The importance, then, of forming a volunteer organisation all through the country is becoming a matter which cannot be disputed by any man of foresight who values the safety of the province. Already there is a general movement made to establish volunteer companies and we are told that "there is every reason to believe that much will be done to place the militia forces of the country on a better footing than they are at present, and thus to make this arm of the service perfectly reliable in case of emergency." The militia, we may mention, in Canada, as well as in all the provinces, is almost a nonentity-little else than an undisciplined mob; and, unless steps are taken to drill and discipline it, it would be useless in the field. This fact is being generally recognised on all sides, and the prospect is that there will soon be a change some way for the better. In Montreal a general calling out of the provincial militia for drill during the winter is spoken of. In Toronto the <hi rend="italic">Leader</hi> is urging upon the officers of the sedentary militia the propriety of resigning their commissions or else taking immediate steps to become acquainted with their drill, and in many places all over the province it is said there is a desire among the sedentary officers to join with the active volunteers in order to learn their drill. Still, the impression amongst men of good judgment and discernment is that there is little reliance to be pleased on the militia, and that the best and surest mode of providing for the defence of the province is to form a volunteer regiment in every locality.</p>
 
-<p>In Halifax (says the <hi rend="smallcaps">Reporter</hi>) the old militia law has entirely gone out of practice and given place to the volunteer system. Nowhere in the British provinces, indeed, have the young men responded more heartily to the call to form themselves into corps for defence than in Nova Scotia; and few, if any, of the colonies can present an equal number of well-drilled and organised companies. Still, however, gratifying as has been the success that has attended the laudable efforts of the promoters of the volunteer movement, a great deal more might be done in the way of increasing the number of the forces all over the country. Both the Lieutenant-Governor and General Doyle, on the occasion of the recent volunteer inspection, very properly made some observations on the importance of obtaining additional strength to the volunteer ranks; and it is to be hoped that their advice will have some effect with the large numbers of young men who have as yet, all over the province, kept aloof from the movement. Very lately, in Bridgetown and Picton, an effort has been made, and successfully too, to form a volunteer company in each of these places: and it would be satisfactory and encouraging to see a similar spirit evinced in every town and village throughout this province. Let this be done, and we would soon, like the mother country, be in a position to present a body of "living walls" that could successfully repel any force that might invade our shores.</p>
+<p>In Halifax (says the <hi rend="italic">Reporter</hi>) the old militia law has entirely gone out of practice and given place to the volunteer system. Nowhere in the British provinces, indeed, have the young men responded more heartily to the call to form themselves into corps for defence than in Nova Scotia; and few, if any, of the colonies can present an equal number of well-drilled and organised companies. Still, however, gratifying as has been the success that has attended the laudable efforts of the promoters of the volunteer movement, a great deal more might be done in the way of increasing the number of the forces all over the country. Both the Lieutenant-Governor and General Doyle, on the occasion of the recent volunteer inspection, very properly made some observations on the importance of obtaining additional strength to the volunteer ranks; and it is to be hoped that their advice will have some effect with the large numbers of young men who have as yet, all over the province, kept aloof from the movement. Very lately, in Bridgetown and Picton, an effort has been made, and successfully too, to form a volunteer company in each of these places: and it would be satisfactory and encouraging to see a similar spirit evinced in every town and village throughout this province. Let this be done, and we would soon, like the mother country, be in a position to present a body of "living walls" that could successfully repel any force that might invade our shores.</p>
 
 <p>At the present moment perhaps no subject is of so much interest and importance as the facilities for the transport of troops over from Halifax to Quebec. The following statement, derived from a gentleman who has recently travelled through New Brunswick, from Quebec to Halifax, will be found interesting:-" On disembarking at Halifax the troops can be conveyed by rail to Windsor, Nova Scotia, about sixty miles, from which point they can take steamers across the Bay of Fundy (which, contrary to popular ideas, is never frozen over) to St. Stephen's, a distance of about 170 miles. From St. Stephen's, a small town of about 4000 inhabitants, there is a railway open to Canterbury, twelve miles from Woodstock, one of the largest towns in New Brunswick. From Canterbury to Woodstock the distance can either be marched over a good snow road or performed in sleighs. From Woodstock a day's journey will convey the troops to Great Falls, a distance of 12 miles, over excellent roads. From Great Falls the next stage is to Lake Port, a small place on the Temiscouta, and thence by sleigh over a very good new military road (which is kept open by the mail track three times a week, and by the operations of the lumberers), they will arrive at the Rivi&eacute:re du Loup. Forty-two miles of this latter portion of the journey, and during which the only practical inconvenience that will be experienced is through a forest district called the Portage, involving an ascent of upwards of 1000 feet. At all the points named the troops could be supplied with refreshments and lodgings in the houses, barns, and outbuildings. The only scarcity with regard to provisions is in the article or flour, as very little grain is grown in the district over which this route passes. There is, however, abundance of beef and other provisions. From the Rivi&eacute:re du Loup the troops will be conveyed by railway, a distance of 115 miles, to Quebec."</p>
 
@@ -1645,3 +1629,4 @@ colony that the first blow will fall.</p>
                   </figure>
                </p>
   </div2>
+
