@@ -26,21 +26,21 @@ $dim_fitWidth =  "width=100%";
 
 print '<map name="zoom">
 <area shape="rect" alt="Zoom: 25%" coords="0,0,40,24" ';
-print "href=\"main.php?id=$id&$dim_25\" target=\"image\">";
+print "href=\"image.php?id=$id&$dim_25\" target=\"image\">";
 print '<area shape="rect" alt="Zoom: 50%" coords="40,0,75,24" ';
-print "href=\"main.php?id=$id&$dim_50\" target=\"image\">";
+print "href=\"image.php?id=$id&$dim_50\" target=\"image\">";
 print '<area shape="rect" alt="Zoom: 75%" coords="76,0,110,24" ';
-print "href=\"main.php?id=$id&$dim_75\" target=\"image\">";
+print "href=\"image.php?id=$id&$dim_75\" target=\"image\">";
 print '<area shape="rect" alt="Zoom: 100%" coords="111,1,151,24" ';
-print "href=\"main.php?id=$id&$dim_100\" target=\"image\">";
+print "href=\"image.php?id=$id&$dim_100\" target=\"image\">";
 print '<area shape="rect" alt="Zoom: 150%" coords="152,1,194,23" ';
-print "href=\"main.php?id=$id&$dim_150\" target=\"image\">";
+print "href=\"image.php?id=$id&$dim_150\" target=\"image\">";
 print '<area shape="rect" alt="Zoom: 200%" coords="195,2,237,24" ';
-print "href=\"main.php?id=$id&$dim_200\" target=\"image\">";
+print "href=\"image.php?id=$id&$dim_200\" target=\"image\">";
 print '<area shape="rect" alt="Fit width" coords="238,1,298,24" ';
-print "href=\"main.php?id=$id&$dim_fitWidth\" target=\"image\">";
+print "href=\"image.php?id=$id&$dim_fitWidth\" target=\"image\">";
 print '<area shape="rect" alt="Fit height" coords="299,0,370,23" ';
-print "href=\"main.php?id=$id&$dim_fitHeight\" target=\"image\">";
+print "href=\"image.php?id=$id&$dim_fitHeight\" target=\"image\">";
 print '<area shape="rect" alt="White background" coords="372,0,396,24"
       href="">
 <area shape="rect" alt="Close window" coords="448,0,492,24" href="javascript:window.parent.close()">
