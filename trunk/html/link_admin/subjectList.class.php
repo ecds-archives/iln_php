@@ -115,9 +115,20 @@ class subjectList {
      Optionally takes an array of subjects; any subjects in the array 
      will be selected by default.
   */
-  function printSelectList ($matches = NULL) { 
+  function printSelectList ($matches = NULL, $size = 5, $multiple = 'yes',
+			    $viewall = false) { 
     $selected = '';
-    print "<select name='subj[]' size='5' multiple='yes'>"; 
+    print "<select name='subj[]' "; 
+    if (($size != 1) && $multiple != 'no') {
+      // browsers seem to handle the select better if size is 
+      // not specified, rather than being set to 1
+      print " size='$size' multiple='$multiple'";  
+    }
+    print ">\n"; 
+    if ($viewall) {
+      print "<option value='all'>View All</option>\n";
+    }
+
     foreach ($this->subjects as $subj) { 
       // mark a subject as selected if it is in the list of matches
       if (isset($matches) && (in_array($subj, $matches))) { 
@@ -125,9 +136,9 @@ class subjectList {
       } else {
 	$selected = "";
       }
-      print "<option value='$subj' $selected>$subj</option>"; 
+      print "<option value='$subj' $selected>$subj</option>\n"; 
     } 
-    print "</select>"; 
+    print "</select>\n"; 
   }
 
   function printRemovalForm () {
