@@ -212,9 +212,18 @@ class taminoConnection {
    // get content of an xml node by name when the path is unknown
    // FIXME: should this really be a taminoConnection class function?
    function findNode ($name, $node = NULL) {
-     if ($node == NULL){	// by default, search xq:result
+     if ($node == NULL){	// by default, search xq:result or xql:result
+       // xquery result
        $branch = $this->xml->getBranches("ino:response", "xq:result");
-       $node = $branch[0];
+       if ($branch) {
+         $node = $branch[0];
+       } else {
+	 // xql result
+        $branch = $this->xml->getBranches("ino:response", "xql:result");
+        if ($branch) {
+          $node = $branch[0];
+	} else { return 0; }	// no node specified, and neither xq:result nor xql:result found
+       }
      }
      $result = $node->getTagContent($name);
      if ($result) {	// found it
