@@ -3,15 +3,15 @@
 /* usage: 
    search.php?region=a&term=b&region2=c&term2=d&sort=e&max=f&op=g
    for example:
-http://beckptolemy/~rsutton/ilnsearch.php?region=article&term=lincoln&sort=date&op=and&region2=title&term2=america
+
+search.php?region=article&term=lincoln&sort=date&op=and&region2=title&term2=america
  
 (values are as specified below)  */
 
+include_once("link_admin/taminoConnection.class.php");
 include_once("common_functions.php");
 include_once("phpDOM/classes/include.php");
 import("org.active-link.xml.XML");
-
-// GET is visible on url, POST is not
 
 $region = $_GET["region"]; //options: document|article|title|date|illustration
 $term =  $_GET["term"];  // search string for region above
@@ -23,17 +23,16 @@ $position = $_GET["pos"];  // position (i.e, cursor)
 $operator = $_GET["op"];  // and|or
 
 
-//$db_url = "http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN";
-$db_url = "http://tamino.library.emory.edu/tamino/BECKCTR/ILN";
-//$xsl    = "_xslsrc=xsl:stylesheet/search_ptolemy.xsl";
+$args = array('host' => "vip.library.emory.edu",
+	      'db' => "BECKCTR",
+	      //	      'debug' => true,
+	      'coll' => 'ILN');
+$tamino = new taminoConnection($args);
 $xsl    = "search.xsl";
 
 // pass terms into xslt as parameters 
 // (needed to pass along in link to browse page for highlighting)
-$params = array("term"  => $term, "term2" => $term2);
-
-
-//echo "Region is $region, region2 is $region2, and sort is $sort.<p>";
+$xsl_params = array("term"  => $term, "term2" => $term2);
 
 $reg = '';
 
@@ -41,7 +40,6 @@ $reg = '';
 if ($maxdisplay == '') $maxdisplay = 20;
 // if no position is specified, start at 1
 if ($position == '') $position = 1;
-//echo "max is $maxdisplay, operator is $operator.<p>";
 
 // FIXME: check if sort is set?
 
@@ -85,59 +83,44 @@ switch ($sort) {
 }
 
 // construct query from pieces
-$newurl = "$db_url?_xql($position,$maxdisplay)=/TEI.2//div2[$reg~='$term$addterm']sortby($_sort)";
-
-
-$newurl = encode_url($newurl);
-//echo "url is<p>$newurl";
+//$query = "url?_xql($position,$maxdisplay)=/TEI.2//div2[$reg~='$term$addterm']sortby($_sort)";
+$query = "/TEI.2//div2[$reg~='$term$addterm']sortby($_sort)";
 
 html_head("Search Results");
 
 include("xml/head.xml");
 include("xml/sidebar.xml");
-?>
 
-   <div class="content"> 
-          <h2>Search Results</h2>
-<?php
-// get & display actual content
+print '<div class="content"> 
+          <h2>Search Results</h2>';
 
-   $xmlContent = file_get_contents($newurl);
 
-  $xml = new XML($xmlContent);
-  if (!($xml)) {        ## call failed
-    print "Error! unable to open xml content.<br>";
-  }
-
-  ## retrieve the cursor
-  $cursor = $xml->getBranches("ino:response", "ino:cursor");
-  if ($cursor) {
-    $count = $cursor[0]->getTagAttribute("ino:count", "ino:cursor");
-  } else {
-    // no matches (or, possibly-- unable to retrieve cursor)
-    $count = 0;
-  }
+// run the xql query
+$rval = $tamino->xql($query, $position, $maxdisplay);
+if ($rval) {       // tamino Error code (0 = success)
+  print "<p>Error: failed to retrieve search results.<br>";
+  print "(Tamino error code $rval)</p>";
+  exit();
+} 
+// initialize cursor values
+$tamino->getCursor();
 
 print "<center><font size='+1'>";
-if ($count == 0) { print "No matches "; }
-else if ($count == 1) { print "$count match "; }
-else { print "$count matches "; }
+if ($tamino->count == 0) { print "No matches "; }
+else if ($tamino->count == 1) { print "$count match "; }
+else { print "$tamino->count matches "; }
 print "found for $begin_hi$term$end_hi in $region ";
 if ($term2) { print "$op $begin_hi2$term2$end_hi in $region2"; }
 print "</font><p>"; 
-
-
-// Do we need this?
-//print "Displaying results $position - " . min($count,$maxdisplay) . ".<br>";
 
 
 ## store result links in a string to print it twice (top & bottom of page)
 $result_links = '';
 
 ## if there are further pages of search results, link to them.
-if ($count > $maxdisplay) {
+if ($tamino->count > $maxdisplay) {
   $result_links .= '<li class="firsthoriz">More results:</li>';
-  for ($i = 1; $i <= $count; $i += $maxdisplay) {
+  for ($i = 1; $i <= $tamino->count; $i += $maxdisplay) {
     if ($i == 1) {
       $result_links .= '<li class="firsthoriz">';
     } else { 
@@ -157,7 +140,7 @@ if ($count > $maxdisplay) {
       $result_links .= "<a href='$url'>";
       // url should be based on current search url, with new position defined
     }
-    $j = min($count, ($i + $maxdisplay - 1));
+    $j = min($tamino->count, ($i + $maxdisplay - 1));
     ## special case-- last set only has one result
     if ($i == $j) {
       $result_links .= "$i";
@@ -174,7 +157,7 @@ if ($count > $maxdisplay) {
 print "$result_links<p>";
 
 // Don't display sort options if there are no results
-if ($count) {
+if ($tamino->count) {
   sort_options($sort);
 }
 
@@ -183,10 +166,9 @@ print "</center>";
 print "<hr>";
 
 // use sablotron to transform xml
-$result = transform($xmlContent, $xsl, $params); 
-//print $result;
-
-print highlight($result, $term, $term2);
+$tamino->xslTransform($xsl, $xsl_params);
+$myterms = array($term, $term2);
+$tamino->printResult($myterms);
 
 print "<hr>";
 

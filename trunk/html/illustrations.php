@@ -1,12 +1,17 @@
 <?php
 
-//one possibe way to deal with messy xqueries & the urls they produce
 
+include_once("link_admin/taminoConnection.class.php");
 include("common_functions.php");
 
-//$url = 'http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN?_xquery=
-$url = 'http://tamino.library.emory.edu/tamino/BECKCTR/ILN?_xquery=
-for $b in input()/TEI.2//div1
+
+$args = array('host' => "vip.library.emory.edu",
+		'db' => "BECKCTR",
+	      //	      'debug' => true,
+		'coll' => 'ILN');
+$tamino = new taminoConnection($args);
+
+$query = 'for $b in input()/TEI.2//div1
 let $fig := $b//figure
 return <div1>
  {$b/@type}
@@ -14,48 +19,31 @@ return <div1>
  {$b/docDate}
  {$fig}
 </div1>';
-
-//&_xslsrc=xsl:stylesheet/contents_ptolemy.xsl&xslt_mode=figure';
-
-//clean up url for use
-$url = encode_url($url);
 $xsl_file = "contents.xsl";
-$params = array('mode' => "figure");
+$xsl_params = array('mode' => "figure");
+$rval = $tamino->xquery($query);
+if ($rval) {       // tamino Error code (0 = success)
+  print "<p>Error: failed to retrieve illustrations.<br>";
+  print "(Tamino error code $rval)</p>";
+  exit();
+} 
+
 
 html_head("Browse - Illustrations");
 
 include("xml/head.xml");
 include("xml/sidebar.xml");
-?>
 
-<div class="content"> 
-      <h2>Illustrations</h2>
-
-
-<?php
-
-    // use sablotron to transform xml
-   $xmlContent = file_get_contents($url);
-$result = transform($xmlContent, $xsl_file, $params); 
-   print $result;
-
-// old code
-   // now get actual contents
-//$lines = file ($url);
-//foreach ($lines as $l) echo "$l";
+print '<div class="content"> 
+      <h2>Illustrations</h2>';
 
 
-// get & display actual content
-//$lines = file ($url);
-//foreach ($lines as $l) echo "$l";
-?>
+$tamino->xslTransform($xsl_file, $xsl_params);
+$tamino->printResult();
 
-  </div>
+print '</div>';
    
-<?php
-  include("xml/foot.xml");
-?>
+include("xml/foot.xml");
 
-
-</body>
-</html>
+print '</body>
+</html>';
