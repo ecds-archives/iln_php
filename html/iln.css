@@ -67,9 +67,9 @@ td.figure { text-align: center; vertical-align: center; }
 
 img { border: 0 }
 
-span.term1 { background-color: #d1e1f9; }
-span.term2 { background-color: #fffc7f; }
-span.term3 { background-color: #b4f7aa; }
+span.term1 { background-color: #d1e1f9; font-weight: bold;}
+span.term2 { background-color: #fffc7f; font-weight: bold;}
+span.term3 { background-color: #b4f7aa; font-weight: bold;}
 
 /* Horizontal lists -- display inline, with lines between */
 li.horiz { 
