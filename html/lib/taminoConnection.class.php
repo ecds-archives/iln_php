@@ -156,26 +156,25 @@ class taminoConnection {
    function xslTransform ($xsl_file, $xsl_params = NULL) {
      /* load xsl & xml as DOM documents */
      $xsl = new DomDocument();
-     $xsl->load($xsl_file);
-     $xml = new DomDocument();
-     $xml->load($this->xmlContent);
+     $xsl->load("xsl/$xsl_file");
 
      /* create processor & import stylesheet */
      $proc = new XsltProcessor();
      $xsl = $proc->importStylesheet($xsl);
-     foreach ($xsl_params as $name => $val) {
-       $proc->setParameter(null, $name, $val);
+     if ($xsl_params) {
+       foreach ($xsl_params as $name => $val) {
+         $proc->setParameter(null, $name, $val);
+       }
      }
-
-     /* transform and output the xml document */
-     $output = $proc->transformToDoc($xml);
+     /* transform the xml document and store the result */
+     $this->xsl_result = $proc->transformToDoc($this->xml);
    }
 
    function printResult ($term = NULL) {
      if (isset($term[0])) {
        $this->highlight($term);
      }
-     print $this->xsl_result;
+     print $this->xsl_result->saveXML();
 
    }
 
