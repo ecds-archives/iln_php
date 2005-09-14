@@ -16,7 +16,7 @@
        <type>pserver</type>
        <host>chaucer.library.emory.edu</host>
        <path>/usr/local/cvsrep</path>
-       <frameworkCommon>:pserver:anonymous@jleon2.cc.emory.edu:/home/jleon/cvsroot</frameworkCommon>
+       <frameworkCommon>:ext:rsutton@cvs.library.emory.edu:/home/cvsroot</frameworkCommon>
     </cvsroot>
    <password><frameworkCommon>hoosiers</frameworkCommon></password>
    <tag>build1</tag>
@@ -43,8 +43,9 @@
 	       <doctype>xml/doctype</doctype>
 	       <tamino>xml/tamino</tamino>
        </xml>
-       <cvs>cvs<dataPrep>cvs/dataPrep</dataPrep>
-	       <iln>iln-cvs<dtd>iln-dtd</dtd></iln>
+<!-- note: 'co' version of is shorthand used for cvs checkout command -->
+       <cvs>cvs<dataPrep>cvs/dataPrep<co>dataPrep</co></dataPrep>
+	       <iln>cvs/iln<co>iln</co><dtd>cvs/iln-dtd<co>iln-dtd</co></dtd></iln>
        </cvs>
   </dir>
 </config>
