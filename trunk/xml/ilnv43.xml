@@ -32,44 +32,17 @@ contact the Lewis H. Beck Center, Woodruff Library, Emory University,
 Atlanta, Georgia 30322</p>
             </availability>
             <date>2005</date>
-         </publicationStmt>
-         <seriesStmt>
-            <title>The Civil War: The Illustrated London News
-Perspective</title>
-            <respStmt>
-               <resp>Compiled and edited by</resp>
-               <name>Sandra Still</name>
-            </respStmt>
-         </titleStmt>
-         <extent/>         
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
-               <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
-               <p>2005 Emory University.
-Permission is granted to download, transmit, or otherwise reproduce,
-distribute or display the contributions to the work claimed by Emory
-University for non-profit educational purposes, provided this header
-is included in its entirety.  For inquiries about commercial uses,
-contact the Lewis H. Beck Center, Woodruff Library, Emory University,
-Atlanta, Georgia 30322</p>
-            </availability>
-            <date>2005</date>
-         </publicationStmt>
          <seriesStmt>
             <title>The Civil War: The Illustrated
 London News Perspective</title>
          </seriesStmt>
-         <sourceDesc>
-            <bibl>
-               <title>The Illustrated London News</title>
+         <Sourcedesc>
+            <Bibl>
+               <Title>The Illustrated London News</Title>
                <biblScope type="volume">Volume 43</biblScope> 
                <date>July to December 1863</date>
-            </bibl>
- </sourceDesc>
+            </Bibl>
+ </Sourcedesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
@@ -78,7 +51,7 @@ London News Perspective</title>
       </encodingDesc>
       <revisionDesc>
 	<change><date>September 2005</date>
-          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</resp</respStmt>
+          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</respStmt>
           <item>Encoded text according to TEI guidelines.</item>
 	</change>
       </revisionDesc>
@@ -714,7 +687,7 @@ feints on the extreme left of General Grover's position, to distract
 the attention of the enemy from the main assault. Accordingly, before
 the engagement became general between General Grover's command and the
 enemy, Generals Augur and Dwight had attacked the enemy.</p>
-<p rend=center"><hi rend="smallcap">THE Repulse.</hi></p>
+<p rend="center"><hi rend="smallcap">The Repulse.</hi></p>
 <p>The fight, however, though only intended at a feint, was, on the
 part of General Dwight's command, exceedingly severe, and scarcely
 less so with General Grover's. General Dwight's loss in killed and
@@ -1726,7 +1699,7 @@ our comment in the words of Homer--<hi rend="italic">&#x03C4;&#x03B1; &#x03B4;&#
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
 <p rend="center">AMERICA.</p>
-<p rend="center><hi rend="smallcap">Serious Riots At New
+<p rend="center"><hi rend="smallcap">Serious Riots At New
 York.</hi></p>
 <p>The attempt to enforce the conscription in New York has either
 provoked, or been made the excuse for, formidable riots. That city was
@@ -2289,7 +2262,7 @@ themselves be draughted. Dictatorial powers are claimed for President
 Davis, and martial law insisted on for the whole Confederacy. In
 Alabama, South Carolina, Georgia, and Virginia it was announced that
 the people were organising actively for defence. The <hi
-rend=italic">New Orleans Era</hi> says President Davis has issued a
+rend="italic">New Orleans Era</hi> says President Davis has issued a
 proclamation ordering all men between the ages of eighteen and
 forty-five to repair to the conscript camps. The <hi
 rend="italic">Richmond Inquirer</hi> speaks of a Navy Company having
@@ -5761,7 +5734,7 @@ Emperor as soon as his real object was disclosed.</p>
 defended the policy of our Government since the outbreak of the civil
 war. His Lordship's remarks on this subject are, on account of their
 importance, given entire.</p>
-<p rend="center"><hi rend=smallcap">AMERICAN AFFAIRS.--Our Concession
+<p rend="center"><hi rend="smallcap">American Affairs.--Our Concession
 of Belligerent Rights.</hi></p>
 <p>I come now to another question, a question interesting to us all--a
 question to which I beg your attention, because I wish to explain
@@ -6657,7 +6630,7 @@ are only used by Indians unacquainted with white men.</p></div2>
 <biblScope type="volume">vol. 43</biblScope>
 <biblScope type="issue">no. 1228</biblScope>
 <biblScope type="pages">p. 431</biblScope>
-<date value="1863-10-231>October 31, 1863</date>
+<date value="1863-10-31">October 31, 1863</date>
 <extent></extent>
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
@@ -8586,7 +8559,7 @@ Number, and we give the accompanying descriptive details from his pen,
 in the order in which the Engravings they refer to stand in our
 pages. Three of them, it will be seen, have reference to the siege of
 Charleston.</p>
-<p rend="center"><hi rend="smallcap">Scene On The Tennessee River.--Confederate Sharp-</p>
+<p rend="center"><hi rend="smallcap">Scene On The Tennessee River.--Confederate Sharp-</hi></p>
 <p rend="center"><hi rend="smallcap">Shooters Firing At A Federal
 Supply-train.</hi></p>
 <p>Since the Federal army has sought refuge in its intrenchments at
@@ -8875,328 +8848,803 @@ bales of cotton are said to be stored at Atlanta, which General Bragg
 will have great difficulty in removing before General Grant reaches
 the city.</p></div2>
 
-AT length the Federals have gained, a General, and. that leader has gained a victory, which may fairly be described as a great one. General Grant is declared to have destroyed the army of Bragg. Chicamauga has been more than avenged. The Confederate commander is described as having fled amid the rout of his forces, and to have abandoned his guns, caissons, and waggons. Fifty cannon are stated to have been taken. Bragg was flying, at the last accounts, to Dalton, burning bridges and destroying all behind him; and the victor was pursuing him with all possible speed, but had tarried to cut up the railway by which Longatreet might have come to the aid of Bragg. From the position of the antagonists it is clear that the rectification of statements of detail, or even the information that the demoralization of the Confederate army is not so complete as has been stated, cannot alter the fact that General Grant has done a great thing for the North, and that, for the first time in the war, the Federals have won a brilliant victory. We attach no value to the statement that this success excites no enthusiasm in the North, If it be not recognised for what it is, the Federals scarcely deserve a General who can win such laurels. But we make no doubt of hearing that the North is quite aware of the greatness of the exploit. And we cannot see the wisdom of those who seek to disguise the fact that the resources of the Federals have at length begun to tell terribly upon their enemies.
-
-The Confederates cannot afford to lose an army. They have not the means of recruiting, in the first place, and, in the second, they lose the strength and, flower of their population, instead of a class which we dare say the Federal authorities think are just as well occupied in receiving the fire of the
-
-Southerna as in loafing about the streets of the Union cities. Not that we would be understood to direct this remark at the whole, or even the majority, of the Northern armies, which have in their ranks thousands of estimable citizens but the Federal authorities have used the "dangerous clauses" very plentifully, and not unwisely, and can send them to the front in almost any number to replace losses; whereas the Confederates have no such power. They put forth their best strength, and when that is overmastered. they suffer very much more heavily than their antagonists. We imagine that this blow may be regarded as the beginning of the end,
-
- It is only due both to victors and vanquished to point out that this, the most remarkable victory of the North, has been won by the very best soldiers whom it could launch upon the foe. The Federals of the West are a flea and. sturdy race, not likely to quail before the rush of the Confederates, who come on like a tempest, and have so often swept the newlyraised armies of the North before them, These Western Soldiers
-
-Longatreet had certainly got Burnside (or else Foster, in the "temporary absence" of Burnaide) shat up in Knoxville, and was besieging him, although it may be true that actual investment, such as is understood from the ordinary use of the word, was impossible. But, if Longstreet had access to the only road by which the encaged General could escape, the result might be pretty much the same as a complete investmen. On this point it is not easy to obtain accurate information. Bat one thing is certain-namely, that the Confederates can less than ever afford to lose time over Knoxville; and if Meade should be fortunate, Buruside will be even more so, without action of his own to justify his good fortune. We may expect early tidings as to this feature in the campaign.
-
-We may repeat our belief that the Confederates have at last received a blow which will have a visible effect upon the fortunes of the war. The rule in mechanic', that when two forces come into collision one must give way, is true in war; but there are so many retarding and balancing influences which come into play in military matters that we are always a long time in ascertaining which is the superior force. It was doubtful in this American struggle. There was a vast numerical majority on the side of the North, and there was a navy, and there were all the resources of urOpe at her command. The odds, no doubt, seemed. very great against the South, but she contrived to reduce them so enormously by her display of military skill, by the daring of her troops, and by the unanimous sentiment of hatred for the North and of resolve to work out independence, that many observers, not usually hasty, believed that it was the latter that would soonest weary of the contest. We believe that the problem has flow been solved, and that the game is beginning to be decidedthat is to say, supposing no intervention take place, and the North be left to measure itself steadily and. remorselessly against the south. The Federals may lose another army aid send a new one to replace it. The Confederates may lose another army, but would not be able to replace it.. It i as 1 chess-when once the balance of power is gained, every ezehang does but more severely damage the chance of the weaker. The work of subjection, which Earl Russell declared, early in the war, was the work that the North had undertaken in its resolve for empire, will be done, if permitted. And if the South ha-re a friend who intends to take her part, he will do veil to lose time. We do not hesitate to mark the news that has come this week as the most significant which we have had. since Bull Run, and we shall see it so accepted as soon as the details shall have afforded the public mind some more real view of the case than is presented by the bald language of a telegram.
-
-Nevada territory is said to he the richest
-
-eontryintheworld. It jestimated that the produotof this year 43,000,000.
-- charged with a fierceness equal to that of their foes, and were
-
-probably superior to them in the stubbornness which has given
-
-so many a victory to English warriors. Then it mud
-
-remembered that, if the details already obtained be correct
-
-the South was largely outnumbered; and, finally, it mud not be forgotten that, whereas Grant was fresh at his work and had all the confidence of his soldiers, Bragg had for a long tjnj been on such ill terms with his army, or at least with his ctie officers, that the presence of Mr. Davis himself had. be necessary at the camp to set matters in some kind of order. The Confederates, therefore, went into action against an enemyas °uod as themselves as regarded physique, and better off in numbers an in the relation of the General to the army. Take all this into account, in justice to both sides, and still Genera (f remains the victor upon a glorious battle-field. English wrke will not show the impartiality and fair play on which it has been, and justly, the custom to pride ourselves, if we refuse to a brilliant exploit by the North the admiration which we have always been ready to show to Confederate valour and endurance, While Grant was defeating Bragg the Virginian. army, which
-
-• it was asserted that Meade was unable to move on aocoi,
-
-of the state of the country, had resumed the offensive, had crossed the Bapidan. at three fords, and was advancing upon Orange Courthouse. General Lee would doubtleg8 be prepared for the encounter; and, as he did not resist the Federg General's passage of the river, he is supposed, with probability, to be trying to lure him into a trap, or, at all events, to design to fight him on ground of Lee's own selection. If this hattie should be decisive, and Lee be defeated-a result which knot to be calculated on from past events-the Confederates will have to consider whether they will give up the game or
-
-concentrate themselves in some restricted but easily-defend
-
-portion of Secessia. On the other hand, if Lee bests • Meade, here is the old see-saw work over again, only that the Confederates are weaker by an army. The telegram says that rumours of an unfavourable kind were going about; but, under the circumstances, the statement seems to us to have no significance.
-
-Longstreet had certainly got Burnaide (or else Foster, in the "temporary absence" of Burnaide) shat up in Knoxville, and was besieging him, although it may be true that actual investment, such as is understood from the ordinary use of the word., was impossible. But, if Longstreet had access to the only road. by which the encaged General could escape, the result might be pretty much the same as a complete investmen. On this point it is not easy to obtain accurate information, But one thing is certain-namely, that the Confederates can less than. ever afford to lose time over Knoxville; and if Meade should be fortunate, Buruside will be even more so, without action of his own to justify his good fortune. We may expect early tidings as to this feature in the campaign.
-Everything in 3facnilla is good this month. Mr. ingsley's story is continued with unabated spirit, and the anonymous tale, "A Son ofthe Soil," bids fair to develop a new writer of rare merit. Mrs. Gaskellwrites a touching notice of the late Colonel Shaw, Commander of the
-
-first negro regiment ever raised in America, and a choice example of the singularly pure, gentle, and considerate type which the heroism of New England so generally assumes. & strange contrast is afforded
-
-isv Professor Maon's vary tp,1 acetmnt of +1 lat. T', 1ri
-ECHOES OF THE WEEK.
-
-LITTLB more than two years have elapsed since the Northern
-
-Southern divisions of the United States would indulge in a large fight
-
-in the field without loss of life or limb to anyone hero.
-
-who could have exhibited an honest yawn resulting from over fatiM in the use of his aims-or legs-deserved to be decorated. The turient mountain was, in the end, at least blessed with some img, although only a mouse; but it certainly seemed that American would have all their labour in vain. Their engagements resi,J tea in no more than do the engagements of "many a gentle girl and hey." they were broken o long before the happy day could possibly l ii, fixed. Or, they may be said to have resembled Barmp
-
-feasts, at which all parties make much dumb show, go away a trifle more hungry than when they came.
-
-a time arrived when blood was tasted, and since then it has been
-
-dicult to say how much blood has been spilt. A. reniaik indication of the magnitude of American battles comes in the shape of print. To the list of Northern journals, or magazines, a ne was added in November, under the title of The Sanitary Commjj5. Bulletin, to be published twice a month, at a cost to Bubthea of two dollars annually. This bulletin chronicles all reOorts and in. formation concerning the sick and wounded of the lortheru y the moneys received and expended, the different hospitals of different cities, the number of patients going in and out, the doctors, the -Sisters of Mercy, and everything besides that so dismal a subject can suggest. The scale is prodigious. Our own 'Crimean philanthropies might be added and not felt-put on board like a lone-boat. The United States' Sanitary Commission declare that their expenses at the present moment are forty thousand dollars per month; but that is quite independent of supplies from "every village Sewing Circle, or Soldiers' Relief Society, or Church, or Dorms Association." They have thousands of noble women connected with their work; but they want tens of thousands, nay, "five hundred thousand, other women, of similar views and feelings before the sup. plies can be accumulated in adequate quantities." A. novel kind of relief is the "Home," at Washington. Here, during a period of nine months, were received nine hundred men who had, their discharge. papers with them, and consequently had no kind of claim on any military fund. They had been discharged in good condition, but had fallen into disease and want on the road; they would have perished, but for the Home. There is a fine spirit in all this, for which every Eu4iahmau does not give credit to the Yankee. et all this charitableness, springing as it does from envy and hatred, may be as a mere nucleus of doctor and Dorcas to what may come if Mr. Lincoln remain advised by his present advisers. He is said to be severely attacked by the white House Fever, a disease which generally seizes U. S. Presidents in their first November, and invariably lasts four years: that is, from the day of one ¬élecfion to the day of the next. The fever consists in the restless longing for re-election. There may possibly be some connection bet*een the fact of a General selected and the probable voting of an army for the next presidentship. If this be so; if the supposed influence of offiorr over man be so great, an unskilful commander may gratify Mr. Lincoln's four summers of vanity at the cost of some two million men. Of these a goodly iiuinber may average from six to twelve months in hospital; and charity will have to bridge over that terrible river of Time which never could be successfully forded by the exchequer of Mr. Chase. Perhaps, after all, the White Horse Fever may not be so deadly as alleged. No matter to the patient; to him it is a royal road to illness.
-
-14... +... +k
-
-n'* i i.,.
-AMERICA,
-
-WAR INTELLIGENCE.
-
-By the latest accounts from New York, to the morn-mg of- Dec. 5, we learn that General Meade, ending Lee's position on Mine Run Valley too strong for aesault, retreated on the let inst. to the north of the Rapidan. It s supposed that Meade will go into winter quarters near Washington. The Wurhnon &csr, an official organ, declares that Meade's eampaan was a niilitary failure, It is rumoured that General Sedgwick 'will supersede Meade,
-The defeat of General Bragg was, it seems, not so dis tea as at
-
-first reported. The Confederates, surprised in their precon retreat, were bewildered and disordered, but they soon regain their coolness, and showed so strong a front, that the Federa bad giy up pursuing them, and General Grant had resolved o the campaign farther till the spring. Of the proceedings at Nnoxvjije the papers leave us in doubt, and whether Longatreet has or h retreated, after having attacked the city and been repulsed, rsaj uncertain. According to one account General Bragg 1ia seded by General Eardee, who is preparing to resume the eeajy a a'net Grant.
-
-Charleston we have the old story of continued ing, little result. Despatches have been received to the let inst. with was throwing twenty shells per diem into Charleston. The smiling of Fort Sumter had been discontinued.
-
-General Banks announces the occupation of Brownsville, and says
-
-three revolutions have occurred in Matamoras. The first wag adv5 to the interests of Mexico and the United States. Everything, hoe. ever, is now as favourable as could be desired. GENERAL NEWS.
-
-President Lincoln is said to be seriously ill, his malady being
-
-smallpox.
-
-A large meeting has been held at New York to raise voluutee.
-
-The Conservative Union National Committee, at a meeting 1i Cincinnati, nominated General M'Olellan for the next presiden.
-
-Mr. Gunther, an independent peace Democrat, has been eleet Mayor of New York by a large majority, defeating the Tamy, and Mozart Hall and Republican candidates.
-
-The Confederates keep up continual attacks on the steam
-
-navigating the Mississippi.
-
-Strong abolition resolutions have been introduced in the Missaeaj Legislature.
-
-The famous guerrilla Morgan has broken prison and escaped from
-
-the Penitentiary at Columbus with six fellow-prisoners; and in snj
-
-of an immense reward offered by the Federals for his capture, t5ji5
-
-or dead," he has reached Toronto.
-
-Thirteen steamers ran the Wilmington blockade on the 19th nJ
-
-INDIA.
-AMERICA. PBESIDENT LINCOLN'S MESSAGE AND PROCLAMATION 01' AMNESTY. I
-
-Congress met on the 7th inst., and on the 9th President Lincoln I
-
-delivered his annual message, which was accompanied by a proclama
-
-tion suggesting terms for the reconstruction of the Union.
-
-President Lincoln declares that he will never, attempt to retract or
-
-3nodify his emancipation proclamation, or return to slavery any person freed by that proclamation, or by any act of Congress. Little
-
-nn be done, however, towards reconstruction until the military I
-
-ascendancy of the Federal Government shall be thoroughly estab
-
-lished, and the chief care of the Federal authorities must be devoted I
-
-to the army. The relations of the United States with foreign Powers are friendly; and the British Government has exercised its authority to revent the departure of new hostile expeditions from British ports, while the Emperor of the French has likewise promptly 'vindicated the neutrality which he proclaimed at the beginning of the contest.
-
-me questions arising out of the blockade of the Southern coasts
-
-have been discussed and accommodated in a spirit of frankness, jus
-
-tice, and national goodwill. It is proposed to refer to arbitration a question concerning the territorial jurisdiction of Spain in the waters of Cuba; and there have been some differences respecting the treat
-
-ient of foreigners found residing in the Southern Confederacy.
-
-The message states that the receipts during the year from all sources, including loans and the balance in the Treasury at the cornmencement of the year were 900,000,000 dole. The di bursements during the year were 899,000,000 dole.. The receipts from the Customs' were 69,000,000 dole., and from the internal revenue, 37,000,000 dole. The amount received from loans was 776,000,000 dole. The dis-
-
- ursements in the War Department amounted to 590,000,000 dole.,
-
-and for the Navy Department to 63,000,000 dole.
-
-The message further states that there are 100,000 freed slaves in
-
-the Federal service, half of whom are in arms.
-
-The Treasury Secretary's report, which has-been published along
-
-vith the message, recommends that the taxes on spirits and tobacco be increased; states that 460 000,000 dole, must be raised by loan to defray the expenditure till July, 1864, and 546,000,000 dole. be provided for the expenditure of the year ending in July, 1865; estimates that in July, 1865, the debt of the United States will amount to 2-200,000,000 dole.; an declares that the Secretary will issue no more 'Jreasury notes.
-
-President Lincoln's proclamation, accompanying the message, grants iOt only an amnesty, but a full pardon and restoration of the rights of property, except slave property, to those taking the oaths prescribed in the proclamation. The amnesty is to be ac-coed to those in "the rebellious States" who take an oath of allegiance to the United states, and another oath to support. the emancipation proclamation and all other proclamations issued by President Lincoln, as well as all acts passed by the Federal Congress, since the outbreak of the ."rebellion." But all men who have held odicie under the Confederate Government, or who have served in the Confederate army or navy in a higher rank than that of colonel or lieutenant respectively, or who have resigned Federal commissions for the purpose of joining the "rebels," or who have treated coloured soldiers otherwise than as
-
-mrlsoners of war, are to be excluded from the beneftt of the amnesty. If one tenth of the Legal voters in any "rebelliouS State" will take the required oaths and estblish a Republican State Government, that Government will be recognised and protected by the Federal authorities. .The New York 7',.g5, and :l'inie3 applaud President Lincoln's zeassage. The New York Works thinks the message to be good as an electioneering document, but considers his plan for a reconstruction to be absurd. The Eeth York Herald believes the President's plan for a reconstrueticin will he a failure. -
-
-- nAVISS MSSAGB.
-
-In the Congress, Mr. Colfax, a Republican, has been elected Speaker.
-
-A vote of thanks has been passed to General Grant and a meal
-
-ordered for him.
-
-The commercial intelligence from New York has the stereotype
-
-heading, "Money tight."
-
-A letter from Port ifudson states that a grand review of the whole Corps d'A.friqne has taken place, and it is described by those who witnessed it as a magnificent affair.
-
-The Senate of Georgia has ordered the enrolment of all citizens -
-
-over fifteen years of age for the defence of the State.
-
-Over 1000 vessels have been captured since the blockade was instituted. The naval force consists of 688 'vessels, 75 of which are ironclads.
-
-The steamer Chesapeaks, from New York to Portland, was captured by sixteen Confederates, who left New York in the steamer as passengers. They landed the captain and crew at St. John's, but they killed the second engineer. A. large number of steamers has heft New York in pursuit.
-
-The Federal ship of war Vanderbilt has visited Penguin Island, and
-
-destroyed a large quantity of coal stored there. She has also seized the British vessel Saxon, laden with the cargo of the Federal vessel Conrad, captured by the Alabama. The Saxon was sent to New, York in the care of a prize crew.
-
-rxrlT A
-- PRxSBT )LVXSS MZSSAGB.
-
-The Confederate Congress opened its Session at Richmond on
-
-Monday, Dec. 7, and at noon on Tuesday the annual message from
-
-President Davis was received.
-
-Mr. Davis deplores the disasters which have befallen the Southern
-
-cause since he transmitted his last message, but declares that ultimate
-
-success is assured by the spirit and perseverance of the Southern
-
-People. "The determined and successful defence of Charleston against the land and naval operations of the enemy afforded (he says) an insoiring example of our ability to repel the attacks even of the iron-elsa feet on which they chiefly rely; while on the northern frontier our success was still more marked."
-
-Taxation is recommended for the purpose of diminishing the ex
-
-isting deprecation of the Confederate currency.
-
-The President complains bitterly of the partiality shown the
-
-Pederais by European Governments, and especially y the English
-
-Cabinet; and observes that the Southern Confederacy might justly retaliate by declaring a paper blockade of the Northern coasts and making prizes of neutral vessels trading to Northern ports, or by refusing any longer to recognise the rinciple that an enemy's goods shall not be seized in a neutral ship; Out he does not recommend such a resort to retaliatign, and. prefers to await a return of England to true neutrality.
-
-lfL Davis recommends the abolition of the substitute system and the modification of the exemption law, so that the army may be l5rely increased as'rapidly as possible.
-
-.1Le regrets the suspension of the exchange of prisoners, and that
-
-°Ufli]uicatioU with the trans-MississipPi districts is so greatly obstructed.
-
-In conclusion, he says:-" The enemy refuse proposals for the only
-
-ace possible between us. The only hope for peace now is in the v1go of our resistance."
-
-WAR jews.
-
-There has been no change in the situation of the belligerent armies m
-
-General ]ongstreet, whose losses during the siege of Knoxville
-
-estimated by the Confederates at 600 men, has safely prosecuted his retreat as far as MorristO, East Tennessee. In the late battles neat Chattanooga the Federals lost 4500 men. They took
-
-•000 prisoners and 46 guns. The Federals are preparing or the winter defence of Chattanooga and Lookout Mountain. General °P11 Johnston has been appointed to the chief command of the I crate army lately under the orders of General Bragg, who had
-
-(beintemporerily replaced by General Eardee. 1ucceSse5 axe reported of the Confederates in Georgia and
-
-Gieral Banks has returned to New Orleans from the Rio Grande; is no further intelligence respecting the Texan expedition. The siegn of Charleston is proceeding. its usual slow pace. The Fedj have-ceased to bombard Fort Sumter, and, are turning their b5tterjes on other Confederate defences of Charleston. The monitor eehawken, while anchored at the entrance to Charleston Harbour, dun dtarl sunk ng-a gale  dtlurty-Of her officers and crew were
-
-- bsldo1tLineobs'a health is inroroviiig.
-
-tlenat¬è, $t. Suniner, of fasstehusetts, has given notice of a
-
-b]l to rpeal all- Acts for the dit()IL)f fugitive slaves.
-THE last mail from America suggests at least one cone sideration to which we may venture to look with a certain amount of complacency. We have fresh and valuable testimony
-
-to the impartiality of Englishmen in reference to the American-quarrel. It may be useful to note this, as hereafter, when the war shall be over, and the new state of things, whatever that may be, shall have been inaugurated, it will be extremely convenient to be able to appeal to facts, as admitted by the Americans themselves, in order to prove that we have never departed from the principle of fair play in our treatment of the unhappy war. We have taken neither one side nor the other; we have recognised the gallantry of each combatant, but we have refused to permit the sentiment of admiration for a people fighting for what it considered its rights to lead us into a recognition of those to whom WC could not even have sent an Ambassador in safety. Nor have we allowed our detestation for the slave system to induce us to give material aid to those who, at the out$3b of the war, not only did not fight for the slave but offered big continued slavery as the price of the preservation of the Union. That we have held the balance fairly has been hitherto chiefly: proved by the abuse lavished upon us by Northern speakers and
-
-writers; but the South, now that nothing can be gained by: forbearance, is taking up the antiEnglish cry, and Mr. Davis. is as "bitter," if not as vulgar, as the .2Vn, York Herald
-
-Here it must be remarked that the Southerns are simply
-
-returning to their original state of mind When the South had opened fire, the first gun was a signal for its journals to dej8t from abuse of England. For years previously nearly all the serious and earnest American attacks upon this country were made by the paper above mentioned, and other papers which, if issued in the North, were in the hands or at the command of the slaveowners. The lighter impertinences of the "Yankee ' press were not things to be much regarded-they were the effer' vcscent effusions of national prejudice, and little more. We caricatured the Yankee, and he called us names; but these inter' changes of blows broke no bones. The power in the Union W
-
-Southern power, and for years all the more important 0ce3 were filled by able men, who foresaw what ashingtOfl had foreseen, and who, as we now know, were preparing everything for the outbreak. They knew that there was one great question in which England never could be with the South
-
-interest-the question of slavery; and there was, in their attacks upon this country, a reality of hatred which it would be absurd to confound with the petulances we exchanged with the mere Yanbee. We are not complaining of this. The South believed that it could not exist without the 49 domisti
-
-institution;" and, as Mr. Davis fairly says, England thought that institution necessary in days gone by; At the same time, he has no more right to visit the sins of our fathers upon us i
-
-•to assail 118 for bating- nobler views a to our duties tO our black fellow-creatures than our fathers held than be has to upbraid I3
-for discarding oil for gas, and stage waggoas for railway cars.
-
-Letting this unreasonable taunt pass, as little in accordance
-
-with the spirit of progress so much talked about in America, we would say that the South, and, those in the North who had Southern interests, hated England for a very good and natural reason, and lost no opportunity of imparting that fact. It is one which this Journal, in the recollection that its pages are not prepared for the day only, lout will be referred to for the history of the times we live in, has repeatedly brought under the notice of our readers at 'tie time when the gallant struggles of the South were exciting Sr admiration that tended to make a generous nation like our gn forgetful of certain antecedents, which, nevertheless, .ought not to be forgotten.
-
-But the Sumter gun silenced the anti-English Soutlierns, and 'the Confederates fought on in a way which has never failed to command English sympathies. We were never brought face to face with the slavery qurstion, for the reason that the war, 'when It began, had nothing to do with slavery. Or, if we had to touch the topic, it was forced upon us by the hypocrisy of certain folk in the North, who had the coolness to describe the -war as waged for the liberty of the blacks, while the Chief Magistrate was solemnly offering him as a perpetual slave
-
-o those who would make submission to the Union. IHaTing ridiculed that outrageous nonsense, we had ample hilawe for admiring the shill of the Southern leaders and the bravery and endurance of their men. These points became more and more worthy of note as the war went on, arid the North, after its first clumsy struggles, went to work with more -earnestness, made a real blockade, and by enormous levies from a,wortbless population which it was only too glad to expend, measured its military purse, so to speak, against that of the South, but to a large extent gave counters for sovereigns. when the sea was blocked up for the South and it was forced to take to manufactures which it had previously -despised, and when its citizens were sent out to sacrifice their valuable lives against the rabble which the TortIi hired for the fy (be it ever remembered that we speak only of the earlier levies of the North, and that we do all honour to the Federal -citizens who, later, responded to the call of Government), it was almost impossible not to wish well to the Confederates,
-
-Tho were contending against nearly all the disadvan-tages that can be opposed to a people in arms. And -we may safely appeal to themselves, and also to the
-
-• Northern press, which flamed with indignation at England's
-
--courtesies to "rebels" (there were some rebels in America, if we remember aright, in George UL's time, and they gaw no sin in rebellion), whether the British press and British society generaIy were niggardly in recognizing Confederate
-
-•e±ploits and endurance. Bat we would not recognise Xt.
-
-Davis, because, among other reasons, it would have been rather humiliating to England had a nobleman sent out with ore-dentials to that gentleman been snapped up by a Federal cruiser, and compelled to. write to the Friga -Offlee from Lord -Pons's house. --  - -
-
--The larals. having abused us for three years for not yin
-aJJu1Ja 0 LLWLICO.
-
-'The Fed erals having abused us for tI*ee years for n ym
-
-athising with them and wishing Mr. Seward the suecesa over the Confederates which he wishes the Emperor of Russia over the Poles, have began to understand us a little better. Mr Reedier
-
-•ire with his treacle,and eve since bb returahas put very little
-
-1riaistone into it not more than cotild be expected from a
-
-:1iti clergyman. Mr. Lincoln is almost complimentary,
-
-and is not afraid to say that we have not encouraged the breach of treaties, and have shown some good faith in ratraining the supply of armaments to be used against aMeudy nation. The Herald certainly menaces us with a Monitor or one of her sisters, which is to be moored "opposite London," and is to make the capitulation of the metropolis a necessity; but, as the American ironsides seem
-
-i have an unpleasant habit of sinking at their moorings, we
-
--=ay regard this threat as a friendly joke for the present. We
-
--b'ehaved well, it seems, in informing the Federal Government
-
-f the conspiracy in Canada; and, upon the whole, in spite ed the threats to tear old Mother Englends hair, we believe that the North is regaining its good sense, and, even should the war end in three months, as Lord Lyons is reported to believe it will, we shall not, we think, be attacked by a Federal fleet on this side Midsummer.
-
-But now it is the Confederates' turn; and they resume the'
-
-line of argument and invective of old days. We are selfish and timid, and, at the same time, sentimental and bold; and we are so autocratic that we abhor the idea of a new and a free State; and we are so democratic that we detest the natural ar5stocracy of America. We do not care in the least about the slave; but we let our interest in him make us blind, to the claims of the free man. We are glad to see the Union split up, and we desire that the yoke of the White House should be imposed upon these who detest it. We are horribly afraid of -a war with France, and we have menaced Napoleon with the fall of his dynasty if he interferes in behalf of those against choth the Orleans princes fought. The floodgates hive but just -opened, and this is nothing to the cataract that is coming.
-
-Well, it is Christmas, and we are hound. to have no ill-feel
-
-ings against anybody. But, even were we not chronologically fettered, we could entertain no anger against the South for thus bearing large and valuable testimony to the impartiality .of England. We have pleased neither party, and a judge who gives a just sentence is usually similarly unfortunate, But the diepleauxe of extreme people is the crown of the moderate and righteous. Therefore, we are well pleased at the close of the year to add to our record that the South is as angry with us as was the North.
-ale -ILLUSTRATIONS OF THE WAR IN AMERICA. an ec more sketches by our Special Artist and Correspondent in the South have, after considerable delay, reached us through one of the bo: many gaps in the blockade. Three of these are engraved on pages Fr I and 664 of our present Issue, and appended are some details 31, by cin Correspondent respecting them :- 50: Bi'TL OF CCAMAUG-T CO DRTB GEKZR,A.L HOOD ha RECEIVING 1115 WOUND. Os T¬é battle of Chicanianga, of which your readers will doubtless have thi beard long before this sketch can reach you, was one of the most ab brilliant victories ever gained by the South, though, unfortunately, p not decisive in its results, for, owing to the incompetency or apathy Ch of the Confederate Commander-in-Chief, the Federal General was i allowed to collect his scattered columns behind the intrenahments of to Chattanooga. The fight commenced on the 19th of September, and Ge fluctuated throughout the day with varying chances, both armies occsying
-
-all
-
-their respective positions when darkness put a stop to the tak
-
-conflict. At twelve o'clock on that night General Longatreet, to the :
-
-great delight of every one, arrived on the field from Virginia, and jr Immediately assumed command of the Confederate left wing, con- In sisting of his own corps of tried veterans from the banks of the jiltC Rappahannoch and Potomac, and Buckner's division from the army of !lisst Tennessee. On the morning of the 20th the battle was renewed, General Longstreet sweeping everywhere from his front are the right of the Federal host, crushing them back before the advance ha' of his victorious brigades. From the nature of the ground, which OW was thickly wooded, I found it impossible to make anything like a drawing of the battle, not being able to see more than a hundred yards either way; but I have selected an incident for illustration,, which occurred in almost the only open portion of the field. You t will recollect that General Rood was severely wounded in the arm Le at Gettysburg, and though still suering, and compelled to carry the by injured limb in a sling, he accompanied his glorious division to the banks fir of the Tennessee, General Rood is, to my mind, the Bayard of the  ha
-
- Confederate army, literally sans peue' St sear reprocke, and those who j
-
-have seen him, as I have seen him at Fredericksburg and elsewhere, at RI the bead of his gallant Texans, will admit I eulogise him no more than Li he deserves. About two o'clock on the 20th General Rood found his P1 division in front of an opening in the woods, which ascended abruptly for some three or four hundred yards to a most formidable Yankee  he
-
-position on the shirt of a dense piece of forest. Fallen timber served i
-
-to make its natural strength much stronger, and behind this fortification of logs were posted large bodies of Federal infantry and
-
-B tuuneroos pieces of artillery. General Rood determined at once to carry the position by assault, and, forming his men into two lines, gave the order to advance. The leading column moved forward half ti way across the opening, under a most withering fire, then paused for a .an instant and discharged their rifles rushing on, with the bayonet I through the smoke. At this moment (fleneral hood was cheering for- t ward the second column when an Enfield ball passed through his right thigh, smashing the bone to pieces, and as he was removed from the field he heard the shouts of his soldiers proclaiming their success and his revenge.
-
-CHATTANOOGA AND THE FEDERAL LINES FROM THE LOWER IUDGS OP LOOKOUT XOUNTAIN.
-
-In this view the exact positions of Chattanooga and General ltosecranz'a army are, I think tolerably well defined, the town and camps of the Federalists lying in a bend of the Tennessee river, which here forms the letter U. By drawing a curved line across the superior portion of the letter you have the defensive line of works thrown up by the Northern Commander, and will thus see that his is a position of great strength from the fact that his forces are concentrated in a small space, his left and right resting on each bend of the river. The Confederate lines run from the river at the base of Lookout Mountain, extending along Missionary Ridge, and terminating again on the river to the extreme right, the Federals having the inner side of an arc, and the Confederates the outer. Missionary Ridge is formed by tub range of lulls running from the right across the lniddle distance, and from amidst the foliage may be seen peeping here and there the sparse tents of the Southern army. Beyond, still to the riht, arc the lofty peaks of the Uaitka mountains, forming a portion of the A.lleghany chain, and the whole scene of valley and distant purple hills, with cloud shadows sobering the rich tints that sparkle in the golden autumn sunshine, make up a landscape that requires no further assistance of nature to make it perfect.
-
-VIII IV OF CHATTANOOGA AND TEE FEDERAL POSITIONS PROM
-
-T1111 tury cntcre 05 t'Its CONFEDERATE LLNES.
-
-The point of view of the accompanying Illustration was the lower slope of Missionary Ridge, near General Preston's head-quarters. The lofty hill on the left Is Lookout Mountain, round the base of which, extending to the Tennessee River, the extreme left of the scuthern line runs. Beyond, to the right, is Racoon Mountain, and next comes Waldron's Ridge. These are spurs of the Cumberland Range, clustered round the town of Chattanooga, which lies under the shelter of Cameron's Rill, a thickly-foliated mamelon. In the middle distance are the Yankee camps. On this side of them, near Vie centre of the Engraving, lies the Star Fort, while on the extreme eight is indicated another very strongredoubi, bothbeing united by lesser
-works and a continuous chain of trenches. At the foot of the elevation from winch my sketch was taken may be seen the Confederate hue of breastworks, and in the wooded middle ground the pickets of the opposing armies confront each other within speaking distance. The drawing, however, which I made from the lower ridge of Lookout Mountain, will, I think, give a better idea of the relative positions of the contending forces, as in that the Tennessee River is seen, and even the inside of the Federal works.
+<div2 id="iln43.1235.003" n= "At Length the Federals have gained a General" type="Article">
+<head>[AT LENGTH THE FEDERALS HAVE GAINED A GENERAL]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1235</biblScope>
+<biblScope type="pages">p. 586</biblScope>
+<date value="1863-12-12">December 12, 1863</date>
+<extent></extent>
+</bibl>
+
+<p rend="center"><hi rend="smallcap"><hi rend="italic">London:
+Saturday, December</hi> 12, 1863.</hi></p>
+<p><hi rend="smallcap">At</hi> length the Federals have gained a
+General, and that leader has gained a victory, which may fairly be
+described as a great one. General Grant is declared to have destroyed
+the army of Bragg. Chicamauga has been more than avenged. The
+Confederate commander is described as having fled amid the rout of his
+forces, and to have abandoned his guns, caissons, and waggons. Fifty
+cannon are stated to have been taken. Bragg was flying, at the last
+accounts, to Dalton, burning bridges and destroying all behind him;
+and the victor was pursuing him with all possible speed, but had
+tarried to cut up the railway by which Longstreet might have come to
+the aid of Bragg. From the position of the antagonists it is clear
+that the rectification of statements of detail, or even the
+information that the demoralization of the Confederate army is not so
+complete as has been stated, cannot alter the fact that General Grant
+has done a great thing for the North, and that, for the first time in
+the war, the Federals have won a brilliant victory. We attach no value
+to the statement that this success excites no enthusiasm in the
+North. If it be not recognised for what it is, the Federals scarcely
+deserve a General who can win such laurels. But we make no doubt of
+hearing that the North is quite aware of the greatness of the
+exploit. And we cannot see the wisdom of those who seek to disguise
+the fact that the resources of the Federals have at length begun to
+tell terribly upon their enemies.</p>
+<p>The Confederates cannot afford to lose an army. They have not the
+means of recruiting, in the first place, and, in the second, they lose
+the strength and flower of their population, instead of a class which
+we dare say the Federal authorities think are just as well occupied in
+receiving the fire of the Southerns as in loafing about the streets of
+the Union cities. Not that we would be understood to direct this
+remark at the whole, or even the majority, of the Northern armies,
+which have in their ranks thousands of estimable citizens; but the
+Federal authorities have used the "dangerous classes" very
+plentifully, and not unwisely, and can send them to the front in
+almost any number to replace losses; whereas the Confederates have no
+such power. They put forth their best strength, and when that is
+overmastered they suffer very much more heavily than their
+antagonists. We imagine that this blow may be regarded as the
+beginning of the end.</p>
+<p>It is only due both to victors and vanquished to point out that
+this, the most remarkable victory of the North, has been won by the
+very best soldiers whom it could launch upon the foe. The Federals of
+the West are a fine and sturdy race, not likely to quail before the
+rush of the Confederates, who come on like a tempest, and have so
+often swept the newly-raised armies of the North before them. These
+Western Soldiers charged with a fierceness equal to that of their foes, and were
+probably superior to them in the stubbornness which has given so many
+a victory to English warriors. Then it must be remembered that, if the
+details already obtained be correct, the South was largely
+outnumbered; and, finally, it must not be forgotten that, whereas
+Grant was fresh at his work and had all the confidence of his
+soldiers, Bragg had for a long time been on such ill terms with his
+army, or at least with his chief officers, that the presence of
+Mr. Davis himself had been necessary at the camp to set matters in
+some kind of order. The Confederates, therefore, went into action
+against an enemy as good as themselves as regarded physique, and
+better off in numbers and in the relation of the General to the
+army. Take all this into account, in justice to both sides, and still
+General Grant remains the victor upon a glorious battle-field. English
+writers will not show the impartiality and fair play on which it has
+been, and justly, the custom to pride ourselves, if we refuse to a
+brilliant exploit by the North the admiration which we have always
+been ready to show to Confederate valour and endurance.</p>
+<p>While Grant was defeating Bragg the Virginian army, which it was
+asserted that Meade was unable to move on account of the state of the
+country, had resumed the offensive, had crossed the Rapidan at three
+fords, and was advancing upon Orange Courthouse. General Lee would
+doubtless be prepared for the encounter; and, as he did not resist the
+Federal General's passage of the river, he is supposed, with
+probability, to be trying to lure him into a trap, or, at all events,
+to design to fight him on ground of Lee's own selection. If this
+battle should be decisive, and Lee be defeated--a result which is not
+to be calculated on from past events--the Confederates will have to
+consider whether they will give up the game or concentrate themselves
+in some restricted but easily-defended portion of Secessia. On the
+other hand, if Lee bests Meade, here is the old see-saw work over
+again, only that the Confederates are weaker by an army. The telegram
+says that rumours of an unfavourable kind were going about; but, under
+the circumstances, the statement seems to us to have no
+significance.</p>
+<p>Longstreet had certainly got Burnside (or else Foster, in the
+"temporary absence" of Burnside) shut up in Knoxville, and was
+besieging him, although it may be true that actual investment, such as
+is understood from the ordinary use of the word, was impossible. But,
+if Longstreet had access to the only road by which the encaged General
+could escape, the result might be pretty much the same as a complete
+investment. On this point it is not easy to obtain accurate
+information. But one thing is certain--namely, that the Confederates
+can less than ever afford to lose time over Knoxville; and if Meade
+should be fortunate, Burnside will be even more so, without action of
+his own to justify his good fortune. We may expect early tidings as to
+this feature in the campaign.</p>
+<p>We may repeat our belief that the Confederates have at last
+received a blow which will have a visible effect upon the fortunes of
+the war. The rule in mechanics, that when two forces come into
+collision one must give way, is true in war; but there are so many
+retarding and balancing influences which come into play in military
+matters that we are always a long time in ascertaining which is the
+superior force. It was doubtful in this American struggle. There was a
+vast numerical majority on the side of the North, and there was a
+navy, and there were all the resources of Europe at her command. The
+odds, no doubt, seemed very great against the South, but she contrived
+to reduce them so enormously by her display of military skill, by the
+daring of her troops, and by the unanimous sentiment of hatred for the
+North and of resolve to work out independence, that many observers,
+not usually hasty, believed that it was the latter that would soonest
+weary of the contest. We believe that the problem has now been solved,
+and that the game is beginning to be decided--that is so say,
+supposing no intervention take place, and the North be left to measure
+itself steadily and remorselessly  against the South. The Federals may
+lose another army and send a new one to replace it. The Confederates
+may lose another army, but would not be able to replace it. It is as
+in chess--when once the balance of power is gained, every exchange
+does but more severely damage the chance of the weaker. The work of
+subjection, which Earl Russell declared, early in the war, was the
+work that the North had undertaken in its resolve for empire, will be
+done, if permitted. And if the South have a friend who intends to take
+her part, he will do well not to lose time. We do not hesitate to mark
+the news that has come this week as the most significant which we have
+had since Bull Run, and we shall see it so accepted as soon as the
+details shall have afforded the public mind some more real view of the
+case than is presented by the bald language of a telegram.</p></div2>
+
+<div2 id="iln43.1235.004" n= "Nevada territory" type="Article">
+<head>[NEVADA TERRITORY]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1235</biblScope>
+<biblScope type="pages">p. 586</biblScope>
+<date value="1863-12-12">December 12, 1863</date>
+<extent></extent>
+</bibl>
+<p>Nevada territory is said to he the richest silver-bearing country
+in the world. It is estimated that the product of this year will be
+&#x00A3;3,000,000.</p></div2>
+
+<div2 id="iln43.1235.005" n= "The Magazines." type="Article">
+<head>THE MAGAZINES.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1235</biblScope>
+<biblScope type="pages">p. 590</biblScope>
+<date value="1863-12-12">December 12, 1863</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE MAGAZINES.</p>
+<p>....Everything in <hi rend="italic">Macmillan</hi> is good this
+month. Mr. Kingsley's story is continued with unabated spirit, and the
+anonymous tale, "A Son ofthe Soil," bids fair to develop a new writer
+of rare merit. Mrs. Gaskell writes a touching notice of the late
+Colonel Shaw, Commander of the first negro regiment ever raised in
+America, and a choice example of the singularly pure, gentle, and
+considerate type which the heroism of New England so generally
+assumes....</p></div2> 
+
+<div2 id="iln43.1235.006" n= "Captain Semmes's famous vessel" type="Article">
+<head>[CAPTAIN SEMMES'S FAMOUS VESSEL]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1235</biblScope>
+<biblScope type="pages">p. 599</biblScope>
+<date value="1863-12-12">December 12, 1863</date>
+<extent></extent>
+</bibl>
+<p>Captain Semmes's famous vessel, the Sumter, which is now under the
+new name of the Gibraltar, engaged in blockade-running, has arrived
+at Queenstown, from Wilmington, North Carolina. she left that port on
+the 14th of November, and has on board 330 bales of cotton, each
+bale, it is said, weighing 800 lb.</p></div2>
+
+<div2 id="iln43.1235.007" n= "Echoes of the Week." type="Article">
+<head>ECHOES OF THE WEEK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1235</biblScope>
+<biblScope type="pages">p. 602</biblScope>
+<date value="1863-12-12">December 12, 1863</date>
+<extent></extent>
+</bibl>
+<p rend="center">ECHOES OF THE WEEK.</p>
+<p><hi rend="smallcap">Little</hi> more than two years have elapsed
+since the Northern and Southern divisions of the United States would
+indulge in a large fight in the field without loss of life or limb to
+any one hero. Any veteran who could have exhibited an honest yawn
+resulting from over fatigue in the use of his arms--or legs--deserved
+to be decorated. The parturient mountain was, in the end, at least
+blessed with something, although only a mouse; but it certainly seemed
+that American troops would have all their labour in vain. Their
+engagements resulted in no more than do the engagements of "many a
+gentle girl and boy;" they were broken off long before the happy day
+could possibly have been fixed. Or, they may be said to have resembled
+Barmecide feasts, at which all parties make much dumb show, but go
+away a trifle more hungry than when they came. But a time arrived when
+blood was tasted, and since then it has been difficult to say how much
+blood has been spilt. A remarkable indication of the magnitude of
+American battles comes in the shape of print. To the list of Northern
+journals, or magazines, a new one was added in November, under the
+title of <hi rend="italic">The Sanitary Commission Bulletin</hi>, to
+be published twice a month, at a cost to subscribers of two dollars
+annually. This bulletin chronicles all reports and information
+concerning the sick and wounded of the Northern army, the moneys
+received and expended, the different hospitals of different cities,
+the number of patients going in and out, the doctors, the Sisters of
+Mercy, and everything besides that so dismal a subject can
+suggest. The scale is prodigious. Our own Crimean philanthropies might
+be added and not felt--put on board like a long-boat. The United
+States' Sanitary Commission declare that their expenses at the present
+moment are forty thousand dollars per month; but that is quite
+independent of supplies from "every village Sewing Circle, or
+Soldiers' Relief Society, or Church, or Dorcas Association." They have
+thousands of noble women connected with their work; but they want tens
+of thousands, nay, "five hundred thousand, other women, of similar
+views and feelings before the supplies can be accumulated in adequate
+quantities." A novel kind of relief is the "Home," at
+Washington. Here, during a period of nine months, were received nine
+hundred men who had their discharge-papers with them, and consequently
+had no kind of claim on any military fund. They had been discharged in
+good condition, but had fallen into disease and want on the road; they
+would have perished, but for the Home. There is a fine spirit in all
+this, for which every Englishman does not give credit to the
+Yankee.</p>
+<p>Yet all this charitableness, springing as it does from envy and
+hatred, may be as a mere nucleus of doctor and Dorcas to what may come
+if Mr. Lincoln remain advised by his present advisers. He is said to
+be severely attacked by the White House Fever, a disease which
+generally seizes U. S. Presidents in their first November, and
+invariably lasts four years: that is, from the day of one election to
+the day of the next. The fever consists in the restless longing for
+re-election. There may possibly be some connection between the fact of
+a General selected and the probable voting of an army for the next
+presidentship. If this be so; if the supposed influence of officer
+over man be so great, an unskilful commander may gratify Mr. Lincoln's
+four summers of vanity at the cost of some two million men. Of these a
+goodly number may average from six to twelve months in hospital; and
+charity will have to bridge over that terrible river of Time which
+never could be successfully forded by the exchequer of
+Mr. Chase. Perhaps, after all, the White House Fever may not be so
+deadly as alleged. No matter to the patient; to him it is a royal road
+to illness.</p></div2>
+
+<div2 id="iln43.1236.001" n= "Foreign and Colonial News: America." type="Article">
+<head>FOREIGN AND COLONIAL NEWS: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1236</biblScope>
+<biblScope type="pages">p. 606</biblScope>
+<date value="1863-12-19">December 19, 1863</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
+<p rend="center">AMERICA.</p>
+<p rend="center"><hi rend="smallcap">War Intelligence.</hi></p>
+<p>By the latest accounts from New York, to the morning of Dec. 5, we
+learn that General Meade, finding Lee's position on Mine Run Valley
+too strong for aesault, retreated on the 1st inst. to the north of the
+Rapidan. It is supposed that Meade will go into winter quarters near
+Washington. The <hi rend="italic">Washigton Star</hi>, an official
+organ, declares that Meade's campaign was a military failure. It is
+rumoured that General Sedgwick will supersede Meade.</p>
+<p>The defeat of General Bragg was, it seems, not so disastrous as at
+first reported. The Confederates, surprised in their preconcerted
+retreat, were bewildered and disordered, but they soon regained their
+coolness, and showed so strong a front, that the Federals had given up
+pursuing them, and General Grant had resolved on not prosecuting the
+campaign farther till the spring. Of the proceedings at Knoxville the
+papers leave us in doubt, and whether Longatreet has or has not
+retreated, after having attacked the city and been repulsed, remains
+uncertain. According to one account General Bragg has been superseded
+by General Hardee, who is preparing to resume the offensive against
+Grant.</p>
+<p>From Charleston we have the old story of continued firing, with
+little result. Despatches have been received to the 1st inst. Gilmore
+was throwing twenty shells per diem into Charleston. The shelling of
+Fort Sumter had been discontinued.</p>
+<p>General Banks announces the occupation of Brownsville, and says
+three revolutions have occurred in Matamoras. The first was adverse to
+the interests of Mexico and the United States. Everything, however, is
+now as favourable as could be desired.</p>
+<p rend="center"><hi rend="smallcap">General News.</hi></p>
+<p>President Lincoln is said to be seriously ill, his malady being
+smallpox.</p>
+<p>A large meeting has been held at New York to raise volunteers.</p>
+<p>The Conservative Union National Committee, at a meeting held in
+Cincinnati, nominated General M'Clellan for the next presidency.</p>
+<p>Mr. Gunther, an independent peace Democrat, has been elected Mayor
+of New York by a large majority, defeating the Tammany and Mozart Hall
+and Republican candidates.</p>
+<p>The Confederates keep up continual attacks on the steamers
+navigating the Mississippi.</p>
+<p>Strong abolition resolutions have been introduced in the Missouri
+Legislature.</p>
+<p>The famous guerrilla Morgan has broken prison and escaped from the
+Penitentiary at Columbus with six fellow-prisoners; and in spite of an
+immense reward offered by the Federals for his capture, "alive or
+dead," he has reached Toronto.</p>
+<p>Thirteen steamers ran the Wilmington blockade on the 19th
+ult.</p></div2>
+
+<div2 id="iln43.1236.002" n="The Confederate Screw-Steamer
+      Rappahannock Lying at Calais Pier.--See Page 627." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.43</biblScope>
+<biblScope type="issue">no.1236</biblScope>
+<biblScope type="pages">p. 616</biblScope>
+<date value="1863-12-19">December 19, 1863</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv43p616">
+<head>THE CONFEDERATE SCREW-STEAMER
+      RAPPAHANNOCK LYING AT CALAIS PIER.--SEE PAGE 627.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln43.1237.001" n= "Foreign and Colonial News: America." type="Article">
+<head>FOREIGN AND COLONIAL NEWS: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1237</biblScope>
+<biblScope type="pages">p. 647</biblScope>
+<date value="1863-12-26">December 26, 1863</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
+<p rend="center">AMERICA.</p>
+<p rend="center"><hi rend="smallcap">President Lincoln'S Message And
+Proclamation Of Amnesty.</hi></p>
+<p>Congress met on the 7th inst., and on the 9th President Lincoln
+delivered his annual message, which was accompanied by a proclamation
+suggesting terms for the reconstruction of the Union.</p>
+<p>President Lincoln declares that he will never attempt to retract
+or modify his emancipation proclamation, or return to slavery any
+person freed by that proclamation, or by any act of Congress. Little
+can be done, however, towards reconstruction until the military
+ascendancy of the Federal Government shall be thoroughly established,
+and the chief care of the Federal authorities must be devoted to the
+army. The relations of the United States with foreign Powers are
+friendly; and the British Government has exercised its authority to
+prevent the departure of new hostile expeditions from British ports,
+while the Emperor of the French has likewise promptly vindicated the
+neutrality which he proclaimed at the beginning of the contest. Some
+questions arising out of the blockade of the Southern coasts have been
+discussed and accommodated in a spirit of frankness, justice, and
+national goodwill. It is proposed to refer to arbitration a question
+concerning the territorial jurisdiction of Spain in the waters of
+Cuba; and there have been some differences respecting the treatment of
+foreigners found residing in the Southern Confederacy.</p>
+<p>The message states that the receipts during the year from all
+sources, including loans and the balance in the Treasury at the
+commencement of the year were 900,000,000 dols. The disbursements
+during the year were 895,000,000 dols. The receipts from the Customs'
+were 69,000,000 dols., and from the internal revenue, 37,000,000
+dols. The amount received from loans was 776,000,000 dols. The
+disbursements in the War Department amounted to 590,000,000 dols., and
+for the Navy Department to 63,000,000 dols.</p>
+<p>The message further states that there are 100,000 freed slaves in
+the Federal service, half of whom are in arms.</p>
+<p>The Treasury Secretary's report, which has been published along
+with the message, recommends that the taxes on spirits and tobacco be
+increased; states that 460 000,000 dols. must be raised by loan to
+defray the expenditure till July, 1864, and 545,000,000 dols. be
+provided for the expenditure of the year ending in July, 1865;
+estimates that in July, 1865, the debt of the United States will
+amount to 2,200,000,000 dols.; and declares that the Secretary will
+issue no more Treasury notes.</p>
+<p>President Lincoln's proclamation, accompanying the message, grants
+not only an amnesty, but a full pardon and restoration of the rights
+of property, except slave property, to those taking the oaths
+prescribed in the proclamation. The amnesty is to be accorded to those
+in "the rebellious States" who take an oath of allegiance to the
+United states, and another oath to support the emancipation
+proclamation and all other proclamations issued by President Lincoln,
+as well as all acts passed by the Federal Congress, since the outbreak
+of the "rebellion." But all men who have held office under the
+Confederate Government, or who have served in the Confederate army or
+navy in a higher rank than that of colonel or lieutenant respectively,
+or who have resigned Federal commissions for the purpose of joining
+the "rebels," or who have treated coloured soldiers otherwise than as
+prisoners of war, are to be excluded from the benefit of the
+amnesty. If one tenth of the legal voters in any "rebellious State"
+will take the required oaths and establish a Republican State
+Government, that Government will be recognised and protected by the
+Federal authorities.</p>
+<p>The <hi rend="italic">New York Tribune</hi> and <hi
+rend="italic">Times</hi> applaud President Lincoln's message. The <hi
+rend="italic">New York World</hi> thinks the message to be good as an
+electioneering document, but considers his plan for a reconstruction
+to be absurd. The <hi rend="italic">New York Herald</hi> believes the
+President's plan for a reconstruction will he a failure.</p>
+<p rend="center"><hi rend="smallcap">President Davis's
+Message.</hi></p>
+<p>The Confederate Congress opened its Session at Richmond on Monday,
+Dec. 7, and at noon on Tuesday the annual message from President
+Davis was received.</p>
+<p>Mr. Davis deplores the disasters which have befallen the Southern cause since he transmitted his last message, but declares that
+ultimate success is assured by the spirit and perseverance of the
+Southern People. "The determined and successful defence of Charleston
+against the land and naval operations of the enemy afforded (he says)
+an inspiring example of our ability to repel the attacks even of the
+iron-clad fleet on which they chiefly rely; while on the northern
+frontier our success was still more marked."</p>
+<p>Taxation is recommended for the purpose of diminishing the existing
+depreciation of the Confederate currency.</p>
+<p>The President complains bitterly of the partiality shown the
+Federals by European Governments, and especially by the English
+Cabinet; and observes that the Southern Confederacy might justly
+retaliate by declaring a paper blockade of the Northern coasts and
+making prizes of neutral vessels trading to Northern ports, or by
+refusing any longer to recognise the principle that an enemy's goods
+shall not be seized in a neutral ship; but he does not recommend such
+a resort to retaliation, and prefers to await a return of England to
+true neutrality.</p>
+<p>Mr. Davis recommends the abolition of the substitute system and the
+modification of the exemption law, so that the army may be largely
+increased as rapidly as possible.</p>
+<p>He regrets the suspension of the exchange of prisoners, and that
+communication with the trans-Mississippi districts is so greatly
+obstructed.</p>
+<p>In conclusion, he says:--"The enemy refuse proposals for the only
+peace possible between us. The only hope for peace now is in the
+vigour of our resistance."</p>
+<p rend="center"><hi rend="smallcap">War News.</hi></p>
+<p>There has been no change in the situation of the belligerent armies
+in Virginia.</p>
+<p>General Longstreet, whose losses during the siege of Knoxville are
+estimated by the Confederates at 600 men, has safely prosecuted his
+retreat as far as Morristown, East Tennessee. In the late battles near
+Chattanooga the Federals lost 4500 men. They took 6000 prisoners and
+46 guns. The Federals are preparing for the winter defence of
+Chattanooga and Lookout Mountain. General Joseph Johnston has been
+appointed to the chief command of the Confederate army lately under
+the orders of General Bragg, who had been temporarily replaced by
+General Hardee.</p>
+<p>Several successes are reported of the Confederates in Georgia and
+Kentucky.</p>
+<p>General Banks has returned to New Orleans from the Rio Grande; and
+there is no further intelligence respecting the Texan expedition. The
+siege of Charleston is proceeding at its usual slow pace. The Federals
+have ceased to bombard Fort Sumter, and are turning their batteries on
+other Confederate defences of Charleston. The monitor Weehawken, while
+anchored at the entrance to Charleston Harbour, suddenly sank during a
+gale, and thirty of her officers and crew were drowned.</p>
+<p rend="center"><hi rend="smallcap">Miscellaneous.</hi></p>
+<p>President Lincoln's health is improving.</p>
+<p>In the Senate, Mr. Sumner, of Massachusetts, has given notice of a
+bill to repeal all Acts for the rendition of fugitive slaves.</p>
+<p>In the Congress, Mr. Colfax, a Republican, has been elected
+Speaker.</p>
+<p>A vote of thanks has been passed to General Grant and a medal
+ordered for him.</p>
+<p>The commercial intelligence from New York has the stereotype
+heading, "Money tight."</p>
+<p>A letter from Port Hudson states that a grand review of the whole
+Corps d'Afrique has taken place, and it is described by those who
+witnessed it as a magnificent affair.</p>
+<p>The Senate of Georgia has ordered the enrolment of all citizens
+over fifteen years of age for the defence of the State.</p>
+<p>Over 1000 vessels have been captured since the blockade was
+instituted. The naval force consists of 588 vessels, 75 of which are
+ironclads.</p>
+<p>The steamer Chesapeake, from New York to Portland, was captured by
+sixteen Confederates, who left New York in the steamer as
+passengers. They landed the captain and crew at St. John's, but they
+killed the second engineer. A large number of steamers has left New
+York in pursuit.</p>
+<p>The Federal ship of war Vanderbilt has visited Penguin Island, and
+destroyed a large quantity of coal stored there. She has also seized
+the British vessel Saxon, laden with the cargo of the Federal vessel
+Conrad, captured by the Alabama. The Saxon was sent to New York in the
+care of a prize crew.</p></div2>
+
+
+<div2 id="iln43.1237.002" n= "The last mail from America suggests" type="Article">
+<head>[THE LAST MAIL FROM AMERICA SUGGESTS]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1237</biblScope>
+<biblScope type="pages">p. 650</biblScope>
+<date value="1863-12-26">December 26, 1863</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="smallcap"><hi rend="italic">London:
+Saturday, December</hi> 26, 1863.</hi></p>
+<p><hi rend="smallcap">The</hi> last mail from America suggests at
+least one consideration to which we may venture to look with a certain
+amount of complacency. We have fresh and valuable testimony to the
+impartiality of Englishmen in reference to the American quarrel. It
+may be useful to note this, as hereafter, when the war shall be over,
+and the new state of things, whatever that may be, shall have been
+inaugurated, it will be extremely convenient to be able to appeal to
+facts, as admitted by the Americans themselves, in order to prove that
+we have never departed from the principle of fair play in our
+treatment of the unhappy war. We have taken neither one side nor the
+other; we have recognised the gallantry of each combatant, but we have
+refused to permit the sentiment of admiration for a people fighting
+for what it considered its rights to lead us into a recognition of
+those to whom we could not even have sent an Ambassador in safety. Nor
+have we allowed our detestation for the slave system to induce us to
+give material aid to those who, at the outset of the war, not only did
+not fight for the slave but offered his continued slavery as the price
+of the preservation of the Union. That we have held the balance fairly
+has been hitherto chiefly proved by the abuse lavished upon us by
+Northern speakers and writers; but the South, now that nothing can be
+gained by forbearance, is taking up the anti-English cry, and
+Mr. Davis is as "bitter," if not as vulgar, as the <hi
+rend="italic">New York Herald.</hi></p>
+<p>Here it must be remarked that the Southerns are simply returning to
+their original state of mind. When the South had opened fire, the
+first gun was a signal for its journals to desist from abuse of
+England. For years previously nearly all the serious and earnest
+American attacks upon this country were made by the paper above
+mentioned, and other papers which, if issued in the North, were in the
+hands or at the command of the slaveowners. The lighter impertinences
+of the "Yankee" press were not things to be much regarded--they were
+the effervescent effusions of national prejudice, and little more. We
+caricatured the Yankee, and he called us names; but these interchanges
+of blows broke no bones. The power in the Union was Southern power,
+and for years all the more important offices were filled by able men,
+who foresaw what Washington had foreseen, and who, as we now know,
+were preparing everything for the outbreak. They knew that there was
+one great question in which England never could be with the Southern
+interest--the question of slavery; and there was, in their attacks
+upon this country, a reality of hatred which it would be absurd to
+confound with the petulances we exchanged with the mere Yankee. We are
+not complaining of this. The South believed that it could not exist
+without the "domestic institution;" and, as Mr. Davis fairly says,
+England thought that institution necessary in days gone by. At the
+same time, he has no more right to visit the sins of our fathers upon
+us, or to assail us for having nobler views as to our duties to our
+black fellow-creatures than our fathers held, than he has to upbraid
+us<pb n="651"/> for discarding oil for gas, and stage waggons for
+railway cars. Letting this unreasonable taunt pass, as little in
+accordance with the spirit of progress so much talked about in
+America, we would say that the South, and, those in the North who had
+Southern interests, hated England for a very good and natural reason,
+and lost no opportunity of imparting that fact. It is one which this
+Journal, in the recollection that its pages are not prepared for the
+day only, but will be referred to for the history of the times we live
+in, has repeatedly brought under the notice of our readers at the time
+when the gallant struggles of the South were exciting an admiration
+that tended to make a generous nation like our own forgetful of
+certain antecedents, which, nevertheless, ought not to be
+forgotten.</p>
+<p>But the Sumter gun silenced the anti-English Soutlherns, and the
+Confederates fought on in a way which has never failed to command
+English sympathies. We were never brought face to face with the
+slavery question, for the reason that the war, when it began, had
+nothing to do with slavery. Or, if we had to touch the topic, it was
+forced upon us by the hypocrisy of certain folk in the North, who had
+the coolness to describe the war as waged for the liberty of the
+blacks, while the Chief Magistrate was solemnly offering him as a
+perpetual slave to those who would make submission to the
+Union. Having ridiculed that outrageous nonsense, we had ample leisure
+for admiring the skill of the Southern leaders and the bravery and
+endurance of their men. These points became more and more worthy of
+note as the war went on, and the North, after its first clumsy
+struggles, went to work with more earnestness, made a real blockade,
+and by enormous levies from a worthless population which it was only
+too glad to expend, measured its military purse, so to speak, against
+that of the South, but to a large extent gave counters for
+sovereigns. When the sea was blocked up for the South and it was
+forced to take to manufactures which it had previously despised, and
+when its citizens were sent out to sacrifice their valuable lives
+against the rabble which the North hired for the fray (be it ever
+remembered that we speak only of the earlier levies of the North, and
+that we do all honour to the Federal citizens who, later, responded to
+the call of Government), it was almost impossible not to wish well to
+the Confederates, who were contending against nearly all the
+disadvantages that can be opposed to a people in arms. And we may
+safely appeal to themselves, and also to the Northern press, which
+flamed with indignation at England's courtesies to "rebels" (there
+were some rebels in America, if we remember aright, in George III's
+time, and they saw no sin in rebellion), whether the British press and
+British society generally were niggardly in recognizing Confederate
+exploits and endurance. Bat we would not recognise Mr. Davis, because,
+among other reasons, it would have been rather humiliating to England
+had a nobleman sent out with credentials to that gentleman been
+snapped up by a Federal cruiser, and compelled to write to the Foreign
+Office from Lord Lyons's house.</p>
+<p>The Federals, having abused us for three years for not sympathising
+with them and wishing Mr. Seward the success over the Confederates
+which he wishes the Emperor of Russia over the Poles, have begun to
+understand us a little better. Mr Beecher came with his treacle, and
+ever since his return has put very little brimstone into it, not more
+than could be expected from a political clergyman. Mr. Lincoln is
+almost complimentary, and is not afraid to say that we have not
+encouraged the breach of treaties, and have shown some good faith in
+restraining the supply of armaments to be used against a friendly
+nation. The <hi rend="italic">Herald</hi> certainly menaces us with a
+Monitor or one of her sisters, which is to be moored "opposite
+London," and is to make the capitulation of the metropolis a
+necessity; but, as the American ironsides seem to have an unpleasant
+habit of sinking at their moorings, we may regard this threat as a
+friendly joke for the present. We behaved well, it seems, in informing
+the Federal Government of the conspiracy in Canada; and, upon the
+whole, in spite of the threats to dear old Mother England's hair, we
+believe that the North is regaining its good sense, and, even should
+the war end in three months, as Lord Lyons is reported to believe it
+will, we shall not, we think, be attacked by a Federal fleet on this
+side Midsummer.</p>
+<p>But now it is the Confederates' turn; and they resume the line of
+argument and invective of old days. We are selfish and timid, and, at
+the same time, sentimental and bold; and we are so autocratic that we
+abhor the idea of a new and a free State; and we are so democratic
+that we detest the natural aristocracy of America. We do not care in
+the least about the slave; but we let our interest in him make us
+blind, to the claims of the free man. We are glad to see the Union
+split up, and we desire that the yoke of the White House should be
+imposed upon these who detest it. We are horribly afraid of a war with
+France, and we have menaced Napoleon with the fall of his dynasty if
+he interferes in behalf of those against whom the Orleans princes
+fought. The floodgates have but just opened, and this is nothing to
+the cataract that is coming.</p>
+<p>Well, it is Christmas, and we are bound to have no ill-feelings
+against anybody. But, even were we not chronologically fettered, we
+could entertain no anger against the South for thus bearing large and
+valuable testimony to the impartiality of England. We have pleased
+neither party, and a judge who gives a just sentence is usually
+similarly unfortunate, But the displeasure of extreme people is the
+crown of the moderate and righteous. Therefore, we are well pleased at
+the close of the year to add to our record that the South is as angry
+with us as was the North.</p></div2>
+
+<div2 id="iln43.1237.003" n="The War in America: Battle of
+      Chicamauga--The Confederate General Hood, Wounded.--From a
+      Sketch by our Special Artist.--See Next Page." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.43</biblScope>
+<biblScope type="issue">no.1237</biblScope>
+<biblScope type="pages">p. 661</biblScope>
+<date value="1863-12-26">December 26, 1863</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv43p661">
+<head>THE WAR IN AMERICA: BATTLE OF
+      CHICAMAUGA--THE CONFEDERATE GENERAL HOOD, WOUNDED.--FROM A
+      SKETCH BY OUR SPECIAL ARTIST.--SEE NEXT PAGE.</head>
+</figure>
+</p>
+</div2>
+
+
+<div2 id="iln43.1237.004" n= "Illustations of the War in America." type="Article">
+<head>ILLUSTRATIONS OF THE WAR IN AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1237</biblScope>
+<biblScope type="pages">p. 662</biblScope>
+<date value="1863-12-26">December 26, 1863</date>
+<extent></extent>
+</bibl>
+<p rend="center">ILLUSTRATIONS OF THE WAR IN AMERICA.</p>
+<p><hi rend="smallcap">Some</hi> more sketches by our Special Artist
+and Correspondent in the South have, after considerable delay, reached
+us through one of the many gaps in the blockade. Three of these are
+engraved on pages 661 and 664 of our present Issue, and appended are
+some details by our Correspondent respecting them:--</p>
+<p rend="center"><hi rend="smallcap">Battle Of Chicamauga--The
+Confederate General Hood</hi></p>
+<p rend="centeR"><hi rend="smallcap">Receiving His Wound.</hi></p>
+<p>The battle of Chicamauga, of which your readers will doubtless have
+heard long before this sketch can reach you, was one of the most
+brilliant victories ever gained by the South, though, unfortunately,
+not decisive in its results, for, owing to the incompetency or apathy
+of the Confederate Commander-in-Chief, the Federal General was allowed
+to collect his scattered columns behind the intrenchments of
+Chattanooga. The fight commenced on the 19th of September, and
+fluctuated throughout the day with varying chances, both armies
+occupying their respective positions when darkness put a stop to the
+conflict. At twelve o'clock on that night General Longstreet, to the
+great delight of every one, arrived on the field from Virginia, and
+immediately assumed command of the Confederate left wing, consisting
+of his own corps of tried veterans from the banks of the Rappahannock
+and Potomac, and Buckner's division from the army of East
+Tennessee. On the morning of the 20th the battle was renewed, General
+Longstreet sweeping everywhere from his front the right of the Federal
+host, crushing them back before the advance of his victorious
+brigades. From the nature of the ground, which was thickly wooded, I
+found it impossible to make anything like a drawing of the battle, not
+being able to see more than a hundred yards either way; but I have
+selected an incident for illustration, which occurred in almost the
+only open portion of the field. You will recollect that General Hood
+was severely wounded in the arm at Gettysburg, and though still
+suffering, and compelled to carry the injured limb in a sling, he
+accompanied his glorious division to the banks of the
+Tennessee. General Hood is, to my mind, the Bayard of the Confederate
+army, literally <hi rend="italic">sans peur et sans reproche</hi>, and
+those who have seen him, as I have seen him at Fredericksburg and
+elsewhere, at the head of his gallant Texans, will admit I eulogise
+him no more than he deserves. About two o'clock on the 20th General
+Hood found his division in front of an opening in the woods, which
+ascended abruptly for some three or four hundred yards to a most
+formidable Yankee position on the skirt of a dense piece of
+forest. Fallen timber served to make its natural strength much
+stronger, and behind this fortification of logs were posted large
+bodies of Federal infantry and numerous pieces of artillery. General
+Hood determined at once to carry the position by assault, and, forming
+his men into two lines, gave the order to advance. The leading column
+moved forward halfway across the opening, under a most withering fire,
+then paused for an instant and discharged their rifles, rushing on,
+with the bayonet, through the smoke. At this moment General Hood was
+cheering forward the second column when an Enfield ball passed through
+his right thigh, smashing the bone to pieces, and as he was removed
+from the field he heard the shouts of his soldiers proclaiming their
+success and his revenge.</p>
+<p rend="center"><hi rend="smallcap">Chattanooga And The Federal Lines
+From The Lower</hi></p>
+<p rend="center"><hi rend="smallcap">Ridge Of Lookout
+Mountain.</hi></p>
+<p>In this view the exact positions of Chattanooga and General
+Rosecranz's army are, I think, tolerably well defined, the town and
+camps of the Federalists lying in a bend of the Tennessee river, which
+here forms the letter U. By drawing a curved line across the superior
+portion of the letter you have the defensive line of works thrown up
+by the Northern Commander, and will thus see that his is a position of
+great strength from the fact that his forces are concentrated in a
+small space, his left and right resting on each bend of the river. The
+Confederate lines run from the river at the base of Lookout Mountain,
+extending along Missionary Ridge, and terminating again on the river
+to the extreme right, the Federals having the inner side of an arc,
+and the Confederates the outer. Missionary Ridge is formed by the
+range of hills running from the right across the middle distance, and
+from amidst the foliage may be seen peeping here and there the sparse
+tents of the Southern army. Beyond, still to the right, are the lofty
+peaks of the Unaka mountains, forming a portion of the Alleghany
+chain, and the whole scene of valley and distant purple hills, with
+cloud shadows sobering the rich tints that sparkle in the golden
+autumn sunshine, make up a landscape that requires no further
+assistance of nature to make it perfect.</p>
+<p rend="centeR"><hi rend="smallcap">View Of Chattanooga And The
+Federal Positions From</hi></p>
+<p rend="center"><hi rend="smallcap">The Left Centre Of The
+Confederate Lines.</hi></p>
+<p>The point of view of the accompanying Illustration was the lower
+slope of Missionary Ridge, near General Preston's head-quarters. The
+lofty hill on the left is Lookout Mountain, round the base of which,
+extending to the Tennessee River, the extreme left of the southern
+line runs. Beyond, to the right, is Racoon Mountain, and next comes
+Waldron's Ridge. These are spurs of the Cumberland Range, clustered
+round the town of Chattanooga, which lies under the shelter of
+Cameron's Hill, a thickly-foliated mamelon. In the middle distance are
+the Yankee camps. On this side of them, near the centre of the
+Engraving, lies the Star Fort, while on the extreme eight is indicated
+another very strong redoubt, both being united by lesser works and a
+continuous chain of trenches. At the foot of the elevation from which
+my sketch was taken may be seen the Confederate line of breastworks,
+and in the wooded middle ground the pickets of the opposing armies
+confront each other within speaking distance. The drawing, however,
+which I made from the lower ridge of Lookout Mountain, will, I think,
+give a better idea of the relative positions of the contending forces,
+as in that the Tennessee River is seen, and even the inside of the
+Federal works.</p></div2>
+
+<div2 id="iln43.1237.004" n="Illustrations of the War in America. by
+      our Special Artist. View of Chattanooga and the Federal Lines
+      from the Lower Ridge of Lookout Mountain.; View of Chattanooga
+      and the Federal Positions from the Left Centre of the
+      Confederate Lines.--See Page 662." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.43</biblScope>
+<biblScope type="issue">no.1237</biblScope>
+<biblScope type="pages">p. 664</biblScope>
+<date value="1863-12-26">December 26, 1863</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv43p664">
+<head>ILLUSTRATIONS OF THE WAR IN AMERICA. BY
+      OUR SPECIAL ARTIST. VIEW OF CHATTANOOGA AND THE FEDERAL LINES
+      FROM THE LOWER RIDGE OF LOOKOUT MOUNTAIN.; VIEW OF CHATTANOOGA
+      AND THE FEDERAL POSITIONS FROM THE LEFT CENTRE OF THE
+      CONFEDERATE LINES.--SEE PAGE 662.</head>
+</figure>
+</p>
+</div2></div1></body></text>
