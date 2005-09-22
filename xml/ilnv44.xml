@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "iln.dtd"
+[<!ENTITY % iln-entities SYSTEM
+"/Beck-files/ILN/ILNCVS/ilnxml/iln_entities">
+ %iln-entities; ]>
+
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Civil War: The Illustrated London News
+Perspective</title>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Sandra Still</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>         
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>2005 Emory University.
+Permission is granted to download, transmit, or otherwise reproduce,
+distribute or display the contributions to the work claimed by Emory
+University for non-profit educational purposes, provided this header
+is included in its entirety.  For inquiries about commercial uses,
+contact the Lewis H. Beck Center, Woodruff Library, Emory University,
+Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2005</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>The Civil War: The Illustrated
+London News Perspective</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>The Illustrated London News</title>
+               <biblScope type="volume">Volume 44</biblScope> 
+               <date>Jan to June 1864</date>
+</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+	<change><date>September 2005</date>
+          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</resp></respStmt>
+          <item>Encoded text according to TEI guidelines.</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+<div1 id="iln42.001" n="Illustrated London News: Volume 44" type="Volume"> 
+            <head>Illustrated London News: Volume 44</head>
+            <docDate>Jan to June 1864</docDate>
+
+<div2 id="iln44.1238.001" n= "Foreign and Colonial News: America." type="Article">
+<head>FOREIGN AND COLONIAL NEWS: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 44</biblScope>
+<biblScope type="issue">no. 1238</biblScope>
+<biblScope type="pages">p. 3</biblScope>
+<date value="1864-01-02">January 2, 1864</date>
+<extent></extent>
+</bibl>
+
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
+<p rend="center">AMERICA.</p>
+<p rend="center"><hi rend="smallcaps">War Intelligence.</hi></p>
+<p>We have news from New York to the morning of the 19th ult. The
+information respecting the war movements may be briefy summarised.</p>
+<p>General Langstreet, who does not appear to have been retreating
+with any hot haste from Knoxville, turned upon the pursuing Federals
+on the 14th and drove them back some distance with considerable
+loss. The latest accounts were to the effect that fighting was still
+going on at a point described as Blair's crossroads.</p>
+<p>The Federals are said to have abandoned Lookout Mountain
+Missionary Ridge, and other points, from which General Grant recently
+drove the Confederates.</p>
+<p>Hardee's army is estimated at 35,000 strong, and is at Dalton, with
+pickets extending to the tunnel. Wheeler is reorganising cavalry at
+Dalton for an active winter campaign. Grant and Sherman have left
+Chattanooga for Bridgenorth.</p>
+<p>The famous Confederate guerilla leader, Morgan, who recently made
+his escape from a Federal prison, had, it is said, succeeded in
+getting across the Tennessee, but not, it would seem, without
+considerable difficulty and risk, as it is affirmed that sixteen of
+his escort were captured.</p>
+<p>There is no news of importance from the army of the
+Potomac. Mosby's and White's guerillas are very troublesome and
+numerous, continually harassing the outposts. On the 13th 700 of them
+made a dash at the bridge across Cedar Run, near Catlett's station,
+but were driven back by the force guarding the bridge. The line of the
+railroad from the front to Alexandria is hereafter to be well
+protected by both cavalry and infantry. Short leaves of absence are
+freely granted to officers and men. There is nothing further in relation to the removal of General Meade. It is reported that he has
+demanded a court of inquiry into the conduct of the late campaign.</p>
+<p>General Stuart, at the head of a force of Confederate cavalry, had
+made a raid upon the Orange and Alexandria Railroad, near Fairfax,
+and, besides capturing a number of prisoners, he destroyed about two
+miles of the line of railway.</p>
+<p>A despatch from General Butler at Fortress Monroe announces that a
+portion of his force, under General Wistar, had succeeded in capturing
+the Confederate garrison at Charles City crossroads on the James
+River. Eight officers and over eighty Confederate soldiers were
+taken. The Federal forces, to accomplish this, had marched seventy-two
+miles in fifty-four hours, mostly in a severe storm.</p>
+<p>A brigade of coloured troops under General Wild occupied Elizabeth
+City, North Carolina, on the 10th of of December. The inhabitants were
+entirely taken by surprise, and offered no resistance. Twenty
+waggon-loads of contraband goods were sent back to Portsmouth by
+General Wild. It is said that Elizabeth City is to be made the base
+of important operations.</p>
+<p>The Federals were throwing a large number of shells into
+Charleston, replied to by the Confederate batteries. An accidental
+fire had occured in Fort Sumter, killing ten and injuring thirty
+men. a storm had so seriously injured the obstructions to the harbour
+that it was thought the Federal fleet would be able to make its way
+through them.</p>
+<p rend="center"><hi rend="smallcaps">the Ironclads.</hi></p>
+<p>The official reports of the commanders of the monitors engaged in
+Dupont's attack on Charleston express disappointment at their capacity
+to overcome strong forts, and state that if the attack had been
+prolonged the monitors would all have been disabled. One commander
+says he was disappointed beyond measure at the experiment of monitors
+overcoming strong forts, and considers it was a fair
+trial.</p><p>Captain Drayton, of the Passive, says:--</p>
+<q><p>I was struck in quick succession in the lower part of the
+turret by two heavy shots, which bulged	in its plates and beams, and
+forcing together the rails on which the carriage of the 11-inch gun
+worked, rendered it wholly useless for the remainder of the action. A
+little after a very heavy rifle-shot struck the upper edge of the
+turret, broke all its eleven heavy plates, and then, glancing upwards,
+struck the pilot-house with such force as to send it over, open the
+plates, and squeeze out the top, exposing the inside of the
+pilot-house, and rendering it extremely likely that the next shot
+would take of the top entirely.</p></q>
+<p>Captain Rodgers, of the Weehawken, reports:--</p>
+<q><p>Two or three heavy shots struck the side armour near the same
+place. They so broke the iron that it only remained in splintered
+fragments, much of which could be picked of by hand, and the wood was
+exposed. the deck was pierced so as to make a hole, through which
+water ran into the vessel; thirty-six bolts were broken in the turret,
+and a great many in the pilot-house. To the Patapsco, on damage was
+done which disabled her, although injuries which she received, if
+multiplied, would do so. Forty bolts in the funnel were broken. After
+the third shot from the 15-inch gun of the Nantuck a port-stopper
+became jammed, several shots striking very near the port and driving
+in the plating. It was not used again. A number of these same plates
+were started so much that another shot in their vicinity would have
+knocked them off. The deck plates were cut in twelve places; one shot
+cut through the iron and about two inches into the beam, starting the
+plates, several bolts, and the planking, for some feet below. The
+plates pm the side armour of the Nahant were badly broken in several
+places, and one, where struck by two shots in close proximity, partly
+stripped from the wood, and the wood backing broken in, with edging of
+back plates started up and rolled back in places. The deck was struck
+twice damagingly, one shot near the propeller-wheel quite shattering
+and tearing the plate in its passage, and starting up twenty-five
+bolts in the turret. There were marks of nine shots; fifty-six of the
+bolts were broken perceptibly, the heads flying off inside the turret,
+and the bolts starting almost their length outside, some of them
+flying out completely, and being found at a considerable distance from
+the turret, on the deck. One shot struck the upper part of the turret,
+breaking through every plate. The pilot-house was much damaged and
+wrecked, and four more such shots as it received would have demolished
+it. One shot at the base broke every plate through, and evidently
+nearly penetrated it.</p></q>
+<p rend="center"><hi rend="smallcaps">Miscellaneous.</hi></p>
+<p>The Federal House of Representatives has passed a resolution, by 93
+to 64, that the war should be prosecuted so long as the rebels are
+found in arms. A motion, submitted by the Hon. Fernando Wood,
+requesting the President to appoint two commissioners to negotiate
+with the authorities at Richmond with the view of terminating the war
+and restoring the Union upon the terms of equity, fraternity, and
+equality under the Constitution, was tabled--i.e., thrown aside--by a
+vote of 98 against 59. All the Democratic members except five voted
+for its adoption, and the large minority in its favour has created
+some sensation.</p>
+<p>Resolutions have been introduced for a new reciprocity treaty with
+Canada; also to inquire into the expediency of putting coloured
+soldiers on the same footing as white men as regards pay, and of
+abolishing the 300 dols. draught commutation.</p>
+<p>A bill has been introduced in the the Senate prohibiting the sale
+of gold, silver, or exchange through brokers unless the whole of the
+purchase-money be paid down, under the penalty of a heavy fine and
+imprisonment.</p>
+<p>A banquet to both Houeoe of Congress has been given on board the
+Russian fleet at Washington. The Russian Minister and the Speaker of
+the House of Representatives made speeches.</p>
+<p>The <hi rend="italic">New York Herald</hi> has nominated General
+Grant as candidate for the next presidency, and has put forward an
+electioneering cry that he would demand from England an	indemnity for
+the depredations of privateers, and would expel the French from
+Mexico.</p>
+<p>An "Evening Exchange" has been opened in the heart of the
+handsomest quarter of New York, to which, after a hastily-snatched
+dinner, crowds of brokers and speculators eagerly hurry, there to resume the transactions of the day and to anticipate those of the
+morrow.</p>
+<p>There have been several rumours of peace proposals coming from the
+South lately, but nothing of the kind has appeared as yet.</p>
+<p>The Confederate Senate has, in conformity with the recommendation
+of President Davis, passed a bill prohibiting the employment of
+substitutes in the Confederate army.</p>
+<p>Mr. Foote, from Tennessee, of the Confederate House of Representatives, in a speech of the 11th ult., casts the whole blame of the
+ fall of Vicksburg and the Confederate reverses in East Tennessee upon
+President Davis for retaining Generals Pemberton and Bragg in
+command.</p>
+<p>The Richmond press denounces President Lincoln's amnesty
+proclamation as an infamous document, which will but arouse the
+Southern people to new zeal and new efforts.</p>
+<p>The Federal steamer Ella Annie has recaptured the Chesapeake, with
+three of her crew, in Sambro Harbour, Nova Scotia. The Chesapeake was
+taken to Halifax for judicial decision. No resistance was offered by
+the crew, all of whom, except three, escaped to the shore. The English
+authorities in Nova Scotia had forbidden the furnishing of coals to
+the Chesapeake by the people of that province; they had ordered her
+detention wherever she appeared, and gave the information to the
+Federals which led to her capture. It is also alleged that they have
+ordered the arrest of the men who seized her while going in her as
+passengers, holding them to have been guilty of piracy. Mr. Seward has
+had a friendly interview with Lord Lyons on the subject.</p>
+<p>The Federal brig Perry has been captured near Charleston. The
+steamer Ceres was destroyed off Beaufort.</p></div2>
+
+<div2 id="iln44.1238.002" n= "The Pampero." type="Article">
+<head>THE PAMPERO.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 44</biblScope>
+<biblScope type="issue">no. 1238</biblScope>
+<biblScope type="pages">p. 12</biblScope>
+<date value="1864-01-02">January 2, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE PAMPERO.</p>
+<p><hi rend="smallcaps">This</hi> vessel, launched a short time ago
+from the building-yard of Messrs. J. G. Thomson, Glasgow, has created
+a good deal of interest, owing to a suspicion being pretty generally
+entertained that it was intended to make her a consort to the Alabama,
+Georgia, and Florida. Shortly after being launched, the Emancipation
+Society at Glasgow addressed a memorial to Earl Russell, stating that
+they had reasons for supposing her to be for that service, and praying
+for an investigation into the matter. To this Earl Russell replied
+that the attention of her Majesty's Government had already been
+directed to this vessel. No interference with the vessel took place
+beyond posting customs officers near her berth and moving from
+Greenock the gun-boat Goldfinch, one of the tenders to her Majesty's
+ship Hogue, stationed there, and placing her on the opposite side of
+the harbour to the Pampero. Recently the Lord Advocate of Scotland
+instructed the customs authorities to detain her, and she is now in
+charge of a gang of bluejackets. The Pampero is a handsome steamer of
+1000 tons, builder's measurement; length, 230 ft.; beam, 32 ft.;
+depth, 20 ft.; with direct-acting engines of 200-horse power. She is
+finely sparred, and her	main and foremasts, of iron, are capable of
+spreading a large area of canvas. Her funnel is telescopic. She has
+lifting screw, and patent reefing topsails. Our Engraving of the
+Pampero is from a sketch by Mr. Hugh Aird, of Glasgow.</p></div2>
+
+<div2 id="iln44.1238.003" n="The Suspected Confederate Cruiser Pampero
+      Seized at Glasgow." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.44</biblScope>
+<biblScope type="issue">no.1238</biblScope>
+<biblScope type="pages">p. 12</biblScope>
+<date value="1864-01-02">January 2, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv44p12">
+<head>THE SUSPECTED CONFEDERATE CRUISER PAMPERO
+      SEIZED AT GLASGOW.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln44.1238.004" n= "Echoes of the Week." type="Article">
+<head>ECHOES OF THE WEEK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 44</biblScope>
+<biblScope type="issue">no. 1238</biblScope>
+<biblScope type="pages">p. 18</biblScope>
+<date value="1864-01-02">January 2, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">ECHOES OF THE WEEK.</p>
+<p>....Englishmen must be wicked in the American eye, and there can be
+no peace for them or with them. Unhappily, the latest aggravation
+given comes from our own Government. It is the case of the Victor,  an
+Admiralty ship of six guns, which was sold to some private individual,
+fitted out by Chatham Dockyard workmen, and finally got clear off, as
+the Rappahannock, Confederate States' cruiser. Anything more unhappy,
+more ludicrous, cannot be conceived. Of course, it was never intended,
+but it looks very much as if our great men were so tired after the
+labour of delaying the steam-rams in the Mersey that there was no more
+energy amongst then to look after Victors and Rappahannocks. Within a
+fortnight there will be another supply of the choicest Sewardian
+scolding, and passionate threats from certain New York organs. And
+then there will be Lord Russell's reply, and promises, already once
+broken, never to do the like again. And all this in face of General
+Grant's standing for the presidency, with a popular "platform," or
+"ticket," of sworn warfare with England unless reparation be made for
+fifty thousand incomprehensible things. The workmen, said to have been
+officially employed,  are all to be dismissed, nominally for being
+absent without leave: but, in reality, for having been as careless as
+Government itself in breaking international laws.</p></div2>
+
+<div2 id="iln44.1238.005" n= "Burning of the American River-Steamer
+      Isaac Newton." type="Article">
+<head>BURNING OF THE AMERICAN RIVER-STEAMER ISAAC NEWTON.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 44</biblScope>
+<biblScope type="issue">no. 1238</biblScope>
+<biblScope type="pages">p. 20</biblScope>
+<date value="1864-01-02">January 2, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">BURNING OF THE AMERICAN RIVER-STEAMER</p>
+<p rend="center"><hi rend="smallcaps">ISAAC NEWTON.</hi></p>
+<p><hi rend="smallcaps">The</hi> Isaac Newton, one of the most elegant
+of the many floating palaces on the Hudson River, while on her way
+from New York to Albany, caught fire near Fort Washington, from the
+bursting of one of her boilers, on Saturday, the 5th ult., and was
+burnt to the water's edge. All attempts to extinguish the flames
+proved unavailing. It was impossible, owing to the dense smoke and
+steam on the lower deck, to get at the hose, and the heat drove the
+engineer from his post. The Isaac Newton had on board, at the time of
+the accident, about 130 passengers. A tug and a propeller hastened to
+the relief of those on board, who were speedily removed from the
+burning wreck. Fourteen persons were, however, badly scalded by the
+steam, and of these six died. Our Engraving is from a sketch taken by
+Mr. Edward L. Henry, of Tenth-street, New York.</p></div2>
+
+<div2 id="iln44.1238.006" n="Burning of the American River-Steamer
+      Isaac Newton on her Way from New York to Albany." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.44</biblScope>
+<biblScope type="issue">no.1238</biblScope>
+<biblScope type="pages">p. 20</biblScope>
+<date value="1864-01-02">January 2, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv44p20">
+<head>BURNING OF THE AMERICAN RIVER-STEAMER
+      ISAAC NEWTON ON HER WAY FROM NEW YORK TO ALBANY.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln44.1239.001" n= Foreign and Colonial News: America." type="Article">
+<head>FOREIGN AND COLONIAL NEWS: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 44</biblScope>
+<biblScope type="issue">no. 1239</biblScope>
+<biblScope type="pages">p. 26</biblScope>
+<date value="1864-01-09">January 9, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
+<p rend="center">AMERICA.</p>
+<p rend="center"><hi rend="smallcaps">War Intelligence.</hi></p>
+<p>We have news from New York to December 26. Everything was quiet to
+that date in the army of the Potomac. The troops were settling down
+into comfortable winter quarters. Nothing of importance was known to
+have occured recently in General Lee's army. A slight skirmish took
+place on the 20th ult. between a small body of guerrillas and some of
+Gregg's cavalry, near Morgansburg. The Confederates retreated after a
+few shots were exchanged.</p>
+<p>General Longstreet had inflicted a check on a body of Federals at
+Bear Station, and was reported to be contemplating fresh operations;
+but it was said that his railway communication with Richmond had been
+more or less obstructed by a successful "raid" made on the Virginia
+and Tennessee Railway by the Federal General Averill.</p>
+<p>General Joe Johnston	was moving to reinforce Hardee, and was, it is
+said, to take the command of the Southern army in Georgia.</p>
+<p>The Confederates in Arkansas were reported to be about to attack
+Little Rock, but they had sustained a repulse in an attempt on the
+outposts of Fort Gibson.</p>
+<p>General Rosecranz is to supersede General Schofield in
+Missouri.</p>
+<p>The bombardment of Charleston continued. It had been reported that
+several monitors and the iron-clad frigate Ironsides had become
+entangled in the obstructions placed in Charleston Harbour, and were
+in a very dangerous position; but it had susequently been declared
+that there was no foundation for the report.</p>
+<p>There was a rumour at New Orleans that a mutiny had broken out
+among the coloured troops in Fort Jackson. The Federals had abandoned
+the Teche country.</p>
+<p>There is no news of importance from Texas. Generals Banks and Kirby
+Smith were exchanging prisoners.</p>
+<p rend="center"><hi rend="smallcaps">Miscellaneous.</hi></p>
+<p>The Federal Congress have voted 20,000,000 dols. for bounties and
+advance pay to volunteers, and passed a vote against submitting the
+legality of the Conscription Act to the Supreme Court.</p><pb n="27"/>
+<p>The <hi rend="italic">New York Herald</hi> has commenced a
+systematic attack upon President Lincoln, saying that his fatuity and
+imbecility, where his personal partialities are concerned, pass all
+belief, and that he is an amiable sort of man, but his works are too
+costly.</p>
+<p>Mr. Secretary Stanton states in his report to President Lincoln,
+that up to midsummer last there had been issued to the Federal troops
+by the War Department since the present war began, 1,550,576 muskets
+and rifles for foot soldiers, 327,170 carbines and pistols for mounted
+troops, 271,817 sabres, 1,745,586 cannon balls and shells, 50,045,515
+lb. of lead and lead bullets, 2,274,490 cartridges for artillery,
+378,584,104 cartridges for small arms, 715,036,470 percussion-caps,
+6,082,505 friction primers, 13,071,073 lb. of gunpowder, 1,680,220
+sets of accoutrements for infantry, and 196,298 for cavalry.</p>
+<p>General M'Clellan was adopted as a candidate at the next
+presidential election by a meeting of the Conservative Union National
+Committee, held at Philadelphia on the 23rd ult. Judge Campbell was
+nominated for the vice-presidency.</p>
+<p>General Burnside is in New York, receiving much public
+attention.</p>
+<p>General Corcoran has been killed by a fall from his
+horse.</p>
+<p>The passport system for passengers leaving by American vessels has
+been revived.</p>
+<p>Federal war-vessels have been stationed off the Narrows to overhaul
+vessels leaving New York.</p>
+<p>The English barque Circassian has been seized at New York by the
+Provost Marshal, and many arrests, both male and female, have been
+made on board.</p>
+<p>Advices from fortress Monroe state that General Butler has issued
+an order for enrolling all ablebodied citizens, white and coloured,
+between the ages of eighteen and forty-five in his department.</p>
+<p>At the ceremony of turning the first sod of the Atlantic and
+Pacific Railway, in Nebraska, Mr. Poppleton, of Omaha, citizen and
+promoter of the railway, thus addressed the
+assembly:--"Fellow-citizens of Omaha and Council Bluffs,--On the 13th
+day of October, 1854, about seven o'clock in the evening, I was set
+down by the Western Stage Company at yonder city of Council Bluffs. At
+the rising of the sun on the following morning I climbed to the summit
+of one of the bluffs which overlook that prosperous and enterprising
+town, and took one long and lingering look across the Missouri at the
+beautiful site on which now sits, in the full vigour of business,
+social and religious life, the youthful but thriving, and this day
+jubilant, city of Omaha. Early in the day I crossed the river, and
+along a narrow path, cut by some stalwart man through the tall, rank,
+prairie grass, I wended my way in search of the post-office. At length
+I found an old pioneer seated, apparently in solitary rumination, upon
+a piece of hewn timber, and inquired of him for the post-office. He
+replied that he was the postmaster, and would examine the office for
+my letters, Thereupon he removed from his head a hat, to say the least
+of it, somewhat veteran in appearance, and drew from its cavernous
+depths the coveted letters. On that day the wolves and the Omahas were
+the almost undisputed lords of the soil, and the entire postal system
+of the city was conducted in the crown of this venerable hat! To-day,
+at least 4000 radiant faces gladden our streets, and the postal
+service, sheltered by a costly edifice, strikes its Briarien arms
+towards the north, the south, the east, and the west, penetrating
+regions then unexplored and unknown, and bearing the symbols of values
+then hidden in the mountains and beneath the streams of which the
+world in its wildest vagaries had never dreamed."--Mr. Train took a
+prominent part in the celebration, making a speech in which he was
+unsparing in his abuse of England. The <hi
+rend="italic">Republican</hi>, speaking of Mr. Train's appearance,
+says, "By special request of the ladies, Mr. T. mounted a buggy, threw
+off his overcoat, laid down his hat, rolled up his sleeves, and in
+another moment the steam was on, and he was under full headway."</p>
+<p>The Governor of Texas had issued a message declaring that there can
+be no peace until the Southern Confederacy shall have been
+recognised.</p>
+<p>A correspondence between Jefferson Davis and the Pope has been
+published. The two eminent personages are charmingly courteous to each
+other. Mr. Davis informs the Pope that the laws of the Southern
+Confederacy ensure to every one the enjoyment of his temporal rights
+and the free exercise of his religion. He presumes, no doubt, that the
+Pope has never heard of the negro population. Mr. Davis finally prays
+that Heaven may prolong the Pope's days, The Pope, in return, prays
+that the God of pity may shed upon Davis the light of His grace.</p>
+<p>It is stated in the <hi rend="italic">Richmond Enquirer</hi> that
+Jefferson Davis will soon make a decided change in the whole
+Government, and also in the army.</p>
+<p>The substitute system has been abrogated in the Confederate
+Congress.</p>
+<p>The steamer Vanderbilt has captured the barque Saxon off Cape Town,
+and the Angela Pequina on the West Coast of Africa. The schooner
+J. L. Gerity, which left Matamoras on Nov. 16 with a cargo of cotton
+and six passengers, was captured at sea by the passengers, who
+overpowered the captain and crew and set them adrift in an open
+boat. After two days they landed at Sisal.</p></div2>
+
+CHINA.
+According to the returns of the Government emigration
+officers at Liverpool, for 1863, the emigration from that port, when compared with 1862, is greatly on the increase. The total number of steerage passengers sailing "under the Act" was 119,772, and of cabin passengers 3765 ; making a total of 123,537. Added to this there are the passengers carried out in the short ships, which number 14,445 ; making a grand total of 137,832. When compared with last year, there Is an increase of 76,668. The tide of emigration is principally accelerated by the enormous Irish emigration to America, which appears to increase daily. It is also a fact that the Irish emigrants are much better clothed than those whose homes have been in England or Scotland. This is attributed to the high pay now being given to labourers in the United States.
+THE CONFEDERATES QUITTING BROWNSVILLE,
+TEXAS.
+TnE town of Brownsville lies on the Texan bank of the Rio Grand (or Rio Bravo) del Norte, about two miles from Matamoros, a tow of some note in Mexico, on the south side of the river. Al,houg built almost entirely of wood, Brownsville has a neat and brigh appearance. There was a considerable Confederate garrison at thi place ; but the inhabitants. having, on Monday, Nov. 2, 1863, receive information of the arrival of a fleet of Federal transports off Brazo Santiago, began immediately to evacuate the town ; and for tw days every means of transit across the Rio Grande was crowded t excess with goods, furniture, cotton, and baggage ; while upon bot banks were piled in confused heaps bedding, cotton bales, laggag( vehicles, and merchandise of every description. About three o'cloc p.m. on Tuesday, the 3rd ult., the military authorities retreated, afte burning the garrison buildings, the cotton, and all public stores the were not able to remove. On the 6th ult. the Federals, under coal mend of General Banks, took quiet possession of the place.
+Our Engraving on the preceding page is from a photograph b; Mr. A. G. Wedge, of Matamoras.
+CAPTURE AND RECAPTURE OF THE CHESAPEAKE.
+THE Chesapeake, Captain Willet, screw-steamer, of 460 tone, one of a line of freight and passenger steamers sailing between New York and Portland, Maine, left New York on the 5th ult., on her regular trip to Portland. At one o'clock a.m. on the 6th ult., when about twenty miles N.N.E. of Cape Cod, she was seized by a party of Con-federates, who had taken passage on her for Portland. The second engineer, who was in charge of the engine at the time, was shot dead and his body thrown overboard. The first engineer was wounded by a ball in the chin, and was kept on board to work the engine. The first mate was also wounded, but not dangerously; and although several shots were fired at the captain he was fortunate enough to escape without even getting a wound. After the crew had been overpowered, the vessel was taken charge of by the Con-federates ; the captain, officers, and crew were placed in irons, and the passengers, some six or eight in number, on promising not to interfere, were allowed their liberty. The Confederates numbered sixteen persons, and were commanded by a Lieutenant Braine, reputed to hold a commission in the Confederate service. Among the passengers was a man belonging to St. John, N.B., who, on its being ascertained that he was acquainted with the navigation of the Bay of Fundy, was forced by Braine to act as pilot. On the night of the 8th ult. the Chesapeake arrived off Musquash Harbour, where she was boarded by a person, said to be a Confederate officer, who assumed the command of the steamer. A passing pilot-boat, " The Simonds," was hailed, the pilot was compelled to come on board, and the boat was taken in tow. The passengers, captain, officers, and crew of the Chesapeake were landed at this place, and arrived at St. John, New Brunswick, on the morning of the 9th ult. This incident forms the subject of our Illustration on the preceding page, from a sketch by Mr. Charles C. Ward, of St. John. The Chesapeake then steamed up to Partridge Island, at the mouth of the Harbour of St. John, where the man who had acted as pilot was landed, and the vessel sailed away.
+The Chesapeake has been subsequently recaptured by the Federal steamer Ella Annie, in Sambre Harbour, Nova Scotia. The Chesapeake was taken to Halifax for judicial decision. No resistance was offered by the crew, all of whom, except three, escaped to the shore. The English authorities in Nova Scotia had forbidden the furnishing of coals to the Chesapeake by the people of that province ; they had ordered her detention wherever she appeared, and gave the information to the Federals which. led to her capture. It is also alleged that they have ordered the arrest of the men who seized her while going in her as passengers, holding them to have been guilty of piracy.
+We learn by the last mail that the three pirates captured on board the Chesapeake were taken from the authorities by the mob whilst being landed at Halifax, and set free.
+A GREAT WATERFALL.—A detachment of troops recently
+wonting in the valley of the Snake or Lewis fork of the Columbia discovered waterfall which, it is said, ie entitled to the distinction of being called the rreatest in the world. The entire volume of Snake River pours over a sheer crecipice 198 ft. high, 38 ft. higher than Niagara. Snake River is fully as large a the Niagara, and the cascade is one solid sheet or body. The locality of this oomenee waterfall is near the point heretofore designated as the treat toahoue or Salmon Falls of that river, but they have always been enveloped in ;ystery. Almost a dozen years ago the writer passed along the Snake River sad. For two days we heard the roaring of these falls, but learned no more sepecting them than if they had been in the moon. It was said that there rere a series of falls and rapids, making a descent of 700 ft. in seven miles, ud the sound gave colour to the report. For hundreds of miles across the 'neat plain Snake River flows through a canon, with vertical walls hundreds feet high. It is only at long intervals that salient points are found by thick the river can be reached. The road crosses frem point to point of the ends, only approaching close to the river where there is a chance to descend )r water. From these facts very few, if any, of the tens of thousands of tiventurers that have crossed the plains have ever looked upon the great falls. the late discoverers report, beside the main cataract, many others of less night, varying from 20ft. to 50 ft, each, near by. Some day they will be sited by the tourist and pleasure-seeker, and looked upon as frequently and =milimly as Niagara is today ; and it will be admitted that, with the rupendous grandeur of their surroundings, they are an far beyond Niagara ;Niagara now excels the balance of the world.--2(e!e York World.
+The Massachusetts` volunteers, under the Bounty Act just
+published by 'the General Court, will be the best paid troops in the world. The amount of bounty and pay to be received for three years' service, by a soldier who has previously been in the army nine months or more, if he ham a family of not leas than three persons dependent on hie labour for support, t as follows :-United States' bounty, 402 dole. ; the Commonwealth's bounty; 325 dots. ; pay, 468 dots, ; rations, 324 dais. ; clothing, 126 dole. ;.aid to .family 432 dole.—total, 2077 dots, If, instead of 325 dole, in hand from the State, hi accepts the offer of 20 d'ols,.per month inoreaae,he will roOeic'e 445 dais. of pal more than the sum above,—New York Paper.
+COLUMN FOR THE CURIOUS,
+The History of Steam Navigation is yet to be written. New facts, or novel versions of old facts, are repeatedly turning up, so as to affect claims of priority. Last year three papers were read to the Manchester Literary and Philosophical Society-1, " On the Introduction of Steam Navigation;" 2 and 3, "Note on Two Events in the aistory,"	and there cropped 'up the following paragraph :
+A STEAM-BOAT 7i 1788. In a letter from Dr. Franklin to Dr. Ingenhauz, dated Philadelphia, Oct. 24, 1788, the Doctor remarks:—" We have no philosophical news here at present, except that a boat moved by a steam-engine rows itself against tide in our river, and it is apprehended the construction may be so simplified and improved as to become generally useful."
+In going• over the ground of the history, even practised writers are continually stumbling. The other day a reviewer, in the Times, 'referred to a statement that, "three centuries ago, Blasco de Garay attempted to propel a boat by steam in the harbour of Barcelona." To this a Correspondent has replied as follows
+The evidence cited by the Spaniards for this assertion, often repeated, is a letter from Blasco himself, written in A.D. 1643.
+By permission of the Queen of Spain, but after much hindrance, I was. enabled to inspect this letter, now preserved with the Archives at Simancas, .near Valladolid, and there is not one word about steam in the document. Blasco describes minutely a vessel propelled by paddles worked by 200 men.
+The first well authenticated instance of a steam-boat actually used is found in the manuscript correspondence between Leibnitz and Papin, in the Royal Library at Hanover, where Papin relates his experiments with a model steam-boat, on. the River Fulda. in the year 1707. Next, in 1783, De Jouffroy in France and Fitch in America used steam-boats experimentally. The first practically successful steam-boat was worked in 1787 by Mr. Miller, of Dais ?Anton, in Scotland.
+"A: 1	7	e,.e t	e.i l,n 14",• Q".,,,ol lln,-Fm, of
+A'41FFRICA.
+No movement has been made by any of the armies in Virginia di: the south-west, but the Confederate guerrillas were still active. Longstreet had removed to a position which he can fortify while he retains convenient means of retreat. The effect of this movement. will be, it is said, to necessitate the keeping of a large Federal army in East Tennessee.
+It is said that the Confederate General Rossee had accomplished the ominous feat of making a complete circuit of General Meade's army.
+General Grant is reported to have drawn up a new plan for the next campaign, and to have submitted it to the Government at Washington.
+The bombardment of Charleston continued, with little result.
+The Confederates had refused to negotiate with General Butler for an exchange of prisoners, on the ground that he had been "outlawed" by President Davis.
+The Free States men have held a convention in New Orleans, in which negroes were admitted to seats and the convention was opened by a prayer from a coloured preacher.
+The Federal Government have officially denied that they would never tolerate or recognise the Mexican monarchy.
+The draught has been postponed till the middle of January.
+The Governor of New York has r emoved the New York Police Commissioners, on the ground that t heir reports of the New York riots were sectarian and partisan.
+Several more merchants of New York have been arrested for carrying on a contraband trade with the South.
+The Most Rev. Dr. Hughes, the Roman Catholic Archbishop of New York, is dead.
+The ironclad Dictator has been successfully launched at New York. Two of the men implicated in the seizure of the Chesapeake had been arrested at St. John, New Bru nswick, and had been brought before the police magistrate.
+[mince of some electoral successes of the clerical 'party.	°	—
+News comes from Batavia of the ubiquitous Alabama, On rv. 6 this daring cruiser, last from Cape Town, fell in with the Amanda, an nerican ship laden with sugar and hemp, took her, and burnt her. On the th she captured and burnt another American ship, the clipper Winged leer, also laden with hemp and sugar.;
+troops.
+AMERICA.
+By the arrival of the North American we have news from New York to the afternoon of Jan. 9.
+There had been some skirmishes and minor engagements in Western Virginia and in the neighbourhood of Winchester, and their result seems to have been generally advantageous to the Confederates. At-Chattanooga all was quiet, and General Joseph Johnstone was under.. stood to be actively reorganising the Confederate army in the neighbourhood of Dalton. An expedition sailed from New Orleans on the 80th ult., and although its destination was not positively known, it was supposed that the forces would at first proceed to Pensacola, and would ultimately operate against Mobile. On Christmas Day the Federals bombarded Charleston with great effect. The Confederates erected a battery on Stono River, and did considerable damage to-the gun-boat Marble Head. Two other gun-boats went to her assistance, drove the enemy from the battery, and captured it.
+Everything shows the determination of the North to prose:ute the war to the utmost. President Lincoln and his Cabinet recommended Congress to offer liberal bounties to volunteers up to the end of February, as the suspension of bounties had almost stopped recruiting.. Mr. Wilson has consequently introduced a bill, offering bounties of 400 dols. to re-enlisting volunteers, 300 doll. to new volunteers, and 100 dole. to negro recruits. A resolution to the effect that 1,000,000 volunteers should be called out for ninety days, and should be placed under General Grant's command, had been referred for consideration to the Senate's Military Committee. The House of Representatives had passed a resolution declaring that any proposal for negotiation with the " rebels " should be immediately and unhesitatingly rejected. Mr. Lincoln has been nominated for re-election as President, and his reappointment has been urged in the House of Representatives. The ground alleged in the latter case was that his . election would ensure emancipation throughout the Union. In the same connection, the Governor of Maryland, in his message to the State Legislature, has urged that steps should be taken to push forward gradual emancipation in the State. A delegation of citizens had left Arkansas for Washington to arrange for their State re- - entering the Union.
+Governor Seymour, in his message to the New York Legislature,. had recommended measures for the protection of the State banks against the new national banks, had denounced the draught as a - failure, and had declared that President Lincoln had assumed powers which subordinated the laws to military authority. The Governor declares that the country'can only be saved from ruin by the Administration adhering to its pledge to restore constitutional union. The - Republican press are incensed against the message. The New York Times declares that Governor Seymour's sympathies are with rebellion. - The New York Tribune denounces him as a traitorous and malignant enemy of his country.
+Extensive shipments from New York to the South have come to light, and more arrests have been made.
+A letter recently intercepted by the War Department disclosed the , fact that W. E. Hilton, a printer in New York, was engaged, under contract with the Southern Confederate Secretary of the Treasury, in furnishing notes, bonds, &c., to the South, and that he was about to - proceed to Richmond to superintend a printing and engraving establishment. Hilton was arrested and consigned to Fort Lafayette. . In his possession were found six million dollars in Confederate bonds - ready for signature.
+Archbishop Hughes was buried in New York with great ceremony on the 7th inst. An immense concourse of people was present. The law courts and numerous places of business were closed.
+Four negroes called at the Executive mansion, Washington, on New- - Year's Day, and were presented to Mr. Lincoln. This is the first - occurrence of the kind.
+Signal stations, occupied by a small garrison, are to be established along the Mississippi for the protection of the navigation,. in accordance with a recommendation from President Lincoln and the - Secretary for War.
+The Federals have constructed upwards of 5000 miles of military telegraph, and the Secretary for War states that in the course of last - year at least 1,200,000 telegrams were sent along these lines—abont 8300 a day.
+The City of Baltimore was intercepted off Cape Race on the 2nd. The Nova Scotia Government has placed the steamer Chesapeake is the Admiralty Court.
+',Mai Duke hasetoneeWOrth *:4VU0, MOW, OW, £15,WV, -X-iie,v'LV, ana Aro,wo.
+A contract for the construction of a tunnel, extending tetra.
+miles under Lake Michigan, at Chicago, for the purpose of anpp'ying the city with pure water, has been awarded ; the lowest bid for completieg the tunnel being 315,130 dollars. The contract is for a tnmel of five fee. internal diameter, . lined with brick. The tunnel is to be excavated thirty-five feet below the bed of the lake, and to have four feet of dip landwards. Strainers will be filed over the outlet to keep out the fish. The total area of the tunnel will ba nearly twenty square feet, an area amply large enough to furaish water corltiauously to a city five or six times the size of Chicago in the present day.
+The Confederate cruiser Flor`.da is said to have completed
+her repairs and alterations at Brest, and to be ready to put to see. Her recent trial-trip was most satisfactory, and she is reported to be in a high state of efficiency. Captain Maurice Richard, her new commander, has waited on the Vice-Admiral of the port and other local authorities to take official leave of them, and no doubt the Florida will sail shortly. The Rearsaete, Federal frigate, still me-ants guard outside the port of Brest, and a fight is locked' forward to with considerable certainty. Captain Richard expresso, himself confident of being able to give a good account of himself and his ship ,iced has, it is stated, written to the Federal commander that he is pre?aced to rant nn..,hat mith him n,,teirl. thn limits of Franeh ivat.Ar,.
+,maccer wen terminacea.
+An Irish American, named Feeny, is actively engaged in Galway in getting labourers for a railroad in the Federal States. He offers eight shillings a day and other advantages to his recruits on arriving at their " destination •" bnt where that may be is not very clear. He has had great success, and in two or three days enrolled five hundred men. He, has been arrested under the Foreign Enlistment Act, in Longhrea, on enepicion of enlisting for the Federal army,. but, as no proof could be had, he was acquitted.
+Mr. Thomas Highat, a member of the firm of Messrs. Jones and Co., ship-chandlers, Liverpool, was charged before the stipendiary magistrate of that. borough, yesterday week, with an offence against the Foreign Enlistment Act. The specific charge against Mr. Highat was that he had been concerned in the enlistment of men for service on board the Confederate cruiser Georgia. The witnesses for the prosecution were four men who served for a short time on board that ship, but who are now employed at a weekly salary by a private detective, who seeme to be one of the Attaches of the 'Muted States Consulate at Liverpool. Mr. Highat was bound over in his own recognizances and two sureties to appear to answer any charge which may be preferred against him
+ILLUSTRATION OF THE WAR IN
+AMERICA.
+ORR Special Artist in the South writes as follows concerning the accompanying Illustration :--" Herewith I send you a sketch of Fort Fisher, commanding the approach to Cape Fear River, the entrance to Wilmington, North Carolina. I was down there one night, and, as it is twenty-five miles from the town, it was impossible to get back that night, so I had to rough it in a casemate till morning. Asluck would have it, we discovered a blockade-running steamer, the Hansa, under our guns at dawn, and at the same time the Yankee blockaders also became aware of her presence and opened fire, thinking, as she had already got inside the bar (the line of white breakers just seaward of her), they would destroy her before she made the inlet. To get within range they had to expose themselves to the metal of the fort, which soon drove them oil, leaving the Hansa at liberty to make her way safely into the river. The distant point of laud is Cape Fear. Fort Fisher is one of the strongest coast defences I have seen, not excepting any of those at Charleston, that have hitherto held an entire iron-clad fleet at bay."
+Last year there were exported to Europe from all parts of the 'Tutted Stet., ermpt ONllemio, 17IOS,SS2 barrels of dour, 10,:17.5: buhele of Rfest, 7,10G,46R bushels of coffidShelt binU of rye. la 1 B62 the exports were 2,370354 barrels of doer, 2x,30,1,094 brah^_s o: w, ed, 12,301,205 bushels et corn, and 010,740 bushels of tee.
+AMERICA.
+WAR INTELLIGENCE.
+There is nothing important in the latest news from New York. Generals Lee, Johnston, and Longstreet were assiduously engaged in recruiting and reorganising the Confederate armies under their respective commands ; and General Longstreet was said to occupy a position within twenty miles of Knoxville. General Meade, in a. speech which he had made in Philadelphia, had declared that active operations would be recommenced in Virginia as soon as the weather and the season permitted.
+The Times' comespondeut adds to the above intelligence that General Stuart, with 5000 Confederate cavalry, had again passed round General Meade on the night of the 14th inst. The object of this movement is believed to be to sever either the Alexandria and Orange or the Baltimore and Ohio Railways. The Federal authorities are said to be fully prepared to prevent material damage to either.
+General Lee, under date of the 8th, announces the capture, in Hardy County, Virginia, of 300 Federals, 125 mules, and 123 cattle.
+Telegrams from Fortress Monroe of the 13th reported the Federal gun-boat Iron Age aground, and under the Ere of Confederate batteries, at the entrance of Wilmington Harbour, on the 11th. Her destruction on that day, by being blown up, is subsequently announced by Confederate despatches to General Cooper. Twenty-four of her crew were captured.
+Two blocks of buildings and several large warehouses are reported to have been destroy ed-in Charleston on the 20th by Gilimore's shells. The city was almost deserted by the military. The correspondent of the New York Tribune states that three new Confederate iron-clad vessels are visible in Charleston Harbour in a forward state of construction. It is expected that these and other Confederate ironelads will shortly make a sortie against the Federal squadron.
+The Confederate General Magruder was reported to be concentrating a corps of 20,000 men in Central Texas, with the purpose of attacking and overwhelming the Federal troops lately landed on the bank of the Rio Grande and the neighbouring coast.
+MISCELLANEOUS.
+The New York Tin es has come out for the re-nomination of lire Lincoln to the presidency.
+A memorandum on the plan and conduct of the war, dated Aug. 4, 1861, prepared, at the request of Mr. Lincoln, by General M'Olellan, has just been published. The predictions of the General in that document, which is evidently published at this time for electioneering pu_poses by the General's friends, seem to have been verified by subsequent events.
+Smallpox is becoming so prevalent in Washington that the House of Representatives have adopted a resolution recommending the municipal authorities of that city and Georgetown to take measures to ensure the vaccination of the citizens, to prevent the further spread. of the disease.
+Governor Parker, in his message to the New Jersey Legislature, delivered on the 12th inst., advocates the adoption of a conciliatory policy towards the South and the reconstruction of the Union upon its original basis, He asserts that the emancipation proclamation as the chief obstacle to the termination of the war and the return of the seceded States to the Union, and condemns the amnesty manifesto; but believes that these, together with many other of Mr. Lincoln's unconstitutional acts, will be annulled upon the change of Administration.
+The Democratic members of Cong Tess, in a meeting held at Washington, had resolved that President Lincoln's amnesty proclamation was unconstitutional, and that the army and navy ought to be paid in specie or its equivalent.
+Extensive frauds in the Custom House of New York, the Treasury Department of Washington, the Navy Yard, Brooklyn, and the public offices continue to be discovered. Mr. Fernando Wood pro-posed to appoint a Congressional Committee to investigate the ad-ministration of affairs in all the departments, as well as the charges against General Butler at New Orleans. The proposition was rejected by a vote of 76 to 63. A resolution to inquire into the frauds in the Custom House was, however, adopted.
+The New York Legislature has passed a bill to enable soldiers in the field to vote.
+A municipal report on the condition of the barracks on Broadway, near Astor House, has created much indignation. Sixty men, arrested for various military offences, were found confined in a room fifteen by twenty feet square. Many had been there for months, with no accommodation for sitting or lying down. The report states that they were covered with filth and treated worse than wild beasts, and that the existence of such a place was an outrage on humanity, bringing disgrace to a nation.
+The Maryland Legislature have voted in favour of calliryg a convention to carry out emancipation.
+The Judge of the Admiralty Court at Halifax had expressed an opinion that the capture of the Chesapeake was a piratical seizure, but had not delivered any judgment, nor ordered the restoration of the -ve=ssel to her owners.
+The pirate passengers who lately captured the schooner Gerety, from Matamoros, for Havannah, took her into Honduras, and, after selling a portion of her cargo, escaped.
+The American corvette St. Louis sailed from Lisbon on Monday to intercept an English barque with guns and stores for the Confederate cruiser Rappahannock.
