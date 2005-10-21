@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "iln.dtd"
+[<!ENTITY % iln-entities SYSTEM
+"/Beck-files/ILN/ILNCVS/ilnxml/iln_entities">
+ %iln-entities; ]>
+
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Civil War: The Illustrated London News
+Perspective</title>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Sandra Still</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>         
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>2005 Emory University.
+Permission is granted to download, transmit, or otherwise reproduce,
+distribute or display the contributions to the work claimed by Emory
+University for non-profit educational purposes, provided this header
+is included in its entirety.  For inquiries about commercial uses,
+contact the Lewis H. Beck Center, Woodruff Library, Emory University,
+Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2005</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>The Civil War: The Illustrated
+London News Perspective</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+<title>The Illustrated London News</title>
+               <biblScope type="volume">Volume 45</biblScope> 
+               <date>July to December 1864</date>
+</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+	<change><date>October 2005</date>
+          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</resp></respStmt>
+          <item>Encoded text according to TEI guidelines.</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+<div1 id="iln45.001" n="Illustrated London News: Volume 45" type="Volume"> 
+            <head>Illustrated London News: Volume 45</head>
+<docDate>July to December 1864</docDate>
+
+<div2 id="iln44.1266.001" n="The Deerhound Rescuing a Portion of the
+      Crew of the Alabama.--From a Sketch by Mr. Robert
+      Lancaster.--See Next Page." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1266</biblScope>
+<biblScope type="pages">p. 1</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p1">
+<head>THE DEERHOUND RESCUING A PORTION OF THE
+      CREW OF THE ALABAMA.--FROM A SKETCH BY MR. ROBERT
+      LANCASTER.--SEE NEXT PAGE.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln45.1266.002" n= "The Fight Between the Alabama and the Kearsarge." type="Article">
+<head>THE FIGHT BETWEEN THE ALABAMA AND THE KEARSARGE.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1266</biblScope>
+<biblScope type="pages">p. 2</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE FIGHT BETWEEN THE ALABAMA AND THE<lb/><hi
+rend="smallcaps">Kearsarge.</hi></p>
+<p><hi rend="smallcaps">We</hi> published last week an Engraving from
+the sketch which was sent us by Mr. James Bryant, owner of the yacht
+Hornet, representing the final scene of the combat between the Alabama
+and the Kearsarge, a few miles off Cherbourg, on the morning of
+Sunday, the 19th ult. We are now enabled, by the courtesy of
+Mr. Robert Lancaster, of Hindley Hall, Wigan, to present our readers
+with another Illustration of the same subject, which appears on our
+front page. Mr. Lancaster is the owner of the yacht Deerhound, which
+was present during the whole of the battle, and which was happily
+instrumental in saving the lives of Captain Semmes, thirteen officers,
+and twenty-six men of the Alabama, when they had leaped into the water
+as their ship went down. Whilst we may congratulate this gentleman
+upon the service to humanity which he was thus enabled to perform, we
+are bound no less to thank him for aiding us, by the work of his
+pencil, in producing a graphic record of the extraordinary spectacle
+that he witnessed. Mr. Lancaster says in his letter, which accompanied
+this drawing:--</p>
+<p>"I have endeavoured to take the sketch just at the moment the
+Alabama was going down. We were then about one hundred yards from the
+sinking vessel, and about twice that distance from the Federal ship,
+and between the two. Our two boats were a little ahead of us and
+pulling towards the wreck and the crew, most of whom had jumped
+overboard and were floating about on loose spars and other things. One
+of the Alabama's boats, after having taken the wounded on board the
+Kearsarge, returned and picked up another boatfull, and then came
+alongside the Deerhound, where, to prevent her falling into the hands
+of the Federals, she was sunk by some of the Alabama's men. The sides
+of the Kearsarge were very much cut up, nearly all the chain-plating
+being exposed on the starboard side. Just as the Alabama went down,
+the mainmast, which had been struck by a shot, fell. The Kearsarge's
+boats were not lowered until after the Alabama had disappeared
+altogether. I shall be most happy if this sketch will be of any use to
+you. It is the most correct you will be able to get as to the position
+of the vessels and boats."</p>
+<p>We have also engraved on another page of this Number a drawing
+which has been made from the plan and information which have been
+supplied to our Artist by Mr. George T. Fullam, an officer of the
+Alabama. It was he who conveyed the wounded from that vessel to the
+Kearsarge, and then came on board the Deerhound, which brought him to
+Southampton. He has remarked to our Artist that it is an incident
+worth noting, with regard to the damage done to the spars of the
+Alabama, that the throat-blocks of both the main and mizen gaffs were
+shot away. As we published last week the official report of Captain
+Semmes to the agent of the Confederate Government in London, we here
+subjoin a letter from the Federal commander, Captain Winslow, who
+writes from Cherbourg as follows:--</p>
+<q><p>Sir,--There have been so many nonsensical publications on the
+engagement which took place between the Alabama and the Kearsarge that
+it is my wish that a correction should be made.</p>
+<p>In the first place, no challenge was sent by Captain Winslow; to
+have done so would have been to have violated the order of the Navy
+Department. On the contrary, Captain Winslow received a request from
+Captain Semmes not to leave, as he would fight the Kearsarge, and
+would only occupy a day or two in his preparations. Five days,
+however, elapsed before they were completed. The Kearsarge's battery
+consists of seven guns, two 11-inch Dahlgren's, four 12-pounders, one
+light rifle 28-pounder. The battery of the Alabama consisted of one
+100-pounder rifle, one heavy 68 ditto, six 32-pounder's, that is, one
+more gun than the Kearsarge. In the wake of the engines on the outside
+the Kearsarge had stopped up and down her sheet chains. These were
+stopped by marline to eye bolts, which extended some twenty feet, and
+was done by the hands of the Kearsarge; the whole was covered by light
+plank, to prevent dirt collecting. It was for the purpose of
+protecting the engines when there was no coal in the upper part of the
+bunkers, as was the case when the action took place. The Alabama had
+her bunkers full, and was equally protected. The Kearsarge went into
+action with a crew of 162 officers and men. The Alabama, by report of
+the Deerhound's officers, had 150.</p>
+<p>The Kearsarge steamed to sea in order that no questions of
+neutrality jurisdiction should be raised; when far enough, she turned
+short round and steered immediately for the Alabama for close
+action. The Alabama fired, as she was coming down on her, two
+broadsides and part of another; no one shot came on board of the
+Kearsarge. The Kearsarge then sheered and opened on the Alabama,
+trying to get nearer. The action lasted one hour and two minutes from
+the first to the last shot. The Kearsarge received twenty-eight shots
+above and below, thirteen about her hull; the best shots were abaft
+the mainmast, two shots which cut the chain stops, the shell of which
+broke the casing of wood covering. They were too high to have damaged
+the boilers had they penetrated. The Kearsarge was only slightly
+damaged, and I supposed the action for hot work had just commenced
+when it ended. Such stuff as the Alabama firing when she was going
+down, and all such talk, is twaddle. The Alabama towards the last
+hoisted sail to get away, when the Kearsarge was laid across her bows,
+and would have raked had she not surrendered, which she had done, and
+was trying to get her flags down and showing a white flag over the
+stern. The officers of the Alabama on board the Kearsarge say that she
+was a complete slaughter-house, and was completely torn to
+pieces. This is all I know of the Alabama. Yours, &#x0026;c.,</p>
+<p rend="right"><hi rend="smallcaps">John A. Winslow</hi>,
+Captain.</p></q>
+<p>It may be observed that Captain Winslow does not mention the way in
+which the officers and crew of the Alabama were saved upon the sinking
+of their ship. It is clear, however, that he made no such attempt to
+rescue them as a generous enemy would have done; but the log kept on
+board the Deerhound records that, when the yacht was passing the
+Kearsarge, it was "requested to assist in saving the Alabama's crew."
+Both Captain Semmes and Mr. Lancaster have testified that the boats of
+the Kearsarge were not sent for that purpose until after the Alabama
+had disappeared, though the Alabama had not only surrendered but had
+sent her wounded to be received on board the Kearsarge as prisoners of
+war. It is therefore probable that, if it had not been for
+Mr. Lancaster's prompt interference, Captain Semmes and his brave
+comrades would have shared the fate of Mr. Herbert Llewellyn, the
+surgeon (an Englishman, the son of a clergyman in Wiltshire), who
+perished with their sinking vessel. The Deerhound has therefore
+earned, in our opinion, the fairest honours of the day. She was the
+object of much curiosity and admiration during her stay at
+Southhampton from the Sunday to the Wednesday, when she left that port
+for Hull. As we have given her a conspicuous place in the Engraving on
+our front page, it may be stated that she is entered on the lists of
+the Royal Yacht Squadron of Cowes, the Royal Mersey Yacht Club of
+Liverpool, and the (Irish) Royal Western Yacht Club stationed at
+Queenstown. She was built, as it happens, upon the same model as the
+Alabama, in the same shipyard at Birkenhead, by Messrs. Laird and
+Co. She is a three-masted vessel, built of steel, with a
+screw-propeller, with a tonnage (builders' measurement) of about 190,
+and engines of a nominal power of seventy horse. When in her usual
+trim she steams twenty knots, being about two knots beyond the speed
+of the Alabama. She carries a crew of thirteen men. The Deerhound now
+proceeds from Hull to Norway. Mr. Lancaster and his captain
+indignantly deny the statement that an arrangement was made with the
+Deerhound by Captain Semmes, before the engagement, that the yacht
+should hover about the combatants and render assistance to the
+Alabama. They knew that Captain Semmes had determined to engage the
+Kearsarge, but no arrangement of any kind was thought of.</p>
+<p>The famous Alabama herself, which was originally called "No. 290,"
+came from Messrs. Laird's building-yard in July, 1862, and received
+her armament and crew at Terceira, in the Azores, whence she started
+upon a career most destructive to the maritime commerce of the United
+States. She is said to have captured and burnt, in less than two
+years, one hundred American vessels. She was a barque-rigged wooden
+propeller, of 1040 ton's register. Length of keel, 210 ft.; length
+over all, 220 ft.; beam, 32 ft.; depth, 17 ft. Her engines, built by
+the same firm, were two horizontal ones, each of 300-horse power, with
+stowage for 350 tons of coals. Her sails, carried at all times, were
+as follows:--Fore, fore topmast, staysail jib, two large trysails; the
+usual square sails on fore and main, with the exception of the
+mainsail, which was a flying one; spanker and gaff-topsails; all
+standing rigging wire. Double wheel, with motto engraved thereon,
+"Aide toi, et Dieu t'aidera," placed just before the mizenmast. Bridge
+in the centre, just before the funnel. She carried five boats--viz.,
+cutter and launch amidships, gig and whaleboat between the main and
+mizen masts, and dingy astern. The main deck was pierced for twelve
+gusts, elliptic stern, billet head, high bulwarks; cabin accommodation
+first class; wardroom furnished with a handsome suite of state-rooms;
+steerage--starboard for midshipmen, port for engineers; next came
+engine-room, and coal-bunkers; then the berth deck, capable of
+accommodating 120 men; under the wardroom were store-rooms; and under
+the steerage were shell-rooms; just forward of the firearms came the
+hold; next the magazines, and forward of all the boatswains' and
+sailmakers' store-rooms; the hold being under the berth deck.</p>
+<p>The Kearsarge, named after a range of hills in Vermont, is a recent
+acquisition to the navy of the United States; in fact, she is one of
+the nine gun-boats completed within three months from the date of the
+order given. She is the sister ship of the Tuscarora, whose presence
+in the Solent, during the visit of the Confederate cruiser Nashville
+(since destroyed), occasioned considerable excitement some time
+since.</p>
+<p>A correspondence is published between Captain Winslow and
+Mr. Bonfils, the French Confederate agent. Captain Winslow claims as
+his prisoners those of the Alabama's crew rescued by pilot-boats, and
+brought into Cherbourg. He allowed the pilot-boats to save the
+prisoners, from motives of humanity, but if the prisoners endeavour to
+free themselves from the obligation they must expect to meet no mercy
+another time. Mr. Bonfils replies that there is nothing to hinder even
+a surrendered prisoner from escaping if he can, and he declines to act
+as a go-between between Captain Winslow and persons he does not even
+name; nor can he understand how Captain Winslow can claim to hold
+prisoners within the territory of the French empire.</p></div2>
+
+<div2 id="iln45.1266.003" n= "Foreign and Colonial Intelligence: America." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1266</biblScope>
+<biblScope type="pages">p. 3</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+INTELLIGENCE.</hi></p>
+<p rend="center">AMERICA.</p>
+<p>By the steamer Edinburgh we have intelligence from New York to the
+morning of the 18th ult.</p>
+<p>General Grant has performed an important operation--that of moving
+his army to the right bank of the James River. After turning
+Spottsylvania Courthouse and Sexton's Junction, he has now turned the
+lines of the Chickahominy and the northern defences of Richmond
+itself. It remains to be seen what he will benefit by the change. The
+mode in which Grant accomplished the flank march will be read with
+interest when the details arrive. So far as the telegrams furnish
+information, he seems to have covered the embarkation of Smith's corps
+at White House by a cavalry demonstration on the right; then to have
+made a show of forcing Bottom's Bridge, while the bulk of the army
+marched rapidly down the Chickahominy, crossed at Long Bridge, and,
+moving east of White Oak Swamp, struck the James in two columns, one
+opposite Fort Powhattan, the other at Hasall's Landing, opposite
+Bermuda Hundred. While the army was marching to the James, General
+Smith's corps, carried in steam-transports from White House, landed at
+City Point, as may be inferred, and, moving up the right bank of the
+Appomattox, attacked and carried the southern defences of
+Petersburg. Hancock came up, it is said, and took post on Smith's
+left, and rumour avers that Petersburg fell into the hands of the
+Federals the next day. Sheridan's cavalry in the meantime had been
+encountered and defeated by the Confederates, but where the telegram
+does not say. There appears to have been fighting at Bottom's Bridge,
+where Grant crossed the Chickahominy, but with what result is
+unknown. The development of Hunter's advance in the higher valleys of
+the Shenandoah must have seriously alarmed General Lee, if it be true
+that he had sent off a whole corps to attack Hunter and two divisions
+to defend Lynchburg. We are not informed at all of the movements of
+Lee himself; but it may be inferred that he has moved through Richmond
+and taken post on the south. Nor are we told how Hunter got throngh
+the Blue Ridge to Lovingston and Amherst. Upon these points we must
+wait for information. Richmond journals discuss the military situation
+in a very defiant tone, and regard with derision the idea of their
+capital being captured.</p>
+<p>The latest Federal accounts of General Sherman's operations in
+Georgia represented that, on the 12th ult., the Federal army was
+within 500 yards of the Confederate position, which was said to extend
+from Kenesaw to Lost Mountain. There had been no serious engagement,
+and it was reported in New York that General Sherman's troops were
+intrenching themselves. A body of 8000 Federals, under General
+Sturgis, who had been dispatched from Memphis for the purpose of
+frustrating any attempts to impede General Sherman's long line of
+communications, had been attacked at Gun Town, in Tennessee, by 10,000
+Confederates, under General Forrest, and had been completely
+defeated. General Sturgis himself was killed, and all his guns and
+stores were captured by the victors, who likewise took a large number
+of prisoners.</p>
+<p>General Morgan's Confederates had done much damage to the railways
+in Kentucky, and had taken, on the 10th ult., the town of Cynthiana,
+with two Federal regiments quartered there. On the 11th, however, they
+were attacked and defeated by General Burbridge, who made 300 or 400
+prisoners and recaptured a few of the Federals taken on the previous
+day.</p>
+<p>By a vote of eighty-four against fifty-eight the House of
+Representatives had repealed the Fugitive Slave Law.</p>
+<p>The Senate have rejected the President's amendment of the
+Constitution abolishing slavery.</p>
+<p>A joint resolution for a final adjournment of Congress on Thursday,
+June 23, was adopted.</p>
+<p>More than 10,000 emigrants arrived at the port of New York in the
+week ending June 4.</p>
+<p>There had been a fall in the price of gold. At last accounts it
+was quoted at 95&#x00B7; per cent premium.</p></div2>
+
+<div2 id="iln45.1266.004" n= "Echoes of the Week." type="Article">
+<head>ECHOES OF THE WEEK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1266</biblScope>
+<biblScope type="pages">p. 7</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p>....Our redoubtable "Manhattan," common-councilman of New York and
+correspondent of the <hi rend="italic">Mroning Herald</hi>, has been
+summoned before the Military Governor of New York and threatened with
+arrest. Pointing to a file of that journal, General Dix told him "that
+they had done more harm to the United States than all the New York
+papers combined." Only imagine, if we can, the pride of the author
+when he heard this! Harm, i'faith; why, Manhattan, sometimes north,
+sometimes south, twists about like the revolving lights in a
+lighthouse, and flashes now yellow, now rose colour, now blue, all
+very pretty to look at, but utterly useless to read by. We knew,
+certainly, that there were rocks ahead at New York, and that
+Washington was an uncomfortable place to live in; but why imprison a
+poor harum-scarum newspaper correspondent for that?....</p>
+<p>One is glad to see that the past and present students of
+Charing-cross Hospital are about to raise a memorial to the brave
+surgeon of the Alabama, Mr. Llewellyn, who went down with that vessel
+whilst nobly doing his duty. Both Northern and Southern can show their
+sympathies with a brave non-combatant, and his fellow-countrymen may
+do it in two places, by either subscribing to the memorial at
+Charing-cross or to the one at the little church of his native place
+which his fellow-townsmen are about to erect....</p></div2>
+
+<div2 id="iln45.1266.005" n="Kerbstone Stockbrokers in New York.--See
+      Page 11." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1266</biblScope>
+<biblScope type="pages">p. 8</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p8">
+<head>KERBSTONE STOCKBROKERS IN NEW YORK.--SEE
+      PAGE 11.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln45.1266.006" n="The Fight Between the Alabama and the
+      Kearsarge.--See Page 2." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1266</biblScope>
+<biblScope type="pages">p. 9</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p9">
+<head>THE FIGHT BETWEEN THE ALABAMA AND THE
+      KEARSARGE.--SEE PAGE 2.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln45.1266.007" n= "Kerbstone Stockbrokers in New York." type="Article">
+<head>KERBSTONE STOCKBROKERS IN NEW YORK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1266</biblScope>
+<biblScope type="pages">p. 11-12</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">KERBSTONE STOCKBROKERS IN NEW YORK.</p>
+<p><hi rend="smallcaps">The</hi> prevailing mania just now in the city
+of New York is that of gambling in stocks. All classes of people are
+naturally intent upon converting fictitious "greenbacks" into some
+more substantial and enduring property. Hence the universal spirit of
+speculation which drives to the stock market merchants and mechanics,
+gamblers and gentlemen, politicians and parsons. Railway shares,
+mining companies' stock, and everything else that can, by the greatest
+stretch of imagination, be supposed to offer a chance of permanent
+investment or rapid profit, will command prices far above par; but
+more in request than all other marketable securities is the American
+eagle impressed upon gold coin. The Federal Secretary of the Treasury
+has so flooded the country with paper "promises to pay," that the
+holders are extremely doubtful of their validity, and hasten to
+transmute this dubious "Chase currency" into the precious
+metal. William-street, in the lower part of New York, is the great
+theatre of speculation. In this street and Exchange-place, from the
+corner of which our sketch is taken, are innumerable stockbrokers'
+offices. Every building on each side of the way contains, on every
+floor, luxuriously furnished chambers, the occupants of which have
+made, are making, or expect to make their millions out of the
+fluctuations of the stock market. There are three distinct marts held
+in William-street for the sale of speculative commodities:--First, the
+"Regular Board of Brokers," an exclusive and aristocratic fraternity,
+whose sessions are held in an ex-Masonic lodge-room, and whose
+regulations demand a rigorous ballot and a large initiation fee as
+qualifications for membership. This organisation comprises men of the
+"first families" of America, persons in good society, and its rules
+are supposed to exclude all of doubtful commercial integrity. Next in
+order comes the "Public Stock Exchange," held in a building on the
+east side of the street (to the left of our Engraving), nearly
+opposite the "Regular Board." Here assemble those brokers who are
+excluded from the orthodox association, whether by their rejection on
+ballot, or by their inability or disinclination to comply with its
+code, or because its limited number is filled. Notwithstanding that
+the "Public Board" is less strict and less expensive than its
+neighbour, there are many of its members who have become millionaires
+within the past few months by the magnitude and success of their
+transactions; they have built superb mansions and established gorgeous
+equipages outvieing those of the richest member of the "Regular
+Board." Thirdly, and lastly, there is the "Kerbstone" business--the
+common whirlpool of all persons of speculative tendencies who have not
+sufficient capital or character to obtain admission into either of the
+recognised places of Stock Exchange operations. As the session of the
+Public Board draws to its close (about two p.m.), an indiscriminate
+throng of all varieties of character and grades of rank, from the
+"Fifth <pb n="12"/>   </p></div2>
+
+<div2 id="iln45.1266.008" n= "The American Mail Steamer at Roche's Point." type="Article">
+<head>THE AMERICAN MAIL STEAMER AT ROCHE'S POINT.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1266</biblScope>
+<biblScope type="pages">p. 12</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE AMERICAN MAIL STEAMER AT<lb/><hi
+rend="smallcaps">Roche's Point.</hi></p>
+<p><hi rend="smallcaps">Every</hi> reader of the London morning papers
+is accustomed at the present time to look for some exciting news of
+the American war in that column of large type and short paragraphs
+which is headed "By Electric and International Telegraph, vi&#x00E2;
+Roche's Point," with the name, perhaps, of one of the Cunard line of
+steamers, which may be half way up St. George's Channel, on her way to
+Liverpool, at the moment when this intelligence meets the reader's
+eye. We have engraved a Sketch of the Scotia lying off Roche's Point
+at the entrance of Queenstown Harbour, where she is met by one or two
+small boats, to bring the telegraphic despatches to land, when not a
+moment is lost in transmitting their message by the electric wire to
+London, Liverpool, and every other place concerned in obtaining the
+earliest American news. At the same time, a portion of the mails are
+taken by the Jackal tender, which is also shown in our Engraving, and
+conveyed up the harbour to be forwarded by railway from
+Cork.</p></div2>
+
+<div2 id="iln45.1266.009" n="The Jackal Tender and Boats Going to Meet
+      the American Mail Steamer at Roche's Point, Near Queenstown." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1266</biblScope>
+<biblScope type="pages">p. 12</biblScope>
+<date value="1864-07-02">July 2, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p12">
+<head>THE JACKAL TENDER AND BOATS GOING TO MEET
+      THE AMERICAN MAIL STEAMER AT ROCHE'S POINT, NEAR QUEENSTOWN.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln45.1267.001" n= "Foreign and Colonial Intelligence: America." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1267</biblScope>
+<biblScope type="pages">p. 26-27</biblScope>
+<date value="1864-07-09">July 9, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+INTELLIGENCE.</hi></p>
+<p rend="center">AMERICA.</p>
+<p>We have intelligence from New York to the 25th ult. The reported
+capture of Petersburg, referred to in our last Number and stated to
+require confirmation, is so far from having been confirmed that (as we
+were able to state by telegram last week) Grant has been driven from
+it with terrible loss. What, doubtless, gave rise to the statement was
+the capture by the Federals, under General Smith, of the outer line of
+defences of Petersburg, which were then thought to be its main
+line. This occurred on the 15th of June. On the 17th, General Grant's
+whole army was before Petersburg, and on that day severe fighting was
+reported; on the 18th a general assault on the town was three times
+made and repulsed with a loss to the Federals estimated at not less
+than from 6000 to 8000 men.</p>
+<p>The Confederate works were arranged in a semicircle south of
+Petersburg, the flanks resting on the Appomatox River. The Federal
+army advanced against them on the 18th in three divisions, the Second
+Army Corps on the right, the Ninth in the centre, the Fifth on the
+left. Hancock, being wounded, was unable to lead his men, and General
+Birney commanded the Federal right. The assault was directed towards
+the line of the City Point Railroad. The men were led forward to the
+certainty of defeat or death. After getting over a fence they had to
+cross a wide field exposed to a cross fire from the Confederate
+breastworks. As soon as they were seen they were met with deadly
+volleys of musketry, grape, and canister from the Southern
+defences. Hundreds fell, many were taken prisoners, the rest retreated
+in disorder. Reinforcements having been obtained, the Second Corps
+formed another storming party. They tried another point of the works
+but it was worse than the other. Infantry and artillery met them with
+a terrific fire, and the heads of the columns were "lost in clouds of
+smoke." It was a forlorn hope. Those in front were mown down and
+scattered; the remainder broke and fled. While this was the fate of
+the Second Corps, the Fifth Corps, on the Federal left, fought with
+equal obstinacy, but found the earthworks in front of it
+impregnable. The ground over which these troops advanced had evidently
+been long prepared, for it was strewed thickly with an abbattis of
+felled timber. The Ninth Corps, in the centre, was utterly routed by a
+fierce attack of the Confederates, who rushed into the camp through a
+terrible artillery fire, fought the Michigan sharpshooters hand to
+hand, and drove them from all their positions. The Southern troops
+were again withdrawn during the night to their own impregnable
+defences.</p>
+<p>After these unsuccessful attempts to force the Confederate
+position, Grant appears for some days to have done little or
+nothing. With his right flank resting on the Appomattox River, and his
+left on the plank-road connecting Petersburg with Graysville, he
+seems to have<pb n="27"/> pushed forward his outposts as near as he
+conceived prudent to the Confederate intrenchments. On the 19th and
+20th there was some slight skirmishing, in which the pickets and their
+supports were alone engaged; and it was not until the night of the
+21st that Grant resumed active operations. Intending, apparently, to
+seek a weaker point in the Confederate lines than that against which
+the assaults of the 17th and 18th were directed, the two corps which
+formed the right of the Federal army were moved on the night of the
+21st across the front of the Federal left, in the direction of the
+Petersburg and Norfolk Railway. The ostensible motive was to cover
+this line of railway and more completely invest the city of
+Petersburg, but the ultimate object was to enable the Federal army to
+attack the Confederate position at a point almost due south of the
+town of Petersburg. For this man&#x0153;uvre, however, the
+Confederates were fully prepared. A strong force under Hill
+intercepted the advancing columns of the Federal right wing and
+repulsed them with heavy loss both of men and artillery. The following
+day, inspirited by this success, General Hill again resumed the
+offensive, and, having managed to separate the Second from the Sixth
+Army Corps, attacked the former in the rear and drove it in confusion
+to its intrenchments, with an estimated loss of three thousand men. On
+the 23rd Grant drew up his entire army in order of battle, and on that
+day a general engagement was expected. Heavy firing in the direction
+of the position of the rival armies was heard at City Point on that
+day, but the results of the battle are not known, or not
+published.</p>
+<p>President Lincoln visited Grant at City Point on the 21st ult.</p>
+<p>General Hunter is said to have been repulsed in an attack upon
+Lynchburg, but there is no very definite news respecting his
+movements.</p>
+<p>General Sheridan has been defeated during his raid with heavy
+loss. He claims, however, to have seriously injured the Virginia
+Central Railroad, south of Gordonsville, and to have defeated the
+Confederates at Trevellion Station.</p>
+<p>The attitude of General Sherman was not materially changed.</p>
+<p>New Orleans advices say that the State of Arkansas is overrun with
+guerrillas. The Federals, however, still hold Little Rock and Pine
+Bluffs. General Banks was at New Orleans.</p>
+<p>The Federal papers state that General Scott has just attained his
+seventy-eighth year, and has also just completed the memoirs of his
+life.</p>
+<p>The bill repealing the Fugitive Slave Law was passed in the
+Federal Senate by a vote of 24 against 7. This bill, having passed
+both Houses, now simply awaits the President's signature.</p>
+<p>In the House of Representatives the Loan Bill was passed. This
+bill authorises Secretary Chase to borrow 400,000,000 dols. from time
+to time upon six per cent bonds redeemable in five to forty years. The
+interest payable in coin semi-annually.</p>
+<p>A resolution had been offered in the Federal Senate requesting the
+President to inform Congress whether the recruiting in Ireland and
+Canada for the Federal army was authorised.</p>
+<p>The Constitutional Convention of Maryland has abolished slavery in
+that State by a large majority. The <hi rend="italic">New York
+Tribune</hi> of June 25 announces the fact in the following
+terms:--</p>
+<q>Maryland has wheeled into line, and another undimmed star shines
+out in the constellation of Free States. Her constitutional
+Convention, in Session at Annapolis, passed yesterday the following
+article of her Bill of Rights:--"Hereafter in this State there shall
+be neither slavery nor involuntary servitude, except in punishment for
+crime whereof the party shall have been duly convicted; and all
+persons held to service or labour as slaves are hereby declared
+free. In every church in the land there ought to-morrow to be offered
+solemn prayers of thanksgiving to God that to the people of that
+State He has given grace, at length, to obey His mandate to 'Let the
+oppressed go free.' A new prosperity will, in due season, follow that
+obedience, and her children rejoice that the curse that has rested so
+long upon her labour and hindered her growth is removed for ever.</q>
+<p>Since the passing of the Gold Bill gold had gone up to 230, but
+had declined again to 210. It stood at 219&#x00B7; on the evening of
+the 25th ult.</p></div2>
+
+<div2 id="iln45.1267.002" n= "The American war-steamer Kearsarge" type="Article">
+<head>[THE AMERICAN WAR-STEAMER KEARSARGE]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1267</biblScope>
+<biblScope type="pages">p. 27</biblScope>
+<date value="1864-07-09">July 9, 1864</date>
+<extent></extent>
+</bibl>
+<p>The American war-steamer Kearsarge arrived in Dover Road on
+Wednesday evening.</p></div2>
+
+<div2 id="iln45.1267.003" n= "Messrs. Sampson Low, Son, and Co." type="Article">
+<head>[MESSRS. SAMPSON LOW, SON, AND CO.]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1267</biblScope>
+<biblScope type="pages">p. 27</biblScope>
+<date value="1864-07-09">July 9, 1864</date>
+<extent></extent>
+</bibl>
+<p>Messrs. Sampson Low, Son, and Co., of Ludgate-hill, have on view a
+fine impression of a steel engraving by T. Barlow, of London, from a
+design by the American artist, F. O. C. Dailey, having for its subject
+Washington Irving surrounded by his literary friends. The scene is
+Irving's library at Sunnyside, and his assembled friends are Prescott,
+Cooper, Bancroft, Longfellow, Emerson, Kennedy, Bryant, Paulding,
+Hawthorne, Halleck, Holmes, Simms, Tuckerman, and Willis. The
+engraving is in the style known as "the line and stipple."</p></div2>
+
+<div2 id="iln45.1267.004" n= "The returns compiled by the emigration agent" type="Article">
+<head>[THE RETURNS COMPILED BY THE EMIGRATION AGENT]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1267</biblScope>
+<biblScope type="pages">p. 27</biblScope>
+<date value="1864-07-09">July 9, 1864</date>
+<extent></extent>
+</bibl>
+<p>The returns compiled by the emigration agent at Liverpool for the
+month of June last, shows the following result:--Vessels under the
+Act--United States: Twenty-seven ships, carrying 10,462 passengers, of
+which 379 were cabin; of these 2,174 were English, 319 Scotch, 6,399
+Irish, and 1101 from other countries. Canada: Five ships, 1163
+passengers, of whom 101 were cabin; 471 were English, 325 Irish, 207
+other countries. Victoria: Two ships, 823 passengers, including
+twenty-six in the cabin; of whom 261 were English, ninety-four Scotch,
+412 Irish, and thirty from other countries. South America: One ship,
+carrying sixty-three passengers, including two in the cabin, all of
+whom were Irish. Total under the Act, 12,511. The returns of short
+ships, or those not under the Act were--United States: Seven ships,
+476 passengers. Canada: Two ships, thirty-five. South America: One
+ship, four. West Indies: One ship, five. Mexico: Two ships,
+nine. Africa: One ship, ten. British Columbia: One ship,
+thirteen. Making a total of 555 passengers in short ships. Aggregate
+for the month, 13,O63; being a decrease as compared with the
+corresponding month of the previous year of 2292. The total emigration
+from Liverpool for the quarter ending the 30th of June last was
+53,586; for the corresponding quarter of 1863, 54,044.</p></div2>
+
+<div2 id="iln45.1267.005" n= "The Surgeon of the Alabama." type="Article">
+<head>THE SURGEON OF THE ALABAMA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1267</biblScope>
+<biblScope type="pages">p. 41</biblScope>
+<date value="1864-07-09">July 9, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE SURGEON OF THE<lb/> ALABAMA.</p>
+<p><hi rend="smallcaps">Mr.</hi> David Herbert Llewellyn, who was the
+surgeon of the Confederate war-steamer Alabama during the two years of
+her adventurous career, perished by drowning on Sunday, the 19th ult.,
+sinking with his ship after her conflict with the Federal steamer
+Kearsarge. He was the son of the Rev. David Llewellyn, Perpetual
+Curate of Easton, near Pewsey, Wiltshire. He was educated at
+Marlborough College, and studied for the medical profession, firstly
+as an articled pupil of Dr. Hassall, at Richmond, and then, from 1856
+to 1859, at Charing-cross Hospital, where he gained the silver medals
+for surgery and chemistry. The last letter which Mr. Llewellyn ever
+wrote was addressed to Mr. Travers, the resident medical officer of
+Charing-cross Hospital, and is as follows:--" Cherbourg, June 14,
+1864. Dear Travers,--Here we are. I send this by gentleman coming to
+London. An enemy is outside. If she only stays long enough, we go out
+and fight her. If I live, expect to see me in London shortly. If I
+die, give my best love to all who know me. If M. A. de Caillet should
+call on you, please show him every attention. I remain, dear Travers,
+ever yours, <hi rend="smallcaps">D. H. Llewellyn.</hi>" Mr. Llewellyn
+was much loved and respected by all on board. In the final struggle of
+the Alabama, when the ship was sinking, the whale-boat and dingy, the
+only two boats uninjured, were lowered, and the wounded placed in
+them, Mr. Fullam being sent in charge of them to the Kearsarge. When
+the boats were full, a man (unwounded) endeavoured to enter one, but
+Mr. Llewellyn held him back. "See," said he, "I want to save my life
+as much as you do; but let the wounded men be saved first." "Doctor,"
+said the officer in the boat, "we can make room for you." "I will not
+peril the wounded men," was his reply. He remained behind and sank
+with the ship, an ever memorable instance of that chivalrous spirit
+and devotion to duty which we are proud to believe characterise the
+medical officers of the united services and the medical profession
+generally in the United Kingdom. It is further gratifying to hear that
+Llewellyn's fellow-students have appointed a committee to provide for
+the erection of a tablet to his memory in Charing-cross Hospital,
+where as a pupil he had so greatly distinguished himself, and that
+another memorial is to be fixed in the church of Easton parish, where
+he was born. The Portrait of him which we have engraved is from a
+photograph taken at the Maison Rideau, Cherbourg, on the Thursday
+before his death.</p></div2>
+
+<div2 id="iln45.1267.006" n="The Late David Herbert Llewellyn, Surgeon
+      Of The Alabama." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1267</biblScope>
+<biblScope type="pages">p. 41</biblScope>
+<date value="1864-07-09">July 9, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p41">
+<head>THE LATE DAVID HERBERT LLEWELLYN, SURGEON
+      OF THE ALABAMA.</head>
+</figure>
+</p>
+</div2>
+
+Another of England's many a'lnoi'Ys , lila George Vrmicis 'l'rnin, has turned up in New York lately frisn a visit Ii Alunli:tin Lincoln, at least so we construe the profanity "Fresh r4-in Ahr:tlitill i's item." His last resting-place has not allowed the cli ervoi'eii':e of lIw London champagne to subside; for the great author of Si'oail l'ugleilonz" is as wild as ever. '' England," lie says, and his sol ijecl. was cIa sea by his audience, "is only a little province of l"rnnee, anil ;i involution is coming there. When the Feui,ni brotherhood rises aunt tires its guns on the tops of the mountains," &c. Silly brotherhood why on the tops of the mountains? had they ant butler come ,liiwn, and listen to the good sense of Mr. Justice Keogh and those iris friends who would try to regenerate Ireland. The human Catholic clergy arc beginning to see that their interest lies also with the fiovermnuuent and the prosperity of the people; until the liua-t way of showing the true character of the Feinsos is to quote time ippri 'viii, f them by Mr. Train and the Americans, who in their own battles iovaral;ly put the Irish recruit "in the front,"
+uacmwun pruin a very goon fluinDer. 'joe twomost mterestmg
+
+contributions relate to America-one a poem by Longfellow, full of
+
+aselod7 and feeling; the other, Mr. Dicey's slight memoir of his alight acquaintance with Nathaniel Hawthorne. There is not much to corn'mualcate about this shyest of men, yet Mx. Dicey has succeeded in touching the hermitage of the recluse with a pencil of light which diminishes without dissipating its natural obscurity. Hawthorne will never be thoroughly understood until the American nation shall have had time to develop further examples of a char not altogether new to it. though never before exhibited in such completeness, or under ciroumstnces of such interest. The singular alliance of conscious superiority with morbuc humility. of strong common sense with absolute nullity in public life, of vacillation almost ludicrous with perseverance and strength of will, is not unparalleled in the States, and may be referred to the conliictin
+
+influences of race and institutions on the one hand, and of physici
+
+conditions on the other. The very slightness and evanescence o Mr. Dicey's reminiscences impart to them the charm of perfect keeping with their subject. "The Hillyars and the Bu-tons" and 14 A Son of the Soil" are continued in the usual style, and with no decline in interest. Mx. Maurice contributes a high-minded paper on bribery at elections. He appears to possess the faith that remove mountains, at which we rejoice, as it is about the only weapon left tc combat an abuse that has defied every other. A lend and judicion critique on Miss Lucy Fletcher's poems introduces us to several coin positions by a very young lady who seems to have intuitivel' acquired the power of writing with more lucidity and finial than nine tenths of her contemporaries. These little poem
+
+are equally ad niirabie in point of diction, melody, and senti-ment, giainmmd Xraainski's poem, "Resurrecturis," is, doubtless, TM flue in the original but the prose translation inevitably degenerates into mere rhetoric. We rather doubt the trauslatorb assertion that Rpm was acquainted with Micidewier, and are certain, at a) ei-eata, that the finest poetry of the Pole was not produced till after Byronis death, An excellent number is concluded by a sph-ite narrative of the bombardment of Sonderburg.
+
+like Macmillan, Jflackwood is indebted for its chief attraction to Aica-at least we do not think we err in attributing the two lovely
+
+on leenar4o fin Vinci's "Last Supper ," to William W]ito
+
+It is now about six year since the great sculptor published a
+
+volume of poon so saturated with the spirit of Robert Browning asto
+
+deserve nobterebaaoterthan that of a servile imitation, and to beget
+
+a seasonable fear that he would prove incapable of excellence in original literary cemposition. These new poems, however, retain just enough
+
+of the unauneajain of Browning to render evident their great cape.
+
+rorivy in clearness and symmetry. In pith and masculine force they
+
+ccrtaufflv fall Short of Browning, yet are not unworthy of a disciple. The subject is one on which a man of Mr. Story's especial gifts to be heard with reverence, a feeling fully justified by his glow' -~g and prophet-like proclamation of inspiration from a E, -1,,.,r ss the indispensable condition of all success in art "rhe
+
+- .,,,1
+AMERICA.
+
+There is no news of importance from Virginia. General Grant has
+
+made no further attempt to turn the Confederate position at
+
+burg since his defeat on the 22nd nit
+
+Wilson's cavalry has destroyed twenty miles of the DanvflleBailro
+
+On their return, on the night of the 27th nit., they were intercepted by
+
+the Confederates at Beam's station, on the Weldon and Petersburg.
+
+Railroad. Wilson fought all night and the following morning, bt was unable to push his way through. Meade sent the sixth with a division of the second corps, to the assistance of Wilson (ho: the 28th the Confederates were moving in the direction of the rear of Grant's left.
+
+A special despatch to the w York, Times, dated Wathing0
+
+Tune 29, says
+
+Latest advices from General Grant's head-quarters report only occasional skirmishing and artillery practice as inevitably result from close proximity of the two forces. The chief enemies our soldiers have bed lately to combat are the heat and dust, which have even been of the most. malignant character. For thIrty days not a drop of rain has fallen, ninki,1 a drought of a duration unparalleled in that region for many years, it with the utmost difliculty, that men and animals get even a scanty supply o water. General Palmer s raid from Newborn, on the Wilmington and Weldon Railroad seems to supply a perfect explanation of the recently. reported march of rebel troops from Lee's army to North Carolina, which such absurd speculations have been based. General Hancock, yesterday morning, resumed command of the Second Army Corps. On Friday met Acting Master Street, of the flotilla, obtainel lflformatio that there were a number of guerrillas on the peninsula engaged in maiciag torpedoes, and accordingly on that night he landed with thirty men and prs. ceeded over the country some ten miles, capturing six persona, among whom was a Confederate captain and physician, whom he brought off to his
+
+ A telegram dated head-quarters of the army of the Potomac, Jun
+
+22, five a.m., says
+
+All remains quiet at the front. Our left wing swung round and took pos. ,eeslon of the Weldon Railroad, about four miles from the city, without op po.. ,ition. It is believed the enemy's lines have been somewhat contracted shc5 Friday last, and the opinion prevails that a force has been sent to meet and drive back General Hunter.
+
+Another despatch, dated the 28th of rune, noon, says
+
+A severe engagement took place on Saturday between our cavalry an a.
+
+force of the enemy, consisting of cavalry and mounted infantry, at the
+
+Chickahominy river. The enemy had followed Sheridan from the White House, in the expectation of being able to cut off part of his waggontr,,, which was very large end it was here they made their attack. Jorbet'e divls1e was detafledto protect thetrsln, while Gregg's division was placed in poejeionte resist an attack from the enemy on the roads which they were known to Occupy At an early hour skirmishing commenced, and was kept up until noon, whe,, the Confederate infantry, which had been dismounted, made a. desperate ohe on our lines; and although our men dismounted and fought them gaunt, 7 for a time, they were finally compelled to retire, suffering considerably. Our. loss is supposed to be about 1500. Our men fel hack to their supports near the bridge, and the command, with the entire train, subsequently got over it without further loss. The enemy made no effort to follow us up, end it i& thought they must have suffered severely. The whole command has arrivs at the James River, and will be across by to-night. There are now about, 5000 sick and wounded in hospital at City Point, and they suffer much from the heat and from a lack of gdod water. The members of the different aid societies are fast giving out from exhaustion and fever, and many of them have been forced to give up their labours and return home.
+
+General Sherman has been repulsed in Georgia with heavy loss. Be
+
+reports that two columns of his army, under Macpherson and Thomas, simultaneously attacked the Confederates at Kenesaw Mountains on the 27th, and were repulsed. He admits Thomas's loss at 2000 and Macpherson'a at 500, among whom were General Hacker and fag Colonels. Confederate despatches state the Federal loss at 4l09. Sherman believes the Confederate loss to have been light, they being protected by breastworks. According to a late rumour, General
+
+heranan was retreating for want of supplies and forage. The Con
+
+federate General Pillow had been operating on Sherman's rear, and had attacked the town of Lafayette, but was defeated.
+
+General Hunter has been obliged to retreat into Western Virginia.
+
+Mr. Stanton announces that Hunter, finding his ammunition running
+
+short, was retreating to Western Virginia, but reports the complete
+
+success of his expedition to Lynchburg. According to Hunte&
+
+report, he has destroyed much Confederate property and supplies, and
+
+beat the enemy in every engagement. Confederate despatches of the 25th ult., however state that the Confederates were pursuing Hunter, and bad attacked Um several times, captured thirteen of his caanon and inflicted heavy loss upon him hi killed, wounded, and prisoners.
+
+Mr. Chase, Secretary of the Treasury, has resigned, and Mr. Lincoln nominated as his successor ax-Governor Todd, of Ohio, who bavicor declined the anointment, Senator Fesaenden, of Maine, was appoin0e asidconfnneytheSenate.
+Executive Mansion, Washington, June 27, 1864.
+
+Gentlemeu,-Yeur letter of the 14th met., formally notifying me that I leave been nominated by the Convention you represent for the presidency of the United States for four years from the 4th of March next has been received. The nomination is gratefully accepted, as the resolutions of the Conveoties celled the platform are heartily approved. While the resolution in regard to the supplanting of Republican government upon the western continent is fully concurred in, there might be misunderstanding were I not to say thet the position of the Government in relation to the action of France in Mexico, as assumed through the State Department and endorsed by the CoavaotiOe among the measures and acts of the Executive, will be faithfully maintained so long as the state of facts shall leave that position permanent and applicable. I em especially gratified that the soldier end the seaman were not forgotten by the Convention, as they for ever must and will be remembered by the gratetil country for whose salvation they devote their lives. Thanking you for the kind and the complimentary terms in which you have communicated the nomination and other proceedings of¥ the Convention, I subscribe myself year obedient servant, AB3ABAX LLNoOt
+
+Congrese has repealed the Gold Bill.
+
+In Congress, on the 29th nit., a joint resolution, on the motion Of Mr. Harlan, of Iowa, was adopted, that the President of the hiM States be requested to appoint a day for humiliation and prayer by the people of the United States, to confess and to repent of their manifold sine, to implore the compassion and forgiveness of the Almighty "that, if consistent with his will, the existing rebellion may be speedily suppressed, and the supremacy of the Constitution and la" of the United States established throughout all the States."
+
+In the Senate, on the 25th tilt., the report of the Conference CIO"
+
+mittee, appointed to adjust the disagreements of the two Houses Or' the
+
+Internal Revenue Bin, was submitted and adopted. As the repO¡
+
+was also concurred in by the House of Representatives, the bill eW
+
+only needs the President's signature to become law. As now fio5Y
+
+fixed upon, the tax on whisky will be.one dollar and a half per gnlll1
+
+after the 1st of July till the 1st of February next, after which it Will
+
+he two dollars per gallon. On incomes the tax is 5 per cent 00 all over 600 dole, and not exceeding 5000 dole. ; onincomes from 5000 dela. to 10,000 dole., 71 per cent; exceeding 10,000 dollars, 10 per cent.
+
+In the House of Representatives the session was an excited ella The bin amendatory of the Enrolment Act was taken up. The prul cipal point at issue was the proposition to repeal the 300 dollars COW* mutation clause. The debate was a very animated one, and at time
+became very personal and bitter. Mr. Fernando Wood, of New York, a speech denouncing the war and insisting that it should be immediately stopped. He became so violent in his remarks that he was hissed by the members.
+
+Gold opened at 250. rose to 282, but declined to 260 on Mr. Fessenden's confirmation to the secretaryship of the Treasury, and to 30 on the repeal of the Gold Bill by the Senate.
+
+It appears that General Bishop Po]k was killed in battle in Georgia ca the 14th nit. The Bishop graduated at the West Point military seminary in 1827, but Bishop M'flvaine, who was then Chaplain at that place, persuaded him to enter the Church, and he afterwards became Bishop of Louisiana. He inherited a good estate, with many saves, and his ideas were always intensely Southern. When the present war broke out he entered the Confederate sarny, and was made a Brigadier-General. Heneverresigned his bishopric, probablyintending at the close of the war to resume his spiritual functions.
+
+Mr. Joseph F. Scoville, the well-known correspondent ("Manhattan ") of the Standard and Herald, died suddenly in New York on the morning of the 25th nit, of inflammation of the longs. He had been summoned recently before General Dix to answer for some of his statements in his letters, and received a warning. He was in the fiftieth year of his age.
+
+Three hundred Swedish and Norwegian emigrants arrived in Chicago
+
+¥n Sunday morning by the Michigan Southern Railroad. One portion of them will go into Missouri, the other portion left for Minnesota.
+
+The heat in New York had been intense. On the afternoon of the 25th nit, the mercury mounted to 07 deg. in the shade. Several cases ,of sunstroke had occurred.
+
+-I
+ine steanier W onael', which arrived at outhamptoi1, On I
+
+Thuriday from the ChanI)el Islands, reports that the Federal steamer Kverearge and the Confederate steamer Florida had an engagement off Jersey en 'Wednesday, in which the Kearsarge was disabled nn put into Corey. The Florida was brought UI Off Goiev 'waiting to reflow the engagement.
+
+A letter from Calais states that the Confederate vessel the
+
+Rapp‡hannock, at present in that port, lately had a judgment pronounced
+
+spathet her by the Chamber of Commerce of Boulogne for commercial debts ci the cnptain. It appears that when the hui3ier charged to nx the notice of sale made his appearance on board the vessel the captain warned him o
+
+without delay, as no such errand should beperforined there, The hui.saler had nothing else to do but retire and drew up apoo-,5.
+RUNNING THE BLOCKADE INTO THE PORT OF WILMINGTON, NORTH CAROLINA.
+
+have received from our Special Artist, who, after a short interval repose in England, has returned to the seat of war in America 1 safely arrived at the camp of General Lee, a Sketch of the some board the blockade-running steamer Lilian as she entered the port Wilmington, in the Confederate States, passing unharmed the iadron of Federal cruisers, on the morning of June 4. The reid correspondent of the Times, who was a passenger on board the, ne vessel, has contributed to that journal a narrative of the run )in Bermuda to Wilmington, which may be quoted as a commentary on the Illustration we have engraved
+
+Upon the evening of Wednesday, the let of June, the Lilian and a Elude two of the fleetest and most beautiful of the bloelnidetying vessels, started simultaneously from Bermuda upon the diet p inward which either had ever made. Both belong to the same mpany, but there is an emulation between the two rival vessels deli is not satisfactorily, allayed by their experiences hitherto, but Edch waits the solution of further trial. The weather was lovely, e sea ke a milldam, and favourable beyond expression to light aught and gossamer craft, such as are these blockaderunners, which htly scratch the surface instead of clutching the ribs of old ocean, and inch in summer seas have no more to fear from heavy seagoing aft, like the Rhode Island or the Vanderbilt, than has the Irish ght-espress from the lumbering freight-train which leaves Bostoncare five minutes in its rear. Rarely have two more attractive rizes slipped through the meshes of the blockade then the two vessels which I am writing. It is not alone that they would be invaluable ith a view to their conversion into Federal cruisers, or that two of the Lost valuable cargoes which have yet reached Wilmington await at us instant the disposal of the Confederate Government, but that on said both vessels were Confederate 'malignants,' whose capture odd have been a sweet morsel to many a craving palate m l'ashington and Boston. To many an English reader the name of aptai.n Maffil, lately in command of the Confederate cruiser Florida, well known as having assisted Captain Semmes and the Alabama demonstrate that two light, and, as regards equipment, eomparaLvely insignificant vessels of war would have little difllculty,iu driving rom the ocean a flag which, three years ago, might have been seen pun every wave of every sea.
+
+ 'My experience on board the Lilian leads me to anticipate for )aptaia Mafllt and his vessel-a credit to her builders, Messrs :houupson, of Glasgow-a long and prosperous career. An incident rbich occurred 200 miles from Wilmington, in a portion of the ocean rhieh is constantly swept by Federal cruisers, seems worthy of record. ipon our pert bow was descried a sail enveloped in a dense canopy of moke. Time was inellably precious-there was every reason to suspect (ankee guile, which is said to be nowhere more fertilely exhibited than n their conduct of the blockade but is was deemed possible, after areful scrutiny, that the vessel might be on fire. Briefly remarking, The ship which leaves a companion at sea in distress must be accurse
+
+Japtain Mafflt ordered our course to be altered, and bore down upon the ufranger. It soon became evident that she was a Federal cruiser, making a dense white smoke with her Cumberland coal, and beating rapidly ,astward in apparent pursuit of another delinquent. The helm was rapidly changed, and our course resumed, Dark and inscrutable came in the noon, defying all possibility of an observation. It was believed that ere the morrow's dawn should break we might reach Wilmington, and onward we pressed. The night wore rapidly away; two o'clock, three o'clock, half past three o'clock in the morning came, but by no eye peering through the thick gloom could the looked-for light at Fort Fisher be discerned. Then, as the morning dawned, we prepared to lay-to for the day, between the outer and inner cordon of the blockaders. It was hardly to be expected that we should escape for sixteen hours unobserved; but it was a signal instance of good luck that from four in the morning till half-past one p. m, we were unmolested. Then the tall masts of a large Federal cruiser, and her immense paddlewheels and lofty black hull were visible, and for the first time, as our antagonist approached us from the direction of Wilmington, the 'airy fairy Lilian' prepared to give us assurance of that speed widch we cli felt she possessed. Some slight delay there was before steam could be fully got up, and for some twenty minutes our pursuer seemed to gain upon us. But as the pressure of steam ascended from fifteen pounds to twenty, from twenty to twenty-three, from twenty-three to twenty-six, and as the revolutions of, the paddle mounted from twenty-six to tWenty-eight, from twenty-eight to thirty-three per minute, the Liia,i flew out to sea swift as arrow from a bow. In little more than two hours the hull of our pursuer was invisible, and her topgallant sails a speck upon the distant horizon. But as she still lay between us and Wilmington it became necessary to run round her. This also the light-heeled Lilian had little difficulty in accomplishing; but as the sun dropped into the sea, and our pursuer, although distant, still hung upon our rear, we found that, reckoning little the speed of our advance, we had sighted the inside blockade squadron before th close of day. - There was nothing for at but to persevere, and fortunately, before we approached close to land, darkness had completely set in. Silently and with bated breath we passed cruiser after cruiser, distinctly visible to every eye, and suggesting the flashing out of a blue or Drummoad light, and the rush of grape-shot and shrapnel through our rigging and bulwarks. But it was not destined that upon this occasion the Lilian should receive her baptism of fire. Just as we appanach Fort Fisher a dark spot is seen on the bar. It is a Federal launch, seen by us too late for Captain Mafilt to indulge the anxious wish of his heart and to ran her
+
+down \V nass her ,r4thin +,,N,--t-t- ,-nr,la ,,,,l
+is seen on the bar. It is a Federal launch, seen by us too late for Captain Maffit to indulge the anxious wish of his heart and to run her down. We pass her within twenty yards, and again the expected volley of musketry is wanting. Another moment and we are under the mound upon which stands the fore, and eagerly questioned for news. 'The news is goad all round.' 'Three times three for General Johnston;' 'six times six for General Lee;' and in mirth and laughter and song the night wears away. Three hours after us comes the Florie, and is heavily fired at as she wears inwards. But morning finds both vessels and their cargoes safe at their wharf in Wilmington, nor is it rash to predict for them both the probability of many returns. At least it may safely be angered that it will take no ordinary amount of sjieed and courage to circumvent so fearless and experienced a sailor as Captain lfnffitt, and that in his new career his skill and success will be act inferior to those which he exhibited in his old.
+
+"As an illustration of the facility and certainty with which the blockade is now defied, I will mention, in conclusion, a few facts. Between the lat of May and the let of June no less than twenty-four vessels made the port of Wilmington safely, without disaster befalling a single vessel. No wonder that piles upon piles of Government goods are stored here, awaiting, when there is less strain upon the railroads, transportation to Richmond and Atlanta. I am informed by the Government agent here that in his whole experience he has never lost a single outwardbound letter. A gentleman at Bermuda, the agent of an eminent English firm, told me that during two years he had sent an avenge of three mails per month from Bermuda end Nassau into Secessia, and that in the whole time only two mails had been lost."
+jnu jiuw a uc& Own, scenes Dilat isi t*ouraud Vice-Consul of
+
+Prance for Rhode Island, has made application for a patent for his me  `0
+
+rilway, to be worked by atmospheric forces upon inclined planes of wire sus
+
+ai
+
+pended in the air. It is proposed to apply it to street railways, for crowded
+
+thrn-oh1hfn]AA
+
+p11lons eitlee. -
+
+RICRMOND-The city o Bichmond, by the last census, had
+
+population of 18,000 souls, but the great influx of civil and military officers ad refugees from other parts of the State has probably raised it to a much igher figure. It is situated at the head of tide-water, at the lower falls of ames River, about 150 miles from its mouth. The city occupies a most plcuresque situation, being built on Richmond and Shockhoe hills, which are eparated by Shockhoe Creek and surrounded by beautiful scenery. It is egulerly laid out and well built, the streets, which are lighted with gee, rossing each other t right angles. On Shoclthce-hili are the State Capitol ccl other public buildings. The Capitol is an imposing edifice, and contains, ri its control hail, ouden's celebrated statue of Washington. On the east of he square is the Governors mansion. Jefferson Davis's residence Is a rivats mansion, which was purchased for him by the Confederate Governcent. The city has many fine public buildings, six banks, thirteen newsopera, and twenty-three churches. In one of the three Presbyterian hurches Jefferson Davis worships. The falls of James River afford immense 7ater-power, and there are vary extensive factories, including four cotton and about fifty tobacco factories, do mills, rolling mills, forges, furnaces, machine shops, &o., the latter of which, and particularly the Tredegar Ironworks, have been of immense service to the rebels in turning out ordnance, and material of war. The annual exports of Richmond before the rebellion reached nearly 7,000,000 dole, and its imports 780,000 dole. But since it had the honour of being the rebel capital its foreign commerce has been extinguished. Vessels or gun-boats drawing ten feet can ascend to within a mile of the city, at a place called the Rockets. Vessels of fifteen feet draught ascend to Warwick, three miles below. A canal has been built around the falls, and above them there is navigation for 200 miles. The James River and lanawba Canal, intended to extend to Coviosgton, is completed for 200 miles. Richmond has very extensive railroad communications, being the terminus of five roads, running to Predericksburg and the Potomac, to West Point and the York River, Petersburg and Norfolk, to Danville, Virginia, to Jackson's River, by the Central Railroad, and from these the connections lead all through the Southern States. Opposite the city are the two towns of Spring Hill and Manchester. Richmond was founded in 1742, became the capital of the State of Virginia in 1779, and in June, 1861, It was made the seat of Government of the "Confederate States of America," whose Congress assembled there on July 20. Its history since then is only too familiar to the country. Around the city are various hills, extending a great distance, on the most important of which fortifications were erected in the days of the" Onto Richmond" cry.-Nete York Tribune.
