@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "iln.dtd"
 [<!ENTITY % iln-entities SYSTEM
 "/Beck-files/ILN/ILNCVS/ilnxml/iln_entities">
@@ -469,7 +468,28 @@ sufficient capital or character to obtain admission into either of the
 recognised places of Stock Exchange operations. As the session of the
 Public Board draws to its close (about two p.m.), an indiscriminate
 throng of all varieties of character and grades of rank, from the
-"Fifth <pb n="12"/>   </p></div2>
+"Fifth <pb n="12"/>Avenue Swell" to the Jewish dealer in cast-off clothes, besiege
+the doors of the sale-rooms; and the first person who comes out is
+assailed with frantic shrieks of "What's Erie?" "How's Rock Island?"
+and, more than all, "Where's Gold?" These points having been
+ascertained, there is a furious mel&#x00E9;e of pecuniary
+propositions; purchases and sales are transacted between individuals
+who, up to that moment, have never seen each other, and who may never
+meet again; for the gainer in the bargain does not always succeed next
+day in his search for the loser. "Representative men" of all types
+shoulder one another, and scream themselves hoarse in eager endeavours
+to outbid or undersell their loud-voiced competitors. It is a frantic
+orgie, in which the lust of lucre reigns supreme. Our Engraving
+represents William-street, looking southward, from its junction with
+Exchange-place. On the left is the entrance to the Public Stock
+Exchange. Further down is seen the "fork" of South William, Beaver,
+and Hanover streets; and, on the right, at the junction of Beaver and
+Hanover streets, is the "down town" establishment of Delmonico, the
+great "restauranteur" of New York. The central building in the
+background is occupied by a firm of railway agents and a sign-painter,
+whose joint enterprise has rendered the edifice a wonder of lettered
+iridescense. Warehouses of different descriptions continue the vista,
+and extend to the wharves along the southern and eastern sides of the city.</p></div2>
 
 <div2 id="iln45.1266.008" n= "The American Mail Steamer at Roche's Point." type="Article">
 <head>THE AMERICAN MAIL STEAMER AT ROCHE'S POINT.</head>
@@ -3593,7 +3613,7 @@ population."</p></div2>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1274</biblScope>
-<biblScope type="pages">p. 191</biblScope>
+<biblScope type="pages">p. 191-193</biblScope>
 <date value="1864-08-20">August 20, 1864</date>
 <extent></extent>
 </bibl>
@@ -3628,9 +3648,26 @@ must now be much exposed to the Federal fire.</p>
 <p>Petersburg was occupied at one time by the British troops in the
 Revolutionary War. They approached by the same route now adopted by
 the Federal Generals--namely, by way of James River to City Point,
-where an army was landed, under General Phillips, in<pb n="192"/>
-
-</p></div2>
+where an army was landed, under General Phillips, in<pb n="193"/>
+1781, and marched ino the city. The British, on hat occasion,
+destroyed quantities of tobacco and burned down all the fences and
+many wooden buildings for fuel. While General Phillips lay ill of a
+bilious fever at Bolingbroke House, a private mansion which he had
+made his head-quarters, the Americans, under General La Fayette,
+cannonaded the town from Archer's-hill, on the side which is shown in
+our Engraving, directing their fire particularly against Bolingbroke
+House, in order to avenge the depredations of the "invaders," so that
+poor General Phillips--of whom Jefferson said, "he is the proudest
+man of the proudest nation upon earth"--was conveyed to the cellar
+for safety, where he exclaimed, "Won't they let me <hi
+rend="italic">die</hi> in peace?" However, not the cannon-ball but
+the fever terminated his existence, and he was buried in Blandford
+churchyard. One week later Lord Cornwallis entered the town from
+Wilmington, on the south, by the same line on which the Federals are
+now threatening the town; and his Lordship fixed his head-quarters at
+Bolingbroke House. A great part of Petersburg stands on high ground,
+much exposed to the fire from neighbouring hills.</p>
+<p>General Winfield Scott is a native of Petersburg.</p></div2>
 
 <div2 id="iln45.1275.001" n= "Foreign and Colonial Intelligence: America." type="Article">
 <head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
@@ -6630,8 +6667,8 @@ war....</p></div2>
 off friendly relations with the United States on account of the
 seizure of the FLorida.</p></div2>
  
-<div2 id="iln45.1288.002" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln45.1288.002" n= "Foreign and Colonial Intelligence." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
@@ -6642,6 +6679,15 @@ seizure of the FLorida.</p></div2>
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
+<p rend="center">BRITISH NORTH AMERICA.</p>
+<p>....After some hesitation on the part of the Hon. M. Edmonds, who
+represents the United States Government, the further proceedings in
+connection with the trial of the St. Albans raiders have been
+transferred from St. John to Montreal. The Judges at Montreal had
+refused to grant a writ of habeas corpus for the raiders, on the
+ground that they were still under the magistrates' jurisdiction, and
+that no commitment had been made. A judicial investigation into the
+affair, under the Ashburton Treaty, was in progress at Montreal....</p>
 <p rend="center">AMERICA.</p>
 <p>We had hoped that the New York or the City of Glasgow would have
 brought us news of the result of the presidential election. Both these
@@ -7265,7 +7311,15 @@ latter quotation.</p>
 one of the principal cashiers of the Mercantile Bank in that city, has
 absconded, leaving a deficiency in his accounts of nearly
 &#x00A3;50,000. The Mercantile Bank, after deducting this loss, has
-still a reserve of about &#x00A3;90,000.</p></div2>
+still a reserve of about &#x00A3;90,000.</p>
+<p rend="center">BRITISH NORTH AMERICA.</p>
+<p>....A Quebec telegram says:--"Prominent men from the Northern
+States are here urging the Canadian Government to energetic
+co-operation with the American authorities to preserve the peace of
+the frontier. Efficient measures on the part of the Canadian
+Government have been taken."</p>
+<p>The examination of the witnesses in the St. Alban's raid was
+proceeding slowly in Montreal.</p></div2>
 
 <div2 id="iln45.1289.004" n= "Master Willie Pape" type="Article">
 <head>[MASTER WILLIE PAPE]</head>
@@ -7874,172 +7928,1502 @@ more particularly by the Prussians, is that known as 'weiss bier,' or
 white beer. This is a light, frothy beverage, brewed from one part of
 barley malt and five parts of wheat. Like all wheat beers, it speedily
 turns sour, on which account it must be consumed while it is yet fresh
-and new.
+and new. It has a sickly, swilly, flavour, and, because of the immense
+head of froth it carries, is drunk out of tall glasses resembling lamp
+chimneys. Its price is usually the same as that of the common lager
+beer.</p>
+<p>"There is hardly a street, lane, or alley in the city of New York
+in which the lager beer saloon, in some of its various forms, is not
+to be<pb n="561"/> found. The Garten Wirthschaft, a tavern with a
+small pretence of rural verdure attached to its premises, is most
+endeared to the contemplative Teuton, who loves to take his leisure
+under the greenwood tree. Some of these beer gardens, especially in
+the eastern part of the city, are on an immense scale. There are two
+or three in the Bowery that can each accommodate at least a thousand
+sitters. A portion of these buildings opens to a small plot of ground,
+roofed over with glass or canvas, and sparsely studded with sickly
+shrubs. Generally, there is a little fountain in full play, with
+goldfish and small turtles swimming about in its basin. Music is
+always a leading attraction here. From the afternoon until a late hour
+of night the band performs industriously in a gallery high overhead;
+and each musician removes the ophicleide or flute from his lips only
+to refresh them with a mug of lager beer. In the intervals of the
+music the players light their pipes or cigars, and sit gravely
+studying the scores before them. In some of these places there is a
+small stage at one end, with a piano and a stout woman in fancy
+costume who sings gutturally to the twanging of a monstrous
+guitar. The company are chiefly well-to-do mechanics and tradespeople,
+who bring their wives, and children with them, and even the baby is
+sure to be treated with a modicum of the ruddy malt. The waiters
+deftly wind in and out through the crowd, with three or four mugs in
+each band and a couple of glasses on the top. Small girls parade up
+and down with little trays of sweetmeat for sale. Games of various
+kinds are carried on in the side alleys. There is Invariably a
+shooting-gallery, where, at a distance of some twelve paces, the bold
+marksman from the Black Forest pops little shuttlecock bolts from a
+spring gun at a grotesque figure made of painted wood, which, on being
+wounded in the 'bull's-eye,' whisks round on a pivot and jerks into
+its place a lovely woman, also of painted wood. The walls in some of
+these places are adorned with cartoons of wondrous device. Sigel, the
+chosen war-chief of the American Germans, figures often in a terrible
+battle-piece, rushing, on his fiery steed, over a field thickly sown
+with the bodies of dying and dead Confederates.</p>
+<p>"As in Bavaria, so in New York, most of the great breweries have
+<hi rend="italic">bier gartens</hi> or saloons annexed to them in
+which the refreshing beverage is dispensed cool and fresh from the
+vaults. Conspicuous on the right bank of the Hudson River, about five
+miles above New York, stands a tall, white, tower-like structure, with
+a red roof. This is the great Guttenburg brewery, built against those
+grand rocks called the 'Palisades.' in which its immense cellars and
+storehouses are excavated. In the top story of this building, which is
+flush with the upper road and reached by a 'Jacob's ladder' of steep
+steps from the lower, there is a spacious hall containing billiard
+tables, a piano, and a bar for the lager beer and the pleasant
+vintages of the Rhine."</p></div2>
 
- It has a sickly, 'wi1'v ulivur, and, because of the Immense head of froth it carria. , tlr.n,k of tail
+<div2 id="iln45.1290.005" n="Election Day in New York: A Polling-Place
+      Among the 'Upper Ten.'; A Polling-Place among the 'Lower
+      Twenty.'--See Preceding Page." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1290</biblScope>
+<biblScope type="pages">p. 560</biblScope>
+<date value="1864-12-03">December 3, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p560">
+<head>ELECTION DAY IN NEW YORK: A POLLING-PLACE
+      AMONG THE 'UPPER TEN.'; A POLLING-PLACE AMONG THE 'LOWER
+      TWENTY.'--SEE PRECEDING PAGE.</head>
+</figure>
+</p>
+</div2>
 
-glw'ses resembling lump chimneys. I. j -r ' a in as
+<div2 id="iln45.1290.006" n="Sketches from New York: Entertainment in
+      a Lager Beer Saloon." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1290</biblScope>
+<biblScope type="pages">p. 561</biblScope>
+<date value="1864-12-03">December 3, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p561a">
+<head>SKETCHES FROM NEW YORK: ENTERTAINMENT IN
+      A LAGER BEER SALOON.</head>
+</figure>
+</p>
+</div2>
 
-that of the common lager beer.  -
+<div2 id="iln45.1290.007" n="Sketches from New York: A Lager Beer
+      Brewery at Guttenburg, on the Hudson River." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1290</biblScope>
+<biblScope type="pages">p. 561</biblScope>
+<date value="1864-12-03">December 3, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p561b">
+<head>SKETCHES FROM NEW YORK: A LAGER BEER
+      BREWERY AT GUTTENBURG, ON THE HUDSON RIVER.</head>
+</figure>
+</p>
+</div2>
 
-"There is hardly a street, Inure, or 'Iay in c'.y of Ne'v 'k in
+<div2 id="iln45.1290.008" n="Sketches from New York: A Garten Wirthschaft." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1290</biblScope>
+<biblScope type="pages">p. 561</biblScope>
+<date value="1864-12-03">December 3, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p561c">
+<head>SKETCHES FROM NEW YORK: A GARTEN WIRTHSCHAFT.</head>
+</figure>
+</p>
+</div2>
 
-which the loge- let 'slc'c'n, in snne of i's var' forms, is ant lobs
-fount The Garten Wirthscha!t, a tavern with a small pretence of rend verdure attached to its premises, is most endeared to the conteniplative Teuton, who loves to take his leisure under the greenwood tree. Some of these bear gardens, especially in the eastern part of the clLy, arson an immense scale. There are two or three in the Bowery that can each accommodate at least a thousand sitters. A portion of these buildings opens to a small plot of ground, roofed over with glass or canvas, and sparsely studded with sickly shrubs. Generally, there
+<div2 id="iln45.1290.009" n= "The Presidential Contest In America." type="Article">
+<head>THE PRESIDENTIAL CONTEST IN AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1290</biblScope>
+<biblScope type="pages">p. 566</biblScope>
+<date value="1864-12-03">December 3, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE PRESIDENTIAL CONTEST IN AMERICA.<lb/>(<hi
+rend="italic">From a Correspondent.</hi>)</p>
+<p rend="right"><hi rend="smallcaps">New York</hi>, Nov. 10.</p>
+<p><hi rend="smallcaps">The</hi> presidential
+election--notwithstanding all the efforts made by Mr. Seward and
+others to frighten the people about attempted raids from Canada, and
+silly plots to burn down New York and other cities--has passed over
+with the utmost quiet and decorum. The weather on Tuesday was anything
+but pleasant; but the people were in the best of tempers, and were not
+even provoked into impatience by the presence of General Butler and a
+large military force, but went to the work of voting as peaceably as
+though it were a common election for a parochial or a municipal
+office. The result in New York was largely in favour of General
+M'Clellan, as most people anticipated; but everywhere else--from Maine
+to Maryland, and from New Jersey to Minnesota--the contest was
+exceedingly close, and the votes polled much larger than usual. The
+returns for the more distant States have not yet been received, nor
+have the estimates been accurately made even in this city; but enough
+is known of the aggregate results to prove that Mr. Lincoln has been
+elected by a considerable majority of the people--some say 200,000 and
+others 400,000--and by an electoral vote in the colleges of more than
+two to one. It is impossible for any critic or observer, native or
+foreign, who considers how violently the passions of the people have
+been inflamed; what antagonisms of principle, as well as conflicts of
+material interest, have been excited by the war; and what tremendous
+issues were involved in the result of the election, to avoid the
+expression of cordial admiration for the manly self-control which the
+people exhibited on this memorable occasion. The spectacle is declared
+by the Americans themselves to have been one of the highest moral
+grandeur, if not of sublimity; and, though our cousins on this side of
+the water are somewhat too much in the habit of using fine words and
+indulging in hyperbole, no one who witnessed the long lines of busy
+men, neglecting their business for awhile to attend to the more
+important business of the State, and waiting patiently in the street
+amid the fog and rain until it came to their turn to deposit their
+balloting-paper in the appointed box--using no jostling in pressing,
+indulging in no altercation with each other on the exciting subject
+which drew them together, and in every way behaving with as much
+subdued dignity as if they were attending a place of worship--can deny
+that the encomium is abundantly merited. Rich and poor--the
+millionaire and the Irish coachman who drove him to the poll--the
+owner of ships, and railway shares, and lands, and houses, and the
+keeper of the chandler's shop or corner grocery--the employer of
+labour and the labourer himself--all stood quietly together, the great
+man neither attempting to persuade nor to coerce the little one, but
+each leaving the other to his own right of private judgment and the
+duty of acting as he thought best for the interests of the country. No
+breach of the peace occurred during the day, either in New York or any
+other part of the country; and nothing like popular excitement of any
+kind occurred until the close of the polls, at sunset. Shortly after
+that time, the anxiety to learn the result drew the people out in
+great numbers to the newspaper and telegraphic offices, the great
+hotels, and other places of public resort, where vast crowds remained
+until two or three o'clock in the morning, greeting each announcement
+of a victory for their favourite candidate in the city wards or in
+remoter towns with vociferous cheers; and of a victory for their
+opponents with hisses and groans. But even here the utmost good humour
+prevailed. By order of the police authorities, all the "grogshops,"
+"rum-holes," taverns, and groceries where liquor is sold had been
+closed during the day. This order is always promulgated on the day of
+a presidential election, but is never very generally obeyed. On
+Tuesday, however, it was rigidly enforced, and the
+spirit-dealers--perhaps with a wholesome terror of the redoubtable
+General Butler before their eyes, lent themselves to the arrangement
+with unwonted alacrity, and closed even the back doors, by which their
+favourite customers and friends might have been furtively admitted. On
+the morrow the city resumed its usual appearance. The full tide of
+life and business flowed as freely and rapidly as before. The result
+of the voting, however, did not appear to be favourably received in
+Wall-street; for the premium on gold advanced from ten to twelve
+percent as soon as it became authoritatively known that Mr. Lincoln's
+re-election was beyond a doubt. The Democratic party as yet has borne
+its defeat with exemplary equanimity; and the abuse of Mr. Lincoln,
+and the hard words and unsavoury epithets in which his opponents were
+wont to indulge towards him while he stood in the position of a
+candidate ceased, as if by common consent, as soon as his election
+became an admitted fact. It would almost appear as if the party were
+demoralised by their defeat. Up to the last moment, and perhaps led
+away by the enthusiasm which existed for General M'Clellan in the city
+of New York, they did not think it possible that their candidate could
+be defeated; and hence did not duly reflect upon their proper line of
+policy, if that event should occur. It will take time to recover from
+the rout. Federal victories in the field, should these occur, will
+keep them for a while in the background; but at the first serious
+reverse to Northern arms and the first real pressure of the inevitable
+conscription, accompanied, as these would assuredly be, by
+perturbations in the sensitive money market, they will take heart of
+grace, rally their broken and scattered legions, and come before the
+public with something like a principle on which to stand. Mr. Lincoln,
+on his part, bears his new honours meekly as well as gracefully, and
+in a speech just delivered at the White House to a large crowd who
+came with music and banners to congratulate him on his re-election,
+spoke with the greatest good feeling and good taste of the necessity
+of oblivion for all the animosities engendered by the strife, and of
+his earnest desire to conciliate men of all parties. General
+M'Clellan, it appears, resigned his commission in the Federal army on
+the morning of the election, and before the result could possibly be
+anticipated on better ground than the hope of either party. Should
+Mr. Lincoln refuse to accept the resignation and appoint his
+unsuccessful rival to such high command in the army as his genius, his
+character, and (in spite of his defeat) his undoubted popularity,
+warrant the President in giving and the General in accepting, he will
+effect a masterstroke of policy. It remains to be seen whether he will
+be magnanimous enough to do so.</p></div2>
 
-is a little fountain in full play, with goldfish and small turtles swim-ming about in its basin. Music is always a leading attraction here. From the afternoon until a late hour of night the band performs indnstrioualyin a gallery high overhead; and each musician removes the ophicleide or flute from his lips only to refresh them with a mu of lager beer. In the intervals of the music the players light tieir Pipes or cigars, and sit gravely studying the scores before them. In
+<div2 id="iln45.1290.010" n= "Echoes of the Week." type="Article">
+<head>ECHOES OF THE WEEK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1290</biblScope>
+<biblScope type="pages">p. 567</biblScope>
+<date value="1864-12-03">December 3, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">ECHOES OF THE WEEK.</p>
+<p>....While Mr. Lincoln is getting up a proclamation hinted at by
+General Butler after the episode of the double revolvers, which will
+offer to the Southerners an unconditional amnesty, leaders included,
+if they will at once return to their Northern brethren, the Canadians
+we debating under what name their country shall henceforward be
+known. Some propose Canadia, differing only in one letter; but others,
+to mark their and the pride they have in it, suggest New Britain,
+Britannia, and West Britain. The unanimity of feeling amongst all
+classes is very delightful. Even the Yankee reporter of the <hi
+rend="italic">New York Herald</hi>, a gentleman who, we presume, has
+now and then been employed in ridiculing "Canadian bluenoses" and
+throwing mud at "old Mother England," could not fail to be struck with
+the attachment shown to the mother country. It appears to have at once
+astonished and perplexed him. It cannot, however, fail to gratify
+us. Britain does not want, in spite of Professor Somebody and
+Chancellor Blank, to be severed from her colonies. The war in America
+has done her and them this service--it has taught them that the
+constitution they possess is really the freest in the world, and that
+the bonds which bind them in allegiance to the mother country, though
+as strong as steel, are, as they wear them, as light as silken
+fetters....</p></div2>
 
-some of these places there Is a small stage at one end, with a and a stout woman in fancy costume who sings guttum1 to the twanging of a monstrous gaiter. The companyd are chiefly well-to-do mechanics and tradespeople, who bzlng eir wives, and children with them, and even the baby is sure to be treated with a modicum of the ruddy malt. The waiters deftly with inandoutthrniighthecrowd, with three or tour mugs in each band and a couple of glasses on the top. Small girls parade up and, down with little trays of sweetmeat for sale. Games of various kinds are carried on in the side alleys. There is Invariably a shooting-gallery, where, at a distance of some twelve paces, the bold marksman from the Black Forest pops little shuttlecock bolts from a spring gun at a grotesque figure made of painted wood, which on being wounded in the 'bull's-eye,' whisks round on a pivot an jerks into its place a lovely woman, also of painted wood. The walls in some of these
+<div2 id="iln45.1291.001" n= "Foreign and Colonial News: America." type="Article">
+<head>FOREIGN AND COLONIAL NEWS: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1291</biblScope>
+<biblScope type="pages">p. 574</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+NEWS.</hi></p>
+<p rend="center">AMERICA.</p>
+<p>By the Peruvian and the City of London we have New York dispatches
+to the afternoon of the 26th ult.</p>
+<p>General Sherman is making his way through the heart of Georgia,
+laying waste the whole country in the track of his columns. There is,
+however, little as yet positively known as to his movements, and these
+is no certainty as to the point at which he is aiming. It seems as if
+he were making for Augusta, one portion of his cavalry having reached
+Gordon. He appears to have extended his army along a wide extent of
+country, and had burned several towns through which he passed. There
+was a report that he had captured Macon, but this is not confirmed. On
+the contrary, at the last account, the Confederate General Wheeler
+with his cavalry was said to be disputing the advance of Sherman's
+column on that place. General Beauregard had telegraphed that he would
+soon be in Georgia to aid in repelling the invader, and he requested
+the people to destroy everything before Sherman, so that he could not
+live on the country. The Georgian representatives had also telegraphed
+a similar request. Meantime, the militia were mustering in all
+directions, and orders had been given that the local forces of North
+and South Carolina should go beyond the borders of their own States to
+assist in repelling the bold Federal. Hood was progressing rapidly in
+Tennessee. He was advancing on Pulaski, from which the Federals were
+retreating, making for Columbia, where an engagement was
+expected. Thus we have the remarkable spectacle of a Federal General
+making his way by fire and sword through the rich cotton State of
+Georgia, and of the Confederate General so lately opposed to him
+carrying at the same time the war northward.</p>
+<p>At Petersburg no active movement had taken place; but the
+Confederates were reported to be mining under Grant's lines. On a late
+Federal reconnaissance in the Shenandoah Valley Early was found in
+strong force at Rood's Hill.</p>
+<p>President Lincoln has issued a proclamation announcing that the
+blockade of the ports of Norfolk, Virginia, and Pensacola and
+Fernandina, Florida, should be raised on Dec. 1, when those ports
+would be opened to commerce, excluding only articles contraband of
+war.</p>
+<p>The exchange of prisoners of war is still in progress at
+Savannah. At last accounts nearly 4000 had been exchanged.</p>
+<p>The Hon. Reuben E. Fenton, Governor Elect of the State of New York,
+in responding to a serenade at the Astor House, stated that hereafter
+the State should occupy no hesitating or equivocal position. The issue
+presented to the people, he said, was whether they would maintain the
+Government in its integrity, or whether the advantages gained over the
+Confederates should be surrendered, thus acknowledging the inability
+of the North to maintain the contest and becoming the laughing-stock
+and derision of mankind.</p>
+<p>It is reported from Washington that Lord Lyons has almost recovered
+from his recent illness.</p>
+<p>An attempt was, we are told, made, on the night of the 25th ult.,
+to set fire simultaneously to a number of the great hotels, theatres,
+and public buildings of New York; but it is added that little damage
+was done. Two of the alleged incendiaries had been apprehended, and it
+was supposed that Confederate emissaries were connected with the
+plot.</p>
+<p>The latest quotation of gold at New York was 122&#x00BD; per cent
+premium.</p>
+<p>The Canadian authorities, finding that the Southerners were
+collecting munitions of war at various points, had prohibited the
+exportation of arms.</p></div2>
 
-places are adorned with cartoons of wondrous device. Sigel, the chosen war-chief of the American Germans, figures often In a terrible battle-piece, rushing, on his fiery steed, over a. field thickly sown with the bodies of dying and dead Confederates.
+<div2 id="iln45.1291.002" n= "Peyton Falls, in Virginia." type="Article">
+<head>PEYTON FALLS, IN VIRGINIA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1291</biblScope>
+<biblScope type="pages">p. 575</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">PEYTON FALLS, IN VIRGINIA.</p>
+<p><hi rend="smallcaps">We</hi> have engraved on another page a
+sketch, by an amateur artist, of Peyton Falls, in the Allegheny
+Mountains, Western Virginia. This romantic and beautiful cascade is on
+the Falling Spring, a brook tributary to Jackson's River. It is
+situated in the district or township which was once known as West
+Angesita, a place remarkable for the courage and patriotism of its
+inhabitants. This is the place to which Washington referred when he
+said, in the darkest days of the American Revolution, "Give me but a
+banner, and I will plant it upon the mountains of West Augusta, and
+rally around me the men who will raise our bleeding country from the
+dust and set her free!" Stonewall Jackson, the hero of the present
+unhappy civil war, as well as many officers of his immortal brigade,
+was a native of this district. It was near Peyton Falls, indeed, that
+one of the first battles of the civil war occured--that of Rich
+Mountain, in which fell General R. S. Garnett <pb n="576"/>and Colonel
+John A. Washington. Peyton Falls is the highest cascade or waterfall
+in America, being 200 ft. in height, while that of Niagara is only 150
+ft. The principal stream, however, is only about 10 yards wide at the
+top and a little more spread at the bottom of the fall. The water is
+bright and sparkling, and the stream in other parts is full of
+trout. Near the cascade there is a mineral spring of rare curative
+properties.</p></div2>
 
-'Aa in Bavaria, so in New York, most of the great breweries have
+<div2 id="iln45.1291.003" n="Peyton Falls, Alleghany county, Virginia." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1291</biblScope>
+<biblScope type="pages">p. 576</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p576">
+<head>PEYTON FALLS, ALLEGHANY COUNTY, VIRGINIA.</head>
+</figure>
+</p>
+</div2>
 
-bier garf¿is or saloons annexed to them in which the refreshing biverage is dispensed cool and freak from die venite. (oospeuoa. i the right bank of the fludson River, about live miles shove New Yo* stands a tall, white, tower-like structure, with a red roof. lbla is the' great Gnttoribcrg Imtewery, built against those grand rocks called the rpaliBades in xz1ch its IY'-e CORM and sterehoesea are vated. In the top story of this building, which is flush with the upper road and reached by Jacob's ladder' of steep steps from the lower, there is a. spacious hail containing b&Ij tables, $ lano, and a bar for the lager beer and the pleasant vintages of the Bhzne."
-THE PRESIDENTIAL CONTEST IN AMERICA. (From a Correspondent.)
-
-lTw YORK, Nov. 10.
-
-THE presidential election-notwithstanding all the efforts made by
-
-Mr. Seward and others to frighten the people about attempted raids from Canada, and silly, plots to burn down New York and other cities-has passed over with the utmost quiet and decorum. The weather on Tuesday was anything but pleasant: but the people were in the best of tempers, and were not even provoked into impatience by the presence of General Butler and a large military force, but went to the 'work of -voting as peaceably as though it were a common election for a parochial or a municipal office. The result in New York was largely in favour of General M'Clellan, as most people anticipated; but everywhere else-from Maine to Maryland, and from New Jersey to Minnesota-the contest was exceedingly close, and the votes polled much larger than usual. The returns for the more distant States have not yet been received, nor have the estimates been accurately made even in this city; but enough is known of. the aggregate results to prove that Mr. Lincoln has been elected by a considerable majority of the people-some say 200,000 and others 400,000-and by an electoral vote in the colleges of more than two to one. It is impossible for any
-
- ¥ critic or observer, native or foreign, who considers how violently the
-
-passions of the people have been inflamed; what antagonisms
-
-of pinciple,, as well as conflicts of material interest, have been excited by the war; and what tremendous issues were involved in the result of the election, to avoid the expression of cordial admiration for the manly self-control which the people exhibited on this memorable occasion. The spectacle is declared by the Americans themselves to have been one of the highest moral grandeur, if not of sublimity; and, though our cousins on this side of the water are somewhat too much in the habit of using fine words and indulging in hyperbole, no one who witnessed the long lines of busy men, neglecting their business for awhile to attend to the more important business of the State, and waiting patiently in the street amid the fog and rain until it came to their turn to deposit their balloting-paper in the appointed box-using no jostling in pressing, indulging in no altercation with each other on the exciting subject which drew them together, and in every way behaving with as much subdued dignity as if they were attending a place of worshipcan deny that the encomium is abundantly merited. Rich and poorthe millionaire and the Irish coachman who drove him to the pollthe owner of ships, and railway shares, and lands, and houses, and the keeper of the chandler's shop or corner grocery-the employer of labour and the labourer himself-all stood quietly together, the great sian neither attempting to persuade nor to coerce the little one, but each leaving the other to his own right of private judgment and the duty of acting as he thought best for the interests of the country. No breach of the peace occurred during the day, either in New York or any other part of the country; and nothing like popular excitement of any kind occurred until the close of the polls, at sunset. Shortly after that time, the anxiety to learn the result drew the people out in great numbers to the newspaper and telegraphic offices, the great hotels, and other places of public resort, where vast crowds remained until two or three o'clock in the morning, greeting each announcement of a victory for their favourite candidate in the city wards or. in remoter towns with vociferous cheers; and of a victory for their opponents with hisses and groans. But even here the utmost good humour prevailed. By order of the police authorities, all the "grogshops," "rum-holes," taverns, and groceries where liquor is sold had been closed during the day. This order is always promulgated on the day of a :presideutiul election, but is never very generally obeyed. On Tuesday, however, it was rigidly enforced, and the spirit-dealersperhaps with a wholesome terror of the redoubtable General Butler before their eyes, lent themselves to the arrangement with unwonted alacrity, and closed even the back doors, by which their favourite customers and friends might have been furtively admitted. On the morrow the city resumed its usual appearance. The full tide of life and business flowed as freely and rapidly as before. The result of the voting, however, did not appear to be favourably received in Wail-street; for the premium on gold advanced from ten to twelve percent as soon as it became authoritatively known that Mr. Lincoln's re-election was beyond a doubt. The Democratic party as yet has borne its defeat with exemplary equanimity; and the abuse of Mr. Lincoln, and the hard words and unsavoury epithets in which his opponents were wont to indulge towards him while he stood in the position of a candidate ceased, as if by common consent, as soon as his election became an admitted fact. It would almost appear as if the party were demoralised by their defeat. Up to the last moment, and
-party were demoralised by their defeat. Up to the last moment, and
-
-perhaps led away by the enthusiasm which existed for General McClellan in the city of New York, they did not think it possible that their candidate could be defeated; and hence did not duly reflect upon their proper line of policy, if that event should occur. It will take time to recover from the rout. Federal victories in the field, should these occur, will keep them for a while in the background; but at the first serious reverse to Northern arms and the first real pressure of the inevitable conscription, accompanied, as these would assuredly be, by perturbations in the sensitive money market, they will takeheart of grace, rally their broken and scattered legions, and come before the public with something like a principle on which to stand. Mr. Lincoln, on his part, bears his new honours meekly as well as gracefully, and in a speech just delivered at the White House to a large crowd who came with music and banners to congratulate him on his re-election, spoke with the greatest good feeling and good taste of the necessity of oblivion for all the animosities engendered by the strife, and of his earnest desire to conciliate men of all parties. General M'Clellan, it appears, resigned his commission in the Federal army on the morning of the election, and before the result could possibly be anticipated on better ground than the hope of either party. Should Mr. Lincoln refuse to accept the resignation and appoint his unsuccessful rival to such high command in the army as his genius, his character, and (in spite of his defeat) his undoubted popularity, warrant the President in giving and the General in accepting, he will effect a masterstroke of policy. It remains to he seen whether he will he magnanimous enough to do so.
-ile Mr. Lincoln is getting up pr lamati hinted at by General Butler after the episode of the double revolvers, which will offer to the an unconditional amnesty, leaders included, if they will oeee return to their Northern brethren the Canadians we debating mda hat name their country shall henceforward be known. Some (adin., differing only in one letter; but others, to mark their and the pride they have in it, suggest New Brit, Biitannia, d West Britain. The unanimity of feeling amongst all classes is y delightful. Even the Yankee reporter of the .Yew York Herald; sgentieman who, we presume, has now and then been employed in rjLijculing "Canadian bluenoses" and throwing mud at "old Mother England, could not fail to be struck with the attachment shown to the miller country. It appears to have at once astonished and perplexed him. It cannot, however, fail to gratify us. Britain does not want, l spite of Professor Somebody and Chancellor Blank, to be severed from her colonies. The war in America has done her and them this -Vice-it has taught them that the constitution they posseas is
-
-ly the freest in the world, and that the bonds which bind them in
-
-allegiance to the mother country, though as strong as steel, are, as they wear them as light as silken fetters.
-
-rw
-AMERICA.
-
-By the Peruvian and the City of London we have New York dispatches to the afternoon of the 26th nit.
-
-General Sherman is making his way through the heart of Georgia, laying waste the whole country in the track of his columns. There is, however, little as yet positively known as to his movements, and these is no certainty as to the point at which he is aiming. It seems as if he were making for Augusta, one portion of his cavalry having reached Gordon. He appears to have extended his army along a wide extent of country, and had burned several towns through which lie passed. There was a report that he had captured Macon, but this is not confirmed. On the contrary, at the last account, the Confederate General Wheeler with his cavalry was said to be disputing the advance of Sherman's column on that place. General Beauregard had telegraphed that he would soon be in Georgia to aid in repelling the invader, and he requested the people to destroy everything before Sherman, so that he could not live on the country. The Georgian representatives had also telegraphed a similar request. Meantime, the militia were mustering in all directions, and orders had been given that the local forces of North and South Carolina should go beyond the borders of their own States to assist in repelling the bold Federal. Hood was progressing rapidly in Tennessee. He was advancing on Pulaski, from which the Federals were retreating, melting for Colombo, where an engagement was expected. Thus we have the remarkable spectacle of a Federal General making his way by fire and sword through the rich cotton State of Georgia, and of the Confederate General so lately opposed to him carrying at the same time the war northward.
-
-At Petersburg no active movement had taken place; but the Con
-
-federates were reported to be mining under Grant's lines. On a late Federal reconnaissance in the Shenandoah Valley Early was found in strong force at Rood's Hill.
-
-President Lincoln has issued a proclamation announcing that the blockade of the ports of Norfolk, Virginia, and Pensacola and Farntsndina, Florida, should be raised on Dec. 1, when those ports would be opened to commerce, excluding only articles contraband of war.
-
-The exchange of prisoners of war is still in progress at Savannah.
-
-At last accounts nearly 4000 had been exchanged.
-
-The Hon. Reuben E. Fenton, Governor Elect of the State of New York, in responding to a serenade at the Astor Rouse, stated thdt hereafter the State should occupy no hesitating or equivocal position. The issue presented to the people, he said, was whether they would maintain the Government in its integrity, or whether the advantages gained over the Confederates should be surrendered thus acknowledgin the inability of the North to maintain the contest and becoming the laughing-stock and derision of mankind.
-
-It is reported from Washington that Lord Lyons has almost
-
-recovered from his recent illness.
-
-An attempt was, we are told, made, on the night of the 25th tilt., to set fire simultaneously to a number of the great hotels theatre
-
-and public buildings of New York; but it is added that little damage was done. Two of the alleged incendiaries had been apprehended, and it was supposed that Confederate emissaries were connected with
-
-tlottest 9
-
-h9e I . uotation of gold at New York was 1221 per cent premium.
-
-The Canadian authorities, finding that the Southerners were collecting munitions of war at various points, had prohibited the exportation of arms.
-PYTO FALLS fl VIRGINIA.
-
-WE have engraved on another page a sketch, by an smteur art
-
-of Peyton afla, in the Allegheny Mountains. Western v:-t.
-
-This romantic and beantiM cascade i on the Falling Spring. a lo ik tributary to Jat1uon'a River It Is situated in the dherict tft t.r.Yihip Ideh was once known its West Angesita, ap1ace rctntble for
-
-t)-
-
-Urac and patriotlam of itt **anta. This it the plie wbth
-
-a. on referred when he said, in the darkest thtys f the .critn
-
-Revolt ttion, "Give me but a banner, and I will plant it upn rt
-
-mmtaIn of \%'%t Augtsta. and rally tumin1 we the men who w11 raic iwr bkcfling country from the thtt auti ,et her free S: t,v.ifl
-
-Jkor, the hero of the le-ei unhappy eirl war, n wel ai many
-
-&,f ] immortal biiuIe. wtt it i live fit thi i,'rct. Ii. wa :e I'c'un Palls, 1.il. Uint on of iii" On-At batih' of the "vl war
-
-rcii-tkat of JUeb i:tdn, in a htch fy11 Urneral It. S
-and Colonel John A. Washington. Peyton Falls is the highest cascade or waterfall in America, being 200 ft. in height, while that of Niagara is only 150 ft. The principal stream, however, is only about 10. yards wide at the top and a little more spread at the bottom of the falL The water is bright
-
-=d klin d the stream in other parts is fuR of trout. Year the =7e.'L Mi.,,al spring of rare curative properties
-AcAnc, England, in peace and prosperity, is preparing for the
-
-great Christian festival, and again she has to look sadly acro the eea. where those who own her blood and speak her tan uage are ergaged in the fourth year of a frightful war. It would seem, indeed, that every mail is destined to bring tidings that the ordinary horrors of strife are increased by some new barbarism. We have heard of whole districts laid wte; we have heard of prisoners being placed under fire have heard of other prisoners murdered in cold blood, liv side as a deed of vengeance, by the other as a deed of repri.,sZ we have heard. of a great army marching off mysteriously ti strike some heavy llow, nad lighting up conflagration a along its way, The last maiLs add another feature to ti savage story. We learn that eight or nine great tires brok out in New York the fame night. and. that thee wer the work of a body of leagued incendiaries in the interest of the (Jon. federates. They selected places where numbers of pe-no is were assembled, some of the localities being places of ment. and, but for early dieovery, the most frightful car'isg would have been wrought. It is no longer in the mnntlu of those who have in any degree aided or. abetted in tii'i villanotis attempts to complain of the rough del. of Federal commanders. Those who could plan th¥- firit, of theatres, where, even if tile fire were sutiln 1, the panic must almost inevitably can se of lire t, wcimn and children, are beyond tht pale of civilisation. It will b; usele.s to endeavour to lay the crime to the charge of volunteer desperadoes. We have ourselves read, weeks ago, notice Pt Vie Southern ralcin that such schemes were in hand; icnl we ci 'served that they were applantled as a rightful reveug for atrocities stated-and. we dare say, with truth-to have beeft
-
-committed by Federal soldiers. In short, the war h. %s assumed a character so savage that we cannot bat feel that if a stern military dictator of real genius. of tile Ifitpolean":,. thlcr, could arise and could bring the war to a sadden ael violent end it would be well for humanity. The pictures new presented all over the Union, and. what was the Union, are to shocking to be e subject of ordinary social conversation, and the topic is now put aside with sadness. And. we write thi4 but a few days from another Christmas Day.
-
-At the season now rapidly approaching all who are resily open to the sacred influence of the time will assuredly ask' themselves whether Englishmen have done their duty to their American brethren in regard to the war. It is enough that at our Christmas we are afraid to talk of America; it wcnill be unhappy indeed did we feel that any conduct of outs hart conduced to the continuance of the Strife. or that aily exertions to terminate it had been wanting on hur part. In no Pharisaical or sell-righteous spirit we say that. England may arroa.ch her altars and gather round her social boris with no reproach of conscience in this respect. From the first hour of the war to the present moment we have been resolutely neutral, while we have lost no chance of mediation that would not have been construed into offence. The Foreiga Minister s1 this country has declared, in the House of Lords, his conviction that the subjugation of the South would not be
-for the good of the Union nor for that of the African. To say
-
+<div2 id="iln45.1291.004" n= "Again, England, in peace and prosperity" type="Article">
+<head>[AGAIN, ENGLAND, IN PEACE AND PROSPERITY]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1291</biblScope>
+<biblScope type="pages">p. 579</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
+Saturday, December</hi> 10, 1864.</hi></p>
+<p><hi rend="smallcaps">Again</hi>, England, in peace and prosperity,
+is preparing for the great Christian festival, and again she has to
+look sadly across the sea, where those who own her blood and speak her
+language are engaged in the fourth year of a frightful war. It would
+seem, indeed, that every mail is destined to bring tidings that the
+ordinary horrors of strife are increased by some new barbarism. We
+have heard of whole districts laid waste; we have heard of prisoners
+being placed under fire; we have heard of other prisoners murdered in
+cold blood, by one side as a deed of vengeance, by the other as a deed
+of reprisal; we have heard of a great army marching off mysteriously
+to strike some heavy blow, and lighting up conflagration all along its
+way. The last mails add another feature to the savage story. We learn
+that eight or nine great fires broke out in New York the same night,
+and that they were the work of a body of leagued incendiaries in the
+interest of the Con federates. They selected places where numbers of
+persons were assembled, some of the localities being places of
+amusement, and, but for early discovery, the most frightful carnage
+would have been wrought. It is no longer in the mouths of those who
+have in any degree aided or abetted in these villanous attempts to
+complain of the rough deeds of Federal commanders. Those who could
+plan the firing of theatres, where, even if the fire were subdued, the
+panic must almost inevitably cause loss of life to women and children,
+are beyond the pale of civilisation. It will be useless to endeavour
+to lay the crime to the charge of volunteer desperadoes. We have
+ourselves read, weeks ago, notice in the Southern papers that such
+schemes were in hand; and we observed that they were applauded as a
+rightful revenge for atrocities stated--and, we dare say, with
+truth--to have been committed by Federal soldiers. In short, the war
+has assumed a character so savage that we cannot but feel that if a
+stern military dictator of real genius, of the Napoleonic order, could
+arise and could bring the war to a sudden and violent end it would be
+well for humanity. The pictures now presented all over the Union, and
+what was the Union, are too shocking to be the subject of ordinary
+social conversation, and the topic is now put aside with sadness. And
+we write this but a few days from another Christmas Day.</p>
+<p>At the season now rapidly approaching all who are really open to
+the sacred influence of the time will assuredly ask themselves whether
+Englishmen have done their duty to their American brethren in regard
+to the war. It is enough that at our Christmas we are afraid to talk
+of America; it would be unhappy indeed did we feel that any conduct of
+ours had conduced to the continuance of the strife, or that any
+exertions to terminate it had been wanting on our part. In no
+Pharisaical or self-righteous spirit we say that England may approach
+her altars and gather round her social boards with no reproach of
+conscience in this respect. From the first hour of the war to the
+present moment we have been resolutely neutral, while we have lost no
+chance of mediation that would not have been construed into
+offence. The Foreign Minister of this country has declared, in the
+House of Lords, his conviction that the subjugation of the South would
+not be for the good of the Union nor for that of the African. To say
 that the British press has never expressed exaltation at the
+disruption of an empire that had ever menaced us and our colonies is
+only to say that the organs of public opinion have been faithful, and
+that the spirit of Englishmen has been generous and kindly as of
+old. But the press deserves more than negative credit. The Federal
+population has never been aided by its own Government to know the real
+progress of the war or its various chances; but the English press has
+endeavoured to give this information with fidelity, in order to make
+our American brethren understand the true character of the work which
+their rulers have persuaded them can be accomplished by force. If,
+therefore, the North has chosen to commit itself to the war, and to
+elect a chief who has since pledged himself to carry it on until one
+party shall succumb from exhaustion, the terrible decision has been
+arrived at in face of the whole truth, which has been supplied by the
+press of England. We will not speak of certain well-meant, if
+injudicious, remonstrances which have been addressed to the
+Northerners, because we have not approved that kind of interference,
+and it is not upon sentimental grounds that a great people should be
+asked to alter its policy. The best thing that we could do for our
+American brethren was to tell them the truth, which they could not get
+from their own statesmen or journalists, and this has been done.</p>
+<p>Therefore, we may say without pride, but also without hesitation,
+that England has no guilt in respect to this war. At the festival
+which is approaching, and when thoughts and words of kindness should
+be the rule with all, we shall have little to say of America; but the
+lightest-minded will wish, earnestly, that long before another
+recurrence of the great feast the sword will have been sheathed. But
+beyond this England, as a nation, is not called upon to make her
+Christmas sad with American memories. We have done our duty, and we
+have a right to the peaceful enjoyment of the feast.</p></div2>
 
-disruption of an empire that had ever menaced us and our colonies is only to say that the organs of public opinion have leen faitbfnl, and that the spirit of Englishmen has been generous and kindly as of old. But the press deserves moro, than negative credit. The Federal population has never been aided by its own Government to know the real progress of the war or its variote chances but the English press has enilea. vonred to give this infoatlcn with fidelity, in order t mk
+<div2 id="iln45.1291.005" n= "Echoes of the Week." type="Article">
+<head>ECHOES OF THE WEEK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1291</biblScope>
+<biblScope type="pages">p. 582</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">ECHOES OF THE WEEK.</p>
+<p>....On Saturday night twenty-five gentlemen, some on the press and
+others gathered from the different classes of society, witnessed an
+especial s&#x00E9;ance with especially provided tests of the Davenport
+Brothers. The head of these gentlemen, Mr. Edmund Yates, wrote an
+account of this meeting, from which it would appear that the
+spiritualists were not quite so successful with these sceptics as with
+a mixed company of spectators. The gentlemen retired puzzled but not
+satisfied, the conclusion of the chief guest being that in calling the
+brothers "sorry mountebanks" he did them great injustice. "I believe
+them to be," he continues, "the very cleverest conjurors whose
+performances I have ever attended." This judgment is arrived at,
+perhaps, after too perfunctory an inspection. In the <hi
+rend="italic">Morning Post</hi>, Captain Richard Burton has deposed to
+some very startling deeds of these conjurors. Whilst suspending his
+belief, the great African traveller, who surely is sceptical enough on
+most points and who has seen most systems of Indian jugglery, deposes
+to hearing strange voices, feeling rough hands, seeing drops of fire
+from the ceiling, and beholding all those strange doings in the dark
+s&#x00E9;ance which have puzzled most of us. Mr. Howitt, in a
+recently-published letter, proclaims the ultimate triumph of
+spiritualism over the ignorant opposition of a ribald press, to the
+writers on which he calls out, "Go ahead, gentlemen, and in a very
+short time you will have pilloried yourselves amongst the opponents of
+vaccination, electricity, steam, and railroads to the amplest
+satisfaction of your very worst enemies...."</p></div2>
 
-our American brethren understand the true character the
+<div2 id="iln45.1291.006" n= "The Magazines." type="Article">
+<head>THE MAGAZINES.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1291</biblScope>
+<biblScope type="pages">p. 582</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE MAGAZINES.</p>
+<p>....<hi rend="italic">Blackwood's</hi> valuable series of papers on
+the Public Schools' Report is concluded with as much ability as it was
+commenced. We shoald be glad to see it reprinted. Both "Cornelius
+O'Dowd" and "Tony Butler" somehow fail to amuse this month, and the
+number would be dull, but for the American experiences of a cavalry
+officer lately returned from a year's excursion in Secessia. He does
+not seem, indeed, to be endowed with any more ample portion of
+intellectual brilliancy than is strictly proper in a heavy dragoon;
+his description of the great Confederate overthrow at Gettysburg is
+tame indeed after Colonel Freemantle's; and, though he seems to have
+been on intimate terms with the Secessionist leaders, he seems unable
+to relate a single anecdote or convey the most unimportant trait of
+character. His simplicity is perfectly astounding, and however
+trustworthy his account of what passed under his eyes may be, it is
+clear that his inferences from it are not worth a Federal greenback or
+even a Confederate one. Still, the nature of his subject will secure
+him eager readers, who will be only too thankful for any information,
+however meagre and prejudiced. Though devoid of graphic power, he
+sometimes indicates the possession of humour, as where he observes,
+"When people here mean to speak of a native of Holland they call him
+an 'Amsterdam Dutchman,' but when they speak of one of German race
+generally they leave out the Amster." There is also a good story of a
+wounded Confederate soldier, who, finding he would have to lose his
+leg, immediately proceeded to barter the useless boot....</p></div2>
 
-work which their rulers have persuaded them can be acsom
+<div2 id="iln45.1291.007" n= "It is stated" type="Article">
+<head>[IT IS STATED]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1291</biblScope>
+<biblScope type="pages">p. 583</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p>It is stated that more than a hundred vagrant children are every
+month rescued from the streets of New York and sent to the west, where
+the farmers are glad to receive them. This is done by an association,
+styled the Children's Aid Society. The whole expense does not average
+more than 15 dols. for each child.</p></div2>
 
-pUshed by force. If, therefore, the North has chosen to c,-Wm.
+<div2 id="iln45.1291.008" n="The Town and Port of Nassau, New
+      Providence, Bahama Islands." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.45</biblScope>
+<biblScope type="issue">no.1291</biblScope>
+<biblScope type="pages">p. 592</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="ILNv45p592">
+<head>THE TOWN AND PORT OF NASSAU, NEW
+      PROVIDENCE, BAHAMA ISLANDS.</head>
+</figure>
+</p>
+</div2>
 
-mit itself to the war, and to elect a chief who has since pledge I himself to carry it on until one party shall snccwnh frurn exhaustion, the terrible decision has been arrived at in face of the whole truth, which has been supplied by the press of
+<div2 id="iln45.1291.009" n= "The Town and Port of Nassau." type="Article">
+<head>THE TOWN AND PORT OF NASSAU.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1291</biblScope>
+<biblScope type="pages">p. 592</biblScope>
+<date value="1864-12-10">December 10, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE TOWN AND PORT OF NASSAU.</p>
+<p><hi rend="smallcaps">The</hi> Bahama Islands, though smaller and
+less productive than the rest of the British West Indian colonies,
+derive a certain political and commercial importance from their
+position, more especially since the blockade of the Southern States by
+the Federal navy. The port of Nassau, in the island of New Providence,
+being at no great distance from the coast of Florida, and commanding
+the nearest entrance to the navigation of the Gulf of Mexico; with an
+easy run, moreover, to Bermuda on the one hand, or to Wilmington,
+South Carolina, on the other, has become a great entrep&#x00F4;t for
+the blockade-breaking trade. We are indebted to an officer of the 1st
+West India Regiment, stationed at this place, for a View of the town
+and harbour, which we have engraved. It is taken from the verandah of
+the mess-house of the officers of that regiment, and gives a correct
+general idea of the place and its buildings. The large gate in the
+foreground is the entrance to the grounds of Government House. The
+cathedral is in the centre of the View. The two long buildings seen
+beyond the cottages in the foreground are the barracks. The harbour is
+very spacious, and formed by the long strip of rocky ground called
+"Hog Island," on which coal d&#x00E9;p&#x00F4;ts have recently been
+formed, so as to prevent the quays being occupied by the vast store of
+coal required for the steamers. There is also a dock, in which a
+"blockader" is seen undergoing repair. The vessel seen beyond the
+cathedral tower is the Lizzie, built on the Clyde, an Engraving of
+which was lately published in our Journal. She was sold the other day
+at Nassau to a merchant at Havannah. Another blockade-runner is just
+crossing the bar and coming into port with colours flying, denoting a
+successful run; while on the horizon we see another just off to
+"Dixie." These little steamers are painted a light grey, or nearly
+white, which renders them almost invisible at a distance, and they
+glide noiselessly over the water; yet it is a common thing, now that
+the Northerners have made the blockade of Wilmington so rigid, to see
+the steamers come into the port of Nassau with their masts shot away
+or their hulls pierced by shot. The population of Nassau is now
+threefold what it was before the blockade, comprising people of all
+nations and every class; and many large fortunes have been made,
+especially by those who engaged early in the traffic; but the crowded
+state of the town, together with the cases of yellow fever brought
+here by the shipping, has caused that fearful disease to prevail at
+Nassau more during the last summer than m previous years. Several
+cases have occurred among the officers of the garrison, but only two
+have proved fatal. As might be expected, house rent in the town is
+enormously high just now; and so is the price of provisions, which are
+chiefly imported from home, since their export from New York is
+prohibited, lest they should be sent into the Southern States to
+supply the Confederate army.</p></div2>
 
-England. We will not speak of certain well-meant, if Inju-dicious, remonstrances which have been addressed to the
+<div2 id="iln45.1292.001" n= "Foreign and Colonial Intelligence: America." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1292</biblScope>
+<biblScope type="pages">p. 598-599</biblScope>
+<date value="1864-12-17">December 17, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+INTELLIGENCE.</hi></p>
+<p rend="center">AMERICA.</p>
+<p>By the arrival of the Nova Scotian and the Etna we have
+intelligence from New York to the 3rd inst.</p>
+<p>The chief news brought is the announcement that there had been a 
+severe engagement between the hostile armies in Tennessee. The Federal
+General Schofield reports that, on the afternoon of the 30th ult., two
+corps of General Hood's army attacked Franklin, but were repulsed at
+all points by him, with the loss, on the enemy's side, of 5000 or 6000
+men, including 1000 prisoners; while the Federals' loss was only a
+quarter of that sustained by their assailants. Nevertheless, General
+Schofield retired during the night from Franklin towards a position
+three miles south of Nashville; and on the following morning the
+victorious and retreating Federals were closely followed by the
+defeated and pursuing Confederates. Heavy skirmishing was progressing
+and a general engagement was expected<pb n="599"/> while Federal
+reinforcements were arriving at Nashville, where the forts and
+intrenchments were manned by the garrison and the Government
+labourers, who had been armed.</p>
+<p>The exact position of Sherman in Georgia is still
+uncertain. Accordin to some accounts he had been repulsed in an
+attempt to cross the Oconnee River, while others state that his main
+army had succeeded in crossing that river, and, avoiding Augusta and
+all the other large towns, was making the best of its way to the
+seacoast. The Confederates were rapidly concentrating their forces,
+and were bent on the destruction of the invading army. It was said
+that they had defeated the advance cavalry of Sherman in an attempt to
+open communication with Beaufort. The <hi rend="italic">Times'</hi>
+correspondent states that the defeat of Sherman's cavalry took place
+near the Savannah River. It was reported that General Burnside, with
+20,000 men, had sailed from Fort Monroe for the purpose of landing at
+some point on the Southern coast and joining General Sherman.</p>
+<p>General Grant had sent General Gregg's cavalry on a
+reconnaissance, for the purpose of ascertaining whether General Lee
+was sending any troops from his army to Augusta. General Gregg took
+and destroyed Stoney Creek station, but failed to obtain any
+information, and was closely followed by the Confederates during his
+retreat to the Federal camp.</p>
+<p>The <hi rend="italic">New York World</hi> says that President
+Lincoln's Message (delivered to Congress ere this) is conservative in
+character, and will aim at the conciliation of all parties and classes
+in the North. President Lincoln, it is said, "repudiates the factions
+which would establish the present conflict upon a sectional basis, and
+takes strong national ground upon which Democrats and Conservative
+Republicans can have have no hesitation to stand and rally. He has
+been induced to adopt this policy by Mr. Seward, whose efforts have
+been to unite in a common cause the Conservatives of all parties, and
+to form out of these elements a new party which will sweep Greeley and
+the Radicals out of existence." The principal part of the message
+relates to the present condition of the finances of the country, and
+to the measures calculated to prevent it from growing worse.</p>
+<p>The examination of the persons suspected of firing the hotels in
+New York was begun by a military commission, on the 2nd inst.</p>
+<p>Governor Seymour has declined to receive the British peace
+address, but referred Mr. Barker to Secretary Seward, who also
+declined it, and likewise refused him an interview with
+Mr. Lincoln. Barker now proposes presenting the address to
+Congress.</p>
+<p>the Florida (forcibly taken from Brazilian waters) has been run
+into and sunk by a Federal transport-steamer off Fort Monroe. It was
+rumoured she would be accidentally burnt. The <hi
+rend="italic">Express</hi> regards it as a strange and curious affair,
+and thinks it will add to existing complications. The <hi
+rend="italic">World</hi> says the pretence of an accident is too
+transparent to deceive anybody. The <hi rend="italic">News</hi> thinks
+she was sunk designedly, and adds that the sinking does not cancel the
+duty of indemnity. The <hi rend="italic">Times</hi> says the question
+is yet open as regards the right or wrong of the seizure, but contends
+that thus far there is no ground for complaint. Admiral Buchanan and
+the officers of the Florida have been sent to Fort Warren.</p>
+<p>President Lincoln has issued a proclamation announcing the
+ratification of the treaty with Belgium extinguishing the Scheldt
+dues.</p>
+<p>It is reported that both the Chickamauga and Tallahassee had
+arrived safely at Wilmington, and that the latter was about to depart
+for Bermuda with a cargo of cotton. There were twenty-one
+blockade-runners at Nassau on Nov. 12. The schooner Albert Edward was
+captured while attempting to get out of Galveston, Texas, with a cargo
+of 150 bales of cotton.</p>
+<p>Gold, on Dec. 3, was quoted at 229.</p>
+<p>The Confederate Congress had unanimously rejected the peace
+propositions laid before it.</p></div2>
 
-Northerners, because we have not approved that kind of inter
+<div2 id="iln45.1292.002" n= "The largest church in the American States" type="Article">
+<head>[THE LARGEST CHURCH IN THE AMERICAN STATES]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1292</biblScope>
+<biblScope type="pages">p. 614</biblScope>
+<date value="1864-12-17">December 17, 1864</date>
+<extent></extent>
+</bibl>
+<p>The largest church in the American States, St. Paul's and
+St. Peters Cathedral at Philadelphia, was consecrated on the 20th
+ult. It has bean the work of eighteen years' labour, and has cost
+nearly 500,000 dols. Three archbishops, ten bishops, the mitred Abbot
+of St. Vincent's at Latrobe, and more than 200 priests entered the
+cathedral during the processional chant. The ceremonies were attended
+by about 8000 people.</p></div2>
 
-ference, and it is not upon sentimental grounds that a greu.
+<div2 id="iln45.1292.003" n= "Current Literature." type="Article">
+<head>CURRENT LITERATURE.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1292</biblScope>
+<biblScope type="pages">p. 614</biblScope>
+<date value="1864-12-17">December 17, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
+<p>....<hi rend="italic">The American Angler's Book</hi>. By
+Thad. Norris. (1 vol. Sampson Low, Son, and Co.) An American book on
+angling is a novelty, and yet America has "thousands of brooks,
+creeks, rivers, lakes, bays, and inlets" which "abound in game-fish."
+The author, moreover, seems to be well acquainted with and an
+enthusiastic lover of the sport which he has made the subject of his
+pen, and we do not, therefore, fear a charge of rashness when we
+assert that his portly, well-illustrated volume is likely to be
+welcome. He is both grave and gay, both business-like and playful,
+mingling the humorous with the scientific, after the cheery manner of
+most "jolly fishermen...."</p></div2>
 
-people should be asked to alter its policy. The best thing Oh-41,
+<div2 id="iln45.1292.004" n= "The Action of Oil Wells." type="Article">
+<head>THE ACTION OF OIL WELLS.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1292</biblScope>
+<biblScope type="pages">p. 618</biblScope>
+<date value="1864-12-17">December 17, 1864</date>
+<extent></extent>
+</bibl>
+<p><hi rend="smallcaps">The Action of Oil Wells</hi> has been examined
+by Professor E. W. Evans, of Marietta College, Ohio, U.S., and the
+results are given in Dr. Silliman's <hi rend="italic">American Journal
+of Science</hi>. We can only select a few points. The principal
+supplies of petroleum ore not diffused between the planes of
+stratification, but are collected in cavities more or less sunken in
+the strata whence the oil is less liable to be carried away by running
+water. It is common to find large quantities in places where there ore
+marks of disturbance and displacement of the rocks. The cavities have
+been probably caused sometimes by uplifts and sometimes by erosion and
+the dissolving action of water; but, whatever may be their origin,
+they are not usually of very great horizontal extent. On Oil Creek, in
+Pennsylvania, the greatest quantities of oil are found in the
+horizontal stratum of sandstone. It would seem that this rock is very
+porous, and perforated, like a honeycomb, with numerous cells and
+fissures containing petroleum. The history of many of the wells is as
+follows:--When oil is entered the gas begins to raise it up over the
+top of the boring, increasing gradually in force until it projects it
+into the air often to a height of 40 ft. or 50 ft.; then alternately
+diminishing and increasing the force at regular intervals, but without
+any cessation in the flow for a long time. These variations in the
+force of the gas (the breathings of the earth as they are called) are
+to be explained on the same principle as before, by supposing that as
+the tension of the gas is relaxed by the removal of oil, the gas and
+oil from other cavities around rush in through the pores and slight
+fissures till a certain maximum tension is reached and the influx
+ceases; then by the expansion of gas already in the chamber the oil
+continues to come up, but with a diminishing flow, until a relative
+vacuum is again created; after which the influx is renewed and
+gradually increases as at the beginning. The regular alternations vary
+in different wells from two or three times a day to as many times an
+hour, the intervals, however, gradually increasing in length as the
+supply of oil is diminished--unless, as sometimes happens, new
+communications are forced, and the well, deriving new supplies, starts
+over again with a new period. It often happens that the same well has
+two periods--one of variation in the flow, and another of cessation,
+consequent on the escape of gas. A more uniform flow may be secured by
+making the orifice at the mouth of the tube smaller. This is often
+desirable in order to prevent the escape of gas by the exhaustion of
+the oil in the cavity down to the bottom of the boring. Sometimes such
+a quantity will thus rush out, before the oil raised up by the water
+closes the passage again, as not only to rend the pump necessary after
+that to raise oil, but also to diminish materially the influx of oil
+from other cavities by reducing the pressure of the gas in them. Oil
+wells commonly vary in depth from 100 ft. to 800 ft. The deepest are
+apt to raise oil to the surface as the shallowest. This indicates a
+great compression of the gas at the greater depth--owing, doubtless,
+to its connection with higher columns of water. The activity of some
+wells is increased by rains; others, with less gas, are rendered
+unproductive till the water can be reduced.</p></div2>
 
-we could do for OM American brethren vas to tell them Cie
+<div2 id="iln45.1293.001" n= "Foreign and Colonial Intelligence: America." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1293</biblScope>
+<biblScope type="pages">p. 622</biblScope>
+<date value="1864-12-24">December 24, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+INTELLIGENCE.</hi></p>
+<p rend="center">AMERICA.</p>
+<p>The United States Congress reassembled at Washington on the 5th
+inst., but the President's Message was not communicated until the
+6th.</p>
+<p>Mr. Lincoln declares that no attempts to negotiate with the South
+can result in any good, as the South will not be satisfied with any
+conditions but a severance of the Union, which the North cannot and
+will not grant. The Southerners can, he adds, obtain peace whenever
+they choose by laying down their arms and submitting to the national
+authority. He will retract nothing that he has said regarding slavery,
+and will not modify his emancipation proclamation. He recommends
+Congress to pass a law abolishing slavery for ever throughout the
+United States and their territories. The foreign affairs of the United
+States are in a condition which is reasonably satisfactory, though
+unforeseen political difficulties have arisen in British and Brazilian
+ports, and on the northern frontier of the Union, which have required
+a just and conciliatory spirit on the part of the United States and
+the nations interested. He deems it expedient, in consequence of
+recent events on the northern frontier, that the Federal cruisers on
+the great Lakes shall be increased, and that, therefore, the six
+months' notice stipulated by treaty be given to Great Britain. During
+the campaign, the lines and positions previously occupied by the
+Federal armies have been maintained, and further advances have been
+made. The navy comprises 670 vessels, and have, during the year,
+captured 324 vessels. The finances have been successfully
+administered; but further taxation is expedient, and the Federal debt,
+which amounted to 1,740,000,000 dols. on the 1st of July last, will
+probably be increased 500,000,000 dols. by another year of war. The
+emancipation legislation of Maryland is mentioned with approbation;
+and the fact that Louisiana and Arkansas have formed a loyal State
+Government is also alluded to. Such is the substance of President
+Lincoln's Message.</p>
+<p>The report of the Secretary of the Treasury says that the expenses
+to be provided for during the current year, including the interest of
+the public debt, amount to 1,400,000,000 dols. The customs, internal
+revenue, and the miscellaneous sources are estimated to produce
+780,000,000 dols.; leaving a balance of 620,000,000 dols. to be
+provided for. Further measures reduce this increase of the public debt
+during the current year to 482,000,000 dols. It is estimated that the
+pubic debt on July 1, 1865, will be 2,223,000,000 dols. This
+expenditure in the next fiscal year is estimated at 1,168,000,000
+dols., and the receipts at 396,000,000 dols. The balance in the
+treasury is 350,000,000 dols., leaving 422,000,000 dols. to he
+provided for by loans. Mr. Fessenden is opposed to the negotiation of
+a foreign loan, and will not resort to a further issue of legal tender
+notes as long as the people support the war by loans. The amount of
+interest payable in gold by the Government is 56,000,000 dols.</p>
+<p>A Washington despatch, dated the 6th inst., published in the
+Boston papers, says:--"The President's Message seems to be approved by
+both Radical and Conservative Republicans in Congress. The reading in
+the house was accompanied by enthusiastic demonstrations."</p>
+<p>In the House of Representatives notices have been given of various
+bills, including one to regulate the value of money, another to
+prohibit the exportation of gold or silver coin, and another to
+prevent gold and silver coin and bullion from being paid or accepted
+for greater value than their real current value.</p>
+<p>Lord Lyons took his leave of the President and Secretary Seward on
+the 6th inst., previously to his contemplated visit to
+England. Mr. J. Hume Burnley will have charge of the British Legation
+during the absence of Lord Lyons.</p>
+<p>Ex-Secretary Chase has been nominated and confirmed Chief Justice
+of the Supreme Court of the United States.</p>
+<p>General Sherman, with a good deal of hard fighting, had passsed
+Millen, which he was unable to take, and was supposed to be making for
+Darien. The Southern papers say that should he succeed in reaching the
+coast it will be with the loss of half his army.</p>
+<p>The Federal General Thomas had concentrated his forces within
+Nashville in anticipation of the attack by General Hood, who was
+erecting breastworks before the city.</p>
+<p>The Federals under General Burbridge had evacuated Cumberland Gap,
+and were reported to be advancing against Breckenridge. The Southern
+accounts assert that he was retreating to Knoxville.</p>
+<p>No movement of importance is reported from the army of the
+Potomac.</p>
+<p>In the Shenandoah Valley a portion of General Early's cavalry,
+under General Rosser, had been successful in capturing two of the
+Federal forts and destroying a large amount of stores, besides
+capturing many prisoners.</p>
+<p>The New York Chamber of Commerce has officially denied that it ever
+offered a reward of any kind for the destruction of the
+Florida.</p></div2>
 
-truth, which they could not get from their own state5rn1 o,-journalists, and this has been done.
+<div2 id="iln45.1293.002" n= "Divided into thirty-nine articles" type="Article">
+<head>[DIVIDED INTO THIRTY-NINE ARTICLES]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1293</biblScope>
+<biblScope type="pages">p. 627</biblScope>
+<date value="1864-12-24">December 24, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
+Saturday, December</hi> 24, 1864.</hi></p>
+<p><hi rend="smallcaps">Divided</hi> into thirty-nine articles, the
+Message of the newly re-elected President of the Federal States is
+presented for our consideration this Christmas. The document does not
+contain much which will interest the English reader; but there are
+numerous details, which, though unexciting to us, are obviously of
+local importance, and will probably be the text for many rough sermons
+in the districts to which they refer. The first mention of this
+country is of a complimentary kind, and recognises the good will and
+support which the Government of Great Britain extends to the American
+project for an overland telegraph by way of Behring's Strait and
+Asiatic Russia. There is also a hopeful reference to the revival of
+the scheme for the Atlantic telegraph. The two great nations, having
+once spoken to each other across the sea, seem bound in honour not to
+be silenced, and we may yet hope that Christmas greetings may be
+flashed and returned by the marvellous wire. The next allusion to
+ourselves is of a graver kind. Both nations disarmed upon the Lakes;
+but the American Government alleges that the assaults and depredations
+committed in the region adjacent to the Canadian border by inimical
+and desperate persons who are harboured there make it necessary to
+increase the Federal armament upon those waters; and England is to
+receive the six months' notice necessary before that can be
+effected. The President, however, does us the justice to disavow any
+idea that the Colonial Government is intentionally unjust or
+unfriendly. We are not otherwise alluded to, except in the general
+mention that most of the European States manifest a liberal
+disposition towards the American policy of inviting immigrants, in
+regard to whom Mr. Lincoln is desirous that it should be fully
+manifest that he neither needs, nor designs to impose, involuntary
+military service.</p>
+<p>We may say, but in no disrespectful way, that the greater part of
+the Message is an exemplification of that "cracking-up" which our
+Transatlantic brethren like. We do the same kind of thing here at
+times, but it is in a mild and modest way. Everybody likes to be
+praised, and those who succeed most in life are usually found to be
+those who have always a good word for everybody. The Message, as
+regards the Federals, is all good words. The finances are successful;
+the public debt, though large, is not oppressive, and the citizens owe
+it "to themselves;" and in connection with it is to be formed a system
+for creating funded property to be exempt from taxation and from
+seizure for debts. The national banks work admirably. The navy
+consists of 671 vessels, carrying 4610 guns. National growth and
+improvement have scarcely been checked by the war; a new State--that
+of Nevada--has been added to the Union, and the territories are
+rapidly prospering. The Atlantic and Pacific States are to be joined
+by railways and telegraphs; the mines have produced at least a million
+of dollars; agriculture is advancing, and citizens in Arkansas and
+Louisiana have organised loyal State Governments. The President adds,
+exultingly, that Maryland is secure to liberty and the Union for ever,
+and so the spirited Confederate hymn, which has become a Southern
+national sonug may cease-</p><q>She wakes, he stirs, she is not
+dumb.<lb/>Hurra! she spurns the Northern scum;<lb/>She breathes, she
+burns, she'll come, she'll come,<lb/>Maryland, my Maryland!</q>
+<p>The recital of American endurance and achievement must be admitted
+by the most unfavourable critic to contain much which challenges the
+admiration of the world. Nowhere better than in England is understood
+the reliance which a true statesman reposes in the "elasticity" of a
+great people, and that quality is marvellously manifested in the
+Federal States. <hi rend="italic">Si sic omnia.</hi> But the rest of
+the Message is bellicose in the extreme. Mr. Lincoln, like Caeus,
+breathes nothing but flames. He refers proudly to the popular election
+which placed him once more at the head of the nation, with a fierce
+war-cry, and he proclaims his resolve to execute the vengeance of the
+North. There can be no use in negotiation. The "insurgent leader" has
+no views of peace. He must be "beaten." The rebels can have peace at
+any moment by laying down their arms and submitting, as many have
+done, and the door is still open to all. Even the excepted classes
+know that they may count upon special mercy. But the time may come,
+and probably will, when that door must be closed and more rigorous
+measures be adopted. Mr. Lincoln retracts nothing that he has said as
+to slavery; he will never retract or modify the emancipation
+proclamation; he will never return to slavery anyone who has been
+freed thereby, or by any act of Congress; and if the people should
+ever wish such re-enslavement, they must find some other person than
+himself to carry it out.</p>
+<p>So, as we come to our Christmas altars and hearths, our brethren
+again raise the shout of war; and their grand topic of the day is the
+fierce rush of Sherman through towns which he leaves in flames; the
+grand hope of the day that he will force his way to the sea and
+suddenly descend in thunder upon one of the great cities of the
+South. May we have a far different record for our next Christmas
+Number! "Give peace in our time" will not be the least earnest of the
+Christmas prayers in England.</p></div2>
 
-Therefore, we may say without pride, but also without hesi tation, that England has no guilt in respect to this war. At the festival which is approaching, and when thought. :vi .1 words of kindness should be the rule with all, we shall have little to say of America; but the lightestminded will wish. earnestly, that long before another recurrence of the great feast the sword will have been sheathed. But beyond this England, as a nation, is not called upon to make her Christmas sail with American memories. We have dons or &ity. and we have a right to the peaceful enjoyment of the least,
-V5&LLiVU 011W i 1555 noisy way r
+<div2 id="iln45.1293.003" n= "Echoes of the Week." type="Article">
+<head>ECHOES OF THE WEEK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1293</biblScope>
+<biblScope type="pages">p. 630</biblScope>
+<date value="1864-12-24">December 24, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">ECHOES OF THE WEEK.</p>
+<p><hi rend="smallcaps">It</hi> seems but a week since we heard a
+Message from his Excellency Abraham Lincoln, President of the United
+States, read in the Senate House at Washington. But, lo a whole year
+has passed, and again the newspapers overflow with the interminable
+pargraphs of a document which from its very nature must be drouthy and
+verbose. There are three noticeable features in Mr. Lincoln's
+voluminous Message. First, that he holds out no hope of any
+negotiations for peace being fostered by the North. The initiative
+must be set--if it be set at all--south of Mason and Dixon's
+line. Next that, in the presence of a currency almost inconceivably
+depreciated, and of a public debt which it is estimated will next July
+reach the sum of five hundred millions sterling, he declares the
+resources of the United States to be inexhaustible; and, lastly, that
+he holds out an implied threat against Great Britain, by proclaiming
+that measures will be taken to place armed vessels on Lake Erie and
+Lake Ontario to protect the soil of the United States against raiders
+from Canada. American gun-boats on the St. Lawrence may be the next
+step, and then a blockade of the Mersey and the Clyde and the
+Southampton water may follow. The only possibly dignified answer which
+Great Britain could return, under such circumstances would be,
+"Certainly. Bring out your gunboats; but we will likewise bring out
+ours, and keep the peace together." For American war steamers to have
+the right, whenever they chose, to poke their noses into Hamilton,
+Kingston, and Toronto, and, perhaps, get down as far as Montreal or
+Quebec would be intolerable, and would certainly provoke, ere long,
+that collision with the Canadian people which the Government of the
+United States profess to be so anxious to avert....</p>
+<p>The Davenport Brothers would appear to be irrepressible. A Doctor
+Nicholls has written to the papers to repeat that the brethren desire
+only a fair scientific or practical examination, and are ready at any
+time, and under any penalty, to prove what they assert--that the
+manifestations in their presence are not the result of trick,
+confederacy, or any kind of imposture. They are prepared, they say, to
+meet a select committee fairly chosen, at any place, except
+St. James's Hall or the Hanover-square Rooms, and to place &#x00A3;250
+at its disposal for any charitable purpose if the verdict be against
+them. This is all very well as far as it goes; but the agents of the
+brethren have resorted to the somewhat indecorous proceeding of
+sending circulars round to a number of literary and scientific
+persons, in which, without a "with your leave" or a "by your leave,"
+they are nominated as members of a certain "test committee." We find
+our own name in one of these circulars; and although we are in very
+good company--Mr. Dickens, Mr. Hepworth Dixon, Mr. Lewes, Mr. Thornton
+Hunt, Mr. Tom Taylor, and many others being also enunmerated--we must
+emphatically protest against being mae a "medium" for advertising
+purposes by the proprietors of a show. Let those who choose puzzle
+themselves with "spiritual investigations." The material exigencies of
+attempting to earn an honest living are quite enough for us. The
+Davenports are, we dare say, very wonderful people; but we are rather
+<hi rend="italic">blase&#x00E9;</hi> with wonders. We have seen
+Simmonds cut off his own head, and Heller devour his own hat. We have
+listened to the pythoness, Cora Hatch. We have heard of a young man in
+the State of Indiana who can jump down his own throat; and if we gave
+any preference to a wonder-worker just now, it would be to one who
+could tell us how to prevent the pipes freezing, or who could bring
+the chartered gas companies to a sense of common honesty with regard
+to the article they supply....</p></div2>
 
-On Saturday night twenty-five gentlemen, some on the press and others gathered from the different classes of society, witnessed an :especial sdancewithespecially providedtests of the Davenport Brothers. The head of these gentlemen, Mr. Edmund Yates, wrote an account of this meeting, from which it would appear that the spiritualists were net quite so successful with these sceptics as with a mixed company of spectators. The gentlemen retired puzzled but not satisfied, the conclusion of the thief guest being that in calling the brothers "sorry mountebanks " he did them great injustice. "I believe them to he," he continues, lithe very cleverest conjurors whose performances I have ever attended." This judgment is arrived at, perhaps, after too perfunctory an inspection. In the .flfontshq Post, Captain Richard Burton has deposed to some very startling deeds of these conjurors. Whilst suspending his belief, the great African traveller, who surely is sceptical enough on most points and who has seen most systems of Indian jugglery, deposes to hearing Strange voices, feeling rough )in nds, seeing drops of fire from the ceiling, and beholding all those strange do'nss in the dark sÂŽance which have puzzled most of Us. Mr. owitt, in a recently-published letter, proclaims the ultimate triumph of spiritualism over the ignorant opposition of a ribald press, to the writers on which he calls out, "Go ahead, gentlemen, and in a very short time you will have pilloried yourselves amongst the opponents of vaccination, electricity, steam, - and railroads to the amplest satisfaction of your very worst
+<div2 id="iln45.1293.004" n= "Among the curiosities" type="Article">
+<head>[AMONG THE CURIOSITIES]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1293</biblScope>
+<biblScope type="pages">p. 630</biblScope>
+<date value="1864-12-24">December 24, 1864</date>
+<extent></extent>
+</bibl>
+<p>Among the curiosities at the recent Mechanics' Fair in San
+Francisco were:--"A ten-toed ox, a three-legged calf, a three-legged
+dog, and the celebrated upright game-cock--four of the most
+extraordinary creatures in the State."</p></div2>
 
-aea." ------------------------------------------------------
+<div2 id="iln45.1293.005" n= "By the last American mail" type="Article">
+<head>[BY THE LAST AMERICAN MAIL]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1293</biblScope>
+<biblScope type="pages">p. 630</biblScope>
+<date value="1864-12-24">December 24, 1864</date>
+<extent></extent>
+</bibl>
+<p>By the last American mail a letter, which is remarkable both as a
+documentary curiosity and as a specimen of manufacturing skill, was
+received by the <hi rend="italic">Birmingham Journal</hi>. It is
+written on iron, rolled so thin that the sheet is only twice the
+weight of a similar sheet of ordinary notepaper. The letter is dated
+"South Pittsburg (Pennsylvania), Nov. 6, 1864," and says, "In the
+number of your paper dated Oct. 1, 1864, there is an article setting
+forth that John Brown and Co., of the Atlas Works, Sheffield, had
+succeeded in rolling a plate of iron 13&#x00BD;in. thick. I believe
+that to be the thickest plate ever rolled. I send you this specimen of
+iron made at the Sligo ironworks, Pittsburg, Pennsylvania, as the
+thinnest iron ever rolled in the world up to this time, which iron I
+challenge all England to surpass for strength and tenuity. This, I
+believe, will be the first iron letter that ever crossed the Atlantic
+Ocean.--Yours, &#x0026;c., <hi rend="smallcaps">John C. Evans</hi>." The
+iron is said to be of exceedingly fine quality, and the sheet is by
+far the thinnest ever seen in this country. The letter will be
+deposited in the museum of the Midland Institute. Tested by one of
+Holtzappfel's gauges, the thickness of the sheet is found to be the
+1000th part of an inch. A sheet of Belgian iron, supposed hitherto to
+be the thinnest yet rolled, is the 666th part of an inch thick, and
+the thickness of an ordinary sheet of notepaper is about the 400th
+part of an inch.</p></div2>
 
-Blacksoosd's valuable series of papers on the Public Schools' Repoct is concluded with as much ability as it was commenced. We shoald he glad to see it reprinted. Both "Cornelius O'Dowd" and "Tony Butler" somehow fail to amuse this month, and the number would be dull, but for the American experiences of a cavalry officer lately returned from a year's excursion in Seoessia. He does not seem, indeed, to he endowed with any more ample portion of intellectual brilliancy than is strictly proper in a heavy dragoon; his description of the great Confederate overthrow at Gettysburg is tame indeed after Colonel Freemantle's; and, though he seems to have been on intimate terms with the Secessionist leaders, he seems unable to relate a single anecdote or convey the most unimportant trait of character. His simplicity is perfectly astounding, and however trustworthy his account of what passed under his eyes may be, it is clear that his infercures from it are not worth a Federal greenback or even a Confederate one. Still, the nature of his subject will secure him eager readers, who Will be only too thankful for any information, however meagre and prejudiced. Though devoid of graphic power, he sometimes indicates the possession of humour, as where he observes, O3
+<div2 id="iln45.1293.006" n= "The American papers say" type="Article">
+<head>[THE AMERICAN PAPERS SAY]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1293</biblScope>
+<biblScope type="pages">p. 631</biblScope>
+<date value="1864-12-24">December 24, 1864</date>
+<extent></extent>
+</bibl>
+<p>The American papers say that there is a New York regiment which,
+during their three years' service, has travelled by sea and land more
+than 12,000 miles, fought twenty general engagements, marched through
+fifteen States, and has been under Burnside, Pope, M'Clellan,
+M'Dowell, Meade, Sherman, and Grant.</p></div2>
 
-people here mean to speak of a native of Holland they call him ast 'Amsterdam Dutchman,' but when they speak of one of German race generally they leave out the Amstsr." There is also a good story of a wounded Confederate soldier, who, finding he would have to lose his leg, immediately proceeded to barter the useless boot.
-It is stated that more than a hjh&l vagrant children are
+<div2 id="iln45.1295.001" n= "The Last Day of the Year." type="Article">
+<head>THE LAST DAY OF THE YEAR.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1295</biblScope>
+<biblScope type="pages">p. 661</biblScope>
+<date value="1864-12-31">December 31, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE LAST DAY OF THE YEAR.</p>
+<p><hi rend="smallcaps">To-night</hi> the year 1864 will come to an
+end. Englishmen are not much given to sentimentality; but if there be
+a time when there falls a shade or two of pensiveness on the
+swift-moving current of their thoughts, it is when they watch "the Old
+Year out." There is generally a touch of pathos upon the countenance
+whenever we are conscious of taking our last look of anything,
+especially when that thing is a definite and considerable segment of
+our lifetime. The particular year the final disappearance of which we
+await may not have connected itself with our feelings by any strong
+ties of association. It may have been to us a mere continuation of
+time, without a single salient feature upon which retrospection can
+dwell with interest. The staple of its character may not have risen
+above a dead level of humdrum and routine. But when the hour of
+parting arrives we grow serious, and slide almost insensibly into the
+reflective mood. We instinctively cast a glance back at the good and
+evil the year has disclosed during its course, and it is not without
+some stir of the inner man that we bid it "Farewell, for ever!"</p>
+<p>Whatever materials for reflection the year 1864 may present to
+individuals and families, it has certainly not lacked interest as far
+as nations are concerned. Great events, both in the Eastern and
+Western Hemispheres, have marked its progress. While we in this
+country have been affected by no violent changes, and have been
+conscious of no shock to public feeling, save such as were occasioned
+by the vibration following upon startling events abroad, neither
+continental Europe nor republican North America has got through the
+year without visible agitations and strong excitement. The map of
+Europe has been altered, but not by France. Germany, which up to the
+beginning of 1864 had usually been regarded as among the strongest,
+the slowest, and the most pacific Powers, suddenly snatched up arms,
+within a few days of the birth of the year, and, before its close,
+wrested Schleswig Holstein from Denmark by the boldest and baldest
+application in modern times of the law of might. Russia has erased
+Poland from the list of nations, besides depopulating
+Circassia. England has quietly transferred the Ionian Islands to the
+little kingdom of Greece. Italy has made only a prospective change;
+but by the removal of her capital to Florence she has sealed the
+France-Italian Convention, and quietly waits the moment when, by the
+stipulated recall of the French army of occupation from Rome, the
+estates of the Supreme Pontiff will drop into her hands, and no part
+of her soil but Venetia will remain under a foreign sway. The Danubian
+Principalities, following the lead of Prince Couza, an ablee
+adventurer, have reduced the tie which binds them to Turkey to an
+almost imperceptible thread, and, but for diplomatic restraints, would
+speedily and openly proclaim their independence. The year just about
+to be consigned to the sepulchre of the past has seen the initiation
+of great changes. What year will see the end of them, and what the end
+will be, the future only can disclose.</p>
+<p>Glancing from Europe to the West we also catch sight of stirring
+events. The motion of a new Imperial throne in Mexico, under the
+auspices of the French Emperor, and the enthusiastic welcomeaccorded
+to Maximillian, the brother of Francis Joseph of Austria, quickens in
+European minds a reasonable hope that that hitherto distracted
+country, occupying a splendid position, and rich beyond calculation in
+its natural resources, may henceforth enjoy the internal security
+requisite for the development of a peaceful and prosperous empire. On
+the other hand, the Confederation of the British provinces of America,
+under one constitutional system and one central Government--a
+consummation all but actually completed--warrants sanguine
+expectations of a flattering future for an<pb n="662"/> empire in the
+north, built up in a more rugged clime, and with hardier and, perhaps,
+more enduring materials. It is between the two, over the vast space
+covered by the United States, that the retrospect of the year assumes
+its most dismal hues. The close of 1864 leaves the civil contest
+between North and South apparently as undecided as it stood at the
+commencement. The re-election of Mr. Lincoln is a popular Federal vote
+for the continuance of the struggle. Victory oscillates with strange
+impartiality between the combatants, giving, perhaps, a slight balance
+of advantage to the North, but scarcely affording foothold for the
+hope that the war is near its termination. Yet, even here, it is not
+unmingled darkness. The same national vote that re-seated Mr. Lincoln
+in the presidential chair determined upon cleansing from the
+Constitution the stain of slavery; and there can be little doubt that,
+whatever may be the final issue of the pending conflict, the "peculiar
+domestic institution" will perish in the awful struggle which it has
+occasioned....</p></div2>
 
-tl('ry OO1th iene4 from the streets of New York and sent to the west,
+<div2 id="iln45.1295.002" n= "Foreign and Colonial Intelligence: America." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1295</biblScope>
+<biblScope type="pages">p. 662-663</biblScope>
+<date value="1864-12-31">December 31, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+INTELLIGENCE.</hi></p>
+<p rend="center">AMERICA.</p>
+<p>The news from New York, to the 17th inst., is of great
+importance.</p>
+<p>The Richmond journals state that, on the 14th inst., General
+Sherman carried by storm Fort MacAllister, a fortification on Ogeechee
+River, fifteen miles south-west of Savannah. The fort was only
+occupied by a garrison of 150 men; but its occupation enabled General
+Sherman's army to communicate with the Federal fleet and necessitated
+the reinforcement of Savannah. A Federal steamer, which left
+Charleston Bar on the 14th inst., had brought to New York a report
+that General Sherman, after eight hours' fighting, had taken the city
+of Savannah, with 11,000 prisoners; but the <hi rend="italic">Richmond
+Examiner</hi> stated that, up to the 18th inst., the Federal army had
+made no attack on Savannah, which was defended by a triple line of
+works. The railway communication between Savannah and Charleston
+apparently continued to be intercepted by the Federal corps under
+General Foster; for the Savannah journals stated that General Foster
+advanced towards Coosawhatchie on the 5th inst. and burned a bridge,
+but was twice driven back by the Confederates.</p>
+<p>From Tennessee, also, there is news unfavourable to the Confederate
+cause. General Hood, who, in spite of his late defeat, had pressed
+upon the Federals and shut up their army in Nashville, has, according
+to Northern accounts, been defeated with great loss by his opponent,
+General Thomas. That commander reports that he attacked the
+Confederates, on the 13th and 16th inst., and drove them a
+considerable distance, capturing from 3000 to 5000 prisoners and from
+thirty to forty cannon. Another disaster menaced the defeated
+General's army, the Federal expedition dispatched from Vicksburg and
+Baton Rouge to cut off his communication with Mobile having been
+entirely successful.</p><pb n="663"/>
+<p>The Federal General Stoneman has made a raid in the Confederate
+General Breckenridge's rear, and, after capturing Bristol, Abingdon,
+and Glade Springs, in Western Virginia, is marching towards
+Saltville.</p>
+<p>A naval and military expedition, under the command of Admiral
+Porter and General Butler, sailed from Fort Monroe on the 12th inst.,
+and was supposed to be destined for Wilmington.</p>
+<p>The St. Albans raiders have been released by Judge Coursol, of
+Montreal, on the ground that the Court had no jurisdiction. The
+discharge of the St. Albans raiders was held wrong by the law advisers
+of the Canadian Government, and warrants had been issued for their
+re-apprehension. Stipendiary magistrates have been appointed by the
+Canadian Government to take cognisance of breaches of international
+law on the frontier. Major-General Dix has ordered the Federal
+commanders on the frontier to shoot any raiders if they could, to
+pursue them into British territory if they should take refuge there,
+to capture them there if possible, and not to surrender them to the
+British authorities, but to send them for trial by court-martial at
+New York. Resolutions denouncing the conduct of the Canadians, and
+directing the Secretary of State to demand from the British Government
+payment for all cargoes and ships destroyed by British piratical
+vessels, have been introduced into Congress and referred to the
+Committee for Foreign Affairs.</p>
+<p>The House of Representatives has passed a resolution to give notice
+to England of the abrogation of the Canadian reciprocity treaty.</p>
+<p>According to the <hi rend="italic">New Yord Times</hi>, the
+Brazilian demand for satisfaction for the seizure of the Florida was
+insolent in tone but Secretary Seward's reply is firm and
+conciliatory, does not indorse the seizure, and expresses a desire
+that the matter should be fairly and satisfactorily adjusted.</p>
+<p>The <hi rend="italic">New York Tribune</hi> states that there is a
+good prospect of the passage through the House of the constitutional
+amendment to abolish slavery.</p>
+<p>The latest quotation of gold at New York was 128 per cent
+premium.</p></div2>
 
-'.*re the farmers are glad to receive them. This is done by an a000ClatIeTi,
+<div2 id="iln45.1295.003" n= "During the last fifteen months" type="Article">
+<head>[DURING THE LAST FIFTEEN MONTHS]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1295</biblScope>
+<biblScope type="pages">p. 663</biblScope>
+<date value="1864-12-31">December 31, 1864</date>
+<extent></extent>
+</bibl>
+<p>During the last fifteen months over 5,000,000 dols. have been paid
+over to the treasurer of the United States by Marshal Keyes, of
+Massachusetts, as the proceeds of sales of captured blockade-runners
+whose cases have been adjudicated at Boston.</p></div2>
 
-ti the Children's Aid Society. The whole expense does not average mere th*0 tstiois. for. each child
-THE TOWN AND PORT OF NASSAU.
+<div2 id="iln45.1295.004" n= "American News" type="Article">
+<head>[AMERICAN NEWS]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1295</biblScope>
+<biblScope type="pages">p. 666-667</biblScope>
+<date value="1864-12-31">December 31, 1864</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
+Saturday, December</hi> 31, 1864.</hi></p>
+<p><hi rend="smallcaps">American</hi> news, at the close of the year,
+is very interesting in itself, and seems to have a still graver
+interest for this country. It is quite on the cards that, without much
+prudence and forbearance on the part of the Governments of England and
+of the Federal States, complications will arise which may produce a
+rupture. Enraged at the liberation of the raiders and ruffians of
+St. Albans, General Dix, without waiting to hear whether the decision
+of the French-Canadian Judge was to be reviewed by the Executive,
+issued orders that, in future, any such outrages were to be chastised
+by the slaughter of the offenders, wherever they might be found, and
+that they were to be followed into the territories of the Queen of
+England, without any regard to frontier rights. Now, it happens that
+the Canadians have no more sympathy with these scoundrels than we
+have, and also that the judgment has been set aside, the Judge
+apprised that he was wrong, and orders had been given for the
+re-arrest of the men, if they have not been wise enough to get out of
+the way. But, whether this had been the case or not, it is clear that
+Dix's act must be disavowed by the President, and that, if his orders
+have been obeyed in the slightest degree, apology is due from the
+American Government. Whether the decision of a regular law court be
+right or wrong, it is not to be borne that it should be followed by a
+military outrage. But there is more. The Federal papers do not scruple
+to say that Mr. Lincoln meditates war with this country. They assert
+that he intends to quarrel with us, in order to have a good excuse for
+terminating the struggle with the obstinate Confederates whom he may
+occasionally beat in battle, but cannot subdue. We meet these
+assertions, as we have a right to do with an expression of total
+disbelief in their truth. Hitherto, even when our relations with the
+Union have been most unpleasant, the Government of the States has
+manifested a readiness to believe in the honesty of our conduct, and
+we have given Mr. Seward no reason that justifies his abandonment of
+that belief. We are blameless in the matter. Moreover, the ink is
+scarcely dry upon our reprint of the President's solemn declaration
+that the war shall proceed until one party succumb. We have no right
+to insult the chosen head of a great nation by assuming that he
+meditated treachery towards a friendly Power. We do not even put a
+harsh construction on the notice to terminate the treaty in respect of
+the lake armaments. It places us at a disadvantage; but the Americans
+are within the letter of the agreement, and we have no right to
+complain. It may be well that they should distinctly understand that,
+whatever may be the rabid utterances of a portion of our own press,
+which almost rivals their own in recklessness of assertion and<pb
+n="667"/> want of reticence and good taste, the thoughtful and
+respectable portion of English society has at present no belief that
+the Government of Washington contemplates a crime.</p>
+<p>Assuredly we have no intention of meeting swagger by swagger. We
+are not inclined to boast of what we could do if a rupture should take
+place. The American Government knows this as well as Earl Russell
+does. Canada would at first suffer, especially if the new war should
+be conducted in the spirit in which certain of the Northern generals
+have acted towards men who were the other day fellow-citizens of those
+who now ravage the Southern districts. England herself is rarely
+herself at the outset of war. But who doubts the issue? The Union
+would be at an end forever. Our instant recognition of the Confederacy
+would be followed by the pouring through its harbours, whose blockade
+we should go through as through paper, such armaments as would
+speedily turn the fortunes of the war, and, aided by the reinvigorated
+and vengeful Southerns, we should sweep Federalism from the South as
+we swept Napoleonism from the Peninsula. And we should soon place
+Canada in a position to hurl back the invaders, no matter what early
+successes they might have gained. But it is undesirable to dwell on
+possibilities which we hope and believe will never arise. Assured that
+the American Government comprehends the whole question, and assured
+also that the better portion of the people in both countries would
+denounce the wickedness of a needless war, we would leave the
+disagreeable question which has just arisen to the solution of
+honourable diplomacy.</p>
+<p>The end of the year has brought triumphs to the Federal arms. We
+are imperfectly informed as to the exact position of General Sherman,
+but there is reason to believe that Savannah has fallen. He had
+certainly stormed and taken its ill-manned but gallantly-defended
+fortress, Fort M'Allister. The rest of the account is but rumour, but
+there are reasons for thinking the rumour correct. At all events,
+after a very masterly display of strategy during his "retreat," by
+menacing one enemy and another, and bewildering all, Sherman has made
+his way to the sea, and is in communication with Admiral Dahlgren's
+squadron. If Savannah be not reduced, it has been formidably
+besieged. We are informed, however, that its defences are strong, and,
+supposing that it has not been seized at a coup-de-main by Sherman his
+work may yet be heavy. We also hear that General Thomas has bided his
+time, <hi rend="italic">more suo</hi>, until he could strike at Hood
+with effect, and that he has struck heavily, routed the valiant but
+not overskilled Confederate leader, and captured many prisoners and
+guns. The last advices left him about to follow up his blow; but this
+sequel is not always one in which the assailant is successful. A real
+"victory" is, nevertheless, claimed. The Wilmington expedition has
+also been dispatched at last, and the description of the armament is
+very imposing. Wilmington would be a far more valuable acquisition
+than Savannah, and both sides are well aware of this, and will make
+proportionate efforts. But, taking the whole state of the war into
+account, the close of the year brings renown to the Federal generals
+and discouragement to their adversaries, though the value of the
+victories, taken at their highest, is not great as bearing upon the
+issue of the war. City after city may surrender, but Confederatism
+will not surrender; and the Union will need almost as many garrisons
+as it can number of conquered towns if it is to hold its dearly-bought
+prizes. The spirit of the South is said to be unbroken. Sherman's
+march has revealed some of the weakness of the Confederate chances;
+but in the face of all this the great army of the North is defied, and
+can do nothing while the successes of its other armies are won only by
+desperately hard work and frequent and fierce fighting. We are
+strangely misinformed as to the resources of the South if the
+exhaustion of which we hear so much has brought it to a moribund
+state.</p>
+<p>Setting entirely aside the irritating topic which has newly arisen,
+treating as spiteful bluster the menaces of some of the Federal
+organs, and refusing to believe, with others, that the Chief of the
+Union is planning treachery, we unhesitatingly recur to the
+declarations which we have repeatedly made on behalf of the better
+classes in England--namely, that we earnestly desire to see the
+Americans at peace. We trust to close our record of the in-coming year
+with an allusion to the conclusion of the most hideous and irrational
+war hitherto noticed in history. That a still more hideous and
+irrational war will succeed it we have too much faith in a
+superintending Providence to believe.</p></div2>
 
-THE Bahama Islands, though smaller and less productive than the rest of the British West Indian colonies, derive a certain political and commercial importance from their position more especially since the blockade of the Southern States by the Federaf navy. The port of Nassau, in the island of New Providence, being at no great distance from the coast of Florida, and commanding the nearest entrance to the navigation of the Gulf of Mexico; with an easy run, moreover, to Bermuda on the one hand, or to Wilmington, South Carolina, on the other, has hecome a great entrepÂ™t for the blockadebreaking trade. We are indebted to an officer of the 1st West India Regiment, stationed at this place, for a View of the town and harbour, which we have engraved. It is taken from the verandah of the mess-house of the officers of that regiment, and gives a correct general idea of the place and its buildings. The large gate in the foreground is the entrance to the grounds of Government House, The cathedral is in the centre of the View. The two long buildings seen beyond the cottages in the foreground are the barracks. The harbour is very spacious, and formed by the long strip of rocky ground called "Hog Island," on which coal depOts have recently been formed, so as to prevent the quays being occupied by the vast store of coal required for the steamers. There is also a dock, in which a "blockader"
+<div2 id="iln45.1295.005" n= "Lord Wharncliffe writes" type="Article">
+<head>[LORD WHARNCLIFFE WRITES]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 45</biblScope>
+<biblScope type="issue">no. 1295</biblScope>
+<biblScope type="pages">p. 683</biblScope>
+<date value="1864-12-31">December 31, 1864</date>
+<extent></extent>
+</bibl>
+<p>Lord Wharncliffe writes that the refusal of the Federal Government
+to distribute the money raised for the Confederate prisoners will not
+practically affect the distribution of the fund, "for which," he says,
+"unhappily, we can find but too many
+recipients."</p></div2></div1></body></text></TEI.2>
 
-is seen undergoing repair. The vessel seen beyond the cathedral tower is the Lizzie, built on the Clyde, an Engraving of which was lately published in our Journal. She was sold the other day at Nassau to a merchant at Havannab. Another blockade-runner is just crossing the bar and coming into port with colours flying, denoting a successful run; while on the horizon we see another just off to "Dixie," These little steamers are painted a light grey, or nearly white, which renders them almost invisible at a distance, and they glide noiselessly over the water; yet it is a common thing, now that the Northerners have made the blockade of Wilmington so rigid, to see the steamers come into the port of Nassau with their masts shot away or their bulls pierced by shot. The population of Nassau is now threefold what it was before the blockade, comprising people of all nations and every class; and many large fortunes have been made, especially by those who engaged early in the traffic; but the crowded state of the town, together with the cases of yellow fever brought here by the shipping, has caused that fearful disease to prevail at Nassau more during the last summer than m previous years. Several cases have occurred among the officers of the garrison, but only two have proved fatal As might be expected, house rent in the town is enormously high just now; and so is the price of provisions, which are chiefly imported from home, since their export from New York is prohibited, lest they should be sent into the Southern States to supply the Confederate army.
-~  10  AMERICA.
 
-By the arrival of the Nova Sootian and the Ems we have intel
 
-ligence from New York to the 3rd inst.
 
-The chief news brought is the announcement that there had been a
-
-severe engagement between the hostile armies in Tennessee. The
-
-Federal General Schofield reports that, on the afternoon of the dOtk nit., two corps of General. Hood's army attacked Franklin, but were repulsed at all points by him, with the loss, on the enemy's side, of 5000 or 6000 men, including 1000 prisoners; while the Federals' loss was only a quarter of that sustained by their assailants. Nevertheless, General Schofield retired during the night from Franklin towards a position three miles south of Nashville; and on the following morning the victorious and retreating Federals were closely followed by the defeated and pursuing Confederates. Heavy kirhi ig v jnngrel11g and a general e"gg.inei was trp I I
 
