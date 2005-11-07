@@ -32,17 +32,18 @@ contact the Lewis H. Beck Center, Woodruff Library, Emory University,
 Atlanta, Georgia 30322</p>
             </availability>
             <date>2005</date>
+	 </publicationStmt>
          <seriesStmt>
             <title>The Civil War: The Illustrated
 London News Perspective</title>
          </seriesStmt>
-         <Sourcedesc>
-            <Bibl>
-               <Title>The Illustrated London News</Title>
+         <sourceDesc>
+            <bibl>
+               <title>The Illustrated London News</title>
                <biblScope type="volume">Volume 43</biblScope> 
                <date>July to December 1863</date>
-            </Bibl>
- </Sourcedesc>
+            </bibl>
+ </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
@@ -51,7 +52,7 @@ London News Perspective</title>
       </encodingDesc>
       <revisionDesc>
 	<change><date>September 2005</date>
-          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</respStmt>
+          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</resp></respStmt>
           <item>Encoded text according to TEI guidelines.</item>
 	</change>
       </revisionDesc>
@@ -260,7 +261,7 @@ that an impartial neutrality should continue to be maintained by her
 Majesty's Government during the present unhappy contest in the States
 of North America.</p>
 <p>Mr. <hi rend="smallcap">Clifford</hi> supported the amendment.</p>
-<p>The <hi rend="smallcap">Chancellor</hi> of the <hi rend="smallcap">Exechquer</hi> objected to the motion in the first
+<p>The <hi rend="smallcap">Chancellor</hi> of the <hi rend="smallcap">Exchequer</hi> objected to the motion in the first
 place because it put into the hands of the House a function of the
 executive Government; because it was at this moment especially
 inconvenient, looking to the military situation of America while the
@@ -278,7 +279,7 @@ could not represent in the eyes of the world the principle of
 impartiality in any interference between the contending parties.</p>
 <p>Mr. <hi rend="smallcap">W. E. Forster</hi> urged that the motion,
 if it meant anything, meant war--war to be waged for selfish
-consideration; war which would be producttve of every possible
+consideration; war which would be productive of every possible
 disaster to the commerce and the welfare of this country. In reference
 to Mr. Roebuck's alleged communication to the House from the Emperor
 of the French, he (Mr. Forster) deprecated the policy of joint action
@@ -421,7 +422,7 @@ Confederate advance in Pennsylvania is said to be 10,000 strong. The
 Governor of Pennsylvania has called for 50,000 militia for
 defence for three months. The Governor of Illinois has offered
 10,000 men to resist the invasion.</q></p>
-<p><q>June 27, Morning.-General Ewell entered Chambersburg on Wednesday, and isused on order forbidding
+<p><q>June 27, Morning.-General Ewell entered Chambersburg on Wednesday, and issued on order forbidding
 the inhabitants to sell liquor to the soldiers; also admonishing
 persons not in military service to abstain from acts of hostility,
 stating that acquiescence in the demands of the military authorities
@@ -645,7 +646,7 @@ only known to exist after our soldiers had plunged into them. Part of
 our skirmishers deployed to the right while suffering severely from
 the enemy's fire, and a portion of the advance took up a position on
 the left of the point to be attacked. They were immediately followed
-by General Weitzel's column. General Paine in the meantime advaced
+by General Weitzel's column. General Paine in the meantime advanced
 towards the enemy's works with his command further on the left. Our
 troops, as soon as they had left the cover of the woods, which were
 scarcely 300 yards from the enemy's breastworks, were subject to the
@@ -711,7 +712,7 @@ hope of driving the rebels from their position was gone. Brigade after
 brigade followed in rapid succession, storming the rebel works until
 compelled to fall back with great slaughter under the terrible fire of
 the enemy.</p>
-<p>The fighing ceased at eleven o'clock in the morning. We having
+<p>The fighting ceased at eleven o'clock in the morning. We having
 been repulsed in every assault, our soldiers, under command of their
 officers, laid themselves down under the shelter of the gullies,
 trees, covered way--in fact, everything that could afford them
@@ -769,7 +770,7 @@ Vicksburg which may explain the operations by which General Grant
 brought his forces to the gates of the town, and help them to
 comprehend the news which any mail may bring of further events
 affecting his position.</p>
-<p>Before relating the movemem±s of the opposing armies a short
+<p>Before relating the movements of the opposing armies a short
 space may advantageously be devoted to a description of the arena to
 which their struggles have been confined. We will ask our readers,
 then, to imagine a wide, deep canal 1000 miles long, extending from,
@@ -908,7 +909,7 @@ his death.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p28">
+<figure entity="v43p28">
 <head>Map of Vicksburg.</head>
 </figure>
 </p>
@@ -965,7 +966,7 @@ it was apparent that the meeting between the two armies could not be
 far distant, and that it would probably take place in the confines of
 Pennsylvania. Such has proved to be the case. The divisions forming
 the advanced columns of the Federal army were met by a subdivision of
-the Confederate army on the morning of Wednesday, the lst of July, on
+the Confederate army on the morning of Wednesday, the 1st of July, on
 the western side of the small town of Gettysburg. An engagement
 followed, which resulted in the defeat of the Federal troops. So far
 as we can gather from the telegraphic summary but two divisions of the
@@ -988,13 +989,13 @@ day. It is described as having been one of the bloodiest battles of
 the war, and, even judging from the meagre details which have reached
 us, we can readily believe in the justice of the description.</p>
 <p>On the morning of the 2nd the main body of the Federal army, under
-Meade, joined the divisions which, after the batlle of the preceding
+Meade, joined the divisions which, after the battle of the preceding
 day, had taken up a position to the south of Gettysburg. In the course
 of the forenoon of that day Meade arranged his troops far the battle
 which he knew to be imminent. His right wing rested on a cemetery to
 the south of the town, and was composed of the first and eleventh
 corps of his army. The left wing, which was commanded by
-Sickles,rested on the crest of a hill, and the battle front of the
+Sickles, rested on the crest of a hill, and the battle front of the
 army had a north-western aspect. In the afternoon General Sickles made
 a reconnoissance in force, which brought his troops into collision
 with the Confederates, and shortly afterwards the engagement became
@@ -1235,7 +1236,7 @@ devised and carried out, and the astounded Mexicans will have to learn
 that law does not mean law conditionally on its exponent holding a
 long knife; but means a rule to be obeyed silently and punctually by
 all people and under all circumstances. We admit that to hope that
-this lessonn will be learned in a hurry is a hope in the spirit of the
+this lesson will be learned in a hurry is a hope in the spirit of the
 stage direction in a late wit's proposal to dramatise Lord Macaulay's
 History--"Enter St. Augustine: a pause of five-and-twenty minutes
 while he converts the Britons to Christianity." But the lesson will
@@ -1398,7 +1399,7 @@ obstinate character on different points of the Federal position. The
 battle opened by a vigourous cannonade and assault on the extreme
 Federal left, the enemy striving, by a series of rapid and fierce
 attacks, to pierce or turn it early in the day. After three hours'
-fighting, however, the attnnpt not only failed, but the Confederate
+fighting, however, the attempt not only failed, but the Confederate
 right was forced back across the whole battle-field of that morning
 and the previous day. During this attack on the left a resolute and
 formidable attempt was made to flank the Federal right, and it is
@@ -1413,8 +1414,8 @@ from the other wing to reinforce General Ewell. The reserve Federal
 artillery brought into play from elevated points behind the Cemetery
 Hill, and the vigourous resistance of the eleventh corps on the
 Federal right, partially checked the Confederate advance; but the
-opportune arrival of two bridgades of militia to reinforce the Federal
-right obliged the Canfederates to retire. They retired, however,
+opportune arrival of two brigades of militia to reinforce the Federal
+right obliged the Confederates to retire. They retired, however,
 slowly, fighting desperately at every step until the afternoon, when
 their attempt to turn the right was finally abandoned. Within an hour
 another and final effort was, however, made. The Confederate troops
@@ -1431,7 +1432,7 @@ are. Hagerstown is only a few miles from Williamsport, on the Potomac,
 where the bridge of boats, by which part of the Confederate army
 passed into Maryland, remains. The Potomac is, however, so greatly
 swollen by recent rains that it is impossible either to ford it or to
-build pontoon bridges across it. General Meede marched in pursuit as
+build pontoon bridges across it. General Meade marched in pursuit as
 rapidly as the state of the roads would permit.</p>
 <p>To the 13th there had been no fresh engagement, except some
 skirmishes between the hostile armies in Maryland; but a battle was
@@ -1439,7 +1440,7 @@ believed to be imminent. General Lee, whose forces are said to occupy
 a strong position around Hagerstown, was engaged in sending his
 wounded men and his commissariat stores across the Potomac, but none
 of his troops had quitted Maryland, and he had drawn fresh supplies of
-ammunition from Virginia. There was a rumour that hehad been joined by
+ammunition from Virginia. There was a rumour that he had been joined by
 40,000 men from General Beauregard's army. The Federal forces under
 General Meade and General Couch were concentrating in front of the
 Confederate army, and would, it was supposed assume the offensive, and
@@ -1537,7 +1538,7 @@ to the President, in reference to the restoration of peace and the
 Union, on the basis of the extinction of slavery in 1876.</p>
 <p>The Washington Government had refused to allow Mr. Stephens, the
 Confederate Vice-President, to present in person to President Lincoln
-important communications from Presdent Jefferson Davis. The Southern
+important communications from President Jefferson Davis. The Southern
 papers state that Vice-President Stephens's visit to Washington was
 either to arrange for the exchange of prisoners or to inform the
 Federal Government that if private property was not respected the
@@ -1712,7 +1713,7 @@ shape of an anti-abolitionist crusade, and a hunt for unarmed negroes,
 and the burning down of the Coloured Orphan Asylum. The outbreak ended
 with a thieves' carnival.</p>
 <p>Balloting began on Saturday, the 11th ult., and during that day the
-names of more than 20OO conscripts were drawn. On the morning of the
+names of more than 2000 conscripts were drawn. On the morning of the
 13th a mob assembled in front of the Provost Marshal's office, broke
 into it, destroyed the ballot-boxes, and fired the building, which,
 with the adjoining houses, was completely destroyed, as the firemen
@@ -1814,7 +1815,7 @@ ult., and a landing having been effected on Morris Island, all the
 Confederate works on that island, with the single exception of Fort
 Wagner, were captured by the Federals. According to accounts of the
 12th ult., the siege at Fort Wagner was progressing; and five
-ironclads and fifteen gunboats were engaged in battering and bombardmg
+ironclads and fifteen gunboats were engaged in battering and bombarding
 the Confederate defences.</p>
 <p>A vessel that has arrived at Falmouth reports the capture and
 destruction of two fine North American vessels by Captain Semmes, of
@@ -1831,7 +1832,7 @@ be permanently maintained.</p>
 <p>It is semi-officially announced that the question of peace has not
 come before the Washington Cabinet, no condition of affairs having yet
 existed rendering it necessary to entertain so important a
-position. The Cabinet is agreed that the best wayto obtain peace is to
+position. The Cabinet is agreed that the best way to obtain peace is to
 prosecute the war vigorously.</p>
 <p>Official correspondence between Mr. Stephens and President Davis
 shows that the proposed mission of Mr. Stephens to Washington had for
@@ -2028,13 +2029,13 @@ promoted to a captaincy.</p>
 <p>When the war broke out, and President Lincoln called for three
 hundred thousand volunteers, the Pennsylvania Reserve Corps was raised
 and placed under the charge of General M'Call, as division
-corninander, and Generals Reynolds, Meade, and Ord, as brigade
+commander, and Generals Reynolds, Meade, and Ord, as brigade
 commanders. Meade was appointed a Brigadier-General of volunteers,
 with a commission to date from Aug. 31, 1861. He was then placed in
 charge of the second brigade of that division, and proceeded to
 organize it at Tennallytown, near the waters of the Potomac, and in
 this vicinity wintered during 1861-2. When the army of the Potomac
-began to move upon Manassas, duning March 1862, the division in which
+began to move upon Manassas, during March 1862, the division in which
 General Meade served was attached in the first corps, then under
 General M'Dowell. With him they remained north of the Rappahannock
 until after the battle of Hanover Station, when they were added to the
@@ -2061,7 +2062,7 @@ organise the Pennsylvania Militia, and General Meade was placed in
 command of the division of Pennsylvania Reserves. He led these troops
 during the eventful battles of South Mountain and Antietam; and when,
 at the latter battle, General Hooker was wounded and had to leave the
-field, General Mesde for a short time had charge of the ninth army
+field, General Meade for a short time had charge of the ninth army
 corps, formerly under General Reno.</p>
 <p>After General Burnside had been placed in charge of the army of the
 Potomac General Reynolds, who formerly commanded the Pennsylvania
@@ -2129,7 +2130,7 @@ hands of the Federals.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p117">
+<figure entity="v43p117">
 <head>MAJOR-GENERAL GEORGE G. MEADE, THE NEW
       COMMANDER OF THE ARMY OF THE POTOMAC.</head>
 </figure>
@@ -2190,7 +2191,7 @@ without any authority.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p125">
+<figure entity="v43p125">
 <head>THE RIOTS IN NEW YORK: ATTACK BY THE MOB
       ON THE TRIBUNE NEWSPAPER OFFICE.--SEE PAGE 142.</head>
 </figure>
@@ -2247,7 +2248,7 @@ communication. The expedition burned the railroad bridge over the Tar
 River and 5000 bales of cotton. Another Federal cavalry expedition,
 after severe fighting, captured and destroyed Wytheville,
 South-Eastern Virginia, taking 100 prisoners and two pieces of
-artilllery. They cut the Virginia and Tennessee Railroad at
+artillery. They cut the Virginia and Tennessee Railroad at
 Wytheville.</p>
 <p> From Charleston the accounts are conflicting--one version
 affirming that Fort Wagner still holds out, and the other that the
@@ -2442,7 +2443,7 @@ fled precipitately before our advance.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p128">
+<figure entity="v43p128">
 <head>THE CIVIL WAR IN AMERICA: TRAIN WITH
       REINFORCEMENTS FOR GENERAL JOHNSTON RUNNING OFF THE TRACK IN THE
       FORESTS OF MISSISSIPPI. FROM A SKETCH BY OUR SPECIAL ARTIST.;
@@ -2464,7 +2465,7 @@ fled precipitately before our advance.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p129">
+<figure entity="v43p129">
 <head>THE RIOTS IN NEW YORK: THE MOB LYNCHING A
       NEGRO IN CLARKSON-STREET.--SEE PAGE 142.</head>
 </figure>
@@ -2482,7 +2483,7 @@ fled precipitately before our advance.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p132">
+<figure entity="v43p132">
 <head>THE RIOTS IN NEW YORK: THE MOB BURNING THE PROVOST MARSHAL'S OFFICE.--SEE PAGE 142.</head>
 </figure>
 </p>
@@ -2494,7 +2495,7 @@ fled precipitately before our advance.</p></div2>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 43</biblScope>
 <biblScope type="issue">no. 1216</biblScope>
-<biblScope type="pages">p. 126</biblScope>
+<biblScope type="pages">p. 142</biblScope>
 <date value="1863-08-08">August 8, 1863</date>
 <extent></extent>
 </bibl>
@@ -2520,7 +2521,7 @@ many hands was going on.</p>
 stone-throwing and window-breaking operations, were added, with the
 rush of a hurricane, an immense body from the direction of
 Chatham-street, who joined in immediately, and the work of destruction
-inside the bnilding was evidently culminating to what appeared must be
+inside the building was evidently culminating to what appeared must be
 the final result of the continued attack--the complete destruction of
 the <hi rend="italic">Tribune</hi> buildings. The first stone was
 thrown at a quarter to eight o'clock. In a very few moments the lower
@@ -2573,7 +2574,7 @@ appearance. At last orders were given to have the body cut down; and
 this was done, a large force being detailed for the purpose.</p>
 <p rend="center"><hi rend="smallcap">The Rioters Cutting The Telegraph
 Wires, And Setting The</hi></p>
-<p rend="center"><hi rend="smallcap">Provost Marshal'S House On
+<p rend="center"><hi rend="smallcap">Provost Marshal's House On
 Fire.</hi></p>
 <p>The rioters, having arranged their plans, began to move down town
 by way of Fifth and Sixth avenues, until they reached the vicinity of
@@ -2700,7 +2701,7 @@ recollection of our readers. Although the forces of General Lee were
 far inferior to those under the command of General Meade, he had the
 advantage of handling veteran troops who had acquired confidence in
 many a hard fought and victorious field. Against this advantage,
-however, Meade had uudoubtedly the superiority of numbers and
+however, Meade had undoubtedly the superiority of numbers and
 position. The Federal army fought well and long, the battle raging for
 three days. Upon the first day the combined forces of two of Lee's
 Lieutenants--Generals A. P. Hill and Ewell--fell upon the advance of
@@ -2780,7 +2781,7 @@ Washington will speak for themselves.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p156">
+<figure entity="v43p156">
 <head>MAP ILLUSTRATING GENERAL LEE'S ADVANCE
       INTO PENNSYLVANIA.; PLAN OF PITTSBURG., THE DEFENCES OF WASHINGTON.</head>
 </figure>
@@ -2873,7 +2874,7 @@ Federals and 1200 cattle were lifted. The armies of Lee and Meade,
 after much marching and countermarching, have reoccupied the district
 in which they were established previous to the Confederate invasion of
 Maryland and Pennsylvania. The army of the Potomac is once more on the
-Rappahannock, in the vicnity, of Falmouth, and the Confederate forces
+Rappahannock, in the vicinity, of Falmouth, and the Confederate forces
 have assumed a defensive<pb n="159"/> position on the old, well-fought
 ground between Culpepper and Gordonsville. The Federals have, it is
 stated, seized the heights in the rear of Fredericksburg. General Lee
@@ -2907,13 +2908,13 @@ Okalona on the north to Mobile on the south, his line of
 defence. Federal General Herran's division had left Vicksburg for
 Mobile.</p>
 <p>At Charleston, the persistent attacks of the Federals had still
-been repulsed. On the 18th ult. Fort Wagner, after havingbeen
+been repulsed. On the 18th ult. Fort Wagner, after having been
 bombarded, was stormed; but the assault was thrown back with heavy
 slaughter--Confederate accounts say 2000 killed and wounded. A week
 subsequently James Island was abandoned by the Federals as
 untenable. On the 24th and 25th the bombardment of Wagner was
 renewed, with what result is not stated; and the Federals had
-strenghtened their position on Morris Island. We learn by telegraph to
+strengthened their position on Morris Island. We learn by telegraph to
 Farther Point, on the evening of the 1st inst., that General Gilmore
 has abandoned for the present the notion of taking Fort Wagner, the
 shells making but a slight impression upon the sand of which the fort
@@ -3031,11 +3032,11 @@ been seized at Jackson, Mississippi, by the Federals.</p>
 <p>Another item of news, most important if true, is that President 
 Davis has propose an offensive and defensive alliance to Louis
 Napoleon, who is tempted with the acknowledgment by the Confederate
-Government of the French Protectorate in Mexico and a modeification
+Government of the French Protectorate in Mexico and a modification
 of the "domestic institution."</p>
 <p>Both the <hi rend="italic">New york Herald</hi> and <hi
 rend="italic">Tribune</hi> concur in stating that the Federal
-Government has notifed England that the sailing of privateers from
+Government has notified England that the sailing of privateers from
 English ports will be considered an unfriendly act.</p>
 <p>The United States' District court has condemned the cargoes of the
 steamers Peterhoff, Springbok, Gertrude, and Liorvi.</p>
@@ -3086,12 +3087,12 @@ completely destroyed by a Federal gunboat.</p></div2>
 <extent></extent>
 </bibl>
 <p>the following description of a "battery" recently launched for the
-Federal service is given in the <hi rend="italic">NeW York
+Federal service is given in the <hi rend="italic">New York
 Times</hi>:--"The Onondaga is constructed wholly of iron. The hull is
 227 ft. 6 in. in length and 48 ft. in width. The frames are of angle
 iron, 5 in. by 3 in. rivetted to a central plate at the bottom. There
 is no keel, properly speaking, but a ribbed or arched plating in the
-place of it, to which all the frames are joined. The lines of the thip
+place of it, to which all the frames are joined. The lines of the ship
 are very easy forward and aft presenting much less resistance than
 some other ironclads now afloat. There are no projecting armour
 shelves on the sides, but the vessel is protected from shot by single
@@ -3127,7 +3128,7 @@ iron plating."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p168">
+<figure entity="v43p168">
 <head>THE RIOTS IN NEW YORK: DESTRUCTION OF THE
       COLOURED ORPHAN ASYLUM; THE RIOTS IN NEW YORK: CONFLICT BETWEEN
       THE MILITARY AND RIOTERS IN FIRST-AVENUE.--SEE NEXT PAGE.</head>
@@ -3148,8 +3149,8 @@ iron plating."</p></div2>
 <p rend="center"><hi rend="smallcap">Illustrations Of The</hi></p>
 <p rend="center">RIOTS IN NEW YORK.</p>
 <p rend="center"><hi rend="smallcap">The Mob Sacking And
-Burning</hi></p>
-<p rend="center"><hi rend="smallcap">The Coloured Orphan
+Burning<lb/>
+The Coloured Orphan
 Asylum.</hi></p> 
 <p><hi rend="smallcap">The</hi> disturbances on Monday, July 13--the
 first day of the outbreak in New York--culminated in an outrage which
@@ -3172,8 +3173,8 @@ Irishwomen, staggering along under burdens of bedding and clothing,
 shrieking as they reeled along, "Hooray for Jeff. Davis!" "Death to
 the Naygurs!"</p>
 <p rend="center"><hi rend="smallcap">Conflict Between The Rioters And
-The Military In First-</hi></p>
-<p rend="center"><hi rend="smallcap">Avenue.</hi></p>
+The Military In First-<lb/>
+Avenue.</hi></p>
 <p>A messenger brought information to the 7th Regiment armoury, at six
 o'clock on Wednesday evening, July 15, that the mob was in great
 strength in First-avenue, between Eighteenth and Nineteenth streets,
@@ -3433,15 +3434,15 @@ help the South or involve itself in a quarrel with the United
 States. "The South," it continues, "has no worse enemies than the
 British Government; not that the British Government is a friend of the
 North, but it hates the whole American people, and all their diplomacy will be to
-prolong war by preventing the interference ot any other nation." The
+prolong war by preventing the interference of any other nation." The
 <hi rend="italic">Examiner</hi>, however, thinks that Napoleon's
-possesion of Mexico will render his interference compulsory whenever
+possession of Mexico will render his interference compulsory whenever
 it shall become evident that the Southern Confederacy shall cease to
 exist without it, for the crown of Mexico will be untenable on the day
 when the subjugation of the South shall be completed, and the United
 States power restored.</p>
 <p>The <hi rend="italic">Raleigh</hi> (North Carolina) <hi rend="italic">Standard</hi>
-denonunces President Davis's Government, and urges North Carolina to
+denounces President Davis's Government, and urges North Carolina to
 send a delegation to Washington, to see what terms can be obtained,
 without waiting for Davis. The <hi rend="italic">Richmond Inquirer</hi> urges President Davis
 to suppress the <hi rend="italic">Standard</hi>, and to wipe out the
@@ -3463,7 +3464,7 @@ the scene of conflict.</p>
 reported routing of General Banks, with a loss of 600 men. At New
 Orleans the Union Association had passed a resolution opposing the
 organisation of the State Government under a Constitution recognising
-slavery. For the purpose of keepng open the navigation of the
+slavery. For the purpose of keeping open the navigation of the
 Mississippi, the Federal Government is understood to have determined
 upon the organisation of an army of 100,000 negroes, and the President
 has officially proclaimed that if the enemy enslave or sell any
@@ -3533,7 +3534,7 @@ lost.</p>
 Peterhoff and cargo. The ground given for her condemnation was that
 "she was laden with contraband of war with the knowledge of the
 owners; she was not truly destined to Matamoras for the purposes of
-commerce within the authority of public laww, but to some other place
+commerce within the authority of public law, but to some other place
 both in aid and for the use of the enemy, and in violation of the law
 of nations; that the ship's papers were simulated, and false as to her
 real destination." The schooner Stephen Hart, and the barque Sally
@@ -3567,7 +3568,7 @@ pilot-boat.</p></div2>
 <extent></extent>
 </bibl>
 <p rend="center">AMERICAN HOTELS.</p>
-<p><hi rend="smallcap">Most</hi>travellers agree in prounouncing the
+<p><hi rend="smallcap">Most</hi>travellers agree in pronouncing the
 American hotels to be the most perfect establishments of the kind ever
 constructed--in fact, the Americans could never get on without
 them. They partake of the characteristics of the large hotels on the
@@ -3624,7 +3625,7 @@ country, both in Canada and the United States.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p193">
+<figure entity="v43p193">
 <head>MONTEAGLE HOUSE HOTEL, NIAGARA FALLS.</head>
 </figure>
 </p>
@@ -3686,7 +3687,7 @@ has risen up. Thirty years ago the site of this fine city was almost
 of wilderness--not more than half a dozen cottages occupied the flat
 prairie lands where now is a magnificent city containing one hundred
 and twenty thousand inhabitants. Chicago is not composed of all kinds
-of buildings, good, bad, and indifferant, as many American cities are,
+of buildings, good, bad, and indifferent, as many American cities are,
 but is beautifully built of brick and stone. The public buildings are
 very fine, the streets wide and well paved. In fact, the city has as
 noble and stately an appearance as any city of its kind in the Old
@@ -3748,7 +3749,7 @@ New York its seaport.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p204a">
+<figure entity="v43p204a">
 <head>CHICAGO, FROM THE MICHIGAN CENTRAL RAILWAY.</head>
 </figure>
 </p>
@@ -3764,7 +3765,7 @@ New York its seaport.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p204b">
+<figure entity="v43p204b">
 <head>STREET IN CHICAGO, UNITED STATES.</head>
 </figure>
 </p>
@@ -3811,7 +3812,7 @@ afford no just ground for complaint of partiality or injustice. Earl
 Russell, however, having discontinued the correspondence, hoping that
 his remonstrances would have practical effect, wrote to Lord Lyons
 again on the 18th of July, noticing the representation of
-Messers. Tootal, Broadhurst, and Co., that such a bond had been
+Messrs. Tootal, Broadhurst, and Co., that such a bond had been
 required of them when making a shipment to Nassau on the 15th of June
 last. His Lordship considers this as a proof that the interference of
 the United States authorities with the trade is still persisted in,
@@ -3834,8 +3835,8 @@ subject.</p></div2>
 Swedish Ministers have left Washington, accompanied by Mr. Seward,
 upon an excursion to the Northern Lakes.</p>
 <p>No movement of consequence has been made by either of the
-belligerants in Virginia. The intense heat, under which existence is
-barely endurable, has rendered military operatlonn all but
+belligerents in Virginia. The intense heat, under which existence is
+barely endurable, has rendered military operation all but
 impossible. There had been no considerable change in the position of
 either army. General Lee's head-quarters are at Gordonsville, and the
 main body of his army lies on the line of the Rapidan. Guerillas
@@ -3866,14 +3867,14 @@ made on Charleston on the 18th, which the Federals were sanguine would
 result in the capture of Forts Sumter and Wagner, and Point
 Cumming. The Confederates, however, were making great preparations to
 repel the attack. It is rumoured that the 300-pounder Parrot gun, sent
-to Charleston to be used againat Fort Sumter, was lost overboard at
+to Charleston to be used against Fort Sumter, was lost overboard at
 Morris Island.</p>
 <p>A Federal force had marched through Arkansas, and other forces were
 preparing to clear the western shore of the Mississippi of
 Confederates.</p>
 <p>Commander Bell has superseded Admiral Farragut in the Gulf
 Department.</p>
-<p>Numerous guerilla bands are marauding throughout the interior
+<p>Numerous guerrilla bands are marauding throughout the interior
 counties of Missouri.</p>
 <p>Great excitement has been created throughout California by a
 contemplated rising of Secessionists, and an affray had occurred at
@@ -3900,7 +3901,7 @@ York had made an official report, declaring that the enrolment of men
 liable to the conscription in New York had been fraudulently made,
 with the purpose of levying an undue proportion of recruits from the
 districts where the Democratic voters formed the majority of the
-constituency. One Mr. Ebener committted suicide at New York to avoid
+constituency. One Mr. Ebener committed suicide at New York to avoid
 the draught. His friends had joked him about it, and scared him into
 insanity.</p>
 <p>The <hi rend="italic">New York Times</hi>, of the 5th inst., gives
@@ -3957,7 +3958,7 @@ means of averting the double blow from the two eagles. We will,
 therefore, suppose the inevitable result. The combined English and
 French fleets have been annihilated by Admiral Wilkes (and Liberty),
 and Toulon and Liverpool are strictly blockaded. The Duke of Cambridge
-is flyiig into Scotland, hotly pressed by the Irish and Negro legion
+is flying into Scotland, hotly pressed by the Irish and Negro legion
 under Hooker, and the Emperor of the French is sending petitions for
 peace to the victorious Mouravieff. Our enemies are great, but
 merciful, and are inclined to grant us favourable terms, which are
@@ -4054,7 +4055,7 @@ fiction will be complete.</p></div2>
 <p rend="center"><hi rend="italic">(From our Special Artist.)</hi></p>
 <p><hi rend="smallcap">The</hi> country for forty miles round
 Vicksburg is covered with small encampments of women and children who
-have been driven from thcr homes by predatory bands of Northern
+have been driven from their homes by predatory bands of Northern
 soldiers. Ladies who have been reared in luxury are now reduced to the
 discomforts and hardships of a bivouac, which they bear
 uncomplainingly, being willing to suffer in a cause for which their
@@ -4108,7 +4109,7 @@ revolver or the knife.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p216">
+<figure entity="v43p216">
 <head>CHICAGO, FROM THE MICHIGAN CENTRAL RAILWAY.</head>
 </figure>
 </p>
@@ -4142,7 +4143,7 @@ provisions that they can provide. He adds, General Lee has for some
 time past been secretly organizing a reserve of 40,000 men, who are to
 be stationed at Winchester or some other point in the Shenandoah
 Valley.</p>
-<p>Eight hundred guerrillas, under Quantrell, have crossed the Missori
+<p>Eight hundred guerrillas, under Quantrell, have crossed the Missouri
 River, captured Laurence, Kansas, burning and destroying property to
 the estimated value of 2,000,000 dols. Senator Lane is supposed to
 have been captured. The Federal troops have started in pursuit.</p>
@@ -4261,7 +4262,7 @@ be waging war in the name of philanthropy, to conjure up this liquid
 demon as a fit ally to their purpose of extermination." It adds: "If a
 fleet of ironclads should appear in New York harbour, and at the
 midnight hour should throw their deadly missiles, bursting with liquid
-and unquenchabel fire, into the heart of this metropolis, while
+and unquenchable fire, into the heart of this metropolis, while
 standing amid the ashes of our homes, and gazing upon the crisped and
 burning bodies of our wives<pb n="255"/> and children, we could
 perhaps appreciate the savagism of that style of warfare."</p>
@@ -4384,7 +4385,7 @@ America. In this letter he has endeavoured once more to dispel the
 "prejudice" which, as he says, has caused British and French statesmen
 to "agree in opinion that the efforts of the Government to maintain
 the Union and preserve the integrity of the Republic could not be
-successful." He narrates the sucesses obtained by the Northern armies
+successful." He narrates the successes obtained by the Northern armies
 since August, 1862, and admits that no great progress has been made by
 the Federal arms in the East, but declares that in the West 200,000
 square miles have been subjugated by the Federal arms. Every
@@ -4418,7 +4419,7 @@ that Napoleon has made a secret treaty with President Davis for the
 cession of Texas, as the equivalent for recognition and substantial
 aid. The <hi rend="italic">New York Herald</hi> asserts that troops
 now in New York will be sent to Vera Cruz.</p>
-<p>A few days before the departure of the laat mail from New York a
+<p>A few days before the departure of the last mail from New York a
 shocking steam-boat disaster occurred at Vicksburg. The steamer City
 of Madison was being loaded with ammunition, and had received nearly
 her full load, when a negro carrying a percussion-shell on board, let
@@ -4553,7 +4554,7 @@ captors. In consequence of this arrangement there is very little
 actual treasure on board the Florida, and the officers and crew are
 working mainly on the faith of the future independence and solvency of
 the Confederacy. "Any way," said Captain Maffitt, "we have cost the
-Governmeat very little, for we've lived on the enemy. Oh, yes; we've
+Government very little, for we've lived on the enemy. Oh, yes; we've
 served them out beautifully." In reply to some questions as to the
 method of capture, the Captain said, "We only make war with the United
 States' Government, and we respect little property. We treat prisoners
@@ -4580,7 +4581,7 @@ killed and wounded at Mobile, the paymaster (who died of consumption),
 and one officer (who was accidentally drowned). They have coma into
 Brest to repair the engines, which are somewhat out of order, the
 shaft being quite out of line. The Florida mounts only eight guns--six
-of the Blakeley pattern, made at Low Moor, and stetn and bow
+of the Blakeley pattern, made at Low Moor, and stern and bow
 chasers.</p>
 <p>On taking our leave I asked whether he expected to be intercepted
 on leaving Brest, pointing at the same time to the Goulet, the narrow
@@ -4680,7 +4681,7 @@ without due notice.</p>
 <p>In Virginia there had been no movements of note; but the story of
 an intended flank movement by General Lee was revived, and it was
 reported that General Stuart had crossed into Maryland for another
-raid. Confederate reports stated that the Federal General Averilh had
+raid. Confederate reports stated that the Federal General Averill had
 been defeated, with the loss of 150 prisoners and a gun, at White
 Sulphur Springs, Virginia; whilst according to Federal despatches they
 were successful. The gunboats Satellite and Reliance, recently
@@ -4832,7 +4833,7 @@ that they had done, but for something which it was supposed they might
 do. Mr. Seward has rung a bell on his right hand, and ordered the
 imprisonment, by telegraphic message to a Provost Marshal, of a
 guiltless citizen of New York--guiltless of anything but hatred of the
-war and fidelity to the Constitution; and has rung a bell on his eft
+war and fidelity to the Constitution; and has rung a bell on his [l]eft
 and ordered by similar agency the imprisonment of another citizen in
 Ohio for the same offences. The privilege and right of the writ of
 habeas corpus have been overruled in thousands of instances, without
@@ -4848,7 +4849,7 @@ words that not even the oaths of paid military spies could twist or
 pervert into anything worse than a want of confidence in the
 Administration, and of disbelief in war as an instrument for the
 restoration of a defunct Union, was seized two hours after midnight in
-his bedchamber and torn from the arms uf his agonised wife and family
+his bedchamber and torn from the arms of his agonised wife and family
 by a mob of soldiers, tried by court-martial, found guilty of plain
 speaking, and sentenced to banishment from his native land, in
 defiance of an express provision of the Constitution of the United
@@ -4994,7 +4995,7 @@ pony."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p301">
+<figure entity="v43p301">
 <head>THE WAR IN AMERICA: ASSAULT ON FORT
       WAGNER, CHARLESTON HARBOUR, ON THE NIGHT OF JULY 18--THE RUSH OF
       THE GARRISON TO THE PARAPET. FROM A SKETCH BY OUR SPECIAL
@@ -5065,7 +5066,7 @@ of the 8th, the Federals landed a force on the ruins of Fort Sumter,
 in the hope of taking it by a sudden and unexpected assault. The
 daring attempt failed. The Confederates were found prepared. The
 assailants lost sixty men by killing or drowning, and five officers
-wre among the prisoners ccaptured. At this point the curtain falls
+were among the prisoners captured. At this point the curtain falls
 upon this extraordinary siege, notable alike for the determination and
 the wonderful range of the weapons with which the attack has been
 conducted and the desperate tenacity of the defence.</p>
@@ -5085,7 +5086,7 @@ covered by my guns."</p>
 <p rend="center"><hi rend="smallcap">Other Military
 Movements.</hi></p>
 <p>No movement of importance has been made by either of the
-belligerant armies in Virginia, although there have been several
+belligerent armies in Virginia, although there have been several
 skirmishes. A report has been current in Washington that General Lee
 had received heavy reinforcements, and that he meditated another
 aggressive campaign. The Confederate weakness at Chattanooga and
@@ -5093,7 +5094,7 @@ other points is said to lend strength to this belief.</p>
 <p>In East Tennessee we hear of the capture by Burnside of Knoxville
 and the taking of Cumberland Gap, where he made 2000 Confederate
 prisoners; and the abandonment by the Confederates of Chattanooga,
-which was immediatly occupied by Rosencranz. The latter measure was
+which was immediately occupied by Rosencranz. The latter measure was
 probably taken by the Confederates with the view of advancing on and
 overpowering Burnside, but Rosencranz appears to have lost no time in
 taking possession of that strong Confederate position. A brief message
@@ -5124,7 +5125,7 @@ France since the outbreak of the war. Earl Russell's treatment of the
 Federal Government he considered had been unfriendly, and his
 correspondence "hard, curt, captious, and cynical." He charged the
 British Government with complicity with the "pirate ships" and their
-depredations, and said its liability was accumulating, The Frenc offer
+depredations, and said its liability was accumulating, The French offer
 of intervention was denounced, and a blow dealt at the "empire" of
 Mexico. The remarks denunciatory of England and France are said to
 have been loudly applauded.</p>
@@ -5147,16 +5148,16 @@ him unequivocally. Mr. Fernando Wood replied, regretting that
 Mr. Lincoln declined the innocent effort to ascertain whether the
 South desired to return to the Union.</p>
 <p>The Federal troops had been withdrawn from the streets and squares
-of New York, and no futber apprehensions of disturbance were
+of New York, and no futher apprehensions of disturbance were
 entertained--the City Council having finally passed the resolution
-approriating 3,000,000 dollars to pay for substitutes. Many of the
+appropriating 3,000,000 dollars to pay for substitutes. Many of the
 substitutes and conscripts who had been raised by the draught from New
 York and the adjoining States were showing a very refractory spirit;
 and, in one instance, an escort had to fire twice into some New Jersey
 recruits, who were ultimately disarmed.</p>
 <p>The draught is to be enforced in Ohio.</p>
 <p>The Kansas militia, inflamed by the massacre at Leavenworth, were
-preparing to enter Missour for the purpose of taking a bloody revenge
+preparing to enter Missouri for the purpose of taking a bloody revenge
 on all persons suspected of attachment to the Confederate cause; but
 the Federal General Schofield was endeavouring to restrain them.</p>
 <p>A meeting has been held at Paolo, Kansas, at which 3000 armed men
@@ -5235,7 +5236,7 @@ works in front of Fort Wagner, and to commence an advance on the
 last-named stronghold. In conjunction with their iron fleet, which
 took up an enfilading position seawards, they maintained a heavy fire
 of mortars, 11-inch and 15-inch guns, on the devoted sandworks during
-the whole day and preceeding the assault. At a little after eight in
+the whole day and preceding the assault. At a little after eight in
 the evening the Yankees attacked with three brigades, believing that a
 bombardment of twelve hours' duration from ordnance of hitherto
 unheard-of calibre would have demoralised or driven the garrison
@@ -5278,7 +5279,7 @@ were buried by the Southerners.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p301">
+<figure entity="v43p301">
 <head>THE WAR IN AMERICA: SCENE PRESENTED IN
       THE DITCH AND ON THE SOUTHERN SLOPE OF FORT WAGNER, CHARLESTON
       HARBOUR, THE MORNING AFTER THE ASSAULT OF JULY 18. FROM A SKETCH BY OUR SPECIAL
@@ -5451,7 +5452,7 @@ that a fearful riot not occurred in Mobile on the 4th ult. A party of
 soldiers' wives, to the number of 600, paraded the city with exciting
 mottoes on their banners, such as "Bread or Peace!" The soldiers
 offered no opposition to the display; but, in some instances, the
-citiznes attempted to arrest the progress of the procession. Intense
+citizens attempted to arrest the progress of the procession. Intense
 excitement prevailed.</p>
 <p>Advices from California are to the 18th ult. The steamer Nevada had
 arrived at San Francisco from Oregon and British Columbia, with
@@ -5459,7 +5460,7 @@ arrived at San Francisco from Oregon and British Columbia, with
 Francisco to within seventeen miles of San Jos&#x00E9;, over the
 Western Pacific Railroad. Twenty-five miles would be in order for
 passenger cars within a month. The rest of the road to San Jos&#x00E9;
-will be conpleted by January. The steamer Senator had sailed for the
+will be completed by January. The steamer Senator had sailed for the
 southern coast, completely loaded with passengers and freight for the
 mines lately discovered 150 miles east of the Colorado River, now
 called the San Francisco mining district. The excitement in the
@@ -5507,7 +5508,7 @@ down by thirty-eight to one.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p341">
+<figure entity="v43p341">
 <head>MACON, GEORGIA.--SEE NEXT PAGE.</head>
 </figure>
 </p>
@@ -5570,7 +5571,7 @@ public thoroughfares. At the extremity is the County Courthouse; on
 the right is the tall spire of the Presbyterian, and on the left the
 tower of the Episcopal Church. Here and there another church or cupola
 and some taller buildings peep forth from the trees, gleaming white
-and dazzling in the brigt sunshine; and the undulating distant country
+and dazzling in the bright sunshine; and the undulating distant country
 spreads in a chequered landscape of dark forests and crops of golden
 corn.</p></div2>
 
@@ -5607,7 +5608,7 @@ man dare do," no modern writer who can more successfully stir up in
 his reader all those evil and angry passions which it should be the
 labour of our lives to subdue. <hi rend="italic">Bella, horrida
 bella</hi>, are the theme for such a writer; and it is in a certain
-sense to be desplored that he should have been reduced to put upon
+sense to be deplored that he should have been reduced to put upon
 record only the story of a not very extraordinary voyage across the
 Atlantic, of agreeable evenings with the ladies of Baltimore, of
 experiences in horsedealing, of drinking-parties and drunken Irishmen,
@@ -5641,11 +5642,11 @@ threatens him on paper, and amuses himself during his captivity by
 such sentences as "officials are justified, I suppose, in avoiding all
 waste of time and trouble; perhaps it <hi rend="italic">was</hi> more
 simple to <hi rend="italic">lie</hi> to a subordinate than to risk the
-short discussion that an interview would have nvolved;" and "should
+short discussion that an interview would have involved;" and "should
 the changes and chances of this mortal life ever bring me face to face
 with that jovial Judge on any neutral ground, by my faith and honour I
 will say in his ear five short words not hard to understand." <hi
-rend="italic">&#x00C6;quam mememto rebus in or lis servare mentem</hi>
+rend="italic">&#x00C6;quam mememto rebus in arduis servare mentem</hi>
 is a good precept, which our author, though a scholar, appears either
 not to have remembered or wilfully to have ignored. He may have been
 outrageously treated, but that fact is not made out by his "pitiful
@@ -5656,7 +5657,7 @@ slashing, savage style which characterises "Guy Livingstone."</p>
 <p><hi rend="italic">Our Old Home</hi>. By <hi
 rend="smallcap">Nathaniel Hawthorne.</hi> (2 vols. Smith and Elder.)
 Mr. Hawthorne has been justly said to be a man of genius, and it is
-almost impossible for a man of genuis to fill two volumes
+almost impossible for a man of genius to fill two volumes
 uninterestingly, Although, therefore, in this collection of articles
 (intended, it may be presumed, chiefly for Americans) there is
 scarcely any subject new to Englishmen treated of, they are handled in
@@ -5699,8 +5700,8 @@ beautiful.</p></div2>
 <extent></extent>
 </bibl>
 <p rend="center">EARL RUSSELL ON AMERICAN AFFAIRS.</p>
-<p>Earl Russell, who has been residing with his family at Melkleour
-House, Perthshite, for some weeks was entertained by the tentantry on
+<p>Earl Russell, who has been residing with his family at Meikleour
+House, Perthshire, for some weeks was entertained by the tenantry on
 the estate to a public dinner, which was held in the Public Hall at
 Blairgowrie last Saturday afternoon. His Lordship was met at the
 outskirts of Blairgowrie by a procession consisting of the different
@@ -5711,7 +5712,7 @@ religious liberty. Earl Russell then proceeded to the Public Hall,
 where the chair was taken by the Earl of Airlie; and Sir George
 Ramsey, Sheriff Barclay, and Mr. Kinloch, of Kinloch, were
 croupiers. The Rev. Mr. Marshall presented an address to the noble
-Earl, on behalf of the tenants of Melkleour, which referred at
+Earl, on behalf of the tenants of Meikleour, which referred at
 considerable length to various important measures in the carrying of
 which his Lordship had taken a part, and to his present difficult and
 delicate duties as Secretary of State for Foreign Affairs.</p>
@@ -5782,7 +5783,7 @@ subject. But I recollect we rebelled against Charles I., against James
 II., and that the people of New England, not content with these
 rebellions, rebelled against George III. I do not say now whether all
 these were justifiable or wrong. I do not say whether the rebellion of
-the Southern Staters is a justifiable insurrection--whether it is a
+the Southern States is a justifiable insurrection--whether it is a
 great fact or a great crime; but I state the mere fact that a
 rebellion is not in itself a crime of so deep a dye as to cause us to
 renounce our relations with people guilty of rebellion. But, to look
@@ -5834,10 +5835,10 @@ because, by an evasion of the law, the ship was fitted up without arms
 or equipment, and that equipment was conveyed to her in the waters of
 a foreign country, very far from the jurisdiction of England.</p>
 <p>Gentlemen, these questions must be weighed; but I think they will
-be weighed, as they have been by the Governmeut of the United States
+be weighed, as they have been by the Government of the United States
 of America, in the balance of equity. We know that the Foreign
 Enlistment Act and the whole law respecting that subject is one of
-difficult iapplication. The principle is clearing up; if you are asked
+difficult application. The principle is clearing up; if you are asked
 to sell muskets, you may sell them to one party or the other--guns,
 powder, cannons in the same way. If you are asked to sell a ship you
 may sell a ship in the same manner; but if you train and drill a
@@ -5878,7 +5879,7 @@ measures that her Majesty's Ministers may still add. In short, to sum
 up all, we are prepared to do everything that the duties of the
 neutrality require--everything that is just to a friendly nation,
 taking as a principle that we should do to others as we should wish to
-be done unto ourselves. But this we will not do, we will not adpot any
+be done unto ourselves. But this we will not do, we will not adopt any
 measures that we think to be wrong. We will not yield a jot of British
 law or British rights in consequence of the menaces of a foreign
 Power.</p>
@@ -5902,7 +5903,7 @@ authorities, but it had been laid down by these authorities in time of
 war, and that now we were neutrals I did not think we should depart
 from the law we had laid down as belligerents. I said that although in
 America there were some of the local courts which did not know the
-authority of such men as Lord Stowel and sir William Grant, there was
+authority of such men as Lord Stowell and sir William Grant, there was
 a court of appeal--the Supreme Court of the United States, which
 contained, and had contained for many years, men as learned, of as
 high reputation for law, and as unsullied a reputation for integrity
@@ -5918,11 +5919,11 @@ must make, one remark on the general tendency of these speeches and of
 these writings in America. The Government of America discusses these
 matters very fairly with the English Government. Sometimes we think
 they are quite in the wrong, and sometimes they say we are quite in
-the wrong. We discuss them fairly. With regard to thne Secretary of
+the wrong. We discuss them fairly. With regard to the Secretary of
 State, I see no complaint to make. I think he weighs the disadvantages
 and difficulties of our situation in a fair and equal balance; but not
 so these others, and that speech of Mr. Sumner is one of them, being
-an eptiome of almost all that has been contained in the press of
+an epitome of almost all that has been contained in the press of
 America on the subject. There are others by whom our conduct is very
 differently judged.</p>
 <p>I say, with regard to all these matters, they are difficult
@@ -6036,7 +6037,7 @@ and Davis, was then withdrawn from the right, where a portion of it
 was in the line of battle, and from the centre, where it was held in
 reserve, and sent to Thomas's support. Its place in the centre was
 filled as well as it could be by the divisions of Sheridan and
-Davis. The change had been no sooner effected than a furious enslaught
+Davis. The change had been no sooner effected than a furious onslaught
 was made on the centre, and Sheridan and Davis were driven off the ground in disorder, borne down by superior force, and
 were not rallied and brought into action again for some hours. Thomas
 found his right flank thus exposed, and made his dispositions
@@ -6109,7 +6110,7 @@ imminent.</p></div2>
 news of the Confederate war-steamer Alabama. She has been cruising,
 together with her consort the Georgia, and her second prize the
 Conrad, now named the Tuscaloosa, in the neighbourhood of the Cape of
-Good Hope. She had captured the Federal bargque Sea Bride, in the
+Good Hope. She had captured the Federal barque Sea Bride, in the
 sight of thousands of spectators, while running into Table Bay. This
 capture was alleged by the Federal Consul to have been made within
 British jurisdiction, which he considered to extend to the distance of
@@ -6196,7 +6197,7 @@ to-day. The estimated value of these captures is 4,200,000 dols."</p>
 <p>The Confederate cruiser Tuscaloosa, Lieutenant Low, commander,
 formerly the Conrad, of Philadelphia, captured by the Alabama, and
 converted by Captain Semmes into a tender to his ship, put into
-Simon's Bay two days before the Alabama arrived there, for the purpore
+Simon's Bay two days before the Alabama arrived there, for the purpose
 of refitting. She carries two guns and ten men before the mast. About
 fourteen days before she fell in with the American ship Sautee, bound
 from Rangoon to Falmouth, and captured her; but, as the vessel was
@@ -6233,7 +6234,7 @@ bonded. The Georgia then proceeded to the island of Trinidad, on her
 way capturing the barque Good Hope, of Boston, bound to Agulhas, with
 a general cargo. Her captain had died some days before, and his body,
 being preserved in salt, Captain Maury had brought on board the
-Georga, read the funeral service over it, and committed it to the
+Georgia, read the funeral service over it, and committed it to the
 deep. During the service the barque J. W Sever hove in sight, and was
 chased by the Georgia. She was from Boston, bound to the Amoor river
 with machinery for the Russian Government. The prisoners of the Good
@@ -6241,7 +6242,7 @@ Hope were put on board and she was bonded. On June 18 the Georgia
 arrived at the Island of Trinidad. On June 25th she captured the ship
 Constitution, of New York, laden with coal for Shanghai, made a prize
 of her, and took her in to the island. On July 28 the Georgia captured
-the ship City of Bath, of Bath, from Caliao to Antwerp; the cargo
+the ship City of Bath, of Bath, from Callao to Antwerp; the cargo
 being neutral, she was bonded, and the prisoners of the Constitution
 were put on board her. On July 16 the Georgia captured the ship Prince
 of Wales, of Bath, from Valparaiso, bound to Antwerp with guano. The
@@ -6255,7 +6256,7 @@ respective clubs on board. The crews gathered their oars in
 double-quick time. We passed the Federal barque Urania at her
 anchorage; and that ship, regardful of the enemy, sported all her
 bunting with becoming pluck. The stars and stripes floated defiantly
-from her misen peak and her name from her main. On getting alongside
+from her mizen peak and her name from her main. On getting alongside
 the Alabama we found about a dozen boats before us; and we had not
 been on board five minutes before she was surrounded by nearly every
 boat in Table bay, and as boat after boat arrived, three hearty cheers
@@ -6271,7 +6272,7 @@ were given for Captain Semmes and the Alabama."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p361a">
+<figure entity="v43p361a">
 <head>CAPT. SEMMES' SECRETARY. MR. BULLOCK, MASTER.</head>
 </figure>
 </p>
@@ -6287,7 +6288,7 @@ were given for Captain Semmes and the Alabama."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p361b">
+<figure entity="v43p361b">
 <head>CAPTAIN SEMMES.</head>
 </figure>
 </p>
@@ -6303,7 +6304,7 @@ were given for Captain Semmes and the Alabama."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p361c">
+<figure entity="v43p361c">
 <head>MR. MACINTYRE KELL, FIRST LIEUTENANT.</head>
 </figure>
 </p>
@@ -6355,7 +6356,7 @@ Southern journals report that the confederates occupy Knoxville, and
 that Burnside was retiring to Cumberland Gap. In his report to the
 Confederate Secretary of War, General Bragg stated that, in the battle
 of the 20th ult., he captured 7000 prisoners, thirty-six guns, and
-twentnty-five stand of colours. The Baltimore correspondent of the <hi
+twenty-five stand of colours. The Baltimore correspondent of the <hi
 rend="italic">Herald</hi>, under date of the 22nd ult., states that
 Confederate prisoners describe Atlanta, in Georgia, as the largest
 d&#x00E9;p&#x00F4;t and manufactory of arms and ammunition in the
@@ -6533,7 +6534,7 @@ November as a day of thanksgiving. Mr. Lincoln's reasons are said to
 be:--"That, although in the midst of a stupendous civil war, the
 industrial resources of the country are more than ever flourishing;
 that the population, notwithstanding the waste in the camp and on the
-battefield, is steadily increasing; and that its peaceful
+battlefield, is steadily increasing; and that its peaceful
 relations with foreign Powers have been preserved, even though the
 severity of the conflict seemed to invite and provoke the aggression
 of foreign States."</p></div2>
@@ -6578,7 +6579,7 @@ authorities to import coolies from Polynesia. The population of the
 islands is decreasing more rapidly than at any former period. It is
 now estimated that they contain only 60,000 inhabitants.</p></div2>
 
-<div2 id="iln43.1227.002" n= "The Indian Method of Making Fire." type="Article">
+<div2 id="iln43.1227.004" n= "The Indian Method of Making Fire." type="Article">
   <head>THE INDIAN METHOD OF MAKING FIRE.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6595,7 +6596,7 @@ by the Indians on the north-west coast of the United States, which he
 has himself successfully employed. Each stick is 16 in. long, the
 thicker being 3 in. in circumference, and so cut that a section would
 give a rough ellipse with the largest diameter 1 1/8 of an inch. The
-smaller stick is 1 &#x00B7; in. in circumference. Both are crooked and
+smaller stick is 1 &#x00BE; in. in circumference. Both are crooked and
 whittled, so that a section shall give an irregular polygon. The
 smaller stick is of the same wood, but more compact in grain, and
 apparently of a slower growth. Both have been thoroughly roasted, and
@@ -6617,7 +6618,7 @@ point of success--runs his hands to the top and repeats the previous
 operation. A fine brown powder is soon produced by the attrition, and
 is carried along the side groove among the bark-fibre. This powder is
 finally ignited, and the burning transmitted along the groove to the
-bunch of bark-fibre, which ss quickly seized by the operator and blown
+bunch of bark-fibre, which is quickly seized by the operator and blown
 into a flame. With the sticks in my possession I have seen them
 produce a flame in about a minute, and have frequently done so myself
 in three minutes." The Indians now use Lucifer-matches, and the sticks
@@ -6852,7 +6853,7 @@ were the difference between himself and the Yankees social and
 religious instead of national and political; indeed, he could not hate
 them more than he (apparently) does had they once been his best
 friends. He says that General Scott considered lying an element in
-strategy, and accounts for the "bouncers" of Major-Gereral Pope and
+strategy, and accounts for the "bouncers" of Major-General Pope and
 others on the ground that they imitated the "old hero." Of M'Clellan,
 whom no less an authority than General Lee pronounced to be the best
 officer the Federals had, he asserts that the "young Napoleon" at the
@@ -6978,7 +6979,7 @@ abstain from coming back. But the lives of valuable, and educated, and
 wealthy citizens are another matter. Mr. Lincoln has an immense
 population to appeal to; but it is exceedingly unlikely that he will
 obtain these 300,000 volunteers, or a quarter of them. Now, could not
-the Russian friend step in? Could not the volnnteering be tried in
+the Russian friend step in? Could not the volunteering be tried in
 Russia? Suppose that the Emperor lent Mr. Lincoln a few thousands of
 Cossacks to help him to put down the South. That would be friendly in
 the highest sense of the term. And these brave Russians have had so
@@ -7060,7 +7061,7 @@ Charleston, eight miles from Harper's Ferry, and to the 19th the
 Confederate cavalry continued to operate on the rear of the Federals,
 till General Meade was pushed to the front of the defences of
 Washington. At this point, where a battle was considered as imminent,
-GeneraL Lee suddenly commenced a retreat, and the Federal cavalry
+General Lee suddenly commenced a retreat, and the Federal cavalry
 advanced as far as Warrenton Junction without meeting the
 Confederates, and it was found that General Lee had re-crossed the
 Rappahannock, having first entirely destroyed the railroad from
@@ -7107,7 +7108,7 @@ troops on the field,"</p>
 Chattanooga, for the supposed purpose of allaying the disputes between
 General Bragg and several of his principal officers.</p>
 <p>It was reported that General Bragg had been reinforced by the
-remainder of Longstreet's corps, and that he had wthdrawn the corps of
+remainder of Longstreet's corps, and that he had withdrawn the corps of
 General Breckenridge and General Hindman from the front of the Federal
 position at Chattanooga. These two corps were said to be "moving in
 force on the Federal left," and it was likewise asserted that the
@@ -7152,7 +7153,7 @@ is believed that James Island is occupied by 5000 Confederate
 troops. Sullivan Island is supposed to be occupied by about the same
 number, and in the immediate vicinity of Charleston are quartered
 10,000 men, making an aggregate force of about 20,000."</p>
-<p rend="center"><hi rend="smallcap">President Lincoln'S Call For
+<p rend="center"><hi rend="smallcap">President Lincoln's Call For
 Volunteers.</hi></p>
 <p>The following is President Lincoln's proclamation, calling for
 300,000 volunteers:--</p>
@@ -7187,7 +7188,7 @@ the present draught in the States where it is now in progress, or
 where it has not yet commenced.</p>
 <p>The quotas of the States and districts will be assigned by the War
 Department through the Provost-Marshal General's office, due regard
-being had for the men heretofore furnisbed, whether by volunteering or
+being had for the men heretofore furnished, whether by volunteering or
 draughting, and the recruiting will be conducted in accordance with
 such instructions as have been or may be issued by that
 department.</p>
@@ -7327,7 +7328,7 @@ the time at which these lines are written, is that he has again come
 over the river, beaten the Federal cavalry with heavy loss, and then
 advanced to attack them again. "The object of his movement,"says the
 New York message piteously, "is unknown." This is probable enough,
-but if one might hazard a guess, the object is not htat of throwing
+but if one might hazard a guess, the object is not that of throwing
 down his arms and asking terms a little milder than those clerical
 ones which menaced two kinds of fires to the Confederates and their
 leaders. Moreover, Longstreet has reinforced Bragg, news which must be
@@ -7430,7 +7431,7 @@ an Imperial speech to be made in a few hours from our writing, and
 that will give France and England something else to think about than
 their Consuls.</p></div2>
 
-<div2 id="iln43.1229.002" n= "The Rev. H. Ward Beecher" type="Article">
+<div2 id="iln43.1229.003" n= "The Rev. H. Ward Beecher" type="Article">
 <head>[THE REV. H. WARD BEECHER]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7444,7 +7445,7 @@ their Consuls.</p></div2>
 <p>the rev. H. Ward Beecher sailed last Saturday from Liverpool for
 America, in the Cunard steam-ship Asia.</p></div2>
 
-<div2 id="iln43.1229.003" n= "Echoes of the Week." type="Article">
+<div2 id="iln43.1229.004" n= "Echoes of the Week." type="Article">
 <head>ECHOES OF THE WEEK.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7668,7 +7669,7 @@ the troops that they were not common soldiers, but the best population
 of the country poured into the army, and he appealed to them from
 other incentives than military discipline. Self must be entirely
 forgotten in present times, and those who were hoarding up wealth were
-bharding up infamy, the mark of which they and their posterity who
+hoarding up infamy, the mark of which they and their posterity who
 shall have grown rich by war must bear.</p></div2>
 
 <div2 id="iln43.1231.002" n= "[Among the evils of the war]" type="Article">
@@ -7730,11 +7731,11 @@ the symphony of such a peace."</p>
 Federal statesman and philanthropist. The idea which he calls up is
 too painful to be regarded lightly, though the ridiculous blends with
 it to an extent which makes it difficult to repress a smile. If he had
-been content to be only portentiously magniloquent indeed of profane;
+been content to be only portentously magniloquent indeed of profane;
 if he could have remained outside the barrier, and not rushed in where
 those he invokes fear to tread, it would have been well. Could he have
 been satisfied with the music of the spheres and let the morning stars
-sing together, rejoiceingly "Hail, Columbia!" the sentiment would have
+sing together, rejoicingly "Hail, Columbia!" the sentiment would have
 been American, and not altogether impious. But the picture which he
 has sought to draw is so audacious that we should have hesitated to
 reproduce it, but that it is well that English readers should
@@ -7933,7 +7934,7 @@ all uncertainty on points which, under the peculiar circumstances of
 the case, are likely to be constantly cropping up.</p>
 <p>With all respect for the great skill and ability which have been
 exhibited by the advocates on both sides we venture to think that much
-of their labour has been practically thrown avay. The real object to
+of their labour has been practically thrown away. The real object to
 be attained is to explain and give a practical bearing on the facts,
 of the language of the section. For this purpose the defendants'
 counsel entered into elaborate conjectures as to what the intentions
@@ -8060,7 +8061,7 @@ Rogersville, some sixty miles from Knoxville; and, as we had already
 been informed, 600 prisoners and four guns there fell into the hands
 of the Confederates, who may probably have been advancing from
 Virginia.</p>
-<p>The Federals were keeping up a slow bombardmen on Fort Sumter, and
+<p>The Federals were keeping up a slow bombardment on Fort Sumter, and
 apparently with very little effect.</p>
 <p>No news had been received from General Banks's expedition since it
 sailed from New Orleans, and it was consequently thought that General
@@ -8071,7 +8072,7 @@ returning to Brashear city.</p>
 <p>Lord Lyons had communicated to the Government at Washington the
 fact that a Confederate plot had been discovered in Canada. The object
 was to seize the steamers on Lake Erie, liberate the prisoners in Fort
-Johnson, and burn the lake cities. Precuationary measures were at once
+Johnson, and burn the lake cities. Precautionary measures were at once
 taken.</p>
 <p>The Supreme Court of Pennsylvania, by a majority of its Judges, had
 declared the Conscription Act to be unconstitutional.</p>
@@ -8140,7 +8141,7 @@ with which they seek to renew their envenomed and fratricidal strife,
 and marking by their camp fires the narrow strip of darkness which
 divides them from each other. And here, among these lovely mountains,
 in scenes from which, a quarter of a century ago, the barbarian was
-ignominionaly "crowded out," have civilised men come to boast their
+ignominiously "crowded out," have civilised men come to boast their
 civilisation by imbruing their hands in the heart's blood of their
 brethren.--<hi rend="italic">The Times' Southern
 Correspondent.</hi></p></div2>
@@ -8258,6 +8259,8 @@ gathered from the following graphic, tuneful lines:--</p>
 Sicilian, Jewish, and Norse are set to the poet's facile
 measures.</p></div2>
 
+<!-- This is not included in the list of illustrations -->
+<!-- 
 <div2 id="iln43.1233.008" n="Her Majesty's Ship Majestic Keeping Watch
       over the Steam-Rams in the Mersey. El Tousson. The Majestic. El Monassir." type="illustration">
 <bibl>
@@ -8269,13 +8272,14 @@ measures.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p552">
+<figure entity="v43p552">
 <head>HER MAJESTY'S SHIP MAJESTIC KEEPING WATCH
       OVER THE STEAM-RAMS IN THE MERSEY. EL TOUSSON. THE MAJESTIC. EL MONASSIR.</head>
 </figure>
 </p>
 </div2>
-
+-->
+<!--
 <div2 id="iln43.1233.009" n= "Her Majesty's Ship Majestic Keeping
       Watch over the Steam-Rams in the Mersey." type="Article">
 <head>HER MAJESTY'S SHIP MAJESTIC KEEPING WATCH OVER THE STEAM-RAMS IN
@@ -8306,7 +8310,7 @@ each is 230 ft., the beam 42 ft., and the extreme depth less than 20
 ft. The burden is but 1500 tons register, and the draught of each
 vessel when loaded will be some 15 ft., the deck being about 6
 ft. above the waterline, all the intermediate surface being
-protected--first, by a coating of teak over the iron-skin of the ship,
+protected&#x2014;first, by a coating of teak over the iron-skin of the ship,
 and then by armour-plates over that, each massive scale being 5
 &#x00BD; in. thick. All this armour is dovetailed together so accurately that
 the joints are scarcely perceptible. The deck is of 5-in. teak, covered with iron, and the bulwarks are also of iron, being made so as to let down outwards, and thus to clear the decks during action. Two revolving
@@ -8333,6 +8337,8 @@ protect the screws and rudder from shot or collision. Each ram has
 capacity for 300 tons of coal. Our Engraving is from a drawing made by
 Mr. William Woods, of Queen's-road, Liverpool.</p></div2>
 
+-->
+
 <div2 id="iln43.1234.001" n="The War in America: Confederate
       Sharpshooters Firing on a Federal Supply-Train on the Tennessee
       River.--From a sketch by our Special Artist.--See Page 574." type="illustration">
@@ -8345,7 +8351,7 @@ Mr. William Woods, of Queen's-road, Liverpool.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p557">
+<figure entity="v43p557">
 <head>THE WAR IN AMERICA: CONFEDERATE
       SHARPSHOOTERS FIRING ON A FEDERAL SUPPLY-TRAIN ON THE TENNESSEE
       RIVER.--FROM A SKETCH BY OUR SPECIAL ARTIST.--SEE PAGE 574.</head>
@@ -8484,7 +8490,7 @@ off like a shot."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p561">
+<figure entity="v43p561">
 <head>FAMILY WORSHIP IN A PLANTATION IN SOUTH
       CAROLINA.--SEE PAGE 574; THE WAR IN AMERICA: THE FEDERALS
       SHELLING THE CITY OF CHARLESTON.--SHELL BURSTING IN THE
@@ -8507,7 +8513,7 @@ off like a shot."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p564">
+<figure entity="v43p564">
 <head>ILLUSTRATIONS OF THE WAR IN AMERICA BY
       OUR SPECIAL ARTIST. THE INTERIOR OF FORT SUMTER, CHARLESTON
       HARBOUR, AFTER A CONTINUOUS BOMBARDMENT BY THE FEDERAL BATTERIES
@@ -8601,7 +8607,7 @@ last-named work or has threatened to shell the city; and, in violation
 if all rules of warfare, he has turned his guns on unoffending women
 and children. The shelling commenced at midnight, but, fortunately,
 did little harm beyond terrifying the ladies left in the city. One
-house only was set on fire. I send you a sketch of a scene I witreseed
+house only was set on fire. I send you a sketch of a scene I witnessed
 in the neighbourhood of my own quarters. A fireman is running through
 the streets giving the alarm, and a watchman, thoroughly overcome, is
 taking leave of his senses and his staff in the
@@ -8611,7 +8617,7 @@ distance was over four miles.</p>
 Front Of Battery</hi></p>
 <p rend="center"><hi rend="smallcap">Wagner, Charleston.</hi></p>
 <p>During the last days of August the enemy made a great struggle for
-the possession of the Conferate rifle-pits in front of their own
+the possession of the Confederate rifle-pits in front of their own
 works. In their first attempt they were successfully repulsed; but on
 their second, the night after, they succeeded, owing to the bad
 conduct of some North Carolina troops, who were on picket. My sketch
@@ -8620,15 +8626,15 @@ Federals were defeated, with great loss. The entire garrison of
 Wagner, which is only a sandwork, never exceeded 1500, and this brave
 band defied the combined attacks of the Federal iron-clad navy and an
 army of twelve thousand men.</p>
-<p rend="center"><hi rend="smallcap">The Interior of Fort sumter
-After a Continued Bombard</hi></p>
-<p rend="center"><hi rend="smallcap">Ment by the Shore-Batteries of
+<p rend="center"><hi rend="smallcap">The Interior of Fort Sumter
+After a Continued Bombard-<lb/>
+Ment by the Shore-Batteries of
 the Federals.</hi></p>
 <p>The Federal commander, General Gilmore, having succeeded in
 erecting batteries on Morris Island some time since, commenced the
 bombardment of Fort Sumter with 200 lb. parrotts at over a range of
 two miles and a half. The grand old work which did such good service
-on the 7th of April last was unable to reply, and its brave rarrison
+on the 7th of April last was unable to reply, and its brave garrison
 was compelled to be silent spectators of the gradual demolition if its
 walls. I have frequently paid visits to the work since the bombardment
 commenced, and the inclosed Illustration will give you an idea of the
@@ -8686,7 +8692,7 @@ frail stick is the only salute that can be given to the declining orb
 of day. The would-be sharpshooters are displaced, and no more crack
 their rifles vainly at the gunners in our works. The peeping pickets
 on the base, near the Charleston side of the fort, no longer peer
-inquiitively and timidly at us. They are all gone into the vaults and
+inquisitively and timidly at us. They are all gone into the vaults and
 fastnesses of the fort, to undergo a process of slow incremation, by
 the crumbling rubble falling ever around and upon them from all
 sides. An awful and futile duty is theirs--to remain on this memorial
@@ -8717,7 +8723,7 @@ away.</p></q></div2>
 <p rend="center">CAROLINA.</p>
 <p><hi rend="smallcap">Linked</hi> with our Special Artist's
 Illustrations of the War in America is one from another source, of an
-entirely diffrent aspect (see page 561), in which the owner of a
+entirely different aspect (see page 561), in which the owner of a
 cotton plantation, South Carolina, is, with his wife and children,
 engaged in Divine worship, surrounded by his slaves, in a state of
 almost patriarchal simplicity. In the character of the negro as
@@ -8825,7 +8831,7 @@ candidate in the next presidential election. The Abolitionists may be
 said to have nominated him for re-election by the mouth of Mr. Wendell
 Phillips. "The man who had the heart to originate the emancipation
 proclamation," says the Abolitionist leader, "ought to remain in power
-six years longer at least." This decided nttan sufficiently disproves
+six years longer at least." This decided utterance sufficiently disproves
 the story which represented the President, on the authority of
 Mr. Phillips, as saying that the proclamation was the greatest mistake
 of his life.</p>
@@ -9010,7 +9016,7 @@ in the world. It is estimated that the product of this year will be
 <p rend="center">THE MAGAZINES.</p>
 <p>....Everything in <hi rend="italic">Macmillan</hi> is good this
 month. Mr. Kingsley's story is continued with unabated spirit, and the
-anonymous tale, "A Son ofthe Soil," bids fair to develop a new writer
+anonymous tale, "A Son of the Soil," bids fair to develop a new writer
 of rare merit. Mrs. Gaskell writes a touching notice of the late
 Colonel Shaw, Commander of the first negro regiment ever raised in
 America, and a choice example of the singularly pure, gentle, and
@@ -9119,9 +9125,9 @@ to illness.</p></div2>
 <p rend="center"><hi rend="smallcap">War Intelligence.</hi></p>
 <p>By the latest accounts from New York, to the morning of Dec. 5, we
 learn that General Meade, finding Lee's position on Mine Run Valley
-too strong for aesault, retreated on the 1st inst. to the north of the
+too strong for assault, retreated on the 1st inst. to the north of the
 Rapidan. It is supposed that Meade will go into winter quarters near
-Washington. The <hi rend="italic">Washigton Star</hi>, an official
+Washington. The <hi rend="italic">Washington Star</hi>, an official
 organ, declares that Meade's campaign was a military failure. It is
 rumoured that General Sedgwick will supersede Meade.</p>
 <p>The defeat of General Bragg was, it seems, not so disastrous as at
@@ -9130,7 +9136,7 @@ retreat, were bewildered and disordered, but they soon regained their
 coolness, and showed so strong a front, that the Federals had given up
 pursuing them, and General Grant had resolved on not prosecuting the
 campaign farther till the spring. Of the proceedings at Knoxville the
-papers leave us in doubt, and whether Longatreet has or has not
+papers leave us in doubt, and whether Longstreet has or has not
 retreated, after having attacked the city and been repulsed, remains
 uncertain. According to one account General Bragg has been superseded
 by General Hardee, who is preparing to resume the offensive against
@@ -9174,7 +9180,7 @@ ult.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p616">
+<figure entity="v43p616">
 <head>THE CONFEDERATE SCREW-STEAMER
       RAPPAHANNOCK LYING AT CALAIS PIER.--SEE PAGE 627.</head>
 </figure>
@@ -9193,7 +9199,7 @@ ult.</p></div2>
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
 <p rend="center">AMERICA.</p>
-<p rend="center"><hi rend="smallcap">President Lincoln'S Message And
+<p rend="center"><hi rend="smallcap">President Lincoln's Message And
 Proclamation Of Amnesty.</hi></p>
 <p>Congress met on the 7th inst., and on the 9th President Lincoln
 delivered his annual message, which was accompanied by a proclamation
@@ -9412,7 +9418,7 @@ when the gallant struggles of the South were exciting an admiration
 that tended to make a generous nation like our own forgetful of
 certain antecedents, which, nevertheless, ought not to be
 forgotten.</p>
-<p>But the Sumter gun silenced the anti-English Soutlherns, and the
+<p>But the Sumter gun silenced the anti-English Southerns, and the
 Confederates fought on in a way which has never failed to command
 English sympathies. We were never brought face to face with the
 slavery question, for the reason that the war, when it began, had
@@ -9504,7 +9510,7 @@ with us as was the North.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p661">
+<figure entity="v43p661">
 <head>THE WAR IN AMERICA: BATTLE OF
       CHICAMAUGA--THE CONFEDERATE GENERAL HOOD, WOUNDED.--FROM A
       SKETCH BY OUR SPECIAL ARTIST.--SEE NEXT PAGE.</head>
@@ -9625,7 +9631,7 @@ give a better idea of the relative positions of the contending forces,
 as in that the Tennessee River is seen, and even the inside of the
 Federal works.</p></div2>
 
-<div2 id="iln43.1237.004" n="Illustrations of the War in America. by
+<div2 id="iln43.1237.005" n="Illustrations of the War in America. by
       our Special Artist. View of Chattanooga and the Federal Lines
       from the Lower Ridge of Lookout Mountain.; View of Chattanooga
       and the Federal Positions from the Left Centre of the
@@ -9639,7 +9645,7 @@ Federal works.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="ILNv43p664">
+<figure entity="v43p664">
 <head>ILLUSTRATIONS OF THE WAR IN AMERICA. BY
       OUR SPECIAL ARTIST. VIEW OF CHATTANOOGA AND THE FEDERAL LINES
       FROM THE LOWER RIDGE OF LOOKOUT MOUNTAIN.; VIEW OF CHATTANOOGA
@@ -9648,3 +9654,4 @@ Federal works.</p></div2>
 </figure>
 </p>
 </div2></div1></body></text>
+</TEI.2>
