@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "iln.dtd"
+[<!ENTITY % iln-entities SYSTEM
+"/Beck-files/ILN/ILNCVS/ilnxml/iln_entities">
+ %iln-entities; ]>
+
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Civil War: The Illustrated London News
+Perspective</title>
+            <respStmt>
+               <resp>Compiled and edited by</resp>
+               <name>Sandra Still</name>
+            </respStmt>
+         </titleStmt>
+         <extent/>         
+         <publicationStmt>
+            <publisher>Lewis H. Beck Center</publisher>
+            <pubPlace>Emory University</pubPlace>
+            <address>
+               <addrLine>Atlanta, Georgia</addrLine>
+            </address>
+            <availability>
+               <p>2005 Emory University.
+Permission is granted to download, transmit, or otherwise reproduce,
+distribute or display the contributions to the work claimed by Emory
+University for non-profit educational purposes, provided this header
+is included in its entirety.  For inquiries about commercial uses,
+contact the Lewis H. Beck Center, Woodruff Library, Emory University,
+Atlanta, Georgia 30322</p>
+            </availability>
+            <date>2005</date>
+         </publicationStmt>
+         <seriesStmt>
+            <title>The Civil War: The Illustrated
+London News Perspective</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+<title>The Illustrated London News</title>
+               <biblScope type="volume">Volume 47</biblScope> 
+ <date>July to December 1865</date>
+</bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+	<change><date>November-December 2005</date>
+          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</resp></respStmt>
+          <item>Encoded text according to TEI guidelines.</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+<div1 id="iln47.001" n="Illustrated London News: Volume 47" type="Volume"> 
+            <head>Illustrated London News: Volume 47</head>
+<docDate>July to December 1865</docDate>
+
+<div2 id="iln47.1323.001" n= "Foreign and Colonial Intelligence:
+      United States." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE:
+      UNITED STATES.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 2</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+INTELLIGENCE.</hi></p>
+<p rend="center">UNITED STATES.</p>
+<p>The blockade of all United States ports, including Galveston, has
+been raised, and they are now open to foreign commerce.</p>
+<p>Mr. Seward has announced that, in consequence of England not
+absolutely withdrawing the twenty-four hours' rule, the Federal
+vessels will not pay the customary courtesies to vessels of the
+British Navy. The Federal Government also refuses to recognise any
+transfer of rebel cruisers, and claims the right to capture them under
+whatever flag they may be placed.</p>
+<p>President Johnson has appointed Andrew Hamilton of Texas, James
+Johnson of Georgia, and Louis B. Parsons of Alabama, provisional
+Governors of those States, in accordance with the programme adopted in
+North Carolina and Mississippi.</p>
+<p>Immense numbers of negroes, past work, have been expelled from the
+cities of Georgia. Great mortality prevails among the negroes in
+Charleston.</p>
+<p>Provisional Governor Holden, of North Carolina, has issued a
+proclamation calling for a Convention to amend the State Constitution,
+to elect a Governor and Legislature, and to restore the complete rule
+of civil law in that State. The Governor exhorts the people to become
+loyal, good, and useful citizens. He officially announces to the
+coloured people their freedom, and hopes they will become industrious,
+as otherwise their race cannot escape extinction. He promises to be
+their friend if they do right, but declares that he will aid in
+inflicting prompt punishment upon the idle and vicious.</p>
+<p>The message of the Governor to the Virginia Legislature urges the
+avoidance of all legislation calculated unnecessarily to irritate she
+people. He recommends fewer restrictions in the regulation of the
+white elective franchise. As neither himself nor the Legislature has
+the control of the negro suffrage, they will not deliberate on that
+question. An extra Session of the Virginia Legislature was convened on
+the 19th ult., at Richmond.</p>
+<p>The Governor of Tennessee has ordered the election of a full
+Congressional delegation.</p>
+<p>Orders have been issued to dismantle the defensive works around
+Washington, except twenty-two forts and three batteries, which will be
+strengthened and permanently garrisoned.</p>
+<p>The Government had ordered a further reduction of the army by
+50,000 men.</p>
+<p>The 25 per cent restriction duty on cotton west of the Mississippi
+had been removed.</p>
+<p>The country is now divided into five grand military divisions--the
+Atlantic, under General Meade; the Mississippi, under Sherman; the
+Tennessee, under General Thomas; the South-west, under General
+Sheridan; and the Pacific, under General Halleck.</p>
+<p>The grand jury of San Francisco has dismissed the complaint against
+the parties charged with organising an expedition to Mexico.</p>
+<p>Mr. Breckenridge and six others reached Cuba, on the 11th ult.,
+from the Florida coast. They crossed in an open boat.</p>
+<p>Mrs. Lincoln has taken up her residence, for the summer, at Hyde
+Park, six miles from Chicago.</p>
+<p>Mrs. Seward, wife of Secretary Seward, has died of bilious fever,
+at Washington.</p>
+<p>A delegation of Poles has had an interview with President
+Johnson. They say that 20,000 expatriated Poles desire to emigrate to
+America. Efforts are being made to get them to settle in Virginia.</p>
+<p>The reading of the argument for the defence, in the conspiracy
+trials, was continued before the military court in Washington on the
+21st ult. Mr. Doster, counsel for Payne and Atzerott, admitted the
+guilt of Payne, but urged the Court to consider how far his punishment
+should be mitigated on account of his manifest conviction that he was
+doing right in attempting to kill Mr. Seward. Payne had, by reason of
+his Southern education, his participation at a tender age in war, and
+by his residence in districts wherein the Federal troops had caused
+great devastation and suffering, become a deadly enemy to the
+North. He had erroneously regarded Mr. Lincoln as a tyrant and
+usurper, and Mr. Seward as a mortal enemy to the South and her
+institutions, and he therefore believed himself right in attempting
+his life. The accused was, in his guilt, only a consequence of the
+evil teachings of slaveholders, and was no hired tool, but a fanatic,
+an enthusiast, and a hero. Apart from his crime, which he (Mr. Doster)
+abhorred, he saw much in Payne's character to admire. Mr. Doster
+strongly urged the Court to consider the extenuating circumstances of
+the case before pronouncing sentence, although the prisoner desired to
+die, in the fanatical belief that, by suffering execution, he would
+gain a crown of martyrdom.</p>
+<p>In behalf of Atzerott, Mr. Doster claimed that the prisoner had,
+although at first he considered Booth's propositions, finally shrank
+from participation in their execution, merely maintaining an
+appearance of co-operation therein to escape Booth's indignation.</p>
+<p>An additional argument was read by Mr. Aiken in behalf of
+Mrs. Surratt, and the Court adjourned. In consequence of her serious
+illness, Mrs. Surratt has been removed from her cell to more
+comfortable quarters in the penitentiary.</p>
+<p>Mr. Reverdy Johnson has submitted an argument denying the
+jurisdiction of the military court for the conspiracy
+trial.</p></div2>
+
+<div2 id="iln47.1323.002" n= "Havannah advices announce" type="Article">
+<head>[HAVANNAH ADVICES ANNOUNCE]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 3</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p>Havannah advices announce the arrival of General John
+C. Breckenridge in Cuba, after an adventurous voyage, in company with
+six other persons, in an open boat, from the coast of Florida. The
+persons accompanying General Breckenridge were Colonel Wilson, an aid
+to Jefferson Davis, Captain Taylor Hood, formerly commander of the
+Tallahassee; Corporal Russell, two Confederate private soldiers, and a
+slave of Breckenridge's who refused to leave his master. General
+Breckenridge and Colonel Wilson were within forty miles of Mr. Davis
+when he was captured, and Captain Hood was actually with him, but
+succeeded in making his escape, and on the following day joined
+General Breckenridge, and the party at once started rapidly towards
+the coast. Crossing Georgia into Florida they descended the St. John's
+River in a boat to Jupiter's Inlet, where they met a party of Federal
+deserters, from whom they secured a better boat, which they hauled
+across the country to an inlet of the sea. After performing Divine
+worship the little party launched their boat. They had a narrow escape
+from capture on the first day of their voyage. They had beached their
+boat on a sand-reef, some sixty miles from their point of departure,
+in order to hunt shellfish, which, with Indian corn, constituted their
+sole food on the voyage. A Federal steam-transport came in sight, and
+a boat put off towards the reef. Captain Hood and the two privates met
+the boat, some distance from the reef, and succeeded in convincing the
+officer in charge that the party consisted of paroled soldiers, who
+were looking down the coast for old wrecks, and they were left
+unmolested. After a voyage of three, or, according to some accounts,
+eight days, involving great exposure and privation, they reached
+Cardenas, on June 11. They were very kindly received by the people,
+and the authorities furnished them transportation to Havannah. Colonel
+Helm, formerly United States Consul at Havannah, presented
+Breckenridge to the Captain-General of the island, who received him
+with cordial hospitality and great courtesy, and is said to have
+assured him of a safe asylum in the island.</p></div2>
+
+<div2 id="iln47.1323.003" n= "Imperial Parliament." type="Article">
+<head>IMPERIAL PARLIAMENT.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 10</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
+<p rend="center">HOUSE OF LORDS.--<hi
+rend="smallcaps">Monday.</hi></p>
+<p>Lord Brougham, referring to comments which had been made with
+regard to his views on the subject of slavery, denied that he had ever
+been favourable to the slaveowners of the Southern States of
+America....</p></div2>
+
+<div2 id="iln47.1323.004" n= "On the 16th of June" type="Article">
+<head>[ON THE 16TH OF JUNE]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 11</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p>On the 16th of June a stone monument, 27 ft. high, was erected,
+with due ceremonial, on a crest a little south of Henry-house, "in
+memory of the patriots who fell at Bull Run, July 21, 1861." The spot
+selected is where Heintzelman's division made their hardest fight, but
+were finally driven back by Kirby Smith. A considerable force of
+troops was on the ground, and a large company of civilians; proper
+religious exercises were gone through, some addresses delivered, and
+then a salute was fired by Captain Smith's Massachusetts battery on
+the same spot where Rickett's battery was captured. The battle-field
+itself presents few evidences of the engagement. Here and there a
+mound indicates a grave, but they are not numerous; and the only relic
+found was an old musket barrel.</p></div2>
+
+<div2 id="iln47.1323.005" n= "The Island of Sombrero." type="Article">
+<head>THE ISLAND OF SOMBRERO.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 17-18</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="smallcaps">THE</hi><lb/>ISLAND OF
+SOMBRERO.</p>
+<p><hi rend="smallcaps">Our</hi> Engraving represents one of the
+Leeward Islands, in the Caribbean Sea, containing the richest natural
+deposit of phosphate of lime at present known. The island was first
+visited by an English gentleman about the year 1814, and again by him
+in 1825, on which latter occasion a report was made to the British
+Government, but did not meet with that consideration which subsequent
+events prove it to have deserved. In 1856 the Americans took
+possession of the island, and in the course of a very short time
+exported to the extent of 100,000 tons of this valuable fertiliser, to
+resuscitate the exhausted lands of the Southern States. Subsequently
+their proceedings attracted the attention of a British surveying
+expedition, at that time engaged in the West Indies, as may be learned
+from a communication to the Royal Agricultural Society<pb n="18"/> of
+England, by Sir Roderick Murchison, who, in describing the geological
+structure of the island, says:--"I have often regretted that I have
+never had it in my power to communicate anything of importance to the
+British farmer; I am now, however, enabled to make an announcement
+which will, I have no doubt, be as acceptable to agriculturalists as
+it is likely to become very valuable to the merchant and shipowner."
+It appears that the Americans have already quarried away a
+considerable part of the island, and sold the substance in New
+York. This transaction led to an official correspondence between the
+British and American Governments, and eventually the right of the
+British Crown to the possession of this valuable deposit was
+acknowledged by the United States Government. Sir Roderick Murchison
+considers our holding the Island of Sombrero to be of great national
+importance, in providing our agriculturists, from a British
+possession, with a plentiful supply of a good substitute for the guano
+of Peru.</p></div2>
+
+<div2 id="iln47.1323.006" n= "Willie Pape" type="Article">
+<head>[WILLIE PAPE]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 18</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p>Willie Pape, the celebrated young American pianist, gave a
+"pianoforte recital" at the Hanover-square Rooms, on Friday evening,
+the 23rd of June, which was under the special patronage of their Royal
+Highnesses the Prince and Princess of Wales, and was attended by a
+crowded and brilliant assemblage. The programme included Liszt's
+"Grand Paraphrase on Verdi's Jerusalem," Beethoven's Grand Sonata
+op. 31, Weber's "Motp Perpetuo," Mendelssohn's "Introduction and
+Fugue," Thalberg's fantasia "The Last Rose of Summer," Benedict's
+"Where the bee sucks," and several compositions by Master Pape
+himself. The whole performances were most warmly and justly
+applauded. Willie Pape has been engaged to give a series of pianoforte
+recitals at the Dublin Exhibition.</p></div2>
+
+<div2 id="iln47.1323.007" n= "The Theatres." type="Article">
+<head>THE THEATRES.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 19</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">THE THEATRES.</hi></p>
+<p>....On Monday the new actor from America appeared at the New
+Adelphi, in an American play and an American character. Mr. Owens
+then, for the first time, presented himself before the British public,
+and produced a new drama, entitled "Solon Shingle." The hero is an
+American farmer who, in paying a visit to an American village, makes
+himself at home wherever he is, and practises a familiarity so free
+and easy that he scarcely recognizes any distinction between <hi
+rend="italic">meum</hi> and <hi rend="italic">tuum.</hi> The
+nonchalance and provincialism of the character are very striking and
+novel; the make-up is admirable. The old man toddles about, and
+interferes in every thing, intruding himself into a merchant's store
+at a late hour in the evening, and even into the Court of Justice,
+standing up as a witness in a cause with which he had nothing to
+do. In these different situations he spins a variety of yarns, in
+which the most is made of nothing, the peculiarities of character
+being brought out by minute details, which have no importance but as
+they illustrate an individuality. Altogether, this is a remarkable
+performance, and may make a sensation....</p></div2>
+
+<div2 id="iln47.1323.008" n= "A 'Shoddy' Millionaire at New York." type="Article">
+<head>A 'SHODDY' MILLIONAIRE AT NEW YORK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 19</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p><hi rend="smallcaps">A "Shoddy" Millionaire At New York</hi>.--One
+day, when Tommy was "doing" New York, he strode into Tiffany's
+magnificent jewellery establishment, on Broadway, and startled the
+assembled salesmen with a loud "Show us a diamond!""Here is one, Sir,"
+responded an elegantly modulated voice from the "diamond department."
+"Eighty dollars, Sir." "Pooh! not such a speck as that; something
+bigger." "Allow me to show you this; very pure stone, Sir, 160 dols."
+"Nonsense, bigger!" Herewith the gentlemanly salesman (who I have
+always suspected to be a noble Lord in difficulties) produced the
+brilliant of about the size of a small pea. "Exquisite stone, Sir;
+first water, 800." "Look here!" cried Tommy, becoming exasperated, "If
+you've got a reg'lar diamond, fetch it out; if you haven't, just say
+so." My Lord, half amused, half vexed, here, by way of totally
+annihilating his rough customer, brought out the Koh-i-noor of the
+place. "Will this suit you, Sir? Moderately fine stone; price, 15,000
+dols." "Now you're coming to it!" cried Tommy, decidedly
+mollified. "Is this the tip-top biggest?" "It is, Sir," replied his
+Lordship, coolly (stroking his beard at the same time, as if to say,
+"Now, my rustic friend, I have wasted quite time enough upon you, you
+may go.") "You ain't got nothin' bigger, now?" "Nothing, I assure
+you." "Then I'll take it." M'Lord, I grieve to say, lost his presence
+of mind, and stared; but Thomas at once produced a huge roll of
+"greenbacks," counted out the money, and the sale was concluded. This,
+as I have been told, occurred more than a year ago. Now, my Lord,
+having become somewhat familiar with the ways and means of Shoddy,
+would scarcely lift his eyelids were his coalheaver to propose to buy
+out the entire concern.--<hi rend="italic">Cornhill Magazine</hi> for
+July.</p></div2>
+
+<div2 id="iln47.1323.009" n= "The Queen has approved" type="Article">
+<head>[THE QUEEN HAS APPROVED]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 19</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p>The Queen has approved of Mr. George T. Morehouse as Consul at
+St. John's, Canada, for the United States of America.</p></div2>
+
+<div2 id="iln47.1323.010" n= "Sixteen years ago" type="Article">
+<head>[SIXTEEN YEARS AGO]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 22</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p>Sixteen years ago San Francisco was a petty hamlet, lying on the
+sandy slope that curved its yellow crescent behind Clarke's Point. A
+few whalers and United States men-of-war had touched there at long
+intervals and an occsional merchant vessel had taken aboard a cargo of
+hides and tallow. The interior was a <hi rend="italic">terra
+incognita</hi> to all except its simple natives and the few travellers
+and emigrants who had partly explored it. In one year after the
+discovery of gold had become universally known San Francisco had a
+population of about 30,000, and its harbour was filled with ships from
+every quarter of the world. Ten years later its population had more
+than doubled; and five years later it had nearly doubled again, being
+hard on to 120,000.</p></div2>
+
+<div2 id="iln47.1323.011" n= "Echoes of the Week." type="Article">
+<head>ECHOES OF THE WEEK.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1323</biblScope>
+<biblScope type="pages">p. 27</biblScope>
+<date value="1865-07-08">July 8, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center">ECHOES OF THE WEEK.</p>
+<p>....We may add that the <hi rend="italic">Westminster</hi> also
+unearths a new American novelist, a Theodore Winthrop, one who fell as
+a private volunteer in the early part of the war and left several
+novels, many times rejected, which, having been since published, turn
+out to be works of real genius. It is the old story of discovering
+merit when it is too late to reward it!</p></div2>
+
+<div2 id="iln47.1324.001" n= "Reconstruction, British and American." type="Article">
+<head>RECONSTRUCTION, BRITISH AND AMERICAN.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1324</biblScope>
+<biblScope type="pages">p. 29</biblScope>
+<date value="1865-07-15">July 15, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center">RECONSTRUCTION, BRITISH AND<lb/>AMERICAN.</p>
+<p><hi rend="smallcaps">A Great</hi> work of political reconstruction
+is in mid progress in the United Kingdom. We are not, indeed,
+refashioning our Constitution. The three estates of the realm, their
+proper sphere and limits of action, their mutual duties and
+responsibilities, remain what they have been, and are unchallenged by
+public opinion. We are meddling with none of our great national
+institutions. We are shifting nothing of importance from its ancient
+basis. Nevertheless, we have been engaged throughout the week now
+closing, and we shall be more or less generally engaged for the next
+fortnight, in building up again that part of the machinery of
+government which, because it bears the chief stress of legislation and
+has a predominant influence on its character and results, is wisely
+submitted to periodical renovation with a view to adapt it to such
+change as may have passed upon the public mind. The Crown, acting in
+conformity with law, has dissolved one House of Commons, and the
+country is busy in putting together another. Strictly speaking, the
+work is one of reconstruction, but reconstruction in an extremely
+limited sense.</p>
+<p>In the very thick of the turmoil inevitably occasioned by a general
+election there is ground for satisfaction in the knowledge that the
+process is attended with no danger. The legislative mechanism which on
+Monday morning last was nonexistent, and which even yet is but half
+refitted, will be framed on the same model, with two or three trifling
+exceptions, as that which has served the use of the present
+generation. Such alterations as are now being made will affect merely
+the materials of which it is composed. The leading wheels and
+principal levers in the machine will, for the most part, be replaced
+from the old one. They will, no doubt, be cleansed of some of the
+deposit which during six years' work has accumulated about them, and
+which had helped somewhat to clog their movements. Friction against
+the great outside public will, perhaps, rub away some soil and rust,
+and fit them for accelerated action. But no great change is desired or
+will be effected as regards them. In conjunction, however, with these
+more important parts, there are a considerable number and variety of
+minor pieces, all having something to do towards the general result,
+and each susceptible, in doing it, of improvement or decay. It is here
+that the chief alterations are to be expected. Old and untrustworthy
+appliances, or, what in effect amounts to the same thing, those which
+are thought to be such, will be cast aside for new and more promising
+material. That which is suffered to remain will in many cases be
+passed through the fire, hammered into more convenient forms, polished
+and lubricated, and, refitted to its former place. There will be a
+deal of scouring and cleaning, the substitution of not a little that
+is untried for that which after trial is found wanting, and, it is to
+be hoped, a general improvement of the machinery in regard to the
+parts of which it is composed; but that will be the whole amount of
+positive change accomplished or sought. There is nothing in all this
+calculated to unsettle public confidence, nothing to excite misgivings
+as to the future, no empiricism of which the most timid need to be
+afraid.</p>
+<p>Of course, we do not mean to imply that change even to this extent
+may not or will not involve some change in the action of
+Parliament. We shall not assume to judge what may be the character of
+the future House of Commons, or what will be the drift of its
+policy. Only events will bring either the one or the other fully into
+light, But we do regard it as matter of satisfaction that, on the
+whole, the process which is being now resorted to will tend rather to
+abridge than to widen the distance between the legislatorial power and
+the settled convictions<pb n="30"/> and will of the country. Whatever
+these latter may prove to be, after the criticism, the siftings, and
+the verdict of a general election, they may be embodied in law without
+imperilling anything which commends itself to sound sense and just
+feeling, and almost as certainly without producing so much as a jar
+upon the nervous system of the community. We may anticipate just so
+much expansion in the aims and proceedings of the Government as will
+be rendered necessary by any expansion which has taken place in the
+thoughts and wishes of the public. That is all; and that is an issue
+to which every intelligent and well-trained mind will be content to
+submit. So that, as far as the United Kingdom is concerned,
+reconstruction is but a renovation of means and apparatus, with growth
+as the result. The process is far from unimportant. Upon those who
+conduct it rests a grave responsibility, but, at least, it is
+unaccompanied by serious apprehensions for the future.</p>
+<p>Our kinsmen on the other side of the Atlantic are also intent just
+now upon the business of reconstruction--but under what different
+circumstances and on how much wider a scale! Let it not be supposed
+that we allude to the contrast for the sake of self-glorification--we
+do so merely, with a view to deepen our own sense of
+thankfulness. That they have to face and master, as we can hardly
+doubt they will do, a much more searching and difficult problem than
+ourselves, cannot be attributed to the superiority of our
+qualifications, or of our mode of using them, in any respect. Our good
+fortune is, that we long since passed through that stage of national
+discipline which they have but just reached, and our hope is that they
+will get through it without more permanent suffering than we. Still,
+as a simple matter of fact, the processes which are at this moment
+operative in the two countries differ so widely the one from the other
+in depth, intensity, and duration, that one cannot help viewing then
+side by side. The reconstructive work now absorbing the energies of
+American statesmanship is not only difficult, but it touches close
+upon several dangerous issues. Whereas, in our own case, the past, and
+especially, the proximate past, is our mainstay, it is in theirs the
+source of disquietude. They have to reconstitute the South, not merely
+of new materials, bu after a new model. They have to lay again the
+very foundations of society. The civil war has broken up the
+pre-existing social system, and has pretty well levelled to the dust
+the political edifice. It would seem impracticable to reconstruct the
+latter in conformity with the provision of law, and, happily, as we
+think, impossible, as well as impolitic, to base society on the
+maintenance or rather the restoration of slavery. The consequence is
+an immense amount of present confusion, collision, and misery--the
+inevitable <hi rend="italic">d&#x00E9;bris</hi> of an armed conflict
+on so gigantic a scale. Some time will be required before the dust and
+smoke have sufficiently cleared away to allow of a definite plan being
+adopted and brought into operation. Much suffering will, doubtless, be
+endured meanwhile; but our Transatlantic cousins are not deficient in
+a talent for organisation. We believe they will work out the questions
+before them in much less time, and much more satisfactorily, than has
+been generally expected, and that the social difficulty will, after
+its first pressure, yield to the appliances which robust common-sense
+will bring to bear upon it.</p>
+<p>The contrast between the two countries at the present moment
+suggests matter for profitable consideration. A theory has been
+advanced by some, that no great nation can fully develop its
+capabilities until it has passed through the ordeal of a civil war,
+and that, in the course of its history, one such convulsive intestine
+struggle is inevitable. We shall not discuss this theory, neither can
+we assent to it. It may be true of certain stages of civilisation, but
+we question whether it can be predicated as a law applicable to
+nations which are, or will hereafter be, the growth of offshoots from
+a population already educated and trained in the principles and
+practice of self-government. Be this, however, as it may, every fresh
+instance presented to us by history of the attainment of political and
+social results by violent means makes us doubt whether the process be
+not more costly than the end will repay, and whether the mischief done
+by it be not so great that the time, the anxiety, the exertion, and
+the self-sacrifice required for the work of reparation might not have
+sufficed, if employed in conformity with law, to accomplish, within a
+given period, all that may have been achieved by the sword, and
+without anything like the attendant suffering. The upward and onward
+destinies of a people are seldom, if ever, permanently hastened by
+force. They are the result of moral culture, and in very few and
+exceptional instances is moral culture quickened by the destruction of
+property or the effusion of blood. The reconstruction rendered
+necessary by mortal conflicts is always difficult, often
+disappointing, and sometimes slower in arriving at its
+consummation--namely, the settlement of the vital question in
+dispute--than the patient use of milder methods would have been. We
+may well be thankful that the business on which our fellow-countrymen
+are now engaged is one which less than a month will be required to
+effect, and which, when effected, will place the country a step in
+advance; and we may sincerely sympathise with our American cousins
+that their work does not more closely resemble ours in the ease and
+certainty with which it may be dispatched. To bind up and heal deep
+wounds is a serious affair--to wash and be refreshed is but a trifling
+demand on exertion. Such, however, is the difference between what they
+and we are engaged in doing at the present time.</p></div2>
+
+<div2 id="iln47.1324.002" n= "Foreign and Colonial Intelligence:
+      America." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE:
+      AMERICA.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1324</biblScope>
+<biblScope type="pages">p. 30</biblScope>
+<date value="1865-07-15">July 15, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+INTELLIGENCE.</hi></p>
+<p rend="center">AMERICA.</p>
+<p>Telegrams from New York, to the 1st inst., state that the
+conspiracy trial in Washington has been concluded. The Military
+Commission has agreed upon the verdict, but it will not be made public
+until after it has been either approved or rejected by the
+President. The Judge-Advocate previously submitted an argument
+asserting that four of the prisoners were fellow-conspirators with
+Booth. He contended that the evidence showed that Davis, Sanders,
+Tucker, and others, planned and assisted the assassination.</p>
+<p>Owing to too close application to his duties, President Johnson has
+been indisposed for several days past and unable to take part in
+Cabinet meetings.</p>
+<p>Colonel Mosby, the celebrated Confederate cavalry raider, has been
+pardoned by the President, and has commenced practising law at
+Culpepper, Virginia.</p>
+<p>A deputation from South Carolina has had an interview with
+President Johnson to request the appointment of a civil
+governor. Johnson replied that no State would go out of the Union. He
+must deal with restoration, not reconstruction. The people of South
+Carolina could not be admitted to Congressional representation until
+they called a convention and adopted the Federal and State
+Constitutional Amendment abolishing slavery. He thought if negro
+suffrage were now granted employers would control negro suffrage to
+the detriment of the poor whites. He would, after consultation with
+his Cabinet, consider the appointment of a governor.</p>
+<p>President Johnson has ordered the military authorities at
+Charleston not to prohibit political assemblages of coloured
+people.</p>
+<p>General Terry has issued an order at Richmond that the negroes will
+enjoy the same personal liberty and be subject to the same restraints
+as whites.</p>
+<p>The Virginia Legislature has adjourned, after extending the
+franchise to those excluded by the Alexandria Constitution.</p>
+<p>There have been serious affrays between the Federal soldiers and
+the blacks at several places. At Norfolk the troops, aided by the
+white inhabitants, had driven the negroes from the town. At Charleston
+there had been a fight between the white and black soldiers, and
+several were wounded on each side, At Savannah a New York regiment had
+mutinied, and refused to do duty with the black troops; forty-three of
+the mutineers had been apprehended, and imprisoned in Fort Pulaski. A
+serious affray took place at Portsmouth, Virginia, between the white
+and coloured people. Many persons were wounded.</p>
+<p>General Herron, commanding in Northern Louisiana, has forbidden the
+slaves to leave the plantations.</p>
+<p>The Governor of Kentucky has addressed the people, declaring
+slavery to be dead and urging the adoption of the constitutional
+amendment.</p>
+<p>General Hooker has superseded General Dix.</p></div2>
+
+<div2 id="iln47.1324.003" n= "It is estimated" type="Article">
+<head>[IT IS ESTIMATED]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1324</biblScope>
+<biblScope type="pages">p. 47</biblScope>
+<date value="1865-07-15">July 15, 1865</date>
+<extent></extent>
+</bibl>
+<p>It is estimated that upwards of 9000 steam-engines, for oil wells
+and other purposes, have passed over the Atlantic and Great Western
+Railroad into Pennsylvania "Oildom."</p></div2>
+
+<div2 id="iln47.1324.004" n= "Ruins of the Carbine Factory and Railway
+      Station at Richmond." type="Article">
+<head>RUINS OF THE CARBINE FACTORY AND RAILWAY
+      STATION AT RICHMOND.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1324</biblScope>
+<biblScope type="pages">p. 48</biblScope>
+<date value="1865-07-15">July 15, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center">RUINS OF THE CARBINE FACTORY AND RAILWAY<lb/><hi
+rend="smallcaps">Station At Richmond.</hi></p>
+<p><hi rend="smallcaps">The</hi> scenes of havoc and ruin in the city
+of Richmond after the great conflagration which ensued upon the
+retirement of the Confederate army and Government, in the first week
+of April, have already been made the subjects of some of our
+Illustrations. We present in this Number a view of the ruins of the
+building which had been occupied as a carbine factory by the military
+department of the Administration, Richmond being a place where large
+quantities of arms and ammunition were manufactured during the
+war. Our second Engraving gives a view of the ruins of the buildings
+of the Richmond and Petersburg Railway, which here crosses the James
+River by a bridge already described. Some further Illustrations of
+this subject, as well as of the flight of the Confederate President
+into Georgia, will be published on a future occasion.</p></div2>
+
+<div2 id="iln47.1324.005" n="Richmond, Virginia: Ruins of the Carbine
+      Factory.; Ruins of the Railway Bridge." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.47</biblScope>
+<biblScope type="issue">no.1324</biblScope>
+<biblScope type="pages">p. 48</biblScope>
+<date value="1865-07-15">July 15, 1865</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="v47p48a">
+<head>RICHMOND, VIRGINIA: RUINS OF THE CARBINE
+      FACTORY.; RUINS OF THE RAILWAY BRIDGE.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln47.1324.006" n= "The Monuments on the Battle-Field of
+      Bull Run." type="Article">
+<head>THE MONUMENTS ON THE BATTLE-FIELD OF BULL RUN.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1324</biblScope>
+<biblScope type="pages">p. 48</biblScope>
+<date value="1865-07-15">July 15, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center">THE MONUMENTS ON THE BATTLE-FIELD<lb/><hi
+rend="smallcaps">Of Bull Run.</hi></p>
+<p><hi rend="smallcaps">Two</hi> battles--that of July 21, 1861, and
+that of Aug. 29, 1862--were fought between the Confederates and
+Federals in the plain traversed by the small river called Bull Run,
+which crosses the main road from Washington to Richmond, a few miles
+north of Manassas Gap. The scene of the first conflict, one of the
+earliest of the war in Virginia, would now scarcely be recognised as a
+battle-field. Four years have obliterated nearly all the marks of the
+struggle, and the relic-hunter only now and then finds in the grass a
+memento of the event. Very few shot and shell remain upon the surface,
+the trees are hiding the blotches on their trunks made by bullets, and
+the only bones that are found, with few exceptions, are those of
+horses, which visitors have not thought of sufficient importance to be
+carried away. Some of the fences have been rebuilt, and corn is
+planted in many places; while the rapidly-growing bushes hide nearly
+all the original features of the field. The battle-field of Groveton,
+two miles beyond, towards Warrenton, is more distinctly marked with
+traces of battle. Here the shot and shell are thickly strewn, the
+trees are splintered, and in many places the forest looks as if it had
+been visited by smallpox. The bones of the soldiers of both armies are
+scattered over the fields, and the phrenologist may find skulls
+enough. A monument has now been erected on each of the Bull Run
+battle-fields. These monuments are of chocolate-coloured, sandstone,
+thirty feet high, and were erected by the officers and men of General
+Gamble's separate cavalry brigade, camped at Fairfax Courthouse. The
+monument on the first Bull Run field is situated on the hill in front
+of the memorable stone house, on the spot where the 14th Brooklyn, 1st
+Michigan, and 1st and 2nd Maine were most hotly engaged, and where
+Ricketts and Griffin lost their batteries. The shaft is 27 ft. high,
+and bears upon its top a hundred-pound shell. On the pedestal, at each
+corner, is a shell of similar size. On one side of the shaft is
+inscribed, "To the memory of the patriots who fell at Bull Run, July
+21st, 1861," and on the reverse, "erected June 10th, 1865." The
+monument at Groveton is similar in its proportions, bearing the
+inscription, "To the memory of the patriots who fell at Groveton,
+August 29, 1862," and on the reverse, "Erected June 10th, 1865." Our
+Illustration represents the scene at the consecration, or
+"dedication," as it is called in America, of these monuments. The
+religious exercises were conducted on the first Bull Run field by the
+Rev. Dr. M'Murdy, who read an appropriate service, which was followed
+by a hymn written for the occasion by Pierpont; a military parade by
+the 5th Pennsylvania heavy artillery, Colonel Gallup; and a salute by
+the 16th Massachusetts battery, Captain Scott. At the close of these
+ceremonies, eloquent addresses were delivered by Judge Olin, General
+Wilcox, General Heintzelman, and General Farnsworth. At the second
+monument the services were similar to those described. A large party
+of visitors had come from Washington to be present on this
+occasion.</p></div2>
+
+<div2 id="iln47.1324.007" n="Dedication of the Monument on the
+      Battle-Field of Bull Run, Virginia." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.47</biblScope>
+<biblScope type="issue">no.1324</biblScope>
+<biblScope type="pages">p. 48</biblScope>
+<date value="1865-07-15">July 15, 1865</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="v47p48b">
+<head>DEDICATION OF THE MONUMENT ON THE
+      BATTLE-FIELD OF BULL RUN, VIRGINIA.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln47.1324.008" n= "The twenty-fifth report" type="Article">
+<head>[THE TWENTY-FIFTH REPORT]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1324</biblScope>
+<biblScope type="pages">p. 51</biblScope>
+<date value="1865-07-15">July 15, 1865</date>
+<extent></extent>
+</bibl>
+<p>The twenty-fifth report of the Emigration Commissioners was
+published last Saturday. The Commissioners state that, since the year
+1814, the numbers that have left the United Kingdom amount to
+5,691,709, of whom 3,450,531 have gone to the United States, 1,255,554
+to British North America, and 867,802 to the Australasian
+colonies.</p></div2>
+
+<div2 id="iln47.1325.001" n= "Foreign and Colonial Intelligence:
+      United States." type="Article">
+<head>FOREIGN AND COLONIAL INTELLIGENCE:
+      UNITED STATES.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1325</biblScope>
+<biblScope type="pages">p. 54</biblScope>
+<date value="1865-07-22">July 22, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+INTELLIGENCE.</hi></p>
+<p rend="center">UNITED STATES.</p>
+<p>The assasination trials are over, and the sentences partly carried
+out. Payne, Harrold, Atzerott, and Mrs. Surratt were hanged on the 7th
+inst. The Judge of the Supreme Court had previously served a writ of
+habeas corpus on General Hancock, in Mrs. Surratt's case, which, by
+President Johnson's order, was not obeyed. It is stated that Payne,
+previous to his execution, exonerated Mrs. Suratt, and that another
+person had subscribed to an affidavit impeaching the testimony of an
+important witness against her. Dr. Mudd, Arnold, and O'Laughlin are to
+be imprisoned, with hard labour, for life; and Spangler, the stage
+carpenter, is to be imprisoned, with hard labour, for six years.</p>
+<p>In Philadelphia the Provost Marshal having, by order from
+Washington, surrendered a prisoner named Cozzens to the Sheriff, Judge
+Thompson has since released him, declaring that the President's power
+to suspend the habeas corpus conferred by Congress terminated with the
+war.</p>
+<p>President Johnson's health is somewhat improved, but he is still
+unable to receive visitors. The health of Mr. F. W Seward continues to
+improve.</p>
+<p>Independence Day, the 4th of July, was celebrated with more than
+usual demonstrations of loyalty.</p>
+<p>President Johnson has issued a proclamation appointing Benjamin
+F. Perry Provisional Governor of South Carolina. All the seceded
+States, except Florida, have now either provisional or elected local
+governments. The details of reconstruction, however, are much more
+copious than interesting.</p>
+<p>General Grant authorizes the statement that all the white volunteer
+troops of the army would be mustered out of service at the earliest
+possible day. It was probable that, by the middle of August, there
+would not be 10,000 remaining in the whole of General Meade's military
+division of the Atlanta.</p>
+<p>Advices from the west report the capture of several desperate
+guerrillas and murderers.</p>
+<p>The military authorities of Richmond had taken precautionary
+measures against an apprehended negro insurrection.</p>
+<p>The Government are making arrangements to send to Atalanta a
+sufficient quantity of supplies to relieve the necessities of the
+people in that district, who for some time past had been reduced to
+the last extremities of famine.</p>
+<p>A committee of delegates, presenting the coloured population of
+Virginia, was to meet in Alexandria on the 2nd of August, to consider
+the condition and prospects of the race.</p>
+<p>The number of applicants to the President for pardon average
+between 200 and 300 a day. Papers were issued one day granting pardon
+to 180, mostly North Carolinians.</p>
+<p>The States of Wisconsin and Iowa have been visited by terrible
+tornadoes. The village of Virogna, Vernon County, Wisconsin a place of
+about 1200 inhabitants, was nearly destroyed. Seventeen persons were
+killed and more than a hundred badly injured. The loss of property was
+very great. In Iowa the crops were badly damaged, railroads and
+bridges destroyed, and serious damage done in several counties. Heavy
+rains succeeding had caused disastrous floods.</p>
+<p>Large numbers of Federal troops were landing along the Texas coast
+and the mouth of the Rio Grands. Six thousand troops, mostly coloured,
+had arrived at Brazos. A detachment had been sent up the river, and
+occupied Eagle Pass.</p>
+<p>The <hi rend="italic">Herald</hi> states that the Government had
+received official information that Spain would surrender the Stonewall
+to the United States.</p></div2>
+
+<div2 id="iln47.1325.002" n= "The Great Eastern" type="Article">
+<head>[THE GREAT EASTERN]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1325</biblScope>
+<biblScope type="pages">p. 62</biblScope>
+<date value="1865-07-22">July 22, 1865</date>
+<extent></extent>
+</bibl>
+<p>The Great Eastern, laden with the Atlantic telegraph cable, left
+the Nore last Saturday evening, and arrived off Valencia on Wednesday
+morning. The Caroline, with the shore end of cable, twenty-seven miles
+in length, was detained at Falmouth by bad weather until Monday, and
+had to be taken in tow by the Great Eastern off Land's-end the same
+day, and taken to Valencia during a heavy sea. The Terrible and the
+Sphynx are also off Valencia. In consequence of a heavy rolling sea,
+the Great Eastern was unable to communicate with the shore, and went
+for shelter to Berehaven Harbour, Bantry Bay, where she will lie until
+the shore end of the cable is laid--an operation which will occupy
+about two days, and which was to be set about directly the weather
+improved. Once started for the Newfoundland coast, the only danger to
+be feared i a storm severe enough to drive the Great Eastern from her
+course. Messages will be transmitted from the ship on paying out each
+fifty miles, so that the public will be able to watch her course from
+day to day almost as closely as those on board. On arriving at
+Newfoundland a message, already prepared, will be transmitted to the
+directors, and the receipt of ths will be considered proof that the
+line has been opened.</p></div2>
+
+<div2 id="iln47.1325.003" n= "The Theatres." type="Article">
+<head>THE THEATRES.</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 47</biblScope>
+<biblScope type="issue">no. 1325</biblScope>
+<biblScope type="pages">p. 63</biblScope>
+<date value="1865-07-22">July 22, 1865</date>
+<extent></extent>
+</bibl>
+<p rend="center"><hi rend="italic">THE THEATRES.</hi></p>
+<p>....We have a report of the progress of Mr. and Mrs. Charles Kean
+in St. Louis, where their reception appears to have been
+prodigious. On the 23rd of June Mr. Kean addressed the audience,
+promising to revisit them in November. On the 27th they appeared in
+"Henry VIII." and "The Jealous Wife," at the theatre in Chicago, which
+was filled in every part. The tragedies of "Hamlet" and "Louis XI."
+have also been performed with &#x00E9;clat. Altogether, they may be
+congratulated on their success.</p></div2>
+
+<div2 id="iln47.1325.004" n="The Last Days of the Confederate
+      Government.--From Sketches by our Special Artist. The Flight of
+      the Confederates: A Sudden Alarm and Stampede.; The Train of the
+      Confederates Crossing the Pe-Dee River, North Carolina.--See
+      Page 70." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.47</biblScope>
+<biblScope type="issue">no.1325</biblScope>
+<biblScope type="pages">p. 64</biblScope>
+<date value="1865-07-22">July 22, 1865</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="v47p64">
+<head>THE LAST DAYS OF THE CONFEDERATE
+      GOVERNMENT.--FROM SKETCHES BY OUR SPECIAL ARTIST. THE FLIGHT OF
+      THE CONFEDERATES: A SUDDEN ALARM AND STAMPEDE.; THE TRAIN OF THE
+      CONFEDERATES CROSSING THE PE-DEE RIVER, NORTH CAROLINA.--SEE
+      PAGE 70.</head>
+</figure>
+</p>
+</div2>
+
+<div2 id="iln47.1325.005" n="The Last Days of the Confederate
+      Government.--From Sketches by our Special Artist. Mr. Jefferson
+      Davis Signing Acts of Government by the Roadside.;
+      Mr. Jefferson Davis Bidding Farewell to his Escort Two Days
+      Before his Capture.--See Page 70." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.47</biblScope>
+<biblScope type="issue">no.1325</biblScope>
+<biblScope type="pages">p. 65</biblScope>
+<date value="1865-07-22">July 22, 1865</date>
+<extent></extent>
+</bibl>
+<p>
+<figure entity="v47p65">
+<head>THE LAST DAYS OF THE CONFEDERATE
+      GOVERNMENT.--FROM SKETCHES BY OUR SPECIAL ARTIST. MR. JEFFERSON
+      DAVIS SIGNING ACTS OF GOVERNMENT BY THE ROADSIDE.;
+      MR. JEFFERSON DAVIS BIDDING FAREWELL TO HIS ESCORT TWO DAYS
+      BEFORE HIS CAPTURE.--SEE PAGE 70.</head>
+</figure>
+</p>
+</div2>
+
+
+
+THE LAST DAYS OF THE CONFEDERATE
+
+GOVRNMEItT.
+
+Tnotrcrr published at a somewhat late period, the series of four Illustrations which we give this week cannot fail to prove of much interest to our readers. It must be taken into consideration that our Special Artist at the head-quarters of the Southern army bad numerous difficulties to contend with in the transmission of his correspondence to this Journal! and it is only now that, by his arrival in this country, we are placed in a position to avail ourselves of the last of his experiences in the Southern States of America.
+
+After the capitulation of General Johnston there was virtually no armed force left east of the Mississippi; and President Davis, already a fuve from Richmond, having been driven from the capital of Virginia by the surrender of General Lee, found himself again a wanderer by the wayside, seeking some means of escape from the Federal columns which were closing in upon him in all directions. Our Special Artist, as we have already stated, accompanied Mr. Davis in his flight to within forty-eight hours of his capture. A. few of the sketches he made, while following the ex-President, are now given to the public.
+
+One of these Illustrations shows the ex-President's train crossing the Pc-Dee River, in North Carolina This was a long and tedious operation. There are usually no bridges over the swift watercourses in this part of America, and very frequently no fords. Each waggon, with its team of mules, had in this instance to be ferried across separately, and this delay, with an enemy following in the rear, was, to say the least of it, a very anxious affair. In fact, more than one alarm of the approach of the Federal cavalry was given before half the train bad crossed the river, and the excitement amongst the rearguard and teamsters was excessive. The horses of the cavalry escort were made to swim the stream, being stripped of their saddles and their riders of most of their clothes. The confusion at the landing-place was enormous, as many of the frightened animals were scarcely in the water before they threw their riders and struggled to the bank, chargin through the crowd of attendant cavalrymen. Notwithstanding all this, the entire than used safely over the Ps-Dee and many other
+
+streams while our Artist was in its company, and the only misfortune that happened to him was two or three good duckinga.
+
+Another fllustration shows Mr. Davis and his Cabinet halting by the
+
+roadside; the en-President engaged in signing papers which Mr. Benjamin, his Secretary of State, is handing to him. This was probably the last official business transacted by the Confederate Cabinet, and may well be termed "Government by the roadside." Our readers must bear in mind that at any moment the alarm might be given of the enemy's advance, and, to say the least, such a condition of matters was scarcely calculated to give calmness to the delibe
+
+rations of the fugitive Government.
+
+The subject of another Illustration is the scene presented by a
+
+sudden alarm, or stampede, which was a very frequent occurrence,
+owing to the proximity of the Federal cavalry, who were frequently within three miles of the camp of the flying President. A scout had
+
+01 to dash in and give the alarm when everything went heltern3l to along the road-President, Ministers cavalrymen, four-muled
+
+A te wag.gons, and.teraified negro servants, all jum' bled up together.
+
+The last of these -Illustrations shows the farewell of Mr. Davis to his escort and gaff in the square of Washington, Georgia. It was here that he determined to continue his flight almost alone; and, assembling those round him who had sacrificed everything to the defeated cause, be, with tears in his eyes, begged them to seek their own safety and leave him to meet his fate. Undoubtedly, it was an ill-advised arrangement which brought an escort of 1500 men in the train of a man fleeing for his life; and, when boo late, Mr. Davis saw the error of thus attracting the attention of the entire country through which he passed, and disbanded them but forty-eight hours before his capture.
+TAnd so hera Eastern is fairly of and if in the ensuing fort
+
+night the telegraph cable is successfully laid down, amongst the
+
+earliest news that mm along the line at the rate of four words a minute will be that which relates the trial of Mr. Jefferson Da',-is. There is now plenty of force in America, and the admirers of Mr. Carlyle and a strong Government have their wish. No one can look at a photograph of President Johnson without seeing that he is a roan of great capacity and of iron will. By-the-way, with what fervour would the news be received, in America (were it only true) of the assertion that Qarlyle had undertaken the Life of President Lincoln. "Two men I honour," said that writer; "and no third: first, the toil-worn craftsman that conquers the earth. Venerable to me is thy hard hand, hardly-entreated brother I The second is the mspixed thinker . . . . These two, in all their degrees, I honour; all else is chaff and dust." "Unspeakably touching" is the Oarlylese expression for the effect the sight of the two labourers united in one person has on him; and in Abraham Lincoln, the eloquent rail-splitter and the martyred President, surely these were so. The life of a mad despot like Frederick might possibly be atoned for by the really deeply instructive life of Abraham Lincoln. Will Mr. yle take it in hand?
+The America Protestant church at Aspinwall w83 con.
+
+secreted on June 1, the ceremony being performed by Bishop Potter, of Pennsylvania. A large number of the residents of Panama, both native and foreign, including the President of the State, the French Consul, and other prominent inhabitants were present at the service. Thisis the first Protestant church ever erected on the isthmus of Panama. It is built of stone brought from the Pacific Ball road Company's quarry on the isthmus, and has been erected at the coat of the company. -
+IJ1cIThD STATES,
+
+It is reported that the Governmentl.s determined to try Mr. ])iwis
+
+by a military commission in consequence of the discovery of additional
+
+evidence implicating him in the assassination plot.
+
+Slowly, yet surely, the work of reorganising the southern States
+
+continues.
+
+Judge William Marvin, formerly Southern District Judge of Florida,
+
+lies been appointed provisional Governor of that State, with like instructions to those issued in relation to previous similar appointments. This appointment completes the work of supplying all the southern States with civil executives, and in once more placing the entire sisterhood of the Union under the direction of Governors, either elected or appointed, aeknowledgthg and in accord with the general Government.
+
+A Virginia delegation waited on the President and asked him to
+
+ame] the snnie4y pTeci nstou by striking out the clause excluding
+rebels with over 20,000 dols. Mr. Johnson replied that he saw 110
+
+reason for granting their request.
+
+Judge Sharkez, of Mississippi, has announced that the delegates
+
+to the State convention will be elected on Aug. 7.
+
+General Howard, the chief of the Freedmen's Bureau, has instructed
+
+his subordinates throughout the south to see that slavery is not reins..
+
+posed in the form of apprenticeship.
+
+It j officially estimated that the supplies of cotton in the country, amount to two million and a quarter bales, exclusive of the new crop
+
+The: "Confiscation Department" has seized much property a
+
+Richmond; and the publication of the .Richmond Whig has been sm.
+
+pended by the military authorities.
+
+An international trade convention, assembled at Detroit, Michigan, on the 11th inst. There were about 600 delegates present, composed of representalives of the board of trade said commercial association' of various cities of the northern, eastern, and western States, and
+
+the British provinces. An organization was effected, and other
+
+business of a preliminary character was transacted. General Hiran.
+
+Waibridge, of New York, was chosen president, and vice-preside
+
+for each of the States and provinces were chosen. The object of the convention is thus set forth:-Discussion and conference upon, first, finances; second, commerce; third, lines of transit from east
+
+west; fourth, the reciprocity treaty. The deliberations extended over several days. Various reports and resolutions were submitted, but the convention adjourned without important action.
+
+There is an evident attempt on the part of some members of the Government and leading politicians to create an excitement on the question of Imperialism in Mexico. Secretary Harlan and Mr. Montgomery Blair had. made speeches denouncing the French inter.. ,ention in Mexico and advocating the maintenance of the "Monroe doctrine."
+
+Barnum's Museum and many adjoining buildings, in New York
+
+have been destroyed by a fire which was suspected to have been caused
+
+by  isry. BRITISH NORTH AMBRICA,
+
+A meeting of the Canadian Cabinet was held at Quebec on the 14z inst., and the GovernorGeneral has summoned Parliament to assemble on the 8th proxinmo.
+
+A report preeeted, on the 14th inst., by Mr. Howes, of Nova.
+
+Scotia, contained the declaration that the annexation of the British
+
+provinces to the United States has no place in the minds of the people of those provinces, and that should. anyone attempt to go to the hastings as an advocate of such a scheme he would be treated as a revolutionist.
+THE ATLANTIC TELEGRAPH.
+
+Thizos are looking favourable for the Atlantic Telegraph. The
+
+shore. end of the cable was successfully landed at Valencil OR Saturday morning last. Connections were made with the inZtrUfli.t room at 12.45 p.m., Greenwich time, in the presence of a large 00* course. The Knight of Kerry and Sir Robert reel made congr$. tulatory speeches. Three cheers were given for her Majesty an(L three for the President of the United States. The paying-oat of the heavy shore cable, twenty-seven miles in length, was completed bT. the Caroline late in the evening. Shortly after four, on Sunday
+afternoon, the splice with the main cable on board the Great Eastern was completed, and the paying-out began from the Great Eastern. Disquietirg rumours were circulated on Tuesday to the effect that the cable was in danger of failure. We are glad, however, to learn that the hitch which occurred had been put right, and that at the time of our going to press all was working smoothly. Telegrams continue to be received from the gentlemen on board the Great Eastern, signailing that the work of laying the cable is proceeding satisfactorily; and this gigantic vessel, herself one of the wonders of the world, which is bearing across the Atlantic the 'wire that is to make thought simultaneous in the two hemispheres, has so far advanced on her 'voyage that we may indulge in hopes of its successful issue.
+
+A despatch from St. John's, Newfoundland, states :_c, In antici
+
+pation of the successful laying of the Atlantic cable a telegraph line
+
+has been constructed from this place to Heart's Content, the point selected for the landing of the American shore end of the cable. An office has been fitted up there, and everything that can be done to advance the securing of the shore end of the cable has been per. formed."
+Silver Peak is believed to be a pre-eminent over all silver
+
+mountains as the Iron mountain of Missouri is superior to all other iron
+
+deposits. Silver Peak is situated east of San Francisco, on the eastern side of
+
+the Sierra Nevada, and nearly one degree south of the city of Austin. It Is
+
+some two miles from Castle Mount, an old extinct crater, about 5000 ft. above ocean level. Near Silver Peak is an extensive deposit of salt, and not far distant a bill of pure sulphur. The whole country has a naked appearance, being piite destitute of vegetation, and bristles with mountains scattered over a plain of great extent. The dreaded "Valley of Death," upon the plains of which, along the "old Spanish trail," travellers have suffered so much, lies but a short distance to the south-east of the crater of Silver Peak. Little Salt Lake, in Southern Vtab, lies directly east of Silver Peak. At rst the searchers after deposits of the precious metals confined their searches to the Paciffc side of the Sierra Nevada; but discoveries in New Mexico, Arizona, and Virginia city induced a thorough examination o
+
+the east side of the Sierra Nevada. This resulted in great success, the most brilliant of which is found in the neighbourhood of Austin, on the line of the great overlend mail, where a city has sprung up within three years which, Senator Wye says, contains a population of 10,000. From along this line of exploration the miners are rapidly extending their operations, both north and south. Recently (within six months) they came upon this immense deposit near Castle Mount. Twelve exceedingly rich lodes, or "ledges" as the miners call them, were discovered on that single mountain. This discovery in an unexpected region is believed to be the most valuable yet developed. The specimens--a great number of which have been brought to New York by Colonel Catherwood-are certainly very remarkable, and merit the attention of the whole financial community. If there is no mistake-and with the specimens actually before us we do not see how there can be--a new deposit, superior ef en to the CDmstoOk lode, which has furnished so many millions of silver, is about to pour into our market its limitless supply of this precious metal.New Thric Journal of Commerce.
+- UNITED STATES. -
+
+The election at Richmond has resulted in the success of the Seces-sion ticket, Lee's paroled soldiers voting.
+
+The New Jersey Republican Convention has nominated Mr. I,. Ward for Governor. Resolutions wore adopted indorsilig President Johnson's policy and the amendment abolishing slavery, and also the resolutions of the Baltimore Convention in favour of enforcing the Monroe doctrine. A resolution in favour of negro suffrage was do-. bated by a large majority.
+
+Formidable guerrilla bands continue to infest the Teohe district of Louisiana.
+
+The Provisional Governor of South Carolina, Mr. Parry has issued a Union proclamation announcing the election of a state donvention to meet on the 6th of November next.
+
+General Lee, who is now at a country residence in Charlotte County, Virginia, is engaged in writing a history of his campaigns.
+
+In our obituary notice, last week, of the Prince Frederick
+
+EmiJius .&uguatns, of Sehlcswig.B:olstein, Usually styled the.Prince de air
+
+who died at Jicyrout, in Syria, on the 2nd ult., we omitted to mention his
+
+sccond marriage. The Prince married Miss Mary Lee, of Now York, at tin
+
+Church of the Redemption, at Paris, on the 3rd of November 1at
+TEE LAYING OF THE ATLANTIC LEGBPH GABLE.
+
+IN the Supplement to this Number,
+
+we have given an account ot all the Operations connected with it till the afternoon of Sunday, the 23rd nit., when the Great Eastern, having joined the main length to the shore-end of the cable, twenty or thirty miles from the Irish coast, started on her voyage across the Atlantic. Next day, as we mentioned in our last week's Paper, a telegraphic message was received from the Great Eastern, then lying to, in 1st. 52, long. 10, about eighty miles from shore, to say that some defect had been found lit the insulation of the telegraphic wire. This mischief was supposed to exist about two or three miles west of the shore-end of the splice, and it was believed to be caused by the 0-rest Eastern pulling on her end of the cable with too much strain before the shore-end splice was properly completed. The time at which this message was sent from the Great Eastern was half-past four on the Monday afternoon. There was no apprehension expressed regarding the complete and immediate repair of the damage, and the signals to the telegraphhouse at Valencia continued very distinct. The Hawk was sent out that evening to go to the Great Eastern and see what was the matter, while the Caroline was made ready to pick up the splice, if needful, and repair the fault. Next day a telegram from Mr. Glass, at Valencia, announced that "the cabin was all right there had been a hitch, but all was now right." The Great Bstern, being in list. 52, long. 12, telegraphed on that day (ruesday, the 25th) that "a small fault had been discovered and cut oat; she was now paying out again, and the signalling was perfect; the weather very fine." The nature of the accident was further explained next day when the Hawk had returned to Valencia. In cutting oil the loose ends of the twisted iron wires, which form the external covering of the cable, a tiny shred of such wire had been allowed to adhere to the composition which surrounds the central electric wire at the core of the cable, and having come In contact with the latter, had partially destroyed its insulation. This piece of the cable, however, being submerged at a depth of not more than two miles, could be raised again withoat much difficulty, and, the faulty part having been cat out, a fresh splice could be made. On the Wednesday morning the managing director at 'Valencia made the following announcement
+
+ The Great Eastern telegraphs that the distance run at 11.00 am. today was
+
+110 miles (nautical). The length of cable paid out at 6.50 a.m. was 100 miles
+
+(nautical). The signals are perfect. Weather very fine.
+
+At half-past seven on the same (Wednesday) evening, he agin reported," All well. Two hundred miles of cable wets paid out from the Great Eastern at 8p.m. to-day. All veil."
+
+The following despatches have since been published, from Thursday week to last Thursday
+
+VALPECIA, Thursday Morning (July 27).-The Great Eastern telegraphs that 800 miles were paid out at 5.51) a.m. to-day, and that 111)0 miles were ran. at 9.80 a.m. All Is gong well. The signals are perfect.
+
+VALENOLt, Thursday Afternoon (July 21).-Three hundred and fifty nautical miles of cable were paid out from the Great Eastern at 12.50. p.m.
+
+to-day, and 350 miles were run at 4.51) p.m. Greenwich time. All well.
+
+ON BOARD TIlE GREAT EASTERN, Friday Morning (July 28).-Five hundred
+
+nautical miles of cable were paid out at 10.50 a.m. to-day. The distance
+
+run at 93O a.m., wa 4130 miles. The signals are perfect, Weather fine.
+
+Friday Afternoon (July 28).-650 nautical miles of cable paid out St.
+
+4.10 p.m. to-day. All right.
+
+ON BOARD TUE GREAT EASTERN, Saturday (July20) 10.45 am.-600 miles of cable were paid out at 6,50 am. to-day. The distance run, at 0.50 am., was 600 miles. The signals are perfect.
+
+VALENCIA, Satmuilay (July 29).-Accident to cable. Cause unknown. Total Ices of insulation. No information from, or communication with, Great Eastc-rn. 700 miles paycd out at 1.50 p.m. today.
+
+VALENCIA, Sunday-All is going on well. The fault was removed at
+
+ISO n.m. The insulation is perfect.
+
+ON BOARD TIlE ChEAT ILt.STERN, Sunday, 4.15 a.m,-700 miles paid out.
+
+6130 miles run by Great Eastern. Continuity perfect. lasulaticin perfect.
+
+All going on well.
+
+ON BOARD 'ills OnseT E.&smrnc. Monday Afternoon-900 miles paid uCt
+
+at 1,00 p.m. to-day. 7130 miles run by Great Eaatoru at 7.130 am. All going
+
+on well.
+
+ON BOA DI) TIlE GREAT EASTERN, Tuesday Morning.-1030 miles paid out
+
+at 10.50 a.m. 000 Miles run by Great Eastern at 9.50 a.m. All going on well.
+
+ON BOARD TUE GREAT EAsTnnN,Wednesday Morning-1200 miles paid out at 7.30 am. 1050 miles run by Great Eastern at 0.00 a.m. All going on well.
+
+'VALENCIA. Wednesday, S p.m.-The signals from the Great Eastern
+
+bccr.nje unintelligible at noon to-dcslr. No communication has been had with the hipince, end no Information has been received. Cause unknown.
+
+'VALS'NCLS, Thursday, 11.30 a.m.-No information received from ship..
+
+Cause unknown. No communication with ship.
+
+The Canadians are getting up a petition cal]in on the
+
+Governor-General -to investigate a charge made against the American Consul
+
+at Detroit of having been engaged in secret efforts for the annexation of Canada to the United States.
+
+The announcement is made in a Warsaw journal that the
+
+long-talked-of vchcmo for connecting the eastern shores of the Russian empire with the western coast of North America has been so far matured that it has met with the approval and signature of the Czar. The Iiussiau Government agrees to complete the line as fat- as Nicolmijewsk, the American company t
+
+continue it from that point to San 1"raacisco California
+- On Sunday morning some American. and Liverpool tec!1 ye
+
+cfficers captured a banker's clerk who had run away from America with
+
+ICO,000 dollars, the property of his employers. The thief, whose fliim
+
+is Townecod, had been traced to Newhaven In Connecticut, to Havaunah, whence he 'went by the West India mail-steamer to Southampton. From there be travelled to Liverpool, and in the mean time two Philadelphia detectives crossed to England by a New York steamer, and, obtaining the assistance of some Liverpool officers, captured their man at the Ps1icit boarding-hoose. A. quantity of jewellery and 98,000 dollars were found Ca him. Lie attempted to draw a revolver, but the officers dioermed him.
+Mc.nii(an is scarcely so interesting as usual, though it has some valuable papers. The most important is Mr. Ludlow's sketch of the Presidents of the United States somewhat one-sided in its apprerations, but as lively and vigorous as most of the productions of title very earnest writer. Jefferson scarcely receives justice; the recent reaction in favour of the long-neglected Hamilton having naturally operated disadvantageously to the statesman who represented the opposite order of ideas. Both were eminent men; but it is Jefferson's
+
+=glo to have comprehended the genius of republican institutions e hi. ivil scarcely diguimd his preference for a limited monarchy: The practical good sense of the American people soon ascertained which of them was to be trusted, and we have no doubt that its verdict will be ultimately confirmed by posterity. Mr. Ludlow makes a strange mistake in calling President Adams a Calvinist: he was precisely the reverse. Professor Catracs, in his paper on negro eurage, discusses the most difficult question of contemporary American politics. It is certain that the President cannot confer the franchise on negroes without a violation of law, and it remains for the advocates of the measure to show that such an infringement is demanded by an imperious necessity. Professor Cairries argues the question very forcibly; but it is one that can only be determined after the most mature consideration. The existence of such difficulties is President Johnson's sufficient justification for continuing to keep a tight grasp on the leading men of the south. -
+Mere is very little news from A)nertca in the absence of
+
+new facts, may we speculate upon the fate of the Queen's letter and the shoals of addresses of condolence from England to Anieiioa on Lincoln's murder? Did they all go down in the Atlantic? or are we waiting till the completion of the telegraphic cable to hear that there is some response to the first at least-to an act so spontaneous, graceful, womanly, and Queenly?
+fl As most of our readers are probablr aware, the shore-end of the cable, extending 27 miles from land on this side of the ocean, was manufactured separately from the main length of 2300 miles, by Mr. W. T. Henley, of North Woolwich, and was conveyed to Valencia by a vessel belonging to him, the screw-steamer Caroline, which the Telegraph Construction and Maintenance Company had chartered for that portion of the work. This piece of the cable is the largest and heaviest ever made, weighing above twenty tons to the mile, and measuring 2 in. in diameter, at the shore end, but diminishing gradually, in the last 500 yards outwards, to the ordinary size of the main deep-sea cable, with which it has been joined. The core or heart of it is a cable precisely similar to the main length, but wrapped up in jute yarn, and covered outside by a winding of twelve strands of galvanised iron wires, three wires to the strand, and each wire a quarter of an inch thick. Its strength is estimated as equal to a breaking- strain of ninety tons. Such 'a the
+
+shore-end le
+on Saturday, July 15; and, with her insufficient steam-power, had enough to do in getting down the Channel, by screw and paddles, at the rate of six or seven miles an hour; but, when she came off the Land's End; on the Monday, she found the Caroline, which had started ten days before, and had lain weather-bound a week m Falmouth Harbour, unable to proceed without help. The Great Eastern was then obliged to take the Caroline in tow, from the Monday to the Wednesday morning, against a tough south-westerl 'wind and the tremendous swell of the open Atlantic, which, thoug scarcely felt by the huge Great Eastern, almost overwhelmed the unhappy Caroline. There was real danger of her being swamped, or rather dragged under the sea, as she went round the south coast of Ireland on the Tuesday night, the waves continually dashing over her decics from stem to stern, so that the men on deck were up to their waists in water. The officers and crew, who might have relieved themselves by casting off the tow-rope, endured this severe trial rather than fail to perform their part of the great work; but it must be considered that the Caroline was ill chosen for this service, and that, with better arrangements, the shore-end cable should have been safe at Valencia some time before the Great Eastern set forth. As it happened, the tow-rope accidentally breaking when a few miles off the Skeliigs Rocks, at five o'clock on the Wednesday morning, the Great Eastern first arrived alone at Valencia, which is about twenty miles distant, and the Caroline made her way in as soon as she could in the forenoon of that day. The Great Eaatorn, after landing two or three of the official gentlemen oonoerned in the enterprise went into Bearhaven, in Bantry Bay, where she was to lie securely till the Caroline should have completed the laying of the shore end, in readiness to meet the 0-rest Eastern and to form the junction with the main length of cable some twenty or thirty miles out at sea.
+
+ The Great Eastern was accompanied by H.M.S. Terrible and Sphinx, which met her at Valencia, and are to keep with her in her voyage to. Newfoundland. It should have been mentioned above that the Great Eastern was assisted likewise in her start from the Note by another of the Queen's ships, the surveying-steamer Porcupine under Staff-Commander Calver, by whose guidance she was enabls to pass through a deep channel, recently explored and veryseldom used, much more convenient for her than either the Swin or the Alexandra channel, Ordinarily frequented by vessels leaving the Thames or Medway for the North Sea. But we must return to the Caroline, where we left lier, at Pofihonimerum in Port Magee, a narrow inlet of the strait which separates the Isle of Valencia from the neighbouring coast of Kerry to the south. To that remote part of the United Kingdom, thirty -or forty miles west of Killarney, had the Telegraph Construction Company suddenly removed the scene of its operations, which we noticed so lately at East Greenwich and in the Medway prosperously tarried forward under the eye of the London world; yet, by means
+
+the pens of the reporters, and the pencil of our own Artist, the public we now made acquainted with the ininutest details of this mighty work.
+
+The road to Valencia, either from Killarney or from Kenmare and
+
+lengariff, at the head of Bantry Bay was travelled not without some delays by the few persons from London who, having made the best of their way to see the landing of the cable, succeeded in getting there on the morning of Saturday week. The local staff of the Telegraph Construction Company had seen engaged for some weeks past in various preparations on the spot. An encampment of the workmen was here or there to be seen along theroad;
+
+ mess reucs
+
+'of a'lonjthe shore of Dingle
+
+ay towards Cahirciveen, at the foot of the Keragh mountains. The ientral figure in our Artist's sketch is Mr. Watlook, the superintendent )f the works of the Magnetic Telegraph Company, to whom belon the ineconnectingValenciawiththetelegrap]ijosystemthroughoutixeiand.
+
+The poles on which the wire is stretched have, for the most part, been replaced by new and larger ones. It happened, rather unluckily, that one of these poles had been knocked down, some say by "an rmpul. ave Irish cow," others by a drunken Irish car-driver, on the very day the cable was landed, so that the news could not be transmitted to us in London quite so quickly as we should have been glad to receive it, but this defect was soon repaired.
+
+and ntereFiti4L~ the actual landing of the cable __from the ship Caxolin in the small haven at Foilhommerun
+
+esI71ise& This place lies just under and within Bray Read, the mountain promontory which forms the south-west corner of the Isle of Valencia, projecting into the Atlantic Ocean. it is distant six or seven miles across the island from Knightatown, the port, which occZ:..
+
+a
+
+paition on the strait like that of Sonderburg in the Isle of tak f, Lk high grow&d Thduw Cuialjeg
+
+almoot at the extremty-of--the laud A contemporary reporter gives this description of the scenery :-" We now reach nearly at the summit of the last bill slow wooden hut, painted black, and not unlike the summer establishment of some watering-place photographer. This is the temporary office of the Atlantic Telegraph Company. Along the waste land, at some distance to the right, are half a dozen thatched hovels, while a few feet from the grass-grown turf-wail which divides the field containing this office from the cliff, you look down upon the Caroline, which is in communication with the land by a lengthy floating bridge of boats. To the right and left precipitous rocks rise nearly 300 ft. from the sea, so hollowed at each side as to
+
+ Cto the securely-sheltered little haven, which is scarcely a mile M11 end to end, the conformation of a horseshoe. Rugged, steep, and utterly inaccessible, save where a rude and broken path has been formed by the cablemen, these cliffs are studded with wild flowers and ferns, and variegated by large patches of the brightest verdure, which alternate with masses of tangled seaweed and huge blocks of slate and partii-colouxed rock. Butler's Island, a large grassgrown strip of stony ground stretching from left to right, from the far point of the bay, lessens the opening to the sea, and materially helps to shelter this beautiful nook, though, as there is of course neither land nor breakwater between its entrance and America, it will be
+
+=understood that in rough weather it presents a
+
+Ynt appearance to the one it wore yesterday. Then all was
+
+smiling, sunny, and calm. The spectator who, after drinking in the beauties before bun from the heights, scrambled down the rugged path and stood among the men hauling the cable onshore, orbalanced Math and on one of the crags arresting his downward. path, was in a magnificent natural amphitheatre, with toiling peasants, earnest savaaia excited seamen, and eager capitalists for his actors-priests, locsi gentry, electricians, and telegrapbiats for his fellow lookers-on, and the broad Atlantic for his stage. Mr. Creawiok never surpassed the rich hues and bright tints of the rocks and vegetation around; Preth never painted brighter eyes, more supple figures, or more picturesquely artistic costumes than those of the barefooted nymphs assembled to look at Pat or Mike 'helping the tlligrah gintlemin;' Stanfleld never transferred to canvas a more beautiful and varied sea-piece than the one before us. On the highest pinnacle of the cliff, to the right, the country people had planted a succession of improvised flags, consisting of coloured pocket-handkerchiefs, scarlet cloaks, blankets, petticoats, and what not, which fluttered gaily in the breeze, while all round the summit a long fringe of lookers-on stood out sharp and clear against the blue shy, some mounted, some squatted on the ground, dudheen in month, some gesticulating in little groups, and all manifesting the keenest interest in the proceedans of the day. The peasant's notion of the mysterious wire is that it will somehow bring him nearer to the land of promise. Every Irish labourer tells you of the relatives or friends who have prospered in America; and no man or woman here seems too old or feehie to hope
+
+ for the day when their savings will amount to 'five or x pounds, yer honour,' that they may bid the old country good-by and begin the world anew. The telegraphic colours, represented b-v rosettes of red, white, and blue, made and presented bytsdy ca pe T Molvneu
+
+decorated the coats or hats of those immediately interested in t'he en
+
+terprise; and, out of the three or four hundred employed on the boats and shore to assist in hauling the-cable it, it is scarcely necessary to say no two figures were attired alike. The highcollared, swallowtailed blue coat-new, perhaps, before the electric telegraph was invented, said sadly soil ea and threadbare now-worked aide by side with the ragged nondescript garment which had been fustian, but had reached the stage of hardly-kept-together tatters. Shirts which blushed darkly at being exposed; jersies blue, red, and brown; caps and hats of every variety and shape; bare heads, bare legs, and feet, arid arms made up the line. The boats were similarly manned, and continued this line from the stern of the Caroline, some TOO yards off, so that the cable was passed literally from hand to hand from ship to shore." The appearance of this long rowof boats was very striking, and they varied from the smart cutters of the ships end the trim gig of the coastguard to the ordinary fishing-boat of the coast. Besides those which formed the line, having eight or ten men, labourers or fishermen, in each boat, to hand the cable along, there were detached boats passing up and down, with the experienced persons who were to direct the landing-about thirty-five boats in all. On shore, where a trench, 21t. deep, had been cut across the narrow beach and up the face of the cliff, to receive the cable, a hundred or more of the country people, encouraged by the presence of their popular landlord, ltfr. Fitzgeral the Knight of Kerry, were pulling and shouting in their xiah fashion, with the utmost enthusiasm, but with less discretion-for, not being aware that it was necessary to bring in and lodge upon the beach a certain quantity of cable in excess of the distance from the ship to the shore, in order that it might be passed up the cliff and across a couple of fields to the Telegraph House, these Irishmen, as soon as they got hold of the end of the future line of communication with America, threw it upon the ground, and raised a wild "Rurroo!" This was caught and repeated by the crews of the boats, who, concluding that their work was well done, at once proceeded to heave the massive rope into the sea. From at to boat the first bad example was followed by all unt1l to the dismay of the cablemen, who could not gain a hearing amid the continued cheers, every fathom no to the stern of the Caroline was thrown overboard. The result of this touching enthusiasm was that every foot had to be underrun, preparatory to the whole operation beginning tie nose. It took some time to effect this, during which the Irish were silent enough.
+
+ "When the cable bad been underrun, hauled into the boats again,
+
+and the shore end really began to come on land, and was stowed away in gigantic circles at the foot of the cliff, the scene was one of extraordinary animation. Numbers of men were in the water to their waists or shoulders easing the cable over the rocks, while ang the steep path up the cli was a close row of figures, men and boys, of every rank, from the well-to-do farmer down to the poorest cottier, all pulling at the cable with a will, and, as if in atonement for their first fault of enthusiasm, obecinz with silent and almost childlike docility every signal made by MrGla
+
+or Mr. Canning as to when they were to haul or slack away." Mr.
+
+Temple, assistant to Mr. Canning, with another of the staff, as in
+
+the water up to his neck working as hard as any. By twelve o'clock the cable was well up the groove which bad been cut in the face. of the cliff for its reception- and from this mInt the work of carryng its massive coils acrose tue meadows to the Telegraph House= was soon accomalisbed; and at a little before one o'clock the end, taken overroads, liedgea, and ditches,was hronlit close up to the house, or hut, a plain wooden buildin ,already mentioned, which is shown in our fliustratlon on page l24. ere severa of the gentlemen clued7
+interested in the great enterprise were assembled, with Sir Robert Peel,
+
+Chief Secretary to the Government of Ireland, and Lord John Bay, who had both come with the Knight of Kerry, having, as well as Mr. Glass, the managing director of the Telegraph Construction Company (and manufacturer of the main length of cable) been the guests of the Knight of Kerry, at his mansion of Glenlears, Knightetown. The simple ceremony with which the cable was introduced to the telgra.ph station has not been noticed by other reporters, but our Artist says, "The cud of the cable was taken up by Mr. Glass and handed to Sir Robert Peel, who passed it through ahole left for the purpose in the
+
+pro host,., WhO IatLon, WSACJ.C it was speedily connected with the batteries in the in etminentroom. A signal was then interchanged with the Caroline, proving that the electric communication was perfect. Three cheers for the Queen were called for meanwhile, and given with Irish warmth. The Knight of Kerry briefly addressed the large concourse of ladies and gentlemen, yeomen and
+
+9asantry, now gathered about him. Ele expressed is gratification. at this auspicious commencement of the work, and called for three cheers for the Atlantic Telegraph gable, and three cheers for Sir Robert Peel. These were most heartily given, and, of course, were followed by a speech from Sir Robert Peel. (se lfluatraie ao-re. He. spoke, with his wonted energy, of the politica~
+
+:ocial, and commercial benefits which wobld be ecured if the cable should prove successful; and, after invoking the aid, of Divine Providence, called for three cheers for the Queen and three for Mr. Glass. In replying, Mr. Glass said that all human skill could achieve had been applied to the furtherance of the object, which he hoped was now near its consummation. Sir B. Peel.haing called for three cheers for the President of the United States, and the Doxology having been sung, Mr Glass formally announced the success of the test that had been just applied, and then the men returned to the beach and filled in the trench in which the cable lay. Soon after twelve the Hawk arrived from Knightatown, and towed the Caroline out of the bay to lay the cable, which was done slowly but safely, under the able superintendence of Mr. Canning, chief engineer of the Telegraph Construction and Main.tenauco Company, assisted by Mr. Henley and Captain White, the officer commanding the Coaatguard stations along this coast, and who has devoted much care and attention to obtaining co±rect soundings along the route to be taken by the shore end. The Caroline started from the bay at 2.10 p.m. (Irish time). The muctration n page 121 iawa the people -watobiñg her front th s]lorL Telegrams were constantly received from the Caroline at Foi]hommerum station, showing that all was. going on. well.
+
+ e page 117 sheirshe seQepUsa af the
+
+-.talegrama, and. the interior of the instrumenJee
+
+attbtation, which will, in fact, remj,in-ik similar state Ot4Lhe whole ocean.ia successfully laid, when th'-lie -will- handed over by the Construction and enance Company to the Atlantic Te1Wh Company, -a the instruments (Professpbnison's) now used, ad&-b1cli are correctlyahown in our present Engraving, will b taken awa and a different description of instrument niaa
+
+of for the general purposea of trangnrusifln of
+
+sagco It was nearly twelve o'clock at night-when a message was received by Mr. Glass that the Caroline had laid the whole of the shore-end cable with perfect ucceae,audthatitselectric continuity was quiteperfect.
+
+On the next day (Sunday week) the operation of joining the shore end of the cable to the main length was performed at- about fifteen miles beyond the most western of the rugged rocks on the coast of Ireland. Here the Great Eastern, attended by the Terrible and Sphinx, was approached by the Caroline, bearing the last half mile of the shore end. The spectators of the work were on bcard the Hawk, a steamyacbt belonging to Mr. G1aa, which came upoñthe scehe as the cable was being drawn from the stem of the Great Eastern to the Caroline. Among those on board the Hawk were Lord John Hay; Six R. Peel, M.P.; the Knight of Kerry, with his daughtets, the
+iisses'itzgerald; Captain White, B.M. ;and Captain Hamilton; with Mr. W. H, Russell and M.±. Robert Dudley, who are appointed to be the historian and the artistic illustrator of the voyage of the Great Eastern across the Atlantic. -It L t M Ddl's enl iliad w owe the hutohoe cngrawcd Soon after one o'clock the coils of the deep-sea cable were safely wound on beard the Caroline, and the work of splicing them at once commenced. This was done by stripping both ends of hemp, outside wires, and gutta-percha for a short distance, till the copper conductor of. the line was laid bare, and pared down to a fine 'wedge-shaped point at each end.. The connecting
+
+coucurs were ueu overlapped in the uriu known as a "scarf" joint, and firmly bound together with fine threads of copper wire, till the junction was made even stronger than the main portions of the line. The threads and conductor were then soldered totether thickly, and strips of soft gutta-perebh Eke bands of brown tape, were wound inyer over layer, and their edges closely pressed, so as to - form one homogeneous mass; till a certain thickness wai completed. Then came a coating of insulated ma
+
+terial called Chatterton's compound, and then again
+
+another layer of gutta-percha tpe, until. the whole was ixiclosed in -four rings of the guttaperoha sn& 'three of the compound. The joint was then lermersed in cold water for testing, and, the signals proving perfect , the last protection of hemp slid outside wire was added, and the joint sunk again into tlle sea, that its perfectness as to conductivity and insulation might be ascertained from the extreme end of the whole length of the cable on boé.rd the Great Eastern. It was past fbur o'clock before the last-of these tests was concluded, and in 'every case they proved to be most satisfactory. At 4.80 the signal was given and the last fastenings which held it to the Caroline were cast adrift, and, with a great splash, the final joint of the Atlantic telegraph and the first: thirty miles of its length went down uloicly into the blue water, the 'depth here being 100 fathoms. The Hawk then gave the Great Eastern a parting cheer; the Great Eastern fired a salute of three guns, took a turn ahead, and was fairly off; floating from her trunks she bore the white jeck, an American ensign, the burgee of the compànyi the union jack and American stars quartered, to
+
+gether, the words "Atlantic Telegraph" being
+
+the tail; a red ensign, a union jack, and the French flag; and from her peak the blue ensign, wbiC13 she fliesbecause Captain Anderson is an officer of t' naval reserve. In the five ships thus lying near togethersfl the British ensigns were used, the Cazohie having red, the Great Eastëin and the Hwk hhiC the latter because she ranks as a yacht, and'th9to men-of-war white. Just before the start, the Captain of the Terrible, who was on board the Great Eastern, consulting with Captain Anderson, retimied to his own ship, which presently took her place on the starboard quarter of the big vessel, the Sphinx taking the port quarter; and 'so they 'went awa't* the West. The Caroline had before this turned her bead to the shore, and now the Hawk followed, and soon caught her; the Great Eastern and the men-ofwar, which had been passing out of sight on the horizon, were by this time discernible only by the bank of cloudlike smoke which lay in the golden pathway of the setting sun.
+
+We expect to receive from our Artist; who is on board the Great Eastern, further Illustrations ,of the most interesting scenes in the progress of this grand enterprise.
+
