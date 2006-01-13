@@ -23,11 +23,9 @@ $operator = $_GET["op"];  // and|or
 
 
 
-$args = array('host' => "bohr.library.emory.edu",
-	      'port' => "8080",
-	      'db' => "ILN",
-	      //	      'coll' => $tamino_coll,
-	      'dbtype' => "exist",
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'coll' => $tamino_coll,
 	      'debug' => false);
 $xmldb = new xmlDbConnection($args);
 $xsl    = "search.xsl";
@@ -47,29 +45,26 @@ if ($term2) { $reg2 = getRegion($region2); }
 switch ($sort) {
  case "type"  : $_sort = "@type"; break;
  case "title" : $_sort = "head"; break;
- case "date"  :
- default      : $_sort ="bibl/date/@value";  break;
+ case "date"  : $_sort = "bibl/date/@value";  break;
+ case "match" :
+ default      : $_sort = "count descending";  break; 
 }
 
 // construct xquery
-//$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
-//$for = 'for $a in input()/TEI.2/:text/body/div1/div2';
-//$where  = "where tf:containsText(\$a$reg, '$term')";
-//if ($term2) { $where .= " $operator tf:containsText(\$a$reg2, '$term2')"; }
-//$return = 'return <div2>{$a/@id}{$a/@type}{$a/head}{$a/bibl}' . 
-//"<total> {count($for $where return \$a)}</total> </div2>";
-//$qsort = "sort by ($sort)";
-//$xquery = "$declare $for $where $return $qsort";
+$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
+$for = 'for $a in input()/TEI.2/:text/body/div1/div2';
+$let = "let \$ref := tf:createTextReference(\$a, '$term')";
+// FIXME: handling second term?
+$where  = "where tf:containsText(\$a$reg, '$term')";
+if ($term2) { $where .= " $operator tf:containsText(\$a$reg2, '$term2')"; }
+$return = 'return <div2>{$a/@id}{$a/@type}{$a/head}{$a/bibl}
+  <count>{count($ref)}</count></div2>';
+$qsort = "sortby ($_sort)"; 
 
-
-// FIXME: this causes some kind of xpath error in exist?
-$xquery = "for \$a in //div2[$reg &= '$term'";
-// operator & second term, if defined
-if ($term2) { $query .= " $operator $reg2 &= '$term2'"; }
-//$xquery .= '] return <div2 id="{$a/@id}" type="{$a/@type}">{$a/head}{$a/bibl}</div2>';
-$xquery .= '] return <div2 id="{$a/@id}" type="{$a/@type}">{$a/head}{$a/bibl}</div2>';
-//<total>{text:match-count($a)}</total></div2>";
-
+$total = "<total>{count($for $where return \$a)}</total>";
+//$xquery = "$declare <result>{$for $let $where $return $qsort} $total </result>";
+$end = $position + $maxdisplay - 1;	// end of current segment: start + max - 1 (e.g., display 1 - 20)
+$xquery = "$declare" . ' <result>{' . "($for $let $where $return $qsort)[position() >= $position and position() <= $end]" . '}' . "$total </result>";
 
 html_head("Search Results");
 
@@ -81,7 +76,7 @@ print '<div class="content">
 
 
 // run the query
-$xmldb->xquery($xquery, $position, $maxdisplay);
+$xmldb->xquery($xquery);	// position & maxdisplay handled within the query itself
 
 print "<center><font size='+1'>";
 if ($xmldb->count == 0) { print "No matches "; }
@@ -164,7 +159,7 @@ function getRegion ($r) {
    // case "illustration" : $reg = "@type='Illustration' and ."; break;
  case "illustration" : $myreg = "/p/figure/head"; break;
  case "document":   // same as default
- default:          $myreg = "."; break;
+ default:          $myreg = ""; break;
  }
    return $myreg;
 }
@@ -177,9 +172,10 @@ function sort_options ($current) {
     $sort_url .= "&term2=$term2&region2=$region2&op=$operator";
   }
   
-  print "<li class='firsthoriz'>Currently sorting by <b>$current</b>. Sort by:</li>";
-  $option = array("date" => "Date", "type" => "Type", "title" => "Title");
-  $first_opt = "date";
+  $option = array("match" => "Relevance", 
+		"date" => "Date", "type" => "Type", "title" => "Title");
+  print "<li class='firsthoriz'>Currently sorting by <b>$option[$current]</b>. Re-sort by:</li>";
+  $first_opt = "match";
 
   foreach ($option as $opt => $val) {
     if ($val == $option[$first_opt]) {
