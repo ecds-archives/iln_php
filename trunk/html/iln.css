@@ -75,9 +75,9 @@ img { border: 0 }
 div.heading img { border-top: double medium black; padding: 15px 0.5in 0 0.5in;
 	text-align: middle;}
 
-span.term1 { background-color: #d1e1f9; }
-span.term2 { background-color: #fffc7f; }
-span.term3 { background-color: #b4f7aa; }
+span.term1 { background-color: #d1e1f9; font-weight: bold;}
+span.term2 { background-color: #fffc7f; font-weight: bold;}
+span.term3 { background-color: #b4f7aa; font-weight: bold;}
 
 /* Horizontal lists -- display inline, with lines between */
 li.horiz { 
@@ -94,6 +94,9 @@ li.firsthoriz {
      border-left: none;
   }
 
-
 /* Render small caps */
 span.smallcaps { font-variant: small-caps; }
+
+table.searchresults { width:90%;  border-collapse: collapse;}
+table.searchresults td { border-bottom: 1px solid #cccccc;}
+table.searchresults td.count { width:15%; text-align: center; }

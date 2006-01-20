@@ -20,4 +20,6 @@ $tamino_server = "vip.library.emory.edu";
 $tamino_db = "ILN";
 $tamino_coll = "iln";
 $link_coll = "links";
+$bibl_coll = "bibliog";
+
 ?>

@@ -19,7 +19,7 @@
 
 <!-- <xsl:include href="ilnshared.xsl"/> -->
 
-<xsl:output method="html"/>  
+<xsl:output method="xml"/>  
 
 <xsl:template match="/"> 
 
