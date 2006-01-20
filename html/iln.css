@@ -86,6 +86,9 @@ li.firsthoriz {
      border-left: none;
   }
 
-
 /* Render small caps */
 span.smallcaps { font-variant: small-caps; }
+
+table.searchresults { width:90%;  border-collapse: collapse;}
+table.searchresults td { border-bottom: 1px solid #cccccc;}
+table.searchresults td.count { width:15%; text-align: center; }
