@@ -80,7 +80,7 @@ $xmldb->xquery($xquery);	// position & maxdisplay handled within the query itsel
 
 print "<center><font size='+1'>";
 if ($xmldb->count == 0) { print "No matches "; }
-else if ($xmldb->count == 1) { print "$count match "; }
+else if ($xmldb->count == 1) { print $xmldb->count . " match "; }
 else { print "$xmldb->count matches "; }
 print "found for $begin_hi$term$end_hi in $region ";
 if ($term2) { print "$op $begin_hi2$term2$end_hi in $region2"; }
