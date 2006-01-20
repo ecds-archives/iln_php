@@ -1,6 +1,7 @@
 <?php
 
-include_once("link_admin/taminoConnection.class.php");
+include_once("config.php");
+include_once("xmlDbConnection.class.php");
 include("common_functions.php");
 
 $id = $_GET["id"];
@@ -9,7 +10,7 @@ $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll,
 	      'debug' => false);
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 // query for all volumes 
 $allquery = 'for $b in input()/TEI.2/:text/body/div1

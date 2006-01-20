@@ -3,10 +3,8 @@
 // pass figure entity as argument, for example:
 // figure.php?id=v38p87
 
-
-include_once("link_admin/taminoConnection.class.php");
-include_once("phpDOM/classes/include.php");
-import("org.active-link.xml.XML");
+include("config.php");
+include_once("xmlDbConnection.class.php");
 include("common_functions.php");
 
 $id = $_GET["id"];
@@ -45,7 +43,7 @@ $height = $tamino->xml->getTagAttribute("height", "ino:response/xql:result/figur
 //$url = "http://vip.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
 
 // Now, create the frameset with controller & image window
-print "<frameset rows='80,*' border='0' >
+print "<frameset rows='90,*' border='0' >
  <frame noresize='true' marginwidth='0' framespacing='0' frameborder='no'
        border='0'
        marginheight='0' scrolling='no' name='control'
