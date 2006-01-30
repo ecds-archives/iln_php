@@ -55,9 +55,7 @@ class xmlDbConnection {
     $this->xpath =& $this->xmldb->xpath;
 
     // variables for highlighting search terms
-    $this->begin_hi[0]  = "<span class='term1'>";
-    $this->begin_hi[1] = "<span class='term2'>";
-    $this->begin_hi[2] = "<span class='term3'>";
+    // begin highlighting variables are now defined when needed, according to number of terms
     $this->end_hi = "</span>";
   }
 
@@ -108,7 +106,8 @@ class xmlDbConnection {
          // highlighting are strings, and not structural xml; this
          // allows them to display properly, rather than with &gt; and
          // &lt; entities
-         print html_entity_decode($this->xsl_result->saveXML());
+	 //print html_entity_decode($this->xsl_result->saveXML());
+	print $this->xsl_result->saveXML();
        } else {
          print $this->xsl_result->saveXML();
        }
@@ -130,43 +129,59 @@ class xmlDbConnection {
    }
 
 
-
-   // Highlight the search strings within the xsl transformed result.
-   // Takes an array of terms to highlight.
-   function highlightString ($str, $term) {
-     // note: need to fix regexps: * -> \w* (any word character)
-      // FIXME: how best to deal with wild cards?
-
-     // only do highlighting if the term is defined
-     for ($i = 0; (isset($term[$i]) && ($term[$i] != '')); $i++) {
-       // replace tamino wildcard (*) with regexp -- 1 or more word characters 
-       $_term = str_replace("*", "\w+", $term[$i]);
-     // Note: regexp is constructed to avoid matching/highlighting the terms in a url 
-       $str = preg_replace("/([^=|']\b)($_term)(\b)/i",
-	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $str);
-     }
-     return $str;
-   }
-
-   // highlight text in the xml structure
+   // highlight text within the xml structure
    function highlightXML ($term) {
+     // if span terms are not defined, define them now
+     if (!(isset($this->begin_hi))) { $this->defineHighlight(count($term)); }
      $this->highlight_node($this->xsl_result, $term);
    }
 
-   // recursive function to highlight search terms in xml text
+   // recursive function to highlight search terms in xml nodes
    function highlight_node ($n, $term) {
-     $children = $n->childNodes;
-     foreach ($children as $c) {
-       if ($c instanceof domElement) {
-	 $this->highlight_node($c, $term);
-       } else if ($c instanceof DOMCharacterData) {
-	 $c->nodeValue = $this->highlightString($c->nodeValue, $term);
+     // build a regular expression of the form /(term1)|(term2)/i 
+     $regexp = "/"; 
+     for ($i = 0; $term[$i] != ''; $i++) {
+       if ($i != 0) { $regexp .= "|"; }
+         $regterm[$i] = str_replace("*", "\w*", $term[$i]); 
+         $regexp .= "($regterm[$i])";
        }
-     }
+     $regexp .= "/i";	// end of regular expression
+
+     $children = $n->childNodes;
+     foreach ($children as $i => $c) {
+       if ($c instanceof domElement) {		
+	 $this->highlight_node($c, $term);	// if a generic domElement, recurse 
+       } else if ($c instanceof domText) {	// this is a text node; now separate out search terms
+
+         if (preg_match($regexp, $c->nodeValue)) {
+           // if the text node matches the search term(s), split it on the search term(s) and return search term(s) also
+           $split = preg_split($regexp, $c->nodeValue, -1, PREG_SPLIT_DELIM_CAPTURE | PREG_SPLIT_NO_EMPTY);
+
+           // loop through the array of split text and create text nodes or span elements, as appropriate
+           foreach ($split as $s) {
+	     if (preg_match($regexp, $s)) {	// if it matches, this is one of the terms to highlight
+	       for ($i = 0; $regterm[$i] != ''; $i++) {
+	         if (preg_match("/$regterm[$i]/i", $s)) { 	// find which term it matches
+                   $newnode = $this->xsl_result->createElement("span", $s);
+	           $newnode->setAttribute("class", "term" . ($i+1));	// use term index for span class (begins at 1 instead of 0)
+	         }
+	       }
+             } else {	// text between search terms - regular text node
+	       $newnode = $this->xsl_result->createTextNode($s);
+	     }
+	    // add newly created element (text or span) to parent node, using old text node as reference point
+	    $n->insertBefore($newnode, $c);
+           }
+           // remove the old text node now that we have added all the new pieces
+           $n->removeChild($c);
+	 }
+       }   // end of processing domText element
+     }	
    }
-   
+
    // print out search terms, with highlighting matching that in the text
    function highlightInfo ($term) {
+     if (!(isset($this->begin_hi))) { $this->defineHighlight(count($term)); }
      if (isset($term[0])) {
        print "<p align='center'>The following search terms have been highlighted: ";
        for ($i = 0; isset($term[$i]); $i++) {
@@ -175,6 +190,16 @@ class xmlDbConnection {
        print "</p>";
      }
    }
+
+   // create <span> tags for highlighting based on number of terms
+   function defineHighlight ($num) {
+     $this->begin_hi = array();
+    // strings for highlighting search terms 
+    for ($i = 0; $i < $num; $i++) {
+      $this->begin_hi[$i]  = "<span class='term" . ($i + 1) . "'>";
+    }
+   }
+
 
   // convert a readable xquery into a clean url for tamino or exist
   function encode_xquery ($string) {
