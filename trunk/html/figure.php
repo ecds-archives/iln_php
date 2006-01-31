@@ -23,7 +23,7 @@ $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll,
       	      'debug' => false);
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 $xql = "/TEI.2//figure[@entity='" . $id . "']"; 
 
 if ($id) {
@@ -36,8 +36,13 @@ if ($id) {
 // retrieve values for head, width, & height
 $head = $tamino->findNode("head");
 $head = urlencode($head);
-$width  = $tamino->xml->getTagAttribute("width", "ino:response/xql:result/figure");
-$height = $tamino->xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
+
+$fig = $tamino->xpath->query("//figure");
+$width = $fig->item(0)->getAttribute("width");
+$height = $fig->item(0)->getAttribute("height");
+
+//$width  = $tamino->xml->getTagAttribute("width", "ino:response/xql:result/figure");
+//$height = $tamino->xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
 
 
 //$url = "http://vip.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
