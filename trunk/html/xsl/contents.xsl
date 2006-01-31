@@ -73,6 +73,7 @@
   <xsl:element name="p"> 
    <!-- create toggle image -->
    <xsl:element name="a">
+     <xsl:attribute name="class">toggle</xsl:attribute>
      <xsl:attribute name="onclick">toggle_ul('list<xsl:value-of select="$num"/>')</xsl:attribute>
      <xsl:element name="img">
        <xsl:attribute name="alt">&#x00BB;</xsl:attribute>
@@ -140,10 +141,11 @@
    <xsl:attribute name="class">container</xsl:attribute>
    <!-- create toggle image -->
    <xsl:element name="a">
+     <xsl:attribute name="class">toggle</xsl:attribute>
      <xsl:attribute name="onclick">toggle_ul('list<xsl:value-of select="$num"/>')</xsl:attribute>
      <xsl:element name="img">
        <xsl:attribute name="src">images/closed.gif</xsl:attribute>
-       <xsl:attribute name="alt">&#x00BB;</xsl:attribute>
+       <xsl:attribute name="alt"> &#x00BB; </xsl:attribute>
        <xsl:attribute name="id">gif_list<xsl:value-of select="$num"/></xsl:attribute>
      </xsl:element> <!-- img -->
    </xsl:element> <!-- a -->

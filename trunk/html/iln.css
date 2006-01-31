@@ -71,6 +71,7 @@ td.label { font-weight: bold; }
 td.figure { text-align: center; vertical-align: middle; }
 
 img { border: 0 }
+a.toggle { text-decoration:none;margin:2px; }
 
 div.heading img { border-top: double medium black; padding: 15px 0.5in 0 0.5in;
 	text-align: middle;}
