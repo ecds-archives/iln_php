@@ -24,7 +24,7 @@ function getCSS () {
       $css = "iln-iewin.css";
     }
   }
-  return "$base_url$css";
+  return "$base_url/$css";
 }
 
 
@@ -44,14 +44,11 @@ print "<html>
 
 // only load content-list javascript if needed
  if ($contentlist) {
-   print "<script language=\"Javascript\" 
-    src=\"$base_url/cookies.js\"></script>
-<script language=\"Javascript\" 
-	src=\"$base_url/cookies.js\"></script>
+   print "<script language=\"Javascript\" src=\"$base_url/cookies.js\"></script>
+<script language=\"Javascript\" src=\"$base_url/content-list.js\"></script>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$base_url/contents.css\">\n";
  }
-print "<script language=\"Javascript\"
-       src=\"$base_url/image_viewer/launchViewer.js\"></script>
+print "<script language=\"Javascript\" src=\"$base_url/image_viewer/launchViewer.js\"></script>
  </head>";
 }
 
