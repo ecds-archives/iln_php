@@ -29,7 +29,7 @@ function toggle_gif (id) {
    }
    a.status = (a.status == "open") ? "closed":"open";
    a.src = base_url + a.status + ".gif";
-   a.alt = (a.status == "open") ? "v" : ">";
+   a.alt = (a.status == "open") ? "v" : ">;";
   }
 }
 
