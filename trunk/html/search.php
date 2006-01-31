@@ -45,13 +45,18 @@ switch ($sort) {
  case "title" : $_sort = "head"; break;
  case "date"  : $_sort = "bibl/date/@value";  break;
  case "match" :
- default      : $_sort = "count descending";  break; 
+ default      : $_sort = "xs:int(count) descending";  break; 		// note: must type count to sorted as integer instead of string
 }
 
 // construct xquery
-$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
+$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" 
+declare namespace xs="http://www.w3.org/2001/XMLSchema" ';
 $for = 'for $a in input()/TEI.2/:text/body/div1/div2';
-$let = "let \$ref := tf:createTextReference(\$a, '$term')";
+$let = "let \$ref1 := tf:createTextReference(\$a, '$term')";
+if ($term2) { 	// if there is a second search term, create text reference & include in total count
+  $let .= " let \$ref2 := tf:createTextReference(\$a, '$term2') let \$ref := (\$ref1, \$ref2)";
+} else { $let .= ' let $ref := ($ref1)'; }
+  
 // FIXME: handling second term?
 $where  = "where tf:containsText(\$a$reg, '$term')";
 if ($term2) { $where .= " $operator tf:containsText(\$a$reg2, '$term2')"; }
