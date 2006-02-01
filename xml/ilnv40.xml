@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "iln.dtd"
+[<!ENTITY % iln-entities SYSTEM
+"/Beck-files/ILN/ILNCVS/ilnxml/iln_entities">
+ %iln-entities; ]>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -4338,14 +4343,9 @@ Treaty with Canada. The report deprecates the abrogation of the treaty, but advo
 ordered the removal of the captured privateersmen from a common gaol
 to Fort Lafayette, where they are to betreated as ordinary prisoners
 of war. A flag of trace from General Johnston, of the Confederate
-<<<<<<< ilnv40.xml
-Army, with<orig reg="dispatches"> despatches</orig> for the President had been received. It is
-
-supposed that it relates to the exchange of prisoners.</p>
-=======
 Army, with<orig reg="dispatches"> despatches</orig> for the President
 had been received. It is supposed that it relates to the exchange of prisoners.</p>
->>>>>>> 1.14
+
 
 <p>The President has granted a respite of three weeks to Captain Gordon, of the slaver Erie, who was to have been hung on the 7th inst. Judge Cowles has written a letter to the President begging him to commute the sentence of death.</p>
 
@@ -4394,12 +4394,7 @@ offered to it by the leading Governments of Western Europe, the New York press o
 <p>The Legislature of Michigan has sent a petition to Congress stating that as slavery is the cause of the war it should be swept from the land.</p>
 
 <p>The Massachusetts Anti-slavery Society have had their annual
-<<<<<<< ilnv40.xml
-=======
 meeting without any of the usual disturbances.</p>
->>>>>>> 1.14
-
-neeting without any of the usual disturbances.</p>
 
 <p>During the week 173 bales of Government Sea Island cotton have
 been sold at from 28c. to 71c. per pound, the average price being 55c.
@@ -5050,23 +5045,11 @@ EXPEDITION.</head>
 
 <p rend="right">On Ward the Spalding, Pamlico Sound,</p>
 <p rend="right"> North Carolina, Jan. 29,</p>
-<<<<<<< ilnv40.xml
 
-<p>A<hi rend="italic">T</hi> last, after immense exertion on the part of those concerned, General
-
-Burnside especially having worked night and day, sufficient transports
-
-have been got over the bulkhead to carry 11,000 men up the Sound,
-=======
->>>>>>> 1.14
-
-<<<<<<< ilnv40.xml
-end it is now a mere question of reshipping the troops that were landed to lighten the vessels and to provision them for ten days. It appears to me there must have been gross stupidity or cupidity displayed by those authorised to purchase the steamers for the service they are now engaged in, as their draught of water, in nine cases out of ten, exceeds by a great deal the depth found on the various banks and shoals that block the entrance to the inland seas of North Carolina; hence the delay of the expedition. Before we could continue up the Sound to Roanoke all the larger vessels had to laud their troops and provisions, otherwise they never could have crossed the bulkhead; and, as it is, they have been worried through the sand, inch by inch, a distance of over three miles, many taking four and five days to force their[sic] way through. Again, the channel is so narrow that it is impossible[sic] for more than one ship at a time to attempt the passage; and, should one stick, she has to be removed before another can be brought up. The two last are now on their way over, but, unfortunately, the leading vessel has grounded, and may cause a further delay of a day or two; however, the general opinion appears to be that we shall get off by the and of the week, and, when once fairly, started, it only takes ten hours to reach Roanoke. Now, had steamers of lighter draught been provided, nothing would have
-=======
-<p>A<hi rend="italic">T</hi> last, after immense exertion on the part
+<p><hi rend="smallcap">AT</hi> last, after immense exertion on the part
 of those concerned, General Burnside especially having worked night and
 day, sufficient transports have been got over the bulkhead to carry
-11,000 men up the Sound, end it is now a mere question of reshipping
+11,000 men up the Sound, and it is now a mere question of reshipping
 the troops that were landed to lighten the vessels and to provision
 them for ten days. It appears to me there must have been gross
 stupidity or cupidity displayed by those authorised to purchase the
@@ -5075,7 +5058,7 @@ water, in nine cases out of ten, exceeds by a great deal the depth
 found on the various banks and shoals that block the entrance to the
 inland seas of North Carolina; hence the delay of the
 expedition. Before we could continue up the Sound to Roanoke all the
-larger vessels had to laud their troops and provisions, otherwise they
+larger vessels had to land their troops and provisions, otherwise they
 never could have crossed the bulkhead; and, as it is, they have been
 worried through the sand, inch by inch, a distance of over three
 miles, many taking four and five days to force their way
@@ -5096,15 +5079,7 @@ will have learned through their spies everything required to be known
 (two Secesh gunboats came within sight the other day and
 reconnoitred), and prepare accordingly a warm reception for the
 invading force.</p>
->>>>>>> 1.14
 
-<<<<<<< ilnv40.xml
- prevented the expedition from steaming up the Sound on the
-
-first day of our arrival and striking a decisive blow before preparations could he made by the Confederates to offer effectual resistance, as it is extremely probable they were in ignorance of the destination of the Federal fleet. By this time they will have learned through their spies everything required to be known (two Secesh gunboats came within sight the other day and reconnoitred), and prepare accordingly a warm reception for the invading force.</p>
-
-=======
->>>>>>> 1.14
 <p>As I understand the plan of attack it is as follows :-The gun-boats
 will take the lead up the Sound, followed by the larger transports
 having the troops on board, and the rear will be brought up by the
@@ -5360,26 +5335,6 @@ successor, threatening California with a new mania of emigration like
 that of the memorable Fraser River, has been checked just in time to
 prevent more serious mischief and the ruin of many of our business
 men. This was but the disappointment corresponding to silly
-<<<<<<< ilnv40.xml
-exaggeration the whole region east of the Sierra Nevada being fancied  a ready-made new
-
-Potosi without the trouble of even opening a mine. It was, however, suddenly brought to a climax by the outbreak of hostilities with the Indians, which could only be terminated by military aid. Thus the new mining region, hitherto decked out with the fanciful radiance of the wildest imagination, was all at once reduced to the reality of mining in a remote wilderness; and it was then discovered that mining for silver, here as anywhere else, requires time and capital for the development of its returns. However, should the mines hitherto opened be the only ones, even precluding the hope of a further exten-
-
- sion of the promising field for mining, their successful working
- would be of incalculable benefit for California, which for a long
- while will have to furnish all the supply of necessaries and look to
- the opening of a rear country as the only true lever by which she may
- ultimately obtain a Pacific railroad. As to the realities of the new
- silver region, we wonder so little should be known about them; a
- quarter of a century will be a more appropriate term, when the
- millions of Washoe silver feeding the channels of an enlarged Asiatic
- trade may (by a reversing scale, telling of our advancement), bear a
- comparison with our lessened gold remittances vi&#x00e2; Panama to
- Europe." After enumerating the principal leads, the produce of the
- mines already opened, and the reducing-works established or in course
- of erection, he alludes to visionary speculation in Washoe mining
- works, "This," he continues, "Is the fictitious side of Washoe mining-the vapoury atmosphere which surrounds the new silver region. Its mirages no longer delude the thinking portion of our community, it is fortunate, indeed, that our public has at so early a stage had a salutary warning by previous disenchantment. In the meanwhile, the energetic spirit of practical enterprise, by a combination of technical and, financial resources, is gradually but steadily developing the colossal wealth of the new silver region, the discovery of which is the fruit of the adventurous turn of our prospectors, who, with almost superhuman exertions, and mostly with little benefit to themselves, have been the hardy pioneers of this new Potosi beyond the Sierra Nevada."</p>
-=======
 exaggeration the whole region east of the Sierra Nevada being fancied
 a ready-made new Potosi without the trouble of even opening a mine. It
 was, however, suddenly brought to a climax by the outbreak of
@@ -5415,7 +5370,6 @@ silver region, the discovery of which is the fruit of the adventurous
 turn of our prospectors, who, with almost superhuman exertions, and
 mostly with little benefit to themselves, have been the hardy pioneers
 of this new Potosi beyond the Sierra Nevada."</p>
->>>>>>> 1.14
 
 <p>Mr. Vischer has since had the opportunity, by a visit to the Washoe
 region, in May of last year, for the sake of personal information, to
@@ -5677,30 +5631,13 @@ to the Southern people that the Federals are fighting for the constitution and t
 landing was effected, on account of the presence of a large Confederate force.</p>
 
 <p rend="center">THE CONFEDERATE STATES.</p>
-<<<<<<< ilnv40.xml
 
-<p>The Confederate Congress assembled at Richmond on the 18th ult.
-
-On the following day the electoral votes of the eleven States which
-
-voted for President and Vice-President were counted. The total number
-
-was 109, and they were all given for Mr. Davis as President and Mr.
-=======
->>>>>>> 1.14
-
-<<<<<<< ilnv40.xml
-Stephens as Vice-President. The inauguration ceremonies took place,
-
-at Richmond on the 22nd ult., Washington's birthday. Mr. Davisthen
-=======
 <p>The Confederate Congress assembled at Richmond on the 18th ult.  On
 the following day the electoral votes of the eleven States which voted
 for President and Vice-President were counted. The total number was
 109, and they were all given for Mr. Davis as President and Mr.
 Stephens as Vice-President. The inauguration ceremonies took place, at
 Richmond on the 22nd ult., Washington's birthday. Mr. Davis then
->>>>>>> 1.14
 delivered his inaugural address. He complains of" the malignity and
 barbarity of the Northern States in the prosecution of the existing
 war." While, he says, every guarantee of personal freedom has been
@@ -5709,17 +5646,7 @@ done to impair personal liberty or the freedom of speech, of thought,
 or of the press. He acknowledges that the "tide for the moment is
 against us, but the final result in our favour is not doubtful." He
 thinks the North "must sink under the immense load of debt which they
-<<<<<<< ilnv40.xml
-have<pb n="265"/>
-incurred." Alter lauding the noble spirit of patriotism which animates
-men, women, and children in the South, he predicts the sacrifices it
-imposes will be an enduring bond, of harmony among the people. The
-blockade is making them a self-supporting people.
 
-"After a series of successes and victories which covered our arms with glory, we have recently met with serious disasters. But in the heart of a people resolved to be free these disasters tend but to stimulate to increased resistance." He concludes with a solemn invocation of the Deity.</p>
-
-<p>Mr. Davis had appointed the 28th ult, as a day of fasting, humilia
-=======
 have<pb n="265"/> incurred." Alter lauding the noble spirit of
 patriotism which animates men, women, and children in the South, he
 predicts the sacrifices it imposes will be an enduring bond, of
@@ -5729,33 +5656,20 @@ which covered our arms with glory, we have recently met with serious
 disasters. But in the heart of a people resolved to be free these
 disasters tend but to stimulate to increased resistance." He concludes
 with a solemn invocation of the Deity.</p>
->>>>>>> 1.14
 
-<<<<<<< ilnv40.xml
-tion, and prayer throughout the Confederate States.</p>
-=======
 <p>Mr. Davis had appointed the 28th ult, as a day of fasting, humiliation, and prayer throughout the Confederate States.</p>
->>>>>>> 1.14
+
 
 <p rend="center">WASHINGTON.</p>
 
-<<<<<<< ilnv40.xml
-<p>The youngest son of the President, aged eleven years, has died at
-=======
-<p>The youngest son of the President, aged eleven years, has died at the White House.</p>
->>>>>>> 1.14
 
-the White House.</p>
+<p>The youngest son of the President, aged eleven years, has died at the White House.</p>
+
 
 <p>The President has signed the Treasury Note Bill. In its final shape it provided for the payment in coin of the interest on the public debt, and as security therefore stipulated that the customs duties should be payable in specie only.</p>
 
-<p>The President has taken military possession of all the telegraph
 
-<<<<<<< ilnv40.xml
-lines, and military supervisors of messages have been appointed.</p>
-=======
 <p>The President has taken military possession of all the telegraph lines, and military supervisors of messages have been appointed.</p>
->>>>>>> 1.14
 
 <p>The Senate, by a vote of 29 to 9, has thrown out the State Department's project of a treaty for guaranteeing the payment of the Mexican debt for five years. General Scott's name was submitted as Commissioner to Mexico to procure the ratification of this now defeated project of a treaty.</p>
 
@@ -5765,21 +5679,13 @@ lines, and military supervisors of messages have been appointed.</p>
 
 <p>The British screw-steamer Stella had been chartered to convey American contributions to the International Exhibition.</p>
 
-<p>The journals comment favourably on the speeches made at the open
 
-ing of Parliament, but the Mexican expedition is more freely and
-
-<<<<<<< ilnv40.xml
-generally denounced than before, especially that part of it which includes the elevation of a European Prince to the throne of Mexico.</p>
-=======
 <p>The journals comment favourably on the speeches made at the opening
 of Parliament, but the Mexican expedition is more freely and generally
 denounced than before, especially that part of it which includes the
 elevation of a European Prince to the throne of Mexico.</p>
->>>>>>> 1.14
 
 <p>The barque Ariel had been captured off Providence on suspicion of
-
 being intended for the slave trade.</p>
 
 <p>The condemned slave captain, Gordon, suffered the extreme penalty
@@ -5802,7 +5708,6 @@ trade.</p></div2>
 </bibl>
 
 <p>The City of Baltimore, after a voyage of twenty-one days
-
 from New York, reached, the Mersey last Saturday. She had been
 retarded on the voyage by her screw-propeller having come in contact
 with ice.</p></div2>
@@ -6738,12 +6643,7 @@ large admixture of what the South itself considers 'poor white trash.'
 Among the officers there were many
 gentlemen, and one or two very fine-looking men. They appeared,
 however, crestfallen, and looked as if they had played a desperate
-<<<<<<< ilnv40.xml
-=======
 game--and lost."</q></p>
->>>>>>> 1.14
-
- game--and lost."</q></p>
 
 <p>Roanoke Island, besides the interest which attaches to it from
 recent events, has a special claim on the consideration of Englishmen
@@ -6760,28 +6660,18 @@ age. But the spirit of that predatory war which the English carried on
 against Spain mingled with this scheme of settlement, and on this
 account, as well as from unacquaintance with a more direct and shorter
 course to North America, Greenville sailed by the West India Islands. He spent some time in cruising among these and in taking prizes, so that it was towards the close of June before he arrived on the coast of North America. He made some excursions into different parts of the continent round Pamlico and Albemarle Sounds; but as, unfortunately, he did not advance far enough towards the north to discover the noble bay of Chesapeake, he established the colony (Aug. 25, 1585) on the island of Roanoke, an incommodious station, without any safe harbour, and almost uninhabited. This colony consisted of only one hundred and eighty persona, under the command of Captain Lane, assisted by some men of note, the most distinguished of whom was Hariot, an eminent mathematician. Their chief employment, during a residence of nine months, was to obtain a more extensive knowledge of the
-
- e country; and their researches were carried on with greater spirit and reached further than could have been expected from a colony so feeble and in a station so disadvantageous. But from the same impatience of indigent adventurers to acquire sudden wealth which gave a wrong direction to the industry of the Spaniards in their settlements, the greater part of the English seem to have considered nothing as worthy of attention but mines of gold and silver. These they sought for wherever they came; these they inspired after with unwearied eagerness. The savages soon discovered the favourite objects which allured them, and artfully amused them with so many tales concerning pearl fisheries and rich mines of various metals, that Lane and his companions wasted their time and activity in the chimerical pursuit of these, instead of labouring to raise provisions for their own subsistence. On discovering the deceit of the
+country; and their researches were carried on with greater spirit and reached further than could have been expected from a colony so feeble and in a station so disadvantageous. But from the same impatience of indigent adventurers to acquire sudden wealth which gave a wrong direction to the industry of the Spaniards in their settlements, the greater part of the English seem to have considered nothing as worthy of attention but mines of gold and silver. These they sought for wherever they came; these they inspired after with unwearied eagerness. The savages soon discovered the favourite objects which allured them, and artfully amused them with so many tales concerning pearl fisheries and rich mines of various metals, that Lane and his companions wasted their time and activity in the chimerical pursuit of these, instead of labouring to raise provisions for their own subsistence. On discovering the deceit of the
 
 Indians they were so much exasperated that from expostulations and
-
 reproaches they proceeded to open hostility. The supplies of provision which they had been accustomed to receive from the natives were, of course, withdrawn. Through their own negligence no other precaution had been taken for their support. Raleigh, having engaged in a scheme too expensive for his narrow funds, had not been able to send that recruit of stores with which Greenville had promised to furnish them early in the spring. The colony,
-
- reduced to the utmost distress, and on the point of perishing with famine, was
-
- preparing to disperse into different districts of the country in quest of food, when Sir Francis Drake appeared with his fleet (June 1, 1856) returning from a successful expedition against the Spaniards in the West Indies. A scheme which he formed, of furnishing Lane and his associates with such supplies as
-
- might enable them to remain with comfort in their station, was disappointed
-
- by a sudden storm, in which a small vessel that he destined for their service was dashed to pieces; and, as he could not supply them with another, at their
-
- joint request, as they were worn out with fatigue and famine, he carried them home to England (June 19).</q></p>
-
+reduced to the utmost distress, and on the point of perishing with famine, was
+preparing to disperse into different districts of the country in quest of food, when Sir Francis Drake appeared with his fleet (June 1, 1856) returning from a successful expedition against the Spaniards in the West Indies. A scheme which he formed, of furnishing Lane and his associates with such supplies as
+might enable them to remain with comfort in their station, was disappointed
+by a sudden storm, in which a small vessel that he destined for their service was dashed to pieces; and, as he could not supply them with another, at their
+joint request, as they were worn out with fatigue and famine, he carried them home to England (June 19).</q></p>
 
 <p><q>There is one consequence of this abortive colony important enough to entitle
-
 it to a place in history. Lane and his associates, by their constant intercourse with the Indians, had acquired a relish for their favourite enjoyment of smoking tobacco, to the use of which the credulity of that people not only ascribed a thousand imaginary virtues, but their superstition considered the plant itself as a gracious gift of the gods, for the solace of human kind, and the most acceptable offering which men can present to Heaven. They brought with them a specimen of this new commodity to England, and taught their countrymen the method of using it, which Raleigh and some young men of fashion fondly adopted. From imitation of them, from love of novelty, and from the favourable opinion of its salutary qualities entertained by several
-
 physicians, the practice spread among the English. The Spaniards and
 Portuguese had, previous to this, introduced it in other parts of
 Europe. This habit of taking tobacco gradually extended from the
@@ -7937,10 +7827,6 @@ is go constructed that, at the cost of a few hundred pounds, she may
 be converted into an irresistible ram, fully capable of running down
 any number of wooden ships without injury to herself. It is only
 necessary to take away the overhanging cutwater, figurehead,
-<<<<<<< ilnv40.xml
-&#x0026;c., when a stem of gigantic proportions and enormous
-strengthforged and fitted with this object, will make its appearance, and to this the bowplates
-=======
 &#x0026;c., when a stem of gigantic proportions and enormous strength,
 forged and fitted with this object, will make its appearance, and to
 this the bowplates can be easily connected. The Merrimac, being a
@@ -7950,15 +7836,6 @@ dock for repairs; but there are so many examples of iron vessels, with
 stems vastly inferior in strength to the Warrior, running down other
 ships, without receiving any injury, that no such need be entertained
 on her account."</p></div2>
->>>>>>> 1.14
-
-con be easily connected. The Merrimac, being a wooden vessel, received
-such considerable injury to her bow, in running down and sinking the
-Cumberland, as to oblige her to go into dock for repairs; but there
-are so many examples of iron vessels, with stems vastly inferior in
-strength to the Warrior, running down other ships, without receiving
-any injury, that no such need be enter-tained on her
-account."</p></div2>
 
 <div2 id="iln40.1138.010" n="The Civil War in America--Naval
       Engagement in Hampton Roads: The Confederate Iron-Plated Steamer
@@ -8897,18 +8774,8 @@ length and mount heavy guns. The ground in front of their heavier guns
 is low and swampy, making it impassable."</p>
 
 <p>The Federals commenced an attack with artillery, which was replied to by the Confederate batteries. The cannonading on both sides was without material result. The latest accounts estimate the Confederate forces at 60,000, and represent their intrenchments as stretching entirely across Yorktown peninsula, from James to York River.</p>
-<<<<<<< ilnv40.xml
 
-<p>At<orig reg="Pittsburgh"> Pittsburg</orig> Landing, near Corinth, has been fought the bloodiest
-=======
->>>>>>> 1.14
-
-<<<<<<< ilnv40.xml
- battle which ever took place on United States' soil. On Sunday
-
-=======
 <p>At<orig reg="Pittsburgh"> Pittsburg</orig> Landing, near Corinth, has been fought the bloodiest battle which ever took place on United States' soil. On Sunday
->>>>>>> 1.14
 morning, the 6th instant, the Confederates under Beauregard and
 Johnstone fell on General Grant's division with great fury. They drove
 in the left wing of the Federals, commanded by General Prentiss, and
