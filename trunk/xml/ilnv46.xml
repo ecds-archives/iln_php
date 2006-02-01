@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "iln.dtd"
 [<!ENTITY % iln-entities SYSTEM
 "/Beck-files/ILN/ILNCVS/ilnxml/iln_entities">
@@ -71,7 +70,7 @@ London News Perspective</title>
 <biblScope type="issue">no. 1296</biblScope>
 <biblScope type="pages">p. 2</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>....The prospect westerly is not so auspicious. Would that it were
 in our power to foretell the certain termination of the struggle in
@@ -107,7 +106,7 @@ improbable....</p></div2>
 <biblScope type="issue">no. 1296</biblScope>
 <biblScope type="pages">p. 2</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -205,7 +204,7 @@ maintained between the belligerent States of America....</p></div2>
 <biblScope type="issue">no. 1296</biblScope>
 <biblScope type="pages">p. 5-6</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE SINKING OF THE<lb/><hi
 rend="smallcaps">Confederate Steamer<lb/>Florida, In The
@@ -278,7 +277,7 @@ accompany her."</p></div2>
 <biblScope type="issue">no.1296</biblScope>
 <biblScope type="pages">p. 5</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p5">
@@ -296,7 +295,7 @@ accompany her."</p></div2>
 <biblScope type="issue">no. 1296</biblScope>
 <biblScope type="pages">p. 7</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....But they are saying at the clubs, too, that Lord Lyons will not
@@ -325,7 +324,7 @@ exceedingly popular....</p></div2>
 <biblScope type="issue">no. 1296</biblScope>
 <biblScope type="pages">p. 18</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 
 <p>An Atlas of America, illustrating the physical and political
@@ -347,7 +346,7 @@ want.</p></div2>
 <biblScope type="issue">no. 1296</biblScope>
 <biblScope type="pages">p. 22</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>....The opening paper in <hi rend="italic">Fraser</hi>, "President
@@ -396,7 +395,7 @@ Missionary Ridge....</p></div2>
 <biblScope type="issue">no. 1296</biblScope>
 <biblScope type="pages">p. 23</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A company has been formed in New York, styled "The American and
 British West India Cotton Company," which has leased for a term of
@@ -411,7 +410,7 @@ Bahamas.</p></div2>
 <biblScope type="issue">no. 1296</biblScope>
 <biblScope type="pages">p. 23</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The seal of the Confederate States of America, the composition of
 which is by J. H. Foley, R. A., contains as a centre a representation
@@ -441,7 +440,7 @@ writers, but the great majority had to be destroyed.</p></div2>
 <biblScope type="issue">no. 1297</biblScope>
 <biblScope type="pages">p. 26</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -604,7 +603,7 @@ recognised and arrested.</p></div2>
 <biblScope type="issue">no. 1297</biblScope>
 <biblScope type="pages">p. 30-31</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, January</hi> 14, 1865.</hi></p>
@@ -727,7 +726,7 @@ prove.</p></div2>
 <biblScope type="issue">no. 1297</biblScope>
 <biblScope type="pages">p. 42</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE TOWN AND PORT OF SAVANNAH.</p>
 <p><hi rend="smallcaps">The</hi> town and port of Savannah, which
@@ -766,7 +765,7 @@ capabilities of the place for military fortification.</p></div2>
 <biblScope type="issue">no.1297</biblScope>
 <biblScope type="pages">p. 42</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p42">
@@ -783,7 +782,7 @@ capabilities of the place for military fortification.</p></div2>
 <biblScope type="issue">no. 1297</biblScope>
 <biblScope type="pages">p. 43</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">The</hi> explosion of fifty-five tons of
@@ -856,7 +855,7 @@ mouth.</p></div2>
 <biblScope type="issue">no. 1297</biblScope>
 <biblScope type="pages">p. 43</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A fisherman recently hauled up a silver fork, marked "Atlantic,"
 near the spot in Long Island Sound where the steamer Atlantic 
@@ -872,7 +871,7 @@ water.</p></div2>
 <biblScope type="issue">no. 1297</biblScope>
 <biblScope type="pages">p. 43</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>Mr. Edward Watkin, M.P., president of the Grand Trunk Railway of
 Canada, had an interview yesterday week with Mr. Cardwell, at the
@@ -890,7 +889,7 @@ North American Provinces.</p></div2>
 <biblScope type="issue">no. 1297</biblScope>
 <biblScope type="pages">p. 47</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A son of Dr. Livingstone, who enlisted in the Federal service
 after the war broke out, was, in the latter part of last year, taken
@@ -904,7 +903,7 @@ prisoner by the Confederates.</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 51</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -1011,7 +1010,7 @@ merchant-ships.</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 51</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Queen has approved of M. Henri Du Chesne as Consul at Hong-Kong
 for the Emperor of the French. Her Majesty has also approved of
@@ -1031,7 +1030,7 @@ Malta for the Queen of Spain.</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 51</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegrams have been received through Mr. Reuter's
@@ -1050,7 +1049,7 @@ emancipation and ultimate removal of slaves from Kentucky.</p></div2>
 <biblScope type="issue">no.1298</biblScope>
 <biblScope type="pages">p. 56</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p56">
@@ -1069,7 +1068,7 @@ emancipation and ultimate removal of slaves from Kentucky.</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 58</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....We met the other day a gentleman who has made several millions
@@ -1104,7 +1103,7 @@ Wales in Canada is inimitably funny.</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 59</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">WINTER SKETCHES IN NEW YORK.</p>
 <p><hi rend="smallcaps">A Correspondent</hi> in New York, to whose
@@ -1157,7 +1156,7 @@ brace."</p></div2>
 <biblScope type="issue">no.1298</biblScope>
 <biblScope type="pages">p. 60</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p60">
@@ -1177,7 +1176,7 @@ brace."</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 65</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="smallcaps">Illustrations Of<lb/></hi>THE
 WAR IN AMERICA.<lb/><hi rend="smallcaps">General Sherman.</hi></p>
@@ -1214,7 +1213,7 @@ in the military service of the Federal Government.</p></div2>
 <biblScope type="issue">no.1298</biblScope>
 <biblScope type="pages">p. 65</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p65">
@@ -1231,7 +1230,7 @@ in the military service of the Federal Government.</p></div2>
 <biblScope type="issue">no.1298</biblScope>
 <biblScope type="pages">p. 66</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p66">
@@ -1249,7 +1248,7 @@ in the military service of the Federal Government.</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 66</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">GENERAL SHERMAN'S MARCH THROUGH GEORGIA.</p>
 <p>The map of General Sherman's route from Atlanta to Savannah, which
@@ -1356,7 +1355,7 @@ Mr. Lincoln "as a Christmas-box."</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 66-67</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">RENDEZVOUS OF MOSBY'S MEN IN THE PASS OF THE<lb/><hi
 rend="smallcaps">Blue Ridge, Shenandoah Valley.</hi></p>
@@ -1419,7 +1418,7 @@ Virginia."</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 67</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A New York paper states that a man named Colley, who died recently
 at Lockport in that State, kept his money in an old boiler buried in
@@ -1434,7 +1433,7 @@ three-cent pieces.</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 70</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p>....<hi rend="italic">The War in America</hi>--1863-64. By Edward
@@ -1471,7 +1470,7 @@ preparation....</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 71</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A hopeful miner, writing from Nevada territory, the land of silver
 bricks, says:--"It is estimated that the silver mines of Nevada will
@@ -1488,7 +1487,7 @@ nearly doubled after the 1st of next January."</p></div2>
 <biblScope type="issue">no. 1298</biblScope>
 <biblScope type="pages">p. 74</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A New York paper states that Professor Silliman examined part of
 Southern California in the summer, and found oil equal in quality to
@@ -1505,7 +1504,7 @@ of a fine agricultural district.</p></div2>
 <biblScope type="issue">no. 1299</biblScope>
 <biblScope type="pages">p. 77-78</biblScope>
 <date value="1865-01-28">January 28, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">CANADA AND THE UNITED STATES.</p>
 <p><hi rend="smallcaps">The</hi> relations of our chief Transatlantic
@@ -1673,7 +1672,7 @@ of forbearing to add fuel to the flame.</p></div2>
 <biblScope type="issue">no. 1299</biblScope>
 <biblScope type="pages">p. 79</biblScope>
 <date value="1865-01-28">January 28, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi></p>
@@ -1790,7 +1789,7 @@ empty west of Toronto.</p></div2>
 <biblScope type="issue">no. 1299</biblScope>
 <biblScope type="pages">p. 86</biblScope>
 <date value="1865-01-28">January 28, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....Talking of companies (limited), we hear that a body of
@@ -1831,7 +1830,7 @@ may not be tried in London the stupendous?</p></div2>
 <biblScope type="issue">no. 1300</biblScope>
 <biblScope type="pages">p. 102-103</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -1973,7 +1972,7 @@ writ of habeas corpus had been demanded on his behalf.</p></div2>
 <biblScope type="issue">no. 1300</biblScope>
 <biblScope type="pages">p. 107</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....The Hon. Edward Everett is dead. He was one of the best of
@@ -2030,7 +2029,7 @@ Greek roots and Congress water....</p></div2>
 <biblScope type="issue">no. 1300</biblScope>
 <biblScope type="pages">p. 107</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Right Rev. Thomas Church Brownell, D.D., Bishop of the American
 Episcopalian Church at Hartford, Connecticut, died a few weeks since,
@@ -2046,7 +2045,7 @@ Connecticut.</p></div2>
 <biblScope type="issue">no. 1300</biblScope>
 <biblScope type="pages">p. 110</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>....<hi rend="italic">Macmillan</hi>, as usual, aspires to and
@@ -2077,7 +2076,7 @@ circumspect.....</p></div2>
 <biblScope type="issue">no. 1300</biblScope>
 <biblScope type="pages">p. 118</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>....It is precisely because we are sincerely solicitous for the
 abiding welfare of the projected Confederation that we cannot join
@@ -2209,7 +2208,7 @@ Stock Exchange....</p></div2>
 <biblScope type="issue">no. 1300</biblScope>
 <biblScope type="pages">p. 118</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
-<extent></extent>
+
 </bibl>
 
 <p>The mail from Sherman's army, by the Arago, reached the New York
@@ -2229,7 +2228,7 @@ largest mail that the New York post office ever received.</p></div2>
 <biblScope type="issue">no. 1300</biblScope>
 <biblScope type="pages">p. 119</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Rev. Mr. Greene's congregation in Hatfield, Massachusetts, made
 their pastor "surprise visits" on Christmas evening and on New-Year's
@@ -2248,7 +2247,7 @@ clergymen in this country.</p></div2>
 <biblScope type="issue">no. 1301</biblScope>
 <biblScope type="pages">p. 126-127</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -2344,7 +2343,7 @@ agitating for the extension of the project to those colonies.</p>
 <biblScope type="issue">no. 1301</biblScope>
 <biblScope type="pages">p. 134</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi
@@ -2453,7 +2452,7 @@ were not founded on justice.</p>
 <biblScope type="issue">no. 1301</biblScope>
 <biblScope type="pages">p. 142</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">My Diary in America in the Midst of War.</hi> By
@@ -2548,7 +2547,7 @@ and passion.</p></div2>
 <biblScope type="issue">no. 1301</biblScope>
 <biblScope type="pages">p. 143</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE NEGRO IN AMERICA.</p>
 <p>"<hi rend="italic">The coloured man</hi>," said Mr. Frederick
@@ -2681,7 +2680,7 @@ were exterminated.</p></div2>
 <biblScope type="issue">no. 1301</biblScope>
 <biblScope type="pages">p. 147</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A pleasant hit at the neck-and-neck race of extravagance which the
 two powers Shoddy and Petroleum are running in the States is thus made
@@ -2708,7 +2707,7 @@ lose her chance of a better match.</p></div2>
 <biblScope type="issue">no. 1300</biblScope>
 <biblScope type="pages">p. 150-151</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -2852,7 +2851,7 @@ not effectual, resistance to an enemy.</p></div2>
 <biblScope type="issue">no. 1302</biblScope>
 <biblScope type="pages">p. 151</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Cape papers contain voluminous accounts of the cruiser
 Shenandoah, formerly the Sea King, and her doings. She is commanded
@@ -2871,7 +2870,7 @@ friend of the captain.</p></div2>
 <biblScope type="issue">no. 1302</biblScope>
 <biblScope type="pages">p. 151</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>An American journal asserts that in the annual report of the chief
 of the bureau of ordnance of the United States Navy department, it is
@@ -2892,7 +2891,7 @@ quantity of powder were all mixed up together."</p></div2>
 <biblScope type="issue">no. 1302</biblScope>
 <biblScope type="pages">p. 151</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">WILMINGTON AND THE CAPE FEAR RIVER,<lb/><hi
 rend="smallcaps">North Carolina.</hi></p>
@@ -2970,7 +2969,7 @@ lengthened resistance.</p></div2>
 <biblScope type="issue">no.1302</biblScope>
 <biblScope type="pages">p. 152</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p152">
@@ -2987,7 +2986,7 @@ lengthened resistance.</p></div2>
 <biblScope type="issue">no. 1302</biblScope>
 <biblScope type="pages">p. 154</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, February</hi> 18, 1865.</hi></p>
@@ -3087,7 +3086,7 @@ again, and to better purpose.</p></div2>
 <biblScope type="issue">no. 1302</biblScope>
 <biblScope type="pages">p. 158</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF COMMONS.--<hi rend="smallcaps">Friday,
@@ -3125,7 +3124,7 @@ elapsed....</p>
 <biblScope type="issue">no. 1302</biblScope>
 <biblScope type="pages">p. 158</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 
@@ -3139,7 +3138,7 @@ elapsed....</p>
 <biblScope type="issue">no. 1303</biblScope>
 <biblScope type="pages">p. 174-175</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -3283,7 +3282,7 @@ the Government, was adopted by a large majority.</p></div2>
 <biblScope type="issue">no. 1303</biblScope>
 <biblScope type="pages">p. 179</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....That famous Amazon of Secessia, Belle Boyd, now Mrs. Hardinge,
@@ -3327,7 +3326,7 @@ Assaye, and Napoleon at Arcola?</p></div2>
 <biblScope type="issue">no. 1303</biblScope>
 <biblScope type="pages">p. 183</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>Seven hundred and eighty-two national banks are in operation in
 the Federal States, with a capital of 183,093,000 dols.</p></div2>
@@ -3340,7 +3339,7 @@ the Federal States, with a capital of 183,093,000 dols.</p></div2>
 <biblScope type="issue">no. 1303</biblScope>
 <biblScope type="pages">p. 183-184</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE PRONG-HORNED ANTELOPE.</p>
 <p><hi rend="smallcaps">The</hi> Zoological Society of London have
@@ -3380,7 +3379,7 @@ re-exported to England.</p></div2>
 <biblScope type="issue">no. 1303</biblScope>
 <biblScope type="pages">p. 190</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A physician, occupying a high official position in Massachusetts,
 says that since the beginning of the war there has been a remarkable
@@ -3397,7 +3396,7 @@ women.</p></div2>
 <biblScope type="issue">no. 1303</biblScope>
 <biblScope type="pages">p. 195</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The crew of the Confederate cruiser Florida, captured at Bahia by
 the war-steamer Wachusett, were released from Fort Warren, in Boston
@@ -3412,7 +3411,7 @@ from which they were duly landed at Liverpool.</p></div2>
 <biblScope type="issue">no. 1304</biblScope>
 <biblScope type="pages">p. 198</biblScope>
 <date value="1865-03-04">March 4, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -3505,7 +3504,7 @@ being every week struck.</p></div2>
 <biblScope type="issue">no. 1304</biblScope>
 <biblScope type="pages">p. 199</biblScope>
 <date value="1865-03-04">March 4, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegrams have been received through Mr. Reuter's
@@ -3568,7 +3567,7 @@ United States in the case of the St. Albans raiders.</p></div2>
 <biblScope type="issue">no. 1305</biblScope>
 <biblScope type="pages">p. 221-222</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE FEDERAL OCCUPATION OF<lb/><hi
 rend="smallcaps">CHARLESTON.</hi></p>
@@ -3707,7 +3706,7 @@ bury her first in forgetfulness.</p></div2>
 <biblScope type="issue">no. 1305</biblScope>
 <biblScope type="pages">p. 222-223</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi></p>
@@ -3808,7 +3807,7 @@ raiders.</p></div2>
 <biblScope type="issue">no. 1305</biblScope>
 <biblScope type="pages">p. 239</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>....Anything by the Dean of St. Paul's is sure to be read with
@@ -3842,7 +3841,7 @@ breach between the allies on this account....</p></div2>
 <biblScope type="issue">no. 1305</biblScope>
 <biblScope type="pages">p. 242</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The shipments of treasure from San Francisco last year amounted to
 nearly 56,000,000 dols. the largest amount, a San Francisco paper
@@ -3856,7 +3855,7 @@ states, ever shipped in a like period.</p></div2>
 <biblScope type="issue">no. 1305</biblScope>
 <biblScope type="pages">p. 243</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The <hi rend="italic">Gazette</hi> of yesterday se'nnight contains
 the official announcement that Sir Frederick Bruce, who lately
@@ -3872,7 +3871,7 @@ in place of Lord Lyons, resigned.</p></div2>
 <biblScope type="issue">no.1306</biblScope>
 <biblScope type="pages">p. 245</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p245">
@@ -3890,7 +3889,7 @@ in place of Lord Lyons, resigned.</p></div2>
 <biblScope type="issue">no. 1306</biblScope>
 <biblScope type="pages">p. 246</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -4052,7 +4051,7 @@ carrying on the inquiry according to law.</p></div2>
 <biblScope type="issue">no. 1306</biblScope>
 <biblScope type="pages">p. 247</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">PRESIDENT LINCOLN'S INAUGURAL ADDRESS.</p>
 <p>The following is the full text of President Lincoln's inaugural
@@ -4124,7 +4123,7 @@ and a lasting peace among ourselves and with all nations.</p></div2>
 <biblScope type="issue">no.1306</biblScope>
 <biblScope type="pages">p. 248</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p248">
@@ -4144,7 +4143,7 @@ and a lasting peace among ourselves and with all nations.</p></div2>
 <biblScope type="issue">no.1306</biblScope>
 <biblScope type="pages">p. 249</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p249">
@@ -4163,7 +4162,7 @@ and a lasting peace among ourselves and with all nations.</p></div2>
 <biblScope type="issue">no. 1306</biblScope>
 <biblScope type="pages">p. 250</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, March</hi> 18, 1865.</hi></p>
@@ -4268,7 +4267,7 @@ towards better things than can be gained by war.</p></div2>
 <biblScope type="issue">no. 1306</biblScope>
 <biblScope type="pages">p. 254</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
 <p>....It was not to be taken as a necessity that a great debate on
@@ -4295,7 +4294,7 @@ cherished and, if possible, expanded....</p></div2>
 <biblScope type="issue">no. 1306</biblScope>
 <biblScope type="pages">p. 254</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF COMMONS.--<hi
@@ -4469,7 +4468,7 @@ be adjusted without difficulty.</p>
 <biblScope type="issue">no. 1306</biblScope>
 <biblScope type="pages">p. 262</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ILLUSTRATIONS OF THE WAR IN AMERICA.</p>
 <p rend="center"><hi rend="smallcaps">The Bombardment Of Fort
@@ -4592,7 +4591,7 @@ was in the service of his country.</p></div2>
 <biblScope type="issue">no. 1306</biblScope>
 <biblScope type="pages">p. 266</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">Artemus Ward His Book</hi>. (John Camden Hotten.)
@@ -4686,7 +4685,7 @@ Mr. Artemus Ward and his American humour....</p></div2>
 <biblScope type="issue">no. 1307</biblScope>
 <biblScope type="pages">p. 269-270</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">DEFENCE OF CANADA.</p>
 <p><hi rend="smallcaps">Public</hi> questions involving a known
@@ -4842,7 +4841,7 @@ blow where it will most painfully tell home upon her.</p></div2>
 <biblScope type="issue">no. 1307</biblScope>
 <biblScope type="pages">p. 270</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -4924,7 +4923,7 @@ being returned prisoners.</p></div2>
 <biblScope type="issue">no. 1307</biblScope>
 <biblScope type="pages">p. 271</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....Chang, otherwise Sing-woo-bah, the great Chinese giant, is
@@ -4973,7 +4972,7 @@ what I mean. Bring me some of it...."</p></div2>
 <biblScope type="issue">no. 1307</biblScope>
 <biblScope type="pages">p. 278</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
 <p>....Some member should move for a return of the number of times the
@@ -5004,7 +5003,7 @@ be of the responsibility which lies upon him....</p></div2>
 <biblScope type="issue">no. 1307</biblScope>
 <biblScope type="pages">p. 278</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF COMMONS.--<hi
@@ -5203,7 +5202,7 @@ majority of 275 to 40.</p>
 <biblScope type="issue">no. 1307</biblScope>
 <biblScope type="pages">p. 286</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>On the 5th inst. messages were sent direct from New York to San
 Francisco, a distance of nearly four thousand miles; the largest
@@ -5223,7 +5222,7 @@ have died on the battle-field.</p></div2>
 <biblScope type="issue">no. 1307</biblScope>
 <biblScope type="pages">p. 287</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>Idaho is the largest territory in the United States yet
 organised. It is 700 miles long and 450 miles broad, and has an area
@@ -5237,7 +5236,7 @@ of 326,373 square miles.</p></div2>
 <biblScope type="issue">no. 1307</biblScope>
 <biblScope type="pages">p. 291</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>An oil-well in Jackson, Michigan, has been sunk 2000 ft. It is
 intended to sink it to the depth of 3000 ft. The deepest oil-well at
@@ -5251,7 +5250,7 @@ present is 2600 ft.</p></div2>
 <biblScope type="issue">no. 1308</biblScope>
 <biblScope type="pages">p. 294</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -5354,7 +5353,7 @@ States.</p></div2>
 <biblScope type="issue">no. 1308</biblScope>
 <biblScope type="pages">p. 295</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A Confederate ram, the Stonewall (late Olinda) is in great straits
 cruising about the Spanish and Portuguese coast. The first we heard of
@@ -5393,7 +5392,7 @@ Sacramento is about twelve knots.</p></div2>
 <biblScope type="issue">no. 1308</biblScope>
 <biblScope type="pages">p. 305</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">AMERICAN VETERANS OF THE WAR<lb/><hi
 rend="smallcaps">Of 1812.</hi></p>
@@ -5420,7 +5419,7 @@ battles of the present civil war.</p></div2>
 <biblScope type="issue">no.1308</biblScope>
 <biblScope type="pages">p. 305</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p305">
@@ -5438,7 +5437,7 @@ battles of the present civil war.</p></div2>
 <biblScope type="issue">no. 1308</biblScope>
 <biblScope type="pages">p. 310</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">A New Atmosphere</hi>. By Gail Hamilton. (Sampson
@@ -5501,7 +5500,7 @@ restrictions....</p></div2>
 <biblScope type="issue">no. 1308</biblScope>
 <biblScope type="pages">p. 311</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....Private letters from New York bring me two or three
@@ -5553,7 +5552,7 @@ Avenue....</p></div2>
 <biblScope type="issue">no.1309</biblScope>
 <biblScope type="pages">p. 317</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p317">
@@ -5571,7 +5570,7 @@ Avenue....</p></div2>
 <biblScope type="issue">no. 1309</biblScope>
 <biblScope type="pages">p. 318</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE CONSCRIPTION IN NEW YORK.</p>
 <p><hi rend="smallcaps">Our</hi> New York correspondent, by whom we
@@ -5613,7 +5612,7 @@ Times</hi>."</p></div2>
 <biblScope type="issue">no. 1309</biblScope>
 <biblScope type="pages">p. 318</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -5696,7 +5695,7 @@ Buffalo, and fifteen at Chicago.</p></div2>
 <biblScope type="issue">no.1309</biblScope>
 <biblScope type="pages">p. 320</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p320">
@@ -5714,7 +5713,7 @@ Buffalo, and fifteen at Chicago.</p></div2>
 <biblScope type="issue">no.1309</biblScope>
 <biblScope type="pages">p. 321</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p321">
@@ -5732,7 +5731,7 @@ Buffalo, and fifteen at Chicago.</p></div2>
 <biblScope type="issue">no. 1309</biblScope>
 <biblScope type="pages">p. 326</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Confederate cruiser Shenandoah has been in Australian
 waters. On the 23rd of February she was anchored off Kings Island, not
@@ -5746,7 +5745,7 @@ far from Melbourne.</p></div2>
 <biblScope type="issue">no. 1309</biblScope>
 <biblScope type="pages">p. 326</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>We learn by telegram from Lisbon that the American Minister has
 demanded satisfaction for the firing upon the Niagara and Sacramento
@@ -5764,7 +5763,7 @@ Government has complied with these demands.</p></div2>
 <biblScope type="issue">no. 1309</biblScope>
 <biblScope type="pages">p. 327</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>....The most remarkable paper in a very good number of <hi
@@ -5791,7 +5790,7 @@ army. It is highly interesting....</p></div2>
 <biblScope type="issue">no. 1309</biblScope>
 <biblScope type="pages">p. 334</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE SECOND INAUGURATION OF PRESIDENT<lb/><hi
 rend="smallcaps">LINCOLN.</hi></p>
@@ -5890,7 +5889,7 @@ wounded of the Federal army.</p></div2>
 <biblScope type="issue">no. 1310</biblScope>
 <biblScope type="pages">p. 343</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -6030,7 +6029,7 @@ and South.</p></div2>
 <biblScope type="issue">no. 1310</biblScope>
 <biblScope type="pages">p. 343</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The quarterly monthly returns of the emigration from Liverpool show
 an enormous decrease, as compared with the corresponding period of
@@ -6059,7 +6058,7 @@ corresponding quarter of 1864 the number was 26,547.</p></div2>
 <biblScope type="issue">no. 1310</biblScope>
 <biblScope type="pages">p. 351</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE CONFEDERATE STEAM-RAM STONEWALL IN<lb/><hi
 rend="smallcaps">Lisbon Harbour.</hi></p>
@@ -6119,7 +6118,7 @@ View.</p></div2>
 <biblScope type="issue">no.1309</biblScope>
 <biblScope type="pages">p. 353</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p353">
@@ -6137,7 +6136,7 @@ View.</p></div2>
 <biblScope type="issue">no. 1310</biblScope>
 <biblScope type="pages">p. 358</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
 <p>....It is probably not within the memory of many experienced
@@ -6179,7 +6178,7 @@ invasion of Canada....</p></div2>
 <biblScope type="issue">no. 1310</biblScope>
 <biblScope type="pages">p. 362</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Consul-General for the negro republic of Liberia, Mr. Gerard
 Ralston, and the Portuguese Ambassador, Count Lavradio, have just
@@ -6223,7 +6222,7 @@ for the negro race.</p></div2>
 <biblScope type="issue">no. 1311</biblScope>
 <biblScope type="pages">p. 365</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE DEFEAT OF GENERAL LEE.</p>
 <p><hi rend="smallcaps">The</hi> gallant Generalissimo of the
@@ -6391,7 +6390,7 @@ welcomed.</p></div2>
 <biblScope type="issue">no.1311</biblScope>
 <biblScope type="pages">p. 365</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p365">
@@ -6409,7 +6408,7 @@ welcomed.</p></div2>
 <biblScope type="issue">no. 1311</biblScope>
 <biblScope type="pages">p. 366</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">GENERAL GRANT.</p>
 <p><hi rend="smallcaps">Lieutenant-General Ulysses S. Grant</hi>, the
@@ -6501,7 +6500,7 @@ York.</p></div2>
 <biblScope type="issue">no. 1311</biblScope>
 <biblScope type="pages">p. 366-367</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -6981,7 +6980,7 @@ consequence of the action of the Canadian Executive.</p></div2>
 <biblScope type="issue">no. 1311</biblScope>
 <biblScope type="pages">p. 382</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A correspondent of the <hi rend="italic">Scientific American</hi>
 says that common brass clocks may be cleaned by immersing the works in
@@ -7009,7 +7008,7 @@ expedition, proceed to your work, and send your bills to me."</p></div2>
 <biblScope type="issue">no. 1311</biblScope>
 <biblScope type="pages">p. 382</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The memorial to the memory of David Herbert Llewellyn, late surgeon
 of the Confederate Alabama, was last week erected in the parish
@@ -7031,7 +7030,7 @@ entablature with the inscription.</p></div2>
 <biblScope type="issue">no. 1311</biblScope>
 <biblScope type="pages">p. 382</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The tide of emigration from Ireland shows no sign of ebbing. Last
 week hundreds of people, from the grey-headed grandfather to the child
@@ -7052,7 +7051,7 @@ throng."</p></div2>
 <biblScope type="issue">no. 1311</biblScope>
 <biblScope type="pages">p. 383</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The <hi rend="italic">Boston</hi> (U.S.) <hi
 rend="italic">Chronicle</hi> states that the University of Chicago
@@ -7078,7 +7077,7 @@ promised by the three Cabinets concerned.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 390-391</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -7247,7 +7246,7 @@ restrictions.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 391</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Toronto Court has discharged all the St. Albans raiders except
 Lieutenant Young, who has been committed for trial.</p></div2>
@@ -7260,7 +7259,7 @@ Lieutenant Young, who has been committed for trial.</p></div2>
 <biblScope type="issue">no.1312</biblScope>
 <biblScope type="pages">p. 393</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p393">
@@ -7279,7 +7278,7 @@ Lieutenant Young, who has been committed for trial.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 394</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE NEW FORT AT SANDY HOOK IN THE BAY OF<lb/><hi
 rend="smallcaps">New York.</hi></p>
@@ -7303,7 +7302,7 @@ Federal army.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 395</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, April</hi> 29, 1865.</hi></p>
@@ -7393,7 +7392,7 @@ tranquillity.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 395</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>Master Willie Pape has received an invitation to appear before Lord
 Wodehouse at Dublin Castle during the Exhibition.</p></div2>
@@ -7406,7 +7405,7 @@ Wodehouse at Dublin Castle during the Exhibition.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 395</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Queen has approved of Mr. W. Clifford Knight as Consul at the
 Cape of Good Hope for the King of the Belgians. The Queen has also
@@ -7431,7 +7430,7 @@ cotton."</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 398</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>It is impossible to speak with exaggeration of the intense grief
 and indignation with which the news of the assassination of
@@ -7457,7 +7456,7 @@ calling a public meeting.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 398</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi
@@ -7503,7 +7502,7 @@ United States.</p></div2>
 <biblScope type="issue">no.1312</biblScope>
 <biblScope type="pages">p. 405</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p405">
@@ -7521,7 +7520,7 @@ United States.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 406</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 
 <p rend="center">THE AMERICAN IRONCLAD MONADNOCK.</p>
@@ -7558,7 +7557,7 @@ Americans as a model for their future navy.</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 406</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....And so, in spite of Mosby and his mosstroopers, in spite of
@@ -7603,7 +7602,7 @@ fair to come true....</p></div2>
 <biblScope type="issue">no. 1312</biblScope>
 <biblScope type="pages">p. 411</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE LATE CONFEDERATE WAR-STEAMER<lb/><hi
 rend="smallcaps">Tallahassee.</hi></p>
@@ -7650,7 +7649,7 @@ last year, and which has been lately published.</p></div2>
 <biblScope type="issue">no.1312</biblScope>
 <biblScope type="pages">p. 412</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p412">
@@ -7668,7 +7667,7 @@ last year, and which has been lately published.</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 422-423</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -7815,7 +7814,7 @@ and the closing of the public buildings.</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 423</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The detectives at Queenstown arrested one of the passengers by the
 Edinburgh who bore a resemblance to Booth, the assassin of
@@ -7833,7 +7832,7 @@ has, of course, been set at liberty.</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 423</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The horror which the murder of Mr. Lincoln has excited in England
 is being daily expressed in one form or another. The Queen has written
@@ -7862,7 +7861,7 @@ under that calamity.</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 428</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE NEW SECRETARY TO<lb/><hi rend="smallcaps">The
 Treasury<lb/>of the United States.</hi></p>
@@ -7912,7 +7911,7 @@ hands.</p></div2>
 <biblScope type="issue">no.1313</biblScope>
 <biblScope type="pages">p. 428</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p428">
@@ -7930,7 +7929,7 @@ hands.</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 430</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
 <p>....It so happened that the moving of the address to the Crown
@@ -8004,7 +8003,7 @@ better understand their quality....</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 430-431</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi
@@ -8220,7 +8219,7 @@ read by Lord Sydney to the House of Lords.]</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 431</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>With reference to the late Confederate war-steamer Tallahassee
 (built, under the name of the Atalanta, for the London, Chatham, and
@@ -8239,7 +8238,7 @@ and Captain Symonds, as his representative.</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 433</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">GOVERNOR'S ISLAND AND FORT, NEW YORK<lb/><hi
 rend="smallcaps">Harbour.</hi></p>
@@ -8263,7 +8262,7 @@ which the new fort at Sandy Hook is an example.</p></div2>
 <biblScope type="issue">no.1313</biblScope>
 <biblScope type="pages">p. 433</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p433">
@@ -8280,7 +8279,7 @@ which the new fort at Sandy Hook is an example.</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 437-438</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE NEW PRESIDENT OF<lb/><hi rend="smallcaps">The
 United States.</hi></p>
@@ -8360,7 +8359,7 @@ Se<pb n="438"/>nator for a full term, ending March 3, 1863. At the last Presiden
 <biblScope type="issue">no.1313</biblScope>
 <biblScope type="pages">p. 437</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p437a">
@@ -8378,7 +8377,7 @@ Se<pb n="438"/>nator for a full term, ending March 3, 1863. At the last Presiden
 <biblScope type="issue">no.1313</biblScope>
 <biblScope type="pages">p. 437</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p437b">
@@ -8397,7 +8396,7 @@ Se<pb n="438"/>nator for a full term, ending March 3, 1863. At the last Presiden
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 438</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">MEETINGS OF CONDOLENCE ON THE DEATH OF<lb/><hi
 rend="smallcaps">President Lincoln.</hi></p>
@@ -8445,7 +8444,7 @@ Hon. W. H. Seward."</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 438</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">MEETING OF AMERICANS IN LONDON.</p>
 <p>A meeting of Americans in London was held at St. James's Hall, on
@@ -8530,7 +8529,7 @@ people of this country.</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 438</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....Of the assassination of President Lincoln little can be said
@@ -8559,7 +8558,7 @@ Brutus, but the lean, hungry, and envious Cassius....</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 442</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>....<hi rend="italic">Fraser</hi> opens with one of Mr. Conway's
@@ -8587,7 +8586,7 @@ consequences....</p></div2>
 <biblScope type="issue">no. 1313</biblScope>
 <biblScope type="pages">p. 443</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">OBITUARY OF EMINENT PERSONS</p>
 <p rend="center"><hi rend="smallcaps">President Lincoln.</hi></p> 
@@ -8722,7 +8721,7 @@ previous evening. The President leaves a widow and family.</p></div2>
 <biblScope type="issue">no. 1314</biblScope>
 <biblScope type="pages">p. 446</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -8838,7 +8837,7 @@ prisoners," released by the Confederates, 1400 perished.</p></div2>
 <biblScope type="issue">no. 1314</biblScope>
 <biblScope type="pages">p. 450</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, May</hi> 13, 1865.</hi></p>
@@ -8949,7 +8948,7 @@ thank God.</p></div2>
 <biblScope type="issue">no. 1314</biblScope>
 <biblScope type="pages">p. 455</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The New York Emigration Commissioners have issued their report for
 1864. They state that in the course of the year there landed at New
@@ -8969,7 +8968,7 @@ did the service of burying them.</p></div2>
 <biblScope type="issue">no.1314</biblScope>
 <biblScope type="pages">p. 456</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p456">
@@ -8988,7 +8987,7 @@ did the service of burying them.</p></div2>
 <biblScope type="issue">no. 1314</biblScope>
 <biblScope type="pages">p. 462</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE MOURNING FOR PRESIDENT LINCOLN IN<lb/><hi
 rend="smallcaps">BROADWAY, NEW YORK.</hi></p>
@@ -9042,7 +9041,7 @@ impressive ever witnessed."</p></div2>
 <biblScope type="issue">no. 1314</biblScope>
 <biblScope type="pages">p. 466</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....And Mr. Wilkes Booth, what of him? A struggle, a summons, a
@@ -9076,7 +9075,7 @@ a purposeless, noisy ambition....</p></div2>
 <biblScope type="issue">no. 1315</biblScope>
 <biblScope type="pages">p. 470</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -9142,7 +9141,7 @@ plots to take it.</p></div2>
 <biblScope type="issue">no. 1315</biblScope>
 <biblScope type="pages">p. 471</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>Mr. and Mrs. Charles Kean are at New York, attracting brilliant
 audiences at the Broadway Theatre.</p></div2>
@@ -9155,7 +9154,7 @@ audiences at the Broadway Theatre.</p></div2>
 <biblScope type="issue">no.1315</biblScope>
 <biblScope type="pages">p. 472</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p472">
@@ -9173,7 +9172,7 @@ audiences at the Broadway Theatre.</p></div2>
 <biblScope type="issue">no.1315</biblScope>
 <biblScope type="pages">p. 473</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p473">
@@ -9191,7 +9190,7 @@ audiences at the Broadway Theatre.</p></div2>
 <biblScope type="issue">no. 1315</biblScope>
 <biblScope type="pages">p. 478</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi
@@ -9266,7 +9265,7 @@ by the whole civilised world....</p></div2>
 <biblScope type="issue">no. 1315</biblScope>
 <biblScope type="pages">p. 479-480</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">RICHMOND AFTER THE DEPARTURE OF THE<lb/><hi
 rend="smallcaps">Confederates.</hi></p>
@@ -9395,7 +9394,7 @@ Mr. Kennard's sketches.</p></div2>
 <biblScope type="issue">no.1315</biblScope>
 <biblScope type="pages">p. 481</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p481a">
@@ -9414,7 +9413,7 @@ Mr. Kennard's sketches.</p></div2>
 <biblScope type="issue">no.1315</biblScope>
 <biblScope type="pages">p. 481</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p481b">
@@ -9433,7 +9432,7 @@ Mr. Kennard's sketches.</p></div2>
 <biblScope type="issue">no. 1315</biblScope>
 <biblScope type="pages">p. 486</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">OBSEQUIES OF PRESIDENT LINCOLN<lb/><hi
 rend="smallcaps">At Washington And New York.</hi></p>
@@ -9524,7 +9523,7 @@ honours."</p></div2>
 <biblScope type="issue">no. 1315</biblScope>
 <biblScope type="pages">p. 487</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
-<extent></extent>
+
 </bibl>
 
 <p rend="center">ECHOES OF THE WEEK.</p>
@@ -9573,7 +9572,7 @@ success is.</p></div2>
 <biblScope type="issue">no. 1315</biblScope>
 <biblScope type="pages">p. 494</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -9640,7 +9639,7 @@ numbers.</p></div2>
 <biblScope type="issue">no. 1316</biblScope>
 <biblScope type="pages">p. 499</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>the <hi rend="italic">Gazette</hi> of yesterday week contained a
 notice from Earl Russell that, in the existing state of the civil war
@@ -9659,7 +9658,7 @@ port within twenty-four hours after having obtained them.</p></div2>
 <biblScope type="issue">no. 1316</biblScope>
 <biblScope type="pages">p. 502</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>According to the "American National Almanac" 1100 vessels of all
 kinds were captured by Federal cruisers in attempting to run the
@@ -9673,7 +9672,7 @@ blockade during the war.</p></div2>
 <biblScope type="issue">no. 1316</biblScope>
 <biblScope type="pages">p. 510</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>An American journal states that in the United States there are
 fifty-three religious sects. Amongst them are ten different kinds of
@@ -9694,7 +9693,7 @@ hicksite.</p></div2>
 <biblScope type="issue">no. 1316</biblScope>
 <biblScope type="pages">p. 514</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">>ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">Mr. Simon Tappertit</hi>, to whom Mr. Dickens
@@ -9777,7 +9776,7 @@ very prettily turned!</p></div2>
 <biblScope type="issue">no. 1318</biblScope>
 <biblScope type="pages">p. 517</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE CAPTURE OF JEFFERSON DAVIS.</p>
 <p><hi rend="smallcaps">One</hi> of the instincts which a high state
@@ -9922,7 +9921,7 @@ When mercy seasons justice.</p></q></div2>
 <biblScope type="issue">no. 1318</biblScope>
 <biblScope type="pages">p. 518</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -10014,7 +10013,7 @@ a pirate.</p></div2>
 <biblScope type="issue">no. 1318</biblScope>
 <biblScope type="pages">p. 523</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The ascent of the great volcano of Popocatepetl, the highest point
 of land on the North American continent, has recently been made by two
@@ -10028,7 +10027,7 @@ Americans--one a Californian, the other from Pennsylvania.</p></div2>
 <biblScope type="issue">no. 1318</biblScope>
 <biblScope type="pages">p. 526</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="centeR">HOUSE OF COMMONS.--<hi
@@ -10052,7 +10051,7 @@ President Johnson he could not say....</p></div2>
 <biblScope type="issue">no. 1318</biblScope>
 <biblScope type="pages">p. 534</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....America and England are soon to be again linked together, the
@@ -10112,7 +10111,7 @@ refused to defend the accused.</p></div2>
 <biblScope type="issue">no. 1318</biblScope>
 <biblScope type="pages">p. 534</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>A Pacific Pearl Company has been formed at New York, the capital of
 which is 1,000,000 dols. The company purpose fishing for pearls and
@@ -10130,7 +10129,7 @@ years.</p></div2>
 <biblScope type="issue">no. 1318</biblScope>
 <biblScope type="pages">p. 537</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE CITY OF RICHMOND, VIRGINIA, AFTER ITS
 SURRENDER.</p>
@@ -10160,7 +10159,7 @@ the armoury and arsenal, appropriated to warlike uses.</p></div2>
 <biblScope type="issue">no.1318</biblScope>
 <biblScope type="pages">p. 456</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p537">
@@ -10178,7 +10177,7 @@ the armoury and arsenal, appropriated to warlike uses.</p></div2>
 <biblScope type="issue">no. 1319</biblScope>
 <biblScope type="pages">p. 542</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -10293,7 +10292,7 @@ of Commerce is also to be represented at the convention.</p></div2>
 <biblScope type="issue">no. 1319</biblScope>
 <biblScope type="pages">p. 546</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The following specimen of mixed metaphor is, according to the <hi
 rend="italic">Reader</hi>, taken from an American journal:--"The apple
@@ -10309,7 +10308,7 @@ politics with an earthquake of heresies."</p></div2>
 <biblScope type="issue">no. 1319</biblScope>
 <biblScope type="pages">p. 550</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>There are 236 educational colleges in the United States,
 eighty-seven theological seminaries, and fifty medical
@@ -10323,7 +10322,7 @@ colleges.</p></div2>
 <biblScope type="issue">no. 1319</biblScope>
 <biblScope type="pages">p. 551</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>Tuesday's <hi rend="italic">Gazette</hi> contains an official
 letter from Earl Russell, formally withdrawing belligerent rights from
@@ -10385,7 +10384,7 @@ cost, with the furniture, not far from 50,000 dols.</p></div2>
 <biblScope type="issue">no. 1319</biblScope>
 <biblScope type="pages">p. 558</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....If the stories about the treatment of Mr. Davis at Fortress
@@ -10417,7 +10416,7 @@ before he be slain....</p></div2>
 <biblScope type="issue">no. 1319</biblScope>
 <biblScope type="pages">p. 558</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>....<hi rend="italic">Macmillan</hi> commits the mistake of giving
@@ -10433,7 +10432,7 @@ completed by a very poor copy of verses....</p></div2>
 <biblScope type="issue">no. 1319</biblScope>
 <biblScope type="pages">p. 559</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>Three of the principal New York hotels breakfasted one morning
 2500 persons.</p></div2>
@@ -10446,7 +10445,7 @@ completed by a very poor copy of verses....</p></div2>
 <biblScope type="issue">no. 1319</biblScope>
 <biblScope type="pages">p. 562</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>An American paper says that the New York police uniform is made of
 blue flannel, and blouses are worn instead of coats.</p></div2>
@@ -10459,7 +10458,7 @@ blue flannel, and blouses are worn instead of coats.</p></div2>
 <biblScope type="issue">no. 1320</biblScope>
 <biblScope type="pages">p. 567</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -10604,7 +10603,7 @@ destroyed and 300 persons killed.</p></div2>
 <biblScope type="issue">no. 1320</biblScope>
 <biblScope type="pages">p. 574</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi
@@ -10652,7 +10651,7 @@ Hope some time ago....</p></div2>
 <biblScope type="issue">no.1320</biblScope>
 <biblScope type="pages">p. 576</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p576">
@@ -10670,7 +10669,7 @@ Hope some time ago....</p></div2>
 <biblScope type="issue">no. 1320</biblScope>
 <biblScope type="pages">p. 590</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....This column of June 3 having, it would seem, unduly reflected
@@ -10724,7 +10723,7 @@ no doubt would have done effective justice to all. I am, &#x0026;c.,
 <biblScope type="issue">no. 1320</biblScope>
 <biblScope type="pages">p. 596</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">REVIEW OF FEDERAL ARMIES AT WASHINGTON.</p>
 <p><hi rend="smallcaps">A Grand</hi> review of the Federal armies
@@ -10761,7 +10760,7 @@ afternoon.</p></div2>
 <biblScope type="issue">no. 1321</biblScope>
 <biblScope type="pages">p. 598</biblScope>
 <date value="1865-06-24">June 24, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -10805,7 +10804,7 @@ Secretary of Legation, was to leave New York, for France, to-day (June
 <biblScope type="issue">no. 1321</biblScope>
 <biblScope type="pages">p. 614</biblScope>
 <date value="1865-06-24">June 24, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">....And so Spiritualism is, in the person of
 Dr. J. B. Ferguson, about to bid us farewell. At the Spiritual Lyceum,
@@ -10866,7 +10865,7 @@ meeting was held of a "snug and social character."</p></div2>
 <biblScope type="issue">no. 1321</biblScope>
 <biblScope type="pages">p. 618</biblScope>
 <date value="1865-06-24">June 24, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>The Queen has approved of Mr. W. H. F. Gurley as Consul at Quebec
 for the United States of America.</p>
@@ -10881,7 +10880,7 @@ as there are in all Palestine.</p></div2>
 <biblScope type="issue">no. 1322</biblScope>
 <biblScope type="pages">p. 621</biblScope>
 <date value="1865-07-01">July 01, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE ATLANTIC TELEGRAPH CABLE.</p>
 <p><hi rend="smallcaps">Once</hi> more we are upon the threshold of an
@@ -11045,7 +11044,7 @@ conceive!</p></div2>
 <biblScope type="issue">no. 1322</biblScope>
 <biblScope type="pages">p. 622</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -11136,7 +11135,7 @@ River, Louisiana, on the 3rd ult.</p></div2>
 <biblScope type="issue">no. 1322</biblScope>
 <biblScope type="pages">p. 623</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE FLIGHT OF MR. JEFFERSON DAVIS INTO<lb/><hi
 rend="smallcaps">Georgia.</hi></p>
@@ -11177,7 +11176,7 @@ publication.</p></div2>
 <biblScope type="issue">no.1322</biblScope>
 <biblScope type="pages">p. 625</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p>
 <figure entity="v46p625">
@@ -11196,7 +11195,7 @@ publication.</p></div2>
 <biblScope type="issue">no. 1322</biblScope>
 <biblScope type="pages">p. 631</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">THE ATLANTIC TELEGRAPH.</p>
 <p><hi rend="smallcaps">All</hi> the preparations connected with the
@@ -11323,7 +11322,7 @@ inst.</p></div2>
 <biblScope type="issue">no. 1322</biblScope>
 <biblScope type="pages">p. 639</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">....Life of Abraham Lincoln</hi>. Compiled by
@@ -11356,7 +11355,7 @@ during the late War of Secession....</p></div2>
 <biblScope type="issue">no. 1322</biblScope>
 <biblScope type="pages">p. 643</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
-<extent></extent>
+
 </bibl>
 <p rend="center">OBITUARY OF EMINENT PERSONS.</p>
 <p rend="center"><hi rend="smallcaps">Mrs. Sigourney.</hi></p>
