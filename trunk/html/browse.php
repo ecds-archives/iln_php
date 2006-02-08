@@ -25,6 +25,7 @@ $xql = "TEI.2//div1/div2[@id='" . $id . "']";
 $sibling_query = '<siblings> {for $b in input()/TEI.2//div1/div2 
   return <div2>  
           {$b/@id}  
+          {$b/@n}  
           {$b/@type}  
           {$b/head}  
           {$b/bibl}  
