@@ -121,6 +121,13 @@
        </xsl:apply-templates>
      </xsl:otherwise>
    </xsl:choose>
+
+   <!-- close list link at end of list -->
+   <xsl:element name="a">
+     <xsl:attribute name="onclick">toggle_ul('list<xsl:value-of select="$num"/>')</xsl:attribute>
+	close list
+   </xsl:element> <!-- a -->
+
  </xsl:element>
 
  <xsl:apply-templates select="following-sibling::div1[1]">
