@@ -102,7 +102,7 @@ if ($xmldb->count > $maxdisplay) {
     } else { 
       $result_links .= '<li class="horiz">';
     }
-    # reconstruct the url and search terms
+    // reconstruct the url and search terms
     $url = "search.php?region=$region&term=$term&max=$maxdisplay";
     if ($term2) {
       $url .= "&term2=$term2&region2=$region2&op=$operator";
@@ -110,7 +110,7 @@ if ($xmldb->count > $maxdisplay) {
     if ($sort) {
       $url .= "&sort=$sort";
     }
-    # now add the key piece: the new position
+    // now add the key piece: the new position
     $url .= "&pos=$i";
     if ($i != $position) {
       $result_links .= "<a href='$url'>";
