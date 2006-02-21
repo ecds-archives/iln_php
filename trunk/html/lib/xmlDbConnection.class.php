@@ -71,10 +71,16 @@ class xmlDbConnection {
     $this->xmldb->xql($this->encode_xquery($query), $position, $maxdisplay);
   }
 
-  // retrieve cursor, total count    (xquery cursor by default)
+  // retrieve cursor, total count    (xquery cursor is default)
   function getCursor () {
     $this->xmldb->getCursor();
   }
+
+  // explicit xquery cursor - for backwards compatibility
+  function getXqueryCursor () {
+    $this->xmldb->getCursor();
+  }
+
   // get x-query cursor (for backwards compatibility)
   function getXqlCursor () {
     $this->xmldb->getXqlCursor();
