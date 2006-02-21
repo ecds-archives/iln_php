@@ -7,7 +7,7 @@
 
 include("config.php");
 include("common_functions.php");
-include_once("xmlDbConnection.class.php");
+include_once("CTI/xmlDbConnection.class.php");
 
 $id = $_GET["id"];
 $term = $_GET["term"];
@@ -62,6 +62,7 @@ if ($id) {
 }
 
 print "</div>"; 
+
 include("xml/foot.xml"); 
 ?>
 
