@@ -98,6 +98,9 @@ li.firsthoriz {
 /* Render small caps */
 span.smallcaps { font-variant: small-caps; }
 
+/* render text to the right */
+span.right {text-align: right;}
+
 table.searchresults { width:90%;  border-collapse: collapse;}
 table.searchresults td { border-bottom: 1px solid #cccccc;}
 table.searchresults td.count { width:15%; text-align: center; }
