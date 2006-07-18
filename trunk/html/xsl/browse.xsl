@@ -90,6 +90,18 @@
         <xsl:apply-templates/>
       </xsl:element>
     </xsl:when>
+    <xsl:when test="@rend='smallcap'">
+      <xsl:element name="span">
+        <xsl:attribute name="class">smallcaps</xsl:attribute>
+        <xsl:apply-templates/>
+      </xsl:element>
+    </xsl:when>
+    <xsl:when test="@rend='right'">
+      <xsl:element name="span">
+        <xsl:attribute name="class">right</xsl:attribute>
+        <xsl:apply-templates/>
+      </xsl:element>
+    </xsl:when>
   </xsl:choose>
 </xsl:template>
 
