@@ -34,6 +34,8 @@ div.footing {	position: relative;
 	        background: rgb(255,255,255);
 		border-top: double medium black;
 	    }
+div.right { text-align: right;
+	  font-family: Arial;} 
 
 p.head  { text-align: center;
 	  font-family: Conga;
@@ -99,7 +101,14 @@ li.firsthoriz {
 span.smallcaps { font-variant: small-caps; }
 
 /* render text to the right */
-span.right {text-align: right;}
+div.right {text-align: right;}
+
+/* render superscripts */
+span.superscript {vertical-align: super;
+		 font-size: smaller;}
+/* page breaks */
+hr.pb {width: 5em;
+      }
 
 table.searchresults { width:90%;  border-collapse: collapse;}
 table.searchresults td { border-bottom: 1px solid #cccccc;}
