@@ -40,6 +40,12 @@
   </xsl:element>
 </xsl:template>
 
+<xsl:template match="head/@type['sub']">
+  <xsl:element name="h2">
+   <xsl:apply-templates />
+  </xsl:element>
+</xsl:template>
+
 <xsl:template match="bibl">
   <xsl:element name="i">
     <xsl:value-of select="title"/>,
@@ -64,11 +70,25 @@
 </xsl:template>
 
 <xsl:template match="q">
+<xsl:message>DEBUG: q element matched</xsl:message>
   <xsl:element name="blockquote">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
+<xsl:template match="q/@rend['blockquote']">
+  <xsl:element name="blockquote">
+    <xsl:apply-templates /> 
+  </xsl:element>
+</xsl:template>
+
+<!-- show page breaks -->
+<xsl:template match="pb">
+  <hr class="pb"/>
+    <p class="pagebreak">
+      Page <xsl:value-of select="@n"/>
+</p>
+</xsl:template>
 
 <!-- convert rend tags to their html equivalents 
      so far, converts: center, italic,smallcaps   -->
@@ -97,11 +117,18 @@
       </xsl:element>
     </xsl:when>
     <xsl:when test="@rend='right'">
-      <xsl:element name="span">
+      <xsl:element name="div">
         <xsl:attribute name="class">right</xsl:attribute>
         <xsl:apply-templates/>
       </xsl:element>
     </xsl:when>
+    <xsl:when test="@rend='superscript'">
+      <xsl:element name="span">
+        <xsl:attribute name="class">superscript</xsl:attribute>
+        <xsl:apply-templates/>
+      </xsl:element>
+    </xsl:when>
+
   </xsl:choose>
 </xsl:template>
 
