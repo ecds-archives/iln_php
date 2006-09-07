@@ -4,9 +4,9 @@
 
 // base url for close/open images
     //production
-var base_url = "http://cti.library.emory.edu/iln/images/";
+var base_url = "http://beck.library.emory.edu/iln/images/";
     //development
-var base_url = "http://reagan.library.emory.edu/rebecca/ilnweb/images/";
+//var base_url = "http://reagan.library.emory.edu/rebecca/ilnweb/images/";
 
 
 function toggle_ul (id) {
