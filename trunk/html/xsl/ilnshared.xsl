@@ -13,7 +13,7 @@
 <xsl:variable name="query"><xsl:value-of select="ino:response/xql:query"/></xsl:variable>
 <xsl:variable
 name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN</xsl:variable>
-<xsl:variable name="image_url">http://chaucer.library.emory.edu/iln/images/</xsl:variable>
+<xsl:variable name="image_url">http://beck.library.emory.edu/iln/image-content/</xsl:variable>
 
 <!-- define variables for all xsl files -->
 <xsl:variable name="xsl_contents">ilncontents.xsl</xsl:variable>
