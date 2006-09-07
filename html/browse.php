@@ -7,7 +7,7 @@
 
 include("config.php");
 include("common_functions.php");
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 
 $id = $_GET["id"];
 $term = $_GET["term"];

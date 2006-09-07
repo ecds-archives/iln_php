@@ -9,7 +9,7 @@ search.php?region=article&term=lincoln&sort=date&op=and&region2=title&term2=amer
 (values are as specified below)  */
 
 include_once("config.php");
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("common_functions.php");
 
 $region = $_GET["region"]; //options: document|article|title|date|illustration

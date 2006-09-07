@@ -4,7 +4,7 @@
 // figure.php?id=v38p87
 
 include("config.php");
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
 $id = $_GET["id"];

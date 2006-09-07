@@ -1,7 +1,7 @@
 <?php
 
 include_once("config.php");
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
 $args = array('host' => "bohr.library.emory.edu",
