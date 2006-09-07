@@ -3,8 +3,8 @@
 -->
 <!-- <p class="head"><img
 src="http://cti.library.emory.edu/iln/images/hline2.jpg" /></p> -->
-<p class="head"><a href="http://cti.library.emory.edu/iln/">
-<img src="http://cti.library.emory.edu/iln/images/finalheader.gif"
+<p class="head"><a href="index.php">
+<img src="images/finalheader.gif"
      alt="The Illustrated London News" 
      title="The Illustrated London News" width="363" height="77" /></a></p>
 <p class="head"><a href="index.html">Home</a> 
