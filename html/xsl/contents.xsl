@@ -8,7 +8,7 @@
 <xsl:param name="mode">article</xsl:param>
 <!-- param for flat mode: all volumes or single volume -->
 <xsl:param name="vol">all</xsl:param>
-<xsl:variable name="image_url">http://chaucer.library.emory.edu/iln/images/</xsl:variable>
+<xsl:variable name="image_url">http://beck.library.emory.edu/iln/image-content/</xsl:variable>
 <xsl:variable name="mode_name">Browse</xsl:variable> 
 <xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
 <xsl:variable name="xsl_imgview">imgview.xsl</xsl:variable>
