@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html;
       charset=iso-8859-1">
 <script language="Javascript" 
-	src="http://cti.library.emory.edu/iln/browser-css.js"></script> 
+	src="http://beck.library.emory.edu/iln/browser-css.js"></script> 
 <link rel="stylesheet" type="text/css" href="iln.css" />  
 
 </head>
