@@ -160,6 +160,7 @@
 <!ENTITY v41p368 SYSTEM "/chaucer/data/iln/images/ILNv41p368.jpg" NDATA JPEG>
 <!ENTITY v41p369 SYSTEM "/chaucer/data/iln/images/ILNv41p369.jpg" NDATA JPEG>
 <!ENTITY v41p37 SYSTEM "/chaucer/data/iln/images/ILNv41p37.jpg" NDATA JPEG>
+<!ENTITY v41p488 SYSTEM "/chaucer/data/iln/images/ILNv41p488.jpg NDATA JPEG>
 <!ENTITY v41p513 SYSTEM "/chaucer/data/iln/images/ILNv41p513.jpg" NDATA JPEG>
 <!ENTITY v41p516-517 SYSTEM "/chaucer/data/iln/images/ILNv41p516-517.jpg" NDATA JPEG>
 <!ENTITY v41p520 SYSTEM "/chaucer/data/iln/images/ILNv41p520.jpg" NDATA JPEG>
