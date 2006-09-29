@@ -70,7 +70,6 @@
 </xsl:template>
 
 <xsl:template match="q">
-<xsl:message>DEBUG: q element matched</xsl:message>
   <xsl:element name="blockquote">
     <xsl:apply-templates /> 
   </xsl:element>
