@@ -65,8 +65,8 @@ with TEI guidelines using TEILITE</item>
 38</head>
             <docDate>1861</docDate>
             <p/>
-            <div2 id="iln38.1068.002" n="[The Resignation of Mr. Cobb]" type="Article">
-               <head>[The Resignation of Mr. Cobb]</head>
+            <div2 id="iln38.1068.002" n="Foreign and Colonial News." type="Article">
+               <head>Foreign and Colonial News.</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
@@ -85,7 +85,7 @@ stated, because the President declined to send more troops to
 Charleston.  Mr. Trescott, the Assistant Secretary of State, has
 likewise resigned.  The manifesto which declares that a southern
 confederacy is now alone possible is signed by representatives of
-Alabama, Georgia, Florida, Arkansas, Mississippi, and Louisiana-a
+Alabama, Georgia, Florida, Arkansas, Mississippi, and Louisiana--a
 circumstance which, in itself, is a sufficient evidence of the
 formidable character of the secession movement.  The special Committee
 of the House has, it is said, passed resolutions in favour of giving
@@ -115,9 +115,8 @@ to be admitted as a free State, and that the Nebraska Legislature has
 prohibited slavery in that territory.</p>
 
             </div2>
-            <div2 id="iln38.1068.003" n="[From America the news is far from satisfactory]" type="Article">
-               <head>[From America the news is far
-from satisfactory]</head>
+            <div2 id="iln38.1068.003" n="London, Saturday, January 5, 1861" type="Article">
+               <head>London, Saturday, January 5, 1861</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
@@ -167,7 +166,7 @@ had been warned.</p>
                   <biblScope type="pages">pp.25-26</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date>
 <extent>3 paragraphs</extent></bibl>
-               <p>THERE never was a nation so calculated to solve a number
+               <p><hi rend="smallcap">There</hi> never was a nation so calculated to solve a number
 of difficult political problems as that which we have hitherto known
 as the United States of America.  Descended as the people of that
 country are from a nation which has wrought the greatest civil liberty
@@ -265,7 +264,7 @@ States, bound to resist an act of secession, no doubt this is only
 another mark of the feebleness and vacillation which have
 characterised Mr. Buchanan's Presidential career.  At the same time,
 there is every excuse to be made for an executive officer whose term
-of power is in extremis, and especially in America.  There would,
+of power is <hi rend="italic">in extremis</hi>, and especially in America.  There would,
 probably, be little desire on the part of the retiring President to do
 much to lessen the difficulties of a successor his rivality with whom
 is essentially one of principle.  We are told, however, that the duty
@@ -279,7 +278,7 @@ of the American Republic has been constructed, disruption and ultimate
 division can take place and leave either section unscathed?  The
 United States occupy a very imposing and very suggestive position in
 the eyes of the world: what will be the amount of consideration which
-will bestowed on the disunited States?  In truth, we cannot help
+will be bestowed on the disunited States?  In truth, we cannot help
 shrinking from the contemplation of the direful evils which await an
 internecine collision, such as many are inclined to believe to be
 imminent.  Of the inner and more domestic effects of such a calamity
@@ -318,22 +317,19 @@ of millions of a great race planted in a great country, we trust that
 recourse will not be had to that sharp remedy.</p>
 
             </div2>
-            <div2 id="iln38.1069.005" n="The Secession of South Carolina" type="Article">
-               <head>The Secession of South
-Carolina</head>
+            <div2 id="iln38.1069.005" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1069</biblScope> 
-                  <biblScope type="pages">pp.26-27</biblScope> 
+                  <biblScope type="pages">pp. 26-27</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date>
 <extent>15 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">United States.</hi>
-               </p>
-               <p>
-                  <hi rend="center">The Secession of South Carolina</hi>
-               </p>
+               
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>
+                  United States.<lb/>
+                  The Secession of South Carolina</p>
                <p>The
 long-threatened blow has fallen--South Carolina, the chief of the
 Southern States, has seceded from the great American Federation.  At
@@ -396,7 +392,7 @@ Federal Government, by obstructing the collection of revenues at her
 ports or otherwise, the Government will enforce the law--which means
 that the North will by force compel, or try to compel, the seceding
 States to give way and return to the Union.  "Disunion (says the
-Springfield Journal, understood to be Mr. Lincoln's organ) by armed
+<hi rend="italic">Springfield Journal</hi>, understood to be Mr. Lincoln's organ) by armed
 force is treason, and treason must and will be put down at all
 hazards."</p>
                <p>Mr. Seward, who, notwithstanding the election of
@@ -406,7 +402,7 @@ question.  He spoke in a very conciliatory tone, as if anxious to pour
 oil upon the troubled sea of Southern politics, and expressed his
 belief that the Disunion movement was losing strength.  He appears to
 have taken--perhaps designedly--a more hopeful view of the prospects
-of the Union than the real State of affairs actually justified.</p>
+of the Union than the real state of affairs actually justified.</p>
                <p>The Republican party are evidently determined to agree to no
 compromise which will involve a surrender on their part of the
 principles laid down in the Chicago Convention.  The propositions
@@ -419,7 +415,7 @@ the inter-state slave trade, and the exaction of an indemnity from the
 Free States for those fugitive slaves whose reclamation might be
 prevented by the Personal Liberty Acts or by rescue.  This was
 regarded by the border Slave States as a most moderate proposal!</p>
-               <p>-----</p>
+               <milestone unit="section" rend="line"/>
                <p>The Pacific Railroad Bill passed the House of
 Representatives on the 20th ult., after a considerable debate, by a
 vote of ninety-five to seventy-four.  During the course of the debate
@@ -493,7 +489,7 @@ News</title>
                   <date value="1861-01-12">January 12, 1861</date>
                <extent>10 paragraphs</extent></bibl>
                <p>
-                  <hi rend="center">HISTORY OF AMERICAN SLAVERY</hi>
+                  <hi rend="center">HISTORY OF AMERICAN SLAVERY.</hi>
                </p>
                <p>The New York correspondent of the <title>Times</title> supplies a
 most useful and interesting history of slavery as a political question
@@ -653,7 +649,7 @@ in the State from which he goes.  The old Whig party has entirely
 vanished from the Northern States, and the Republican party, having
 the freedom of the territories as its leading idea, has elected its
 President by a nearly unanimous vote of the Free States--three votes
-out of the seven votes of the state of New Jersey being the only one
+out of the seven votes of the State of New Jersey being the only one
 [sic] cast against him.  The southern planting States are consequently
 moving with unexampled unanimity for a dismemberment of the
 Confederation, and there is now little doubt that, before the
@@ -669,7 +665,7 @@ marked its beginning and traced its progress.</p>
                <p>"We have seen
 the cotton crop, less than a million of pounds in 1790, expand to
 4,600,000 bails, of 400lb. in each, in 1859.  The conclusion is
-irresistible that this plant-which brings honest bread and cheap
+irresistible that this plant--which brings honest bread and cheap
 clothing to so many free men and women, which yields millions of
 wealth to Great Britain, and enables a reduction of taxation upon the
 necessaries of life, which regulates exchanges between the greatest
@@ -677,8 +673,8 @@ commercial countries, which gives employment to more labour than any
 other vegetable production--has also perpetuated African bondage."</p>
 
             </div2>
-            <div2 id="iln38.1069.010" n="[No case has excited]" type="Article">
-               <head>[No case has excited]</head>
+            <div2 id="iln38.1069.010" n="London, Saturday, January 12, 1861" type="Article">
+               <head>London, Saturday, January 12, 1861</head>
                <bibl> 
                   <title>The
 Illustrated London News</title> 
@@ -689,7 +685,7 @@ Illustrated London News</title>
                   <date value="1861-01-12">January 12, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
-                  <hi rend="center">London, Saturday, January 5, 1861</hi>
+                  <hi rend="center">London, Saturday, January 5, 1861.</hi>
                </p>
                <p>. . . No case
 has excited more interest than that of the American negro Anderson,
@@ -724,9 +720,9 @@ anti-slavery speeches could ever efface.</p>
                   <date value="1861-01-19">January 19, 1861</date> 
                <extent>7 paragraphs</extent></bibl>
                <p>
-                  <hi rend="italic">THE SECESSION MOVEMENT IN AMERICAN</hi>
+                  THE SECESSION MOVEMENT IN AMERICA.
                </p>
-               <p>WHEN,
+               <p><hi rend="smallcap">When</hi>,
 immediately upon the announcement of the election of Mr. Lincoln to
 the Presidency of the United States, South Carolina raised a cry for
 secession from the Union, it was quietly assumed both by the free
@@ -884,8 +880,8 @@ conscience, no people will congratulate her upon her success more
 heartily than will the population of these realms.</p>
 
             </div2>
-            <div2 id="iln38.1070.012" n="The Secession Movement" type="Article">
-               <head>The Secession Movement</head>
+            <div2 id="iln38.1070.012" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated
 London News</title> 
@@ -895,11 +891,9 @@ London News</title>
                   <date value="1861-01-19">January 19,
 1861</date> 
                <extent>28 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">United States</hi>
-               </p>
-               <p>
-                  <hi rend="center">The Secession Movement</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi>
+                  <lb/>United States.<lb/>
+                  The Secession Movement.
                </p>
                <p>Intelligence received
 from New York to the 3rd inst. gives no indication of a peaceful
@@ -1012,13 +1006,13 @@ settlement with the Governor of the United States.</p>
                <p>Done at
 Charleston the 26th day of December, in the year of our Lord,
 1860.</p>
-               <p>B.F. Arthur, Clerk.                    D.F. JAMISON,
+               <p>B.F. Arthur, Clerk. <hi rend="right">D.F. JAMISON,</hi>
 President.</p>
                <p>Governor Pickens, of South Carolina, had issued the
 following proclamation:--</p>
-               <p>Executive Department, Charleston,
+               <p rend="right">Executive Department, Charleston,
 S.C.,</p>
-               <p>December 24, 1860.</p>
+               <p rend="right">December 24, 1860.</p>
                <p>By his Excellency Francis W.
 Pickens, Governor and Commander-in-Chief in and over the State of
 South Carolina:--</p>
@@ -1043,7 +1037,7 @@ of this State, at Charleston, this twenty-forth day of December, in
 the year of our Lord one thousand eight hundred and sixty, and in the
 eighty-fifth year of the sovereignty and independence of South
 Carolina.</p>
-               <p>F.W. Pickens.`</p>
+               <p rend="right">F.W. Pickens.</p>
                <p>The <title>Charleston
 Mercury</title> thus describes the signing of the Secession
 Ordinance:--</p>
@@ -1061,7 +1055,7 @@ its feet, and, with hats off, listened to the touching and eloquent
 appeal to the All Wise Dispenser of Events.  At the close of the
 prayer the President advanced with the consecrated parchment upon
 which was inscribed the decision of the State, with the great seal
-attached.  Slowly and solemnly it was read to the last word-dissolved;
+attached.  Slowly and solemnly it was read to the last word--dissolved;
 when men could contain themselves no longer, and a shout that shook
 the very building, reverberating, long continued, rose to heaven, and
 ceased only with the loss of breath.  In proud, grave silence, the
@@ -1122,7 +1116,7 @@ York.  It estimates that the number depending upon those unemployed
 for sustenance will swell the total up to 28,000.</p>
 
             </div2>
-            <div2 id="iln38.1070.016" n="[The Case of the Fugitive Slave Anderson]" type="Article">
+            <div2 id="iln38.1070.016" n="Saturday, January 19, 1861" type="Article">
                <head>[The Case of the Fugitive Slave Anderson]</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
@@ -1133,13 +1127,13 @@ for sustenance will swell the total up to 28,000.</p>
                   <date value="1861-01-19">January 19, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
-                  <hi rend="center">Saturday, January 19, 1861</hi>
+                  <hi rend="center">Saturday, January 19, 1861.</hi>
                </p>
-               <p>THE case of the
+               <p><hi rend="smallcap">The</hi> case of the
 fugitive slave Anderson, whom a decision of the Courts in Canada has
 decreed to be delivered up to the Government of the United States
 under the Extradition Treaty with this country, had already excited
-considerable public attention; but the result of recent application on
+considerable public attention; but the result of a recent application on
 his behalf to the Court of Queen's Bench at Westminster has given the
 matter a new and still more important interest.  We believe that the
 parties who have applied for and obtained a writ of habeas corpus in
@@ -1180,7 +1174,7 @@ and deoided [sic] definition of the mutual relations between Great
 Britain and those which are known as her self-governing dependencies
 will have ere long to be laid down.  This subject must, owing to the
 singular circumstances which have arisen, necessarily occupy the
-attention of Parliament in the coming session, even if it does not
+attention of Parliament in the coming Session, even if it does not
 lead to some remarkable legislative proceedings.</p>
 
             </div2>
@@ -1196,7 +1190,7 @@ Illustrated London News</title>
                   <date value="1861-01-19">January 19,
 1861</date> 
                <extent>1 paragraph</extent></bibl>
-               <p>TWO or three rifled cannon have been shipped
+               <p>Two or three rifled cannon have been shipped
 from Liverpool for Charleston within the last few days.</p>
 
             </div2>
@@ -1210,7 +1204,8 @@ from Liverpool for Charleston within the last few days.</p>
                   <biblScope type="pages">p. 68</biblScope> 
                   <date value="1861-01-19">January 19, 1861</date> 
                <extent>1 paragraph</extent></bibl>
-               <p>Fort Moultrie is
+               <p><hi rend="smallcap">Forts in Charleston
+               Harbour</hi>.&#x2014;Fort Moultrie is
 situated on Sullivan's Island, at the mouth of the harbour, and about
 three miles, in a direct line, from the city.  It is (if not
 destroyed) an inclosed water battery, with a front on the water side
@@ -1273,8 +1268,8 @@ assailed.  It has several Columbiades, and a full supply of powder,
 shell, and shot.-- <title>New York Tribune</title>.</p>
 
             </div2>
-            <div2 id="iln38.1071.019" n="[The Latest Advices from New York]" type="Article">
-               <head>[The Latest Advices from New York]</head>
+            <div2 id="iln38.1071.019" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -1283,8 +1278,8 @@ shell, and shot.-- <title>New York Tribune</title>.</p>
                   <biblScope type="pages">pp. 71-72</biblScope> 
                   <date value="1861-01-26">January 26, 1861</date> 
                <extent>19 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">United States</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>
+                  United States.
                </p>
                <p>The latest advices from New
 York show no signs of reconciliation between the contending States.
@@ -1395,15 +1390,13 @@ authority."</p>
 Seward and Thurlow Weed to agree to any compromise that "New York and
 Pennsylvania will stand upon."</p>
                <p>We read in the <title>New York
-Herald</title>:- "A strong effort is being made to carry the
+Herald</title>:-- "A strong effort is being made to carry the
 proposition adopted by the Border State Committee through the two
 Houses of Congress.  The Senate will undoubtedly adopt it, but it is
 believed that there may be found enough Secessionists to vote with the
 Republicans to defeat it in the House."</p>
-               <p>
-                  <hi rend="center">A
-REPUBLICAN CAUCUS.</hi>
-               </p>
+               <p rend="center">A
+REPUBLICAN CAUCUS.</p>
                <p>The Republican members of the House
 held a caucus on the 5th inst. upon the present state of
 affairs--Speaker Pennington in the chair.  There was a full
@@ -1421,7 +1414,7 @@ objected to any compromise.  Mr. Lovejoy, of Illinois, speaking of the
 malcontents of the Slave States, and the proposed compromise of
 dividing the territory between freedom and slavery to the Pacific,
 said:- "There never was a more causeless revolt since Lucifer led his
-cohorts of apostate angles against the throne of God; but I never
+cohorts of apostate angels against the throne of God; but I never
 heard that the Almighty proposed to compromise the matter by allowing
 the rebels to kindle the fires of hell south of the celestial meridian
 of thirty-six thirty."  This outburst created a deal of sensation and
@@ -1446,7 +1439,7 @@ harmonious at the close against all compromise.</p>
                </p>
                <p>The Senators of those
 Southern States which had called Conventions met at Washington and
-adopted the following resolutions:-1st.  We recommend to our States
+adopted the following resolutions:--1st.  We recommend to our States
 immediate secession. 2nd.  We recommend holding a Convention at
 Montgomery, Alabama, on a day not later than the 15th of February, and
 establishing a Southern Confederacy.  Another resolution was passed,
@@ -1473,7 +1466,7 @@ London News</title>
                   <date value="1861-01-26">January 26,
 1861</date> 
                <extent>1 paragraph</extent></bibl>
-               <p>In pursuance of the judgment passed by the
+               <p><hi rend="smallcap">The Fugitive Slave Extradition Case</hi>.&#x2014;In pursuance of the judgment passed by the
 Court of Queen's Bench in the case of John Anderson, the fugitive
 slave, a messenger of the court proceeded last Saturday from Liverpool
 by the Cunard steamer for Canada, and Anderson will be brought over to
@@ -1484,9 +1477,9 @@ Hamilton, Upper Canada, to protest against the extradition of the
 fugitive slave.</p>
 
             </div2>
-            <div2 id="iln38.1071.021" n="[From America the News Becomes Graver]" type="Article">
-               <head>[From America the News
-Becomes Graver]</head>
+            <div2 id="iln38.1071.021" n="London, Saturday, January 26,
+					 1861." type="Article">
+               <head>London, Saturday, January 26, 1861.</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
@@ -1496,9 +1489,9 @@ News</title>
                   <date value="1861-01-26">January 26, 1861</date>
                <extent>2 paragraphs</extent></bibl>
                <p>
-                  <hi rend="center">London, Saturday, January 26, 1861</hi>
+                  <hi rend="center">London, Saturday, January 26, 1861.</hi>
                </p>
-               <p>FROM America the news becomes graver than ever.  The South
+               <p><hi rend="smallcap">From</hi> America the news becomes graver than ever.  The South
 Carolina secessionists have fired upon the soldiers of the Government,
 and treason has become actual rebellion.  The frigate Brooklyn had
 been despatched to the aid of the Federal troops.  The movement is
@@ -1543,8 +1536,8 @@ should rejoice to hear that the presence of a large Federal force had
 made so fearful a revolt impossible.</p>
 
             </div2>
-            <div2 id="iln38.1071.022" n="[Entrance Hall]" type="Illustration">
-               <head>[Entrance Hall]</head>
+            <div2 id="iln38.1071.022" n="The Secession Movement" type="Illustration">
+               <head>The Secession Movement</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
@@ -1561,8 +1554,8 @@ an Hotel at Charleston, South Carolina--See Page 94.</head>
                </p>
 
             </div2>
-            <div2 id="iln38.1072.023" n="[Mr. Buchanan Sent a Special Message]" type="Article">
-               <head>[Mr. Buchanan Sent a Special Message]</head>
+            <div2 id="iln38.1072.023" n="Foreign and Colonial News." type="Article">
+               <head>Foreign and Colonial News.</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -1571,9 +1564,8 @@ an Hotel at Charleston, South Carolina--See Page 94.</head>
                   <biblScope type="pages">pp. 88-89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date> 
                <extent>12 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">UNITED
-STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi>
+                  <lb/>UNITED STATES.
                </p>
                <p>Mr. Buchanan sent a special message to Congress on
 the 9th ult., on the state of the Union, and it was referred to
@@ -1683,8 +1675,8 @@ against coercing the Southern States was held in New York City on the
 evening of the 14th ult.</p>
 
             </div2>
-            <div2 id="iln38.1072.024" n="The New Flag of the State of South Carolina" type="Illustration">
-               <head>The New Flag of the State of South Carolina</head>
+            <div2 id="iln38.1072.024" n="The New Flag of the State of South Carolina." type="Illustration">
+               <head>The New Flag of the State of South Carolina.</head>
                <bibl>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -1696,7 +1688,7 @@ evening of the 14th ult.</p>
                <p>
                   <figure entity="v38p89" width="296" height="308">
                      <head>The New Flag of the State of South
-Carolina</head>
+Carolina.</head>
                   </figure>
                </p>
 
@@ -1711,14 +1703,14 @@ flag]</head>
                   <biblScope type="pages">p.89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date>
                <extent>2 paragraphs</extent></bibl>
-               <p>THE particular flag known as the sovereignty flag of South
+               <p><hi rend="smallcap">The</hi> particular flag known as the sovereignty flag of South
 Carolina which that State has recently adopted is represented in the
 annexed Engraving.  It is formed of a red ground, with a dark blue
 cross, on which are fifteen stars (the central one being much larger
 than any of he [sic] others), with a white palmetto-tree, and a
 crescent in one of the corners.  This is, we believe, the first flag
 which has been put forward by either of the seceding States.</p>
-               <p>The arms of South Carolina consist of two shields-on one a
+               <p>The arms of South Carolina consist of two shields--on one a
 palmetto-tree, supported by two Roman fasces crossed, and two shields
 hanging on the tree, with the inscription, "South Carolina," and the
 legend, "Animis Opibusque Parati;" on the other shield a figure of
@@ -1741,9 +1733,8 @@ of America</head>
                   <biblScope type="pages">p.89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date>
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE FORTRESSES IN THE SOUTHERN STATES OF
-AMERICA.</hi>  
+               <p rend="center"><hi rend="smallcap">The Fortresses in the Southern States of
+America.</hi>
                </p>
                <p>The fortifications on the southern coast are
 described as follows:--  "There are along the coast of the Slave
@@ -1755,7 +1746,7 @@ arsenals and armories, which had an increase of 325,000 within twelve
 months.  In addition there are incomplete works at Ship Island,
 Mississippi River; Georgetown, South Carolina; Typee Islands, Port
 Royal Roads, South Carolina; Typee Islands, Savannah; Galveston,
-BraThe Fortresses in the Southern States of Americanzos, Santiago, and
+Brazos, Santiago, and
 Matagorda Bay, Texas.  The guns which were lately stopped at Pittsburg
 [sic] were designed for those at Galveston and Ship Island.  Hampton
 roads is the great naval d&#x00E9;p&#x00F4;t station and rendezvous of the southern
@@ -1782,19 +1773,19 @@ Illustrated London News</title>
                <p>
                   <figure entity="v38p94a" width="538" height="708">
                      <head>The Charleston
-Palmetto</head>
+Palmetto.</head>
                   </figure>
                </p>
                <p>
                   <figure entity="v38p94b" width="614" height="381">
                      <head>Selling
-Sweet Potatoes in Charleston</head>
+Sweet Potatoes in Charleston.</head>
                   </figure>
                </p>
                <p>
                   <hi rend="center">SKETCHES IN CHARLESTON, SOUTH CAROLINA.</hi>
                </p>
-               <p>SOUTH CAROLINA, like the other States of America, has a well-known
+               <p><hi rend="smallcap">South Carolina</hi>, like the other States of America, has a well-known
 distinctive name, that of the "Palmetto State," a designation arising
 from the prolific growth of this species of fan palm in its marshy
 districts.  The specimen represented in our Engraving grows in the
@@ -1834,9 +1825,9 @@ Engravings are from sketches recently taken by Mr. Eyre Crowe,
 jun.</p>
 
             </div2>
-            <div2 id="iln38.1073.028" n="[Opening of Parliament by the Queen]" type="Article">
-               <head>[Opening of Parliament by the
-Queen]</head>
+            <div2 id="iln38.1073.028" n="Opening of Parliament by the Queen" type="Article">
+               <head>Opening of Parliament by the
+Queen</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -1844,6 +1835,7 @@ Queen]</head>
                   <biblScope type="pages">p.112</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date>
                <extent>3 paragraphs</extent></bibl>
+<p rend="center">OPENING OF PARLIAMENT BY THE QUEEN</p>
                <p>". . . Serious differences have arisen among the States of
 the North American Union.  It is impossible for me not to look with
 great concern upon any events which can affect the happiness and
@@ -1863,9 +1855,8 @@ occasion of the residence of the Prince of Wales among them. . .
 ."</p>
 
             </div2>
-            <div2 id="iln38.1073.029" n="[The Intelligence from the United States]" type="Article">
-               <head>[The Intelligence from the
-United States]</head>
+            <div2 id="iln38.1073.029" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
@@ -1874,8 +1865,7 @@ News</title>
                   <biblScope type="pages">p.112</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date>
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">UNITED STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>UNITED STATES.
                </p>
                <p>The
 intelligence from the United States is of a mixed character.  Colonel
@@ -1957,7 +1947,7 @@ Illustrated London News</title>
                   <hi rend="center">LONDON, SATURDAY, FEBRUARY 9,
 1861.</hi>
                </p>
-               <p>THE falling of a sixth star, that of Louisiana, from
+               <p><hi rend="smallcap">The</hi> falling of a sixth star, that of Louisiana, from
 the flag of the Republic of America, and the prospect of immediate
 hostilities at Charleston, are the last news from the Western
 World.</p>
@@ -1994,7 +1984,7 @@ Vicinity</head>
                <p>
                   <hi rend="center">CHARLESTON.</hi>
                </p>
-               <p>THIS seaport city, capital of a
+               <p><hi rend="smallcap">This</hi> seaport city, capital of a
 district of the same name in the State of South Carolina, stands on a
 tongue of land formed by the junction of the Ashley and Cooper Rivers.
  The bay is a large estuary formed by the confluence of the two
@@ -2026,11 +2016,11 @@ the forts in Charleston harbour.  A despatch, of which the following
 is a copy, has been received by the Secretary of the Admiralty from
 Mr. Bunch, her Majesty's Consul at Charleston, relative to the
 obstruction of the entrances to the harbour at that place by the local
-Government:- "British Consulate, Charleston, Jan. 11, 1861. -Sir,- In
+Government:--"British Consulate, Charleston, Jan. 11, 1861.--Sir,--In
 my letter of the 3rd inst. I had the honour to acquaint you that the
 <hi rend="italic">de facto</hi> Government of the State of South
 Carolina had caused the lighthouse, beacons, buoys, &#x0026;c., of this
-coast and this harbour to be extinguished and removed.  I now have to
+coast and harbour to be extinguished and removed.  I now have to
 state that, in addition to these very summary measures, the same
 authorities have seen fit to close all the channels leading into the
 harbour by sinking vessels in them, except Moffitts' Channel, which
@@ -2038,9 +2028,9 @@ may be said to be available for vessels drawing only 14 feet 6 inches
 of water."</p>
 
             </div2>
-            <div2 id="iln38.1075.035" n="[A British Railway From the Atlantic to the Pacific]" type="Article">
-               <head>[A British
-Railway From the Atlantic to the Pacific]</head>
+            <div2 id="iln38.1075.035" n="A British Railway From the Atlantic to the Pacific" type="Article">
+               <head>A British
+Railway From the Atlantic to the Pacific</head>
                <bibl> 
                   <title>The
 Illustrated London News</title> 
@@ -2051,6 +2041,7 @@ Illustrated London News</title>
                   <date value="1861-02-16">February 16,
 1861</date> 
                <extent>1 paragraph</extent></bibl>
+<p rend="center">A BRITISH RAILWAY FROM THE ATLANTIC TO THE PACIFIC.</p>
                <p>.  . . . In the United States the project of a
 railway to the Pacific to cross the Rocky Mountains has ebbed and
 flowed in public opinion, and has been made the battle-cry of parties
@@ -2081,8 +2072,8 @@ therefore, cannot look for the execution of this gigantic work at the
 hands of the United States.</p>
 
             </div2>
-            <div2 id="iln38.1075.036" n="[Virginia has Assumed the Office of a Mediator]" type="Article">
-               <head>[Virginia has Assumed the Office of a Mediator]</head>
+            <div2 id="iln38.1075.036" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -2091,8 +2082,7 @@ hands of the United States.</p>
                   <biblScope type="pages">p. 136</biblScope> 
                   <date value="1861-02-16">February 16, 1861</date> 
                <extent>4 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">UNITED STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>UNITED STATES.
                </p>
                <p>Virginia has assumed the
 office of a mediator, and President Buchanan has sent a special
@@ -2138,14 +2128,12 @@ London News</title>
                   <date value="1861-02-16">February 16,
 1861</date> 
                <extent>3 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="italic">LATEST NEWS FROM
-ABROAD.</hi>
+               <p>LATEST NEWS FROM ABROAD.
                </p>
                <p>The following telegrams were received at Mr.
 Reuter's office yesterday (Friday):--</p>
-               <p>UNITED
-STATES.--Londonderry, Thursday.--the Canadian screw-steamer North
+               <p><hi rend="smallcap">United
+States</hi>.--Londonderry, Thursday.--the Canadian screw-steamer North
 Briton has arrived here and landed all mails.  At Washington, on the
 31st ult., Mr. Seward presented the New York petition favourable to
 the adoption of resolutions for an adjustment on the Border States'
@@ -2174,10 +2162,10 @@ failed to elect a President after seventy-two ballots.</p>
                <p>
                   <hi rend="center">SLAVE AUCTIONS IN RICHMOND, VIRGINIA.</hi>
                </p>
-               <p>
-                  <hi rend="center">(From Our Special Correspondent.)</hi>
+               <p rend="center">
+                  <hi rend="italic">(From Our Special Correspondent.)</hi>
                </p>
-               <p>I ARRIVED
+               <p><hi rend="smallcap">I Arrived</hi>
 in Richmond, the capital of Old Virginia, on a Sunday afternoon, and
 found the whole slave population in the streets.  I was much struck
 with the general well-to-do look of these people, for I had imagined
@@ -2291,7 +2279,7 @@ my ability, it being both reasonable and proper.</p>
                <p>A carriage
 having been procured we drove into the country, calling at one or two
 places to see the negroes in their quarters, and very comfortable
-quarters too--little cabins of cottages, several in a row.  The
+quarters too--little cabins of[sic] cottages, several in a row.  The
 interiors looked very tidy, and the women and children seemed quite
 happy.  They brought me milk and fruit, which appeared to be
 abundant.</p>
@@ -2313,7 +2301,7 @@ auction-room.  I observed that placards, advertisements, and notices
 as to the business carried on are dispensed with, the only indications
 of the trade being a small red flag hanging from the front door-post,
 and a piece of paper upon which is written with pen and ink this
-simple announcement-- "Negroes for sale at auction this day at ten
+simple announcement--"Negroes for sale at auction this day at ten
 o'clock," or whatever other time the sale is fixed for.  Besides this
 written notice and the heading to a sheet of letter-paper, I saw
 nothing in print or writing having reference to the sale of
@@ -2365,12 +2353,15 @@ sound on his legs.  Some </p>
                   <figure entity="v38p138a" width="438" height="650">
                      <head>The Principal
 Church in Charleston, South Carolina.--See Page
-147.</head>
+147.</head><figDesc>Occurs on p. 138.</figDesc>
                   </figure>
                </p>
                <p>
                   <figure entity="v38p138b" width="507" height="496">
-                     <head>Dealers Inspecting a Negro at a Slave Auction in Virginia.--From a Sketch by our Special Artist.</head>
+                     <head>Dealers Inspecting a Negro at a Slave
+		     Auction in Virginia.--From a Sketch by our
+		     Special Artist.</head>
+		     <figDesc>Occurs on p. 138</figDesc>
                   </figure> 
                   <pb n="139"/>
                </p>
@@ -2378,6 +2369,7 @@ Church in Charleston, South Carolina.--See Page
                   <figure entity="v38p139" width="1465" height="1006">
                      <head>A Slave Auction in Virginia.--From Sketch by our
 Special Artist.</head>
+<figDesc>Occurs on p. 139</figDesc>
                   </figure>
                </p>
                <p>
@@ -2402,7 +2394,7 @@ excitement most extraordinary, which was the more remarkable because
 the buyers were all sitting about, smoking and chatting to each other
 as quietly as though he were not present, and treating his excitement
 and oratorical exertions with the profoundest contempt.  At last the
-time arrived when he felt he could get no more biddings.  He said, "If
+time arrived when he thought he could get no more biddings.  He said, "If
 you have all done," raising his hand in which was a paper.  "Once,
 twice!"  His hand did not, however, come down, for somebody bid, and
 away went his tongue like a mill, repeating the fresh bidding as
@@ -2462,7 +2454,7 @@ were also sold, sisters, one with her first child, the child nearly
 white.  Both these young women were exceedingly good-looking, the
 eldest being about twenty years of age.  They were put on the block
 like the others, and were made to walk up and down the room.  The
-auctioneer pressed hard for higher biddings in this manner:-- "I want
+auctioneer pressed hard for higher biddings in this manner:--"I want
 to sell this girl if anybody will bid anything like a price.  I wish
 particularly to draw your attention to this girl, gentlemen: she is
 young, very pretty, and has beautiful teeth."  She was stopped
@@ -2512,7 +2504,7 @@ happy again and will eat and drink, and enjoy what they eat and
 drink."  It would be as safe to cram the cellars of their houses with
 gunpowder and continue to live over them as to fill the State with men
 like these, for certainly they will strike for liberty when they have
-a chance.               G.H. Andrews </p>
+a chance.               <hi rend="right">G.H. Andrews</hi></p>
 
             </div2>
             <div2 id="iln38.1075.039" n="[Lord Palmerston's assurance]" type="Article">
