@@ -72,7 +72,7 @@ with TEI guidelines using TEILITE</item>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1068</biblScope> 
-                  <biblScope type="pages">p.2</biblScope> 
+                  <biblScope type="pages">p. 2</biblScope> 
                   <date value="1861-01-05">January 5, 1861</date>
                <extent>5 paragraphs</extent></bibl>
                <p>
@@ -122,7 +122,7 @@ prohibited slavery in that territory.</p>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1068</biblScope> 
-                  <biblScope type="pages">p.6</biblScope> 
+                  <biblScope type="pages">p. 6</biblScope> 
                   <date value="1861-01-05">January 5, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
@@ -163,7 +163,7 @@ had been warned.</p>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1069</biblScope> 
-                  <biblScope type="pages">pp.25-26</biblScope> 
+                  <biblScope type="pages">pp. 25-26</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date>
 <extent>3 paragraphs</extent></bibl>
                <p><hi rend="smallcap">There</hi> never was a nation so calculated to solve a number
@@ -485,7 +485,7 @@ American Slavery</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1069</biblScope> 
-                  <biblScope type="pages">p.27</biblScope> 
+                  <biblScope type="pages">p. 27</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date>
                <extent>10 paragraphs</extent></bibl>
                <p>
@@ -1485,7 +1485,7 @@ fugitive slave.</p>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1071</biblScope> 
-                  <biblScope type="pages">p.76</biblScope> 
+                  <biblScope type="pages">p. 76</biblScope> 
                   <date value="1861-01-26">January 26, 1861</date>
                <extent>2 paragraphs</extent></bibl>
                <p>
@@ -1543,7 +1543,7 @@ made so fearful a revolt impossible.</p>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1072</biblScope> 
-                  <biblScope type="pages">p.87</biblScope> 
+                  <biblScope type="pages">p. 87</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
@@ -1700,7 +1700,7 @@ flag]</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1072</biblScope> 
-                  <biblScope type="pages">p.89</biblScope> 
+                  <biblScope type="pages">p. 89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date>
                <extent>2 paragraphs</extent></bibl>
                <p><hi rend="smallcap">The</hi> particular flag known as the sovereignty flag of South
@@ -1730,7 +1730,7 @@ of America</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1072</biblScope> 
-                  <biblScope type="pages">p.89</biblScope> 
+                  <biblScope type="pages">p. 89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date>
                <extent>2 paragraphs</extent></bibl>
                <p rend="center"><hi rend="smallcap">The Fortresses in the Southern States of
@@ -1832,7 +1832,7 @@ Queen</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1073</biblScope> 
-                  <biblScope type="pages">p.112</biblScope> 
+                  <biblScope type="pages">p. 112</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date>
                <extent>3 paragraphs</extent></bibl>
 <p rend="center">OPENING OF PARLIAMENT BY THE QUEEN</p>
@@ -1862,7 +1862,7 @@ occasion of the residence of the Prince of Wales among them. . .
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1073</biblScope> 
-                  <biblScope type="pages">p.112</biblScope> 
+                  <biblScope type="pages">p. 112</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date>
                <extent>2 paragraphs</extent></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>UNITED STATES.
@@ -1923,7 +1923,7 @@ London and Liverpool]</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1073</biblScope> 
-                  <biblScope type="pages">p.113</biblScope> 
+                  <biblScope type="pages">p. 113</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>The underwriters of London and Liverpool have raised their
@@ -2547,8 +2547,7 @@ national council to any very distinct proposition, while the head of
 the Government is not likely to act upon the prompting of his
 Parliament.  Last Monday was the birthday of Washington, and it will
 be interesting to read whether it was remembered--and how.</p>
-               <p>. .
-. .It is said that Mr. Cobden has asked Switzerland to interfere
+               <p>....It is said that Mr. Cobden has asked Switzerland to interfere
 between the Northern and Southern States of the Republic of America,
 but that such mediation has been pronounced impracticable.</p>
 
@@ -2560,13 +2559,13 @@ but that such mediation has been pronounced impracticable.</p>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1075</biblScope> 
-                  <biblScope type="pages">p.147</biblScope> 
+                  <biblScope type="pages">p. 147</biblScope> 
                   <date value="1861-02-16">February 16, 1861</date>
                <extent>3 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">CHURCH IN CHARLESTON.  </hi>
                </p>
-               <p>THE
+               <p><hi rend="smallcap">The</hi>
 principal church of Charleston, South Carolina, is one of the many
 examples, architectural or otherwise, of the hold of the mother
 country upon the American people.  Not only is the structure built
@@ -2601,8 +2600,8 @@ about 2400 volumes.</p>
 is from a Sketch by Mr. Eyre Crowe, Jun.</p>
 
             </div2>
-            <div2 id="iln38.1076.041" n="[No Progress Seems to have been Made]" type="Article">
-               <head>[No Progress Seems to have been Made]</head>
+            <div2 id="iln38.1076.041" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -2611,8 +2610,7 @@ is from a Sketch by Mr. Eyre Crowe, Jun.</p>
                   <biblScope type="pages">p. 160</biblScope> 
                   <date value="1861-02-23">February 23, 1861</date> 
                <extent>8 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">UNITED STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>UNITED STATES.
                </p>
                <p>No progress seems to have
 been made towards a compromise of the disputes between the Northern
@@ -2652,22 +2650,23 @@ fifty thousand of her people are said to be on the verge of
 starvation.</p>
 
             </div2>
-            <div2 id="iln38.1076.042" n="[Seven of the Formerly United States]" type="Article">
-               <head>[Seven of the Formerly
-United States]</head>
+            <div2 id="iln38.1076.042" n="London, Saturday, February
+					 23, 1861" type="Article">
+               <head>London, Saturday, February
+					 23, 1861</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1076</biblScope> 
-                  <biblScope type="pages">p.164</biblScope> 
+                  <biblScope type="pages">p. 164</biblScope> 
                   <date value="1861-02-23">February 23, 1861</date>
                <extent>4 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, FEBRUARY 23,
 1861.</hi>
                </p>
-               <p>SEVEN of the formerly United States are now severed
+               <p><hi rend="smallcap">Seven</hi> of the formerly United States are now severed
 from the Federal Government, if their own act can achieve this
 separation, an issue which Mr. Lincoln is still thought to be inclined
 to try, although Mr. Seward's last important speech is conciliatory,
@@ -2693,8 +2692,7 @@ shame the vaunts of story.</hi>
                </p>
                <p>But there is a great deal to be
 done in the way of settlement at home before extension of jurisdiction
-can be thought of.  The new President takes office on Monday week. . .
-.</p>
+can be thought of.  The new President takes office on Monday week.</p>
 
             </div2>
             <div2 id="iln38.1077.043" n="Emancipation of the Serfs in Russia" type="Article">
@@ -2704,12 +2702,12 @@ Russia</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1077</biblScope> 
-                  <biblScope type="pages">pp.183-84</biblScope> 
+                  <biblScope type="pages">pp. 183-84</biblScope> 
                   <date value="1861-03-02">March 2, 1861</date>
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">EMANCIPATION OF THE SERFS IN
-RUSSIA</hi>
+RUSSIA.</hi>
                </p>
                <p>.  . . . The power of the landowner over his <pb n="184"/> individual peasants has become all but absolute.  He cannot,
 it is true, sell their children, as the whites can do with their
@@ -2737,18 +2735,16 @@ compelled to acknowledge that man can have no property in his
 fellow-man.</p>
 
             </div2>
-            <div2 id="iln38.1077.044" n="[In accordance with a provision]" type="Article">
-               <head>[In accordance with a
-provision]</head>
+            <div2 id="iln38.1077.044" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1077</biblScope> 
-                  <biblScope type="pages">pp.184-85</biblScope> 
+                  <biblScope type="pages">pp. 184-85</biblScope> 
                   <date value="1861-03-02">March 2, 1861</date>
                <extent>10 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">UNITED STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL News</hi><lb/>UNITED STATES.
                </p>
                <p>In accordance
 with a provision of the American Constitution, the electoral vote for
@@ -2767,10 +2763,10 @@ of invasion, he said:-- "But if the United States should merely hold
 and retake its own forts and other property, and collect the duties on
 foreign importations, or even withhold the mails from places where
 they were habitually violated, would any or all these things be
-'invasion' or 'coercion?'"  This indicates an intention on his part to
+'invasion' or 'coercion?' " This indicates an intention on his part to
 uphold the Federal authority wherever it has been assailed.  Again, in
 another part of his speech, he inferentially denies the right of a
-State, any more than of a district or a county, to secede-putting his
+State, any more than of a district or a county, to secede--putting his
 opinions in the form of questions, which he asks his fellow-citizens
 to consider.  This speech, delivered at the present juncture,
 undoubtedly possesses great significance.  At Columbus, in Ohio, he
@@ -2814,7 +2810,7 @@ Virginia State Convention assembled on the 13th ult.; its President
 made a union speech, but said that Virginia would insist upon her
 rights as a condition of remaining in the confederacy.</p>
                <p>The
-Kentucky Legislature, without doing anyhing [sic] of a national
+Kentucky Legislature, without doing any[t]hing of a national
 character, had adjourned to March 20 to await and consider the action
 of the Peace Commissioners at Washington.</p>
                <p>The convention at
@@ -2837,25 +2833,23 @@ and feathered, or subjected to some other gross indignity and injury,
 but the truth of the rumour seems very doubtful.</p>
 
             </div2>
-            <div2 id="iln38.1077.045" n="[President Lincoln will be Inaugurated on Monday]" type="Article">
-               <head>[President Lincoln will be Inaugurated
-on Monday]</head>
+            <div2 id="iln38.1077.045" n="Saturday, March 2, 1861" type="Article">
+               <head>Saturday, March 2, 1861</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1077</biblScope> 
-                  <biblScope type="pages">p.188</biblScope> 
+                  <biblScope type="pages">p. 188</biblScope> 
                   <date value="1861-03-02">March 2, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">SATURDAY, MARCH 2, 1861.</hi>
+               <p rend="center"><hi rend="italic">SATURDAY, MARCH 2, 1861.</hi>
                </p>
                <p>. . .
 President Lincoln will be inaugurated on Monday, and, meantime, has
 made a brief and pregnant speech, in which he disclaims the ideas of
 "invasion" and "coercion," but has a definite theory as to the right
 and duty of the Federal Government to seize its own ports and its own
-arsenals, wherever they may happen to be situate.  This intimidation
+arsenals, wherever they may happen to be situate.  This intimation
 sounds very significantly; and in about a fortnight the arrival of
 American mails will be watched with painfully-increased interest.  We,
 however, continue to hope that a fratricidal contest may be averted by
@@ -2863,19 +2857,18 @@ the wisdom and forbearance of the new President.</p>
 
             </div2>
             <div2 id="iln38.1077.046" n="Fort Moultrie" type="Article">
-               <head>Fort
-Moultrie</head>
+               <head>Fort Moultrie</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1077</biblScope> 
-                  <biblScope type="pages">p.194</biblScope> 
+                  <biblScope type="pages">p. 194</biblScope> 
                   <date value="1861-03-02">March 2, 1861</date> 
                <extent>3 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">FORT MOULTRIE.</hi>
                </p>
-               <p>THERE are three forts
+               <p><hi rend="smallcap">There</hi> are three forts
 in Charleston harbour--namely, Castle Pinkney, Fort Moultrie, and Fort
 Sumter.  The first two are in possession of the authorities of South
 Carolina.  At the time of the outbreak Major Anderson was in command
@@ -2887,7 +2880,7 @@ men to Fort Sumter, thus securing himself a far stronger position.</p>
 Plan of Charleston Harbour given in our Number for the 9th of February
 last.  It is an inclosed water battery, having a front on the south or
 water side, of about 300 feet, and a depth of about 240 feet.  It is
-built with salient and reentering angles on all sides, and is
+built with salient and re-entering angles on all sides, and is
 admirably adapted for defence, either from the attack of a storming
 party or by regular approaches.  The outer and inner walls are of
 brick, capped with stone, and filled in with earth, making a solid
@@ -2904,14 +2897,14 @@ island.  The main entrance has also been better secured, and a
 trapdoor, two feet square, cut in the door for ingress and egress.  At
 this time the height of wall, from the bottom of the ditch to the top
 of the parapet, is twenty feet.  The ditch is from twelve to fifteen
-wide at the base, and fifteen feet deep.  The nature of the soil would
-not seem to admit of this depth being increased, quicksand having been
-reached in many places.  The work on the south side is nearly
-finished.  The counterscarp is substantially built of plank, and
-spread with turf.  The glacis is also finished.  It is composed of
+feet wide at the base, and fifteen feet deep.  The nature of the soil
+would not seem to admit of this depth being increased, quicksand
+having been reached in many places.  The work on the south side is
+nearly finished.  The counterscarp is substantially built of plank,
+and spread with turf.  The glacis is also finished.  It is composed of
 sand, and covered with layers of loam and turf, all of which is firmly
 kept in place by the addition of sections of plank nailed to uprights
-sunk in the sand and crossing each other at right angles-making
+sunk in the sand and crossing each other at right angles--making
 squares of about ten feet each.  The purpose of the glacis, which is
 an inclined plane, is to expose an attacking party to the fire of the
 guns, which are so placed as to sweep it from the crest of the
@@ -2949,7 +2942,7 @@ Illustrated London News</title>
                   <figure entity="v38p194" width="833" height="562">
                      <head>Fort Moultrie, in
 Charleston Harbour, South Carolina: The Secession Flag
-Flying</head>
+Flying.</head>
                   </figure>
                </p>
 
@@ -2970,13 +2963,13 @@ London News</title>
                   <figure entity="v38p207" width="864" height="615">
                      <head>"A Barber's Shop at
 Richmond, Virginia," By Eyre Crowe, in the Exhibition of the British
-Institution.--See Page 216</head>
+Institution.--See Page 216.</head>
                   </figure>
                </p>
 
             </div2>
-            <div2 id="iln38.1078.049" n="[Mr. Jefferson Davis]" type="Article">
-               <head>[Mr. Jefferson Davis]</head>
+            <div2 id="iln38.1078.049" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated
 London News</title> 
@@ -2986,8 +2979,7 @@ London News</title>
                   <date value="1861-03-09">March 9,
 1861</date> 
                <extent>11 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">UNITED STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>UNITED STATES.
                </p>
                <p>Mr. Jefferson Davis, President of the Southern Confederacy,
 entitled the Confederate States of America, was formally inaugurated
@@ -3001,8 +2993,8 @@ convention can hit upon an acceptable compromise this final
 arbitrament seems inevitable.  The Congress of the seceding Southern
 States has declared the navigation of the Mississippi free.  The
 appointment of Toombs as Secretary of State, Memminger as Secretary of
-Treasury, and L. Walker as Secretary of War, have been confirmed by
-Congress.</p>
+the Treasury, and L. Walker as Secretary of War, have been confirmed
+by Congress.</p>
                <p>A bill was passed in the Florida Legislature, on
 Feb. 16, authorising the issue of Treasury notes to the amount of
 500,000 dollars.</p>
@@ -3064,7 +3056,8 @@ London News</title>
                   <hi rend="center">THE FUGITIVE
 ANDERSON.</hi>
                </p>
-               <p>AFTER our Supplement, containing a portrait of
+               <p><hi rend="smallcap">After</hi> our Supplement,
+               containing a portrait of
 Anderson and some particulars relating to his release, was at press we
 received a copy of the Toronto <title>Globe</title> of the 18th ult.,
 which gives a long account of Anderson's early life and his escape
@@ -3185,12 +3178,12 @@ he got employed as a labourer, he wrote twice to his wife.  He worked
 as a plasterer at Hamilton and Caledonia, and at the time of his
 arrest, by Mathews, was engaged making maple sugar.  After being
 discharged he went to Simcoe, where he was again arrested and brought
-before Mathews.  Anderson says "he never knew that there was so much
-law in the world as he has found in Canada."</p>
+before Mathews.  Anderson says "he never knew that there was <hi rend="italic">so much
+law</hi> in the world as he has found in Canada."</p>
 
             </div2>
-            <div2 id="iln38.1078.051" n="[Mr. President Lincoln]" type="Article">
-               <head>[Mr. President Lincoln]</head>
+            <div2 id="iln38.1078.051" n="London, Saturday, March 9, 1861" type="Article">
+               <head>London, Saturday, March 9, 1861</head>
                <bibl> 
                   <title>The Illustrated
 London News</title> 
@@ -3200,8 +3193,7 @@ London News</title>
                   <date value="1861-03-09">March 9,
 1861</date> 
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">LONDON, SATURDAY, MARCH 9,
+               <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH 9,
 1861.</hi>
                </p>
                <p>. . . Mr. President Lincoln was, doubtless,
@@ -3217,6 +3209,27 @@ property on which the Secessionists have laid hands, is a problem for
 whose solution we shall wait with impatience.</p>
 
             </div2>
+	    <div2 id="iln38.1078.051a" n="British Institution"
+		  type="Article">
+	      <head>British Institution</head>
+	      <bibl>
+		<title>The Illustrated London News</title>
+		<biblScope type="volume">vol. 38</biblScope>
+		<biblScope type="issue">no. 1078</biblScope>
+		<biblScope type="pages">p. 216</biblScope>
+		<date value="1861-03-09">March 9, 1861</date>
+		<extent>2 paragraphs</extent>
+	      </bibl>
+	      
+	      <p rend="center">BRITISH INSTITUTION</p>
+	      <p>Another picture which we engrave in our present
+	      Issue is of a widely different character&#x2014;Eyre
+	      Crowe's "Barber Shop at Richmond, Virginia"
+	      (260). Without putting forth high pretensions as a work
+	      of art it is, from the nature of its subject, invested
+	      with a local interest at the present moment which will
+	      recommend it to the attention of many of our travelled readers.</p>
+	    </div2>
             <div2 id="iln38.1078.052" n="Release of Anderson, the Fugitive Slave" type="Article">
                <head>Release of Anderson, the Fugitive Slave</head>
                <bibl> 
@@ -3230,7 +3243,7 @@ whose solution we shall wait with impatience.</p>
                <p>
                   <hi rend="center">RELEASE OF ANDERSON, THE FUGITIVE SLAVE.</hi>
                </p>
-               <p>AT
+               <p><hi rend="smallcap">At</hi>
 Toronto the fugitive slave, John Anderson, claimed by the United
 States' Government, on the charge of murdering one Seneca P. Digges,
 in the State of Missouri, in the year 1853, while making his escape
@@ -3307,7 +3320,7 @@ may be suggested), I require further time before I can adopt as a
 principle of the law, that because a man is a slave in a country where
 slavery is legalised he is legally incapable of committing a crime,
 that he is not to be deemed a "prisoner" who may be charged with an
-offense.  Nor am I prepared to decide that on a charge of murder,
+offence.  Nor am I prepared to decide that on a charge of murder,
 sufficiently sustained by evidence to warrant his being committed for
 trial according to our law, the prisoner accused of that crime would
 not be within the meaning of the treaty because, if acquitted on a
@@ -3373,7 +3386,7 @@ whilst Anderson lay in the Toronto gaol.</p>
                <p>
                   <figure entity="v38p223" width="422" height="466">
                      <head>John Anderson, the Fugitive Slave in
-Canada</head>
+Canada.</head>
                   </figure>
                </p>
 
@@ -3385,7 +3398,7 @@ Davis</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1079</biblScope> 
-                  <biblScope type="pages">p.231</biblScope> 
+                  <biblScope type="pages">p. 231</biblScope> 
                   <date value="1861-03-16">March 16, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
@@ -3397,23 +3410,18 @@ the Confederate States of America.  See Supplement, Page
                </p>
 
             </div2>
-            <div2 id="iln38.1079.054" n="[Mr. Lincoln Reached Washington]" type="Article">
-               <head>[Mr. Lincoln
-Reached Washington]</head>
+            <div2 id="iln38.1079.054" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1079</biblScope> 
-                  <biblScope type="pages">p.232</biblScope> 
+                  <biblScope type="pages">p. 232</biblScope> 
                   <date value="1861-03-16">March 16, 1861</date> 
                <extent>17 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
-               </p>
-               <p>
-                  <hi rend="center">THE
-UNITED STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.<lb/>
+THE UNITED STATES.
                </p>
                <p>Mr. Lincoln reached Washington on the 24th ult.,
 having hastened his departure from Harrisburg by a special night train
@@ -3516,8 +3524,8 @@ taxes have been doubled, and a heavy loan is proposed, to anticipate
 future levies.</p>
 
             </div2>
-            <div2 id="iln38.1079.055" n="[That the American Journals Should Lend any Credence]" type="Article">
-               <head>[That the American Journals Should Lend any Credence]</head>
+            <div2 id="iln38.1079.055" n="London, Saturday, March 16, 1861" type="Article">
+               <head>London, Saturday, March 16, 1861</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -3571,8 +3579,8 @@ London News</title>
                <p>
                   <figure entity="v38p247" width="1064" height="1465">
                      <head>General Winfield
-Scott, Commander-In-Chief of the American Forces.--See Next
-Page</head>
+Scott, Commander-In-Chief of the American Forces.--<hi rend="small">See Next
+Page.</hi></head>
                   </figure>
                </p>
 
@@ -3584,13 +3592,13 @@ Davis</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1079</biblScope> 
-                  <biblScope type="pages">p.248</biblScope> 
+                  <biblScope type="pages">p. 248</biblScope> 
                   <date value="1861-03-16">March 16, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">THE HON. JEFFERSON DAVIS.</hi>
                </p>
-               <p>SINCE we
+               <p><hi rend="smallcap">Since</hi> we
 gave, a few weeks ago, a portrait of Mr. Lincoln, the President elect
 of the United States, one startling event has followed another in that
 country in sufficiently rapid succession to take away the breath from
@@ -3646,7 +3654,7 @@ Illustrated London News</title>
                <p>
                   <hi rend="center">GENERAL SCOTT.</hi>
                </p>
-               <p>WE
+               <p><hi rend="smallcap">We</hi>
 give on the preceding page a Portrait of General Winfield Scott, who,
 as Commander-in-Chief of the United States' forces, necessarily
 occupies at the present juncture a commanding position in American
@@ -3672,7 +3680,7 @@ country, traitorously send arms and ammunition for the support of the
 revolted States, arms designed to be used against ourselves, against
 all who oppose, in the name of God and the United  States, their
 traitorous plans and ambitions--at this great moment of distraction
-and peril all eyes are turned to the solder of the Commonwealth as its
+and peril all eyes are turned to the soldier of the Commonwealth as its
 sure hope and stay--an unbribable, honest soldier, who is quick to see
 and prompt to act, and with the courage of a lion in him.  We trust
 that his military services may never be required in defence of the
@@ -3741,7 +3749,7 @@ Illustrated London News</title>
                   <hi rend="center">A RAILWAY STATION IN THE SOUTHERN STATES
 OF AMERICA.</hi>
                </p>
-               <p>A LOG-HUT, a pile of wood, and a <hi rend="italic">nigger</hi>--there you have a full inventory of one of
+               <p><hi rend="smallcap">A log-hut</hi>, a pile of wood, and a <hi rend="italic">nigger</hi>--there you have a full inventory of one of
 the ordinary country stations on a Georgia or Alabama railway.  Our
 Illustration, taken on the road from Atlanta to La Grange, in the
 former State, represents only a specimen of its order.  The traveller
@@ -3777,22 +3785,19 @@ Georgia, America.--See Preceding Page.</head>
                </p>
 
             </div2>
-            <div2 id="iln38.1080.061" n="[The ceremony of Mr. Lincoln's inauguration]" type="Article">
-               <head>[The ceremony of Mr. Lincoln's
-inauguration]</head>
+            <div2 id="iln38.1080.061" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1080</biblScope> 
-                  <biblScope type="pages">p.256</biblScope> 
+                  <biblScope type="pages">p. 256</biblScope> 
                   <date value="1861-03-23">March 23, 1861</date> 
                <extent>18 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
-               </p>
-               <p>
-                  <hi rend="center">THE UNITED
-STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>
+                  AMERICA.<lb/>
+
+                  THE UNITED STATES.
                </p>
                <p>The ceremony of Mr. Lincoln's inauguration as
 President of the United States took place on the 4th inst. at
@@ -3878,21 +3883,19 @@ Postmaster-General, John H. Reagan, of Texas; Attorney-General, Judah
 P. Benjamin, of Louisiana.</p>
 
             </div2>
-            <div2 id="iln38.1080.062" n="[If No Other Interest Were Involved]" type="Article">
-               <head>[If No Other
-Interest Were Involved]</head>
+            <div2 id="iln38.1080.062" n="London, Saturday, March 23, 1861" type="Article">
+               <head>London, Saturday, March 23, 1861</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1080</biblScope> 
-                  <biblScope type="pages">p.260</biblScope> 
+                  <biblScope type="pages">p. 260</biblScope> 
                   <date value="1861-03-23">March 23, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">LONDON, SATURDAY, MARCH 23, 1861.</hi>
+               <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH 23, 1861.</hi>
                </p>
-               <p>IF
+               <p><hi rend="smallcap">If</hi>
 no other interest were involved in the present condition of the United
 States of America than that which attaches to the dramatic spectacle
 of a nation divided against itself, the inaugural speech of the new
@@ -4014,7 +4017,7 @@ Illustrated London News</title>
                   <hi rend="center">THE CROWD WAITING FOR MR.
 LINCOLN AT BALTIMORE.</hi>
                </p>
-               <p>MR. LINCOLN, in his progress from
+               <p><hi rend="smallcap">Mr. Lincoln</hi>, in his progress from
 his village home on the prairies of Illinois to Washington, in order
 to take upon himself the duties of President of the United States, did
 not make, as had been anticipated, a public entry into Baltimore,
@@ -4071,7 +4074,7 @@ London News</title>
                   <figure entity="v38p267" width="641" height="623">
                      <head>The Inauguration of
 the Hon. Jefferson Davis as President of the Provisional Government of
-the New Southern Confederacy of America</head>
+the New Southern Confederacy of America.</head>
                   </figure>
                </p>
 
@@ -4089,7 +4092,7 @@ the New Southern Confederacy of America</head>
                <p>
                   <hi rend="center">THE INAUGURATION OF PRESIDENT DAVIS.</hi>
                </p>
-               <p>OUR
+               <p><hi rend="smallcap">Our</hi>
 last Number contained a Portrait of the Hon. Jefferson Davis, of
 Mississippi, President of the Confederate States of America; and we
 now give, from a photograph by A.C. M'Intyre, of Montgomery, an
@@ -4135,7 +4138,7 @@ Cobb.  Prayer was offered by the Rev. Dr. Basil Manly.  Mr. Cobb
 formally announced that President Davis had arrived, and was now ready
 to take the oath of office, as President of the Confederate States of
 America.  President Davis then came forward and delivered his
-address-an abstract of which has appeared in this Journal.  At the
+address--an abstract of which has appeared in this Journal.  At the
 close of the President's speech the oath of office was administered to
 him by Mr. Cobb.</p>
                <p>On the same day the members of Congress
@@ -4157,12 +4160,10 @@ Illustrated London News</title>
                   <date value="1861-03-23">March 23,
 1861</date> 
                <extent>27 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">PRESIDENT LINCOLN'S INAUGURAL
-ADDRESS.</hi>
-               </p>
-               <p>
-                  <hi rend="center">FELLOW-CITIZENS OF THE UNITED
+               <p rend="center">PRESIDENT LINCOLN'S INAUGURAL
+ADDRESS.<lb/>
+
+                  <hi rend="small">FELLOW-CITIZENS OF THE UNITED
 STATES,</hi>
                </p>
                <p>In compliance with a custom as old as the
@@ -4174,13 +4175,13 @@ execution of his office.</p>
 present for me to discuss those matters of administration about which
 there is no special anxiety or excitement.</p>
                <p>Apprehension seems
-to exists among the people of the Southern States that, by the
+to exist among the people of the Southern States that, by the
 accession of a Republican Administration, their property and their
 peace and personal security are to be endangered.  There has never
 been any reasonable cause for such apprehension.  Indeed, the most
 ample evidence to the contrary has all the while existed and been open
 to their inspection.  It is found in nearly all the published speeches
-of him who now addresses you.  I do but quote from one of those
+of him who now addresses you.  I do but quote from one of these
 speeches when I declare that "I have no purpose, directly or
 indirectly, to interfere with the institution of slavery in the States
 where it exists; I believe I have no lawful right to do so, and I have
@@ -4341,7 +4342,7 @@ doing this.  Think, if you can, of a single instance in which a
 plainly-written provision of the Constitution has ever been denied.
 If, by the mere force of numbers, a majority should deprive a minority
 of any clearly-written constitutional right, it might, in a moral
-point of view, justify revolution-certainly would, if such right were
+point of view, justify revolution--certainly would, if such right were
 a vital one.  But such is not the case.</p>
                <p>All the vital rights
 of minorities and of individuals are so plainly assured to them by
@@ -4469,7 +4470,7 @@ short intervals.  While the people retain their virtue and vigilance,
 no Administration, by any extreme of wickedness or folly, can very
 seriously injure the Government in the short space of four years.</p>
                <p>My countrymen, one and all, think calmly and well upon this whole
-subject.  Nothing valuable can be lost be taking time.</p>
+subject.  Nothing valuable can be lost by taking time.</p>
                <p>If
 there be an object to hurry any of you, in hot haste, to a step which
 you would never take deliberately, that object will be frustrated by
@@ -4497,8 +4498,8 @@ broad land, will yet swell the chorus of the Union when again touched,
 as surely they will be, by the better angels of our nature.</p>
 
             </div2>
-            <div2 id="iln38.1080.068" n="[Mr. Dowes, of Massachusetts]" type="Article">
-               <head>[Mr. Dowes, of Massachusetts]</head>
+            <div2 id="iln38.1080.068" n="The United States' Navy" type="Article">
+               <head>The United States' Navy</head>
                <bibl>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -4539,7 +4540,7 @@ Camp Meeting]</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1081</biblScope> 
-                  <biblScope type="pages">p.280</biblScope> 
+                  <biblScope type="pages">p. 280</biblScope> 
                   <date value="1861-03-30">March 30, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>An American paper states that at a camp meeting recently held near
@@ -4548,8 +4549,8 @@ one with hoops on to partake of the sacrament, affirming that they
 would not be welcome to the table of the Lord.</p>
 
             </div2>
-            <div2 id="iln38.1081.070" n="[No Decided Action had...been Taken]" type="Article">
-               <head>[No Decided Action had...been Taken]</head>
+            <div2 id="iln38.1081.070" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -4558,8 +4559,8 @@ would not be welcome to the table of the Lord.</p>
                   <biblScope type="pages">p. 280</biblScope> 
                   <date value="1861-03-30">March 30, 1861</date> 
                <extent>3 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi>
+                  <lb/>AMERICA.
                </p>
                <p>No decided action had, according to
 the latest accounts from America, been taken by either the Northern or
@@ -4595,8 +4596,8 @@ Constitution shall continue in force not extending beyond one
 year."</p>
 
             </div2>
-            <div2 id="iln38.1081.071" n="[The Mention of Slavery]" type="Article">
-               <head>[The Mention of Slavery]</head>
+            <div2 id="iln38.1081.071" n="London, Saturday, March 30, 1861" type="Article">
+               <head>London, Saturday, March 30, 1861</head>
                <bibl>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -4643,14 +4644,14 @@ Inaugural Address</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1081</biblScope> 
-                  <biblScope type="pages">p.299</biblScope> 
+                  <biblScope type="pages">p. 299</biblScope> 
                   <date value="1861-03-30">March 30, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
                   <figure entity="v38p299" width="1454" height="1029">
                      <head>President Lincoln Delivering his
-Inaugural Address in Front of the Capitol at Washington.-See next
-page.</head>
+Inaugural Address in Front of the Capitol at Washington.--<hi rend="small">See next
+page</hi>.</head>
                   </figure>
                </p>
 
@@ -4671,7 +4672,7 @@ London News</title>
                   <hi rend="center">THE INAUGURATION OF PRESIDENT
 LINCOLN.</hi>
                </p>
-               <p>THE inauguration of Abraham Lincoln as President
+               <p><hi rend="smallcap">The</hi> inauguration of Abraham Lincoln as President
 of the United States was celebrated on the 4th inst. with the usual
 honours, and with more than the usual solemnity. No disturbance marred
 the august proceedings, and all went off harmoniously, and to the
@@ -4723,7 +4724,7 @@ London News</title>
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">FINANCE-PAST AND
-EXPECTED</hi>
+EXPECTED.</hi>
                </p>
                <p>.  . . . Again, no man in this country, even if
 he dwell ever so remote from Lancashire, can view without apprehension
@@ -4750,23 +4751,18 @@ there may be some clever manipulations in the way of shifting the
 load.</p>
 
             </div2>
-            <div2 id="iln38.1082.075" n="[The Senate's Committee on Foreign Relations]" type="Article">
-               <head>[The Senate's Committee
-on Foreign Relations]</head>
+            <div2 id="iln38.1082.075" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1082</biblScope> 
-                  <biblScope type="pages">p.304</biblScope> 
+                  <biblScope type="pages">p. 304</biblScope> 
                   <date value="1861-04-06">April 6, 1861</date> 
                <extent>12 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
-               </p>
-               <p>
-                  <hi rend="center">THE UNITED
-STATES.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+	       NEWS.</hi><lb/>AMERICA.<lb/>THE UNITED STATES.
                </p>
                <p>The Senate's Committee on foreign relations has
 recommended that the dispute between the United States and Great
@@ -4812,7 +4808,7 @@ those sailing under the "stars and stripes."</p>
                <p>The design of
 the flag recently adopted by the Southern Congress is as
 follows:--Red, white, and red, in three equal parts, horizontally
-placed-the white between the red; blue union, with seven stars in the
+placed--the white between the red; blue union, with seven stars in the
 form of a circle reaching down to the lower red.</p>
 
             </div2>
@@ -4831,7 +4827,7 @@ London News</title>
                   <hi rend="center">RAILWAY-CARS IN
 AMERICA.</hi>
                </p>
-               <p>THE external appearance of most of the American
+               <p><hi rend="smallcap">The</hi> external appearance of most of the American
 railway-carriages, called in the States cars, is exceedingly plain,
 and on entering them for the first time one is surprised to find them
 fitted up so comfortably, even handsomely, in the interior. There is
@@ -4862,10 +4858,10 @@ general use in summer time; and in winter stoves are introduced.</p>
                <p>Many of the railway-cars in Canada and in the States are made to do
 double duty, being turned by night into bedrooms.  The transformation
 scene is thus described in a most interesting article on railway
-travelling in America contained in the number of All the Year Round
+travelling in America contained in the number of <hi rend="italic">All the Year Round</hi>
 for the 12th of January last:--</p>
                <p>"More bell, more steam,
-smothering us all with white-a wrench, a drag, a jolt back half angry,
+smothering us all with white--a wrench, a drag, a jolt back half angry,
 as if the engine were sulky and restive, and we are off.  The
 signal-posts stride by us, the timber-yards fly by, and we are in the
 open country, with its zigzag snake fences, and Indian corn patches
@@ -4878,22 +4874,22 @@ from long wedges, produced from their waistcoat-pockets.  The
 candy-boys have been round three times, the negro boys with the
 water-can twice, the lad with the book-basket once.  One hour from
 Albany, we are at Hoffman's; twenty minutes more, at Amsterdam; fifty
-minutes more, and we have reached Spraker's-pure Dutch names all, as
+minutes more, and we have reached Spraker's--pure Dutch names all, as
 though Hudson christened them. Now, as we are between Little Falls and
-Herkeimer, the officer of the sleeping-cars enters and calls out, `Now
+Herkeimer, the officer of the sleeping-cars enters and calls out, 'Now
 then, misters, if you please, get up from your seats, and allow me to
 make up the beds!'  Two by two we rise, and with neat trimness and
 quick hand the nimble Yankee turns over every other seat, so as to
 reverse the back, and make two seats, one facing the other.  Nimbly he
-shuts the </p>
-               <p>
+shuts the 
+          
                   <figure entity="v38p306" width="845" height="619">
                      <head>Interior of an American
-Railway-Car.</head>
+Railway-Car. [p. 306]</head>
                   </figure> 
                   <pb n="307"/>
-               </p>
-               <p>windows and pulls
+          
+windows and pulls
 up the shutters, leaving for ventilation the slip of perforated zinc
 open at the top of each.  Smartly he strips up the cushions, and
 unfastens from beneath each seat a light cane-bottomed frame there
@@ -4960,7 +4956,7 @@ Illustrated London News</title>
                <p>
                   <hi rend="center">THE DANDY SLAVE.</hi>
                </p>
-               <p>WHENEVER a negro can afford it, he dresses well, sometimes quietly
+               <p><hi rend="smallcap">Whenever</hi> a negro can afford it, he dresses well, sometimes quietly
 and in good taste.  His hat is sure to be of the best, his boots of
 the glossiest patent leather, and the rest of his adornments to match.
  One rainy Sunday, in Baltimore, our Artist saw and sketched one of
@@ -4987,7 +4983,7 @@ from the "meetin'-house."</p>
                <p>
                   <figure entity="v38p307a" width="534" height="711">
                      <head>The Dandy
-Slave: a Scene in Baltimore, Maryland.</head>
+Slave: a Scene in Baltimore, Maryland. [p. 307]</head>
                   </figure>
                </p>
 
@@ -4999,16 +4995,16 @@ Slave: a Scene in Baltimore, Maryland.</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1082</biblScope> 
-                  <biblScope type="pages">p.307</biblScope> 
+                  <biblScope type="pages">p. 307</biblScope> 
                   <date value="1861-04-06">April 6, 1861</date> 
                <extent>3 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">SLAVES FOR SALE.</hi>
                </p>
-               <p>THE accompanying
+               <p><hi rend="smallcap">The</hi> accompanying
 Engraving represents a gang of negroes exhibited in the city of New
 Orleans, previous to an auction, from a Sketch made on the spot by our
-Artist.  The men and women are well clothed, in their Sunday best-the
+Artist.  The men and women are well clothed, in their Sunday best--the
 men in blue cloth, of good quality, with beaver hats; and the women in
 calico dresses, of more or less brilliancy, with silk bandana
 handkerchiefs bound round their heads.  Placed in a row in a quiet
@@ -5035,13 +5031,13 @@ Representatives</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1082</biblScope> 
-                  <biblScope type="pages">p.310</biblScope> 
+                  <biblScope type="pages">p. 310</biblScope> 
                   <date value="1861-04-06">April 6, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
                   <figure entity="v38p310" width="1185" height="860">
                      <head> A Scene in the Hall of Representatives
-Washington.--See supplement, page 320.</head>
+Washington.--<hi rend="small">See supplement, page 320.</hi></head>
                   </figure>
                </p>
 
@@ -5059,7 +5055,7 @@ Washington.--See supplement, page 320.</head>
                <p>
                   <hi rend="center">THE HALL OF REPRESENTATIVES, WASHINGTON.</hi>
                </p>
-               <p>OUR
+               <p><hi rend="smallcap">Our</hi>
 Engraving gives a view of the new Hall of Representatives in the
 Capitol at Washington.  The Hall is 139 feet long, 93 feet wide, and
 36 feet high.  The area of the room is 12,927 square feet, and it is
@@ -5100,7 +5096,7 @@ lounging occupy the floor of the chamber; newspapers appear to be the
 rule; and lads bearing letters and messages are running about
 continually, like so many rabbits in a warren.  Sometimes our
 legislators are noisy and excited; but no one ever saw any of them
-exhibiting in such poses as are depicted in our Illustration, which,
+exhibiting in such <hi rend="italic">poses</hi> as are depicted in our Illustration, which,
 looking at the comparative unconcern which appears to prevail, seem to
 be nothing extraordinary in the Transatlantic Assembly.</p>
 
@@ -5148,18 +5144,16 @@ to the princely fortune of the millionaire Clark.  She has just
 succeeded in doing this.</p>
 
             </div2>
-            <div2 id="iln38.1083.082" n="[The Latest News From America]" type="Article">
-               <head>[The Latest News From
-America]</head>
+            <div2 id="iln38.1083.082" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1083</biblScope> 
-                  <biblScope type="pages">p.328</biblScope> 
+                  <biblScope type="pages">p. 328</biblScope> 
                   <date value="1861-04-13">April 13, 1861</date> 
                <extent>4 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.
                </p>
                <p>The latest news from America
 throws no light on the obscurity of President Lincoln's movements, or
@@ -5190,7 +5184,7 @@ Confederacy, with their slaves and other property, shall be recognised
 and respected.  3, That the provision in regard to fugitive slaves
 shall extend to any slave lawfully carried from one State into
 another, and there escaping or taken away from his master.  4, That no
-bill or ex post facto law (by Congress or any State), and no law
+bill or <hi rend="italic">ex post facto</hi> law (by Congress or any State), and no law
 impairing or denying the right of property in negro slaves, shall be
 passed.  5, That the African slave trade shall be prohibited by such
 laws of Congress as shall effectually prevent the same.  6, The
@@ -5255,10 +5249,10 @@ The former was an easy victor.</p>
                <p>
                   <figure entity="v38p344" width="269" height="219">
                      <head>The Flag Adopted by the New Southern Confederacy of
-America.</head>
+America. [p. 344]</head>
                   </figure>
                </p>
-               <p>THE Congress sitting at Montgomery,
+               <p><hi rend="smallcap">The</hi> Congress sitting at Montgomery,
 Alabama, before its adjournment, adopted a report of the Special
 Committee appointed to devise a flag for the new Republic.  This was a
 subject of grave deliberation. Severa [sic] designs were sent in by
@@ -5353,7 +5347,7 @@ says:--"The Legislature last night again altered the design of the
 State flag.  It now consists of a blue field, with a white
 palmetto-tree in the middle, upright.  The white crescent in the upper
 flagstaff corner remains as before, the horns pointing upward. This
-may be regarded as final."</p>
+may be regarded as final.</p>
 
             </div2>
             <div2 id="iln38.1083.087" n="New York Newspaper Enterprise" type="Article">
@@ -5363,7 +5357,7 @@ Enterprise</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1083</biblScope> 
-                  <biblScope type="pages">p.353</biblScope> 
+                  <biblScope type="pages">p. 353</biblScope> 
                   <date value="1861-04-13">April 13, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>NEW YORK NEWSPAPER ENTERPRISE.--The leading New York daily papers
@@ -5371,7 +5365,7 @@ sell all at two cents, or one penny, per copy.  This does not,
 however, prevent their taking advantage of the quickest, and therefore
 most expensive methods of obtaining the news from all parts of the
 world. The telegraphs are almost monopolised by the newspapers, and
-sometimes more than  Â£500 is paid for telegrams in a day by a single
+sometimes more than  &#x00A3;500 is paid for telegrams in a day by a single
 journal. Notwithstanding the enormous daily cost of publishing a
 <title>Herald</title>, a <title>Tribune</title>, or a
 <title>Times</title>, these journals are yielding princely revenues to
@@ -5383,7 +5377,7 @@ their extensive advertising patronage.  The <title>Daily
 Herald</title> has the most extensive circulation.  The daily issue is
 variously estimated at from 70,000 to 90,000.  The daily issues of the
 <title>Times</title> and <title>Tribune</title> are probably about
-equal, through the <title>Tribune</title> has increased in circulation
+equal, though the <title>Tribune</title> has increased in circulation
 considerably since the election of Mr. Lincoln, having reached, it is
 said, 60,000 copies.  The publishers of the <title>Tribune</title>
 have commenced stereotyping their daily edition, having adopted this
@@ -5391,13 +5385,13 @@ plan for the weekly and semi-weekly several months ago.  The aggregate
 weekly circulation of the daily, weekly and semi-weekly
 <title>Tribune</title> is stated to be 640,000 copies.  The estimated
 profits of the <title>Herald</title> and <title>Tribune</title> are
-about 100,000 dollars, or  Â£21,000 each.  The <title>Evening
+about 100,000 dollars, or  &#x00A3;21,000 each.  The <title>Evening
 Post</title> is, perhaps, the most profitable of the old style
 four-paged journals. It divided, we notice, 69,000 dollars profits
 last year between its proprietors.  Some of the purely weekly papers
 and the "monthlies" have a wonderful circulation.  Of the former class
 the <title>New York Ledger</title>, the sale of which has, we believe,
-reached as high as 500,000 copies, stands first-while the
+reached as high as 500,000 copies, stands first--while the
 <title>Independent</title>, a politico-religious journal, has doubled
 its circulation during the past year, its weekly issue being now about
 70,000 copies.  Of the latter, <title>Harper's Magazine</title> leads
@@ -5405,18 +5399,17 @@ off with a circulation of about 200,000 copies of each
 issue.--<title>London American</title>.</p>
 
             </div2>
-            <div2 id="iln38.1085.088" n="[President Lincoln is Severely Indisposed]" type="Article">
-               <head>[President Lincoln is Severely
-Indisposed]</head>
+            <div2 id="iln38.1085.088" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1085</biblScope> 
-                  <biblScope type="pages">p.361</biblScope> 
+                  <biblScope type="pages">p. 361</biblScope> 
                   <date value="1861-04-20">April 20, 1861</date> 
                <extent>8 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
+	       NEWS.</hi><lb/>AMERICA.
                </p>
                <p>President Lincoln is
 severely indisposed, owing to incessant labour and anxiety.</p>
@@ -5457,8 +5450,8 @@ brought over the Honourable Dudley Mann, Commissioner to Europe from
 the Southern States.</p>
 
             </div2>
-            <div2 id="iln38.1085.089" n="[Joshua R. Giddings]" type="Article">
-               <head>[Joshua R. Giddings]</head>
+            <div2 id="iln38.1085.089" n="Canada" type="Article">
+               <head>Canada</head>
                <bibl>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -5468,7 +5461,7 @@ the Southern States.</p>
                   <date value="1861-04-20">April 20, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
-                  <hi rend="center">CANADA</hi>
+                  <hi rend="center">CANADA.</hi>
                </p>
                <p>.  . . . Joshua R. Giddings, a
 venerable Republican from Ohio, and a stanch Abolitionist, has been
@@ -5483,7 +5476,7 @@ America.  He will reside in Montreal.</p>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1085</biblScope> 
-                  <biblScope type="pages">p.361</biblScope> 
+                  <biblScope type="pages">p. 361</biblScope> 
                   <date value="1861-04-20">April 20, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>The city of Aurora, in Indiana, U.S., has been for some time
@@ -5503,9 +5496,9 @@ coal and resin.</p>
                   <date value="1861-04-20">April 20, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>The United States'
-navy at the present time consists of 99 ships-viz., 42 steamers and 57
+navy at the present time consists of 99 ships--viz., 42 steamers and 57
 sailing-vessels.  About 20 out of the 99 are service men-of-war of the
-modern stamp.  The particulars are as follows-viz., 10 line-of-battle
+modern stamp.  The particulars are as follows--viz., 10 line-of-battle
 ships, 10 sailing-frigates, 21 sailing sloops-of-war, 3 sailing
 briggs, 1 schooner, 6 store-ships, 7 first-class steam-propellers, 8
 second-class ditto, 15 steam gun-boats, 2 screw tenders, 3 first-class
@@ -5529,8 +5522,8 @@ ABROAD.</hi>
                </p>
                <p>The following telegrams were received through Mr.
 Reuter's office yesterday (Friday):--</p>
-               <p>AMERICA.--COMMENCEMENT
-OF HOSTILITITES--Londonderry, Thursday.--The Montreal Ocean Company's
+               <p><hi rend="smallcap">America.--Commencement
+of Hostilitites</hi>.--Londonderry, Thursday.--The Montreal Ocean Company's
 steamer Nova Scotian, Captain Ballantine, from Portland (Maine) on the
 13th inst., has arrived here.  She landed all mails except those for
 Liverpool.  The New York journals publish telegraphic intelligence
@@ -5558,19 +5551,17 @@ inst. state that the Southern Commissioners sailed thence for Europe
 on the 6th inst.</p>
 
             </div2>
-            <div2 id="iln38.1086.093" n="[President Lincoln's Administration]" type="Article">
-               <head>[President Lincoln's
-Administration]</head>
+            <div2 id="iln38.1086.093" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1086</biblScope> 
-                  <biblScope type="pages">p.384</biblScope> 
+                  <biblScope type="pages">p. 384</biblScope> 
                   <date value="1861-04-27">April 27, 1861</date> 
                <extent>5 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>AMERICA.
                </p>
                <p>President Lincoln's
 Administration is actively prosecuting naval preparations; and it is
@@ -5609,9 +5600,9 @@ Illustrated London News</title>
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY APRIL 27,
-1861</hi>
+1861.</hi>
                </p>
-               <p>A NOVELTY IN FIRE INSURANCE.--An American paper tells
+               <p><hi rend="smallcap">A Novelty in Fire Insurance</hi>.--An American paper tells
 a droll story:--"A clergyman at the West insured his manuscript
 sermons in the Aetna Insurance Company some ten years ago.  In moving
 into another house, his log hut, in which the manuscript sermons were
@@ -5635,7 +5626,7 @@ jury gave a verdict of 2000 dollars."</p>
                <p>
                   <hi rend="center">THE STATE OF AFFAIRS IN AMERICA.</hi>
                </p>
-               <p>IT is
+               <p><hi rend="smallcap">It</hi> is
 believed by those whose experience of men and institutions in the
 States of America is founded on personal observation that predictions
 uttered to-day by lookers-on on this side of the water may be utterly
@@ -5804,8 +5795,8 @@ concerned in it, and a subject of regret, and indeed of grief, to all
 thinking men in the old country.</p>
 
             </div2>
-            <div2 id="iln38.1087.096" n="[The startling news was received late on Thursday]" type="Article">
-               <head>[The startling news was received late on Thursday]</head>
+            <div2 id="iln38.1087.096" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -5814,8 +5805,7 @@ thinking men in the old country.</p>
                   <biblScope type="pages">p. 408</biblScope> 
                   <date value="1861-05-04">May 4, 1861</date> 
                <extent>9 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.
                </p>
                <p>The startling news was received
 late on Thursday se'nnight of the bombardment and surrender of Fort
@@ -5863,7 +5853,7 @@ Union, to the number of seventy-five thousand, and announcing that
 this force will probably be employed in the recapture of the forts
 which have been seized by the Southern revolutionists.  He likewise
 summons an extra session of Congress, but the senators and
-representatives are not to assemble till the 4th of July next-the
+representatives are not to assemble till the 4th of July next--the
 anniversary of the Declaration of Independence.  The proclamation
 treats the Secessionists as rebels, and commands all persons who are
 in arms against the United States to disperse within twenty days.  The
@@ -5945,7 +5935,7 @@ London News</title>
                   <hi rend="center">LONDON, SATURDAY, MAY 4,
 1861</hi>
                </p>
-               <p>THE UNITED STATES' ARMY.--The present strength of the
+               <p><hi rend="smallcap">The United States' Army</hi>.--The present strength of the
 Army is 18,122 men.  It consists of 19 regiments--10 regiments of
 infantry, averaging 10 companies of 70 men each; 4 of artillery,
 averaging 12 companies of about 50 men each; 1 of mounted rifles, 2 of
@@ -6061,7 +6051,7 @@ London News</title>
                   <hi rend="center">LOADING COTTON ON THE ALABAMA
 RIVER.</hi>
                </p>
-               <p>OUR Number of April 13 contained some Illustrations
+               <p><hi rend="smallcap">Our</hi> Number of April 13 contained some Illustrations
 of the methods of conveying cotton in India to the ports of shipment;
 and we follow up the subject--of special interest at the present
 time--by giving this week two companion Engravings illustrating the
@@ -6071,7 +6061,7 @@ Southern Confederate States of America.  On the Mississippi the bales
 are merely dragged and trundled over a plank on board ship. But on the
 Alabama, the banks of which are frequently high and steep, a more
 dashing style of embarkation is adopted.  Of our two Engravings the
-first represents the "shoot" in extenso, the other the mouth, whence
+first represents the "shoot" <hi rend="italic">in extenso</hi>, the other the mouth, whence
 the cotton-bales are projected on board the steam-boat. Mr. F. Bellew,
 the gentleman to whom we are indebted for our illustrations, supplies
 the following particulars of the manner in which cotton is taken on
@@ -6136,7 +6126,7 @@ singers]</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1087</biblScope> 
-                  <biblScope type="pages">p.424</biblScope> 
+                  <biblScope type="pages">p. 424</biblScope> 
                   <date value="1861-05-04">May 4, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>An American company of strolling singers, called the Alleghanians,
@@ -6152,22 +6142,20 @@ to those of a thimble. The savages who composed the auditory listened
 open-mouthed, and remained motionless from admiration when the march
 from "Norma" was performed.  At the end of the sitting one of the
 principal personages present rose, and gravely complimented the
-performers by saying, " We shall never forget you!"-<hi rend="italic">Entr' Acte</hi>.</p>
+performers by saying, " We shall never forget you!"--<hi rend="italic">Entr' Acte</hi>.</p>
 
             </div2>
-            <div2 id="iln38.1088.102" n="[The Latest News from America]" type="Article">
-               <head>[The Latest
-News from America]</head>
+            <div2 id="iln38.1088.102" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1088</biblScope> 
-                  <biblScope type="pages">p.432</biblScope> 
+                  <biblScope type="pages">p. 432</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
                <extent>12 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">AMERICA.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.
                </p>
                <p>The latest news from America
 is of a most serious character. The hostile feeling between the
@@ -6245,7 +6233,7 @@ Place]</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1088</biblScope> 
-                  <biblScope type="pages">p.432</biblScope> 
+                  <biblScope type="pages">p. 432</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>A fearful explosion has taken place at the oil-wells in Buchanan
@@ -6279,7 +6267,7 @@ Have Arrived From America]</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1088</biblScope> 
-                  <biblScope type="pages">p.433</biblScope> 
+                  <biblScope type="pages">p. 433</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>Agents have arrived from America in Europe to purchase rifled
@@ -6313,13 +6301,13 @@ Anderson</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1088</biblScope> 
-                  <biblScope type="pages">p.433</biblScope> 
+                  <biblScope type="pages">p. 433</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
                <extent>6 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">MAJOR ANDERSON.</hi>
                </p>
-               <p>MAJOR ANDERSON, of
+               <p><hi rend="smallcap">Major Anderson</hi>, of
 the United States' Army, lately in command of Fort Sumter, was born in
 Kentucky in September, 1805.  At the age of fifteen he entered the
 Military Academy at West Point, and graduated in 1825.  He joined the
@@ -6367,10 +6355,8 @@ General Beauregard, being the same offered by him on the 11th inst.,
 prior to the commencement of hostilities; and marched out of the fort
 on Sunday afternoon, the 14th inst., with colours flying and drums
 beating, bringing away the company and private property, and saluting
-my flag with fifty guns.   <lb/>(Signed), 	<hi rend="center">ROBERT ANDERSON,</hi>  
-                  <lb/>
-                  <hi rend="center">Major, 1st
-Artillery.</hi>
+my flag with fifty guns.   <lb/>(Signed),</p> 	<p
+rend="center">ROBERT ANDERSON,<lb/>Major, 1st Artillery.
                </p>
                <p>Major Anderson landed at the Battery, New York,
 on the 18th ult., and was received by an immense crowd.  His carriage
@@ -6406,7 +6392,7 @@ and men of position, reside.</p>
                <p>
                   <figure entity="v38p434" width="1018" height="1358">
                      <head>Major Anderson, Late Commandant of Fort Sumter
-Charleston Harbour--See preceding page.</head>
+Charleston Harbour--<hi rend="smallcap">See preceding page.</hi></head>
                   </figure>
                </p>
 
@@ -6429,9 +6415,8 @@ Fort Moultrie and the Channel During the Action of Friday April 12</head>
                </p>
 
             </div2>
-            <div2 id="iln38.1088.110" n="[The Most Important Exchange of Question]" type="Article">
-               <head>[The Most
-Important Exchange of Question]</head>
+            <div2 id="iln38.1088.110" n="London, Saturday, May 11, 1861" type="Article">
+               <head>London, Saturday, May 11, 1861</head>
                <bibl> 
                   <title>The Illustrated
 London News</title> 
@@ -6441,8 +6426,7 @@ London News</title>
                   <date value="1861-05-11">May 11,
 1861</date> 
                <extent>3 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">LONDON, SATURDAY, MAY 11,
+               <p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY 11,
 1861.  </hi>
                </p>
                <p>. . . The most important exchange of question and
@@ -6486,7 +6470,7 @@ speculation out of date.</p>
                   <hi rend="center">THE SECESSION OF VIRGINIA, AND THE AMERICAN CIVIL
 WAR.</hi>
                </p>
-               <p>THE new secession movement in the Border Slave
+               <p><hi rend="smallcap">The</hi> new secession movement in the Border Slave
 States, which may be called the second chapter of the American
 Revolution of 1861, has been followed so instantaneously by the
 commencement of a civil war, the destruction of arsenals and
@@ -6540,9 +6524,9 @@ In Delaware and Maryland the Union party were so strong that it was
 not thought necessary to take a plebiscitum on the subject; in
 Virginia, North Carolina, Kentucky, Tennessee, Missouri, and Arkansas
 the people voted secession down by large majorities.  But, although
-they repudiated secession as a policy, they did not repudiate it as a
-principle.  The Legislatures and extraordinary Conventions of these
-States laid it down that a sovereign State had a right to secede
+they repudiated secession as a <hi rend="italic">policy</hi>, they did not repudiate it as a
+<hi rend="italic">principle</hi>.  The Legislatures and extraordinary Conventions of these
+States laid it down that a sovereign State had a <hi rend="italic">right</hi> to secede
 whenever it saw fit, and, consequently, that any attempt on the part
 of the Federal Government to levy war on the seceded States would be a
 tyrannical and unconstitutional abuse of power.  Such was the position
@@ -6703,18 +6687,16 @@ consequence of the events which began to operate last winter, and are
 still passing before our eyes.</p>
 
             </div2>
-            <div2 id="iln38.1089.112" n="The Civil War in America" type="Article">
-               <head>The Civil War in
-America</head>
+            <div2 id="iln38.1089.112" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1089</biblScope> 
-                  <biblScope type="pages">p.456</biblScope> 
+                  <biblScope type="pages">p. 456</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
                <extent>6 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE CIVIL WAR IN AMERICA.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>THE CIVIL WAR IN AMERICA.
                </p>
                <p>No further
 collision between the hostile parties is announced.  Telegraphic
@@ -6754,7 +6736,7 @@ or will be compelled to take an oath not to serve during the war
 against the Southern Confederacy.</p>
                <p>President Lincoln has
 issued another proclamation calling for 42,000 volunteers--23,000 for
-the regular army and 18,000 seaman.  The Secretary of the Washington
+the regular army and 18,000 seamen.  The Secretary of the Washington
 Treasury has resolved to contract a loan of 14,000,000 dols.</p>
                <p>The Government has decided to establish an arsenal at once at Rock
 Island City, Illinois, in place of the Harper's Ferry Arsenal, just
@@ -6780,7 +6762,7 @@ Royal Proclamation]</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1089</biblScope> 
-                  <biblScope type="pages">p.456</biblScope> 
+                  <biblScope type="pages">p. 456</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>Tuesday's <title>Gazette</title> contains the Royal proclamation
@@ -6818,18 +6800,18 @@ Potomac</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1089</biblScope> 
-                  <biblScope type="pages">pp.458-460</biblScope> 
+                  <biblScope type="pages">pp. 458-460</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date>
                <extent>6 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">THE POTOMAC.</hi>
                </p>
-               <p>THIS river,
+               <p><hi rend="smallcap">This</hi> river,
 besides possessing great natural beauties, has at the present time
 attaching to it a political interest of no ordinary kind, on account
 of its being the great waterway to Washington.  The United States'
-steamers Anacosta and Pocahonta-the latter a vessel of about 1800
-tons-are now at the Washington Navy Yard, and are, it is said, amply
+steamers Anacosta and Pocahonta--the latter a vessel of about 1800
+tons--are now at the Washington Navy Yard, and are, it is said, amply
 sufficient to keep the navigation of the Potomac open against any
 force that can possibly be brought against it for some time to come.
 In this service the ships of war at Washington and in Chesapeake Bay
@@ -6915,20 +6897,20 @@ higher.</p>
                <p>
                   <figure entity="v38p466" width="1358" height="1018">
                      <head>The Baltimore and Ohio Railway: Tray Run
-Viaduct.</head>
+Viaduct. [p. 466]</head>
                   </figure>
                </p>
                <p>
                   <figure entity="v38p467a" width="868" height="588">
                      <head>The
-Baltimore and Ohio Railway.  Boardtree Hill.</head>
+Baltimore and Ohio Railway.  Boardtree Hill. [p. 467]</head>
                   </figure>
  <figure entity="v38p467b" width="868" height="588">
                      <head>The
-Baltimore and Ohio Railway.  Kingwood Tunnel.</head>
+Baltimore and Ohio Railway.  Kingwood Tunnel. [p. 467]</head>
                   </figure>
                </p>
-               <p>IN geographical and commercial
+               <p><hi rend="smallcap">In</hi> geographical and commercial
 importance this great railway is equal, and in magnificent and
 picturesque scenery superior, to any work of a similar kind on the
 continent of America.  By its means the great and busy East and the
@@ -7023,14 +7005,14 @@ been passed over on one occasion in about twenty minutes.</p>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no.
 1089</biblScope> 
-                  <biblScope type="pages">p.467</biblScope> 
+                  <biblScope type="pages">p. 467</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">MASS MEETING IN UNION-SQUARE, NEW YORK.</hi>
                </p>
-               <p>A
-MONSTER meeting in support of the Government in the present crisis of
+               <p><hi rend="smallcap">A
+Monster</hi> meeting in support of the Government in the present crisis of
 the nation was held in New York on Saturday, the 20th ult.  Such a
 demonstration had never before been witnessed in the United States.  A
 series of resolutions were proposed and unanimously adopted pledging
@@ -7039,7 +7021,7 @@ inviolate, and agreeing to the appointment of a committee of
 twenty-five to represent the city in the collection of funds and the
 transaction of such other business in aid of the Government as the
 public interests may require.  The following description of the
-meeting is given by the Times correspondent at New York:--"Early in
+meeting is given by the <title>Times</title> correspondent at New York:--"Early in
 the morning a Massachusetts regiment arrived, and was hurried on
 towards Philadelphia amid the cheers of the excited crowd. None seemed
 disposed to attend to any business except his country's. The ensigns
@@ -7058,7 +7040,7 @@ communication with the capital cut off.  At two o'clock the current
 began to move up town.  The great Union meeting took place in
 Union-square at three o'clock.  I have seen many large popular
 gatherings in Europe--the opening of the Great Exhibition, its closing
-days; the funeral of the Duke of Wellington; the fÃªte of the Eagles in
+days; the funeral of the Duke of Wellington; the f&#x00EA;te of the Eagles in
 Paris, for instance--but I have never seen elsewhere so great, so
 orderly, or so earnest a crowd as that of Saturday in Union-square.
 The people of this great town were there in full force, realising the
@@ -7087,7 +7069,7 @@ could say."</p>
                <p>
                   <figure entity="v38p471" width="549" height="457">
                      <head>The "Union" Mass Meeting held in Union-Square, New
-York on the 20th of April-See page 467.</head>
+York on the 20th of April--<hi rend="small">See page 467</hi>.</head>
                   </figure>
                </p>
 
@@ -7130,17 +7112,16 @@ Virginia.--See supplement, page 496.</head>
                </p>
 
             </div2>
-            <div2 id="iln38.1090.121" n="France" type="Article">
-               <head>France</head>
+            <div2 id="iln38.1090.121" n="Foreign and Colonial News" type="Article">
+               <head>Foreign and Colonial News</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1090</biblScope> 
-                  <biblScope type="pages">p.480</biblScope> 
+                  <biblScope type="pages">p. 480</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">FRANCE.</hi>
+               <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>FRANCE.
                </p>
                <p>. . .On Monday Mr. William
 Dayton had an audience of the Emperor Napoleon, to deliver to his
@@ -7163,7 +7144,7 @@ American Papers]</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1090</biblScope> 
-                  <biblScope type="pages">p.480</biblScope> 
+                  <biblScope type="pages">p. 480</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>It is stated in the American papers that arms have been smuggled
@@ -7307,18 +7288,16 @@ the South, the Democratic party, being now more earnest for the
 subjugation of the rebels than the Republicans.</p>
 
             </div2>
-            <div2 id="iln38.1090.124" n="[President Davis has Issued His First Message]" type="Article">
-               <head>[President Davis has Issued His First
-Message]</head>
+            <div2 id="iln38.1090.124" n="London, Saturday, May 25, 1861" type="Article">
+               <head>London, Saturday, May 25, 1861</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1090</biblScope> 
-                  <biblScope type="pages">p.484</biblScope> 
+                  <biblScope type="pages">p. 484</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">LONDON, SATURDAY, MAY 25, 1861.  </hi>
+               <p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY</hi> 25, 1861.
                </p>
                <p>. .
 . President Davis has issued his first Message.  It has the
@@ -7342,16 +7321,16 @@ immediate hostilities on a large scale between North and South are
 improbable, but that in the autumn the former will move down in full
 strength upon the Confederacy.  But we fear that in the meantime we
 shall hear much that will cause more pain in England than some of the
-American journalists are willing to let their readers know.  The New
-York Herald emphatically declares that England does not understand
+American journalists are willing to let their readers know.  The <title>New
+York Herald</title> emphatically declares that England does not understand
 America. Suppose we concede this, and answer that England does
-something better-she loves America, and expresses no feigned grief at
+something better--she loves America, and expresses no feigned grief at
 a crisis "which sends flying at each other's throats men who all utter
 the war-cry before which Napoleon went down at Waterloo."</p>
 
             </div2>
-            <div2 id="iln38.1090.125" n="The Post-Office Authorities" type="Article">
-               <head>The Post-Office Authorities</head>
+            <div2 id="iln38.1090.125" n="[The Post-Office Authorities]" type="Article">
+               <head>[The Post-Office Authorities]</head>
                <bibl>
                   <title>The Illustrated London News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
@@ -7377,14 +7356,14 @@ City of Washington</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1090</biblScope> 
-                  <biblScope type="pages">pp.486-487</biblScope> 
+                  <biblScope type="pages">pp. 486-487</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
                   <figure entity="v38p486-487" width="983" height="669">
                      <head>Birdseye View of the City of
-Washington, with the Capitol in the Foreground.--See supplement, page
-496.</head>
+Washington, with the Capitol in the Foreground.--<hi rend="small">See supplement, page
+496.</hi></head>
                   </figure>
                </p>
 
@@ -7396,13 +7375,13 @@ Virginia</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1090</biblScope> 
-                  <biblScope type="pages">p.496</biblScope> 
+                  <biblScope type="pages">p. 496</biblScope> 
                   <date value="1861-06-25"> May 25, 1861</date>
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">HARPER'S FERRY, VIRGINIA.</hi>
                </p>
-               <p>HARPER'S FERRY is
+               <p><hi rend="smallcap">Harper's Ferry</hi> is
 a small town built upon a narrow declivitous tongue of land lying
 directly at the confluence of the Potomac and Shenandoah Rivers.  As
 the mountain sides converge precipitously at all points there is but
@@ -7414,7 +7393,7 @@ through the notoriety it obtained in consequence of one John Brown, an
 Abolitionist enthusiast, having endeavoured to get up an insurrection
 here; secondly, because the Virginian Secessionists attacked the
 national armouries and arsenal located here.  These were abandoned by
-the Unites States' officers in charge, but not until they had brunt
+the Unites States' officers in charge, but not until they had burnt
 and destroyed nearly all the public property in their keeping.  No
 doubt we shall soon hear again of Harper's Ferry, as it is extremely
 probable that the recovery of that place will be one of the earliest
@@ -7451,7 +7430,7 @@ London News</title>
                   <hi rend="center">THE CITY OF
 WASHINGTON.</hi>
                </p>
-               <p>WASHINGTON, the capital of the United States
+               <p><hi rend="smallcap">Washington</hi>, the capital of the United States
 of North America, is situated on the Potomac, at the influx of the
 Anacotia, in the federal district of Columbia.  It is laid out with
 great regularity, on an extensive plan, and its public edifices are
@@ -7473,11 +7452,11 @@ marble, and is an immense mass of columns, pilasters, pediments, of
 the Corinthian order, all to be entirely crushed in effect by the huge
 dome now erecting over the centre portion.  The central portico and
 the left wings are portions of the old Capitol, above which was
-originally built a dome of dimensions in proportion with the fa&#x0109;ade
+originally built a dome of dimensions in proportion with the fa&#x00E7;ade
 below.  As great additions are now being made at each end of the
 original block, its length being doubled, the architects have thought
 that the same liberty might be taken in adding to the height of the
-upper part of the central portion-hence the injudicious attempt to get
+upper part of the central portion--hence the injudicious attempt to get
 effect by the construction of this monstrous dome, out of all
 proportion with that which supports it.  The site for this building
 was chosen by Washington himself.  On the 18th of September, 1793, he
@@ -7525,11 +7504,10 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 496</biblScope> 
                   <date value="1861-05-25"> May 25, 1861</date>
                <extent>14 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE AMERICAN REVOLUTION.  THE BORDER SLAVE
+               <p rend="center">THE AMERICAN REVOLUTION.<lb/><hi rend="small">THE BORDER SLAVE
 STATES.</hi>
                </p>
-               <p>IF we contemplate a map of the United States we
+               <p><hi rend="smallcap">If</hi> we contemplate a map of the United States we
 cannot fail to perceive that one of the most marked physical features
 of the country is a range of mountains running in a south-westerly
 direction from Maine to the northern parts of Alabama and Georgia.
@@ -7582,11 +7560,11 @@ is in the border Slave States where the action of the physical
 features of the Alleghanies [sic] on the political sympathies of the
 inhabitants is most distinctly traceable.</p>
                <p>Of the four border
-Slave States-viz., Maryland, Virginia, Kentucky, and Missouri-all
+Slave States--viz., Maryland, Virginia, Kentucky, and Missouri--all
 except Virginia have resolved on remaining in the Union; and in
 Virginia herself we hear that the people of the western counties are
 preparing to secede from the State, rather than secede with the State
-from the National Union.  Not that the people of the three adhering
+from the national Union.  Not that the people of the three adhering
 Slave States are well affected towards Mr. Lincoln's administration;
 far from it.  A great majority of them are violently opposed to the
 war Mr. Lincoln is levying on the seceded States.  They desire to see
@@ -7602,13 +7580,15 @@ in their respective States. We present a schedule of the population of
 these States, whereby the true proportions of the slaveowning interest
 therein will reveal itself:--</p>
                <p>
-                  <hi rend="center">Freemen.
-Slaves.	 Total.	Proportion of Slaves</hi> 
-                  <lb/>Maryland   	..
-..   599,846    .. 87,188	..   687,034	. . 1-8th.<lb/>
-Kentucky	..   ..   930,223    ..	225,490	..   1,155,713	. .
-1-5th. <lb/>Missouri	..   .. 1,058,352    ..	114,965	..
-1,173,317	. . 1-10th.</p>
+                  <table><row><cell>Freemen.</cell>
+<cell>Slaves.</cell>	 <cell>Total.</cell>	<cell>Proportion of Slaves</cell></row> 
+                  <row><cell>Maryland ..
+..</cell><cell>599,846 .. </cell><cell>87,188 .. </cell><cell>687,034 ..</cell> <cell>1-8th.</cell></row>
+<row><cell>Kentucky .. ..</cell><cell>930,223  ..
+</cell><cell>225,490	.. </cell><cell>1,155,713 ..</cell>
+<cell>1-5th.</cell></row><row><cell>Missouri .. ..
+</cell><cell>1,058,352 ..	</cell><cell>114,965 .. </cell><cell>
+1,173,317 ..</cell><cell> 1-10th.</cell></row></table></p>
                <p>This exhibits a very different
 social condition from that of South Carolina and Mississippi, where
 the slaves outnumber the freemen.  It cannot surprise us, therefore,
@@ -7657,11 +7637,11 @@ mother not only of United States' Presidents, but of Cotton State
 slaves.  Her population is more heavily charged with the slave element
 than are Kentucky and Maryland.</p>
                <p>
-                  <hi rend="center">Freemen.
-Slaves.	  Total.	Proportion of Slaves.</hi> 
-                  <lb/>Virginia   ..
-1,105,196    ..   490,887	  ..  1,596,083  .. One-third,
-nearly.</p>
+                  <table><row><cell>Freemen.</cell>
+<cell>Slaves.</cell><cell>Total.</cell>	<cell>Proportion of Slaves.</cell></row> 
+                  <row><cell>Virginia ..</cell>
+<cell>1,105,196 ..</cell><cell> 490,887 .. </cell><cell> 1,596,083 ..</cell> <cell>One-third,
+nearly.</cell></row></table></p>
                <p>The course of revolution is not destined to run
 smoothly in this ancient Commonwealth, named by Raleigh in honour of
 Queen Bess. Northern armies threaten to "crush it out" in the East;
@@ -7750,7 +7730,7 @@ forcing on the attention of mankind.</p>
                <p>
                   <figure entity="v38p498" width="2265" height="1662">
                      <head>The War Excitement in New York: Scene in Front of a
-Fire-Engine House.-See page 500.</head>
+Fire-Engine House.--<hi rend="small">See page 500.</hi></head>
                   </figure>
                </p>
 
@@ -7782,14 +7762,14 @@ Arkansas</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1090</biblScope> 
-                  <biblScope type="pages">p.499</biblScope> 
+                  <biblScope type="pages">p. 499</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
                   <figure entity="v38p499b" width="983" height="1458">
                      <head>Fort Smith, Arkansas, recently captured
 from the United States by the
-Secessionists</head>
+Secessionists.</head>
                   </figure>
                </p>
 
@@ -7801,13 +7781,13 @@ Virginia</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1090</biblScope> 
-                  <biblScope type="pages">pp.499-500</biblScope> 
+                  <biblScope type="pages">pp. 499-500</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date>
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">FORT MONROE, VIRGINIA.</hi>
                </p>
-               <p>THE
+               <p><hi rend="smallcap">The</hi>
 secession of Virginia from the Union was not a mere formality, but was
 soon followed by overt acts of hostility on the part of the
 Virginians.  Besides taking Harper's Ferry, and thus closing the
@@ -7847,14 +7827,14 @@ in New York</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1090</biblScope> 
-                  <biblScope type="pages">p.500</biblScope> 
+                  <biblScope type="pages">p. 500</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">FRONT OF A FIRE-ENGINE HOUSE IN NEW
 YORK.</hi>
                </p>
-               <p>THE peculiar constitution of the fire-engine
+               <p><hi rend="smallcap">The</hi> peculiar constitution of the fire-engine
 establishments in many of the towns of America, and in New York
 especially, is tolerably well known.  The fire brigades, composed of
 picked men of the city, are, in fact, well-organised clubs, and their
@@ -7878,15 +7858,14 @@ States</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1091</biblScope> 
-                  <biblScope type="pages">pp.503-504</biblScope> 
+                  <biblScope type="pages">pp. 503-504</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date>
                <extent>11 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE GROWTH OF THE UNITED STATES</hi>
+               <p rend="center">THE GROWTH OF THE UNITED STATES
                   <lb/>
-                  <hi rend="center">FROM 1780 TO 1860.</hi>
+                  <hi rend="small">FROM 1780 TO 1860.</hi>
                </p>
-               <p>ON
+               <p><hi rend="smallcap">On</hi>
 presenting our subscribers with a Map of the United States we think it
 not inopportune to give a slight sketch of the wonderful development
 of the United States in population and power during the interval which
@@ -7963,53 +7942,58 @@ The population of the United States in 1780 was commonly estimated at
 the United States was taken in 1790, and it has since been renewed at
 each successive decennial period. We present the main results of the
 population returns of the successive Censuses in schedules:--</p>
-               <p>        Aggregate        Percentage    <lb/>Date.	of Population.
-of Increase.	Slaves. <lb/>1790	3,929,328		. .
-  697,897 <lb/>1800	5,309,758		28	  896,849<lb/>
-1810	7,239,903		28	1,191,364 <lb/>1820
-9,638,166		33	1,538,064 <lb/>1830	12,858,670
-	29	2,009,050 <lb/>1840	17,063,353		31
-2,487,355 <lb/>1850	23,191,918		36	3,204,313<lb/>
-1860	31,429,891		35	3,952,801</p>
+               <p><table><row><cell>Date.</cell><cell>Aggregate of
+	       Population.</cell><cell>Percentage of
+	       Increase.</cell><cell>Slaves. </cell></row><row><cell>1790</cell><cell>3,929,328
+	       ..</cell><cell>697,897</cell></row>
+<row><cell>1800</cell><cell>5,309,758</cell><cell>28</cell><cell>896,849</cell></row>
+<row><cell>1810</cell><cell>7,239,903</cell><cell>28</cell><cell>1,191,364</cell></row>
+<row><cell>1820</cell><cell>9,638,166</cell><cell>33</cell><cell>1,538,064</cell></row>
+<row><cell>1830</cell><cell>12,858,670</cell><cell>29</cell><cell>2,009,050</cell></row>
+<row><cell>1840</cell><cell>17,063,353</cell><cell>31</cell><cell>2,487,355</cell></row>
+<row><cell>1850</cell><cell>23,191,918</cell><cell>36</cell><cell>3,204,313</cell></row>
+<row><cell>1860</cell><cell>31,429,891</cell><cell>35</cell><cell>3,952,801</cell></row></table></p>
                <p>The
 following official table, just issued from the Census Department at
 Washington, exhibits the population of the several States in
 1860:--</p>
-               <p>THE EASTERN OR NEW  <lb/>  ENGLAND STATES:--
-Population. <lb/>Maine  ..  ..  .. .. 628,276	 <lb/>New
-Hampshire .. .. .326,072 <lb/>Vermont ..  .. .. .. 315,116
- <lb/>Massachusetts  .. .1,231,065	 <lb/>Rhode Island .. ..
-..174,621 <lb/>Connecticut .. .. .. 460,151	 <lb/>MIDDLE
-STATES:-- <lb/>New York .. .. .. .3,887,542	 <lb/>New
-Jersey .. .. .. .672,031	 <lb/>Delaware* .. .. .. ..112,218
- <lb/>Pennsylvania .. .. 2,906,370	 <lb/>NORTH-WESTERN STATES:--
- <lb/>Ohio .. .. .. .. . 2,339,599	 <lb/>Michigan .. .. ..
-.. 749,112	 <lb/>Indiana .. .. .. ..1,350,479 <lb/>Illinois ..
-.. .. .1,711,753 <lb/>Wisconsin .. .. .. ..775,873 <lb/>Iowa
-.. .. .. .. .. .674,948 <lb/>Minnesota .. .. .. ..162,022<lb/>
-Kansas .. .. .. .. ..107,110 <lb/>PACIFIC STATES:--<lb/>
-California .. .. .. .380,015 <lb/>Oregon .. .. .. .. ..
-52,464 <lb/>THE TERRITORIES:-- <lb/>Colorado .. .. .. ..
-.34,197 <lb/>Dakotah .. .. .. .. .. 4,839 <lb/>Nebraska .. ..
-.. .. .28,842 <lb/>Nevada .. .. .. .. .. .6,857 <lb/>New
-Mexico .. .. .. ..93,541 <lb/>Utah .. .. .. .. .. ..40,295<lb/>
-Washington .. .. .. ..11,578 <lb/>DISTRICT OF COLUMBIA
-.75,075</p>
+              <p> <table><head>THE EASTERN OR NEW  <lb/>  ENGLAND STATES:--
+Population.</head> <row><cell>Maine  ..  ..  .. .. </cell><cell>628,276</cell></row><row><cell>New
+Hampshire .. .. .</cell><cell>326,072</cell></row> <row><cell>Vermont ..  .. .. .. </cell><cell>315,116</cell></row><row><cell>Massachusetts  .. .</cell><cell>1,231,065</cell></row><row><cell>Rhode Island .. ..
+..</cell><cell>174,621</cell></row><row><cell>Connecticut .. .. ..
+</cell><cell>460,151</cell></row></table><table><head>MIDDLE
+STATES:--</head><row><cell>New York .. .. ..
+.</cell><cell>3,887,542</cell></row><row><cell>New Jersey .. .. .. .</cell><cell>672,031</cell></row><row><cell>Delaware* .. .. .. ..</cell><cell>112,218</cell></row>
+<row><cell>Pennsylvania .. .. </cell><cell>2,906,370</cell></row></table><table><head>NORTH-WESTERN STATES:--</head>
+<row><cell>Ohio .. .. .. .. .
+</cell><cell>2,339,599</cell></row><row><cell>Michigan .. .. .. .. </cell><cell>749,112</cell></row><row><cell>Indiana .. .. .. ..</cell><cell>1,350,479</cell></row><row><cell>Illinois ..
+.. .. .</cell><cell>1,711,753</cell></row><row><cell>Wisconsin .. .. .. ..</cell><cell>775,873</cell></row><row><cell>Iowa
+.. .. .. .. .. .</cell><cell>674,948</cell></row><row><cell>Minnesota .. .. .. ..</cell><cell>162,022</cell></row>
+<row><cell>Kansas .. .. .. .. ..</cell><cell>107,110</cell></row></table><table><head>PACIFIC STATES:--</head>
+<row><cell>California .. .. .. .</cell><cell>380,015</cell></row><row><cell>Oregon .. .. .. .. ..</cell>
+<cell>52,464</cell></row></table><table><head>THE TERRITORIES:--</head><row><cell>Colorado .. .. .. ..
+.</cell><cell>34,197</cell></row><row><cell>Dakotah .. .. .. .. .. </cell><cell>4,839</cell></row><row><cell>Nebraska .. ..
+.. .. .</cell><cell>28,842</cell></row><row><cell>Nevada .. .. .. .. .. .</cell><cell>6,857</cell></row><row><cell>New
+Mexico .. .. .. ..</cell><cell>93,541</cell></row><row><cell>Utah .. .. .. .. .. ..40,295</cell></row><row><cell>Washington .. .. .. ..</cell><cell>11,578</cell></row> <row><cell>DISTRICT OF COLUMBIA
+.</cell><cell>75,075</cell></row></table></p>
                <p>
-                  <hi rend="center">SOUTHERN STATES.</hi> 
-                  <lb/>Free.
-Slave.    Total. <lb/>Maryland .. .. 599,846 .. .87,188 ..
-..687,034 <lb/>Virginia .. .1,105,196 .. 490,887 .. 1,596,083<lb/>
-Kentucky .. .. 930,223 .. 225,490 .. 1,135,713 <lb/>Missouri
-.. .1,058,352 .. 114,965 .. 1,173,317 <lb/>North Carolina 661,586
-.. 331,081 .. ..992,667 <lb/>Tennessee .. ..834,063 .. 275,784 ..
-1,109,847 <lb/>Arkansas .. .. 324,323 .. 111,104 .. ..435,427
- <lb/>South Carolina 301,271 .. 402,541 .. ..703,812<lb/>
-Georgia .. .. .595,097 .. 462,230 .. 1,057,327 <lb/>Florida ..
-.. ..78,686 .. .61,753 .. ..964,296 <lb/>Mississippi .. 354,699 ..
-436,696 .. ..791,395 <lb/>Louisiana .. ..376,913 .. 332,520 ..
-..709,433 <lb/>Texas .. .. .. 420,651 .. 180,388 ..
-..601,039</p>
+                  <table><head>SOUTHERN STATES.</head>
+                  <row><cell>Free.</cell><cell>
+Slave.</cell><cell> Total.</cell></row> <row><cell>Maryland ..</cell><cell>599,846 .. </cell><cell>87,188 ..
+</cell><cell>687,034</cell></row><row><cell>Virginia .. </cell><cell>1,105,196 .. </cell><cell>490,887 .. </cell><cell>1,596,083</cell></row><row><cell>Kentucky .. </cell><cell>930,223 .. </cell><cell>225,490 .. </cell><cell>1,135,713 </cell></row><row><cell>Missouri
+.. </cell><cell>1,058,352 .. </cell><cell>114,965 ..
+</cell><cell>1,173,317 </cell></row><row><cell>North Carolina </cell><cell>661,586
+.. </cell><cell>331,081 .. </cell><cell>992,667 </cell></row><row><cell>Tennessee .. </cell><cell>834,063 .. </cell><cell>275,784 ..
+</cell><cell>1,109,847 </cell></row><row><cell>Arkansas .. </cell><cell>324,323 .. </cell><cell>111,104 .. ..</cell><cell>435,427
+ </cell></row><row><cell>South Carolina </cell><cell>301,271 .. </cell><cell>402,541 .. </cell><cell>703,812</cell></row><row><cell>Georgia .. </cell><cell>595,097 .. </cell><cell>462,230 .. </cell><cell>1,057,327 </cell></row><row><cell>Florida ..
+</cell><cell>78,686 .. </cell><cell>61,753 ..
+</cell><cell>140,439</cell></row><row><cell>Alabama
+..</cell><cell>529,164 .. </cell><cell>435,132 .. </cell><cell>924,296</cell></row><row><cell>Mississippi .. </cell><cell>354,699 ..
+</cell><cell>436,696 .. </cell><cell>791,395
+</cell></row><row><cell>Louisiana .. </cell><cell>376,913 ..
+</cell><cell>332,520 .. </cell><cell>709,433
+	       </cell></row><row><cell>Texas .. </cell><cell>420,651
+	       .. </cell><cell>180,388 .. </cell><cell>601,039</cell></row></table></p>
                <p>The predominant interest of the Unites States,
 both North and South, is agriculture and the raising of live stock.
 In the North the grains and fruits of the north temperate latitudes
@@ -8039,7 +8023,7 @@ the Richest Gold-mines]</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1091</biblScope> 
-                  <biblScope type="pages">p.504</biblScope> 
+                  <biblScope type="pages">p. 504</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>The San Francisco papers say that the richest gold-mines yet
@@ -8153,7 +8137,7 @@ with a cargo of tobacco for Europe.  She was loaded at Richmond, and
 is valued at 150,000 dols.  The vessel proved to be the Arago,
 belonging to Bath, Maine; and though carrying the United States' flag
 she was seized, no doubt on the double charge of running the blockade
-and of treason-in assisting the rebel States, she being a Northern
+and of treason--in assisting the rebel States, she being a Northern
 ship.  Commodore Stringham put a prize crew on board, and sent her on
 her way to New York, where she will probably be confiscated.  This is
 the first prize taken by the United States' blockading squadron.</p>
@@ -8217,17 +8201,16 @@ officer of the squadron appointed to blockade it.  It does not,
 however, appear to be intended that such notice shall be officially
 communicated to the Governments of neutral nations, or to their
 representatives in this country.</p>
-               <p>2.  That fifteen days from
+               <p>2. That fifteen days from
 the beginning of the effective blockade will be allowed in every case
 for neutral vessels already in port to put to sea.</p>
-               <p>3.  That
+               <p>3. That
 until the fifteen days have expired neutral vessels will be allowed to
 come out with  or without cargoes, and whether their cargoes were
 shipped before or after the commencement of the blockade.</p>
-               <p>4.
-That except in the last-mentioned particular the ordinary rules of
-blockade will be strictly enforced.</p>
-               <p>6.[sic]  The armed
+               <p>4. That except in the last-mentioned particular the
+	       ordinary rules of blockade will be strictly enforced.</p>
+               <p>6. The armed
 vessels of the neutral States will have the right to enter and depart
 from the blockaded ports.</p>
                <p>I continue to be of opinion that,
@@ -8401,12 +8384,11 @@ white-headed clergyman was called upon to say prayers, which he did
 upstanding, with outstretched hands and closed eyes, by the side of
 the Speaker. The prayer was long and sulphureous-one more pregnant
 with gunpowder I never heard, nor could ought like it have been heard
-since</p>
-               <p>
-                  <hi rend="center">Pulpit, drum ecclesiastic,</hi>
-                  <lb/>
-                  <hi rend="center">Was beat with fist instead of a
-stick.</hi>
+since
+               <q><lg type="stanza">
+                  <l>Pulpit, drum ecclesiastic,</l>
+                  <l>Was beat with fist instead of a
+stick.</l></lg></q>
                </p>
                <p>The rev. gentleman prayed that the Almighty
 might be pleased to inflict on the arms of the United States such a
@@ -8455,14 +8437,14 @@ States Squadron</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1091</biblScope> 
-                  <biblScope type="pages">p.509</biblScope> 
+                  <biblScope type="pages">p. 509</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, JUNE 1, 1861.</hi>
                </p>
                <p>CAPTURE BY THE UNITED STATES  SQUADRON.--A despatch, dated New
-York, May 18, states that the ship Argo, bound from Richmond,
+York, May 18, states that the ship Argo[sic], bound from Richmond,
 Virginia, for Europe, with a cargo of tobacco, had been captured by
 the blockading squadron of the Federal Government.  It is rumoured in
 Liverpool that several cotton ships had also been captured by the
@@ -8477,7 +8459,7 @@ Flag]</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1091</biblScope> 
-                  <biblScope type="pages">p.513</biblScope> 
+                  <biblScope type="pages">p. 513</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>A vessel displaying the flag of the Confederate States of America
@@ -8492,13 +8474,12 @@ Future of Cotton</head>
 News</title> 
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1092</biblScope> 
-                  <biblScope type="pages">pp.519-520</biblScope> 
+                  <biblScope type="pages">pp. 519-520</biblScope> 
                   <date value="1861-06-08">June 8, 1861</date>
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE FUTURE OF COTTON.</hi>
+               <p rend="center">THE FUTURE OF COTTON.
                </p>
-               <p>THAT
+               <p><hi rend="smallcap">That</hi>
 which feeds the industry of between three and four millions of our
 fellow-countrymen can hardly become an uninteresting topic.  Present
 circumstances, however, invest it with extraordinary interest.
@@ -8509,20 +8490,19 @@ that the warning rung into our ears by the civil war in America is far
 too distinct to be reasonably set at nought; and that, unless we take
 effectual steps to secure ourselves and our interests against sudden
 ruin, we shall have none but ourselves to blame for the ravages of so
-fearful a calamity should it unhappily overtake us. <pb n="520"/>  . .
-. If we are content to leave things for the future as they are
-present-to receive cotton from the slaveholders of the Secession
+fearful a calamity should it unhappily overtake us. <pb n="520"/> ...
+If we are content to leave things for the future as they are at
+present--to receive cotton from the slaveholders of the Secession
 States in the same proportion as we have been accustomed to do, or
-even as we did no later back than 1860, when we imported . . . 80 per
+even as we did no later back than 1860, when we imported ... 80 per
 cent of our whole supply from America, 15 per cent from India, and 5
-per cent from all other sources--. . . we must make up our minds to
+per cent from all other sources--... we must make up our minds to
 endure all the disadvantages, as well as to risk all the misfortunes,
-which inevitably beset such an unwise and improvident arrangement. . .
-. The Southern States of America are the stronghold of negro slavery,
+which inevitably beset such an unwise and improvident arrangement.... The Southern States of America are the stronghold of negro slavery,
 and cotton is the food upon which it principally thrives.  Those
 States have recently formed themselves into a Confederate Republic,
 the object of which is to conserve and to extend the slave system.
-Now, quite apart from the interests of the slave themselves, and
+Now, quite apart from the interests of the slaves themselves, and
 looking exclusively to those of freedom, morality, and religion, it
 does seem to us to be an obvious duty, a duty enforced upon us just
 now by the arrangements of Divine Providence, that we should
@@ -8549,13 +8529,10 @@ a safe and early transition to a sounder social basis. . .
                   <biblScope type="pages">pp. 520-521</biblScope> 
                   <date value="1861-06-08">June 6, 1861</date> 
                <extent>40 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE CIVIL WAR IN AMERICA.</hi>
+               <p rend="center">THE CIVIL WAR IN AMERICA.<lb/>
+                  <hi rend="small">OPERATIONS ON LAND.</hi>
                </p>
-               <p>
-                  <hi rend="center">OPERATIONS ON LAND.</hi>
-               </p>
-               <p>ON the night of the 23rd
+               <p><hi rend="smallcap">On</hi> the night of the 23rd
 ult. a considerable portion of the Federal Army concentrated in
 Washington, and consisting in its in entirety of 25,000 volunteers and
 5000 regulars, made their first step in advance, and crossed the
@@ -8600,8 +8577,8 @@ pieces of cannon.  A battle was anticipated near this point.</p>
                <p>The Federal Fleet
 in the Chesapeake has not been idle.  Commodore Stringham, of the
 frigate Minnesota, stationed off Hampton Roads, reports the capture of
-thirteen vessels, chiefly laden with tobacco-among others of [sic] the
-British barque Hiawatha-which had delayed till the fifteen days' grace
+thirteen vessels, chiefly laden with tobacco--among others of [sic] the
+British barque Hiawatha--which had delayed till the fifteen days' grace
 had expired.  The steamer Freeborn on the 19th ult. destroyed a
 Secessionist battery on Sewell's Point, at the mouth of Elizabeth
 River.  Again no lives were lost, the Confederates scattering in all
@@ -8612,8 +8589,8 @@ Confederate Army at Alexandria on board.</p>
 the blockade of Charleston has been raised almost as soon as
 instituted.  The blockading vessel, Niagara, has sped southward, and
 is supposed to be off Savannah.  Several British ships have arrived in
-port, and are obtaining cotton freights at the enormous rate of 21/4d.
-per pound.</p>
+port, and are obtaining cotton freights at the enormous rate of 2&#x00BC;d.
+per pound.</p><!-- 00BC should display as 1/4, but print style -->
                <p>No new Southern seaport has been sealed up during
 the week; but a New York paper gives a list of thirty-nine vessels
 ready for blockading purposes, of which eighteen are regular
@@ -8654,13 +8631,13 @@ he had said, "Before that letter reaches Montgomery, Sumter will be
 evacuated."   In justification of Mr. Seward, it is said that the
 evacuation of both Sumter and Pickens had been agreed upon by the
 Cabinet, and that their views afterwards underwent a change when they
-found Northern pubic opinion was hostile to this policy.  Congress
+found Northern public opinion was hostile to this policy.  Congress
 adjourned on the 22nd ult. till July 20. The low Tariff Bill had
 passed.</p>
                <p>Fugitives from the far South describe business at
 Charleston as almost annihilated.  Coin was very scarce. Gold only to
 be had at the banks for the payment of duties, and there at 10 per
-cent premium.  Butter was fetching 75 cents per pound (3s. 1 1/2 d.);
+cent premium.  Butter was fetching 75 cents per pound (3s. 1&#x00BD;d.);
 ham, beef, and mutton from 25 to 30 cents; and flour, 13 dollars per
 barrel.  From Savannah the reports are similar.  Bacon, usually at 11
 cents per pound, had risen to 18 cents.  Provisions were pouring
@@ -8794,9 +8771,9 @@ the 2nd Rifle Brigade, are the principal officers.  Companies, of the
 same nationality, from Troy and Canada have been mustered into its
 ranks; and there is also a "Bannockburn Battalion," composed of Scots,
 and under the command of James C. Robertson, late of her Majesty's
-Forces in India.  On the banner of the legion are the words- "We come
+Forces in India.  On the banner of the legion are the words--"We come
 to redeem our forefathers," to which the President referred in his
-interview with Colonel Austin as follows:- "This legion has a
+interview with Colonel Austin as follows:--"This legion has a
 political significance which we cannot overlook.  It and its motto
 will be received with cordiality by this nation.  Go ahead, Colonel,
 and recruit!"</p>
@@ -8831,10 +8808,10 @@ Great Eastern</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1092</biblScope> 
-                  <biblScope type="pages">p.521</biblScope> 
+                  <biblScope type="pages">p. 521</biblScope> 
                   <date value="1861-06-08">June 8, 1861</date> 
                <extent>1 paragraph</extent></bibl>
-               <p>RETURN OF THE GREAT EASTERN.--The great ship, which sailed from the
+               <p><hi rend="smallcap">Return of the Great Eastern</hi>.--The great ship, which sailed from the
 quarantine, New York, at six o'clock on the morning of May 25, arrived
 off the bar at the mouth of the Mersey about nine o'clock on Monday
 evening.  It was announced that she would make her first appearance on
@@ -8872,8 +8849,8 @@ families.</p>
                   <biblScope type="pages">p. 541</biblScope> 
                   <date value="1861-06-08">June 8, 1861</date> 
                <extent>1 paragraph</extent></bibl>
-               <p>AMERICAN
-PRIVATEERING.--The following letter from Lord John Russell to the
+               <p><hi rend="smallcap">American
+Privateering</hi>.--The following letter from Lord John Russell to the
 Lords of the Admiralty was laid before the House of Commons on Monday
 evening:--"Foreign Office, June 1, 1861.  My Lords,--Her Majesty's
 Government are, as you are aware, desirous of observing the strictest
@@ -8889,8 +8866,8 @@ orders in conformity with the principles above stated forthwith be
 addressed to all proper authorities in the United Kingdom, and to her
 Majesty's naval and other authorities in all quarters beyond the
 United Kingdom, for their guidance in the circumstances.  I have,
-&#x0026;c., (Signed) J. RUSSELL."  Similar letters have been addressed to
-the Secretaries of State for India, War, and the Colonies.-The French
+&#x0026;c., (Signed) <hi rend="smallcap">J. Russell</hi>."  Similar letters have been addressed to
+the Secretaries of State for India, War, and the Colonies.--The French
 Government has determined to act on their old law, which is in
 substance that no privateers can sell their prizes in French ports, or
 remain there for more than twenty-four hours.</p>
@@ -8922,7 +8899,7 @@ Colonial News</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1093</biblScope> 
-                  <biblScope type="pages">p.544</biblScope> 
+                  <biblScope type="pages">p. 544</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
                <extent>5 paragraphs</extent></bibl>
                <p>
@@ -8957,7 +8934,7 @@ America</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1093</biblScope> 
-                  <biblScope type="pages">pp.544-545</biblScope> 
+                  <biblScope type="pages">pp. 544-545</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date>
                <extent>36 paragraphs</extent></bibl>
                <p>
@@ -9169,7 +9146,7 @@ in suppressing the insurrection.  Union meetings were being held
 almost nightly in all the principal towns and cities. Speeches and
 resolutions are invariably in favour of a vigorous war policy.
 Efforts were being made to organise a company of volunteers in San
-Francisco, to tender their service to the Government [sic]  A similar
+Francisco, to tender their service to the Government[.]  A similar
 organisation was being made at Sacramento.</p>
 
             </div2>
@@ -9180,14 +9157,13 @@ England</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1093</biblScope> 
-                  <biblScope type="pages">p.546</biblScope> 
+                  <biblScope type="pages">p. 546</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
                <extent>3 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">MR. ADAMS, UNITED STATES' MINISTER TO
-ENGLAND.</hi>
+	       <p rend="center">MR. ADAMS, UNITED STATES'<lb/> <hi
+	       rend="small">MINISTER TO ENGLAND.</hi>
                </p>
-               <p>MR. CHARLES FRANCIS ADAMS, of Massachusetts, the
+               <p><hi rend="smallcap">Mr. Charles Francis Adams</hi>, of Massachusetts, the
 newly-appointed Minister of the Federal States of America to this
 country, has peculiar claims to hold this important diplomatic office.
  His grandfather, Mr. John Adams, who was elected the second President
@@ -9207,21 +9183,19 @@ Mr. Adams is from a photograph by John and Charles Watkins,
 Parliament-street.</p>
 
             </div2>
-            <div2 id="iln38.1093.148" n="[The Emperor of the French]" type="Article">
-               <head>[The Emperor of the
-French]</head>
+            <div2 id="iln38.1093.148" n="London, Saturday, June 15, 1861" type="Article">
+               <head>London, Saturday, June 15, 1861</head>
                <bibl> 
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1093</biblScope> 
-                  <biblScope type="pages">p.548</biblScope> 
+                  <biblScope type="pages">p. 548</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">LONDON, SATURDAY, JUNE 15, 1861.</hi>
+               <p rend="center"><hi rend="italic">LONDON, SATURDAY, JUNE</hi> 15, 1861.
                </p>
-               <p>. .
-.The Emperor of the French has issued a proclamation on the subject of
+               <p>...The Emperor of the French has issued a
+               proclamation on the subject of
 America.  His Majesty declares that, considering the state of peace
 between France and the United States, he resolves to be neutral in the
 strife between the Government of the Union and the States claiming to
@@ -9260,17 +9234,14 @@ America</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1093</biblScope> 
-                  <biblScope type="pages">pp.563-564</biblScope> 
+                  <biblScope type="pages">pp. 563-564</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date>
                <extent>14 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE CIVIL WAR IN AMERICA.</hi>
+               <p rend="center">THE CIVIL WAR IN AMERICA.
+                  <hi rend="italic">(From our Special Artist and Correspondent.)</hi>
                </p>
-               <p>
-                  <hi rend="center">(From our Special Artist and Correspondent.)</hi>
-               </p>
-               <p>NEW YORK, May 24.</p>
-               <p>MY first letter must necessarily be
+               <p><hi rend="smallcap">New York</hi>, May 24.</p>
+               <p><hi rend="smallcap">My</hi> first letter must necessarily be
 somewhat brief, as the short time I have allowed myself here has been
 occupied in looking about me and making the few sketches you will
 receive with this.  When I reach the head-quarters of the Federal army
@@ -9348,7 +9319,7 @@ Astounded at this in-</p>
                <p>
                   <figure entity="v38p563a" width="1251" height="1470">
                      <head>Colonel
-Ellsworth's Volunteers Regiment (The New York Firemen Zouaves).--See
+Ellsworth's Volunteer Regiment (The New York Firemen Zouaves).--See
 next page.</head>
                   </figure>
                </p>
@@ -9373,8 +9344,7 @@ morning.  I'm interested in blue noses"--these I afterwards learnt to
 be a species of potato--"and I conclude, after all, I wunt tell yer my
 name, consarn it."  To this last resolve I objected, and, hoping to
 draw him out, I hazarded the suggestion that possibly he was ashamed
-of it.  "Ashamed on it, stranger! no I aint. But, as you're a B
-itisher [sic], I didn't want to go and urt yer feelings.  My name is
+of it.  "Ashamed on it, stranger! no I aint. But, as you're a B[r]itisher, I didn't want to go and urt yer feelings.  My name is
 Bunker, Sirre--Bunker-hill, Sirre--war we wallopped yer.  Now don't
 look almighty skeared;" and with this avowal, and more converse, we
 journeyed on to New York.</p>
@@ -9389,8 +9359,8 @@ been turned into the head-quarters of Anderson's Zouaves , Wilson's
 Boys, the Empire City Guard, and hosts of corps too numerous or too
 eccentric in their names for me to recollect.  Verily, a cosmopolitan
 army is assembled here.  As one walks he is jostled by soldiers
-dressed in the uniforms of the Zouaves de la Garde, the Chasseurs &#x00E0; 
-Pied, Infanterie de la Ligne, and other French regiments--so great,
+dressed in the uniforms of the Zouaves de la Garde, the Chasseurs
+&#x00E0; Pied, Infanterie de la Ligne, and other French regiments--so great,
 apparently, is the admiration of our cousins for everything Gallic.  I
 must confess I should prefer to see more nationality.  In justice,
 however, to the men, I cannot do otherwise than express my unqualified
@@ -9428,13 +9398,13 @@ Zouaves</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1093</biblScope> 
-                  <biblScope type="pages">p.564</biblScope> 
+                  <biblScope type="pages">p. 564</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">THE NEW YORK ZOUAVES.</hi>
                </p>
-               <p>THE advance of
+               <p><hi rend="smallcap">The</hi> advance of
 the Federal troops from Washington on Alexandria on the night of the
 23rd ult. was marked by a sad event--the assassination of a young man
 of great promise, who had already achieved fame--Colonel Ellsworth.
@@ -9463,7 +9433,7 @@ Slave]</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1093</biblScope> 
-                  <biblScope type="pages">p.565</biblScope> 
+                  <biblScope type="pages">p. 565</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>Anderson, the fugitive slave, arrived at Liverpool on Thursday
@@ -9496,14 +9466,14 @@ Monroe</head>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope> 
                   <biblScope type="issue">no. 1094</biblScope> 
-                  <biblScope type="pages">p.568</biblScope> 
+                  <biblScope type="pages">p. 568</biblScope> 
                   <date value="1861-06-22">June 22, 1861</date> 
                <extent>2 paragraphs</extent></bibl>
                <p>
                   <hi rend="center">EMBARKATION OF NEW YORK ZOUAVES FOR FORT
 MONROE.</hi>
                </p>
-               <p>UNDER the heading of "Departure of the Advanced
+               <p><hi rend="smallcap">Under</hi> the heading of "Departure of the Advanced
 Guard" the <title>New York Daily Tribune</title> thus describes the
 shipment of the 5th Regiment of New York Zouaves, whose march through
 Broadway forms the subject of our Special Artist's Illustration on the
@@ -9726,13 +9696,10 @@ maintain a strict neutrality in the American civil war.</p>
                   <biblScope type="pages">pp. 571-572</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
                <extent>9 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE CIVIL WAR IN AMERICA</hi>
+               <p rend="center">THE CIVIL WAR IN AMERICA
+                  <hi rend="small">THE SOUTHERN STATES. </hi>
                </p>
-               <p>
-                  <hi rend="center">THE SOUTHERN STATES. </hi>
-               </p>
-               <p>THE <title>Times</title>
+               <p><hi rend="smallcap">The</hi> <title>Times</title>
 continues to receive letters from its Special Correspondent in the
 Southern States of America.  On the 23rd ult. Mr. Russell writes as
 follows from New Orleans:--</p>
@@ -9828,7 +9795,7 @@ fundamental unsoundness.  The floor was carpet-</p>
                <p>
                   <figure entity="v38p571" width="1966" height="1454">
                      <head>The Civil War in America: Harper's
-Ferry, Virginia</head>
+Ferry, Virginia.</head>
                   </figure>
                   <pb n="572"/>
                </p>
@@ -9851,8 +9818,8 @@ by unknown statesmen and warriors and we all slumbered and snored in
 friendly concert till morning.</p>
 
             </div2>
-            <div2 id="iln38.1094.157" n="[Though Fort Pickens is not to be Attacked]" type="Article">
-               <head>[Though Fort Pickens is not to be Attacked]</head>
+            <div2 id="iln38.1094.157" n="London, Saturday, June 22, 1861" type="Article">
+               <head>London, Saturday, June 22, 1861</head>
                <bibl>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope>
@@ -9860,8 +9827,7 @@ friendly concert till morning.</p>
                   <biblScope type="pages">p. 572</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">LONDON, SATURDAY, JUNE 22, 1861.</hi>
+               <p rend="center"><hi rend="italic">LONDON, SATURDAY, JUNE</hi> 22, 1861.
                </p>
                <p>...Though Fort Pickens is not to be
 attacked by the American Secessionists, they take much pains to
@@ -9912,11 +9878,11 @@ the trying times that have yet to come.</p>
                <p>
                   <figure entity="v38p574a" width="864" height="627">
                      <head>The Civil War in America. Gallant Charge of Federal
-Cavalry into Fairfax Courthouse, Virginia.-From a Sketch by our
+Cavalry into Fairfax Courthouse, Virginia.--From a Sketch by our
 Special Artist.</head>
                   </figure>
                </p>
-               <p>THERE is no intelligence of particular interest from the Federal Army 
+               <p><hi rend="smallcap">There</hi> is no intelligence of particular interest from the Federal Army 
 at Alexandria, though alarms
 were frequent, and a few skirmishes had taken place.  Our Special
 Artist in America has sent us several Sketches from the seat of war,
@@ -9937,7 +9903,7 @@ enemy.</p>
                <p>
                   <hi rend="center">RICHMOND, VIRGINIA.</hi>
                </p>
-               <p>THE Southern Congress will meet on the 20th
+               <p><hi rend="smallcap">The</hi> Southern Congress will meet on the 20th
 of July next at Richmond, Virginia, the principal city of the Old
 Dominion, and which for the time being takes rank as the capital of
 the Confederate States of America.  This city and river port is
@@ -9948,7 +9914,7 @@ with which it is</p>
                   <figure entity="v38p574b" width="856" height="558">
                      <head>New York
 Fireman Zouaves Turning out to Support Pickets between Alexandria and
-Fairfax Courthouse, Virginia.-From a Sketch by our Special
+Fairfax Courthouse, Virginia.--From a Sketch by our Special
 Artist.</head>
                   </figure>
                   <pb n="575"/>
@@ -9973,8 +9939,8 @@ college, and various schools and public libraries.  The population of
 Richmond is about 30,000.</p>
 
             </div2>
-            <div2 id="iln38.1094.159" n="" type="Article">
-               <head/>
+            <div2 id="iln38.1094.159" n="Railroad-Battery" type="Article">
+               <head>Railroad-Battery</head>
                <bibl>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope>
@@ -9982,8 +9948,7 @@ Richmond is about 30,000.</p>
                   <biblScope type="pages">p. 575</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
                <extent>2 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">RAILROAD-BATTERY.</hi>
+               <p rend="center">RAILROAD-BATTERY.
                </p>
                <p>A
 SINGULAR engine of war has just been completed in the United States.
@@ -10009,7 +9974,7 @@ Mini&#x00E9; rifles, and with seamen to work the cannon.</p>
                   <title>The Illustrated London News</title>
                   <biblScope type="volume">vol. 38</biblScope>
                   <biblScope type="issue">no. 1094</biblScope>
-                  <biblScope type="pages">p.575 </biblScope>
+                  <biblScope type="pages">p. 575 </biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
@@ -10048,14 +10013,14 @@ by Dickinson.</head>
                <p>
                   <hi rend="center">STEAM-BATTERY.</hi>
                </p>
-               <p>A STEAM-GUN,
+               <p>A <hi rend="smallcap">Steam-Gun</hi>,
 which, it is said, will cast from 100 to 500 balls per minute, has
 just been made by Mr. Winans, of Baltimore.  This gun was seized by
 Colonel Jones, of the Massachusetts Volunteers, when on its way from
 Baltimore to the Secessionist camp at Harper's Ferry, and has since
 been used in protecting the viaduct at the Washington Junction on the
 Baltimore branch of the Baltimore and Ohio Railroad.  The merits of
-the steam-gun are thus summed up by its inventor, Mr. Dickinson:- "As
+the steam-gun are thus summed up by its inventor, Mr. Dickinson:--"As
 a triumph of inventive genius in the application and practical
 demonstration of centrifugal force this most <pb n="576"/>
 efficient engine stands without a parallel, commanding wonder and
@@ -10088,10 +10053,9 @@ management of a proportionate force of infantry."</p>
                   <biblScope type="pages">p. 583</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
                <extent>4 paragraphs</extent></bibl>
-               <p>
-                  <hi rend="center">THE OHIO</hi>
+               <p rend="center">THE OHIO
                </p>
-               <p>THIS river, the largest and most important of the
+               <p><hi rend="smallcap">This</hi> river, the largest and most important of the
 eastern affluents of the Mississippi, is formed by the junction of the
 Alleghany [sic] and Monongahela Rivers at Pittsburg [sic],
 Pennsylvania.  It has thence a west-south-west course of 1033 miles,
@@ -10144,7 +10108,7 @@ below, is from a sketch taken by Mr. L. J. Cranstone.</p>
                <p>
                   <hi rend="center">AN AMERICAN STATESMAN.</hi>
                </p>
-               <p>THE history of a nation
+               <p><hi rend="smallcap">The</hi> history of a nation
 may be read in the lives of its statesmen.  While the leader of the
 Italian liberals was drawing his last breath in Turin, the body of the
 Coryphaeus of the American Democrats of the North was lying in state
@@ -10185,7 +10149,7 @@ the chief source of his strength, and he knew it.  To have undergone
 the laborious operation of refining his tastes and habits, and of
 cultivating the fine natural powers of his mind, would only have
 broken that identity and weakened that influence.  Why should he not
-remain as he was-a powerful and ready debater, a subtle and
+remain as he was--a powerful and ready debater, a subtle and
 resourceful dialectician, a success demagogue, the greatest stump
 orator of the age?  By inspecting the career of such a man, who aimed
 to be and was a faithful reflex of the popular as distinguished from
@@ -10259,17 +10223,12 @@ Compromise, whereby the slaveowners were allowed to carry their slaves
 into the territories of Nebraska and Kansas.  For this measure he, as
 its father and as chairman of the Senate's Committee on Territories,
 is personally responsible.  It was the last tempting cup he pressed to
-the lips of the already inflamed and giddy Southerners.</p>
-               <lg type="couplet">
-                  <l>
-                     <hi rend="center">Hac fonte
-derivata clades,</hi>
-                  </l>
-                  <l>
-                     <hi rend="center">In populum patriamque fluxit.</hi>
-                  </l>
-               </lg>
-               <p>But for the repeal of
+the lips of the already inflamed and giddy Southerners.
+               <q><lg type="couplet">
+                  <l>Hac fonte derivata clades,</l>
+                  <l>In populum patriamque fluxit.</l>
+               </lg></q>
+               But for the repeal of
 the Missouri Compromise the secession of the Southern States would at
 least have been delayed for many years.  The immediate effects of it
 on the party politics of the United States were two--namely, the
@@ -10368,7 +10327,7 @@ arbitrament of manhood suffrage, usually so perilous to the better
 cause, was in favour of Abraham Lincoln and against Stephen Arnold
 Douglas.</p>
                <p>*The Democratic party claimed that the United States'
-territory extended to 54 Â° 40' N. lat.  Hence the watchword "fifty-four
+territory extended to 54&#x00B0; 40' N. lat.  Hence the watchword "fifty-four
 forty or fight" became popular until the question was peaceably
 settled.</p>
 
@@ -10529,14 +10488,14 @@ Alexandria and Arlington Heights.<pb n="602"/>
                <p>
                   <figure entity="v38p602a" width="868" height="592">
                      <head>The Civil War in America. Some of "Wilson's Boys" in
-Wooden Camp at Staten Island.-From a Sketch by our Special
+Wooden Camp at Staten Island.--From a Sketch by our Special
 Artist.</head>
                   </figure>
                </p>
                <p>
                   <figure entity="v38p602b" width="856" height="608">
                      <head>"My Head-Quarters in the Camp
-of the 2nd New York Regiment."-From a Sketch by our Special Artist.</head>
+of the 2nd New York Regiment."--From a Sketch by our Special Artist.</head>
                   </figure>
                </p>
 
