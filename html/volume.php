@@ -14,7 +14,7 @@ $tamino = new xmlDbConnection($args);
 
 // query for all volumes 
 $allquery = 'for $b in input()/TEI.2/:text/body/div1
-sort by (@id)
+sort by (head)
 return <div1 id="{$b/@id}" type="{$b/@type}">
  {$b/head}
  {$b/docDate}
