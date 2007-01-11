@@ -36,6 +36,7 @@ London News Perspective</title>
                <title>The Illustrated London News</title>
                <biblScope type="volume">Volume 40</biblScope> 
                <date>Jan to June 1862</date>
+<extent># paragraph</extent>    
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -68,7 +69,10 @@ London News Perspective</title>
            <biblScope type="pages">p. 2</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
+<p rend="center">THE PAST YEAR.</p>
 <p>...And here it becomes necessary to infuse into our domestic chronicle
 a foreign element. The disruption of the United States of America in
 the spring, and the consequent civil war, has had an obvious bearing
@@ -95,7 +99,7 @@ h America.</p></div2>
 
 <div2 id="ilnv40.1125.002" n="Foreign and Colonial News" type="Article">
 
-<head>FOREIGN AND COLONIAL NEWS.</head>
+<head>Foreign and Colonial News</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 40</biblScope> 
@@ -103,8 +107,10 @@ h America.</p></div2>
            <biblScope type="pages">p. 3</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
-	</bibl>
+<extent>16 paragraphs</extent>
  
+	</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Africa we have news from New York to the 10th
 ult. This steamer was detained for thirty-six hours by Lord Lyons in
 order to take out dispatches.</p>
@@ -119,7 +125,7 @@ opinion of the law officers of the Crown, was telegraphed to New York
 and Washington, where the news was received on Sunday afternoon. No
 journals were published, however, on Sunday; but the nature of the
 news gained currency through private circles, and caused intense
-excitement--the more so as the previous advices per Hansa had led the
+excitement&#x2014;the more so as the previous advices per Hansa had led the
 public to believe that there would be no difficulty with England on
 this question.</p>
 <p>A full telegraphic summary was published in the American journals
@@ -128,7 +134,7 @@ absorbing topic of the day. The press and the public generally seem to
 deprecate war with England, and to cling to a vague idea that the
 matter would be settled by some diplomatic arrangement. Unanimity at
 first, however, appeared to prevail among the press and public upon
-the most important part of the question--namely, the surrender of
+the most important part of the question&#x2014;namely, the surrender of
 Messrs. Mason and Slidell, and the universal opinion was that the
 "national honour" of the country could never permit the surrender of
 the prisoners under any circumstances whatever.</p>
@@ -198,7 +204,7 @@ detention, was passed by the House. Mr. Cox, in introducing the
 measure, said "that the prompt action of Congress in awarding it is
 intended as an earnest to Great Britain that this Government will he
 as earnest to indemnify for a wrong as to defend a right." On the
-16th, Mr. Vallandingham[sic], of Ohio, a pro-slavery Democrat, introduced
+16th, Mr. <sic>Vallandingham</sic>, of Ohio, a pro-slavery Democrat, introduced
 resolutions calling upon the President to maintain the stand already
 taken in regard to Captain Wilke's action, and pledging to him the
 full support of the House in vindicating the courage of the Government
@@ -221,7 +227,7 @@ been organised to descend the Mississippi had yet sailed.</p>
 <p rend="center">THE CONFEDERATE STATES.</p>
 
 <p>A terrible fire had broken out in Charleston, attributed to negro
-incendiarism. Five hundred and seventy-six building[sic] were consumed,
+incendiarism. Five hundred and seventy-six <sic>building</sic> were consumed,
 including a majority of the churches and public buildings. The loss is
 set down at 7,000,000 dollars. The case has been brought before the
 Confederate Congress by a special message from President Davis, and a
@@ -239,7 +245,7 @@ and volunteering is being carried on with admirable spirit.</p>
 
 <div2 id="ilnv40.1125.003" n="Latest News from Abroad" type="Article">
 
-<head>LATEST NEWS FROM ABROAD</head>
+<head>Latest News from Abroad</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 40</biblScope> 
@@ -247,8 +253,10 @@ and volunteering is being carried on with admirable spirit.</p>
            <biblScope type="pages">p. 3</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>3 paragraphs</extent>
+  
 	</bibl>
-
+<p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegrams were received through Mr. Renter's office
 yesterday (Friday):&#x2014;</p>
 
@@ -282,7 +290,7 @@ will not.</p>
 	</div2>
 
 <div2 id="ilnv40.1125.071" n="The Slidell and Mason Case Argued at the
-      American Bar,--From a sketch by our special artist,--see
+      American Bar,&#x2014;From a sketch by our special artist,&#x2014;see
       supplement, page 19." type="Illustration">
 <bibl>
 <title>The Illustrated London News</title> 
@@ -291,11 +299,13 @@ will not.</p>
            <biblScope type="pages">p. 4</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 <p>
-<figure entity="v40p4">
-<head>The Slidell and Mason Case Argued at the American Bar.--From a
-Sketch by Our Special Artist.--See Supplement, page 19.</head>
+<figure entity="v40p4" width="833" height="592">
+<head>The Slidell and Mason Case Argued at the American Bar.&#x2014;From a
+Sketch by Our Special Artist.&#x2014;See Supplement, page 19.</head>
 </figure>
 </p>
 </div2>
@@ -310,6 +320,8 @@ Sketch by Our Special Artist.--See Supplement, page 19.</head>
            <biblScope type="pages">p. 3</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p><hi rend="smallcaps">Annual Emigration Returns&#x2014;Extraordinary Falling- 
@@ -361,8 +373,10 @@ received any impetus from the deranged state of American affairs.</p>
            <biblScope type="pages">p. 6</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
-<p rend="smallcaps"><hi rend="italic">London, Saturday, January</hi> 4, 1862</p>
+<p rend="center"><hi rend="italic">London, Saturday, January</hi> 4, 1862</p>
 <p><hi rend="smallcaps">The</hi> events of the year having been
 summarised in another part of our Impression, we have now to
 complete the record by adding the latest news from the only part of
@@ -461,10 +475,12 @@ on the Americans</head>
            <biblScope type="pages">p. 19</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>5 paragraphs</extent>
+  
 	</bibl>
-
-<p rend="italic">(From our Special Artist and
-Correspondent.)</p>
+<p rend="center">THE MASON AND SLIDELL CASE, AND ITS EFFECT
+ON THE AMERICANS.<lb/><hi rend="italic">(From our Special Artist and
+Correspondent.)</hi></p>
 
 <p rend="right"><hi rend="smallcaps">Washington</hi>, Dec. 6.</p> 
 <p><hi rend="smallcaps">A few</hi> hours after dispatching my last
@@ -596,7 +612,7 @@ Confederate forces at Centreville and Manassas, where it is reported
 they have an army of over 70,000 men, strongly intrenched, and
 perhaps enable M'Clellan to make a dash towards Richmond. However this
 may be, I am getting tired of this continual "Wait another week and
-you will see something done,'[sic] which I am constantly being told by
+you will see something done,<sic>'</sic> which I am constantly being told by
 officers high in command. At present I am almost at a standstill for
 subjects for illustration, and I shall have shortly, in case of
 nothing transpiring here, to look around me seriously for another
@@ -608,7 +624,6 @@ had pointed out to me a gentleman with a gracefully-curved proboscis
 who, by a lucky stroke of "Pishness, my tears," had succeeded in
 bagging a hundred thousand dollars of the public money.</p>
 <p rend="right">F.V.</p></div2>
-
 
 <div2 id="ilnv40.1125.008" n="The Relations Between the Governments of 
 Great Britain and the United States, from 
@@ -626,8 +641,10 @@ President Lincoln</head>
            <biblScope type="pages">p. 19</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>24 paragraphs</extent>
+ 
 	</bibl>
-<p>THE RELATIONS BETWEEN THE GOVERNMENTS OF 
+<p rend="center">THE RELATIONS BETWEEN THE GOVERNMENTS OF 
 GREAT BRITAIN AND THE UNITED STATES, FROM 
 THE TREATY OF GHENT UNTIL THE INAUGURATION OF 
 PRESIDENT LINCOLN.</p>
@@ -743,7 +760,7 @@ coast to guard against the abuse of the American flag.</p>
 this vessel was on its way from Norfolk to New Orleans, some slaves,
 who formed part of the cargo, obtained possession of the ship, wounded
 the captain and some of the crew, killed a passenger who owned some of
-the slaves, aud[sic] carried the vessel into the British port of
+the slaves, <sic corr="and">aud</sic> carried the vessel into the British port of
 Nassau, New Providence. Of the 123 slaves on board nineteen were
 arrested, on the requisition of the American consul, on the charge of
 mutiny and murder. The case against the negroes was pressed with zeal
@@ -863,7 +880,6 @@ States&#x2014;war so often imminent, yet, as we have seen, as often
 avoided.</p>
 	    </div2>
 
-
 <div2 id="ilnv40.1125.009" n="The Norfolk Daybook, a Virginian
       newspaper" type="Article">
 
@@ -875,6 +891,8 @@ avoided.</p>
            <biblScope type="pages">p. 23</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p>The <hi rend="italic">Norfolk Daybook</hi>, a Virginian
@@ -891,8 +909,10 @@ newspaper, has been making its appearance on brown wrapping-paper.</p>
            <biblScope type="pages">p. 30</biblScope> 
            <date value="1862-01-04">January 4, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 	</bibl>
-<p>SCIENTIFIC NEWS.</p>
+<p rend="center">SCIENTIFIC NEWS.</p>
 <p><hi rend="smallcaps">Pneumatic Pile-Bridge</hi>&#x2014;Mr. C. C. Martin, the American engineer
 who completed the Brooklyn Waterworks, carried on the erection of a
 bridge across the Savannah River until interrupted by the civil
@@ -911,7 +931,7 @@ rend="italic">Journal of the Franklin Institute</hi>, Philadelphia,
 appears an interesting account of the process of sinking the
 cylinders, with illustrative woodcuts. Two portions of cylinder are
 made airtight by whitelead, and held in proper position by "guys,"
-&amp;c. The pumps are set in action, and the cylinder sinks into the sand
+&#x0026;c. The pumps are set in action, and the cylinder sinks into the sand
 (about six feet in three minutes) on the application of a vacuum. As
 the process proceeds, a syphon pipe and other apparatus are
 employed. When at last a stopcock is opened, and the compressed air is
@@ -930,7 +950,6 @@ the vapour held in invisible suspension in the condensed air, forming
 a thick fog.</p>
 	    </div2>
 
-
 <div2 id="ilnv40.1126.001" n="Prospects of the Year" type="Article">
 
 <head>Prospects of the Year</head>
@@ -941,8 +960,10 @@ a thick fog.</p>
            <biblScope type="pages">p. 33-34</biblScope> 
            <date value="1862-01-11">January 11, 1862</date>
          
+<extent>5 paragraphs</extent>
+  
 	</bibl>
-<p>PROSPECTS OF THE YEAR</p>
+<p rend="center">PROSPECTS OF THE YEAR.</p>
 <p>...Although we believe that there was scarcely an Englishman whose
 first and warmest feeling was not a determination to hold to the
 honour of his country and the vindication of international rights, yet
@@ -1023,15 +1044,17 @@ American Government.</p>
            <biblScope type="pages">p. 34-35</biblScope> 
            <date value="1862-01-11">January 11, 1862</date>
          
+<extent>33 paragraphs</extent>
+ 
 	</bibl>
-<p rend="italic">FOREIGN AND COLONIAL NEWS.</p>
-<p>AMERICA</p>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>
+AMERICA.</p>
 <p><hi rend="smallcaps">By</hi> the arrival of the Jura we have news
 from New York to the 28th ult. The City of Washington's advices had
 previously relieved us of our painful suspense as to the issue of
 peace or war.</p>
 
-<p>SURRENDER OF MESSRS MASON AND SLIDELL.</p>
+<p rend="center">SURRENDER OF MESSRS MASON AND SLIDELL.</p>
 
 <p>Lord Lyons received his despatches early on the 19th ult., and had
 several unofficial interviews with Mr. Seward, at which the demands of
@@ -1163,7 +1186,7 @@ petty indignities rather than make them a cause of war. This idea will
 now probably be modified, and there may be a little more of that
 respect shown to British subjects which they are accustomed to receive
 in other foreign countries, and fewer arrests of them without process
-of law or opportunities fir[sic] their justification or defence.</p>
+of law or opportunities <sic corr="for">fir</sic> their justification or defence.</p>
 
 <p rend="center">THE FEELING OF THE PEOPLE.</p>
 <p>The popular feeling in intensely hostile to England. Even those
@@ -1262,8 +1285,10 @@ sorrow sooner or later to be borne by Great Britain.</p>
            <biblScope type="pages">p. 35</biblScope> 
            <date value="1862-01-11">January 11, 1862</date>
          
+<extent>5 paragraphs</extent>
+  
 	</bibl>
-<p>LATEST NEWS FROM ABROAD</p>
+<p rend="center">LATEST NEWS FROM ABROAD</p>
 <p>The following telegrams were received at Mr. Reuters office
 yesterday (Friday):&#x2014;</p>
 <p>...Thomas D'Arcy M'Gee, in a letter just published, declining to speak
@@ -1309,9 +1334,9 @@ watched by the Tuscarora, until the conflict is over, or whether, on
 some favourable opportunity, she will venture to 'run the blockade'
 and escape, time only can determine."</p></div2>
 
-<div2 id="ilnv40.1126.004" n="The Illustrated London News" type="Article">
+<div2 id="ilnv40.1126.004" n="London, Saturday, January 11, 1862" type="Article">
 
-<head>THE ILLUSTRATED LONDON NEWS</head>
+<head>London, Saturday, January 11, 1862</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 40</biblScope> 
@@ -1319,6 +1344,8 @@ and escape, time only can determine."</p></div2>
            <biblScope type="pages">p. 38</biblScope> 
            <date value="1862-01-11">January 11, 1862</date>
          
+<extent>4 paragraphs</extent>
+  
 	</bibl>
 
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, JANUARY</hi> 11,
@@ -1405,7 +1432,7 @@ any other nation in the world.</p>
 	      </div2>
 
 <div2 id="ilnv40.1126.051" n="The Civil War in America: Execution of a
-      Deserter in the Federal Camp; Alexandria.--From a Sketch by our
+      Deserter in the Federal Camp; Alexandria.&#x2014;From a Sketch by our
       Special Artist" type="Illustration">
 
 <bibl>
@@ -1415,17 +1442,19 @@ any other nation in the world.</p>
            <biblScope type="pages">p. 40</biblScope> 
            <date value="1862-01-11">January 4, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 <p>
-<figure entity="v40p40">
+<figure entity="v40p40" width="845" height="569">
 <head>The Civil War in America: Execution of a Deserter in the Federal
 Camp; Alexandria. &#x2014;From a Sketch by our Special Artist.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="ilnv40.1126.005" n="Among the Illustrations of the civil war
-      in America" type="Article">
+<div2 id="ilnv40.1126.005" n="[Among the Illustrations of the civil war
+      in America]" type="Article">
 
 <head>[Among the Illustrations of the civil war
       in America]</head>
@@ -1436,6 +1465,8 @@ Camp; Alexandria. &#x2014;From a Sketch by our Special Artist.</head>
            <biblScope type="pages">p. 40</biblScope> 
            <date value="1862-01-11">January 11, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p><hi rend="smallcaps">Among</hi> the Illustrations of the civil war
@@ -1478,6 +1509,8 @@ dead.</p></div2>
            <biblScope type="pages">p. 43</biblScope> 
            <date value="1862-01-11">January 11, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p>The privateer Sumter, after being, as was thought, sighted off
@@ -1499,6 +1532,8 @@ admitted into the port without being saluted.</p></div2>
            <biblScope type="pages">p. 55</biblScope> 
            <date value="1862-01-11">January 11, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p>Mr. Wendell Phillips delivered a speech in New York on the 19th
@@ -1517,8 +1552,10 @@ unbounded enthusiasm.</p></div2>
            <biblScope type="pages">p. 57-58</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>8 paragraphs</extent>
+  
 	</bibl>
-<p>PAST DANGER AND PRESENT DUTY.</p>
+<p rend="center">PAST DANGER AND PRESENT DUTY.</p>
 <p><hi rend="smallcaps">To</hi> our inexpressible relief and gratification we were able to
 announce in our last Number that the Government at Washington had
 definitively acquiesced in the claim made upon them by the British
@@ -1715,6 +1752,8 @@ out of the strong came forth sweetness."</p></div2>
            <biblScope type="pages">p. 59</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>19 paragraphs</extent>
+ 
 	</bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi></p>
 <p rend="center">AMERICA.</p>
@@ -1841,7 +1880,7 @@ were destroyed. In Richmond the theatre had been destroyed.</p>
 railway between Louisville and Nashville.</p>
 <p>The <hi rend="italic">Charleston Mercury</hi> states that a large
 Federal force from Beaufort had landed at North Edisto, on the South
-Carolina[sic]</p>
+Carolina <sic></sic></p>
 
 <p rend="center">CANADA.</p>
 <p>The return of the chief emigration agent of the Canadian Government
@@ -1861,7 +1900,7 @@ United States.</p></div2>
 <div2 id="ilnv40.1127.003" n="Additional Official Correspondence on
       the Trent Affair" type="Article">
 
-<head>Additional Official Correspondence on the<lb/>Trent Affair</head>
+<head>Additional Official Correspondence on the Trent Affair</head>
       <bibl> 
         <title>The Illustrated London News</title> 
            <biblScope type="volume">vol. 40</biblScope> 
@@ -1869,8 +1908,10 @@ United States.</p></div2>
            <biblScope type="pages">p. 59</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>3 paragraphs</extent>
+  
 	</bibl>
-<p rend="center">ADDITIONAL OFFICIAL CORRESPONDENCE ON THE<lb/>TRENT AFFAIR</p>
+<p rend="center">ADDITIONAL OFFICIAL CORRESPONDENCE ON THE<lb/>TRENT AFFAIR.</p>
 <p><hi rend="smallcaps">In</hi> Tuesday's <hi rend="italic">Gazette</hi> are published some
 documents making an important addition to the large mass of official
 correspondence which has already been published with reference to the
@@ -1913,7 +1954,7 @@ justify."</p></div2>
 
 <div2 id="ilnv40.1127.041" n="The Civil War in America: Advanced Post of
       General Blenker's Division Surprised at Anandale, Virginia, by
-      Confederate Calvary.--From a Sketch by Our Special Artist"
+      Confederate Calvary.&#x2014;From a Sketch by Our Special Artist"
       type="Illustration">
 <bibl>
 <title>The Illustrated London News</title> 
@@ -1922,12 +1963,14 @@ justify."</p></div2>
            <biblScope type="pages">p. 61</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl> 
 <p>
-<figure entity="v40p61">
+<figure entity="v40p61" width="1192" height="806">
 <head>The Civil War in America: Advanced Post of
       General Blenker's Division Surprised at Anandale, Virginia, by
-      Confederate Calvary.--From a Sketch by Our Special Artist</head>
+      Confederate Calvary.&#x2014;From a Sketch by Our Special Artist</head>
 </figure>
 </p>
 </div2>
@@ -1943,6 +1986,8 @@ justify."</p></div2>
            <biblScope type="pages">p. 62</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 <p rend="center">ILLUSTRATION OF THE WAR IN AMERICA.</p>
 <p rend="center">THE ADVANCED POST OF GENERAL BLENKER'S DIVISION
@@ -1950,7 +1995,7 @@ SURPRISED<lb/> BY CONFEDERATE CAVALRY.</p>
 
 <p><hi rend="smallcaps">Our</hi> Special Artist in the Federal camp,
 visiting the advanced posts on the 12th ult., came upon General
-Blenker's pickets at Auandale[sic], about ten miles from Washington. Whilst
+Blenker's pickets at <sic>Auandale</sic>, about ten miles from Washington. Whilst
 he was in the neighbourhood a dash was made at them by a squadron of
 Confederate cavalry&#x2014;fine, rough-looking fellows, dressed in
 nondescript uniforms, red shirts, grey tunics; some with boots and
@@ -1962,7 +2007,7 @@ from a sketch by our Special Artist, is given at page 61.</p></div2>
 
 <div2 id="ilnv40.1127.061" n="The Great International Railway
       Suspension-Bridge over the Niagara River, Connecting the New
-      York Central and the Great Western of Canada Railways.--See page
+      York Central and the Great Western of Canada Railways.&#x2014;See page
       67." type="Illustration">
 <bibl>
 <title>The Illustrated London News</title> 
@@ -1971,6 +2016,8 @@ from a sketch by our Special Artist, is given at page 61.</p></div2>
            <biblScope type="pages">p. 64-65</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 <p>
 <figure entity="v40p64-65">
@@ -1992,6 +2039,8 @@ from a sketch by our Special Artist, is given at page 61.</p></div2>
            <biblScope type="pages">p. 66</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p>The Queen has approved of Mr. James Q. Howard as Consul at St. John,
@@ -2013,6 +2062,8 @@ Niagara River</head>
            <biblScope type="pages">p. 67-68</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>7 paragraphs</extent>
+  
 	</bibl>
 <p rend="center">THE GREAT INTERNATIONAL RAILWAY SUSPENSION<lb/> BRIDGE OVER THE
 NIAGARA RIVER.</p>
@@ -2113,6 +2164,8 @@ were destroyed by fire]</head>
            <biblScope type="pages">p. 74</biblScope> 
            <date value="1862-01-18">January 18, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p>On the 26th of December the Government stables at Washington were
@@ -2129,6 +2182,8 @@ death or received such injuries that it was deemed humane to destroy them. More 
            <biblScope type="pages">p. 80-81</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>20 paragraphs</extent>
+ 
 	</bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
 <p rend="center">AMERICA.</p>
@@ -2265,7 +2320,7 @@ the channel, if necessary.</p>
 <p rend="center">DESPATCHES FROM LORD LYONS TO EARL RUSSELL.</p>
 <p>In Friday's <hi rend="italic">Gazette</hi> were published copies
 of some despatches from Lord Lyons. The first informs Earl Russell
-that Messrs. Zacharie[sic] and Rogers, taken from on board the Eugenia
+that Messrs. <sic>Zacharie</sic> and Rogers, taken from on board the Eugenia
 Smith, under the British flag, and confined in Fort Lafayette, had
 been released, and the act disavowed; a second refers to a case in
 which a captured British schooner, the James Campbell, was taken into
@@ -2275,7 +2330,6 @@ and the third relates that certain English seamen, captured for a
 break of blockade, having been required to take an oath never to be
 engaged in such a proceeding again, have been declared by Mr. Seward
 absolved from such oath.</p></div2>
-
 
 <div2 id="ilnv40.1128.002" n="The Tuscarora in Southampton Water"
       type="Article">
@@ -2287,6 +2341,8 @@ absolved from such oath.</p></div2>
            <biblScope type="pages">p. 81</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>5 paragraphs</extent>
+  
 	</bibl>
 <p rend="center">THE TUSCARORA IN SOUTHAMPTON WATER.</p>
 <p><hi rend="smallcaps">This</hi> vessel, whose presence in Southampton Water has caused the greatest excitement for the last fortnight, still keeps her position off
@@ -2336,15 +2392,16 @@ type="Illustration">
            <biblScope type="pages">p. 82</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 <p>
-<figure entity="v40p82">
+<figure entity="v40p82" width="1285" height="868">
 <head>The Outrage on the Trent: Lord Lyons
-Communicating Earl Russell's Despatch to Mr. Secretary Seward.</head>
+Communicating Earl Russell's Despatch to Mr. Secretary Seward</head>
 </figure>
 </p>
 </div2>
-
 
 <div2 id="ilnv40.1128.003" n="The Queen has approved of Mr. Horace
 N.Congar" type="Article">
@@ -2358,6 +2415,8 @@ Consul]</head>
            <biblScope type="pages">p. 84</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p>The Queen has approved of Mr. Horace N. Congar as Consul at
@@ -2374,6 +2433,8 @@ Hong-Kong for the United States of America.</p></div2>
            <biblScope type="pages">p. 85</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>3 paragraphs</extent>
+  
 	</bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, JANUARY</hi> 25, 1862.</p>
 <p>...Once more we hear from America that a grand movement by the North
@@ -2423,6 +2484,8 @@ to permit their being left in the hands of any single nation.</p></div2>
            <biblScope type="pages">p. 89</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p>Commander Semmes, of the Confederate ship-of-war Sumter, writes to
@@ -2444,10 +2507,12 @@ States." </p></div2>
            <biblScope type="pages">p. 91</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 
 <p>
-<figure entity="v40p91">
+<figure entity="v40p91" width="741" height="512">
 <head>The Civil War in America: Advance of the
       Skirmishers of the Bucktail Rifles on the Confederate Position
       at Drainsville, Virginia, From a Sketch by Our Special
@@ -2455,7 +2520,6 @@ Artist.&#x2014; See Supplement, p. 95.</head>
 </figure>
 </p>
 </div2>
-
 
 <div2 id="ilnv40.1128.007" n="Mr. Yancey, Commissioner of the
       Confederate States" type="Article">
@@ -2468,6 +2532,7 @@ Artist.&#x2014; See Supplement, p. 95.</head>
            <biblScope type="pages">p. 95</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>9 paragraphs</extent>    
 	</bibl>
 <p rend="center">MR. YANCEY, COMMISSIONER OF THE CONFEDERATE STATES</p>
 <p><hi rend="smallcaps">The</hi> Hon. Wm. Lowndes Yancey is a native
@@ -2493,7 +2558,6 @@ Congress, if possible, and thus to lessen the causes of irritation
 between the North and South. The Northern vote, however, defeated the
 measure.</p>
 
-
 <p>Mr. Yancey's chief claim to public notice rests in his early
 recognition of the ineradicable differences existing between the North
 and South, and which time, instead of diminishing, extended and
@@ -2501,7 +2565,6 @@ strengthened. In his opinion these differences were fast
 sectionalising the people of the North and the South, and he
 predicted that the Union would be dissolved whenever they stood arrayed
 as sections, the one against the other.</p>
-
 
 <p>In a public letter, written several years since, which excited great
 attention at the time, he gave it as his opinion that the South would
@@ -2511,7 +2574,6 @@ save the Union, that its dissolution was but a question of time, and
 that it would first take place in the Cotton States, and thence would
 spread into the Border States&#x2014;a prediction that has been signally
 verified within the last few months.</p>
-
 
 <p>The events in progress in the Northern States, showing that the
 North would present a candidate for the Presidency upon an avowed
@@ -2526,7 +2588,6 @@ from the Union, and, on the 11th of March, 1861, formed the Government
 of the Confederate States of America. Mr. Yancey was at this time a
 leading member of the convention of Alabama, and reported the
 ordinance of secession.</p>
-
 
 <p>In selecting three gentlemen to form a commission to the Powers of
 Europe to present the claims of the Confederate States to recognition
@@ -2557,9 +2618,11 @@ provisional Government of the South.</p>
            <biblScope type="pages">p. 95</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 <p>
-<figure entity="v40p95a">
+<figure entity="v40p95a" width="384" height="539">
 <head>Mr. Yancey, One of the Commissioners
       from the Confederate States of America to the European
 Courts.</head>
@@ -2570,7 +2633,7 @@ Courts.</head>
 <div2 id= "iln40.1128.008" n="Illustrations of the Civil War in
       America" type="Article">
 
-<head>Illustrations of the Civil War in America.</head>
+<head>Illustrations of the Civil War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -2578,6 +2641,8 @@ Courts.</head>
            <biblScope type="pages">p. 95-96</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>3 paragraphs</extent>
+  
 	</bibl>
 <p rend="center">ILLUSTRATIONS OF THE CIVIL WAR IN AMERICA.</p>
  <p rend="center">A NIGHT ALARM IN THE FEDERAL CAMP.</p>
@@ -2601,13 +2666,12 @@ Courts.</head>
  signifying a number, the meaning of which number being known only to
  the officer commanding each corps.</p>
 <p>
-<figure entity="v40p95b">
+<figure entity="v40p95b" width="741" height="531">
 <head>The War in America: A Night Alarm in the Federal Camp&#x2014;Signalling
 from the Right Bank of the Potomac to Head-Quarters in
 Washington. From a Sketch by Our Special Artist.[p. 95]</head>
 </figure>
 </p>
-
 
 <p rend="center">ADVANCE OF THE SKIRMISHERS OF THE <lb/> BUCKTAIL RIFLES ON DRAINSVILLE.</p>
 
@@ -2641,6 +2705,8 @@ head&#x2014;show that they also paid dearly for the
            <biblScope type="pages">p. 96</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 <p>A proposal for a national subscription in behalf of the Lyons
 workmen thrown out of employment by the American crisis appears in
@@ -2657,6 +2723,8 @@ Si&#x00E9;cle</hi>.</p></div2>
            <biblScope type="pages">p. 97</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>7 paragraphs</extent>
+  
 </bibl>
 <p rend="center">OUR RELATIONS WITH AMERICA.</p>
 <p>Is it our unhappy destiny to become involved in a third war with
@@ -2704,7 +2772,6 @@ without common courtesy. On several occasions of late years it cannot
 be denied that the English nation have felt that this was a situation
 which benefited their political and commercial interests at the
 expense of their honour.</p>
-
 
 <p> This guarantee of peace is now withdrawn, and we look around in
 vain to find a substitute. The South can never again be to us what she
@@ -2804,7 +2871,6 @@ war. As the older, sager, and, as we claim, more chivalrous nation,
 Britain, we believe, would find it conduce not less to her honour than
 to her interests to take such an attitude.</p>
 
-
 <p> If, however, this is to expect too much of human nature as displayed in the relations between two rival nations, let us at least
 rise superior to every temptation to take the United States at a
 disadvantage, remembering that there are cases where it is not <hi
@@ -2844,8 +2910,7 @@ deepest dye.</p></div2>
 <div2 id="ilnv40.1128.012" n="The Blocking-up of Charleston"
       type="Article">
 
-
-<head>The Blocking-Up of Charleston.</head>
+<head>The Blocking-Up of Charleston</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -2853,6 +2918,8 @@ deepest dye.</p></div2>
            <biblScope type="pages">p. 97</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>6 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE BLOCKING-UP OF CHARLESTON.</p>
 <p rend="center">PROTEST OF THE BRITISH GOVERNMENT.</p>
@@ -2915,7 +2982,6 @@ be instructed to make a further representation to Mr. Seward, with a
 view to prevent similar acts of destruction in other ports.&#x2014;I am,
 Sir, your most obedient servant,</p>
 
-
 <p>F. A. Clint, Esq.,&#x0026;c.</p>
  <p rend="right">E.<hi rend="smallcaps"> Hammond.</hi></p>
 
@@ -2926,9 +2992,8 @@ satisfaction the remonstrances made by her Majesty's Government with
 regard to the blocking up of Charleston harbour by sinking vessels
 laden with stone."</p></div2>
 
-
 <div2 id="ilnv40.1128.021" n="The Federal Sloop-of-War Tuscarora in
-      Southampton Water.--See page 81." type="Illustration">
+      Southampton Water.&#x2014;See page 81." type="Illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -2936,16 +3001,18 @@ laden with stone."</p></div2>
            <biblScope type="pages">p. 98</biblScope> 
            <date value="1862-01-25">January 25, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 	</bibl>
 <p>
-<figure entity="v40p98">
+<figure entity="v40p98" width="1281" height="868">
 <head>The Federal Sloop-of-War Tuscarora in
       Southampton Water.&#x2014;See page 81.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="ilnv40.1129.001" n="America" type="Article">
+<div2 id="ilnv40.1129.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2954,6 +3021,8 @@ laden with stone."</p></div2>
            <biblScope type="pages">p. 104</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>14 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
 <p rend="center">AMERICA.</p>
@@ -2985,8 +3054,6 @@ recalled.</p>
 <p>The important negotiation between the bankers of the three great cities and Mr. Chase has not yet been concluded. The scheme of taxation and loans submitted by the former is unsatisfactory to the
 politicians because it is too favourable to the banks.</p>
 
-
-
  <p rend="center">CONGRESS.</p>
 
 <p>The Senate passed the bill compensating the owners of the British
@@ -3008,7 +3075,6 @@ policy of the United States, which forbids them to make any alliance with foreig
 State, deserves great indulgence from the United States. Inasmuch as Mexico is now shaken by home dissensions, and menaced by a foreign
 war, the President is not disposed to seek satisfaction from Mexico at
 the present moment.</p>
-
 
 <p rend="center">MILITARY AND NAVAL.</p>
 
@@ -3077,7 +3143,6 @@ smuggling is all reversed. This partially compensates Canada for the
 low price of agricultural produce and the stoppage of the sawn lumber
 trade, consequent on the cutting off the Southern market.</p></div2>
 
-
 <div2 id="ilnv40.1129.002" n="Large exports of arms continue"
       type="Article">
 <head>Large exports of arms continue</head>
@@ -3088,13 +3153,13 @@ trade, consequent on the cutting off the Southern market.</p></div2>
            <biblScope type="pages">p. 105</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>Large exports of arms continue to take place from the German and Belgian ports for America. The Melita has just sailed from Antwerp for New York with 16,000 stand of arms&#x2014;old flint locks converted into percussion
 
 muskets at Li&#x00E8;ge, at a cost of &#x00A3;3000.Their value is
 estimated at &#x00A3;20,000.</p></div2>
-
-
 
 <div2 id="ilnv40.1129.003" n="The Trent Case and the Blocking-Up of
 			     Charleston Harbour" type="Article">
@@ -3107,6 +3172,8 @@ estimated at &#x00A3;20,000.</p></div2>
            <biblScope type="pages">p. 105</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>THE TRENT CASE AND THE BLOCKING-UP OF CHARLESTON
 HARBOUR.&#x2014;When Mr. Seward's despatch on the Trent prisoners
@@ -3145,6 +3212,8 @@ with contraband of war had just succeeded in getting in."</p></div2>
            <biblScope type="pages">p. 108-109</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>4 paragraphs</extent>
+  
 </bibl>
 <p><hi rend="italic">LONDON, SATURDAY, FEBRUARY</hi> 1, 1862</p>
 <p><hi rend="smallcaps">Mr. Mason</hi>, the author of the Fugitive
@@ -3220,6 +3289,8 @@ Barques off Gibraltar</head>
            <biblScope type="pages">p. 113</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>7 paragraphs</extent>
+  
 </bibl>
 <p rend="center">CAPTURE BY THE CONFEDERATE SHIP SUMTER OF<lb/> TWO
 FEDERAL MERCHANT BARQUES OFF GIBRALTAR</p>
@@ -3288,11 +3359,13 @@ leagues off the port.</p></div2>
            <biblScope type="pages">p. 114</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p114">
+<figure entity="v40p114" width="1266" height="852">
 <head>The Confederate Sloop-of-War Sumter Capturing Two Federal
-Merchantmen Off Gibraltar.&#x2014;See Preceeding[sic] Page.</head>
+Merchantmen Off Gibraltar.&#x2014;See <sic corr="Preceding">Preceeding</sic> Page.</head>
 </figure>
 </p>
 </div2>
@@ -3305,10 +3378,12 @@ Merchantmen Off Gibraltar.&#x2014;See Preceeding[sic] Page.</head>
            <biblScope type="pages">p. 119</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>
-<figure entity="v40p119">
+<figure entity="v40p119" width="1173" height="814">
 <head>New-Year's Reception at the White House, Washington.&#x2014;From
 a Sketch By Our Special Artist&#x2014;See Next Page.</head>
 </figure>
@@ -3326,10 +3401,11 @@ a Sketch By Our Special Artist&#x2014;See Next Page.</head>
            <biblScope type="pages">p. 120</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>5 paragraphs</extent>
+  
 </bibl>
 
-<p>THE CIVIL WAR IN AMERICA.</p>
-<p rend="center"><hi rend="italic">(From our Special Artist and Correspondent.)</hi></p>
+<p rend="center">THE CIVIL WAR IN AMERICA.<hi rend="italic">(From our Special Artist and Correspondent.)</hi></p>
 
 <p rend="right">On board the Picket, Chesapeake Bay, Jan. 10.</p>
 
@@ -3420,6 +3496,8 @@ this short note has to go on board the return steamer, which is leaving immediat
            <biblScope type="pages">p. 125</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>A letter from Hamburg states that considerable quantities of
@@ -3429,9 +3507,7 @@ New York for consumption in Germany.</p></div2>
 <div2 id="ilnv40.1129.008" n="A Confederate Commissioner on the Slave
       Trade" type="Article">
 
-
-
-<head>A CONFEDERATE COMMISSIONER ON THE SLAVE TRADE.--</head>
+<head>A Confederate Commissioner on the Slave Trade</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -3439,6 +3515,8 @@ New York for consumption in Germany.</p></div2>
            <biblScope type="pages">p. 125</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p>A CONFEDERATE COMMISSIONER ON THE SLAVE TRADE.&#x2014;</p>
 <p>Mr. Yancey, now in London, as Commissioner from the Confederate
@@ -3511,6 +3589,8 @@ legislative abolition of slavery. For this very reason the South, in
            <biblScope type="pages">p. 132</biblScope> 
            <date value="1862-02-01">February 1,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>Colonel Samuel Colt, the inventor of the famous Colt's
 revolver, died at Hartford, Connecticut, on the 10th ult., in his forty-eighth
@@ -3538,6 +3618,8 @@ which was also the invention of Mr. Colt. </p></div2>
            <biblScope type="pages">p. 136</biblScope> 
            <date value="1862-02-08">February 8,1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE SESSION OF PARLIAMENT</p>
 <p>But, whatever else may betide, it is quite certain that grave
@@ -3574,6 +3656,8 @@ its own internal affairs.</p></div2>
            <biblScope type="pages">p. 136</biblScope> 
            <date value="1862-02-08">February 8,1862</date>
          
+<extent>18 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>AMERICA.</p>
 <p>By the arrival of the Canada we have Boston journals to the 22nd  ultimo.</p>
@@ -3690,6 +3774,8 @@ similarly visited.</p></div2>
            <biblScope type="pages">p. 137</biblScope> 
            <date value="1862-02-08">February 8,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p><hi rend="smallcaps">Belligerents in British Ports.</hi>&#x2014;An
 important letter has been addressed by Earl Russell to the Lords of
@@ -3730,6 +3816,8 @@ war-vessel.</p></div2>
            <biblScope type="pages">p. 140</biblScope> 
            <date value="1862-02-08">February 8,1862</date>
          
+<extent>3 paragraphs</extent>
+  
 </bibl>
 <p><hi rend="italic">LONDON, SATURDAY, FEBRUARY</hi> 8, 1862</p>
 <p>...Meantime we may record that in the fortunes of the American War
@@ -3768,6 +3856,8 @@ new and bold measure. Were the Northern States at peace, we imagine that so unce
            <biblScope type="pages">p. 144</biblScope> 
            <date value="1862-02-08">February 8,1862</date>
          
+<extent>19 paragraphs</extent>
+ 
 </bibl>
 <p rend="center">OPENING OF PARLIAMENT.</p>
 <p> The Imperial Parliament was opened on Thursday afternoon by Royal Commission....</p>
@@ -3787,7 +3877,7 @@ confidence to your assistance and advice.</p>
 
 <p>Her Majesty's relations with all the European Powers continue to be friendly and satisfactory; and her Majesty trusts there is no reason to apprehend any disturbance of the peace of Europe.</p>
 
-<p>A question of great Importance, and which might have led to very serious consequences, arose between her Majesty and the Government of the United States of North America, owing to the seizure and forcible removal of four passengers from on board a British mail-packet by the commander of a ship of war of the United States; but that question has been satisfactorily settled by the restoration of the passengers to British protection and by the disavowably[sic] the United States' Government of the act of violence committed by their naval officer.</p>
+<p>A question of great Importance, and which might have led to very serious consequences, arose between her Majesty and the Government of the United States of North America, owing to the seizure and forcible removal of four passengers from on board a British mail-packet by the commander of a ship of war of the United States; but that question has been satisfactorily settled by the restoration of the passengers to British protection and by the <sic>disavowably</sic> the United States' Government of the act of violence committed by their naval officer.</p>
 
  <p>The friendly relations between her Majesty and the President of the United
 States have therefore remained unimpaired.</p>
@@ -3812,7 +3902,6 @@ assumed from the very outbreak of the civil war now desolating that country. He 
 <p>The Earl of <hi rend="smallcaps">Derby</hi> concurred with the mover
 and seconder of the Address in the tribute they had paid to the memory
 of Prince Albert; and said he felt that the peculiar circumstances under which they had met rendered it most desirable that there should be no unnecessary differences of opinion. With regard to the American difficulty, he was bound to admit that her Majesty's Government had no alternative in the course they had taken. The moment they found that the act of Captain Wilks was not sanctioned by international law, a grave, serious, and imperative duty devolved upon them from which they could not shrink. However great might be the horrors of war, far greater must be the ignominy of forfeiting the honour of the country. He deeply regretted the course which the Federal Government had taken, because, although they had assented to the just demands of this country, they had done so with a very ill grace, though feeling that they were in the wrong, and had placed themselves, their Government, and their people in a position of undeserved humiliation. They had yielded not to their own sense of justice but to a demand by force, because they knew that this country would be satisfied with no less. Yet, though he approved the course the Government had taken in reference to the American difficulty, he thought they ought to be cautious how they entered upon negotiations which had for their object an alteration in the principles upon which international law was now regulated....</p>
-
 
 <p>Earl <hi rend="smallcaps">Granville</hi> expressed his satisfaction at the course which Lord Derby
 had taken, and said that throughout the whole of the differences with the
@@ -3841,7 +3930,6 @@ themselves to settle their difficulties with the Southerners. Whether
 this struggle ended in the total disruption or in more firmly
 cementing the Union, her Majesty's Government would feel that they had
 done their duty to both sides by preserving a strict neutrality.</p>
-
 
 <p rend="center">HOUSE OF COMMONS&#x2014;THURSDAY.</p>
 
@@ -3935,7 +4023,6 @@ been openly assigned, and were no party to any design of changing the
 form of government and imposing upon the Mexican people a form of
 government which might not be acceptable to them.</p></div2>
 
-
 <div2 id="ilnv40.1131.001" n="The Allied Intervention in Mexico"
       type="Article">
 <head>The Allied Intervention in Mexico</head>
@@ -3946,6 +4033,8 @@ government which might not be acceptable to them.</p></div2>
            <biblScope type="pages">p. 160</biblScope> 
            <date value="1862-02-15">February 15,1862</date>
          
+<extent>3 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE ALLIED INTERVENTION IN MEXICO.</p>
 <p>...But, with that audacity which seems to be the common
@@ -4028,6 +4117,8 @@ arms of the three allied Powers. So affairs stood when information from that qua
            <biblScope type="pages">p. 160</biblScope> 
            <date value="1862-02-15">February 15,1862</date>
          
+<extent>13 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.</p>
 <p rend="center">AMERICA.</p>
@@ -4035,7 +4126,6 @@ arms of the three allied Powers. So affairs stood when information from that qua
 York to the 1st inst.</p>
 
 <p rend="center">THE BURNSIDE EXPEDITION.</p>
-
 
 <p>This expedition, consisting of 125 vessels of all classes, started
 from Hampton Roads, in Chesapeake Bay, on the 11th and 12th
@@ -4093,7 +4183,7 @@ Hamilton Fish, of New York, have been appointed Commissioners
 to the Confederate States for the purpose of relieving the necessities of
 Federal prisoners there.</p>
 
-<p>The Congressional Committee appointed to report upon the gun-boat contracts made by the brother-in-law of the Secretary of the Navy had condemned the system. The House Committee on the district of Columbia have decided to report adversely to the proposition to abolish slavery in the district. The House has also refused to taken[sic] any steps towards the recognition of the Republic of Hayti.</p>
+<p>The Congressional Committee appointed to report upon the gun-boat contracts made by the brother-in-law of the Secretary of the Navy had condemned the system. The House Committee on the district of Columbia have decided to report adversely to the proposition to abolish slavery in the district. The House has also refused to <sic>taken</sic> any steps towards the recognition of the Republic of Hayti.</p>
 
 <p>General Goicuria had arrived at Washington on a mission from the
 Mexican Government.</p>
@@ -4126,6 +4216,8 @@ barbarism."</p>
            <biblScope type="pages">p. 164</biblScope> 
            <date value="1862-02-15">February 15,1862</date>
          
+<extent>3 paragraphs</extent>
+  
 </bibl>
 
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, FEBRUARY</hi> 15, 1862</p>
@@ -4168,6 +4260,8 @@ object.</p></div2>
            <biblScope type="pages">p. 168</biblScope> 
            <date value="1862-02-15">February 15,1862</date>
          
+<extent>5 paragraphs</extent>
+  
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.&#x2014;FRIDAY, FEB.7.</p>
@@ -4237,6 +4331,8 @@ rights of belligerents in America.</p></div2>
            <biblScope type="pages">p. 169</biblScope> 
            <date value="1862-02-15">February 15,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>The Tuscarora sailed from Cowes Roads on Thursday week.
 At the request of the English authorities at Gibraltar, the Sumter has
@@ -4252,6 +4348,8 @@ left that port, and is now at Tangiers.</p></div2>
            <biblScope type="pages">p. 169</biblScope> 
            <date value="1862-02-15">February 15,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p><hi rend="smallcaps">Parliamentary Papers Concerning the Civil War
 in America.</hi>&#x2014;Several important Parliamentary papers were
@@ -4284,6 +4382,8 @@ Tuscarora.</p></div2>
            <biblScope type="pages">p. 177</biblScope> 
            <date value="1862-02-15">February 15,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p><hi rend="smallcaps">Colton's Map of the Southern States of
 America.</hi>&#x2014;At this moment this excellent map is necessarily
@@ -4311,6 +4411,8 @@ Exchange.</p></div2>
            <biblScope type="pages">p. 184</biblScope> 
            <date value="1862-02-22">February 22,1862</date>
          
+<extent>23 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.</p>
 <p rend="center">AMERICA.</p>
@@ -4359,7 +4461,6 @@ to Fort Lafayette, where they are to be treated as ordinary prisoners
 of war. A flag of truce from General Johnston, of the Confederate
 Army, with despatches for the President
 had been received. It is supposed that it relates to the exchange of prisoners.</p>
-
 
 <p>The President has granted a respite of three weeks to Captain Gordon, of the slaver Erie, who was to have been hung on the 7th inst. Judge Cowles has written a letter to the President begging him to commute the sentence of death.</p>
 
@@ -4433,10 +4534,12 @@ City of New York on the Bar in the Distance." type="Illustration">
            <biblScope type="pages">p. 186</biblScope> 
            <date value="1862-02-22">February 22,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>
-<figure entity="v40p186">
+<figure entity="v40p186" width="1139" height="434">
 <head>The Civil War in America: Hatteras Spit, with the Wreck of the
 City of New York on the Bar in the Distance.&#x2014;From a Sketch by Our
 Special Artist.</head>
@@ -4452,17 +4555,18 @@ Burnside Expedition over the Hatteras Bar." type="Illustration">
            <biblScope type="pages">p. 187</biblScope> 
            <date value="1862-02-22">February 22,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>
-<figure entity="v40p187">
+<figure entity="v40p187" width="1165" height="810">
 <head>The Civil War in America: The Picket Leading the Ships of the
 Burnside Expedition over the Hatteras Bar.&#x2014;From a Sketch by Our
 Special Artist.&#x2014;See Supplement, page 200.</head>
 </figure>
 </p>
 </div2>
-
 
 <div2 id="ilnv40.1132.002" n="London, Saturday, February 22, 1862"
       type="Article">
@@ -4476,6 +4580,8 @@ Special Artist.&#x2014;See Supplement, page 200.</head>
            <biblScope type="pages">p. 188</biblScope> 
            <date value="1862-02-22">February 22,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, FEBRUARY</hi> 22, 1862.</p>
 <p>...Public opinion in the Northern States appears to be calling
@@ -4511,9 +4617,11 @@ does not seem very truthful.</p></div2>
            <biblScope type="pages">p. 192</biblScope> 
            <date value="1862-02-22">February 22,1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
-<p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
-<p rend="center">HOUSE OF COMMONS.&#x2014;MONDAY.</p>
+<p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi><lb/>
+HOUSE OF COMMONS.&#x2014;MONDAY.</p>
 <p><hi rend="smallcaps">The Seizure of the Trent.</hi>-On the motion
 for going into Committee of Supply on the Supplemental Estimates (Army
 and Navy), Mr. <hi rend="smallcaps">Bright</hi>, in a speech of some
@@ -4581,11 +4689,12 @@ suspending the writ of habeas corpus was vested in him.</p></div2>
            <biblScope type="pages">p. 200</biblScope> 
            <date value="1862-02-22">February 22,1862</date>
          
+<extent>11 paragraphs</extent>
+ 
 </bibl>
-<p rend="center">THE CIVIL WAR IN AMERICA.</p>
-<p rend="center"><hi rend="italic">(From our Special Artist and
+<p rend="center">THE CIVIL WAR IN AMERICA.<lb/>
+<hi rend="italic">(From our Special Artist and
 Correspondent.)</hi></p>
-
 
 <p rend="right">On Board the Guide, Hatteras Inlet,</p>
 <p rend="right"> North Carolina, Jan. 22.</p>
@@ -4713,7 +4822,6 @@ and was only rescued from being flattened out like a pancake by the
 activity of some soldiers who dragged him up the side a second before
 the collision took place.</p>
 
-
 <p>The great difficulty to be contended against in the harbour is the
 shallowness of the water, except in certain places, and in these the
 ships are wedged together, with scarcely room to swing, and with the
@@ -4795,9 +4903,10 @@ or shell interfere with my pen or pencil.</p>
            <biblScope type="pages">p. 209</biblScope> 
            <date value="1862-03-01">March 1,1862</date>
          
+<extent># paragraph</extent>    
 </bibl>
-<p rend="center"><hi rend="italic">Foreign and Colonial News</hi></p>
-<p rend="center">AMERICA.</p>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>
+AMERICA.</p>
 <p>The Africa brings New York journals of the 12th ult. The general tenor of the advices is again favourable to the Federals. The steady perseverance and more lasting qualities of the North have already nearly cleared Kentucky of the Secessionists, carried the war into Western Tennessee, and seized on two more points on the coast of North Carolina.</p>
 
 <p rend="center">BELLIGERENT OPERATIONS.</p>
@@ -4899,8 +5008,9 @@ indisposition.</p>
            <biblScope type="pages">p. 209</biblScope> 
            <date value="1862-03-01">March 1,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
-
 
 <p>The Confederate steamer Sumter was at Gibraltar on the 18th
 ult., and the Federal steamer Tuscarora in Algesiras Roads. We learn
@@ -4920,6 +5030,8 @@ purpose to Tangiers.</p></div2>
            <biblScope type="pages">p. 212</biblScope> 
            <date value="1862-03-01">March 1,1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH</hi> 1, 1862</p>
 <p><hi rend="smallcaps">The</hi> arms of the Federal Government have
@@ -4968,11 +5080,12 @@ there will be "a short shrift."</p></div2>
            <biblScope type="pages">p. 216</biblScope> 
            <date value="1862-03-01">March 1,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
-
-<p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi></p>
-<p rend="center">HOUSE OF COMMONS.&#x2014;<hi rend="smallcaps">Friday, Feb</hi>. 21</p>
+<p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi><lb/>
+HOUSE OF COMMONS.&#x2014;<hi rend="smallcaps">Friday, Feb</hi>. 21</p>
 <p>...<hi rend="smallcaps">American Possession of San
 Juan.</hi>&#x2014;Mr. <hi rend="smallcaps">Halliburton</hi> asked the
 Under-Secretary for Foreign Affairs various questions regarding the
@@ -4999,6 +5112,8 @@ any details.</p></div2>
            <biblScope type="pages">p. 229</biblScope> 
            <date value="1862-03-01">March 1,1862</date>
          
+<extent>13 paragraphs</extent>
+ 
 </bibl>
 
 <p>The<hi rend="italic"> Philadelphia Enquirer</hi> of Jan. 28 gives the following amusing
@@ -5070,10 +5185,12 @@ Expedition</head>
            <biblScope type="pages">p. 233</biblScope> 
            <date value="1862-03-01">March 1,1862</date>
          
+<extent>4 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE WAR IN AMERICA.&#x2014;GENERAL BURNSIDE'S
-EXPEDITION.</p>
-<p rend="center"><hi rend="italic">(From our Special Artist and Correspondent.)</hi></p>
+EXPEDITION.<lb/>
+<hi rend="italic">(From our Special Artist and Correspondent.)</hi></p>
 
 <p rend="right">On Board the Spalding, Pamlico Sound,</p>
 <p rend="right"> North Carolina, Jan. 29.</p>
@@ -5163,8 +5280,6 @@ to record a victory; as it is, I must wait the issue of the fight.</p>
 <p>Some Illustrations by our Special Artist sent with this letter will
 be given in our next Number.</p></div2>
 
-
-
 <div2 id="ilnv40.1134.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
@@ -5174,6 +5289,8 @@ be given in our next Number.</p></div2>
            <biblScope type="pages">p. 241</biblScope> 
            <date value="1862-03-08">March 8,1862</date>
          
+<extent>12 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
 <p rend="center">AMERICA.</p>
@@ -5277,8 +5394,9 @@ with 500 passengers for that destination.</p></div2>
            <biblScope type="pages">p. 241</biblScope> 
            <date value="1862-03-08">March 8,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
-
 
 <p>The Lieutenant (not the Captain, as previously stated) of the
 Sumter, who was arrested at Tangiers, has been released. The Sumter
@@ -5297,6 +5415,8 @@ ships.</p></div2>
            <biblScope type="pages">p. 244</biblScope> 
            <date value="1862-03-08">March 8,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH</hi> 8, 1862</p>
 <p><hi rend="smallcaps">A decisive</hi> and important victory gained by the Federals has
@@ -5351,13 +5471,14 @@ Expedition at Hatteras Inlet, North Carolina</head>
            <biblScope type="pages">p. 258</biblScope> 
            <date value="1862-03-08">March 8,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
-
 <p>
-<figure entity="v40p258">
+<figure entity="v40p258" width="1293" height="864">
 <head>The Civil War in America: Provisional Camp of a Portion of the
-Burnside Expedition at Hatteras Inlet, North Carolina--From a Sketch
+Burnside Expedition at Hatteras Inlet, North Carolina&#x2014;From a Sketch
 by our Special Artist</head>
 </figure>
 </p>
@@ -5371,24 +5492,40 @@ Carolina</head>
 <biblScope type="volume">vol. 40</biblScope> 
            <biblScope type="issue">no. 1134</biblScope> 
            <biblScope type="pages">p. 258</biblScope> 
-           <date value="1862-03-08">March 8,1862</date>
+           <date value="1862-03-08">March 8, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>
-<figure entity="v40p258">
+<figure entity="v40p258" width="1293" height="864">
 <head>The Civil War in America: Camp Winfield, Hatteras Inlet, North
-Carolina.--From a Sketch by Our Special Artist.--See page 262.</head>
+Carolina.&#x2014;From a Sketch by Our Special Artist.&#x2014;See page 262.</head>
 </figure>
 </p>
 </div2>
 
-<div2>
+<div2 id="ilnv40.1134.259" n="Sketches from the Washoe Silver Region,
+			      North America: Virginia City from the
+			      South, Mount Davidson, Cedar Hill and
+			      Six Miles Gutch">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 40</biblScope> 
+           <biblScope type="issue">no. 1134</biblScope> 
+           <biblScope type="pages">p. 259</biblScope> 
+           <date value="1862-03-08">March 8, 1862</date>
+         
+<extent>1 paragraph</extent>
+   
+</bibl>
+
 <p>
-<figure entity="v40p259">
-<head>Sketches from the Washoe Silver Region, North America:Virginia
+<figure entity="v40p259" width="733" height="480">
+<head>Sketches from the Washoe Silver Region, North America: Virginia
 City from the South, Mount Davidson, Cedar Hill and Six Miles
-Gutch.--See page 362[sic, 262].</head>
+Gutch.&#x2014;See page <sic corr="262">362</sic>.</head>
 </figure>
 </p>
 </div2>
@@ -5401,11 +5538,13 @@ Gutch.--See page 362[sic, 262].</head>
            <biblScope type="pages">p. 262</biblScope> 
            <date value="1862-03-08">March 8,1862</date>
          
+<extent>8 paragraphs</extent>
+  
 </bibl>
 <p>
-<figure entity="v40p262a">
+<figure entity="v40p262a" width="518" height="396">
 <head>Sketches from the Washoe Silver Region, America: Gold Hill,
-Mount Davidson, and the Ophir Road."</head>
+Mount Davidson, and the Ophir Road.</head>
 </figure>
 </p>
 <p rend="center">THE WASHOE MINING REGION.</p>
@@ -5479,7 +5618,7 @@ the claim of that region beyond the Sierra Nevada (now known as
 "Nevada Territory," since its separation from Utah and Mormon
 influences) to the birth of a new and promising community
 
-<figure entity="v40p262b">
+<figure entity="v40p262b" width="522" height="400">
 <head>Sketches from the Washoe Silver Region, North America: Devil's
 Gate, and the Crushing Mills at the North End of Silver City</head>
 </figure>
@@ -5515,7 +5654,6 @@ The summit of the rock, forming the right side of the gate, at the time
 of the late Indian troubles, was used as a fortification against the
 Pah-Utes.</p>
 
-
 <p><hi rend="italic">Gold-hill, Mount Davidson, and the
 Ophir-road.</hi>&#x2014;Following the ascent of the Cannon for about two and
 a half miles beyond the Devil's Gate, northerly, we arrive at the
@@ -5541,7 +5679,6 @@ consequence is a certain recklessness in pushing into the paying
 ledge as fast as possible, with a frequent disregard of the safety of
 support among tunnels in danger of "caving in."</p>
 
-
 <p><hi rend="italic">Virginia City.</hi>&#x2014;This Illustration (on page 259) represents the first
 glimpse afforded of this emporium of Washoe, from the eminence at
 the head of Gold Cannon, beyond Gold-hill, the distance between these
@@ -5566,6 +5703,8 @@ left-hand side just above Virginia.</p>
            <biblScope type="pages">p. 262</biblScope> 
            <date value="1862-03-08">March 8,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center">ILLUSTRATIONS OF THE CIVIL WAR IN AMERICA.</p>
 <p><hi rend="smallcaps">Our</hi> Special  Artist has sent us, as stated in last week's Number, some
@@ -5578,15 +5717,13 @@ and oaks. Here I made the two Sketches forwarded with this letter. One
 shows the provisional camp of a portion of the Burnside expedition who
 have landed temporarily, and the other gives the head-quarters at Camp
 Winfield of General Williams, who commands the troops that have been in occupation of the place since the capture of the forts."</p>
-<!-- the illustrations on page 258 had their captions here. This is a
-     combined caption, we will see if it works. -->
 
-<figure entity="v40p258">
+<figure entity="v40p258" width="1293" height="864">
 <head>The Civil War in America: Provisional Camp of a Portion of the
-Burnside Expedition at Hatteras Inlet, North Carolina--From a Sketch
+Burnside Expedition at Hatteras Inlet, North Carolina&#x2014;From a Sketch
 by our Special Artist <hi rend="italic">and</hi>
 The Civil War in America: Camp Winfield, Hatteras Inlet, North
-Carolina.--From a Sketch by Our Special Artist.--See page 262.</head>
+Carolina.&#x2014;From a Sketch by Our Special Artist.&#x2014;See page 262.</head>
 </figure>
 </div2>
 
@@ -5600,6 +5737,8 @@ Carolina.--From a Sketch by Our Special Artist.--See page 262.</head>
            <biblScope type="pages">p. 263-264</biblScope> 
            <date value="1862-03-15">March 15,1862</date>
          
+<extent>4 paragraphs</extent>
+  
 </bibl>
 <p rend="center">CAPTURE OF FORT DONNELSON.</p>
 <p><hi rend="smallcaps">The</hi> pressure of the immense force organised by
@@ -5705,6 +5844,8 @@ been cut up for ever.</p></div2>
            <biblScope type="pages">p. 264</biblScope> 
            <date value="1862-03-15">March 15,1862</date>
          
+<extent>17 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Cunard steamer Asia we have news from New
@@ -5769,15 +5910,11 @@ with a solemn invocation of the Deity.</p>
 
 <p>Mr. Davis had appointed the 28th ult. as a day of fasting, humiliation, and prayer throughout the Confederate States.</p>
 
-
 <p rend="center">WASHINGTON.</p>
-
 
 <p>The youngest son of the President, aged eleven years, has died at the White House.</p>
 
-
 <p>The President has signed the Treasury Note Bill. In its final shape it provided for the payment in coin of the interest on the public debt, and as security therefore stipulated that the customs duties should be payable in specie only.</p>
-
 
 <p>The President has taken military possession of all the telegraph lines, and military supervisors of messages have been appointed.</p>
 
@@ -5788,7 +5925,6 @@ with a solemn invocation of the Deity.</p>
 <p>Washington's birthday (Feb. 22) was celebrated with more than ordinary enthusiasm throughout the Free States. Mr. Forney read Washington's farewell address in the great hall of the House of Representatives. In New York the historian Bancroft was the orator of the day.</p>
 
 <p>The British screw-steamer Stella had been chartered to convey American contributions to the International Exhibition.</p>
-
 
 <p>The journals comment favourably on the speeches made at the opening
 of Parliament, but the Mexican expedition is more freely and generally
@@ -5815,6 +5951,8 @@ trade.</p></div2>
            <biblScope type="pages">p. 265</biblScope> 
            <date value="1862-03-15">March 15,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>The City of Baltimore, after a voyage of twenty-one days
@@ -5831,9 +5969,9 @@ with ice.</p></div2>
            <biblScope type="pages">p. 265</biblScope> 
            <date value="1862-03-15">March 15,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
-
-
 
 <p>The Annie Childs, Confederate steamer, which ran the blockade
  at Charleston, and arrived at Liverpool on Tuesday, brings a cargo of 684
@@ -5850,6 +5988,8 @@ tobacco.</p></div2>
            <biblScope type="pages">p. 268</biblScope> 
            <date value="1862-03-15">March 15,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH</hi> 15, 1862</p>
 <p>President Lincoln is suffering under a domestic affliction. The
@@ -5868,6 +6008,8 @@ been abandoned.</p></div2>
            <biblScope type="pages">p. 272</biblScope> 
            <date value="1862-03-15">March 15,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi><lb/>HOUSE OF LORDS.&#x2014;<hi rend="smallcaps">Monday.</hi></p>
 
@@ -5894,6 +6036,8 @@ two contending sections of the Republic.</p></div2>
            <biblScope type="pages">p. 280</biblScope> 
            <date value="1862-03-22">March 22,1862</date>
          
+<extent>20 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi><lb/>AMERICA.<lb/><hi rend="smallcaps">Belligerent Operations By Sea and Land</hi></p>
@@ -6017,6 +6161,8 @@ States.</p></div2>
            <biblScope type="pages">p. 284</biblScope> 
            <date value="1862-03-22">March 22,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH</hi> 22, 1862</p>
 <p><hi rend="smallcaps">The</hi> important news has been received that President Lincoln, in his
@@ -6058,6 +6204,8 @@ final orders. The<hi rend="italic">Tribune</hi> strongly approves it. We have no
            <biblScope type="pages">p. 288</biblScope> 
            <date value="1862-03-22">March 22,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi><lb/>HOUSE OF COMMONS.&#x2014;MONDAY.</p>
 <p>...<hi rend="smallcaps">Morocco and the Federal Government of
@@ -6073,6 +6221,8 @@ America</hi>.&#x2014;In answer to Mr. Griffith, Mr. <hi rend="smallcaps">Layard<
            <biblScope type="pages">p. 289</biblScope> 
            <date value="1862-03-22">March 22,1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 
 <p>A negro named Micajah Phillips has just died in Ohio, United
@@ -6097,9 +6247,11 @@ by the President.</p></div2>
            <biblScope type="pages">p. 295</biblScope> 
            <date value="1862-03-22">March 22,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p295">
+<figure entity="v40p295" width="1173" height="806">
 <head>The Civil War in America: Attack on the Confederate Batteries at
 Roanoke Island by the Federal Gun-boat.&#x2014;From a Sketch by Our Special
 Artist&#x2014;See Next Page. <hi rend="italic">and</hi> 
@@ -6120,10 +6272,11 @@ Federalists.&#x2014;From a Sketch by Our Special Artist.</head>
            <biblScope type="pages">p. 296</biblScope> 
            <date value="1862-03-22">March 22,1862</date>
          
+<extent>8 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE FEDERAL VICTORY AT ROANOKE ISLAND.<lb/><hi rend="italic">(From our Special Artist and
 Correspondent.)</hi></p>
-
 
 <p rend="right"><hi rend="smallcaps">Washington</hi>, Feb. 28.</p>
 
@@ -6296,8 +6449,6 @@ Virginia roads. The first sign of dry weather will be hailed with
 delight by the men, who know they are to move from the camps where they have passed six months of monotonous existence. <hi
 rend="right">F. V.</hi></p></div2>
 
-
-
 <div2 id="ilnv40.1136.010" n="Miss Jane G. Swisshelm" type="Article">
 <head>Miss Jane G. Swisshelm</head>
 <bibl>
@@ -6307,11 +6458,12 @@ rend="right">F. V.</hi></p></div2>
            <biblScope type="pages">p. 296</biblScope> 
            <date value="1862-03-22">March 22,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>Miss Jane G, Swisshelm, formerly editress of a Pittsburgh
 
 paper, recently appeared before the Minnesota State Senate and presented a bill on the subject of woman's rights for the consideration of that body. She afterwards addressed the Senate, and was listened to with marked attention.</p></div2>
-
 
 <div2 id="ilnv40.1137.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
@@ -6322,6 +6474,8 @@ paper, recently appeared before the Minnesota State Senate and presented a bill 
            <biblScope type="pages">p. 304</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          
+<extent>15 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Cunard steamer Arabia we have received New
@@ -6442,11 +6596,11 @@ of the liberties of the North.</p>
 charge of offering inducements to British soldiers to desert and join
 the American service. He was committed for trial.</p></div2>
 
-<div2 id="ilnv40.1136.008" n="The Civil War in America.--General
-      Burnside's Expedition: The 9th New York(Hawkins's Zouaves) and
+<div2 id="ilnv40.1136.008" n="The Civil War in America.&#x2014;General
+      Burnside's Expedition: The 9th New York (Hawkins's Zouaves) and
       the 21st Massachusetts Taking the Confederate Fieldwork on
       Roanoke Island at the Point of Bayonet. From a Sketch by Our
-      Special Artist.-&#x2014;See page 296." type="Illustration">
+      Special Artist.&#x2014;See page 296." type="Illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -6454,10 +6608,12 @@ the American service. He was committed for trial.</p></div2>
            <biblScope type="pages">p. 298</biblScope> 
            <date value="1862-03-22">March 22,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p298">
-<head>The Civil War in America.--General
+<figure entity="v40p298" width="1285" height="852">
+<head>The Civil War in America.&#x2014;General
       Burnside's Expedition: The 9th New York(Hawkins's Zouaves) and
       the 21st Massachusetts Taking the Confederate Fieldwork on
       Roanoke Island at the Point of Bayonet. From a Sketch by Our
@@ -6477,6 +6633,8 @@ the American service. He was committed for trial.</p></div2>
            <biblScope type="pages">p. 305</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE AMERICAN IRON-CLAD VESSELS.<lb/>THE MONITOR</p>
 
@@ -6552,6 +6710,8 @@ of the Union Navy.</p></div2>
            <biblScope type="pages">p. 305</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          
+<extent>17 paragraphs</extent>
+ 
 </bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegrams were received through Mr. Reuter's office yesterday (Friday):&#x2014;</p>
@@ -6565,7 +6725,7 @@ of the Union Navy.</p></div2>
 <p>The<hi rend="italic"> Evening Post</hi> says the balance of
 advantage in the late movement of the rival armies on the Potomac is
 generally considered to be on the side of the Confederates, even by
-the Federal Generals and the warmest friends of the Union. The correspondent of the<hi rend="italic"> New York World</hi> says that the Confederate army made the most successful evacuation and the most secure and perfect retreat of which history furnishes example. It escaped safely with its entire right and left wings from every point threatened by the Federal lines, and securely carried off all its guns and three-fourths of the population, black and white. The next stand will be made on the banks of Reppahannock[sic] River, from Port Royal to Fredericksburg.</p>
+the Federal Generals and the warmest friends of the Union. The correspondent of the<hi rend="italic"> New York World</hi> says that the Confederate army made the most successful evacuation and the most secure and perfect retreat of which history furnishes example. It escaped safely with its entire right and left wings from every point threatened by the Federal lines, and securely carried off all its guns and three-fourths of the population, black and white. The next stand will be made on the banks of <sic>Reppahannock</sic> River, from Port Royal to Fredericksburg.</p>
 
 <p>The Confederates have evacuated New Madrid, leaving guns and stores which they could not carry away. The Federal troops have occupied the town.</p>
 
@@ -6622,9 +6782,11 @@ near Fort Craig, New Mexico, but with no decisive result.</p></div2>
            <biblScope type="pages">p. 307</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p307">
+<figure entity="v40p307" width="1173" height="806">
 <head>Breaking Up of the Ice at New York: A View from the East
 River. See supplement, page 320.</head>
 </figure>
@@ -6641,38 +6803,46 @@ River. See supplement, page 320.</head>
            <biblScope type="pages">p. 308</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 
-
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH 29</hi>, 1862.</p>
-<p><hi rend="smallcaps">The</hi> news from America is of a very exciting kind. The grand
-army of the Potomac has at length advanced, and Washington
-is free from the presence of an enemy that at one time menaced
-the Capitol with destruction. From Manassas, the famous scene
-of Federal disaster, the Confederates have retreated, and where
-or when they will risk another stand is unknown; but their
-language continues to be of the most defiant character, and it is not
-probable that they are prepared to give up the game. In the West,
-fortune has again been against them; and at a place called Sugar
-Creek, in Arkansas, after an engagement of three days, their General
-(Price) has been defeated with great slaughter. From Florida to
-Charleston the coast is stated to be in Federal hands. Against this
-catalogue of defeats is to be set the prestige of a most dashing act
-of seamanship. The Merrimac, a "monster" cased in iron, has been
-brought into terrible action by the Confederates at Hampton Roads, and
-her exploit was to sink the Cumberland Federal vessel with two of
-those deadly blows which can only be
-inflicted by this new and fearful engine of war. She also compelled
-the surrender of another Federal vessel, the Congress; but was in her
-turn assailed by an enemy of her own kind, the Monitor. The monsters
-fought round after round, unable to injure each other for several
-hours, but at length the Confederate vessel received an injury which
-is variously described, according to the bias of the narrator. At all
-events, she retired, and is said to be shut up in Norfolk by barges
-sunk by the order of the President himself. The Confederate
-victory&#x2014;for we may so call the sending the Cumberland to the bottom,
-with a large number of the men on board, and the capture and burning
-of the Congress&#x2014;may revive the spirits of the South, but can have no other effect. The forces of the North are now pouring in through the breaches, and New York is already discussing the question, "Whom shall we hang?" The Representatives have passed the President's bill for offering abolition of slavery to such Southern States as may desire it. All the interest of New York concentrates itself on the Potomac army and its advance; but whether this latter is likely to continue is a question for the Quartermasters.</p>
+<p><hi rend="smallcaps">The</hi> news from America is of a very
+exciting kind. The grand army of the Potomac has at length advanced,
+and Washington is free from the presence of an enemy that at one time
+menaced the Capitol with destruction. From Manassas, the famous scene
+of Federal disaster, the Confederates have retreated, and where or
+when they will risk another stand is unknown; but their language
+continues to be of the most defiant character, and it is not probable
+that they are prepared to give up the game. In the West, fortune has
+again been against them; and at a place called Sugar Creek, in
+Arkansas, after an engagement of three days, their General (Price) has
+been defeated with great slaughter. From Florida to Charleston the
+coast is stated to be in Federal hands. Against this catalogue of
+defeats is to be set the prestige of a most dashing act of
+seamanship. The Merrimac, a "monster" cased in iron, has been brought
+into terrible action by the Confederates at Hampton Roads, and her
+exploit was to sink the Cumberland Federal vessel with two of those
+deadly blows which can only be inflicted by this new and fearful
+engine of war. She also compelled the surrender of another Federal
+vessel, the Congress; but was in her turn assailed by an enemy of her
+own kind, the Monitor. The monsters fought round after round, unable
+to injure each other for several hours, but at length the Confederate
+vessel received an injury which is variously described, according to
+the bias of the narrator. At all events, she retired, and is said to
+be shut up in Norfolk by barges sunk by the order of the President
+himself. The Confederate victory&#x2014;for we may so call the sending
+the Cumberland to the bottom, with a large number of the men on board,
+and the capture and burning of the Congress&#x2014;may revive the
+spirits of the South, but can have no other effect. The forces of the
+North are now pouring in through the breaches, and New York is already
+discussing the question, "Whom shall we hang?" The Representatives
+have passed the President's bill for offering abolition of slavery to
+such Southern States as may desire it. All the interest of New York
+concentrates itself on the Potomac army and its advance; but whether
+this latter is likely to continue is a question for the
+Quartermasters.</p>
 
 <p>...The fame of the Man of Ross is perpetual, but it is likely to be paralleled by the fame of the Man of Danvers. The most magnificent gift which has ever been offered by a single hand has been presented to the poor of London by an American merchant, George Peabody. He hands &#x00a3;150,000 to five trustees, of whom Lord Stanley and Sir Emerson Tennent are two, for the purpose of "ameliorating the poor and needy of this great metropolis, and to promote their comfort and happiness." In Danvers and in Baltimore, one his birthplace, the other a city where twenty years of Mr. Peabody's business life was passed, he has planted noble institutions, reserving this third crowning act of generosity for the foreign city where his commercial career has also prospered.</p>
 
@@ -6689,10 +6859,12 @@ of the Congress&#x2014;may revive the spirits of the South, but can have no othe
            <biblScope type="pages">p. 310</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>
-<figure entity="v40p310">
+<figure entity="v40p310" width="1285" height="860">
 <head>The Civil War in America: Confederate Prisoners in Camp Georgia,
 Roanoke Island&#x2014;From a Sketch by Our Special Artist. See
 Supplement, page 320.</head>
@@ -6710,6 +6882,8 @@ Supplement, page 320.</head>
            <biblScope type="pages">p. 320</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center">BREAKING UP OF THE ICE, NEW YORK.</p>
 <p><hi rend="smallcaps">The</hi> Engraving on page 307, from a drawing
@@ -6733,7 +6907,6 @@ brilliantly lighted with gas, the larger ones carrying vast numbers of
 persons, as well as accommodation for forty or fifty
 vehicles.</p></div2>
 
-
 <div2 id="ilnv40.1137.008" n="Confederate Prisoners at Roanoke Island"
       type="Article">
 <head>Confederate Prisoners at Roanoke Island</head>
@@ -6744,6 +6917,8 @@ vehicles.</p></div2>
            <biblScope type="pages">p. 320</biblScope> 
            <date value="1862-03-29">March 29,1862</date>
          
+<extent>8 paragraphs</extent>
+  
 </bibl>
 <p rend="cneter">CONFEDERATE PRISONERS AT ROANOKE ISLAND.</p>
 <p><hi rend="smallcaps">Among</hi> the last batch of Sketches received from our Special Artist in
@@ -6783,7 +6958,7 @@ large admixture of what the South itself considers 'poor white trash.'
 Among the officers there were many
 gentlemen, and one or two very fine-looking men. They appeared,
 however, crestfallen, and looked as if they had played a desperate
-game--and lost."</p>
+game&#x2014;and lost."</p>
 
 <p>Roanoke Island, besides the interest which attaches to it from
 recent events, has a special claim on the consideration of Englishmen
@@ -6847,7 +7022,7 @@ pieces; and, as he could not supply them with another, at their joint
 request, as they were worn out with fatigue and famine, he carried
 them home to England (June 19).</p>
 
-<p><q>There is one consequence of this abortive colony important enough to entitle
+<p>There is one consequence of this abortive colony important enough to entitle
 it to a place in history. Lane and his associates, by their constant intercourse with the Indians, had acquired a relish for their favourite enjoyment of smoking tobacco, to the use of which the credulity of that people not only ascribed a thousand imaginary virtues, but their superstition considered the plant itself as a gracious gift of the gods, for the solace of human kind, and the most acceptable offering which men can present to Heaven. They brought with them a specimen of this new commodity to England, and taught their countrymen the method of using it, which Raleigh and some young men of fashion fondly adopted. From imitation of them, from love of novelty, and from the favourable opinion of its salutary qualities entertained by several
 physicians, the practice spread among the English. The Spaniards and
 Portuguese had, previous to this, introduced it in other parts of
@@ -6862,9 +7037,9 @@ those appetites originally implanted in our nature. Smoking was the
 first mode of taking tobacco in England; and we learn from the comic
 writers towards the close of the sixteenth century and the beginning
 of the seventeenth that this was deemed one of the accomplishments of
-a man of fashion and spirit.</q></p>
+a man of fashion and spirit.</p>
 
-<p><q>A few days after Drake departed from Roanoke a small barque, dispatched by
+<p>A few days after Drake departed from Roanoke a small barque, dispatched by
 Raleigh with a supply of stores for the colony, landed at the place where the
 English had settled; but on finding it deserted by their countrymen they
 returned to England. The barque was hardly gone when Sir Richard Greenville
@@ -6872,7 +7047,7 @@ appeared with three ships. After searching in vain for the colony
 which he had planted, without being able to learn what had befallen
 it, he left fifteen of his crew to keep possession of the island. This
 handful of men was soon overpowered and cut in pieces by the
-savages.</q></p></div2> 
+savages.</p></div2> 
 
 <div2 id="ilnv40.1137.009" n="The Recent Floods in Sacramento Valley,
       California&#x2014;The Corner of L and Fourth Streets, Sacramento City:
@@ -6885,9 +7060,11 @@ savages.</q></p></div2>
            <biblScope type="pages">p. 323</biblScope> 
            <date value="1862-03-29">March 29, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p323">
+<figure entity="v40p323" width="741" height="338">
 <head>The Recent Floods in Sacramento Valley,
       California.&#x2014;The Corner of L and Fourth Streets, Sacramento City:
       View through L-Street Eastwards.&#x2014;See Page 326.</head>
@@ -6895,10 +7072,9 @@ savages.</q></p></div2>
 </p>
 </div2>
 
-
 <div2 id="ilnv40.1137.010" n="The Recent Floods in Sacramento Valley,
       California" type="Article">
-<head>THE RECENT FLOODS IN SACRAMENTO VALLEY,CALIFORNIA.</head>
+<head>The Recent Floods in Sacramento Valley, California</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -6906,8 +7082,10 @@ savages.</q></p></div2>
            <biblScope type="pages">p. 326</biblScope> 
            <date value="1862-03-29">March 29, 1862</date>
          
+<extent>9 paragraphs</extent>
+  
 </bibl>
-<p rend="center">THE RECENT FLOODS IN SACRAMENTO VALLEY,CALIFORNIA.</p>
+<p rend="center">THE RECENT FLOODS IN SACRAMENTO VALLEY, CALIFORNIA.</p>
 <p><hi rend="smallcaps">Accounts</hi> have from time to time appeared in this Journal of the
 severe floods with which California was visited at the close of last
 year and the beginning of the present one. In the present Number we
@@ -7007,14 +7185,14 @@ since been washed away, so that not a vestige of this late pleasant
 and prosperous village remains.</p>
 
 <p>
-<figure entity="v40p326a">
+<figure entity="v40p326a" width="388" height="342">
 <head>The U.S. Revenue Steamer Schubric Anchored in the Sacramento,
 near Rio Vista.</head>
 </figure>
 </p>
 
 <p> 
-<figure entity="v40p326b">
+<figure entity="v40p326b" width="803" height="415">
 
 <head>The Levee Opposite K-Street, Sacramento City, at Three a.m. on
 the 24th of January Last, during the Third Flood.</head>
@@ -7022,7 +7200,7 @@ the 24th of January Last, during the Third Flood.</head>
 </p>
 
 <p> 
-<figure entity="v40p326c">
+<figure entity="v40p326c" width="396" height="342">
 <head>Sixth-Street, Sacramento City, Looking South.</head>
 </figure>
 </p>
@@ -7037,6 +7215,8 @@ the 24th of January Last, during the Third Flood.</head>
            <biblScope type="pages">p. 327</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>8 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE NAVAL REVOLUTION.</p>
 <p><hi rend="smallcaps">Is</hi> it indeed true that the naval supremacy of England has passed away like a mere unsubstantial exhalation under. the light of that memorable Saturday, March 8, 1862? An American journalist tells us this; but we may pardon the exulting boast when we remember the provocation. It was but a few weeks ago that English journalists of the highest character and position were complacently announcing that we should, in the event of war, at once sweep the seas of all American shipping. That prediction was a very wild and foolish one; let us inquire whether this new prediction is not equally groundless. And, first, suppose we review briefly the incidents of the late combat,
@@ -7053,11 +7233,11 @@ armour for ships, and painfully conscious of their weakness at sea,
 they appear to have thought there was one grand opportunity open to
 them, and to have made use of it with characteristic vigour and
 skill. They built up over her deck, and down upon
-<figure entity="v40p327">
-<head>The Civil War in America--Naval
+<figure entity="v40p327" width="826" height="704">
+<head>The Civil War in America&#x2014;Naval
       Engagement in Hampton Roads: The Confederate Iron-Plated Steamer
       Merrimac (or Virginia) Running into the Federal Sloop
-      Cumberland.--From a Sketch by T. Nast.--See Supplement, page
+      Cumberland.&#x2014;From a Sketch by T. Nast.&#x2014;See Supplement, page
       344.</head>
 </figure>
 
@@ -7250,12 +7430,14 @@ ships.</p></div2>
            <biblScope type="pages">p. 329</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>16 paragraphs</extent>
+ 
 </bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.</p>
 <p>By the arrival of the City of Washington we are in receipt of telegrams from New York to the 22nd ult.</p>
 
-<p rend="center"><hi rend="smallcaps">Belligerent Operations by Sea and Land.</hi></p>
+<p rend="center">BELLIGERENT OPERATIONS BY SEA AND LAND.</p>
 
 <p>The Merrimac has not made her reappearance in Hampton Roads, where the Monitor (whose late commander, Lieut. Worden, is now totally blind with small hopes of recovering his sight) patiently awaits her advent.</p>
 
@@ -7334,9 +7516,11 @@ rend="smallcaps">Ericsson.</hi></p></div2>
            <biblScope type="pages">p. 330</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p330">
+<figure entity="v40p330" width="772" height="523">
 <head>The Civil War in America: Fight in
       Hampton Roads between the Federal floating-battery Monitor and
       the Confederate Iron-Plated Steamer Merrimac(or Virginia). From
@@ -7355,6 +7539,8 @@ rend="smallcaps">Ericsson.</hi></p></div2>
            <biblScope type="pages">p. 332</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p><hi rend="smallcaps">The</hi> news from America is of a strange and
 perplexing kind. The sudden and grand movement of the army of the
@@ -7401,6 +7587,8 @@ must not be provided.</p></div2>
            <biblScope type="pages">p. 333</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>5 paragraphs</extent>
+  
 </bibl>
 <p rend="center">MR. GEORGE PEABODY.</p>
 <p><hi rend="smallcaps">This</hi> gentleman, whose munificent act is
@@ -7503,6 +7691,8 @@ effects of temporary causes of estrangement.</p></div2>
            <biblScope type="pages">p. 333</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p>The schooner Adelaide arrived in Liverpool on Tuesday from
 Charleston, having successfully run the blockade. She got away on the
@@ -7514,7 +7704,7 @@ Democratic, was elected Mayor by a majority of 21 over the Republican
 male candidate for that office.</p></div2>
 
 <div2 id="ilnv40.1138.012" n="The Civil War in America: Baggage-Waggons
-      and Gun-Carriages of the Army of the Potomac on the Move.--From
+      and Gun-Carriages of the Army of the Potomac on the Move.&#x2014;From
       a Sketch by Our Special Artist." type="Illustration">
 <bibl>
 <title>The Illustrated London News</title>
@@ -7523,11 +7713,13 @@ male candidate for that office.</p></div2>
            <biblScope type="pages">p. 334</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p334">
+<figure entity="v40p334" width="1289" height="860">
 <head>The Civil War in America: Baggage-Waggons
-      and Gun-Carriages of the Army of the Potomac on the Move.--From
+      and Gun-Carriages of the Army of the Potomac on the Move.&#x2014;From
       a Sketch by Our Special Artist.</head>
 </figure>
 </p>
@@ -7543,13 +7735,14 @@ male candidate for that office.</p></div2>
            <biblScope type="pages">p. 335</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>16 paragraphs</extent>
+ 
 </bibl>
 <p>
-<figure entity="v40p335">
+<figure entity="v40p335" width="346" height="465">
 <head>Mr. George Peabody.&#x2014;See page <sic corr="333">383</sic>.</head>
 </figure>
 </p>
-
 
 <p><hi rend="smallcaps">Our</hi> columns last week contained the announcement of an extraordinary gift made to the poor of the metropolis by Mr. George Peabody, the well-known American banker in London, whose Portrait we have
 great pleasure in giving. Mr. Adams, the American Minister, Lord Stanley, Sir J. Emerson Tennent, Mr. C. Lampson, and the donor's partner, Mr. Morgan, are requested by Mr. Peabody to act in the capacity of trustees for the application of the fund (&#x00a3;150,000) which he proposes to devote to the amelioration of the condition of the London poor. Mr. Peabody's letter to these gentlemen, announcing and slightly developing his plan, is as follows:&#x2014;</p>
@@ -7592,7 +7785,6 @@ you the sum of &#x00a3;150,000, which now stands available for this
 purpose on the books of Messrs. George Peabody and Co., as you will
 see by the accompanying correspondence.</p>
 
-
 <p>In committing to you, in full confidence in your judgment, the administration of this fund, I cannot but feel grateful to you for the onerous duties you have so cheerfully undertaken to perform, and I sincerely hope and trust that the benevolent feelings that have prompted a devotion of so much of your valuable time will be appreciated not only by the present but future generations of the people of London.</p>
 
 <p>I have few instructions to give, or conditions to impose, but there are
@@ -7631,7 +7823,6 @@ duties.&#x2014;I have the honour to be, gentlemen, yours very
 faithfully,</p>
 <p rend="right"><hi rend="smallcaps">George Peabody.</hi></p>
 
-
 <p>Mr. Adams, Lord Stanley, Sir J.E. Tennent, Messrs. Lampson and
 Morgan have accepted the trust, and in their reply to Mr. Peabody
 justly remark:&#x2014;"Whether we consider the purity of the motive, the
@@ -7652,6 +7843,8 @@ Roads</head>
            <biblScope type="pages">p. 344</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>7 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE CONFEDERATE ACCOUNT OF THE NAVAL FIGHT IN HAMPTON
 ROADS.</p>
@@ -7692,7 +7885,7 @@ Your obedient servant,<lb/>
 Ex. and Ord. Officer.</p> 
 <p>Flag Officer F. Forrest.</p>
 <p>The following spiritedly-written account of the engagement is from
-the <hi rend="italic">Norfolk Daybook</hi> of the 10th ult.:--</p>
+the <hi rend="italic">Norfolk Daybook</hi> of the 10th ult.:&#x2014;</p>
 <p rend="center"><hi rend="smallcaps">The Battle on Saturday</hi></p>
 
 <p>On the morning of the 8th the steam-frigate Virginia, flag-officer
@@ -7839,6 +8032,8 @@ steam-battery.]</p></div2>
            <biblScope type="pages">p. 348</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p>A book which is entitled "The War in America" of course carries
 with it a facile introduction to the reading public at this moment;
@@ -7917,7 +8112,6 @@ such areas in India must be characterised and chosen, and so failure of attempts
 
 regions be avoided, and that which is by nature limited best economised. When it is considered how strong the current of opinion has been towards efforts for creating such a growth of cotton in India as will render this country practically independent of America, it is most desirable that a work like this should be circulated largely amongst those whose interests are concerned or whose adventurous spirit has been aroused by the critical condition of our cotton supply.</p></div2>
 
-
 <div2 id="ilnv40.1138.009" n="English and American Iron-Cased Ships"
       type="Article">
 <head>English and American Iron-Cased Ships</head>
@@ -7928,6 +8122,8 @@ regions be avoided, and that which is by nature limited best economised. When it
            <biblScope type="pages">p. 352</biblScope> 
            <date value="1862-04-05">April 5, 1862</date>
          
+<extent>4 paragraphs</extent>
+  
 </bibl>
 <p>At the meeting of the Institution of Naval Architects&#x2014;held
 on Thursday week, under the presidency of Sir John Pakington&#x2014;the secretary,
@@ -8027,7 +8223,7 @@ ships, without receiving any injury, that no such need be entertained
 on her account."</p></div2>
 
 <div2 id="ilnv40.1139.359" n="The Civil War in America: General
-			      Burnside.--From a sketch by T. Nast.&#x2014;See Supplement, page 376."
+			      Burnside.&#x2014;From a sketch by T. Nast.&#x2014;See Supplement, page 376."
       type="Illustration">
 <bibl>
 <title>The Illustrated London News</title>
@@ -8036,15 +8232,16 @@ on her account."</p></div2>
            <biblScope type="pages">p. 359</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p359">
-<head>The Civil War in America: General Burnside.--From a sketch by
-T. Nast.--See Supplement, page 376.</head>
+<figure entity="v40p359" width="676" height="734">
+<head>The Civil War in America: General Burnside.&#x2014;From a sketch by
+T. Nast.&#x2014;See Supplement, page 376.</head>
 </figure>
 </p>
 </div2>
-
 
 <div2 id="ilnv40.1139.001" n="[The Last of the Sons of Audubon]"
       type="Article">
@@ -8056,6 +8253,8 @@ T. Nast.--See Supplement, page 376.</head>
            <biblScope type="pages">p. 360</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>The last of the sons of Audubon, the great naturalist, has just
 died in the United States. The widow of Audubon still lives. She is nearly
@@ -8071,6 +8270,8 @@ ninety years of age.</p></div2>
            <biblScope type="pages">p. 360</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>At the Court of Common Pleas in the United States an action
@@ -8089,14 +8290,16 @@ damages to the full amount.</p></div2>
            <biblScope type="pages">p. 360-361</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>17 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.</p>
 <p>By the arrival of the Cunard steamer Africa we are in receipt of
 
 New York journals to the 26th ult.</p>
 
-<p rend="center"><hi rend="smallcaps">Belligerent Operations On Sea
-and Land.</hi></p>
+<p rend="center">BELLIGERENT OPERATIONS ON SEA
+AND LAND.</p>
 <p>General Burnside has entered upon more of the coast of North
 Carolina. Fort Macon and the town of Beaufort have been occupied by
 the Federals. The town was evacuated before the Federals
@@ -8198,16 +8401,17 @@ Artist.&#x2014;See Supplement, page 376"
            <biblScope type="pages">p. 359</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p362">
+<figure entity="v40p362" width="1281" height="872">
 <head>The Civil War in America: Federals Advancing on the Abandoned
 Confederate Positions at Centreville.&#x2014;From a Sketch by Our Special
 Artist.&#x2014;See Supplement, page 376</head>
 </figure>
 </p>
 </div2>
-
 
 <div2 id="ilnv40.1139.004" n="[The Confederate Ship Sophia]"
       type="Article">
@@ -8219,6 +8423,8 @@ Artist.&#x2014;See Supplement, page 376</head>
            <biblScope type="pages">p. 365</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>The Confederate ship Sophia, direct from Charleston, with a
 cargo of cotton, tobacco, and resin, arrived at Liverpool on Monday.
@@ -8236,6 +8442,8 @@ Virginia) and the Monitor in Hampton Roads</head>
            <biblScope type="pages">p. 366-367</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
 <figure entity="v40p366-367">
@@ -8257,9 +8465,11 @@ Artist&#x2014;See Supplement, page 376.</head>
            <biblScope type="pages">p. 366-367</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p366">
+<figure entity="v40p366" width="822" height="581">
 <head>The Civil War in America: Federal Calvary Scouts Entering the
 Depot at Manassas Junction.&#x2014;From a Sketch by Our Special
 Artist&#x2014;See Supplement, page 376.</head>
@@ -8276,6 +8486,8 @@ Artist&#x2014;See Supplement, page 376.</head>
            <biblScope type="pages">p. 369</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>It is proposed to start a military school, under the auspices of
@@ -8290,6 +8502,8 @@ the Federal Government, at Detroit.</p></div2>
            <biblScope type="pages">p. 369</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>An American journal states that the 600,000 troops in the
 Federal Army require per month 14,625,0001b. of pork, or
@@ -8301,7 +8515,7 @@ salt, 8,580,000lb. of potatoes, 1,170,000lb. of candles, and
 
 <div2 id="ilnv40.1139.007" n="Illustrations of the War in America"
       type="Article">
-<head>Illustrations of the War in America.</head>
+<head>Illustrations of the War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -8309,6 +8523,8 @@ salt, 8,580,000lb. of potatoes, 1,170,000lb. of candles, and
            <biblScope type="pages">p. 376</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>5 paragraphs</extent>
+  
 </bibl>
 
 <p rend="center">ILLUSTRATIONS OF THE WAR IN AMERICA.<lb/>GENERAL BURNSIDE.</p>
@@ -8429,6 +8645,8 @@ panicstricken.</p>
            <biblScope type="pages">p. 376</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE AMERICAN IRON-CLAD VESSELS.</p>
  <p><hi rend="smallcaps">The</hi> Merrimac was formerly the United States' frigate of that name,
@@ -8477,6 +8695,8 @@ height of the turret is 9ft., and its diameter 21ft. 9in.</p>
            <biblScope type="pages">p. 381</biblScope> 
            <date value="1862-04-12">April 12, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE DIADEM RESCUING THE CREW OF THE C. W. CONNOR.</p>
 <p><hi rend="smallcaps">Her Majesty's</hi> steam frigate Diadem left Bermuda on the 11th of
@@ -8509,13 +8729,12 @@ subscription from the officers and ship's company, and the hearty
 wishes of all for their better fortune.</p>
 
 <p>
-<figure entity="v40p382">
+<figure entity="v40p382" width="833" height="562">
 <head>H.M.S. Diadem Taking Off the Crew of the Dismasted
 American Ship C.W. Connor, near Bermuda.&#x2014;See Preceding Page.</head>
 </figure>
 </p>
 </div2>
-
 
 <div2 id="ilnv40.1140.001" n="Our American Brothers" type="Article">
 <head>Our American Brothers</head> 
@@ -8526,6 +8745,7 @@ American Ship C.W. Connor, near Bermuda.&#x2014;See Preceding Page.</head>
            <biblScope type="pages">p. 383</biblScope> 
            <date value="1862-04-19">April 19, 1862</date>
          
+<extent># paragraph</extent>    
 </bibl>
 <p rend="center">OUR AMERICAN BROTHERS.</p>
 <p><hi rend="smallcaps">If</hi> any two nations in the world ought
@@ -8670,6 +8890,8 @@ brother what he would not suffer a stranger so much as to hint at.</p>
            <biblScope type="pages">p. 384</biblScope> 
            <date value="1862-04-19">April 19, 1862</date>
          
+<extent>18 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.</p>
 <p>By the arrival of the Montreal Company's steamer Nova Scotian we
@@ -8746,7 +8968,6 @@ Federal army to cease.</p>
 ult., by which upwards of fifty persons of both sexes were either
 killed or mangled.</p></div2>
 
-
 <div2 id="ilnv40.1140.003" n="[A Deputation from the British and Foreign
       Anti-Slavery Society]" type="Article">
 <head>[A Deputation from the British and Foreign Anti-Slavery
@@ -8758,6 +8979,8 @@ Society]</head>
            <biblScope type="pages">p. 388</biblScope> 
            <date value="1862-04-19">April 19, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>A deputation from the British and Foreign  Anti-Slavery
 
@@ -8784,6 +9007,8 @@ slave trade his reply was equally satisfactory.</p></div2>
            <biblScope type="pages">p. 401</biblScope> 
            <date value="1862-04-19">April 19, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>According to the new post-office laws in the United States
 money can be sent through the post in the shape of money orders, at
@@ -8800,6 +9025,8 @@ per ounce weight.</p></div2>
            <biblScope type="pages">p. 401</biblScope> 
            <date value="1862-04-19">April 19, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>The <hi rend="italic">New York Times</hi> states that Captain
@@ -8823,10 +9050,12 @@ the Navy's advertisement has been constituted.</p></div2>
            <biblScope type="pages">p. 403</biblScope> 
            <date value="1862-04-19">April 19, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>
-<figure entity="v40p403">
+<figure entity="v40p403" width="1162" height="795">
 <head>The Civil War in America: Reconnaissance
       Made by General Stoneman, Accompanied by the Comte de Paris and
       the Duc de Chartres, to Cedar Run.&#x2014;From a Sketch by Our Special
@@ -8845,6 +9074,8 @@ the Navy's advertisement has been constituted.</p></div2>
            <biblScope type="pages">p. 404</biblScope> 
            <date value="1862-04-19">April 19, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p rend="center">ILLUSTRATION OF THE WAR IN AMERICA.<lb/>RECONNAISSANCE BY GENERAL STONEMAN.</p>
@@ -8859,7 +9090,6 @@ miles from the junction, driving in the enemy's pickets which they
 fell in with in the neighbourhood. The subject chosen for illustration in the Engraving on page 403 is the halt of the party and the examination of escaped contrabands (slaves) from Gordonsville, the present
 head-quarters of the Confederate army of the Potomac.</p></div2>
 
-
 <div2 id="ilnv40.1141.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
@@ -8869,6 +9099,8 @@ head-quarters of the Confederate army of the Potomac.</p></div2>
            <biblScope type="pages">p. 408</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>18 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Montreal Company's steamer Jura we have news from New York to the afternoon of the 12th inst.</p>
@@ -8975,6 +9207,8 @@ Brooklyn in the early part of this month.</p></div2>
            <biblScope type="pages">p. 408</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>Dr. Russell, the special correspondent of the <hi rend="italic">Times</hi> in America,
@@ -8989,6 +9223,8 @@ arrived in this country by the China on Monday.</p></div2>
            <biblScope type="pages">p. 409</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>4 paragraphs</extent>
+  
 </bibl>
 
 <p rend="center">THE CIVIL WAR IN AMERICA.<lb/><hi rend="italic">(From our Special Artist and Correspondent.)</hi></p>
@@ -9031,7 +9267,6 @@ Mississippi will tend greatly to decide the vexed question of
 Secession that at present divides the North from the South.<hi
 rend="right">F. V.</hi></p></div2>
 
-
 <div2 id="ilnv40.1141.004" n="The Illustrated London News"
       type="Article">
 <head>London, Saturday, April 26, 1862</head>
@@ -9042,6 +9277,8 @@ rend="right">F. V.</hi></p></div2>
            <biblScope type="pages">p. 412</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>4 paragraphs</extent>
+  
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, APRIL</hi> 26, 1862.</p>
 
@@ -9082,6 +9319,8 @@ by the necessity of recognising the terrible conditions amid which the work has 
            <biblScope type="pages">p. 417</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center">ILLUSTRATION OF THE WAR IN AMERICA.</p>
 <p>A <hi rend="smallcaps">Tolerably</hi> good notion of the strength
@@ -9110,9 +9349,11 @@ to provide quarters for over 100,000 men.</p></div2>
            <biblScope type="pages">p. 418</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p418">
+<figure entity="v40p418" width="810" height="573">
 
 <head>The Civil War in America: A Portion of
       the Abandoned Confederate Works and Camp at Centreville.&#x2014;From a
@@ -9130,6 +9371,8 @@ to provide quarters for over 100,000 men.</p></div2>
            <biblScope type="pages">p. 425</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p><hi rend="smallcaps">Recapture of a Prize.</hi>&#x2014;A merchant
@@ -9208,6 +9451,8 @@ brought to Liverpool.</p></div2>
            <biblScope type="pages">p. 425</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>Corinth, at which the grand army of the Confederates, under General
 Beauregard, has taken up a position to oppose the Southern march of
@@ -9240,6 +9485,8 @@ swampy.</p></div2>
            <biblScope type="pages">p. 429</biblScope> 
            <date value="1862-04-26">April 26, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>A Paris letter in the<hi rend="italic"> Ind&#x00e9;pendance</hi> states that the French
 Government has sent the Catinat and Gassende to the United States, to be present at any maritime conflicts that may take place between the North and the South; the former vessel is ordered to Hampton Roads, and the latter to the neighbourhood of New Orleans.</p></div2>
@@ -9253,6 +9500,8 @@ Government has sent the Catinat and Gassende to the United States, to be present
            <biblScope type="pages">p. 433</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          
+<extent>22 paragraphs</extent>
+ 
 </bibl>
 <p rend="center">FOREIGN AND COLONIAL NEWS.<lb/>AMERICA.</p>
 <p>By the arrival of the City of Baltimore we have news from New
@@ -9377,6 +9626,8 @@ Saturday, May 3, 1862"
            <biblScope type="pages">p. 437</biblScope> 
            <date value="1862-05-03">May 3, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p rend="center"><hi rend="italic">LONDON, SATURDAY,
@@ -9414,6 +9665,8 @@ will imply recognition. The position of General McClellan before Yorktown does n
            <biblScope type="pages">p. 457</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>Accounts have been received of the wreck of an American
 vessel, the Thirty-nine States, off the north-western part of Spain, when twelve of her crew perished. She had sailed from Cardiff for Genoa, laden with coal, but encountered a severe storm on her voyage, and was driven ashore near Vigo. The captain and some of the crew got into the boat, but the remainder, twelve in number, were afraid to venture and remained on board. The boat
@@ -9429,6 +9682,8 @@ got safely to land; the ship was dashed to pieces.</p></div2>
            <biblScope type="pages">p. 458</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center">ILLUSTRATION OF THE WAR IN AMERICA.</p>
 <p><hi rend="smallcaps">The</hi> account of the arrival on the 5th
@@ -9504,9 +9759,11 @@ capital."</p>
            <biblScope type="pages">p. 458</biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p458">
+<figure entity="v40p458" width="1146" height="407">
 <head>The Civil War in America: Embarkation of
       a Portion of the Army of the Potomac at Alexandria, near
       Washington.&#x2014;From a Sketch by Our Special Artist.</head>
@@ -9524,6 +9781,8 @@ capital."</p>
            <biblScope type="pages">p. 460 </biblScope> 
            <date value="1862-05-03">May 3,1862</date>
          
+<extent>6 paragraphs</extent>
+  
 </bibl>
 
 <p><hi rend="smallcaps">The</hi> most remarkable character whom the recent turn of events in the United States has brought into the foreground is undoubtedly W. H. Seward. President Lincoln's star waxes pale beside that of the brilliant New Yorker. The American cataclysm, though it has produced no great General able to educe order from the universal wreck of things, has at least brought forth a Minister of Foreign Affairs worthy of the occasion. Earl Russell has recognised in a signal manner the ability of the man with whom he has already broken several lances, and exchanged as many vows of amity by republishing and laying before Parliament the entire congressional public document containing the correspondence between Mr. Seward and the representatives of the Federal Government in all parts of the world. We venture to believe that no candid mind can turn from the perusal of this voluminous correspondence without acknowledging that it is a lasting monument of Mr. Seward's industry and genius. With what a dexterous and happy art he expatiates on the same theme to each Ambassador without once suggesting to the reader the idea of a repetition! How prodigally he scatters gems of political philosophy, quaint apothegms, felicitous appeals to the nobler sentiments of our nature, dashed here and there (but very rarely) with a tinge of resentment and menace! Let us imagine Edmund Burke or William Gladstone at the Foreign Office privileged to disregard the fetters which tradition, routine, and the proprieties and conventionalities of office impose upon our Ministers of Foreign Affairs, and further privileged to open a new account in the national ledger with each foreign nation, dependency, and colony. The position would be analogous to that of Mr. Seward in 1861, and the literary result in the line of essay, disquisition, and rhetoric would probably be far from dissimilar. The American Secretary seems to have thought the official style of British diplomatists and of his immediate predecessors in office too hard and dry to suit his purposes, and to have hit on a medium between that and the florid sententiousness which characterises the choicest effusions of the Chanceries of the Celestial Empire.</p>
@@ -9653,6 +9912,8 @@ omen</hi>&#x0021;</p></div2>
            <biblScope type="pages">p. 464</biblScope> 
            <date value="1862-05-03">May 10,1862</date>
          
+<extent>18 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Montreal Company's steamer Norwegian we
@@ -9751,6 +10012,8 @@ eastward movement of agricultural produce has commenced.</p></div2>
            <biblScope type="pages">p. 468</biblScope> 
            <date value="1862-05-03">May 10, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY</hi> 10, 1862</p>
 <p>...General M'CIellan had not taken Yorktown at the last
@@ -9786,6 +10049,8 @@ find much credence, and as a sensation paragraph the statement is voted stupid.<
            <biblScope type="pages">p. 488</biblScope> 
            <date value="1862-05-03">May 10, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p><hi rend="smallcaps">New Orleans</hi>&#x2014;There is a charm in
 the life and society of New Orleans difficult to understand and
@@ -9818,6 +10083,8 @@ rend="italic">Once A Week.</hi></p></div2>
            <biblScope type="pages">p. 496-497</biblScope> 
            <date value="1862-05-17">May 17, 1862</date>
          
+<extent>20 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the steamers City of New York and Bohemian we
@@ -9929,6 +10196,8 @@ their readers, the journalists give free rein to the imagination of their Washin
            <biblScope type="pages">p. 501</biblScope> 
            <date value="1862-05-17">May 17, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY</hi> 17.</p>
 
@@ -9971,6 +10240,8 @@ cargoes of despair."</p></div2>
            <biblScope type="pages">p. 504</biblScope> 
            <date value="1862-05-17">May 17, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center">HOUSE OF COMMONS.&#x2014;THURSDAY.</p>
 <p><hi rend="smallcaps">The Slave Trade</hi>.&#x2014;In answer to several
@@ -10006,6 +10277,8 @@ time.</p></div2>
            <biblScope type="pages">p. 507</biblScope> 
            <date value="1862-05-17">May 17, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center">CAPTAIN WILSON, OF THE EMILY ST. PIERRE.</p>
 <p><hi rend="smallcaps">We</hi> announced in a recent Number the
@@ -10069,15 +10342,17 @@ year.</p></div2>
            <biblScope type="pages">p. 507</biblScope> 
            <date value="1862-05-17">May 17, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p507">
+<figure entity="v40p507" width="380" height="535">
 <head>Captain William Wilson, of the Emily St. Pierre.</head>
 </figure>
 </p>
 </div2>
 <div2 id="ilnv40.1145.001" n="The French in Mexico" type="Article">
-<head>The French in Mexico.</head>
+<head>The French in Mexico</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -10085,6 +10360,8 @@ year.</p></div2>
            <biblScope type="pages">p. 519</biblScope> 
            <date value="1862-05-24">May 24, 1862</date>
          
+<extent>6 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE FRENCH IN MEXICO.</p>
 <p> <hi rend="smallcaps">The</hi> European intervention in the affairs
@@ -10263,12 +10540,14 @@ of all mankind.</p></div2>
            <biblScope type="pages">p. 519</biblScope> 
            <date value="1862-05-24">May 24, 1862</date>
          
+<extent>20 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the North American and the City of Washington we
 have news from New York to the l0th inst.</p>
 
-<p rend="center"><hi rend="smallcaps">Belligerent Operations by Sea and Land.</hi></p>
+<p rend="center">BELLIGERENT OPERATIONS BY SEA AND LAND.</p>
 
 <p>The events on the York and James River peninsula have been of the highest significance. On the 30th ult. President Davis and other Confederate leaders arrived at Yorktown, and after a consultation with the leading Generals all agreed that Yorktown was untenable and should be evacuated. General Magruder alone was of opinion that it was not advisable to evacuate the position. General J. Johnston issued the order for the evacuation on the 1st inst. It was commenced on the 2nd and completed on the night of the 3rd. The Confederates left a large amount of guns and camp equippage which they could not remove for fear of being seen.</p>
 
@@ -10346,7 +10625,7 @@ off Wilmington with a cargo of gunpowder and army stores. She passed
 through the fleet of seven vessels, all of which threw shells at her
 without inflicting any damage.</p>
 
-<p rend="center"><hi rend="smallcaps">Miscellaneous.</hi></p>
+<p rend="center">MISCELLANEOUS.</p>
 
 <p>The proceedings of Congress have been unimportant. The French
 Minister arrived at Yorktown on the 4th inst. On the 7th President
@@ -10373,6 +10652,8 @@ total wounded, 7882; missing, 4044: grand total, 13,661.</p></div2>
            <biblScope type="pages">p. 524-525</biblScope> 
            <date value="1862-05-24">May 24, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY</hi> 24, 1862.</p>
 
@@ -10414,6 +10695,8 @@ in the same article.</p></div2>
            <biblScope type="pages">p. 528</biblScope> 
            <date value="1862-05-24">May 24, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi><lb/>HOUSE OF LORDS.&#x2014;TUESDAY.</p>
 <p><hi rend="smallcaps">The Slave Trade.</hi>&#x2014;Earl <hi rend="smallcaps">Russell</hi> laid on the table the convention with
@@ -10436,6 +10719,8 @@ of that time.</p></div2>
            <biblScope type="pages">p. 531</biblScope> 
            <date value="1862-05-24">May 24, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center">THE STEWARD AND COOK OF THE EMILY ST. PIERRE.</p>
 <p><hi rend="smallcaps">We</hi> had the pleasure of giving in our last
@@ -10464,9 +10749,11 @@ the steward and cook.</p></div2>
            <biblScope type="pages">p. 531</biblScope> 
            <date value="1862-05-24">May 24, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p531">
+<figure entity="v40p531" width="538" height="396">
 <head>The Cook and Steward of the Emily St. Pierre.</head>
 </figure>
 </p>
@@ -10480,6 +10767,8 @@ the steward and cook.</p></div2>
            <biblScope type="pages">p. 540</biblScope> 
            <date value="1862-05-24">May 24, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p><hi rend="smallcaps">Postage Stamps.</hi>-We have before our eyes,
@@ -10499,7 +10788,7 @@ collections at sales are regularly quoted.</p></div2>
 
 <div2 id="ilnv40.1146.001" n="A Run by Rail from Washington to
       St. Louis" type="Article">
-<head>A RUN BY RAIL FROM WASHINGTON TO ST. LOUIS.</head>
+<head>A Run by Rail from Washington to St. Louis</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 40</biblScope> 
@@ -10507,6 +10796,8 @@ collections at sales are regularly quoted.</p></div2>
            <biblScope type="pages">p. 540</biblScope> 
            <date value="1862-05-24">May 24, 1862</date>
          
+<extent>9 paragraphs</extent>
+  
 </bibl>
 <p rend="center">A RUN BY RAIL FROM WASHINGTON TO ST. LOUIS.<lb/><hi rend="italic">(From our Special Artist and Correspondent.)</hi></p>
 
@@ -10805,11 +11096,12 @@ save the mail.</p>
            <biblScope type="pages">p. 540</biblScope> 
            <date value="1862-05-31">May 31, 1862</date>
          
+<extent># paragraph</extent>    
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Etna we have news from New York to the 17th inst.</p>
 
-<p rend="center"><hi rend="smallcaps">Belligerent Operations by Sea and Land.</hi></p>
+<p rend="center">BELLIGERENT OPERATIONS BY SEA AND LAND.</p>
 
 <p>Norfolk, the naval dep&#x00f4;t of the Confederates, has surrendered, the
 navy-yard, dry dock, machinery, and vessels there having all been
@@ -10878,8 +11170,7 @@ Carolina, has been appointed Military Governor of that
 State. Mr. Stanley is one of. those few Southerners who adhered to the
 Republican party from its birth.</p>
 
-
-<p rend="center"><hi rend="smallcaps">Miscellaneous.</hi></p>
+<p rend="center">MISCELLANEOUS.</p>
 
 <p>President Davis had recommended the observance of a solemn fast and humiliation on the 16th day of this month.</p>
 
@@ -10897,6 +11188,8 @@ Port Royal.</p>
            <biblScope type="pages">p. 540</biblScope> 
            <date value="1862-05-31">May 31, 1862</date>
          
+<extent>13 paragraphs</extent>
+ 
 </bibl>
 <p rend="center">RICHMOND, VIRGINIA.</p>
 <p>By the time this reaches the hands of our readers it is not only
@@ -11039,9 +11332,11 @@ separate streams.</p></div2>
            <biblScope type="pages">p. 547</biblScope> 
            <date value="1862-05-31">May 31, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p547a">
+<figure entity="v40p547a" width="718" height="388">
 <head>The Civil War in America: General View of
       Richmond, Virginia.&#x2014;From a Sketch by G.H. Andrews.</head>
 </figure>
@@ -11057,9 +11352,11 @@ separate streams.</p></div2>
            <biblScope type="pages">p. 547</biblScope> 
            <date value="1862-05-31">May 31, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p547b">
+<figure entity="v40p547b" width="353" height="323">
 <head>The City Quay, Richmond.&#x2014;From a Sketch
       by G.H. Andrews.</head>
 </figure>
@@ -11075,9 +11372,11 @@ separate streams.</p></div2>
            <biblScope type="pages">p. 547</biblScope> 
            <date value="1862-05-31">May 31, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p547c">
+<figure entity="v40p547c" width="745" height="346">
 <head>Railway Bridge Over the Rapids of James
       River.&#x2014;From a Sketch by G.H. Andrews.</head>
 </figure>
@@ -11092,6 +11391,8 @@ separate streams.</p></div2>
            <biblScope type="pages">p. 549</biblScope> 
            <date value="1862-05-31">May 31, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY</hi> 31, 1862.</p>
 
@@ -11143,6 +11444,8 @@ schooled, but have not sent back the Emily St Pierre.</p></div2>
            <biblScope type="pages">p. 552</biblScope> 
            <date value="1862-05-31">May 31, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi><lb/>HOUSE OF LORDS.&#x2014;MONDAY.</p>
 <p><hi rend="smallcaps">The Slave Trade</hi>.&#x2014;Lord <hi rend="smallcaps">Brougham</hi> directed attention to an omission
@@ -11168,9 +11471,11 @@ effect would meet with attention.</p></div2>
            <biblScope type="pages">p. 554</biblScope> 
            <date value="1862-05-31">May 31, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p554">
+<figure entity="v40p554" width="1285" height="876">
 <head>The War in America: General Pope's
       Division at the Levee, Cairo, on its Way from New Madrid to
       Reinforce General Halleck, near Corinth.&#x2014;From a Sketch by Our
@@ -11188,6 +11493,8 @@ effect would meet with attention.</p></div2>
            <biblScope type="pages">p. 568</biblScope> 
            <date value="1862-06-07">June 7, 1862</date>
          
+<extent>20 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Jura and Edinburgh we are in receipt of news to the 24th ult.</p>
@@ -11266,6 +11573,8 @@ York.</p></div2>
            <biblScope type="pages">p. 576</biblScope> 
            <date value="1862-06-07">June 7, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p><hi rend="smallcaps">Letters for the Southern States of
 America.</hi>&#x2014;The subjoined circular, dated Washington, May 21,
@@ -11289,6 +11598,8 @@ H. Seward</hi>."</p></div2>
            <biblScope type="pages">p. 577</biblScope> 
            <date value="1862-06-07">June 7, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p>Mr. Sumner presented to the United States' Senate a petition 700
 feet long, and signed by 15,000 women, praying for the abolition of
@@ -11305,6 +11616,8 @@ made by a Boston firm. It consisted of 1000 tons of ice.</p></div2>
            <biblScope type="pages">p. 585</biblScope> 
            <date value="1862-06-07">June 7, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p><hi rend="smallcaps">Chinese in California</hi>&#x2014;There are 50,000 Chinese in California&#x2014;viz., 30,000 engaged in mining, 1200 in farm labour, 2000 in
@@ -11330,6 +11643,8 @@ one-fourth of the taxes.</p></div2>
            <biblScope type="pages">p. 592</biblScope> 
            <date value="1862-06-07">June 7, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center">LITERATURE.</p>
 <p>...In the titlepage of his new work, <hi rend="italic">North
@@ -11442,6 +11757,8 @@ occupy. </p></div2>
            <biblScope type="pages">p. 599</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>4 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE CONTEST IN AMERICA.</p>
 <p><hi rend="smallcaps">The</hi> most recent accounts of the
@@ -11503,14 +11820,12 @@ with success. It is no little matter for them that their line touches
 once more upon the Potomac, and that the important State of Virginia
 is as far as ever from being in the 
 
-
-<figure entity="v40p599">
+<figure entity="v40p599" width="737" height="562">
 <head>The Civil War in America: Jefferson
       Thompson's Guerrillas Shooting at Federal Boats on the
       Mississippi.&#x2014;From a Sketch by Our Special Artist.&#x2014;See page
       607.</head>
 </figure>
-
 
 <pb n="600"/>possession of the
 Federals. While the Northern forces, numerically large as they are,
@@ -11599,7 +11914,6 @@ that that consummation is yet to be arrived at, which we are very far
 indeed from admitting, is it necessary that, like the Israelites, she
 must pass through a desert in order to become a nation?</p></div2>
 
-
 <div2 id="ilnv40.1149.002" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
@@ -11609,6 +11923,8 @@ must pass through a desert in order to become a nation?</p></div2>
            <biblScope type="pages">p. 600</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>20 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the steamers Anglo-Saxon and Great Eastern we
@@ -11680,7 +11996,6 @@ steering-apparatus the vessel was brought safely into port. The libellant claims
 great strength. Every steamer that leaves New York or Boston is
 crowded with passengers.</p>
 
-
 <p rend="center">CALIFORNIA.</p>
 
 <p>Nine hundred passengers sailed from San Francisco for Oregon and
@@ -11697,6 +12012,8 @@ ult.</p></div2>
            <biblScope type="pages">p. 601</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>The <hi rend="italic">Fredericksburg Examiner</hi> of Maryland states that
 families of slaves worth 2500 dollars have been selling for 400
@@ -11712,6 +12029,8 @@ dollars.</p></div2>
            <biblScope type="pages">p. 604</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, JUNE</hi> 14, 1862.</p>
@@ -11738,6 +12057,8 @@ the series of Federal successes has so exalted the minds of the journalists and 
            <biblScope type="pages">p. 605</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p>The Great Eastern has just finished another successful voyage
 from New York to Liverpool, at which port she arrived on Wednesday
@@ -11764,6 +12085,8 @@ fourteen Turks on board." </p></div2>
            <biblScope type="pages">p. 605</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 
 <p>The old charter of the State of Connecticut, in the United
@@ -11781,6 +12104,8 @@ State.</p></div2>
            <biblScope type="pages">p. 607</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center">ILLUSTRATIONS OF THE CIVIL WAR IN AMERICA.</p>
 <p><hi rend="smallcaps">Our</hi> Special Artist communicates a few
@@ -11836,9 +12161,11 @@ means it employs to attain its ends."</p></div2>
            <biblScope type="pages">p. 607</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p607">
+<figure entity="v40p607" width="1031" height="476">
 <head>Engagement off Fort Pillow, Mississippi
       River, between Federal and Confederate Gun-Boats.&#x2014;From a Sketch
       by Our Special Artist.</head>
@@ -11855,6 +12182,8 @@ means it employs to attain its ends."</p></div2>
            <biblScope type="pages">p. 607</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>7 paragraphs</extent>
+  
 </bibl>
 <p rend="center">THE CIVIL WAR IN AMERICA.<lb/><hi rend="italic">(From our Special Artist and
 Correspondent.)</hi></p>
@@ -12117,6 +12446,8 @@ but all alike fall victims to their murderous toils.</p>
            <biblScope type="pages">p. 608</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center">IMPERIAL PARLIAMENT.<lb/>HOUSE OF COMMONS.&#x2014;<hi rend="smallcaps">Thursday</hi></p>
 <p><hi rend="smallcaps">...General Butler</hi>&#x2014;Sir J. <hi
@@ -12141,6 +12472,8 @@ of putting an end to the war.</p></div2>
            <biblScope type="pages">p. 620</biblScope> 
            <date value="1862-06-14">June 14, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>The number of oil-wells now flourishing near Oil Creek,
 Pennsylvania, the great centre of the trade in that State, is 75; the
@@ -12163,11 +12496,13 @@ the wells.&#x2014;<hi rend="italic">New York Sun.</hi></p></div2>
            <biblScope type="pages">p. 624</biblScope> 
            <date value="1862-06-21">June 21, 1862</date>
          
+<extent>15 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the Hibernian we have telegrams from New York to the 9th instant.</p>
 
-<p rend="center"><hi rend="smallcaps">Belligerent Operations.</hi></p>
+<p rend="center">BELLIGERENT OPERATIONS.</p>
 
 <p>Another great battle had been fought in front of Richmond, in
 which the Confederates obtained a momentary success, to be succeeded
@@ -12200,7 +12535,7 @@ landed on James Island, opposite Charleston, under cover of a gun-boat,
 and that some fighting had occurred, in which the Federals were
 repulsed.</p>
 
-<p rend="center"><hi rend="smallcaps">Washington.</hi></p>
+<p rend="center">WASHINGTON.</p>
 
 <p>The Federal Navy Department had ordered the construction of fifteen more gun-boats.</p>
 
@@ -12212,7 +12547,7 @@ votes. The bill recognising the independence of Hayti and Liberia, and providing
 
 <p>The Secretary of the Treasury, in a message sent to the Congress, states that the total debt of the Government on the 29th of May was 491,415,894 dols., and that the interest paid averaged only 4&#xb7;35 per cent.</p>
 
-<p rend="center"><hi rend="smallcaps">Miscellaneous.</hi></p>
+<p rend="center">MISCELLANEOUS.</p>
 
 <p>General Dix, commanding at Fortress Monroe, had relaxed all restrictions upon trade with Norfolk.</p>
 
@@ -12240,6 +12575,7 @@ premium of gold had risen to 4&#x00bd; per cent.</p></div2>
            <biblScope type="pages">p. 628</biblScope> 
            <date value="1862-06-21">June 21, 1862</date>
          
+<extent># paragraph</extent>    
 </bibl>
 
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, JUNE</hi> 21, 1862.</p>
@@ -12293,6 +12629,8 @@ vessels, and the surrender of Memphis; and also of a report that the Southern de
            <biblScope type="pages">p. 632</biblScope> 
            <date value="1862-06-21">June 21, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi><lb/>HOUSE OF COMMONS.&#x2014;TUESDAY.</p>
 <p>...Mr.<hi rend="smallcaps">Lindsay</hi>announced, in answer to Mr. Forster, that he should on
@@ -12307,6 +12645,8 @@ recognising the Southern States of America.</p></div2>
            <biblScope type="pages">p. 640</biblScope> 
            <date value="1862-06-21">June 21, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>The New York lawyers complain of very dull times at the
 Bar, and say that not fifty out of the three thousand residing there are making a living.</p></div2>
@@ -12320,6 +12660,8 @@ Bar, and say that not fifty out of the three thousand residing there are making 
            <biblScope type="pages">p. 648-649</biblScope> 
            <date value="1862-06-28">June 28, 1862</date>
          
+<extent>17 paragraphs</extent>
+ 
 </bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>UNITED STATES.</p>
 <p>By the arrival of the Bohemian and City of New York we have news to the 14th inst.</p>
@@ -12423,6 +12765,8 @@ selling out.</p></div2>
            <biblScope type="pages">p. 653</biblScope> 
            <date value="1862-06-28">June 28, 1862</date>
          
+<extent>2 paragraphs</extent>
+  
 </bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, JUNE</hi> 28, 1862.</p>
 
@@ -12455,6 +12799,8 @@ motion in favour of a recognition of the Southern States.</p></div2>
            <biblScope type="pages">p. 655</biblScope> 
            <date value="1862-06-28">June 28, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p rend="center">ILLUSTRATION OF THE WAR IN AMERICA.</p>
 <p><hi rend="smallcaps">The</hi> storm on the Mississippi which forms
@@ -12478,9 +12824,11 @@ besides shell for the entire fleet."</p></div2>
            <biblScope type="pages">p. 655</biblScope> 
            <date value="1862-06-28">June 28, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>
-<figure entity="v40p655">
+<figure entity="v40p655" width="1020" height="545">
 <head>The Civil War in America: Midnight Storm
       on the Mississippi&#x2014;Federal Flotilla at Anchor off Fort
       Pillow.&#x2014;From a Sketch by Our Special Artist.</head>
@@ -12496,6 +12844,8 @@ besides shell for the entire fleet."</p></div2>
            <biblScope type="pages">p. 665</biblScope> 
            <date value="1862-06-28">June 28, 1862</date>
          
+<extent>1 paragraph</extent>
+   
 </bibl>
 <p>Messrs. George Peabody and Co. (the American house) have
 given to each of their clerks &#x00A3;1 worth of tickets and three days' holiday, to
@@ -12504,10 +12854,5 @@ annually allotted for recreation.</p></div2></div1>
       </body>
    </text>
 </TEI.2>
-
-
-
-
-
 
  
