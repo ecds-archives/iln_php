@@ -667,7 +667,7 @@ used, making six bridges. No accident of consequence occurred. The
 troops obeyed with alacrity every order, and waited with patience
 their turn to cross. The artillery and infantry alternated in moving
 column, very much in the order in which they went into battle. Two
-brigades belong to General Butterfield's corps were left to occupy
+brigades <sic>belong</sic> to General Butterfield's corps were left to occupy
 Fredericksburg as advanced pickets. The Federal Artillery placed on
 the hither bank of the river co-operated in keeping possession of the
 town.</p></q>
@@ -941,6 +941,13 @@ his troopers to charge, the reserve cavalry having come up. By night
 not a Federal remained on the Virginia side of the Potomac of those
 who formed part of this triumphal expedition."</p>
 
+<p>
+<figure entity="v42p30">
+<head>Confederate Flag.</head>
+</figure>
+</p>
+
+
 <p rend="center"><hi rend="smallcaps">Confederate Flag.</hi></p>
 
 <p>Our Special Artist inclosed in one of his despatches a flag which
@@ -994,20 +1001,6 @@ Office of Exemption in the fifteenth ward of the city during the time
 when the draught was considered imminent and had been positively fixed
 to take place at the end of November.</p></div2>
 
-<div2 id="iln42.1182.010" n="Confederate Flag." type="Illustration">
-<bibl>
-<title>The Illustrated London News</title>
-<biblScope type="volume">vol.42</biblScope>
-<biblScope type="issue">no.1182</biblScope>
-<biblScope type="pages">p. 30</biblScope>
-<date value="1863-01-03">January 3, 1863</date>
-</bibl>
-<p>
-<figure entity="v42p30">
-<head>Confederate Flag.</head>
-</figure>
-</p>
-</div2>
 
 <div2 id="iln42.1183.001" n= "The West Indies, Free Labour, and Cotton." type="Article">
 <head>The West Indies, Free Labour, and Cotton</head>
@@ -1524,6 +1517,17 @@ exigencies of faction.</p></div2>
 <p>The annual stocktaking of the Liverpool cotton market shows a total
 of 392,000 bales, against 622,565 last year. Of the first-mentioned
 quantity 70,000 are American and 260,050 Surat cotton.</p>
+</div2>
+<div2 id="iln42.1183.105" n= "An American Paper" type="Article">
+<head>[An American Paper]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1183</biblScope>
+<biblScope type="pages">p. 39</biblScope>
+<date value="1863-01-10">January 10, 1863</date>
+</bibl>
+
 <p>An American paper says that a great grandnephew of Oliver Goldsmith
 was shot through the head and died at Antietam.</p></div2>
 
@@ -1592,7 +1596,18 @@ different from that which would have marked sketches taken by the same
 hand in the camp of the army of the Potomac. However that may be, his
 Illustrations cannot fail to be of interest, giving, as they do,
 glimpses into what is wellnigh a sealed book--the doings in the
-Confederate camp. Our present<pb n="44"/> Number contains three
+Confederate camp. Our present
+
+<pb n="44"/>
+
+<figure entity="v42p44">
+<head>The Civil War in America: General
+      Longstreet's Corps (Confederates) Crossing the Blue Ridge from
+      the Shenandoah to the Rappahannock, Virginia.--From a Sketch by
+      Our Special Artist.</head>
+</figure>
+
+ Number contains three
 illustrations by our Special Artist, respecting which he writes as
 follows:--</p>
 
@@ -1707,26 +1722,7 @@ Fredericksburg, into two main branches, whereof that coming from the
 north-west retains the name of Rappahannock, while that from the
 south-west is known as the Rapidan.</p></div2>
 
-<div2 id="iln42.1183.008" n="The Civil War in America: General
-      Longstreet's Corps (Confederates) Crossing the Blue Ridge from
-      the Shenandoah to the Rappahannock, Virginia.--From a Sketch by
-      Our Special Artist." type="Illustration">
-<bibl>
-<title>The Illustrated London News</title>
-<biblScope type="volume">vol.42</biblScope>
-<biblScope type="issue">no.1183</biblScope>
-<biblScope type="pages">p. 44</biblScope>
-<date value="1863-01-10">January 10, 1863</date>
-</bibl>
-<p>
-<figure entity="v42p44">
-<head>The Civil War in America: General
-      Longstreet's Corps (Confederates) Crossing the Blue Ridge from
-      the Shenandoah to the Rappahannock, Virginia.--From a Sketch by
-      Our Special Artist.</head>
-</figure>
-</p>
-</div2>
+
 
 <div2 id="iln42.1183.009" n= "The Latest Measurement of Those
       Freshwater Seas" type="Article">
@@ -1773,7 +1769,7 @@ Confederate war-steamer Alabama, obtained from the late boatswain of
 the "290":--</p>
 
 <q><p>The "290" was built by Mr. Laird, the eminent shipbuilder of
-Rirkenhead, under contract with a Mr. Butcher. She was regularly
+<sic>Rirkenhead</sic>, under contract with a Mr. Butcher. She was regularly
 contracted and paid for; and as nothing transpired during her
 construction to warrant the supposition that she was destined to hoist
 the ensign of the Southern Confederacy, no laws of neutrality were
@@ -2120,7 +2116,17 @@ fire to the vessel. He had also seized a Federal schooner, but as her
 cargo was the property of British subjects she was allowed to proceed
 upon the Captain signing a bond to pay a certain sum of money to the
 Confederate Government at the close of the war.</p>
+</div2>
 
+<div2 id="iln42.1184.102" n= "The Career of the Alabama" type="Article">
+<head>[The Carreer of the Alabama]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1184</biblScope>
+<biblScope type="pages">p. 59</biblScope>
+<date value="1863-01-17">January 17, 1863</date>
+</bibl>
 <p><hi rend="smallcaps">The Career of the Alabama.</hi>--(To the
 Editor.)--Will you grant me space to correct a few of the many errors
 contained in Mr. S. M. Underhill's communication to the <hi rend="italic">Scotsman</hi>
@@ -6124,7 +6130,7 @@ notes in addition to the issue of l00,000,000 dols. authorised in
 January. The rate of taxation of the bank circulation is not
 settled.</p>
 <p>The House of Representatives has passed the Conscription Bill by a
-vote of 115 to 49. A call for troops under this Act is expectly
+vote of 115 to 49. A call for troops under this Act is <sic>expectly</sic>
 shortly.</p>
 
 <p rend="center"><hi rend="smallcaps">Miscellaneous.</hi></p>
@@ -8249,8 +8255,26 @@ represented only by islands rising here and there above the
 sea, America already stretched an unbroken line of sand from Nova
 Scotia to the Far West."</p></div2>
 
+
+<div2 id="iln42.1200.104" n="The Alleged Confederate Gun-boat" type="Article">
+<head>[The Alleged Confederate Gun-boat]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1200</biblScope>
+<biblScope type="pages">p. 455</biblScope>
+<date value="1863-04-25">April 25, 1863</date>
+</bibl>
+<p>The alleged Confederate gun-boat Alexandra has been "exchequered"
+at Liverpool, and it is stated that the Government contemplate legal
+proceedings against the builders.</p>
+</div2>
+
+
+
 <div2 id="iln42.1201.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
+
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 42</biblScope>
@@ -8414,7 +8438,7 @@ enemy.</p></div2>
 <p>
 <figure entity="v42p472">
 <head>The U.S. Gun-boat Weehawken, One of the
-      Iron-clads Engaged in the Bombardment of Charleston.</head>
+      Ironclads Engaged in the Bombardment of Charleston.</head>
 </figure>
 </p>
 </div2>
@@ -9408,12 +9432,12 @@ artists of the time.</p></div2>
 </bibl>
 <p>
 <figure entity="v42p532-533">
-<head>The Civil War in America: Attack by the Federal Iron-clads on
+<head>The Civil War in America: Attack by the Federal Ironclads on
 the Harbour Defences of Charleston, Three P.M. of the 7th of
 April.--from a Sketch by Our Special Artist.;<lb/>The Civil War in
 America: Confederates Sinking Torpedoes by Moonlight in the Harbour
 Channel, Charleston.--From a Sketch by Our Special Artist.;<lb/>The Civil
-War in America: The Federal Iron-clad Keokuk as she Appeared on the
+War in America: The Federal Ironclad Keokuk as she Appeared on the
 Morning After the Fight.--From a Sketch by Our Special Artist.--See
 Page 542.</head>
 </figure>
@@ -9943,6 +9967,16 @@ was withdrawn, and the subject dropped.</p></div2>
 accumulated in Toronto, Hamilton, and London in Canada. The following
 placard is hung up in the Canadian merchants' stores--viz., American
 silver taken at 5 per cent discount.</p>
+</div2>
+<div2 id="iln42.1204.109" n="In the Federal Army" type="Article">
+<head>[In the Federal Army].</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 42</biblScope>
+<biblScope type="issue">no. 1204</biblScope>
+<biblScope type="pages">p. 559</biblScope>
+<date value="1863-05-23">May 23, 1863</date>
+</bibl>
 <p>In the Federal army there are 74 Major-Generals, whose pay is 5000
 dols. each per annum. A Major-General is allowed three aides-de-camp,
 whose pay is 1500 dols. each. There are 284 Brigadier-Generals, whose
@@ -10013,8 +10047,8 @@ he is now retreating. We have again to thank Almighty God for a great
 victory. I regret to state that General Paxton was killed; General
 Jackson severely, and Generals Heth and A.P. Hill, slightly
 wounded.</p>
-<p rend="center">(signed)</p><p rend="right"><hi
-rend="smallcaps">R.E. Lee</hi>. General commanding.</p></q>
+<p><hi rend="center">(signed)</hi><hi rend="right"><hi
+rend="smallcaps">R.E. Lee</hi>. General commanding.</hi></p></q>
 <p>The Federal wounded, 1200 in number, who were left behind on the
 southern side of the Rappahannock, have been sent across under a flag
 of truce. Some of the Federal wounded were burnt in the woods around
@@ -10049,8 +10083,8 @@ as our hope and strength. Let his name be a watchword for his corps,
 who have followed him to victory on so many fields. Let officers and
 soldiers imitate his invincible determination to do everything in the
 defence of our beloved country.</p>
-<p rend="center">(Signed)</p><p rend="right"><hi
-rend="smallcaps">R. E. Lee.</hi></p></q>
+<p><hi rend="center">(Signed)</hi><hi rend="right"><hi
+rend="smallcaps">R. E. Lee.</hi></hi></p></q>
 <p> General Jackson's funeral took place at Richmond, on the 12th,
 with great demonstrations of sorrow and respect. A Richmond journal
 says of it that since the death of Washington no similar event had so
