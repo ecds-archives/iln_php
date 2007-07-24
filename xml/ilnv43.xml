@@ -1676,11 +1676,11 @@ them not, the proof of past failure and the prophecy of future
 weakness. Admonished by its terrible experiences, I believe the nation
 will reunite itself under one Government, remodel its constitution,
 and again address itself to fulfil its glorious destiny." Let us make
-our comment in the words of Homer--<hi rend="italic">&#x03C4;&#x03B1; &#x03B4;&#x03B5;
-&#x03C0;&#x03B1;&#x03BD;&#x03C4;&#x03B1;
-&#x03B8;&#x03B5;&#x03C9;&#x03BD; &#x03B5;&#x03BD;
-&#x03B3;&#x03BF;&#x03C5;&#x03BD;&#x03B1;&#x03C3;&#x03B9;
-&#x03BA;&#x03B5;&#x03B9;&#x03C4;&#x03B1;&#x03B9;</hi>.</p></div2>
+our comment in the words of Homer--<hi rend="italic">&#x03C4;&#x1F70; &#x03B4;&#x1F72;
+&#x03C0;&#x1F71;&#x03BD;&#x03C4;&#x03B1;
+&#x03B8;&#x03B5;&#x1FF6;&#x03BD; &#x1F72;&#x03BD;
+&#x03B3;&#x03BF;&#x1F7B;&#x03BD;&#x03B1;&#x03C3;&#x03B9;
+&#x03BA;&#x03B5;&#x1FD6;&#x03C4;&#x03B1;&#x03B9;</hi>.</p></div2>
 
 <div2 id="iln43.1215.001" n= "Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
@@ -2109,23 +2109,6 @@ back on the Potomac, and, as we learn this week, has withdrawn his
 army into Virginia, leaving a brigade of infantry, with two guns, in the
 hands of the Federals.</p></div2>
 
-<div2 id="iln43.1215.005" n="Major-General George G. Meade, the New
-      Commander of the Army of the Potomac." type="illustration">
-<bibl>
-<title>The Illustrated London News</title>
-<biblScope type="volume">vol.43</biblScope>
-<biblScope type="issue">no.1215</biblScope>
-<biblScope type="pages">p. 117</biblScope>
-<date value="1863-08-01">August 1, 1863</date>
-
-</bibl>
-<p>
-<figure entity="v43p117">
-<head>MAJOR-GENERAL GEORGE G. MEADE, THE NEW
-      COMMANDER OF THE ARMY OF THE POTOMAC.</head>
-</figure>
-</p>
-</div2>
 
 <div2 id="iln43.1215.006" n= "In the course of a debate in the House
       of Commons" type="Article">
@@ -2169,6 +2152,25 @@ which, in the interest of his correspondent, he has been anxious to
 avoid. Mr. Laird further states that if any person has "importuned"
 the American Navy Department in behalf of his firm, he has done so
 without any authority.</p></div2>
+
+<div2 id="iln43.1215.005" n="Major-General George G. Meade, the New
+      Commander of the Army of the Potomac." type="illustration">
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol.43</biblScope>
+<biblScope type="issue">no.1215</biblScope>
+<biblScope type="pages">p. 117</biblScope>
+<date value="1863-08-01">August 1, 1863</date>
+
+</bibl>
+<p>
+<figure entity="v43p117">
+<head>MAJOR-GENERAL GEORGE G. MEADE, THE NEW
+      COMMANDER OF THE ARMY OF THE POTOMAC.</head>
+</figure>
+</p>
+</div2>
+
 
 <div2 id="iln43.1216.001" n="The Riots in New York: Attack by the Mob
       on the Tribune Newspaper Office.--See Page 142." type="illustration">
@@ -2404,8 +2406,19 @@ only get intelligence by an occasional courier, who runs the gauntlet
 of the Yankee lines.</p>
 <p>Jackson for a short time was occupied by the Federal army under
 General Grant. The enemy entered the town in overwhelming force after
-a smart engagement with very inferior numbers, who were com-<pb
-n="129"/>pelled to retire on the army collecting under General
+a smart engagement with very inferior numbers, who were com-
+
+<pb n="128"/>
+<figure entity="v43p128">
+<head>THE CIVIL WAR IN AMERICA: TRAIN WITH
+      REINFORCEMENTS FOR GENERAL JOHNSTON RUNNING OFF THE TRACK IN THE
+      FORESTS OF MISSISSIPPI. FROM A SKETCH BY OUR SPECIAL ARTIST.;
+      THE CIVIL WAR IN AMERICA: RE-OCCUPATION OF JACKSON, MISSISSIPPI,
+      BY THE CONFEDERATES.--FROM A SKETCH BY OUR SPECIAL ARTIST.--SEE
+      PRECEDING PAGE.</head>
+</figure>
+
+<pb n="129"/>pelled to retire on the army collecting under General
 Johnston for the relief of Vicksburg. During their occupation, which
 lasted two days, the Yankees were guilty of every kind of vandalism;
 they sacked houses, stole clothing from the negroes, burst open their
@@ -2418,31 +2431,7 @@ entered it with them. We found a large part of the place in flames,
 buildings being fired indiscriminately by the retreating enemy, who
 fled precipitately before our advance.</p></div2>
 
-<div2 id="iln43.1216.004" n="The Civil War in America: Train with
-      Reinforcements for General Johnston Running off the Track in the
-      Forests of Mississippi. From a Sketch by our Special Artist.;
-      The Civil war in America: Re-Occupation of Jackson, Mississippi,
-      by the Confederates.--From a Sketch by our Special Artist.--See
-      Preceding Page." type="illustration">
-<bibl>
-<title>The Illustrated London News</title>
-<biblScope type="volume">vol.43</biblScope>
-<biblScope type="issue">no.1216</biblScope>
-<biblScope type="pages">p. 128</biblScope>
-<date value="1863-08-08">August 8, 1863</date>
 
-</bibl>
-<p>
-<figure entity="v43p128">
-<head>THE CIVIL WAR IN AMERICA: TRAIN WITH
-      REINFORCEMENTS FOR GENERAL JOHNSTON RUNNING OFF THE TRACK IN THE
-      FORESTS OF MISSISSIPPI. FROM A SKETCH BY OUR SPECIAL ARTIST.;
-      THE CIVIL WAR IN AMERICA: RE-OCCUPATION OF JACKSON, MISSISSIPPI,
-      BY THE CONFEDERATES.--FROM A SKETCH BY OUR SPECIAL ARTIST.--SEE
-      PRECEDING PAGE.</head>
-</figure>
-</p>
-</div2>
 
 <div2 id="iln43.1216.005" n="The Riots in New York: The Mob Lynching a
       Negro in Clarkson-Street.--See Page 142." type="illustration">
@@ -2701,6 +2690,12 @@ slaughter, some two miles and a half to the south of that town.</p>
 of ground, and contesting the strong position to which General Meade
 had fallen back, commanding all the roads and affording excellent
 defensive works to the Federal army. On the third day,<pb n="156"/>
+
+<figure entity="v43p156">
+<head>MAP ILLUSTRATING GENERAL LEE'S ADVANCE
+      INTO PENNSYLVANIA.; PLAN OF PITTSBURG.; THE DEFENCES OF WASHINGTON.</head>
+</figure>
+<lb/>
 when fortune, long doubtful, seemed inclining to the Confederate arms,
 two brigades of fresh troops arrived to reinforce General Meade, and
 changed the fate of the day. Simultaneously with this General Lee
@@ -2759,23 +2754,7 @@ sentiment.</p>
 <p>The plans which we append of Pittsburg and the fortifications of
 Washington will speak for themselves.</p></div2>
 
-<div2 id="iln43.1216.009" n="Map Illustrating General Lee's Advance
-      into Pennsylvania.; Plan of Pittsburg., The Defences of Washington." type="illustration">
-<bibl>
-<title>The Illustrated London News</title>
-<biblScope type="volume">vol.43</biblScope>
-<biblScope type="issue">no.1216</biblScope>
-<biblScope type="pages">p. 156</biblScope>
-<date value="1863-08-08">August 8, 1863</date>
 
-</bibl>
-<p>
-<figure entity="v43p156">
-<head>MAP ILLUSTRATING GENERAL LEE'S ADVANCE
-      INTO PENNSYLVANIA.; PLAN OF PITTSBURG.; THE DEFENCES OF WASHINGTON.</head>
-</figure>
-</p>
-</div2>
 
 <div2 id="iln43.1217.001" n= "At Home and Abroad" type="Article">
 <head>At Home and Abroad</head>
@@ -4074,7 +4053,17 @@ them enter the ravines and gorges at the outer lines of Federal
 pickets. This was at a point some twelve miles from Vicksburg; and as
 I lay on the ground in the calm, quiet night I could distinctly <sic>here</sic>
 sounds of musketry between the loud booming of the mortars. Probably a
-sortie was taking place, the Confederates<pb n="217"/> having made one
+sortie was taking place, the Confederates
+<pb n="216" />
+<figure entity="v43p216">
+<head>The Civil War in America. Southern
+      Refugees Encamping in the Woods near Vicksburg.--From a Sketch
+      by Our Special Artist.--See Preceding Page.; Confederate Scouts
+      with Percussion-caps for the Garrison of Vicksburg Running the
+      Federal Pickets.--From a Sketch by Our Special Artist.</head>
+</figure>
+
+<pb n="217"/> having made one
 or two at that time which were brilliantly successful. These scouts
 lay in the woods during the day, and when night came they crept on
 their hands and knees through successive lines of the enemy's pickets,
@@ -4085,25 +4074,7 @@ disturbing them are crawling along in the dense shadows, avoiding
 every gleam of moonlight, and prepared at any moment to use the
 revolver or the knife.</p></div2>
 
-<div2 id="iln43.1219.005" n="The Civil War in America. Southern
-      Refugees Encamping in the Woods near Vicksburg.--From a Sketch
-      by Our Special Artist.--See Preceding Page.; Confederate Scouts
-      with Percussion-caps for the Garrison of Vicksburg Running the
-      Federal Pickets.--From a Sketch by Our Special Artist." type="illustration">
-<bibl>
-<title>The Illustrated London News</title>
-<biblScope type="volume">vol.43</biblScope>
-<biblScope type="issue">no.1219</biblScope>
-<biblScope type="pages">p. 216</biblScope>
-<date value="1863-08-29">August 29, 1863</date>
 
-</bibl>
-<p>
-<figure entity="v43p216">
-<head>CHICAGO, FROM THE MICHIGAN CENTRAL RAILWAY.</head>
-</figure>
-</p>
-</div2>
 
 <div2 id="iln43.1220.001" n= "Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
@@ -5227,7 +5198,16 @@ approaches to the city. A temporary success enabled them to throw up
 works in front of Fort Wagner, and to commence an advance on the
 last-named stronghold. In conjunction with their iron fleet, which
 took up an enfilading position seawards, they maintained a heavy fire
-of mortars,<pb n="318" /> 11-inch and 15-inch guns, on the devoted sandworks during
+of mortars,<lb />
+
+<figure entity="v43p301">
+<head>THE WAR IN AMERICA: SCENE PRESENTED IN
+      THE DITCH AND ON THE SOUTHERN SLOPE OF FORT WAGNER, CHARLESTON
+      HARBOUR, THE MORNING AFTER THE ASSAULT OF JULY 18. FROM A SKETCH BY OUR SPECIAL
+      ARTIST.</head>
+</figure>
+
+<pb n="318" /> 11-inch and 15-inch guns, on the devoted sandworks during
 the whole day preceding the assault. At a little after eight in
 the evening the Yankees attacked with three brigades, believing that a
 bombardment of twelve hours' duration from ordnance of hitherto
@@ -5258,27 +5238,7 @@ four and five deep on each other; there could not have been less than
 250 in the moat, some partially submerged; and, altogether, over 600
 were buried by the Southerners.</p></div2>
 
-<div2 id="iln43.1223.006" n="The War in America: Scene Presented in
-      the Ditch and on the Southern slope of Fort Wagner, Charleston
-      Harbour, the Morning after the Assault of July 18. From a Sketch by Our Special
-      Artist." type="illustration">
-<bibl>
-<title>The Illustrated London News</title>
-<biblScope type="volume">vol.43</biblScope>
-<biblScope type="issue">no.1223</biblScope>
-<biblScope type="pages">p. 301</biblScope>
-<date value="1863-09-26">September 26, 1863</date>
 
-</bibl>
-<p>
-<figure entity="v43p301">
-<head>THE WAR IN AMERICA: SCENE PRESENTED IN
-      THE DITCH AND ON THE SOUTHERN SLOPE OF FORT WAGNER, CHARLESTON
-      HARBOUR, THE MORNING AFTER THE ASSAULT OF JULY 18. FROM A SKETCH BY OUR SPECIAL
-      ARTIST.</head>
-</figure>
-</p>
-</div2>
 
 <div2 id="iln43.1223.007" n= "The Typical Yankee" type="Article">
 <head>The Typical Yankee</head>
@@ -5489,6 +5449,36 @@ a local force may be raised of sufficient strength to defend the
 territory against the inroads of the enemy.</p>
 <p>Peace propositions in the Virginian Legislature have been voted
 down by thirty-eight to one.</p></div2>
+
+<div2 id="iln43.1224.101" n= "Foreign and Colonial News" type="Article">
+<head>Foreign and Colonial News</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 43</biblScope>
+<biblScope type="issue">no. 1224</biblScope>
+<biblScope type="pages">p. 327</biblScope>
+<date value="1863-10-03">October 3, 1863</date>
+
+</bibl>
+<p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi></p>
+<p rend="center">CAPE OF GOOD HOPE.</p>
+<p>...The Confederate war-steamers Alabama and Georgia were cruising
+off the coast and snapping up Federal merchantmen.  Another vessel,
+the Tuscaloosa, formerly the barque Conrad, armed as a Confederate
+cruiser, had also visited Simon's Bay. The United States' Consul
+protested against the capture, as having been made within a cannon
+shot of the shore. He also claimed the restitution of the Tuscaloosa,
+as agentfor her owners, on the ground that, not having been condemned
+by the Prize Court of any recognised country, her entry into a
+British port was a violation of the Queen's proclamation.  The
+Governor decided against both these demands, wereupon the Consul
+protested in the name of his Government, and pointed out that the
+original cargo of the Tuscaloosa had been sold to cerchants at Cape
+Town, and that the cargo of the Sea Bride would be similarly disposed
+of.</p>
+<p>The Valorous had gone to Sldanha Bay to watch the Confederates,
+and the Vanderbilt had left St. Helena in chase of the Alabama.</p>
+</div2>
 
 <div2 id="iln43.1224.002" n="Macon, Georgia.--See Next Page." type="illustration">
 <bibl>
