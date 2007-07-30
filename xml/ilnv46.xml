@@ -57,8 +57,8 @@ London News Perspective</title>
             <head>Illustrated London News: Volume 46</head>
 <docDate>January to June 1865</docDate>
 
-<div2 id="iln46.1296.001" n= "The prospect westerly is not so auspicious" type="Article">
-<head>[THE PROSPECT WESTERLY IS NOT SO AUSPICIOUS]</head>
+<div2 id="iln46.1296.001" n= "The Year Before Us" type="Article">
+<head>The Year Before Us</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -67,7 +67,8 @@ London News Perspective</title>
 <date value="1865-01-07">January 7, 1865</date>
 
 </bibl>
-<p>....The prospect westerly is not so auspicious. Would that it were
+<p rend="center">THE YEAR BEFORE US.</p>
+<p>...The prospect westerly is not so auspicious. Would that it were
 in our power to foretell the certain termination of the struggle in
 America before the year 1865 has closed! We can only look and sigh
 over the ruin that is there running its course, and try to hope that,
@@ -82,7 +83,7 @@ the two Governments were not guided by a spirit of self-restraint
 towards each other. Happily, as on the part of Canada the judgment of
 its legal officer has been spontaneously repudiated, so on the part of
 the United States the rash order of its military officer has been
-discountenanced; and where there is a frank recognition of each others
+discountenanced; and where there is a frank recognition of each other's
 good faith, and an evident desire on both sides to clear up accidental
 misunderstandings, we need not allow our anxiety to deepen into
 apprehension. Hitherto we have maintained our neutrality without
@@ -93,8 +94,8 @@ maritime Powers in the world as a calamity which is equally and
 earnestly deprecated by both, and is therefore
 improbable....</p></div2>
 
-<div2 id="iln46.1296.002" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1296.002" n= "Foreign and Colonial Intelligence" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -113,9 +114,10 @@ in spite of General Thomas's hot pursuit. On the 20th ult. Hood was
 joined at Columbia by Forrest; and on the 22nd he had reached Pulaski,
 seventy-five miles south of Nashville, still closely pressed by the
 Federal cavalry. The Federal accounts estimate Hood's losses at 17,000
-men, killed, wounded and taken prisoners; and represent Thomas's
+men, killed, wounded, and taken prisoners; and represent Thomas's
 losses not to have exceeded 5000 men.</p>
-<p>General Sherman reports on the 13th ult., from Ossibau Sound, that
+<p>General Sherman reports on the 13th ult., from Ossibau [i.e.,
+ossabaw] Sound, that
 he had captured Fort M'Allister, opened communication with the fleet,
 destroyed the railroads leading to Savannah, and invested the
 city. His left rested on the Savannah River, three miles above the
@@ -141,7 +143,7 @@ ult.; and the Confederate commander, General Bragg, added in his
 despatch a confident declaration that he could hold Wilmington. It was
 said that Porter's fleet had been crippled by a storm, and no
 immediate attack on Wilmington was expected.</p>
-<p>Advices received at New York state that the exchange of prisoners
+<p>Advices received at New York state that, the exchange of prisoners
 at Charleston being ended, the bombardment of the city will be
 immediately recommenced.</p>
 <p>The Federal gun-boat Narcissus has been blown up by a torpedo at
@@ -160,7 +162,7 @@ specially to persons coming from the British provinces.</p>
 <p>Both branches of the Federal Congress had adjourned to the 5th
 inst.</p>
 <p>Gold was quoted at New York, on the afternoon of the 24th ult., at
-220&#x00B7;.</p>
+220&#x00BE;.</p>
 <p>In the Southern Congress there have been some noteworthy
 movements. First, a resolution has been introduced to send
 commissioners to treat with Federal commissioners upon the restoration
@@ -192,7 +194,7 @@ maintained between the belligerent States of America....</p></div2>
 
 <div2 id="iln46.1296.003" n= "The Sinking of the Confederate Steamer
       Florida, in the James River." type="Article">
-<head>THE SINKING OF THE CONFEDERATE STEAMER FLORIDA, IN THE JAMES RIVER.</head>
+<head>THE SINKING OF THE CONFEDERATE STEAMER FLORIDA, IN THE JAMES RIVER</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -201,9 +203,9 @@ maintained between the belligerent States of America....</p></div2>
 <date value="1865-01-07">January 7, 1865</date>
 
 </bibl>
-<p rend="center">THE SINKING OF THE<lb/><hi
-rend="smallcaps">Confederate Steamer<lb/>Florida, In The
-James<lb/>River.</hi></p>
+<p rend="center">THE SINKING OF THE <hi
+rend="smallcaps">Confederate Steamer Florida, In The
+James River.</hi></p>
 <p><hi rend="smallcaps">It</hi> would have been disagreeable to the
 national pride of the Americans if the Federal Government at
 Washington, unable to answer the diplomatic remonstrances provoked by
@@ -226,7 +228,7 @@ mouth of the river. In the distance is Newport News, with a military
 camp on shore. The following account of the destruction of the Florida
 is given by the correspondent of a New York paper:--</p>
 <p>"On the 19th the Florida went to Norfolk to coal, and just before
-starting was run into by the transport-steamer Alliance. She was was
+starting was run into by the transport-steamer Alliance. She was<sic> was</sic>
 in very bad condition when captured, and all the time since her
 arrival here she has leaked so badly as to keep the steam-pump engaged
 continually. The collision with the Alliance greatly increased the
@@ -240,13 +242,21 @@ was found the ill-fated ship was sinking, to move her toward the
 shore, as there was but 7 lb. pressure of steam--just sufficient to
 work the pumps. Neither were there means at hand for towing her
 ashore. In a few minutes after sending the two boats to the Florida,
-Captain Woodward, of the Atlanta, came himself on<pb n="6"/> board to
+Captain Woodward, of the Atlanta, came himself on
+
+<p>
+<figure entity="v46p5">
+<head>THE CONFEDERATE STEAMER FLORIDA SUNK IN
+      THE JAMES RIVER.</head>
+</figure>
+</p>
+<pb n="6"/> board to
 see what could be done to keep her afloat. But it was apparent that
 she must soon sink, and the men were ordered to save their effects and
-prepare to leave her to her fate. The Florida kept rapidly filling so
+prepare to leave her to her fate. The Florida kept rapidly filling, so
 that at seven o'clock the water was a foot above the berth-deck. At
 the same time that Mr. Baker signalled the Atlanta he sent a
-telepathic message to Admiral Porter at this place that the Florida
+telegraphic message to Admiral Porter at this place that the Florida
 was sinking. The Admiral immediately ordered the tug Page to steam up
 to the Florida and tow her into shoal water towards the shore. The tug
 came alongside at 7.15, but the Florida was by this time so near
@@ -259,31 +269,15 @@ board just as when she was captured. There is a feeling of general
 satisfaction among naval officers here at her fate. It is considered
 much preferable to have her disposed of here, and then indemnity be
 offered to the Brazilian Government, than suffer the humiliation of
-taking her backs and seeing her saluted as she would enter the harbour
+taking her back and seeing her saluted as she would enter the harbour
 of Rio Janeiro in triumph, with the rebel flag flying. This would have
 been a most bitter pill to the American officers who would have had to
 accompany her."</p></div2>
 
-<div2 id="iln46.1296.004" n="The Confederate Steamer Florida Sunk in
-      the James River." type="illustration">
-<bibl>
-<title>The Illustrated London News</title>
-<biblScope type="volume">vol.46</biblScope>
-<biblScope type="issue">no.1296</biblScope>
-<biblScope type="pages">p. 5</biblScope>
-<date value="1865-01-07">January 7, 1865</date>
 
-</bibl>
-<p>
-<figure entity="v46p5">
-<head>THE CONFEDERATE STEAMER FLORIDA SUNK IN
-      THE JAMES RIVER.</head>
-</figure>
-</p>
-</div2>
 
-<div2 id="iln46.1296.005" n= "Echoes of the Week." type="Article">
-<head>ECHOES OF THE WEEK.</head>
+<div2 id="iln46.1296.005" n= "Echoes of the Week" type="Article">
+<head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -293,7 +287,7 @@ accompany her."</p></div2>
 
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
-<p>....But they are saying at the clubs, too, that Lord Lyons will not
+<p>...But they are saying at the clubs, too, that Lord Lyons will not
 return to Washington. His Lordship has but recently returned to this
 country on leave of absence; but, if the sages of Pall-mall are to be
 believed, he will not resume his arduous and thankless mission. He is
@@ -304,15 +298,15 @@ kind. But who is to replace an amiable and discreet diplomatist, who,
 all things considered, has been the very best Minister we have ever
 accredited to the United States? Washington might be an agreeable
 change from Madrid to Sir John Crampton; but, alas! Sir John knows the
-District of Columbia but too well. Did not our cousin turn him out of
-it and out of the country to boot, ten years ago? Lord Napier; too,
+District of Columbia but too well. Did not our cousins turn him out of
+it, and out of the country to boot, ten years ago? Lord Napier, too,
 has been promoted; but were it possible to take him from
 St. Petersburg, his return to America would eminently please the
 Northerners, among whom his frank and cordial manners have made him
 exceedingly popular....</p></div2>
 
 <div2 id="iln46.1296.006" n= "An Atlas of America" type="Article">
-<head>[AN ATLAS OF AMERICA]</head>
+<head>[An Atlas of America]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -333,8 +327,8 @@ in the history of the States, of Canada, of Mexico, and of parts of
 the southern continent, this elaborate work supplies a great
 want.</p></div2>
 
-<div2 id="iln46.1296.007" n= "The Magazines." type="Article">
-<head>THE MAGAZINES.</head>
+<div2 id="iln46.1296.007" n= "The Magazines" type="Article">
+<head>The Magazines</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -344,7 +338,7 @@ want.</p></div2>
 
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
-<p>....The opening paper in <hi rend="italic">Fraser</hi>, "President
+<p>...The opening paper in <hi rend="italic">Fraser</hi>, "President
 Lincoln," by an American Abolitionist (Mr. Conway, we imagine), is
 remarkable as a manifesto from that small but earnest band whose
 triumphant contest in the name of principle against oppression,
@@ -363,7 +357,7 @@ caution has been the salvation of the very men by whom he is so
 fiercely denounced. He has been to Garrison and Phillips what Peel was
 to Cobden, or Cavour to Mazzini--a practical, worldly wise man,
 standing on a far lower moral level, but without whom lofty principles
-and ardent imaginations would never have appeared in the guise of
+and ardent imaginations would never have appeared in the guise of substanitial
 realities....</p>
 <p>This month's <hi rend="italic">Blackwood</hi> witnesses the
 conclusion of "Tony Butler," which has not wholly redeemed the promise
@@ -376,14 +370,14 @@ flippancy and ignorance. The English officer's account of his visit to
 the Confederate States is more satisfactory, though it is impossible
 to repress a groan over the stupidity which could turn such splendid
 opportunities to such poor account. However, we must take him as he
-is, and be thankful. Charleston and the Chattanooga campaign are the
+is, and be thankful. Charleston and the <sic>Chatanooga</sic> campaign are the
 subjects of his present instalment. With characteristic infelicity he
-managed to arrive at General Bragg' head-quarters just too late for
-the battle of Chicamauga, and to quit them just before that of
+managed to arrive at General Bragg's head-quarters just too late for
+the battle of <sic>Chicamauga</sic>, and to quit them just before that of
 Missionary Ridge....</p></div2>
 
 <div2 id="iln46.1296.008" n= "A company has been formed" type="Article">
-<head>[A COMPANY HAS BEEN FORMED]</head>
+<head>[A Company has been Formed]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -398,7 +392,7 @@ years 2000 acres of land on Long Island, one of the group of
 Bahamas.</p></div2>
 
 <div2 id="iln46.1296.009" n= "The seal of the Confederate States of America" type="Article">
-<head>[THE SEAL OF THE CONFEDERATE STATES OF AMERICA]</head>
+<head>[The Seal of the Confederate States of America]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -412,23 +406,35 @@ which is by J. H. Foley, R. A., contains as a centre a representation
 of that statue of Washington which was executed by the American
 sculptor, Crawford, and erected at Richmond. The figure is mounted and
 in uniform, as commanding in an engagement. It is surrounded by a
-wreath beautifully composed of the most valuable vegetable products of
+wreath, beautifully composed of the most valuable vegetable products of
 the Southern soil, as tobacco, rice, maize, cotton, wheat, and
 sugar-cane. The rim bears the legend, "The Confederate States of
 America, 22nd February, 1862. Deo Vindice." The seal is of silver, and
 its diameter is from three to four inches.</p>
+</div2>
+
+<div2 id="iln46.1296.109" n= "There appears to be" type="Article">
+<head>[There Appears to Be]</head>
+<bibl>
+<title>The Illustrated London News</title>
+<biblScope type="volume">vol. 46</biblScope>
+<biblScope type="issue">no. 1296</biblScope>
+<biblScope type="pages">p. 23</biblScope>
+<date value="1865-01-07">January 7, 1865</date>
+
+</bibl>
 <p>There appears to be as large an amount of carelessness on the part
 of the letter-writing community in America as in the Old Country. The
 report of Postmaster Dennison shows that 3,580,325 dead letters were
 received during the past year--over 9000 a day. Many of these letters
 contained money, deeds, bills of exchange, draughts, cheques,
 jewellery, and other valuables. Some of them were misdirected, others
-not directed at all, other, unstamped, and others only partially
+not directed at all, others, unstamped, and others only partially
 directed. Thousands of these dead letters were returned to the
 writers, but the great majority had to be destroyed.</p></div2>
 
-<div2 id="iln46.1297.001" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1297.001" n= "Foreign and Colonial Intelligence" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -471,11 +477,11 @@ orders. Admiral Porter, in his report of the operations, stated that
 on the 24th ult., after a large powder-ship had been blown up under
 the walls of Fort Fisher, without doing any damage, his fleet
 bombarded the fort, and in an hour silenced the Confederate fire. On
-the afternoon of the 25th 8000 troops, under the command of General
+the afternoon of the 25th 3000 troops, under the command of General
 Weitzel, landed under cover of the fire from the fleet, captured two
 batteries, and advanced within fifty yards of Fort Fisher, some of the
 men even entering the outworks. General Weitzel, however, deemed a
-successful attack impracticable, and reembarked on the same evening,
+successful attack impracticable, and re-embarked on the same evening,
 though about 1000 men remained ashore during the following day, in
 consequence of the state of the weather. General Butler informed
 Admiral Porter, on the night of the 25th ult., that an assault was
@@ -504,7 +510,7 @@ Louisiana was towed to Craney Island, where she was loaded. The hold
 was left empty, as the powder at the explosion was desired to be as
 much as possible above water. The powder was contained in a bulkhead
 occupying a portion of the berth-deck and extending nearly to the
-boilers. the first tier of powder was placed in the barrels with the
+boilers. the first tier of powder was placed in barrels with the
 heads taken out, and the remainder was in bags. For the purpose of
 exploding the powder, there were three clock-fuses placed in the
 vessel, one in each gangway and one aft, near the boilers. From each
@@ -523,7 +529,7 @@ thirty or forty minutes, and by that time the party, with their
 steam-launch, would probably be five miles away. A provision was made,
 however, in case something should occur--some accident befall the
 launch. Under such circumstances they were to take the surf-boat and
-row for life till<pb n="27"/> the time for the explosion, when they
+row for life till<pb n="27"/> just within the time for the explosion, when they
 were to jump overboard, go with ropes and buoys as far as possible
 from the boat, submerge to the head, and, with cotton in their ears,
 await the shock.</p></q>
@@ -590,8 +596,8 @@ three of the raiders had made their way into the United States, and
 had enlisted into the Federal service in New Hampshire, but had been
 recognised and arrested.</p></div2>
 
-<div2 id="iln46.1297.002" n= "'From Erith to Wilmington.'" type="Article">
-<head>["FROM ERITH TO WILMINGTON."]</head>
+<div2 id="iln46.1297.002" n= "London: Saturday, January 14, 1865" type="Article">
+<head>London: Saturday, January 14, 1865</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -606,13 +612,13 @@ Saturday, January</hi> 14, 1865.</hi></p>
 bank of the Thames, with its interesting old church and sundial
 thereon, its yacht proclivities, and its water-side population, who
 seem to get their living by leaning, in a long row, against the wooden
-rails and, abusing one another in some dialect of Kent, was awfully
+rails and abusing one another in some dialect of Kent, was awfully
 astonished on the morning when the powder blew up, by nobody's fault,
 and in a second converted a scene of orderly industry into a hideous
 ruin. But it must be almost as much astounded to learn that the story
 of that explosion, having found its way across the Atlantic, set<pb
 n="31"/> the Federal Admiral Porter upon a scheme for reducing a
-strong Confederate fortress. Such, it appears, was the case; the ruin
+strong Confederate fortress. Such, it appears, was the case; and the ruin
 wrought by that Erith catastrophe would, it was hoped, be paralleled
 at Fort Fisher. Every clever precaution was taken to ensure success. A
 tremendous quantity of powder was stowed on board a ship, and the most
@@ -624,12 +630,13 @@ judged the best. Brave men fixed her at her moorings, set the terrible
 clocks going, and escaped. The expedition watched with bated breath
 for the eruption of the volcano. The clocks were faithful,</p>
 <p rend="center">The nitre fired, and, while the dreadful
-sound;<lb/>Responsive shook the yielding air around,</p>
+sound<lb/>Responsive shook the yielding air around,</p>
 <p>the assailants' hearts beat high; and, as the smoke cleared, the
 Federals hoped to see a ruin where Fort Fisher had been. "The shock
 was nothing like so severe as was expected," writes the frank sailor;
 "it shook the vessel <hi rend="italic">some</hi>, broke one or two
-glasses, but nothing more." Wilmington is luckier than Erith. However,
+glasses, but nothing more." Wilmington is luckier than Erith.</p>
+<p> However,
 Admiral Porter, with a fine squadron, was not the man to be satisfied
 with one failure. The experiment had been fruitless; but he had his
 guns, and plenty of them, and he brought up his ironclads, and
@@ -709,12 +716,12 @@ an injury to the cause of humanity, and we trust that both the word
 and the idea will be alike discarded. The moment is not inopportune
 for the discussion of an honourable peace, which must be obtained by
 mutual concessions; and it could be wished that some Nestor could step
-in between the transatlantic Ajax and Ulysses, and say,</p>
-<p rend="center">"Forbear, my sons, your further might to
+in between the Transatlantic Ajax and Ulysses, and say,</p>
+<p rend="center">Forbear, my sons, your further might to
 prove.</p></div2>
 
-<div2 id="iln46.1297.003" n= "The Town and Port of Savannah." type="Article">
-<head>THE TOWN AND PORT OF SAVANNAH.</head>
+<div2 id="iln46.1297.003" n= "The Town and Port of Savannah" type="Article">
+<head>The Town and Port of Savannah</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -734,10 +741,10 @@ Carolina. The Savannah river, indeed, marks the frontier between South
 Carolina and the State of Georgia, to which the town or city of
 Savannah belongs. The population was, previously to the war, about
 25,000, and the place was a thriving mart for cotton, rice and lumber,
-but especially for the Sea-Island cotton, the most valuable kind, that
+but especially for the Sea-Island cotton, the most valuable kind that
 is grown, produced nowhere except in the low lands along this
 coast. The harbour is good, there being from 18 ft. to 21 ft. of water
-at low-tide over the bar at the mouth of the river, while vessels
+at ebb-tide over the bar at the mouth of the river, while vessels
 drawing 13 ft. can get up to the wharves of the town, and those
 drawing 15 ft. or 16 ft. may go as far as Five-fathom Hole, three
 miles below the town. There is steam navigation up the river to
@@ -769,8 +776,8 @@ capabilities of the place for military fortification.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln46.1297.005" n= "Echoes of the Week." type="Article">
-<head>ECHOES OF THE WEEK.</head>
+<div2 id="iln46.1297.005" n= "Echoes of the Week" type="Article">
+<head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -801,7 +808,7 @@ Christmas Day.</p>
 since we saw him in his little bijou of a house in New York,
 surrounded by the portraits of Macready, and Younge, and Kemble, with
 his stalwart son Lester by his side, and a little grandson on his
-knee, looking as handsome, and as dignified as of yore, and full of
+knee, looking as handsome and as dignified as of yore, and full of
 his old humour, vivacity, and grace. He had been for many years a
 cruel sufferer from the most atrocious form of rheumatic gout;
 chalkstones exuded from him like drops of blood; his limbs were all
@@ -843,7 +850,7 @@ they are ill employed in taking the bread out of a labouring man's
 mouth.</p></div2>
 
 <div2 id="iln46.1297.006" n= "A fisherman recently hauled up" type="Article">
-<head>[A FISHERMAN RECENTLY HAULED UP]</head>
+<head>[A Fisherman Recently Hauled Up]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -859,7 +866,7 @@ old-fashioned silver fork, bearing marks of long immersion in
 water.</p></div2>
 
 <div2 id="iln46.1297.007" n= "Mr. Edward Watkin, M.P." type="Article">
-<head>[MR. EDWARD WATKIN, M.P.]</head>
+<head>[Mr. Edward Watkin, M.P.]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -877,7 +884,7 @@ rigid examination of goods passing between the States and the British
 North American Provinces.</p></div2>
 
 <div2 id="iln46.1297.008" n= "A son of Dr. Livingstone" type="Article">
-<head>[A SON OF DR. LIVINGSTONE]</head>
+<head>[A Son of Dr. Livingstone]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -890,8 +897,8 @@ North American Provinces.</p></div2>
 after the war broke out, was, in the latter part of last year, taken
 prisoner by the Confederates.</p></div2>
 
-<div2 id="iln46.1298.001" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1298.001" n= "Foreign and Colonial Intelligenc" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -931,7 +938,7 @@ gun-boats were blown up by torpedoes and 1000 men were lost.</p>
 River, and his head-quarters were at Corinth, whence he had reported
 that his troops had sustained no material losses since his defeat near
 Nashville. The Richmond papers publish a story of the capture by Hood
-of a Federal brigade after his retreat from Nashville; but Hood; in
+of a Federal brigade after his retreat from Nashville; but Hood, in
 his despatch, says nothing of such capture.</p>
 <p>The only news of importance from before Richmond is the failure of
 Butler's Dutch Gap canal. An attempt was made to open it on the 1st
@@ -965,7 +972,7 @@ freely thrown open, as is customary, and large crowds attended to pay
 their respects. Among those present were all the foreign
 Ambassadors.</p>
 <p>The message of the Governor of New York to the Legislature
-recommends a vigorous support of the war for the Union. the new
+recommends a vigorous support of the war for the Union. The new
 Governor calls upon the citizens to fill up their quota of the
 draught.</p>
 <p>In the Federal Senate, Mr. Wilson, of Massachusetts, presented a
@@ -998,7 +1005,7 @@ escaped.</p>
 merchant-ships.</p></div2>
 
 <div2 id="iln46.1298.002" n= "The Queen has approved" type="Article">
-<head>[THE QUEEN HAS APPROVED]</head>
+<head>[The Queen has Approved]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1017,8 +1024,8 @@ Consul at Kingston, Canada for the United States of America. Her
 Majesty has likewise approved of Don Francisco d'Uncilla as Consul at
 Malta for the Queen of Spain.</p></div2>
 
-<div2 id="iln46.1298.003" n= "Latest News From Abroad." type="Article">
-<head>LATEST NEWS FROM ABROAD.</head>
+<div2 id="iln46.1298.003" n= "Latest News From Abroad" type="Article">
+<head>Latest News from Abroad</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1033,7 +1040,11 @@ office:--</p>
 <p rend="center">AMERICA.</p>
 <p><hi rend="smallcaps">New York</hi>, Jan. 7.--The Governor of
 Kentucky, in his Message to the Legislature, recommends the gradual
-emancipation and ultimate removal of slaves from Kentucky.</p></div2>
+emancipation and ultimate removal of slaves from Kentucky.</p>
+<p><hi rend="smallcaps">Montreal</hi>, Jan. 7.&#x2014;The Montreal
+Court has decided that it has jurisdiction in the case of the
+St. Albans raiders.</p>
+</div2>
 
 <div2 id="iln46.1298.004" n="The War in America: Rendezvous of
       Mosby's Men in the Pass of the Blue Ridge, Shenandoah
@@ -1055,8 +1066,8 @@ emancipation and ultimate removal of slaves from Kentucky.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln46.1298.005" n= "Echoes of the Week." type="Article">
-<head>ECHOES OF THE WEEK.</head>
+<div2 id="iln46.1298.005" n= "Echoes of the Week" type="Article">
+<head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1066,7 +1077,7 @@ emancipation and ultimate removal of slaves from Kentucky.</p></div2>
 
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
-<p>....We met the other day a gentleman who has made several millions
+<p>...We met the other day a gentleman who has made several millions
 sterling by American blockade-running, and who spoke of one of his
 cunning Flying Dutchmen craft as having "gone to resume her career of
 usefulness." A new blockade-runner has just had her career cut
@@ -1086,12 +1097,12 @@ we used to notice occasionally a little comic paper at New York called
 short-lived) Charles H. Browne, whose pseudonym is "Artemus Ward," was
 the chief contributor. The "Book" itself is an exquisite piece of
 drollery. Artemus Ward is supposed to be a wild beast showman,
-traveling through the States and commenting upon men and manners as he
+travelling through the States and commenting upon men and manners as he
 goes along. His apocryphal narrative of a visit to the Prince of
 Wales in Canada is inimitably funny.</p></div2>
 
-<div2 id="iln46.1298.006" n= "Winter Sketches in New York." type="Article">
-<head>WINTER SKETCHES IN NEW YORK.</head>
+<div2 id="iln46.1298.006" n= "Winter Sketches in New York" type="Article">
+<head>Winter Sketches in New York</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1111,7 +1122,7 @@ substituting for them immense concerns on runners, drawn by six
 horses, and capable of holding some forty persons each when closely
 packed. I send herewith a sketch of one of these
 omnibus-sleighs. Their occupation is a transient and uncertain one in
-New York and, even as I write, the snow has quite disappeared, and mud
+New York, and, even as I write, the snow has quite disappeared, and mud
 is the order of things once more.</p>
 <p>"The brief spell of cold weather also brought out the skaters in
 great force. For two or three nights many thousands of persons
@@ -1164,7 +1175,7 @@ brace."</p></div2>
 
 <div2 id="iln46.1298.008" n= "Illustrations of the War in America:
       General Sherman." type="Article">
-<head>ILLUSTRATIONS OF THE WAR IN AMERICA: GENERAL SHERMAN.</head>
+<head>Illustrations of the War in America. General Sherman</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1173,10 +1184,10 @@ brace."</p></div2>
 <date value="1865-01-21">January 21, 1865</date>
 
 </bibl>
-<p rend="center"><hi rend="smallcaps">Illustrations Of<lb/></hi>THE
+<p rend="center"><hi rend="smallcaps">Illustrations Of</hi>THE
 WAR IN AMERICA.<lb/><hi rend="smallcaps">General Sherman.</hi></p>
 <p><hi rend="smallcaps">The</hi> capture of Atlanta in October last,
-followed by the march across Georgia to the seacoast, and recently, by
+followed by the march across Georgia to the seacoast, and recently by
 the capture of Savannah, has made General Sherman one of the most
 notable officers in the Federal army. We give a Portrait of him and,
 on the next page, a Map of his route from Atlanta to Savannah. William
@@ -1229,14 +1240,15 @@ in the military service of the Federal Government.</p></div2>
 </bibl>
 <p>
 <figure entity="v46p66">
-<head>MAP ILLUSTRATING GEN'L. SHERMAN'S MARCH
-      THROUGH GEORGIA FROM ATLANTA TO SAVANNAH, NOVR. &#x0026; DECR. 1864.</head>
+<head>MAP ILLUSTRATING GEN<hi rend="superscript">L</hi>. SHERMAN'S MARCH
+      THROUGH GEORGIA FROM ATLANTA TO SAVANNAH, NOV<hi
+rend="superscript">R</hi>. &#x0026; DEC<hi rend="superscript">R</hi>. 1864.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln46.1298.011" n= "General Sherman's March through Georgia." type="Article">
-<head>GENERAL SHERMAN'S MARCH THROUGH GEORGIA.</head>
+<div2 id="iln46.1298.011" n= "General Sherman's March through Georgia" type="Article">
+<head>General Sherman's March through Georgia</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1253,12 +1265,12 @@ country, open and well-watered, fertile of wheat, cotton, and Indian
 corn, is traversed by two railroads, from south-east to north-west,
 converging at Atlanta, but running for some distance parallel to each
 other, and forming the chief link of railway connection between
-Virginia and the States of Alabama and Mississippi, now the south-west
+Virginia and the States of Alabama and Mississippi, now the south-western
 limit of the Confederacy. One of these railroads is the Georgia
 Central, running from Savannah to Macon, 190 miles, thence to Atlanta,
 by the Macon and Western Railroad, 101 miles, making the total
 distance from Savannah to Atlanta by railroad 291 miles. The other is
-the Georgia Railroad running tram Augusta to Atlanta, at from forty to
+the Georgia Railroad, running from Augusta to Atlanta, at from forty to
 sixty miles north of the Georgia Central Railroad, and making the
 distance to Atlanta from Augusta 171 miles. The plan of General
 Sherman's march contemplated the covering of these two lines of
@@ -1268,7 +1280,7 @@ disposed in front, and vigilantly covering each flank. The movement
 and route of his infantry columns were so well masked that, from first
 to last, the enemy were in total ignorance of the position of his main
 body, and only discovered the track of his infantry columns after they
-had left their vigilant foes many miles to the rear. This strategic
+had left their vigilant foes many miles in the rear. This strategic
 deception was aided by a feigned approach to Macon with the cavalry of
 his right wing, which completely occupied the attention of the
 Confederate General Cobb, whose militia, collected at that point,
@@ -1309,7 +1321,7 @@ to deceive the enemy as to the position of the Federal army. It was
 necessary to conceal the real direction of the march; for had Wheeler,
 who commanded the Confederates in this district, known in time that
 Augusta was certainly to be avoided, the entire force there could have
-been sent down to Millen and, being thus thrown in Sherman's front,
+been sent down to Millen, and, being thus thrown in Sherman's front,
 would have resisted or delayed his march upon Savannah, and supplied
 in the end a formidable addition to the garrison of that
 place. Kilpatrick, therefore, pressed Wheeler more vigorously than
@@ -1334,16 +1346,16 @@ the situation of the army perfectly secure. The lines were stretched
 across the peninsula in the rear of Savannah, the left resting firmly
 on the Savannah River, about three miles above the city, and the
 extreme right on the Ogeechee river, at Kingsbridge. Having cut off
-all the roads leading to Savannah and obtained command of the Savannah
+all the railroads leading to Savannah and obtained command of the Savannah
 and Ogeechee rivers, he had made it impossible for General Hardee to
 hold the city, which was consequently abandoned by the Confederate
 General and taken possession of by Sherman in time to present it to
 Mr. Lincoln "as a Christmas-box."</p></div2>
 
 <div2 id="iln46.1298.012" n= "Rendezvous of Mosby's Men in the Pass of
-      the Blue Ridge, Shenandoah Valley." type="Article">
-<head>RENDEZVOUS OF MOSBY'S MEN IN THE PASS OF
-      THE BLUE RIDGE, SHENANDOAH VALLEY.</head>
+      the Blue Ridge, Shenandoah Valley" type="Article">
+<head>Rendezvous of Mosby's Men in the Pass of
+      the Blue Ridge, Shenandoah Valley</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1376,7 +1388,7 @@ marvellous. With comparatively a handful of troopers, he does not
 hesitate to dash on a train of two or three hundred waggons, fighting
 and dispersing a guard four or five times his number, and
 appropriating to the use of the Confederacy the supplies and
-transportation intended for Sheridan's army. At other tunes he will
+transportation intended for Sheridan's army. At other times he will
 fly at much higher game, piercing the centre of a large column on the
 march, and before either the van or rear are aware of the cause of the
 momentary tumult, he will be flying to the mountains with a goodly
@@ -1406,7 +1418,7 @@ river winds its course through the fertile valley of
 Virginia."</p></div2>
 
 <div2 id="iln46.1298.013" n= "A New York paper states" type="Article">
-<head>[A NEW YORK PAPER STATES]</head>
+<head>[A New York Paper States]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1420,8 +1432,8 @@ at Lockport in that State, kept his money in an old boiler buried in
 the cellars, and among the deposits in this vault were 50,000
 three-cent pieces.</p></div2>
 
-<div2 id="iln46.1298.014" n= "Current Literature." type="Article">
-<head>CURRENT LITERATURE.</head>
+<div2 id="iln46.1298.014" n= "Current Literature" type="Article">
+<head>Current Literature</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1431,7 +1443,7 @@ three-cent pieces.</p></div2>
 
 </bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
-<p>....<hi rend="italic">The War in America</hi>--1863-64. By Edward
+<p>...<hi rend="italic">The War in America</hi>--1863-64. By Edward
 Pollard. (1 vol. Saunders, Otley, and Co.) Mr. Pollard, who was lately
 editor of the <hi rend="italic">Richmond Examiner</hi>, has already
 given his account of the first two years' war in America; and he has
@@ -1458,7 +1470,7 @@ and spiced with virulence, will do well to try a dose of Mr. Pollard's
 preparation....</p></div2>
 
 <div2 id="iln46.1298.015" n= "A hopeful miner" type="Article">
-<head>[A HOPEFUL MINER]</head>
+<head>[A Hopeful Miner]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1475,7 +1487,7 @@ taking out and sending forward 150,000 dols. per month, which will be
 nearly doubled after the 1st of next January."</p></div2>
 
 <div2 id="iln46.1298.016" n= "A New York paper states" type="Article">
-<head>[A NEW YORK PAPER STATES]</head>
+<head>[A New York Paper States]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1491,8 +1503,8 @@ waste down the rivers for miles. It has been regarded as a nuisance,
 rendering barren tracts of land of perhaps a mile square in the midst
 of a fine agricultural district.</p></div2>
 
-<div2 id="iln46.1299.001" n= "Canada and the United States." type="Article">
-<head>CANADA AND THE UNITED STATES.</head>
+<div2 id="iln46.1299.001" n= "Canada and the United States" type="Article">
+<head>Canada and the United States</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1515,7 +1527,7 @@ colony is war desired by either the people or their Governments. And
 yet it cannot be concealed that, in opposition to the interests, the
 policy, and the will of both, an extraneous agent of discord has
 thrust itself between them, and has succeeded in giving to their
-position toward each other an aspect of antagonism. The best of
+position towards each other an aspect of antagonism. The best of
 neighbours are sometimes set together by the ears by the intemperance
 of some third party, and nations are occasionally brought into
 collision by the compulsory discharge of responsibilities which might
@@ -1536,7 +1548,7 @@ obligation of consulting the convenience of their host, and, under the
 protection they have received, assert their right to levy war against
 and harry a neighbour with whom she is at peace. Without inquiring
 into the prevailing sympathies of Canada in reference to the pending
-struggle in the United States, it is sufficient that her Govern<pb
+struggle in the United States, it is sufficient that her Govern-<pb
 n="78"/>ment honestly reprobated any such abuse of her hospitality,
 and showed its sincerity by disclosing to the Government at Washington
 every conspiracy against it of which it had an inkling of
@@ -1620,7 +1632,7 @@ border. A six-dollar fine each way is a heavy tax, no doubt; but
 scarcely heavy enough, one would imagine, to stop all traffic
 requiring personal superintendence. And, indeed, thus much may be
 inferred from the <hi rend="italic">Globe's</hi> proposal to levy on
-the Canadian aide, sum for sum, whatever is levied on the American
+the Canadian side, sum for sum, whatever is levied on the American
 side. "No American," says that journal, "who can help it will, while
 Mr. Seward's passport system exists, cross the boundary line either
 way. But those whose business compels them to do so would not be
@@ -1659,8 +1671,8 @@ although through no fault of theirs, the fire was kindled by sparks
 from their own side, and they will, doubtless, recognise the propriety
 of forbearing to add fuel to the flame.</p></div2>
 
-<div2 id="iln46.1299.002" n= "Foreign and Colonial News: America." type="Article">
-<head>FOREIGN AND COLONIAL NEWS: AMERICA.</head>
+<div2 id="iln46.1299.002" n= "Foreign and Colonial News" type="Article">
+<head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1727,7 +1739,7 @@ increase of more than 25,000 over the number in 1863, and as large a
 number as in any year since 1854.</p>
 <p>The Rev. Henry Ward Beecher presided this year, as usual, at the
 annual letting of pews and aisle-seats in Plymouth Church,
-Brooklyn. The proceedings took place in the church on the 34d
+Brooklyn. The proceedings took place in the church on the 3rd
 inst. The premiums bid were much larger than ever before. The highest
 bid last year was 200 dols.; this year, 400 dols., which, added to the
 pew-rent, makes the largest total payment for the year for one pew 520
@@ -1762,7 +1774,7 @@ useful fields of employment in the Western States.</p>
 <p>A party of about 1600 Indians made an attack on Julesburg, Colorado
 territory, on the 7th inst., robbed the overland mail and express,
 dispersed a mule-train, destroyed the stage-station and a large amount
-of the telegraph materiel, and killed nineteen soldiers and
+of the telegraph material, and killed nineteen soldiers and
 citizens. A severe fight took place between the Indians and the
 troops, the latter numbering altogether less than a hundred; but the
 former were finally driven off, with the loss of their chief and
@@ -1776,8 +1788,8 @@ end to the travelling of Americans in Canada, the passenger-trains on
 both the Grand Trunk and Great Western Railroads now running nearly
 empty west of Toronto.</p></div2>
 
-<div2 id="iln46.1299.003" n= "Echoes of the Week." type="Article">
-<head>ECHOES OF THE WEEK.</head>
+<div2 id="iln46.1299.003" n= "Echoes of the Week" type="Article">
+<head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1787,11 +1799,11 @@ empty west of Toronto.</p></div2>
 
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
-<p>....Talking of companies (limited), we hear that a body of
-gentlemen, long residents in, or acquainted with, or interested in the
+<p>...Talking of companies (limited), we hear that a body of
+gentlemen, long resident in, or acquainted with, or interested in the
 United States, are about to try in London an experiment which in New
 York has, of late years, met with triumphant success. It isn't
-tramway; it isn't volunteer fire companies; it isn't paper
+tramways; it isn't volunteer fire companies; it isn't paper
 currency. But what will our readers think of a "London 'Delmonico'
 Company" (limited)? Delmonico's at New York is simply the best and
 most splendid restaurant in the world. There is nothing in Paris to
@@ -1817,8 +1829,8 @@ by his side, according to the grand old traditions of the days of Ude,
 and Car&#x00EA;me, and D'Ouix. The experiment is a bold one; but what
 may not be tried in London the stupendous?</p></div2>
 
-<div2 id="iln46.1300.001" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1300.001" n= "Foreign and Colonial Intelligence" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1850,9 +1862,9 @@ hour. The vessels which had been engaged in shelling the woods
 previous to the landing of the troops then moved in the direction of
 Fort Fisher, continuing to shell the adjoining line of coast; and at
 four o'clock in the afternoon, the disembarkation having been
-completed, the Federal troops, to the num<pb n="103"/>ber of 6000,
+completed, the Federal troops, to the num-<pb n="103"/>ber of 6000,
 advanced two miles up the promontory, thus reducing their distance
-from the fort to a mile and a half, where they remained until the
+from the fort to a mile and a half. Here they remained until the
 15th, on the evening of which day the fort was taken by
 assault. Whilst one portion of the fleet was engaged, on the morning
 of the 13th, in covering the landing of the troops, the ironclads and
@@ -1879,7 +1891,7 @@ landed during the day in order to co-operate with the land forces, was
 repulsed; but ultimately the garrison, being outnumbered, was obliged
 to evacuate the fort. Hemmed in on one side by the river and on the
 other by the sea, the Confederates (to the number of 1200) could not
-retire beyond the extremity of the promontory, and as a matter of
+retire beyond the extremity of the promontory, and, as a matter of
 course, were there compelled to surrender. The Federal loss was
 considerable, but it is more then counterbalanced by what is
 unquestionably a substantial success. On the first day the monitors
@@ -1950,17 +1962,17 @@ Canada. The curlers afterwards dined together in the American Hall. By
 special order of Mr. Seward, passports were not required from the
 Canadians at the frontier on this occasion.</p>
 <p rend="center">BRITISH NORTH AMERICA.</p>
-<p>The Canadian Parliament met at Quebec on the 10th ult. The
+<p>The Canadian Parliament met at Quebec on the 19th ult. The
 Governor's message announced that a bill to give the Executive further
 powers to deal with political refugees who commit outrages on the
-border and a plan for the constitution of the Confederation, would be
+borders, and a plan for the constitution of the Confederation, would be
 laid before the Parliament.</p>
 <p>One of the Canadian raiders has been declared guilty of robbery,
 and been adjudged to be delivered over to the Federal authorities. A
 writ of habeas corpus had been demanded on his behalf.</p></div2>
 
-<div2 id="iln46.1300.002" n= "Echoes of the Week." type="Article">
-<head>ECHOES OF THE WEEK.</head>
+<div2 id="iln46.1300.002" n= "Echoes of the Week" type="Article">
+<head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -1970,10 +1982,10 @@ writ of habeas corpus had been demanded on his behalf.</p></div2>
 
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
-<p>....The Hon. Edward Everett is dead. He was one of the best of
+<p>...The Hon. Edward Everett is dead. He was one of the best of
 American classical scholars--the Hon. Charles Francis Adams is said to
 be the strongest in Greek. Mr. Everett's character, during a long and
-active life, was very pure and blameless, and he was in all respects
+active life, was very pure and blameles; and he was in all respects
 the model of a courteous and polished American gentleman. He was at
 one period Minister Plenipotentiary from the great Republic to the
 Court of St. James's, and was nominated (on the "Bell and Everett
@@ -1997,7 +2009,7 @@ lady.</p>
 marvellous, and rivalled that of Sheridan, or Sheridan's friend, who,
 when he had sent the hot roast goose flying into the lap of the lady
 in pink satin, observed that "he would trouble her for that goose when
-she had done with it." Nothing ruffled, nothing disturbed Mr. Everett,
+she had done with it." Nothing ruffled, nothing disturbed Mr. Everett.
 He went on, smiling and beaming, beyond three score years and ten like
 a Beautiful Image. He was once president of Harvard University; and
 there is a story that at one of the "commencements" or commemorations
@@ -2017,7 +2029,7 @@ Greek roots and Congress water....</p></div2>
 
 <div2 id="iln46.1300.003" n= "The Right Reverend Thomas Church
       Brownell, D.D." type="Article">
-<head>[THE RIGHT REVEREND THOMAS CHURCH BROWNELL, D.D.]</head>
+<head>[The Right Reverend Thomas Church Brownell, D.D.]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2032,8 +2044,8 @@ in his eighty-sixth year, having been a Bishop forty-six years. He
 was, till 1831, the president of Trinity College, in the State of
 Connecticut.</p></div2>
 
-<div2 id="iln46.1300.004" n= "The Magazines." type="Article">
-<head>THE MAGAZINES.</head>
+<div2 id="iln46.1300.004" n= "The Magazines" type="Article">
+<head>The Magazines</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2043,7 +2055,7 @@ Connecticut.</p></div2>
 
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
-<p>....<hi rend="italic">Macmillan</hi>, as usual, aspires to and
+<p>...<hi rend="italic">Macmillan</hi>, as usual, aspires to and
 attains a higher level, but fulfils its aim less perfectly. The best
 article is undoubtedly that in which Professor Masson records his
 recollections of his deceased friend, Agostino Ruffini....</p>
@@ -2061,10 +2073,10 @@ moderately, on the question of emancipation; more tersely and
 unanswerably than in rebutting the charges of illegal arrests. The
 same spirit pervades all these utterances--that of a magistrate
 severely conscious of his responsibilities, disinterested, energetic,
-circumspect.....</p></div2>
+circumspect...</p></div2>
 
-<div2 id="iln46.1300.005" n= "The British-American Confederation." type="Article">
-<head>THE BRITISH-AMERICAN CONFEDERATION.</head>
+<div2 id="iln46.1300.005" n= "The British-American Confederation" type="Article">
+<head>The British-American Confederation</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2073,7 +2085,7 @@ circumspect.....</p></div2>
 <date value="1865-02-04">February 4, 1865</date>
 
 </bibl>
-<p>....It is precisely because we are sincerely solicitous for the
+<p>...It is precisely because we are sincerely solicitous for the
 abiding welfare of the projected Confederation that we cannot join
 some of our contemporaries in flaunting before the eyes of British
 Americans the dazzling, but, in our opinion, improbable, prospect of
@@ -2104,7 +2116,7 @@ veil of oblivion over General Dix's passionate order, speedily
 cancelled as it was by the President. The repeal of the Reciprocity
 Treaty alone will exclude American vessels from the navigation of the
 Canadian waters, natural and artificial, and place the disabilities of
-the American fishing interests on the same footing as they were in
+the American fishing interests on [the sa]me footing as they were in
 1852, when the American people were excited to a war point by the
 simple enforcement of an almost unquestioned British right. The
 birthday of the confederation will fall in no halcyon time of
@@ -2196,7 +2208,7 @@ Confederation, we may soon expect to hear of its introduction on the
 Stock Exchange....</p></div2>
 
 <div2 id="iln46.1300.006" n= "The mail from Sherman's army" type="Article">
-<head>[THE MAIL FROM SHERMAN'S ARMY]</head>
+<head>[The Mail from Sherman's Army]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2216,7 +2228,7 @@ Saturday. Twenty men were required to sort the letters. This is the
 largest mail that the New York post office ever received.</p></div2>
 
 <div2 id="iln46.1300.007" n= "The Rev. Mr. Greene's congregation" type="Article">
-<head>[THE REV. MR. GREENE'S CONGREGATION]</head>
+<head>[The Rev. Mr. Greene's Congregation]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2234,8 +2246,8 @@ many other valuable presents in money and family supplies during the
 year. These "surprise visits" would not be taken amiss by many
 clergymen in this country.</p></div2>
 
-<div2 id="iln46.1301.001" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1301.001" n= "Foreign and Colonial Intelligenc" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2283,7 +2295,7 @@ Confederate Congress stating that, when General Lee took the command
 of the army of Virginia, he was commanding all the armies of the
 Confederate States, but was relieved of the latter command at his own
 request. Whenever General Lee finds it practicable to assume the chief
-command without withdrawing from the direct command of the army of
+command, without withdrawing from the direct command of the army of
 Virginia, Mr. Davis will deem it conducive to the public interest to
 place him in that position. General Johnston has been reinstated, and
 appointed, it is said, to the command of the Confederate army in the
@@ -2295,7 +2307,7 @@ convention of all the States of the Confederacy and of the Union.</p>
 those of Pennsylvania or West Virginia, and Cattaraugus County is fast
 becoming the Mecca of those who hasten to be rich.</p>
 <p>The Senate has ratified the treaties with the north-western bands
-of Shoshoonee Indians establishing peace and friendship, the several
+of <sic>Shoshoonee</sic> Indians establishing peace and friendship, the several
 bands stipulating that hostilities and all depredations upon the
 emigrant-trains, the mail and telegraph lines, and upon citizens of
 the United States within their country, shall cease. The boundaries of
@@ -2330,8 +2342,8 @@ scheme. The British Columbia and Vancouver Island journals are
 agitating for the extension of the project to those colonies.</p>
 <p>A movement is on foot for the annexation of Vancouver's Island to British Columbia and for the consolidation of the two Governments.</p></div2>
 
-<div2 id="iln46.1301.002" n= "Imperial Parliament." type="Article">
-<head>IMPERIAL PARLIAMENT.</head>
+<div2 id="iln46.1301.002" n= "Imperial Parliament" type="Article">
+<head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2439,8 +2451,8 @@ American contest, they would not admit claims on this country which
 were not founded on justice.</p>
 <p>The Address was then agreed to.</p></div2>
 
-<div2 id="iln46.1301.003" n= "Current Literature." type="Article">
-<head>CURRENT LITERATURE.</head>
+<div2 id="iln46.1301.003" n= "Current Literature" type="Article">
+<head>Current Literature</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2452,7 +2464,7 @@ were not founded on justice.</p>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">My Diary in America in the Midst of War.</hi> By
 G. A. Sala. (Tinsley.) Mr. Sala's peculiar powers appear to the
-greatest possible advantage in these two volumes; and the only
+greatest possible advantage in these two volumes; and the
 consequence is that there has not been published for many a long day a
 book more full of entertainment and amusement. His keen faculty of
 observation had full scope; his talent for minute description was
@@ -2483,7 +2495,7 @@ eye; and in this respect Mr. Sala has been a most conscientious as
 well as humorous showman. He would, of course, have scouted the idea
 of putting upon paper what he had neither seen nor heard; but he would
 naturally repeat not only what he saw but what he heard that was
-likely, from its grotesqueness to convulse with laughter, from its
+likely from its grotesqueness to convulse with laughter, from its
 folly to put upon good terms with themselves, and from its horribility
 to interest as well as shock his readers. In fact, the "chiel" who
 "taks notes" in a foreign country nearly always does so in the spirit
@@ -2496,7 +2508,7 @@ Mr. Sala, so far as we can discover, does not seem to have penetrated
 far, if at all, into American private society.  Nathaniel Hawthorne,
 who lived amongst us in time of peace far longer than Mr. Sala lived
 amongst the Americans in time of war, found occasion to apply the lash
-to us and, though he did not lay it on with the rigour displayed by
+to us; and, though he did not lay it on with the rigour displayed by
 Mr. Sala, even Nathaniel Hawthorne has been accused of
 misrepresentation. However, that the Americans are not so black as
 they have (not by Mr. Sala) been painted is proved by the fact that
@@ -2514,7 +2526,7 @@ extent upon hearsay, but it will be profitable in the interest of
 truth to compare what he says at p. 361 and. at p. 377, vol. ii, with
 what has been written about Sherman's barbarity in driving out the
 inhabitants from Atlanta and about the composition of the Northern
-armies. We read with respect to the former, "all the inhabitants who
+armies. We read, with respect to the former, "all the inhabitants who
 were able fled from before the dreaded Yankees," from which one would
 infer that there was no great hardship in removing those who would
 have gone had they been able, and that Hood's letter to Sherman was
@@ -2524,7 +2536,7 @@ offered up to this Moloch. There is scarcely a Unionist family--from
 that of the millionaire merchant to that of the petty farmer and
 store-keeper--which has not sent a son, a brother, and often even a
 father and bread-winner to the war;" from which one would infer that
-the Northern armies are not entirely or even principally, composed of
+the Northern armies are not entirely, or even principally, composed of
 "Irish and German mercenaries." It is true that Sherman's reply to
 Hood does not quite bear out the inference we have said might be
 drawn, so that Mr. Sala's account may not be literally correct; but as
@@ -2534,8 +2546,8 @@ be well informed as any other "special correspondent" or
 sympathies may be, that truth should not be sacrificed to prejudice
 and passion.</p></div2>
 
-<div2 id="iln46.1301.004" n= "The Negro In America." type="Article">
-<head>THE NEGRO IN AMERICA.</head>
+<div2 id="iln46.1301.004" n= "The Negro In America" type="Article">
+<head>The Negro in America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2546,10 +2558,10 @@ and passion.</p></div2>
 </bibl>
 <p rend="center">THE NEGRO IN AMERICA.</p>
 <p>"<hi rend="italic">The coloured man</hi>," said Mr. Frederick
-Douglas, the eloquent negro orator, at a lecture which he recently
+Douglas [i.e., Douglass], the eloquent negro orator, at a lecture which he recently
 delivered in New York, "<hi rend="italic">is the master of the
 situation. Upon whichever side he shall declare himself, on that side
-will be the victory</hi>." Mr. Douglas knows his people, and does not
+will be the victory</hi>." Mr.<sic> Douglas</sic> knows his people, and does not
 exaggerate the importance of their action in the mighty struggle, of
 which their emancipation was the pretext rather than the cause; and,
 knowing them so well, his opinion that they will fight for their
@@ -2580,7 +2592,7 @@ result is that throughout the North, the negro is systematically
 repressed and deprived of social position and political privilege by
 the tyranny of custom and the nameless operation of social laws. In
 some of the States in the West neither negro slavery nor negroes are
-allowed to exist, and in Illinois, if not in Indiana, it is a penal
+allowed to exist; and in Illinois, if not in Indiana, it is a penal
 offence for a coloured man to cross their borders and presume that he
 has any right to dwell among his white superiors. The negroes of the
 North feel this social excommunication more acutely than the negroes
@@ -2594,7 +2606,7 @@ the kind which most men entertain towards palpable
 hypocrisy. Mr. Lincoln once told a deputation of negroes that the best
 thing they and their race could do would be to take themselves out of
 the country, to go back to Africa, or drift down into Central
-America. Mr. Douglas, speaking for his race, declares that they will
+America. Mr.<sic> Douglas</sic>, speaking for his race, declares that they will
 do nothing of the kind; that they will not be "improved off the face
 of the earth," like the red Indians; that they have found a home in
 America, and that they will keep it; and that their true place is
@@ -2622,13 +2634,13 @@ as if he had never issued his proclamation against it. And now, in the
 fourth year of the war, though slavery is falling right and left, it
 is not because of his proclamation, but because the Border States of
 Maryland, Kentucky, Tennessee, and Missouri have, in their sovereign
-capacity, resolved to abolish in Congress, which is ready to indorse
+capacity, resolved to abolish it. Congress, which is ready to indorse
 all Mr. Lincoln's words and deeds, finding the futility of
 "proclamations" or "edicts" of military power, debates an amendment to
 the Federal Constitution--a document which permits slavery, but which,
-if the amendment shall pass, it will tolerate no longer. And more
+if the amendment shall pass, it will tolerate no longer. And, more
 effectual than anything that the North can do or propose, the South
-takes measures not alone to emancipate its slaves, but to elevate them
+takes measures, not alone to emancipate its slaves, but to elevate them
 in the social scale, and link the fortunes of the white man and the
 black by the ties of mutual interest and reciprocal gratitude. The
 black man man in the North is free, but a pariah. In the South, it is
@@ -2644,7 +2656,7 @@ prepared to make for its darling object, that, were the South to
 declare that it would lay down its arms on the sole condition of the
 maintenance of slavery by the whole force of the united Governments,
 the majority of the North would in all probability accede to the
-proposal. The negroes know the fact; and such men as Douglas give very
+proposal. The negroes know the fact; and such men as<sic> Douglas</sic> give very
 significant hints at all available opportunities that they will not
 consent to be played with by either side, but will make their own
 bargain whenever they think they have arrived at the decisive moment
@@ -2668,7 +2680,7 @@ fate of other races that could not be enslaved and as a consequence
 were exterminated.</p></div2>
 
 <div2 id="iln46.1301.005" n= "A Pleasant hit" type="Article">
-<head>[A PLEASANT HIT]</head>
+<head>[A Pleasant Hit]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2683,7 +2695,7 @@ in a paragraph in the <hi rend="italic">New York
 Tribune</hi>:--Mrs. A., accompanied by Mrs. B., recently paid a visit
 to Tiffany's, and bought there, aided by her friend's counsel, a
 stylish assortment of jewellery for her own proper wearing. Before
-they had quite concluded their purchases a stranger, whom we will call
+they had quite concluded their purchases, a stranger, whom we will call
 Mrs. C., came in, and, after requiring the services of half the
 attendants, bought a far more extensive and costly assortment of
 richly set precious stones, for the adornment of her
@@ -2694,8 +2706,8 @@ lover that the match must be broken off. "Why?" gasped the unfortunate
 lover. "Dad has struck oil," replied the damsel, determined not to
 lose her chance of a better match.</p></div2>
 
-<div2 id="iln46.1302.001" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1302.001" n= "Foreign and Colonial Intelligence" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2718,7 +2730,7 @@ discuss peace unofficially; that Secretary Seward had gone to Fort
 Monroe to meet them; and that President Lincoln himself had left
 Washington for Fort Monroe in consequence of a telegram from
 Mr. Seward. This important<pb n="151"/> news was brought to us by New
-York despatches to the afternoon of the 8rd inst. The Hibernian, which
+York despatches to the afternoon of the 3rd inst. The Hibernian, which
 arrived on Wednesday evening, brought, however, telegraphic news from
 New York to the morning of the 5th inst., to the effect that the peace
 conference between President Lincoln, Mr. Seward, and the Confederate
@@ -2747,8 +2759,8 @@ Charleston, that General Foster was co-operating with him, and that
 the Confederates were offering resistance at every point but were
 being rapidly driven from all their defensive positions. Confederate
 despatches, however, asserted that all General Sherman's efforts to
-cross the Combahee River had hitherto failed. A number of steamers had
-been sent from Cairo up the Tennessee and Cumberland River for the
+cross the Combahee [i.e., Cambahee] River had hitherto failed. A number of steamers had
+been sent from Cairo up the Tennessee and Cumberland Rivers, for the
 purpose, as it was said, of removing General Thomas's army to "a new
 base." The Confederate General Hill had announced that, in case of
 need, all the cotton stored in Augusta would be burned, even though
@@ -2787,7 +2799,7 @@ Legislatures the constitutional amendment abolishing slavery
 throughout the United States has passed the House of Representatives,
 amid great enthusiasm, by 119 ayes to 56 noes. The Maryland,
 Pennsylvania, Massachusetts, and Western Virginia Legislatures and the
-New York Assembly have ratified the constitutional amendment and it
+New York Assembly have ratified the constitutional amendment, and it
 has been ratified in Illinois and Rhode Island by the Lower Houses. In
 the Senate Mr. Sumner has introduced resolutions declaring the consent
 of the rebel States to the measure to be unnecessary while they are in
@@ -2820,26 +2832,26 @@ to about 105 per cent; but it rose again to about 113 per cent on the
 <p rend="center">BRITISH NORTH AMERICA.</p>
 <p>The Canadian Government has given up Burleigh, the Confederate
 partisan who seized a steamer on Lake Erie, for trial in the United
-States; and the Canadian Legislature has almost unanimously passed the
+States; and the Canadian Legislature has almost unanimously passed [t]he
 Alien Bill introduced by the Colonial Ministry. This bill provides
 that, on complaint of a resident, the Governor-General may order
 aliens to quit the Provinces, after giving them notice, through the
 <hi rend="italic">Official Gazette</hi>, of their intended
 expulsion. The accused may, however, tender reasons for
 non-compliance.</p>
-<p>Te report of Colonel Jervois respecting the defences of Canada has
+<p>The report of Colonel Jervois respecting the defences of Canada has
 been published. Colonel Jervois is of opinion that if Montreal and
 Quebec were placed in a condition for defence, and the river between
 Montreal and Quebec commanded by iron-plated vessels, a successful
 resistance could be made to any attempt to subjugate the country, so
 long as Great Britain had the command of the sea. The defence of Upper
 Canada is, in his opinion, more difficult. Even there, however, points
-are to be found--for instance, Kingston, Toronto, and and
+are to be found--for instance, Kingston, Toronto, and
 Hamilton--which, if properly fortified, would offer a most serious, if
 not effectual, resistance to an enemy.</p></div2>
 
 <div2 id="iln46.1302.002" n= "The Cape papers" type="Article">
-<head>[THE CAPE PAPERS]</head>
+<head>[The Cape Papers]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2851,14 +2863,14 @@ not effectual, resistance to an enemy.</p></div2>
 <p>The Cape papers contain voluminous accounts of the cruiser
 Shenandoah, formerly the Sea King, and her doings. She is commanded
 by Captain Waddell, and had a complement of about seventy-four
-men. After taking in her armament and leaving Madeira, under
+men. After taking in her armament and leaving <sic>Maderia</sic>, under
 circumstances revealed in some recent law proceedings in England, she
 had captured and burned five Federal merchant vessels: one she
 released on finding that the chief owner was a Confederate, and a
 friend of the captain.</p></div2>
 
 <div2 id="iln46.1302.003" n= "An American journal asserts" type="Article">
-  <head>[AN AMERICAN JOURNAL ASSERTS]</head>
+  <head>[An American Journal Asserts]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2878,8 +2890,8 @@ end, while in one musket twenty-three balls, sixty-two buckshot, and a
 quantity of powder were all mixed up together."</p></div2>
 
 <div2 id="iln46.1302.004" n= "Wilmington And The Cape Fear River,
-      North Carolina." type="Article">
-  <head>WILMINGTON AND THE CAPE FEAR RIVER, NORTH CAROLINA.</head>
+      North Carolina" type="Article">
+  <head>Wilmington and the Cape Fear River, North Carolina</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -2892,9 +2904,9 @@ quantity of powder were all mixed up together."</p></div2>
 rend="smallcaps">North Carolina.</hi></p>
 <p><hi rend="smallcaps">The</hi> Map of Wilmington and the Cape Fear
 River, which appears on the following page, will doubtless have a
-peculiar interest for our readers, as placing before them the some of
+peculiar interest for our readers, as placing before them the scene of
 Admiral Porter's recent successes. The subjoined particulars have been
-furnished by a correspondent direct from "Dixie's Land," who was
+furnished by a correspondent direct from "Dixie's Land," who was,
 during four days, an eye-witness of the bombardment of Fort Fisher,
 and to whom a three months' previous residence at Wilmington had given
 many facilities for procuring the latest and most reliable
@@ -2916,7 +2928,7 @@ June 30, 1864, was 3,276,000 dols.; and of exports, 65,185,000
 dols.--figures not even attained in prosperous times before the war,
 when imports were almost nil, and exports consisted only of lumber,
 resin, turpentine, and farm produce. There are two approaches to the
-Cape Fear River, one at the New Inlet navigable for vessels not
+Cape Fear River, one at the New Inlet, navigable for vessels not
 drawing more than 9 ft., and one at the Western Bar, between Smith and
 Oak Island, where the depth varies from 9 ft. to 13 ft. To the extreme
 left of Oak Island (not visible in the map) is Fort Camel; and in a
@@ -2931,7 +2943,7 @@ directed, forms the key to the channel. The inner (direct) distance
 from Fort Fisher to Caswell is eight miles, but to go round by the
 Frying Pan Shoals, it is sixty-two miles. The fort itself is described
 as "an enormous mound of sand"; but it mounted seventy-five guns,
-Brook's rifled, protected by traverses, with bombproof casemates
+Brooks's rifled, protected by traverses, with bombproof casemates
 below. The best instance of its extraordinary strength is that it
 sustained a continuous bombardment of twenty-one days, for the attack
 commenced on the 14th of December and terminated only on the 14th of
@@ -2973,8 +2985,8 @@ lengthened resistance.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln46.1302.006" n= "In the early part of the week" type="Article">
-  <head>[IN THE EARLY PART OF THE WEEK]</head>
+<div2 id="iln46.1302.006" n= "London: Saturday, February 18, 1865" type="Article">
+  <head>London: Saturday, February 18, 1865</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3005,7 +3017,7 @@ heads of a treaty had been agreed upon. There was not an
 honest-hearted man in England who did not hail the intelligence of the
 early part of the week with satisfaction, and, indeed, with
 gladness. It was felt that the period was opportune for
-pacification. The Northern armies had accomplished splendid. things,
+pacification. The Northern armies had accomplished splendid things,
 and had so triumphantly vindicated the claim of the Federals to
 superiority of force that they could well afford to close the game,
 and leave the South unsubdued, and proud of the gallant soldiery that
@@ -3033,7 +3045,7 @@ of all were prepared for constitutional debate and the resumption of
 friendly relations.</p>
 <p>It was not to be. Englishmen will again be told, both by South and
 North, that we sordid islanders have never been able to attain to the
-true estimate of an idea, The North will jeer us for thinking that it
+true estimate of an idea. The North will jeer us for thinking that it
 would ever give up the glorious fiction of Union; the South will ask
 us indignantly whether we believe that it would be content with the
 fact of independence unless it had the name also. And we can only
@@ -3042,7 +3054,7 @@ with names when we can have things, and that we do not care to fight
 when nothing is to be gained by fighting. We know that a real Union,
 such as is dreamed of by the more sanguine Federals, is an
 impossibility; and that nothing can blend and fuse provinces which are
-really distinct nations, with different customs, creeds and objects,
+really distinct nations, with different customs, creeds, and objects,
 into one harmonious whole. But the honour of the North might have been
 conserved by a treaty arrangement that should conserve the mighty
 idea. We know that the South must, unless foreign aid be granted, ere
@@ -3073,8 +3085,8 @@ thing that the peace idea has so far made its way that Mr. Lincoln can
 meet the ambassadors of Mr. Davis. Let us hope that they may soon meet
 again, and to better purpose.</p></div2>
 
-<div2 id="iln46.1302.007" n= "Imperial Parliament." type="Article">
-<head>IMPERIAL PARLIAMENT.</head>
+<div2 id="iln46.1302.007" n= "Imperial Parliament" type="Article">
+<head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3084,9 +3096,9 @@ again, and to better purpose.</p></div2>
 
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
-<p rend="center">HOUSE OF COMMONS.--<hi rend="smallcaps">Friday,
+<p rend="center">...HOUSE OF COMMONS.--<hi rend="smallcaps">Friday,
 Feb. 10.</hi></p>
-<p><hi rend="smallcaps">The Convention Respecting The Canadian
+<p><hi rend="smallcaps">...The Convention Respecting The Canadian
 Lakes.</hi>--Sir <hi rend="smallcaps">J. Walsh</hi>, pursuant to
 notice, asked for information relative to the circumstances which had
 led to the notice given by the Government of the United States of
@@ -3112,7 +3124,7 @@ elapsed....</p>
 <p>The House then went into Committee....</p></div2>
 
 <div2 id="iln46.1302.008" n= "Immediately before the outbreak" type="Article">
-  <head>[IMMEDIATELY BEFORE THE OUTBREAK]</head>
+  <head>[Immediately before the Outbreak]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3121,12 +3133,33 @@ elapsed....</p>
 <date value="1865-02-18">February 18, 1865</date>
 
 </bibl>
-<p>
+<p>Immediately before the outbreak of the American civil war Mr. John
+E. Fuller, of New York, one of the oldest members of the Abolitionist
+party, having been associated with Mr. Lloyd Garrison as long ago as
+1830, submitted to the Federal Government, through Mr. Sumner, a
+calculation proving that the freedom of all the slaves in all the
+Southern States might be amply purchased for a sum which is
+considerably less than the actual expenditure already incurred by the
+Federal Government alone in the course of this war, and this without
+reckoning the loss by waste of labour and material and by the
+disturbance of trade. Mr. Fuller, who is a zealous partisan of the
+Union, though he would have recommended a peace policy, has completed
+a very interesting statistical chart, showing the territory,
+population, political distribution, and date of the Constitution of
+all the States, with the number and aggregate money value of all the
+bond negroes in the Slave States.  The fondness for ciphering and the
+mechanical ingenuity which distinguish Mr. Fuller's countrymen are
+further exemplified by his invention of that useful instrument the
+"Computing Telegraph," or Circular Sliding-Rule, by which the labour
+of many tedious arithmetical processes is saved, while the desired
+results are exhibited without the possibility of an error.  It would
+have been happy for America if the conflicting parties of North and
+South had been disposed to adjust their dispute by a sum thus easily worked.
 
 </p></div2>
 
-<div2 id="iln46.1303.001" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1303.001" n= "Foreign and Colonial Intelligence" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3158,7 +3191,7 @@ a letter by him expressing his willingness to send or receive
 Commissioners, and Mr. Lincoln subsequently stated his willingness to
 receive gentlemen informally chosen on behalf of the Confederates,
 with the object of securing peace on the basis of an undivided
-country. Before the Confederate commissioners were met by the
+country. Before the Confederate Commissioners were met by the
 President they were given to understand that the negotiations were to
 be informal, and that no proposition which in the slightest degree
 contemplated a recognition of the Confederate States could be for a
@@ -3190,7 +3223,7 @@ to reunion, but which course we thought would amount to an indefinite
 postponement. The conference ended without result. The foregoing,
 containing, as is believed, all the information sought, is
 respectfully submitted.</p>
-<p>Executive Mansion, Feb. 10, 1865.  <hi rend="smallcaps">Abraham
+<p>Executive Mansion, Feb. 10, 1865.<hi rend="smallcaps"> Abraham
 Lincoln.</hi></p></q>
 <p>Some of the New York journals have expressed an opinion that the
 way is now opened to a further and perhaps more successful conference;
@@ -3269,8 +3302,8 @@ condemning the Government for passing the Alien Bill and for refunding
 the money taken by the St. Albans raiders. An amendment, sustaining
 the Government, was adopted by a large majority.</p></div2>
 
-<div2 id="iln46.1303.002" n= "Echoes of the Week." type="Article">
-<head>ECHOES OF THE WEEK.</head>
+<div2 id="iln46.1303.002" n= "Echoes of the Week" type="Article">
+<head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3280,8 +3313,7 @@ the Government, was adopted by a large majority.</p></div2>
 
 </bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
-<p>....That famous Amazon of Secessia, Belle Boyd, now Mrs. Hardinge,
-and whose marriage to the gallant but susceptible lieutenant whom she
+<p>...That famous Amazon of Secessia, Belle Boyd, now Mrs. Hardinge,&#x2014;and whose marriage to the gallant but susceptible lieutenant whom she
 converted, as Omphale converted Hercules, to Southern proclivities,
 was one of the fashionable events of last season--is in London, and
 proposes, it is said, to publish her memoirs as a Secesh partisan and
@@ -3305,7 +3337,7 @@ the commencement of the war General Barlow was a peaceful lawyer in
 New York city; but, his blood fired by the attack on Sumter, he
 enlisted in the Federal army as a private; rapidly obtained promotion;
 was in all the pitched battles in the Wilderness and at Spottsylvania
-Courthouse; captured a Confederate brigade 5000 strong; and for his
+Courthouse; captured a Confederate brigade 5000 strong; and, for his
 distinguished gallantry, was made a Major-General. This Paladin of the
 North is a slim, beardless, well-shapen youth--just such a one as you
 might picture George Brummell to have been when he was a Cornet in the
@@ -3314,7 +3346,7 @@ those who are made of the heroic stuff? How old was Wellington at
 Assaye, and Napoleon at Arcola?</p></div2>
 
 <div2 id="iln46.1303.003" n= "Seven hundred and eighty-two national banks" type="Article">
-<head>[SEVEN HUNDRED AND EIGHTY-TWO NATIONAL BANKS]</head>
+<head>[Seven Hundred and Eighty-Two National Banks]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3326,8 +3358,8 @@ Assaye, and Napoleon at Arcola?</p></div2>
 <p>Seven hundred and eighty-two national banks are in operation in
 the Federal States, with a capital of 183,093,000 dols.</p></div2>
 
-<div2 id="iln46.1303.004" n= "the Prong-horned Antelope." type="Article">
-<head>THE PRONG-HORNED ANTELOPE.</head>
+<div2 id="iln46.1303.004" n= "the Prong-horned Antelope" type="Article">
+<head>The Prong-Horned Antelope</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3367,7 +3399,7 @@ male, which was brought from California to New York, and thence
 re-exported to England.</p></div2>
 
 <div2 id="iln46.1303.005" n= "A physician" type="Article">
-<head>[A PHYSICIAN]</head>
+<head>[A Physician]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3384,7 +3416,7 @@ which have excited the sympathies and received the support of
 women.</p></div2>
 
 <div2 id="iln46.1303.006" n= "The crew of the Confederate cruiser Florida" type="Article">
-<head>[THE CREW OF THE CONFEDERATE CRUISER FLORIDA]</head>
+<head>[The Crew of the Confederate Cruiser Florida]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3398,8 +3430,8 @@ the war-steamer Wachusett, were released from Fort Warren, in Boston
 Harbour, on the 3rd inst., and placed on board the steamer Canada,
 from which they were duly landed at Liverpool.</p></div2>
 
-<div2 id="iln46.1304.001" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1304.001" n= "Foreign and Colonial Intelligence" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3491,8 +3523,8 @@ on compensation as a condition to precede the ratification.</p>
 <p>Letters from Petrolia state that wells, rich and valuable, are
 being every week struck.</p></div2>
 
-<div2 id="iln46.1304.002" n= "Latest News from Abroad." type="Article">
-<head>LATEST NEWS FROM ABROAD.</head>
+<div2 id="iln46.1304.002" n= "Latest News from Abroad" type="Article">
+<head>Latest News from Abroad</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3554,8 +3586,8 @@ expenses of the arrangements on the frontier to prevent raids. It has
 also appropriated 50,000 dols. on account of the money refunded to the
 United States in the case of the St. Albans raiders.</p></div2>
 
-<div2 id="iln46.1305.001" n= "The Federal Occupation of Charleston." type="Article">
-<head>THE FEDERAL OCCUPATION OF CHARLESTON.</head>
+<div2 id="iln46.1305.001" n= "The Federal Occupation of Charleston" type="Article">
+<head>The Federal Occupation of Charleston</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3642,7 +3674,7 @@ terrible consequences have fallen, have since bewailed the impatience
 and imperious pride that needlessly and almost gaily flung back the
 floodgates of devouring war, which from that moment to this none have
 been able to close, and through which an inundation of woe has swept
-to cover the face of the land, with wreck and death.</p>
+to cover the face of the land with wreck and death.</p>
 <p>Remembering all this, one cannot wonder that the fall of Charleston
 has sent a thrill of sensation through the North, nor that the
 officers of the Federal Government took possession of the already
@@ -3693,8 +3725,8 @@ resound with traffic. Her waters will be crowded with the ships of all
 nations. And her last state of prosperity will, we devoutly trust,
 bury her first in forgetfulness.</p></div2>
 
-<div2 id="iln46.1305.002" n= "Foreign and Colonial News: America." type="Article">
-<head>FOREIGN AND COLONIAL NEWS: AMERICA.</head>
+<div2 id="iln46.1305.002" n= "Foreign and Colonial News" type="Article">
+<head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3717,7 +3749,7 @@ Northern navy, assisted by a considerable land force, is now
 garrisoned by Federal troops. Charleston was evacuated by the
 Confederates on the night of the 17th and occupied by the Federals on
 the morning of the 18th ult.</p>
-<p>In April 1861, Fort Sumter, at that time occupied by a Federal
+<p>In April, 1861, Fort Sumter, at that time occupied by a Federal
 garrison, was besieged by the people of Charleston, and surrendered
 after a bombardment of some hours, but which occasioned no loss of
 life. From that time till the 18th of February, 1865, the flag of the
@@ -3746,7 +3778,7 @@ the railroads communicating with the eastern portions of South
 Carolina.</p>
 <p>Intelligence of these events having been transmitted to Charleston,
 the evacuation of that town was effected on the night of the 17th
-ult., and on the following morning the Federal troops entered, without
+ult., and on the following morning the Federal troops entered without
 opposition. The guns, to the number of two hundred, with which the
 fortifications were armed, fell into the hands of the Federals, after,
 however, having been spiked, and a considerable quantity of ammunition
@@ -3771,7 +3803,7 @@ rapidly towards Charlotte, a railway centre in North Carolina, about
 eighty-five miles nearly due north of Columbia. Sherman's column lost
 no time in following the Confederates up, and at last accounts was
 thirty miles north of Columbia.</p>
-<p>At Wilmington, too, the Federals have been successful. On the 10th
+<p>At Wilmington, too, the Federals have been successful. On the 19th
 of February General Schofield, assisted by Admiral Porter, assaulted
 and carried Fort Anderson, the garrison making good their retreat. The
 fall of Wilmington, we are told, appeared certain.</p>
@@ -3794,8 +3826,8 @@ without a division, 50,000 dols. for the purpose of reimbursing the
 St. Albans banks for the losses they sustained by the Confederate
 raiders.</p></div2>
 
-<div2 id="iln46.1305.003" n= "The Magazines." type="Article">
-<head>THE MAGAZINES.</head>
+<div2 id="iln46.1305.003" n= "The Magazines" type="Article">
+<head>The Magazines</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3805,7 +3837,7 @@ raiders.</p></div2>
 
 </bibl>
 <p rend="center">THE MAGAZINES.</p>
-<p>....Anything by the Dean of St. Paul's is sure to be read with
+<p>...Anything by the Dean of St. Paul's is sure to be read with
 respectful attention. <hi rend="italic">Fraser</hi> commences with a
 report of his speech before the clerical subscription committee on a
 subject almost equally interesting to the laity and to clergymen. A
@@ -3829,7 +3861,7 @@ end, and that end the propagation of slavery. He seems to foreshadow a
 breach between the allies on this account....</p></div2>
 
 <div2 id="iln46.1305.004" n= "The shipments of treasure" type="Article">
-<head>[THE SHIPMENTS OF TREASURE]</head>
+<head>[The Shipments of Treasure]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3843,7 +3875,7 @@ nearly 56,000,000 dols. the largest amount, a San Francisco paper
 states, ever shipped in a like period.</p></div2>
 
 <div2 id="iln46.1305.005" n= "The Gazette of yesterday se'nnight" type="Article">
-<head>[THE GAZETTE OF YESTERDAY SE'NNIGHT]</head>
+<head>[The Gazette of Yesterday Se'nnight]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3876,8 +3908,8 @@ in place of Lord Lyons, resigned.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln46.1306.002" n= "Foreign and Colonial Intelligence: America." type="Article">
-<head>FOREIGN AND COLONIAL INTELLIGENCE: AMERICA.</head>
+<div2 id="iln46.1306.002" n= "Foreign and Colonial Intelligence" type="Article">
+<head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -3894,7 +3926,7 @@ morning of the 5th inst.</p>
 <p>In President Lincoln's Inaugural Address, which we give on another
 column, there is, it will be seen, no indication of any change of
 policy.</p>
-<p>The great blockade-running city of Wilmington, as stated to a
+<p>The great blockade-running city of Wilmington, as stated in a
 considerable portion of our Impression last week, passed into Federal
 occupation on the 22nd ult., Washington's birthday. From Admiral
 Porter's official despatches we learn that General Schofield, now in
@@ -3905,7 +3937,7 @@ vessels from participating in the engagement. Fort Anderson answered
 pretty briskly, but quieted down by sunset. During the night the
 Confederates sent 200 floating torpedoes down the river, but Porter
 sunk them by musketry. One torpedo entered and blew up the wheel-house
-of the Osceola, and knocked down the bulkheads. No damage however, was
+of the Osceola, and knocked down the bulkheads. No damage, however, was
 done to the hull. Porter spread fishing-nets across the river. Next
 morning Porter advanced with the greater part of the fleet. A heavy
 fire was maintained silencing the Confederate batteries by three
@@ -3963,7 +3995,7 @@ left and massed with the rest of his army in the vicinity of Hatcher's
 Run.</p>
 <p>The proposition to arm 200,000 negroes passed the Confederate House
 of Representatives on the 20th ult.; but it was indefinitely postponed
-by the Senate on the following day, by a majority of one. The <hi
+by the Senate on the following day by a majority of one. The <hi
 rend="italic">Richmond Dispatch</hi> thinks the bill will be
 reconsidered and passed. Opinion at the South seems evenly balanced on
 the subject. General Lee has expressed his opinion that the employment
@@ -4033,13 +4065,13 @@ admitted to watch the case for his client, which the Commissioner
 declined to allow. The Hon. Mr. Letellier brought the matter before
 the notice of the Upper Chamber by inquiring of the Government whether
 it was by their instructions that the Commissioner was proceeding <hi
-rend="italic">ex parte</hi> and with closed doors. In reply. Sir
+rend="italic">ex parte</hi> and with closed doors. In reply, Sir
 E. P. Tach&#x00E9; stated that Mr. Torrance was only acting in virtue
 of his commission, that he had received no instructions, and was
 carrying on the inquiry according to law.</p></div2>
 
-<div2 id="iln46.1306.003" n= "President Lincoln's Inaugural Address." type="Article">
-<head>PRESIDENT LINCOLN'S INAUGURAL ADDRESS.</head>
+<div2 id="iln46.1306.003" n= "President Lincoln's Inaugural Address" type="Article">
+<head>President Lincoln's Inaugural Address</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -4055,7 +4087,7 @@ address, received on Thursday night through Mr. Reuter's office:--</p>
 appearance to take the oath of the Presidential office there is less
 occasion for an extended address than at the first. Then, a statement,
 somewhat in detail, of the course to be pursued seemed very fitting
-and proper; now, at the expiration of four years, during which public
+and proper: now, at the expiration of four years, during which public
 declarations have constantly been called forth concerning every point
 and phase of the great contest which still absorbs attention and
 engrosses the energies of the nation, little that is new could be
@@ -4069,7 +4101,7 @@ directed to an impending civil war. All dreaded it; all sought to
 avoid it. While the inaugural address was being delivered from this
 place, devoted altogether to saving the Union without war, the
 insurgent agents were in the city seeking to destroy it without war,
-seeking to dissolve the union and divide the effects, by
+seeking to dissolve the Union and divide the effects, by
 negotiating. Both parties deprecated war; but one of them would make
 war rather than let the Union perish; and war came. One eighth of the
 whole population were coloured slaves; not distributed generally over
@@ -4093,10 +4125,10 @@ needs be that offence come, but woe unto that man by whom the offence
 cometh!" If we suppose American slavery one of these offences which in
 the providence of God must needs come, but which, having continued
 through His appointed time, He now wills to remove, and that He gives
-to both North and South this terrible war, as due to them by whom the
+to both North and South this terrible war, as due to those by whom the
 offence came, shall we discern that there is any departure from those
 Divine attributes which believers in the living God always ascribe to
-Him? Fondly do we hope, fervently, do we pray, that this mighty
+Him? Fondly do we hope, fervently do we pray, that this mighty
 scourge of war may speedily pass away; yet if it be God's will that it
 continue until the wealth piled by bondsmen by 250 years' unrequited
 toil shall be sunk, and until every drop of blood drawn with the lash
@@ -4105,8 +4137,7 @@ ago, so still it must be said that the judgments of the Lord are true
 and righteous. With malice towards none, with charity for all, with
 firmness in the right as God gives us to see the right, let us strive
 on to finish the work we are engaged in; to bind up the nation's
-wounds; to care for the man who shall have borne the battle, and for
-the widow and orphans; to do all which may achieve and cherish a just
+wounds; to care for the man who shall have borne the battle, and for his widow and orphans; to do all which may achieve and cherish a just
 and a lasting peace among ourselves and with all nations.</p></div2>
 
 <div2 id="iln46.1306.004" n="The War in America: Interior of Fort
@@ -4148,9 +4179,8 @@ and a lasting peace among ourselves and with all nations.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln46.1306.006" n= "The most interesting, as well as the
-      most important" type="Article">
-<head>[THE MOST INTERESTING AS WELL AS THE MOST IMPORTANT]</head>
+<div2 id="iln46.1306.006" n= "London: Saturday, March 18, 1865" type="Article">
+<head>London: Saturday, March 18, 1865</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -4181,7 +4211,7 @@ crushing of the rebellion will liberate, and probably dispatch to
 rectify an account which requires stern overhauling.</p>
 <p>We do not suppose that an honest American reader of the debate,
 however much he may fancy he dislikes England, will perceive any signs
-of terror in the great debate, We are expressly told, on both sides of
+of terror in the great debate. We are expressly told, on both sides of
 the House, that there is no reason to believe that the Federals
 propose to break the peace. Lord Palmerston assures us of the friendly
 character of the relations between the Government at Washington and
@@ -4202,7 +4232,7 @@ may be regarded as the member for Federalia, and who represents
 American views far more faithfully than those of any large number of
 Englishmen, would not be content with any formalism or any
 philosophy. He was, or seemed to be, more angry than he usually
-appears and, while peace was his theme, he thundered over it as if he
+appears; and, while peace was his theme, he thundered over it as if he
 were proclaiming war. Mr. Bright contended that England had behaved
 ill to the Federals in recognising the South, in taking a high tone in
 the Trent affair, and in permitting the Alabama and other
@@ -4254,8 +4284,8 @@ mighty champions of civilisation and progress, engaged in hideous
 grapple, instead of leading in majestic union the march of mankind
 towards better things than can be gained by war.</p></div2>
 
-<div2 id="iln46.1306.007" n= "Sketches in Parliament." type="Article">
-<head>SKETCHES IN PARLIAMENT.</head>
+<div2 id="iln46.1306.007" n= "Sketches in Parliament" type="Article">
+<head>Sketches in Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -4265,7 +4295,7 @@ towards better things than can be gained by war.</p></div2>
 
 </bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
-<p>....It was not to be taken as a necessity that a great debate on
+<p>...It was not to be taken as a necessity that a great debate on
 the policy of this country towards the United States was involved in
 Mr. Seymour Fitzgerald's motion on the defences of Canada. It would
 have been quite possible to keep the discussion within the narrow
@@ -4281,8 +4311,8 @@ most peaceful intentions on the part of the United States, a feeling
 which, if he happened to get into the Foreign Office, was to be
 cherished and, if possible, expanded....</p></div2>
 
-<div2 id="iln46.1306.008" n= "Imperial Parliament." type="Article">
-<head>IMPERIAL PARLIAMENT.</head>
+<div2 id="iln46.1306.008" n= "Imperial Parliament" type="Article">
+<head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -4292,12 +4322,12 @@ cherished and, if possible, expanded....</p></div2>
 
 </bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
-<p rend="center">HOUSE OF COMMONS.--<hi
+<p rend="center">...HOUSE OF COMMONS.--<hi
 rend="smallcaps">Monday.</hi></p>
-<p rend="center"><hi rend="smallcaps">The Defences Of Canada.--Our
+<p rend="center"><hi rend="smallcaps">...The Defences Of Canada.--Our
 Relations With America.</hi></p>
 <p>Mr. <hi rend="smallcaps">Seymour Fitzgerald</hi> brought under
-notice the report of Colonel Jervois with reference to the defences of
+notice the report of Colonel <sic>Jervis</sic> with reference to the defences of
 Canada, and called attention generally to the state of that colony in
 the event of an attack by the Federal States of America. The
 hon. gentleman observed that in his opinion the Federal Government
@@ -4385,12 +4415,12 @@ purpose.</p>
 North American provinces to the Crown, and asked whether the country
 was prepared to pay an income tax of a shilling in the pound for the
 purpose of defending Canada.</p>
-<p>Mr. <hi rend="smallcaps">C. Fortesque</hi> observed that the
+<p>Mr. <hi rend="smallcaps">C. Fortescue</hi> observed that the
 Government considered it to be a matter of duty to defend our North
 American provinces, provided they wished to remain dependent on the
 British Crown and were prepared to play a manly part in their own
 defence. He did not believe that the American people would be insane
-and foolish enough to turn their arms against a friendly power by
+and foolish enough to turn their arms against a friendly Power by
 attacking Canada.</p>
 <p>Sir <hi rend="smallcaps">F. Smith</hi> was of opinion that a
 statement of the entire cost of the scheme of Canadian defence should
@@ -4423,7 +4453,7 @@ this irritating description, and maintained that for the honour of
 England it was necessary that whatever was to be done for Canada
 should be done quickly and completely.</p>
 <p>Mr. <hi rend="smallcaps">Bright</hi> commented upon the
-circumstance that a bitter feeling had grown up of late in reference
+circumstance that a better feeling had grown up of late in reference
 to the Federal States, and inquired how there was to be war if England
 was not in favour of it and the United States were opposed to it. He
 did not believe that any cause of hostility would arise out of the
@@ -4455,8 +4485,8 @@ out of the war, but there was no reason to suppose that they could not
 be adjusted without difficulty.</p>
 <p>The subject then dropped.</p></div2>
 
-<div2 id="iln46.1306.009" n= "Illustrations of the War in America." type="Article">
-<head>ILLUSTRATIONS OF THE WAR IN AMERICA.</head>
+<div2 id="iln46.1306.009" n= "Illustrations of the War in America" type="Article">
+<head>Illustrations of the War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -4471,7 +4501,7 @@ Fisher.</hi></p>
 <p><hi rend="smallcaps">The</hi> Engraving on page 249 is from a
 sketch by our Special Artist, representing the scene within the
 north-eastern salient of Fort Fisher, near Wilmington, during the
-second great bombardment, which was commenced on the 18th of January,
+second great bombardment, which was commenced on the 13th of January,
 and continued till the successful assault in the afternoon of the
 15th. A part of the Federal fleet is seen lying at anchor towards the
 right-hand side of this view; while the storming-party, which numbered
@@ -4532,7 +4562,7 @@ interesting problem of finding upon how very little 'bad bread,
 salt-horse, and bean-soup' (all but the bean) a full-grown man can
 continue the somewhat necessary operation of breathing. The rule as to
 the issue of rations in this Northern prison, both in quality and
-quantity, is unchangeable and really monotonous in its effect, A word
+quantity, is unchangeable and really monotonous in its effect. A word
 or two about this now celebrated prison may be interesting to your
 readers. Like old Sumter, it is a sea-girt fortress, standing at the
 entrance of New York Harbour, and, bristling with 100-pounders, is
@@ -4544,20 +4574,20 @@ adaptability of this fort as a military prison; and from that time to
 the present its gun-rooms and casemates have been crowded with
 Confederate prisoners of all ranks and grades. It was here that the
 members of the Maryland Legislature were placed in durance vile, and
-here it was that en-Governor Morehead of Kentucky, lingered till he
+here it was that en-Governor Morehead, of Kentucky, lingered till he
 was brought to the verge of death. The Hon. Pierre Soul&#x00E9;, too,
 and a host of other Confederate notables have been confined here; and
 here, when I had the good fortune to obtain my order of release the
 other day, I left many still in prison, amongst whom were Admiral
 Buchanan, General Page and his Staff (captured in Mobile Bay and at
-fort Morgan), Generals Pryor and Beal, Captain Thom and other
+Fort Morgan), Generals Pryor and Beal, Captain Thom, and other
 officers, besides a large number of privates and a few
 blockade-runners. Among them was one Captain Beall, a Virginian, an
 officer in the Confederate army and holding also a naval commission,
 who was confined in the same casemate (No. 2) in which I was. He was
 charged with piracy on Lake Erie, and was kept in irons and forbidden
 to leave the casemate. With respect to the rules and regulations of
-this fort, and the system of feeding the prisoners I have no words at
+this fort, and the system of feeding the prisoners, I have no words at
 my disposal sufficient to express my indignation; but I must say, in
 justice to the Yankee officers quartered there during my imprisonment,
 that from one and all--including even 'Old Burke,' the Commandant,
@@ -4578,8 +4608,8 @@ Island the previous day. He behaved with much fortitude, and protested
 against the execution of his sentence, declaring that what he had done
 was in the service of his country.</p></div2>
 
-<div2 id="iln46.1306.010" n= "Current Literature." type="Article">
-<head>CURRENT LITERATURE.</head>
+<div2 id="iln46.1306.010" n= "Current Literature" type="Article">
+<head>Current Literature</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -4633,15 +4663,15 @@ was as neat as a pin. The floor was white as chalk and smooth as
 glass. The Shakers was all on hand, in clean weskits and meal-bags,
 ranged on the floor like milingtery companies, the mails on one side
 of the room and the females on tother. They commenst clappin their
-hands and singin and dancin. They danced kinder slow at first; but as
+hands and singin and dancin. They danced kinder slow at fust; but as
 they got warmed up they shaved it down very brisk, I tell you. Elder
 Uriah, in partickler, exhiberted a right smart chance of spryness in
 his legs, considerin his time of life, and as he cum a dubble shuffle
 near where I sot I rewarded him with a approvin smile, and sed,
-'Hunky, boy! Go it, my gay and festiv cuss!'" Artemus falls in with
+'Hunky, boy! Go it, my gay and festiv cuss!' " Artemus falls in with
 the "noble savage" but he declares "Injins is pizin, whar ever found."
 He continues:--"They sed I was their brother, &#x0026; wantid for to
-smoke the Calomel of Peace with me. They then stole my jerkt beef
+smoke the Calomel of Peace with me. They then stole my jerkt beef,
 blankits, etsettery, skalpt my orgin grinder, and scooted with a Wild
 Hoop. Durin the Cheaf's techin speech he said he shoold meet me in the
 Happy Huntin Grounds. If he duz there will be a fite." He "pores 4th"
