@@ -35,7 +35,7 @@ div.footing {	position: relative;
 		border-top: double medium black;
 	    }
 div.right { text-align: right;
-	  /*font-family: Arial;*/} 
+	 } 
 
 p.head  { text-align: center;
 	  font-family: Conga;
@@ -43,7 +43,6 @@ p.head  { text-align: center;
 	}
 
 p.left  { text-align: left;
-     	  font-family: Arial;
     	}
 
 p.error {  font-size: 125%; color: red }
