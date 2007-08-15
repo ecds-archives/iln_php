@@ -1536,7 +1536,8 @@ should rejoice to hear that the presence of a large Federal force had
 made so fearful a revolt impossible.</p>
 
             </div2>
-            <div2 id="iln38.1071.022" n="The Secession Movement" type="Illustration">
+            <div2 id="iln38.1071.022" n="The Secession Movement"
+		  type="Illustration">
                <head>The Secession Movement</head>
                <bibl> 
                   <title>The Illustrated London
@@ -1547,7 +1548,8 @@ News</title>
                   <date value="1861-02-02">February 2, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p87" width="914" height="610">
+                  <figure entity="v38p87" width="914" height="610"
+			  ana="pg ps">
                      <head>The Secession Movement.&#x2014;Entrance Hall to
 an Hotel at Charleston, South Carolina&#x2014;See Page 94.</head>
                   </figure>
@@ -1675,7 +1677,8 @@ against coercing the Southern States was held in New York City on the
 evening of the 14th ult.</p>
 
             </div2>
-            <div2 id="iln38.1072.024" n="The New Flag of the State of South Carolina." type="Illustration">
+            <div2 id="iln38.1072.024" n="The New Flag of the State of
+		  South Carolina." type="Illustration">
                <head>The New Flag of the State of South Carolina.</head>
                <bibl>
                   <title>The Illustrated London News</title> 
@@ -1686,7 +1689,7 @@ evening of the 14th ult.</p>
                   <date value="1861-02-02">February 2, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p89" width="296" height="308">
+                  <figure entity="v38p89" width="296" height="308" ana="flag">
                      <head>The New Flag of the State of South
 Carolina.</head>
                   </figure>
@@ -1771,13 +1774,14 @@ Illustrated London News</title>
 1861</date> 
                <extent>7 paragraphs</extent></bibl>
                <p>
-                  <figure entity="v38p94a" width="538" height="708">
+                  <figure entity="v38p94a" width="538" height="708" ana="land">
                      <head>The Charleston
 Palmetto.</head>
                   </figure>
                </p>
                <p>
-                  <figure entity="v38p94b" width="614" height="381">
+                  <figure entity="v38p94b" width="614" height="381"
+			  ana="street slave">
                      <head>Selling
 Sweet Potatoes in Charleston.</head>
                   </figure>
@@ -1964,7 +1968,7 @@ World.</p>
                   <date value="1861-02-09">February 9, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p129" width="860" height="692">
+                  <figure entity="v38p129" width="860" height="692" ana="map">
                      <head>Plan of Charleston (South Carolina) Harbour and
 Vicinity</head>
                   </figure>
@@ -2350,14 +2354,14 @@ the negro to get down and walk.  He then stood aside to recover
 himself, and the negro paced up and down the room to show that he was
 sound on his legs.  Some </p>
                <p>
-                  <figure entity="v38p138a" width="438" height="650">
+                  <figure entity="v38p138a" width="438" height="650" ana="church">
                      <head>The Principal
 Church in Charleston, South Carolina.&#x2014;See Page
 147.</head><figDesc>Occurs on p. 138.</figDesc>
                   </figure>
                </p>
                <p>
-                  <figure entity="v38p138b" width="507" height="496">
+                  <figure entity="v38p138b" width="507" height="496" ana="slave">
                      <head>Dealers Inspecting a Negro at a Slave
 		     Auction in Virginia.&#x2014;From a Sketch by our
 		     Special Artist.</head>
@@ -2366,7 +2370,7 @@ Church in Charleston, South Carolina.&#x2014;See Page
                   <pb n="139"/>
                </p>
                <p>
-                  <figure entity="v38p139" width="1465" height="1006">
+                  <figure entity="v38p139" width="1465" height="1006" ana="slave">
                      <head>A Slave Auction in Virginia.&#x2014;From Sketch by our
 Special Artist.</head>
 <figDesc>Occurs on p. 139</figDesc>
@@ -2939,7 +2943,7 @@ Illustrated London News</title>
 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p194" width="833" height="562">
+                  <figure entity="v38p194" width="833" height="562" ana="insta">
                      <head>Fort Moultrie, in
 Charleston Harbour, South Carolina: The Secession Flag
 Flying.</head>
@@ -2960,7 +2964,7 @@ London News</title>
 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p207" width="864" height="615">
+                  <figure entity="v38p207" width="864" height="615" ana="daily">
                      <head>"A Barber's Shop at
 Richmond, Virginia," By Eyre Crowe, in the Exhibition of the British
 Institution.&#x2014;See Page 216.</head>
@@ -3384,7 +3388,8 @@ individual stir in the matter?</p>
 painting in oil, life-size, taken by Mr. James Forbes, of Toronto,
 whilst Anderson lay in the Toronto gaol.</p>
                <p>
-                  <figure entity="v38p223" width="422" height="466">
+                  <figure entity="v38p223" width="422" height="466"
+			  ana="pic slave">
                      <head>John Anderson, the Fugitive Slave in
 Canada.</head>
                   </figure>
@@ -3402,7 +3407,7 @@ Davis</head>
                   <date value="1861-03-16">March 16, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p231" width="476" height="480">
+                  <figure entity="v38p231" width="476" height="480" ana="pic">
                      <head>The Hon. Jefferson Davis, President of
 the Confederate States of America.  See Supplement, Page
 248.</head>
@@ -3577,7 +3582,7 @@ London News</title>
 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p247" width="1064" height="1465">
+                  <figure entity="v38p247" width="1064" height="1465" ana="pic">
                      <head>General Winfield
 Scott, Commander-In-Chief of the American Forces.&#x2014;<hi rend="small">See Next
 Page.</hi></head>
@@ -3778,7 +3783,7 @@ Illustrated London News</title>
 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p250" width="545" height="377">
+                  <figure entity="v38p250" width="545" height="377" ana="money">
                      <head>Railway Station in
 Georgia, America.&#x2014;See Preceding Page.</head>
                   </figure>
@@ -3992,7 +3997,8 @@ Illustrated London News</title>
 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p266" width="1169" height="845">
+                  <figure entity="v38p266" width="1169" height="845"
+			  ana="ps pg">
                      <head>The Crowd at
 Baltimore Waiting for Mr. Lincoln, President of the United
 States</head>
@@ -4071,7 +4077,8 @@ London News</title>
 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p267" width="641" height="623">
+                  <figure entity="v38p267" width="641" height="623"
+			  ana="ps pg">
                      <head>The Inauguration of
 the Hon. Jefferson Davis as President of the Provisional Government of
 the New Southern Confederacy of America.</head>
@@ -4648,7 +4655,8 @@ News</title>
                   <date value="1861-03-30">March 30, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p299" width="1454" height="1029">
+                  <figure entity="v38p299" width="1454" height="1029"
+			  ana="ps pg">
                      <head>President Lincoln Delivering his
 Inaugural Address in Front of the Capitol at Washington.&#x2014;<hi rend="small">See next
 page</hi>.</head>
@@ -4883,7 +4891,7 @@ quick hand the nimble Yankee turns over every other seat, so as to
 reverse the back, and make two seats, one facing the other.  Nimbly he
 shuts the 
           
-                  <figure entity="v38p306" width="845" height="619">
+                  <figure entity="v38p306" width="845" height="619" ana="money">
                      <head>Interior of an American
 Railway-Car. [p. 306]</head>
                   </figure> 
@@ -4981,7 +4989,7 @@ with the old lady, and pay her homage by waiting at table in his
 highest style, and perhaps, as our Artist saw him, escort her to and
 from the "meetin'-house."</p>
                <p>
-                  <figure entity="v38p307a" width="534" height="711">
+                  <figure entity="v38p307a" width="534" height="711" ana="slave">
                      <head>The Dandy
 Slave: a Scene in Baltimore, Maryland. [p. 307]</head>
                   </figure>
@@ -5016,7 +5024,7 @@ altogether unhappy.  An orderly silence is preserved as a general rule
 at these sales, although conversation does not seem to be altogether
 prohibited.</p>
                <p>
-                  <figure entity="v38p307b" width="929" height="554">
+                  <figure entity="v38p307b" width="929" height="554" ana="slave">
                      <head>Slaves for Sale: a Scene
 in New Orleans.</head>
                   </figure>
@@ -5035,7 +5043,7 @@ News</title>
                   <date value="1861-04-06">April 6, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p310" width="1185" height="860">
+                  <figure entity="v38p310" width="1185" height="860" ana="ps">
                      <head> A Scene in the Hall of Representatives
 Washington.&#x2014;<hi rend="small">See supplement, page 320.</hi></head>
                   </figure>
@@ -5247,7 +5255,7 @@ The former was an easy victor.</p>
                   <hi rend="center">CONFEDERACY OF AMERICA.</hi>
                </p>
                <p>
-                  <figure entity="v38p344" width="269" height="219">
+                  <figure entity="v38p344" width="269" height="219" ana="flag">
                      <head>The Flag Adopted by the New Southern Confederacy of
 America. [p. 344]</head>
                   </figure>
@@ -6007,7 +6015,7 @@ the material interests of the Southern States.  His antecedents thus
 in every way qualified him for the discharge of the duties of the
 important office which has now been conferred upon him.</p>
                <p>
-                  <figure entity="v38p414" width="480" height="681">
+                  <figure entity="v38p414" width="480" height="681" ana="pic">
                      <head> The Hon. A. Dudley Mann, One of the Three
 Commissioners of the Confederate States of America to Europe.&#x2014;From a
 Photograph by John Watkins.</head>
@@ -6026,7 +6034,7 @@ Photograph by John Watkins.</head>
                   <date value="1861-05-04">May 4, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p423" width="1029" height="1458">
+                  <figure entity="v38p423" width="1029" height="1458" ana="money">
                      <head>Loading Cotton on the Alabama River.  (1)
 Cotton-shoot on the Alabama.  (2) Foot of the Shoot: Receiving the
 Cotton-bales on Board the Steamer.&#x2014;See next
@@ -6390,7 +6398,7 @@ and men of position, reside.</p>
                   <date value="1861-05-11">May 11, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p434" width="1018" height="1358">
+                  <figure entity="v38p434" width="1018" height="1358" ana="pic">
                      <head>Major Anderson, Late Commandant of Fort Sumter
 Charleston Harbour&#x2014;<hi rend="smallcap">See preceding page.</hi></head>
                   </figure>
@@ -6408,7 +6416,8 @@ Charleston Harbour&#x2014;<hi rend="smallcap">See preceding page.</hi></head>
                   <date value="1861-05-11">May 11, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p435" width="1458" height="1044">
+                  <figure entity="v38p435" width="1458" height="1044"
+			  ana="insta naval>
                      <head>The Main Battery at Fort Sumter   Guns Bearing on
 Fort Moultrie and the Channel During the Action of Friday April 12</head>
                   </figure>
@@ -6830,7 +6839,8 @@ emerging from between the high and rocky banks which confine its
 channel above Georgetown, it begins to spread out in front <pb n="459"/>
                </p>
                <p>
-                  <figure entity="v38p459" width="1025" height="1458">
+                  <figure entity="v38p459" width="1025" height="1458"
+			  ana="land insta">
                      <head>Views on the Potomac Below
 Washington.&#x2014;From Sketches by our Special Artist.  1. The Potomac at
 Washington.  2. Fort Washington.  3.  General View of the Potomac
@@ -6895,17 +6905,17 @@ higher.</p>
                   <date value="1861-05-18">May 18, 1861</date> 
                <extent>5 paragraphs</extent></bibl>
                <p>
-                  <figure entity="v38p466" width="1358" height="1018">
+                  <figure entity="v38p466" width="1358" height="1018" ana="money">
                      <head>The Baltimore and Ohio Railway: Tray Run
 Viaduct. [p. 466]</head>
                   </figure>
                </p>
                <p>
-                  <figure entity="v38p467a" width="868" height="588">
+                  <figure entity="v38p467a" width="868" height="588" ana="money">
                      <head>The
 Baltimore and Ohio Railway.  Boardtree Hill. [p. 467]</head>
                   </figure>
- <figure entity="v38p467b" width="868" height="588">
+ <figure entity="v38p467b" width="868" height="588" ana="money">
                      <head>The
 Baltimore and Ohio Railway.  Kingwood Tunnel. [p. 467]</head>
                   </figure>
@@ -7067,7 +7077,8 @@ could say."</p>
                   <date value="1861-05-18">May 18, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p471" width="549" height="457">
+                  <figure entity="v38p471" width="549" height="457"
+			  ana="ps pg">
                      <head>The "Union" Mass Meeting held in Union-Square, New
 York on the 20th of April&#x2014;<hi rend="small">See page 467</hi>.</head>
                   </figure>
@@ -7105,7 +7116,7 @@ London News</title>
 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p479" width="1458" height="1025">
+                  <figure entity="v38p479" width="1458" height="1025" ana="land">
                      <head>Harper's Ferry,
 Virginia.&#x2014;See supplement, page 496.</head>
                   </figure>
@@ -7360,7 +7371,8 @@ News</title>
                   <date value="1861-05-25">May 25, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p486-487" width="983" height="669">
+                  <figure entity="v38p486-487" width="983"
+			  height="669" ana="wash">
                      <head>Birdseye View of the City of
 Washington, with the Capitol in the Foreground.&#x2014;<hi rend="small">See supplement, page
 496.</hi></head>
@@ -7728,7 +7740,8 @@ forcing on the attention of mankind.</p>
                   <date value="1861-05-25">May 25, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p498" width="2265" height="1662">
+                  <figure entity="v38p498" width="2265" height="1662"
+			  ana="ps pg">
                      <head>The War Excitement in New York: Scene in Front of a
 Fire-Engine House.&#x2014;<hi rend="small">See page 500.</hi></head>
                   </figure>
@@ -7747,7 +7760,7 @@ London News</title>
 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p499a" width="1392" height="991">
+                  <figure entity="v38p499a" width="1392" height="991" ana="insta">
                      <head>The Civil War in
 America.  Fort Monroe, Virginia, as seen from the James
 River.</head>
@@ -7766,7 +7779,7 @@ Arkansas</head>
                   <date value="1861-05-25">May 25, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p499b" width="983" height="1458">
+                  <figure entity="v38p499b" width="983" height="1458" ana="insta">
                      <head>Fort Smith, Arkansas, recently captured
 from the United States by the
 Secessionists.</head>
@@ -8884,7 +8897,7 @@ remain there for more than twenty-four hours.</p>
                   <date value="1861-06-15">June 15, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p543" width="630" height="885">
+                  <figure entity="v38p543" width="630" height="885" ana="pic">
                      <head>His Excellency Charles Francis Adams, the United
 States' Minister at the British Court.&#x2014;See page
 546.</head>
@@ -9317,14 +9330,16 @@ in the States, how long I contemplated staying, where I was going to,
 and a host of other matters I should never have dreamt of telling.
 Astounded at this in-</p>
                <p>
-                  <figure entity="v38p563a" width="1251" height="1470">
+                  <figure entity="v38p563a" width="1251" height="1470"
+			  ana="blue">
                      <head>Colonel
 Ellsworth's Volunteer Regiment (The New York Firemen Zouaves).&#x2014;See
 next page.</head>
                   </figure>
                </p>
                <p>
-                  <figure entity="v38p563b" width="1917" height="1356">
+                  <figure entity="v38p563b" width="1917" height="1356"
+			  ana="street">
                      <head>Reading the War News in Broadway, New York.&#x2014;From a
 Sketch by our Special Artist.</head>
                   </figure>
@@ -9451,7 +9466,7 @@ week, in the steamer Nova Scotian.</p>
                   <date value="1861-06-22">June 22, 1861</date> 
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p567" width="1928" height="1400">
+                  <figure entity="v38p567" width="1928" height="1400" ana="blue">
                      <head>The Civil War in America: The 4th Regiment of New
 York Zouaves Passing through Broadway on their way to Embark for the
 War "Down South."</head>
@@ -9793,7 +9808,7 @@ strangers.  My room was shown to me.  It contained four large fourpost
 beds, a rickety table, and some chairs of infirm purpose and
 fundamental unsoundness.  The floor was carpet-</p>
                <p>
-                  <figure entity="v38p571" width="1966" height="1454">
+                  <figure entity="v38p571" width="1966" height="1454" ana="land">
                      <head>The Civil War in America: Harper's
 Ferry, Virginia.</head>
                   </figure>
@@ -9876,7 +9891,8 @@ the trying times that have yet to come.</p>
                   <date value="1861-06-22">June 22, 1861</date>
                <extent>7 paragraphs</extent></bibl>
                <p>
-                  <figure entity="v38p574a" width="864" height="627">
+                  <figure entity="v38p574a" width="864" height="627"
+			  ana="blue skirm">
                      <head>The Civil War in America. Gallant Charge of Federal
 Cavalry into Fairfax Courthouse, Virginia.&#x2014;From a Sketch by our
 Special Artist.</head>
@@ -9911,7 +9927,8 @@ situated on the north bank, James River, at its lower falls, 150 miles
 above its mouth.  Richmond lies on the opposite side of the river,
 with which it is</p>
                <p>
-                  <figure entity="v38p574b" width="856" height="558">
+                  <figure entity="v38p574b" width="856" height="558"
+			  ana="blue skirm">
                      <head>New York
 Fireman Zouaves Turning out to Support Pickets between Alexandria and
 Fairfax Courthouse, Virginia.&#x2014;From a Sketch by our Special
@@ -9920,7 +9937,8 @@ Artist.</head>
                   <pb n="575"/>
                </p>
                <p>
-                  <figure entity="v38p575a" width="2770" height="1083">
+                  <figure entity="v38p575a" width="2770" height="1083"
+			  ana="rich">
                      <head>The Civil War in America: View
 of Richmond, the Capital of Virginia.</head>
                   </figure>
@@ -9978,7 +9996,7 @@ Mini&#x00E9; rifles, and with seamen to work the cannon.</p>
                   <date value="1861-06-22">June 22, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p575b" width="1092" height="899">
+                  <figure entity="v38p575b" width="1092" height="899" ana="money">
                      <head>Iron-Car Battery on the Philadelphia Railway.</head>
                   </figure>
                </p>
@@ -9994,7 +10012,7 @@ Mini&#x00E9; rifles, and with seamen to work the cannon.</p>
                   <date value="1861-06-22">June 22, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v38p575c" width="1131" height="906">
+                  <figure entity="v38p575c" width="1131" height="906" ana="money">
                      <head>Winan's Steam-Battery, Invented
 by Dickinson.</head>
                   </figure>
@@ -10090,7 +10108,7 @@ are several towns on its banks.</p>
                <p>Our Illustration of the Ohio, engraved
 below, is from a sketch taken by Mr. L. J. Cranstone.</p>
                <p>
-                  <figure entity="v38p583" width="1989" height="1300">
+                  <figure entity="v38p583" width="1989" height="1300" ana="land">
                      <head>Moonlight Scene on the Ohio River, North America.</head>
                   </figure>
                </p>
@@ -10178,7 +10196,8 @@ Senate of the United States&#x2014;which he retained, after two re-elections,
 until his death.  In Europe clever young demagogues do not become
 Attorney-Generals at</p>
                <p>
-                  <figure entity="v38p599" width="1014" height="693">
+                  <figure entity="v38p599" width="1014" height="693"
+			  ana="blue camp">
                      <head>The Civil
 War in America: "Our Kitchen in the Camp of the 2nd New York
 Regiment."-From a Sketch by our Special Artist.</head>
@@ -10486,14 +10505,16 @@ Washington have been estimated at 60,000.  Scott has from 15,000 to
 Alexandria and Arlington Heights.<pb n="602"/>
                </p>
                <p>
-                  <figure entity="v38p602a" width="868" height="592">
+                  <figure entity="v38p602a" width="868" height="592"
+			  ana="blue camp">
                      <head>The Civil War in America. Some of "Wilson's Boys" in
 Wooden Camp at Staten Island.&#x2014;From a Sketch by our Special
 Artist.</head>
                   </figure>
                </p>
                <p>
-                  <figure entity="v38p602b" width="856" height="608">
+                  <figure entity="v38p602b" width="856" height="608"
+			  ana="blue camp">
                      <head>"My Head-Quarters in the Camp
 of the 2nd New York Regiment."&#x2014;From a Sketch by our Special Artist.</head>
                   </figure>
@@ -10502,5 +10523,74 @@ of the 2nd New York Regiment."&#x2014;From a Sketch by our Special Artist.</head
             </div2>
          </div1>
       </body>
+<back>
+<div1>
+<p>
+<interpGrp type="City Views">
+<interp id="balt" value="Baltimore"/>
+<interp id="texas" value="Brownsville, Texas"/>
+<interp id="char" value="Charleston"/>
+<interp id="chi" value="Chicago"/>
+<interp id="fair" value="Fairfax Courthouse"/>
+<interp id="fred" value="Fredericksburg"/>
+<interp id="slc" value="Great Salt Lake City"/>
+<interp id="ms" value="Jackson, Mississippi"/>
+<interp id="ga" value="Macon, Georgia"/>
+<interp id="np" value="Nassau, New Providence"/>
+<interp id="ny" value="New York"/>
+<interp id="falls" value="Niagara Falls"/>
+<interp id="peter" value="Petersburg"/>
+<interp id="rich" value="Richmond"/>
+<interp id="sac" value="Sacramento City"/>
+<interp id="joe" value="St. Joe"/>
+<interp id="sav" value="Savannah"/>
+<interp id="wash" value="Washington"/>
+<interp id="york" value="Yorktown"/>
+</interpGrp>
+<interpGrp type="Civilian Life">
+<interp id="church" value="Churches"/>
+<interp id="daily" value="Daily Living"/>
+<interp id="gov" value="Government Buildings"/>
+<interp id="ps" value="Political Scenes"/>
+<interp id="pb" value="Political Buildings"/>
+<interp id="pg" value="Political Gatherings"/>
+<interp id="ref" value="Refugees"/>
+<interp id="street" value="Street Scenes"/>
+<interp id="protest" value="War Protest / Rioting"/>
+</interpGrp>
+<interpGrp type="Flags">
+<interp id="flag" value="Flags"/>
+</interpGrp>
+<interpGrp type="Landscapes">
+<interp id="land" value="Landscapes"/>
+</interpGrp>
+<interpGrp type="Maps">
+<interp id="map" value="Maps"/>
+</interpGrp>
+<interpGrp type="Military">
+<interp id="battle" value="Battles &#x0026; Battlefields"/>
+<interp id="camp" value="Camp Life"/>
+<interp id="insta" value="Installations"/>
+<interp id="skirm" value="Skirmishes"/>
+<interp id="gray" value="Troops, Confederate"/>
+<interp id="red" value="Troops, British"/>
+<interp id="blue" value="Troops, Union"/>
+</interpGrp>
+<interpGrp type="Naval Scenes &#x0026; Battles">
+<interp id="naval" value="Naval Scenes &#x0026; Battles"/>
+</interpGrp>
+<interpGrp type="Portraits">
+<interp id="pic" value="Portraits"/>
+</interpGrp>
+<interpGrp type="Slave Life">
+<interp id="slave" value="Slave Life"/>
+</interpGrp>
+<interpGrp type="Transportation, Commerce, &#x0026; Industry">
+<interp id="money" value="Transportation, Commerce, &#x0026;
+	Industry"/>
+</interpGrp>
+</p>
+</div1>
+</back>
    </text>
 </TEI.2>
