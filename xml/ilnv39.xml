@@ -636,7 +636,7 @@ the Confederate States.</p>
                   <date value="1861-07-13">July 13, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p28a" width="860" height="562">
+                  <figure entity="v39p28a" width="860" height="562" ana="blue gray skirm">
                      <head>The Civil War In America: How The Outlying
                      Sentries Of The Federal Army Are Killed By
                      Secessionist Scouts.&#x2014;From A Sketch By Our Special
@@ -695,7 +695,7 @@ and our artist were in the centre.</p>
                   <date value="1861-07-13">July 13, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p28b" width="841" height="585">
+                  <figure entity="v39p28b" width="841" height="585" ana="blue">
                      <head>The Civil War in America: Unionist Scouting
    Party in the Virginian Woods in the Neighbourhood of
    Alexandria.&#x2014;From a Sketch By Our Special Artist.</head>
@@ -772,7 +772,7 @@ Garibaldi Guard on the East Branch of the Potomac.</head>
                   <date value="1861-07-20">July 20, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p47" width="826" height="577">
+                  <figure entity="v39p47" width="826" height="577" ana="gray blue skirm">
                      <head>The Civil War in America: Attack on the Pickets of the
 Garibaldi Guard On The East Branch of the Potomac.&#x2014;From a Sketch by
 Our Special Artist.&#x2014;See Next Page</head>
@@ -1036,7 +1036,7 @@ States' Artillery.</head>
                   <date value="1861-07-20">July 20, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p58" width="845" height="623">
+                  <figure entity="v39p58" width="845" height="623" ana="wash money">
                      <head>The Civil War in America: The Long Bridge Over the Potomac at Washington, 
 Guarded By United  States' Artillery.</head>
                   </figure>
@@ -1120,7 +1120,7 @@ all these constitutional argumentations have a wonder-
 
 
     
-      <figure entity="v39p71" width="806" height="673">
+      <figure entity="v39p71" width="806" height="673" ana="skirm gray blue">
          <head>The Civil War in America: Capture of a United States' Dragoon by Guerrilla
          Horsemen of Virginia.&#x2014;From a Sketch by Our Special
          Artist.&#x2014;See Page 83.</head>
@@ -1373,7 +1373,7 @@ type="Illustration">
                <extent>1 paragraph</extent>
 	      </bibl>
                <p>
-                  <figure entity="v39p82" width="1177" height="438">
+                  <figure entity="v39p82" width="1177" height="438" ana="money">
                      <head>The New World, One of the Hudson River Steamers</head>
                   </figure>
                </p>
@@ -1508,7 +1508,7 @@ Special Artist" type="Illustration">
                   <date value="1861-07-20">July 27, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p83" width="810" height="592">
+                  <figure entity="v39p83" width="810" height="592" ana="slave">
                      <head>The Civil War in America: "Contraband of
                      War."&#x2014;From a Sketch by Our Special
                            Artist.</head>
@@ -2393,7 +2393,7 @@ Past.&#x2014;From a Sketch by Our Special Artist.&#x2014;See Preceding Page.</he
                   <date value="1861-08-03">August 3, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p111" width="1281" height="879">
+                  <figure entity="v39p111" width="1281" height="879" ana="blue">
                      <head>Review of Federal Troops on the 4th of July by
 President Lincoln and General Scott: The Garibaldi Guard Filing
 Past.&#x2014;From a Sketch by Our Special Artist.&#x2014;See Preceding Page.</head>
@@ -2661,7 +2661,7 @@ Virginia, the Capital of the Confederate States of America</head>
                   <date value="1861-08-10">August 10, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p127" width="818" height="692">
+                  <figure entity="v39p127" width="818" height="692" ana="rich">
                      <head>The Civil War in America: Sketches from Richmond,
 Virginia, the Capital of the Confederate States of America.</head> 
                   </figure>
@@ -2991,7 +2991,7 @@ preference.-<hi rend="italic">Medical Times and Gazette</hi>.</p>
                   <date value="1861-08-10">August 10, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p143" width="799" height="516">
+                  <figure entity="v39p143" width="799" height="516" ana="battle">
                      <head>The Civil War in America: Fight at Hainsville, on the Upper Potomac&#x2014;Advance 
   of the Wisconsin Men (Federalists) on the Secessionist Position.&#x2014;See Page 145.</head> 
                   </figure>
@@ -3036,7 +3036,7 @@ be made to that place; and after they should be carried others of a
 similar character would have to be overcome at every point where they
 could be erected.  The utmost<pb n="144"/>
   
-      <figure entity="v39p144" width="849" height="665">
+      <figure entity="v39p144" width="849" height="665" ana="map">
          <head>Map of District of Columbia</head>
       </figure>
 <pb n="145"/>
@@ -3751,9 +3751,9 @@ faith and the most friendly spirit, we ventured to argue that
 peaceable separation was a better solution of the problem for all
 parties than a civil war on the largest scale, of the fiercest
 character and the most doubtful results. The first frost of adversity
-has withered this vainglorious spirit.   The North recognises in the
+has withered this vainglorious spirit. The North recognises in the
 South a foe formidable on her own soil; and
-<figure entity="v39p151" width="810" height="696">
+<figure entity="v39p151" width="810" height="696" ana="gray blue">
  <head>The Civil War in America: Confederate Prisoners
 Captured by United States' Pickets Between Fairfax and Manassas
 Junction, Virginia.  From a Sketch by Our Special Artist.</head>
@@ -4289,7 +4289,7 @@ Artist.</head>
                   <date value="1861-08-17">August 17, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p155" width="810" height="554">
+                  <figure entity="v39p155" width="810" height="554" ana="skirm gray blue">
                      <head>The Civil War in America: Carolinian Pickets 
 Flying Before the Advances of the Federal Troops on Fairfax. &#x2014;From a Sketch 
 by Our Special Artist.</head>
@@ -4335,7 +4335,7 @@ Artist. And the Civil War in America: The Stampede from Bull Run.&#x2014;From a 
                   <date value="1861-08-17">August 17, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p167" width="1824" height="2645">
+                  <figure entity="v39p167" width="1824" height="2645" ana="battle">
                      <head>The Civil War in America: Attack on the 
 Confederate Batteries at Bull Run by the 27th and 14th New York Regiments. 
 -From a Sketch by Our Special Artist. And The Civil War in America: The Stampede from Bull Run.&#x2014;From a Sketch by our Special Artist.&#x2014;see next page. </head>
@@ -4650,7 +4650,7 @@ Telegraphs</head>
                   <date value="1861-08-24">August 24, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p179" width="2539" height="1751">
+                  <figure entity="v39p179" width="2539" height="1751" ana="land money">
                      <head>Cape Race, Newfoundland, the Termination of the 
 American System of Telegraphs.</head>
                   </figure>
@@ -5043,7 +5043,7 @@ Alabama Regiment at the Battle of Bull Run.&#x2014;From a Sketch by Our Special 
                   <date value="1861-08-31">August 31, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p226" width="1327" height="910">
+                  <figure entity="v39p226" width="1327" height="910" ana="battle">
                      <head>The Civil War in America: Engagement between the 
 71st New York and an Alabama Regiment at the Battle of Bull Run.&#x2014;from a Sketch 
 by Our Special Artist.&#x2014;See Preceding Page.</head>
@@ -5315,15 +5315,15 @@ States of America" type="Illustration">
                   <date value="1861-09-07">September 7, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p261" width="818" height="577">
+                  <figure entity="v39p261" width="818" height="577" ana="rich">
                      <head>Richmond, Virginia, the Capital of the Confederate 
 States of America.</head>
                   </figure>
                </p>
   </div2>
 
-<div2 id="iln39.1108.070" n="The War in America:  Texan Lancers (Federalists) 
-Reconnoitring between Alexandria and Fairfax  Virginia.&#x2014;from a Sketch by Our
+<div2 id="iln39.1108.070" n="The War in America: Texan Lancers (Federalists) 
+Reconnoitring between Alexandria and Fairfax Virginia.&#x2014;from a Sketch by Our
 Special Artist." type="Illustration">
 <head>The War in America:  Texan Lancers (Federalists) Reconnoitring between 
 Alexandria and Fairfax, Virginia.&#x2014;From A Sketch by Our Special Artist.</head>
@@ -5335,7 +5335,7 @@ Alexandria and Fairfax, Virginia.&#x2014;From A Sketch by Our Special Artist.</h
                   <date value="1861-09-14">September 14, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p263" width="818" height="773">
+                  <figure entity="v39p263" width="818" height="773" ana="blue">
                      <head>The War in America:  Texan Lancers (Federalists) 
 Reconnoitring between Alexandria and Fairfax  Virginia.&#x2014;from a Sketch by Our
 Special Artist.</head>
@@ -5523,7 +5523,7 @@ Supplement, Page 280[sic].
                   <date value="1861-09-14">September 14, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p271" width="1273" height="941">
+                  <figure entity="v39p271" width="1273" height="941" ana="blue camp">
                      <head>The War in America: Quartermaster's Department&#x2014;
 Killing Bullocks in the Federal Camp, Virginia.&#x2014;from a Sketch by Our Special 
 Artist.&#x2014;See Supplement, page 280[sic].</head>
@@ -5606,7 +5606,7 @@ the Streets of Washington.&#x2014;from a Sketch by Our Special Artist. and The W
                   <date value="1861-09-14">September 14, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p283" width="941" height="1273">
+                  <figure entity="v39p283" width="941" height="1273" ana="blue gray ps">
                      <head>The War in America: Union Troops Attacking 
 Confederate Prisoners in the Streets of Washington.&#x2014;from a Sketch by Our 
 Special Artist. and The War in America: Arrest of Mr. Faulkner, Late United States' Minister to France, at Brown's Hotel, Washington, on the Charge of Treason.  From a Sketch by Our Special Artist.</head>
@@ -5898,7 +5898,7 @@ Potomac Fleet.&#x2014;From a Sketch by Our Special Artist.</head>
                   <date value="1861-09-21">September 21, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p303" width="826" height="588">
+                  <figure entity="v39p303" width="826" height="588" ana="blue gray skirm">
                      <head>The Civil War in America: Confederates Trapping a 
 Boat's Crew of the Potomac Fleet.&#x2014;from a Sketch by Our Special Artist.</head>
                   </figure>
@@ -6195,7 +6195,7 @@ By Our Special Artist.</head>
                   <date value="1861-09-28">September 28, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p319" width="2577" height="1866">
+                  <figure entity="v39p319" width="2577" height="1866" ana="land">
                      <head>The Civil War in America: The Great Falls of the Potomac.&#x2014;From A Sketch by Our Special Artist.</head>
                   </figure>
                </p>
@@ -6571,7 +6571,7 @@ Nelson House.</head>
                   <date value="1861-10-05">October 5, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p338" width="810" height="516">
+                  <figure entity="v39p338" width="810" height="516" ana="york">
                      <head>The Civil War in America: View of Yorktown, 
 Virginia, from the Old Nelson House.</head>
                   </figure>
@@ -6655,7 +6655,7 @@ Our Special Artist.&#x2014;See Page 357.</head>
                   <date value="1861-10-05">October 5, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p351" width="806" height="554">
+                  <figure entity="v39p351" width="806" height="554" ana="insta">
                      <head>The Civil War in America: Munson's Hill.  With the
 Earthwork Thrown up by the Confederates in Front of the Union Lines, Virginia.  
 from a Sketch by Our Special Artist.&#x2014;See page 357.</head>
@@ -6965,7 +6965,7 @@ by Our Special Artist." type="Illustration">
                   <date value="1861-10-12">October 12, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p362" width="810" height="615">
+                  <figure entity="v39p362" width="810" height="615" ana="land money">
                      <head>The War in America: the Chain-Bridge across the
  Potomac above Georgetown, Looking Toward the Virginian Shore.&#x2014;from a Sketch 
 by Our Special Artist.</head>
@@ -6987,7 +6987,7 @@ at Lewinsville, Virginia.&#x2014;From a Sketch by Our Special Artist.</head>
                   <date value="1861-10-12">October 12, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p363" width="1258" height="914">
+                  <figure entity="v39p363" width="1258" height="914" ana="blue">
                      <head>The War in America: Bringing in the Federal 
 Wounded after the Skirmish at Lewinsville, Virginia.&#x2014;from a Sketch by Our 
 Special Artist.</head>
@@ -7143,7 +7143,7 @@ the southern route, of which he is a zealous and most influential advocate."</p>
                   <date value="1861-10-12">October 12, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p386" width="1185" height="684">
+                  <figure entity="v39p386" width="1185" height="684" ana="money">
                      <head>The American Pony Express, En Route from the 
 Missouri River to San Francisco.&#x2014;From a Drawing by G.H. Andrews.</head>
                   </figure>
@@ -7785,7 +7785,7 @@ into the Federal Lines at Munson's Hill.&#x2014;From a Sketch by Our Special Art
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p411" width="868" height="1204">
+                  <figure entity="v39p411" width="868" height="1204" ana="insta blue gray">
                      <head>The War in America:&#x2014;Fort Ocracoke, on Beacon 
 Island, North Carolina, Destroyed by Fire on the 17th Ult. By the
 Federalists. And The War in America:&#x2014;A Confederate Deserter Coming 
@@ -8270,7 +8270,7 @@ to Occupy Munson's Hill. and A Portion of the Confederate Works on Munson's Hill
           <extent>4 paragraphs</extent>
 	</bibl>
 
- <p>  <figure entity="v39p438" width="933" height="1354">
+ <p>  <figure entity="v39p438" width="933" height="1354" ana="insta blue">
       <head>Illustrations of the Civil War in America. From sketches
       by Our Special Artist: Franklin's Brigade Passing Arlington Mill
       on its Way to Occupy Munson's Hill. and A Portion of the Confederate Works on Munson's Hill. and General M'Clellan Occupying the Confederate Position at Munson's Hill.</head>
@@ -9033,7 +9033,7 @@ received with honour by the Legislature then in session there.</p>
                   <date value="1861-11-09">November 9, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p467" width="1204" height="876">
+                  <figure entity="v39p467" width="1204" height="876" ana="blue camp">
                      <head>The Civil War in America: Guard Tent&#x2014;Punishment 
 Drill in the Federal Camp.&#x2014;From a Sketch by Our Special Artist.&#x2014;See Supplement,
  p. 485. </head>
@@ -9102,7 +9102,7 @@ on the Potomac, near Freestone Point.&#x2014;From a Sketch by Our Special Artist
                   <date value="1861-11-09">November 9, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p470" width="1343" height="933">
+                  <figure entity="v39p470" width="1343" height="933" ana="blue gray skirm">
                      <head>The Civil War in America:  Cutting off a 
 Confederate Despatch-Galley on the Potomac, Near Freestone Point.&#x2014;from a 
 Sketch by Our Special Artist.-See Supplement, Page 485.</head>
@@ -9399,7 +9399,7 @@ General Beauregard.</head>
                   <date value="1861-11-16">November 16, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p491a" width="480" height="361">
+                  <figure entity="v39p491a" width="480" height="361" ana="fair gray">
                      <head>The Civil War in America: Fairfax Courthouse; the 
 Head-Quarters of General Beauregard.</head>
                   </figure>
@@ -9417,7 +9417,7 @@ type="Illustration">
                   <date value="1861-11-16">November 16, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p491b" width="756" height="496">
+                  <figure entity="v39p491b" width="756" height="496" ana="joe">
                      <head>View of St. Joe, Missouri, from the Kansas Side.</head>
                   </figure>
                </p>
@@ -9712,11 +9712,11 @@ Mormon Church." type="Illustration">
                   <date value="1861-11-16">November 16, 1861</date>
                </bibl>
             <p>
-                  <figure entity="v39p503a" width="357" height="427">
+                  <figure entity="v39p503a" width="357" height="427" ana="pic">
                      <head>Brigham Young, President and Chief Prophet of the 
 Mormon Church.</head>
                   </figure>
-<figure entity="v39p503b" width="480" height="327">
+<figure entity="v39p503b" width="480" height="327" ana="slc">
                      <head> The Residence of Brigham Young at the Great Salt Lake City, Utah.</head>
                   </figure>
                </p>
@@ -9754,7 +9754,7 @@ by a Bayonet Charge.&#x2014;From a Sketch by our Special Artist.&#x2014;See Page
                   <date value="1861-11-23">November 23, 1861</date>
                <extent>1 paragraph</extent></bibl>
                <p>
-                  <figure entity="v39p511" width="760" height="535">
+                  <figure entity="v39p511" width="760" height="535" ana="battle blue">
                      <head>The Civil War in America: the Fight at Ball's 
 Bluff, Upper Potomac&#x2014;Desperate Effort Made by the 15th Massachusetts Regiment
  to Clear the Woods by a Bayonet Charge.&#x2014;from a Sketch by Our Special Artist.
@@ -9949,7 +9949,7 @@ by Our Special Artist. </head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p514" width="860" height="596">
+                  <figure entity="v39p514" width="860" height="596" ana="battle blue">
                      <head>The Civil War in America: Retreat of the 
 Federalists after the Fight at Ball's Bluff, Upper Potomac, Virginia.- From
  a Sketch by Our Special Artist.</head>
@@ -10235,7 +10235,7 @@ there is no doubt. Of the feeling towards this country in the Southern States
  which is that the Confederates believe that, in our secret hearts, our leaning
  is to
 
-   <figure entity="v39p535" width="768" height="708">
+   <figure entity="v39p535" width="768" height="708" ana="naval">
       <head>Destruction of the Federal Merchantman Harvey Birch by the 
 Confederate War-Sloop Nashville.&#x2014;See Next Page.</head>
 	      </figure>
@@ -11017,7 +11017,7 @@ important medium of commerce.</p>
 Potomac, in front of the Confederate Batteries.&#x2014;from a Sketch by Our Special Artist.&#x2014;See 
 Page 570." type="Illustration">
                <head>THE CIVIL WAR IN AMERICA: FEDERAL PICKET ON THE POTOMAC,
- IN FRONT OF THE CONFEDERATE BATTERIES.- FROM A SKETCH BY OURSPECIAL ARTIST.- SEE PAGE 570.
+ IN FRONT OF THE CONFEDERATE BATTERIES.- FROM A SKETCH BY OUR SPECIAL ARTIST.- SEE PAGE 570.
 </head>
                <bibl> 
                   <title>The Illustrated London News</title> 
@@ -11028,7 +11028,7 @@ Page 570." type="Illustration">
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p567" width="780" height="542">
+                  <figure entity="v39p567" width="780" height="542" ana="blue">
                      <head>The Civil War in America: Federal Picket on the 
 Potomac, in front of the Confederate Batteries.- from a Special Artist.- See 
 Page 570.</head>
@@ -11555,7 +11555,7 @@ SICKLES IN THE POTOMAC."&#x2014;FROM A SKETCH BY OUR SPECIAL ARTIST.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p570" width="868" height="585">
+                  <figure entity="v39p570" width="868" height="585" ana="blue">
                      <head>The Civil War in America: 'My Reconnaissance with 
 General Sickles in the Potomac.'&#x2014;from a Sketch by Our Special Artist.</head>
                   </figure>
@@ -11586,7 +11586,7 @@ the Federalists have there in position. Preparations are being made at the same
 point for attack on the Confederate batteries over the river, three exceedingly
  heavy ones having been unmasked. During my visit a dozen or so of small 
 schooners of light draught successfully <pb n="571"/>
-  <figure entity="v39p571" width="1213" height="854">
+  <figure entity="v39p571" width="1213" height="854" ana="insta">
     <head>The Civil War in America: The Confederate Batteries on the Lower Potomac, Virginia Shore, Opposite Budd's Ferry&#x2014;Government Store-Schooners Running the Blockade.&#x2014;From a Sketch by Our Special Artist. And The Civil War In America: The Ten-Pounder Gun Battery (Federalist) at Budd's Ferry, Lower Potomac, Opposite the Confederate Batteries on the 
 Virginia Shore.- From a Sketch by Our Special Artist.</head>
 		</figure> <pb n="572"/>
@@ -11684,7 +11684,7 @@ THE BRITISH MAIL-STEAMER TRENT.&#x2014;SEE NEXT PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p583" width="1213" height="846">
+                  <figure entity="v39p583" width="1213" height="846" ana="naval">
                      <head>The Seizure by Captain Wilks, of the United States'
  War-ship San Jacinto, of Messrs. Slidell and Mason, Confederate Commissioners, 
 on Board the British Mail-Steamer Trent.&#x2014;See Next Page.</head>
@@ -11820,7 +11820,7 @@ juncture of our national affairs, we can afford to be almost surprised that any
 one should have conceived it could have been other than it has been. It is to be
  observed that, as the time since the intelligence of the Jacinto affair was 
 
-  <figure entity="v39p591a" width="284" height="373">
+  <figure entity="v39p591a" width="284" height="373" ana="pic">
     <head>Captain Wilks, of the San Jacinto</head>
 		</figure>
 
@@ -11848,7 +11848,7 @@ make a suitable apology. The signs of the existence of such a feeling, however
  auguries of things to come which, we believe, the most sensitive Englishmen 
 would be willing enough to witness. It must be remembered that these indications
  of a tendency to
-  <figure entity="v39p591b" width="845" height="554">
+  <figure entity="v39p591b" width="845" height="554" ana="pic">
     <head>The Confederate Commissioners to England and France Seized on Board 
 the Trent.&#x2014;see next page.</head>
 		</figure><pb n="592"/>
@@ -12531,7 +12531,7 @@ residence is at Somerville, Haddington. The earlier part of his seagoing life
 the Russian War he was chief officer of the Royal mail steam-packet Orinoco
 
  when that 
-  <figure entity="v39p594" width="288" height="346">
+  <figure entity="v39p594" width="288" height="346" ana="pic">
     <head>Captain Moir, of the Trent.</head>
 		</figure>
 vessel was engaged in towing the disabled men-of-war from the thickest of the 
@@ -12595,7 +12595,7 @@ FORCES.&#x2014;SEE SUPPLEMENT, PAGE 612.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p599" width="987" height="1366">
+                  <figure entity="v39p599" width="987" height="1366" ana="pic">
                      <head>General M'Clellan, Commander-in-chief of the 
 Federal Forces.&#x2014;See Supplement, Page 612.</head>
                   </figure>
@@ -12617,7 +12617,7 @@ SEE NEXT PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p607" width="1366" height="987">
+                  <figure entity="v39p607" width="1366" height="987" ana="red">
                      <head>Embarkation at Woolwich, Yesterday Week, of the E 
 Battery Fourth Brigade of Royal Field Artillery on Board the  Melbourne for 
 Canada.&#x2014;See Next Page.</head>
@@ -12802,7 +12802,7 @@ MISSISSIPPIANS PASSING IN REVIEW BEFORE GENERAL BEAUREGARD AND STAFF</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p610" width="1354" height="948">
+                  <figure entity="v39p610" width="1354" height="948" ana="gray">
                      <head>The Civil War in America: the Confederate Army&#x2014; 
 Mississippians Passing in Review before General Beauregard and Staff</head>
                   </figure>
@@ -12826,7 +12826,7 @@ OF THE FEDERAL ARMY.&#x2014;FROM A SKETCH BY OUR SPECIAL ARTIST.&#x2014;SEE NEXT
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p611" width="1366" height="933">
+                  <figure entity="v39p611" width="1366" height="933" ana="blue street">
                      <head>The Civil War in America: Torchlight Procession 
 of General Blenker's Brigade at Washington in Honour of General M'Clellan Taking
  Command of the Federal Army.&#x2014;from a Sketch by Our Special Artist.&#x2014;See Next
@@ -12982,7 +12982,7 @@ See Page 620." type="Illustration">
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p615" width="799" height="789">
+                  <figure entity="v39p615" width="799" height="789" ana="red">
                      <head>Reinforcements for Canada: the Military Train.&#x2014;
 See Page 620.</head>
                   </figure>
@@ -13611,7 +13611,7 @@ between the rival forces on the banks of the Potomac at the time of the latest
  despatches leaving America, yet attacks and counter-attacks on a small scale 
 be-<pb n="651"/>
 
-                  <figure entity="v39p651" width="806" height="565">
+                  <figure entity="v39p651" width="806" height="565" ana="skirm blue gray">
                      <head>The Civil War in America: Skirmish Near Fall's 
 Church, Virginia.&#x2014;From a Sketch by Our Special Artist.</head>
                   </figure>
@@ -13641,7 +13641,7 @@ SEE NEXT PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p655" width="803" height="581">
+                  <figure entity="v39p655" width="803" height="581" ana="land">
                      <head>The Boundary Line between the Unites States and 
 Canada.-See Next Page.</head>
                   </figure>
@@ -13918,7 +13918,7 @@ SEE NEXT PAGE.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p659" width="910" height="1346">
+                  <figure entity="v39p659" width="910" height="1346" ana="red">
                      <head>Reinforcements for Canada: the Guards Leaving the 
 South-Western Railway Station for Southampton.&#x2014;See Next Page. and Shipping Munitions of War at the Tower for Canada.&#x2014;See Next Page.</head>
                   </figure>
@@ -14103,7 +14103,7 @@ Preceding Page" type="Illustration">
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p662" width="1346" height="922">
+                  <figure entity="v39p662" width="1346" height="922" ana="red">
                      <head>Reinforcements for Canada: the Guards Crossing 
 Westminster-Bridge on Their Way to the South-Western Railway Station.&#x2014;See 
 Preceding Page</head>
@@ -14126,7 +14126,7 @@ ARTIST.</head>
                <extent>1 paragraph</extent>
                </bibl>
                <p>
-                  <figure entity="v39p666" width="814" height="589">
+                  <figure entity="v39p666" width="814" height="589" ana="blue street">
                      <head>The Civil War in America: Drumming out a Soldier 
 of the Federal Army through the Streets of Washington.&#x2014;from a Sketch by Our 
 Special Artist.</head>
