@@ -303,7 +303,7 @@ will not.</p>
    
 	</bibl>
 <p>
-<figure entity="v40p4" width="833" height="592">
+<figure entity="v40p4" width="833" height="592" ana="ps pg">
 <head>The Slidell and Mason Case Argued at the American Bar.&#x2014;From a
 Sketch by Our Special Artist.&#x2014;See Supplement, page 19.</head>
 </figure>
@@ -1446,7 +1446,7 @@ any other nation in the world.</p>
    
 	</bibl>
 <p>
-<figure entity="v40p40" width="845" height="569">
+<figure entity="v40p40" width="845" height="569" ana="blue camp">
 <head>The Civil War in America: Execution of a Deserter in the Federal
 Camp; Alexandria. &#x2014;From a Sketch by our Special Artist.</head>
 </figure>
@@ -1967,7 +1967,7 @@ justify."</p></div2>
    
 	</bibl> 
 <p>
-<figure entity="v40p61" width="1192" height="806">
+<figure entity="v40p61" width="1192" height="806" ana="skirm blue gray">
 <head>The Civil War in America: Advanced Post of
       General Blenker's Division Surprised at Anandale, Virginia, by
       Confederate Calvary.&#x2014;From a Sketch by Our Special Artist</head>
@@ -2020,7 +2020,7 @@ from a sketch by our Special Artist, is given at page 61.</p></div2>
    
 	</bibl>
 <p>
-<figure entity="v40p64-65">
+<figure entity="v40p64-65" ana="money">
 <head>The Great International Railway
       Suspension-Bridge over the Niagara River, Connecting the New
       York Central and the Great Western of Canada Railways.</head>
@@ -2396,7 +2396,7 @@ type="Illustration">
    
 	</bibl>
 <p>
-<figure entity="v40p82" width="1285" height="868">
+<figure entity="v40p82" width="1285" height="868" ana="ps">
 <head>The Outrage on the Trent: Lord Lyons
 Communicating Earl Russell's Despatch to Mr. Secretary Seward</head>
 </figure>
@@ -2512,7 +2512,7 @@ States." </p></div2>
 	</bibl>
 
 <p>
-<figure entity="v40p91" width="741" height="512">
+<figure entity="v40p91" width="741" height="512" ana="skirm blue gray">
 <head>The Civil War in America: Advance of the
       Skirmishers of the Bucktail Rifles on the Confederate Position
       at Drainsville, Virginia, From a Sketch by Our Special
@@ -2622,7 +2622,7 @@ provisional Government of the South.</p>
    
 	</bibl>
 <p>
-<figure entity="v40p95a" width="384" height="539">
+<figure entity="v40p95a" width="384" height="539" ana="pic">
 <head>Mr. Yancey, One of the Commissioners
       from the Confederate States of America to the European
 Courts.</head>
@@ -2666,7 +2666,7 @@ Courts.</head>
  signifying a number, the meaning of which number being known only to
  the officer commanding each corps.</p>
 <p>
-<figure entity="v40p95b" width="741" height="531">
+<figure entity="v40p95b" width="741" height="531" ana="blue">
 <head>The War in America: A Night Alarm in the Federal Camp&#x2014;Signalling
 from the Right Bank of the Potomac to Head-Quarters in
 Washington. From a Sketch by Our Special Artist.[p. 95]</head>
@@ -3005,7 +3005,7 @@ laden with stone."</p></div2>
    
 	</bibl>
 <p>
-<figure entity="v40p98" width="1281" height="868">
+<figure entity="v40p98" width="1281" height="868" ana="naval">
 <head>The Federal Sloop-of-War Tuscarora in
       Southampton Water.&#x2014;See page 81.</head>
 </figure>
@@ -3363,7 +3363,7 @@ leagues off the port.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p114" width="1266" height="852">
+<figure entity="v40p114" width="1266" height="852" ana="naval">
 <head>The Confederate Sloop-of-War Sumter Capturing Two Federal
 Merchantmen Off Gibraltar.&#x2014;See <sic corr="Preceding">Preceeding</sic> Page.</head>
 </figure>
@@ -3383,7 +3383,7 @@ Merchantmen Off Gibraltar.&#x2014;See <sic corr="Preceding">Preceeding</sic> Pag
 </bibl>
 
 <p>
-<figure entity="v40p119" width="1173" height="814">
+<figure entity="v40p119" width="1173" height="814" ana="ps pg">
 <head>New-Year's Reception at the White House, Washington.&#x2014;From
 a Sketch By Our Special Artist&#x2014;See Next Page.</head>
 </figure>
@@ -4539,7 +4539,7 @@ City of New York on the Bar in the Distance." type="Illustration">
 </bibl>
 
 <p>
-<figure entity="v40p186" width="1139" height="434">
+<figure entity="v40p186" width="1139" height="434" ana="naval">
 <head>The Civil War in America: Hatteras Spit, with the Wreck of the
 City of New York on the Bar in the Distance.&#x2014;From a Sketch by Our
 Special Artist.</head>
@@ -4560,7 +4560,7 @@ Burnside Expedition over the Hatteras Bar." type="Illustration">
 </bibl>
 
 <p>
-<figure entity="v40p187" width="1165" height="810">
+<figure entity="v40p187" width="1165" height="810" ana="naval">
 <head>The Civil War in America: The Picket Leading the Ships of the
 Burnside Expedition over the Hatteras Bar.&#x2014;From a Sketch by Our
 Special Artist.&#x2014;See Supplement, page 200.</head>
@@ -5476,7 +5476,7 @@ Expedition at Hatteras Inlet, North Carolina</head>
 </bibl>
 
 <p>
-<figure entity="v40p258" width="1293" height="864">
+<figure entity="v40p258" width="1293" height="864" ana="insta blue">
 <head>The Civil War in America: Provisional Camp of a Portion of the
 Burnside Expedition at Hatteras Inlet, North Carolina&#x2014;From a Sketch
 by our Special Artist</head>
@@ -5499,7 +5499,7 @@ Carolina</head>
 </bibl>
 
 <p>
-<figure entity="v40p258" width="1293" height="864">
+<figure entity="v40p258" width="1293" height="864" ana="insta blue">
 <head>The Civil War in America: Camp Winfield, Hatteras Inlet, North
 Carolina.&#x2014;From a Sketch by Our Special Artist.&#x2014;See page 262.</head>
 </figure>
@@ -5522,7 +5522,7 @@ Carolina.&#x2014;From a Sketch by Our Special Artist.&#x2014;See page 262.</head
 </bibl>
 
 <p>
-<figure entity="v40p259" width="733" height="480">
+<figure entity="v40p259" width="733" height="480" ana="land">
 <head>Sketches from the Washoe Silver Region, North America: Virginia
 City from the South, Mount Davidson, Cedar Hill and Six Miles
 Gutch.&#x2014;See page <sic corr="262">362</sic>.</head>
@@ -5542,7 +5542,7 @@ Gutch.&#x2014;See page <sic corr="262">362</sic>.</head>
   
 </bibl>
 <p>
-<figure entity="v40p262a" width="518" height="396">
+<figure entity="v40p262a" width="518" height="396" ana="land">
 <head>Sketches from the Washoe Silver Region, America: Gold Hill,
 Mount Davidson, and the Ophir Road.</head>
 </figure>
@@ -5618,7 +5618,7 @@ the claim of that region beyond the Sierra Nevada (now known as
 "Nevada Territory," since its separation from Utah and Mormon
 influences) to the birth of a new and promising community
 
-<figure entity="v40p262b" width="522" height="400">
+<figure entity="v40p262b" width="522" height="400" ana="land">
 <head>Sketches from the Washoe Silver Region, North America: Devil's
 Gate, and the Crushing Mills at the North End of Silver City</head>
 </figure>
@@ -5718,7 +5718,7 @@ shows the provisional camp of a portion of the Burnside expedition who
 have landed temporarily, and the other gives the head-quarters at Camp
 Winfield of General Williams, who commands the troops that have been in occupation of the place since the capture of the forts."</p>
 
-<figure entity="v40p258" width="1293" height="864">
+<figure entity="v40p258" width="1293" height="864" ana="insta blue">
 <head>The Civil War in America: Provisional Camp of a Portion of the
 Burnside Expedition at Hatteras Inlet, North Carolina&#x2014;From a Sketch
 by our Special Artist <hi rend="italic">and</hi>
@@ -6251,7 +6251,7 @@ by the President.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p295" width="1173" height="806">
+<figure entity="v40p295" width="1173" height="806" ana="naval insta">
 <head>The Civil War in America: Attack on the Confederate Batteries at
 Roanoke Island by the Federal Gun-boat.&#x2014;From a Sketch by Our Special
 Artist&#x2014;See Next Page. <hi rend="italic">and</hi> 
@@ -6612,7 +6612,7 @@ the American service. He was committed for trial.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p298" width="1285" height="852">
+<figure entity="v40p298" width="1285" height="852" ana="skirm blue gray">
 <head>The Civil War in America.&#x2014;General
       Burnside's Expedition: The 9th New York(Hawkins's Zouaves) and
       the 21st Massachusetts Taking the Confederate Fieldwork on
@@ -6786,7 +6786,7 @@ near Fort Craig, New Mexico, but with no decisive result.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p307" width="1173" height="806">
+<figure entity="v40p307" width="1173" height="806" ana="ny">
 <head>Breaking Up of the Ice at New York: A View from the East
 River. See supplement, page 320.</head>
 </figure>
@@ -6864,7 +6864,7 @@ Quartermasters.</p>
 </bibl>
 
 <p>
-<figure entity="v40p310" width="1285" height="860">
+<figure entity="v40p310" width="1285" height="860" ana="camp blue gray">
 <head>The Civil War in America: Confederate Prisoners in Camp Georgia,
 Roanoke Island&#x2014;From a Sketch by Our Special Artist. See
 Supplement, page 320.</head>
@@ -7064,7 +7064,7 @@ savages.</p></q></div2>
    
 </bibl>
 <p>
-<figure entity="v40p323" width="741" height="338">
+<figure entity="v40p323" width="741" height="338" ana="sac">
 <head>The Recent Floods in Sacramento Valley,
       California.&#x2014;The Corner of L and Fourth Streets, Sacramento City:
       View through L-Street Eastwards.&#x2014;See Page 326.</head>
@@ -7185,14 +7185,14 @@ since been washed away, so that not a vestige of this late pleasant
 and prosperous village remains.</p>
 
 <p>
-<figure entity="v40p326a" width="388" height="342">
+<figure entity="v40p326a" width="388" height="342" ana="naval">
 <head>The U.S. Revenue Steamer Schubric Anchored in the Sacramento,
 near Rio Vista.</head>
 </figure>
 </p>
 
 <p> 
-<figure entity="v40p326b" width="803" height="415">
+<figure entity="v40p326b" width="803" height="415" ana="sac">
 
 <head>The Levee Opposite K-Street, Sacramento City, at Three a.m. on
 the 24th of January Last, during the Third Flood.</head>
@@ -7200,7 +7200,7 @@ the 24th of January Last, during the Third Flood.</head>
 </p>
 
 <p> 
-<figure entity="v40p326c" width="396" height="342">
+<figure entity="v40p326c" width="396" height="342" ana="sac">
 <head>Sixth-Street, Sacramento City, Looking South.</head>
 </figure>
 </p>
@@ -7233,7 +7233,7 @@ armour for ships, and painfully conscious of their weakness at sea,
 they appear to have thought there was one grand opportunity open to
 them, and to have made use of it with characteristic vigour and
 skill. They built up over her deck, and down upon
-<figure entity="v40p327" width="826" height="704">
+<figure entity="v40p327" width="826" height="704" ana="naval">
 <head>The Civil War in America&#x2014;Naval
       Engagement in Hampton Roads: The Confederate Iron-Plated Steamer
       Merrimac (or Virginia) Running into the Federal Sloop
@@ -7506,7 +7506,7 @@ rend="smallcaps">Ericsson.</hi></p></q></div2>
 
 <div2 id="ilnv40.1138.011" n="The Civil War in America: Fight in
       Hampton Roads between the Federal floating-battery Monitor and
-      the Confederate Iron-Plated Steamer Merrimac(or Virginia). From
+      the Confederate Iron-Plated Steamer Merrimac (or Virginia). From
       a Sketch by T. Nast.&#x2014;See Supplement, page 344."
       type="Illustration">
 <bibl>
@@ -7520,7 +7520,7 @@ rend="smallcaps">Ericsson.</hi></p></q></div2>
    
 </bibl>
 <p>
-<figure entity="v40p330" width="772" height="523">
+<figure entity="v40p330" width="772" height="523" ana="naval">
 <head>The Civil War in America: Fight in
       Hampton Roads between the Federal floating-battery Monitor and
       the Confederate Iron-Plated Steamer Merrimac(or Virginia). From
@@ -7717,7 +7717,7 @@ male candidate for that office.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p334" width="1289" height="860">
+<figure entity="v40p334" width="1289" height="860" ana="blue">
 <head>The Civil War in America: Baggage-Waggons
       and Gun-Carriages of the Army of the Potomac on the Move.&#x2014;From
       a Sketch by Our Special Artist.</head>
@@ -7739,7 +7739,7 @@ male candidate for that office.</p></div2>
  
 </bibl>
 <p>
-<figure entity="v40p335" width="346" height="465">
+<figure entity="v40p335" width="346" height="465" ana="pic">
 <head>Mr. George Peabody.&#x2014;See page <sic corr="333">383</sic>.</head>
 </figure>
 </p>
@@ -8236,7 +8236,7 @@ on her account."</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p359" width="676" height="734">
+<figure entity="v40p359" width="676" height="734" ana="pic">
 <head>The Civil War in America: General Burnside.&#x2014;From a sketch by
 T. Nast.&#x2014;See Supplement, page 376.</head>
 </figure>
@@ -8405,7 +8405,7 @@ Artist.&#x2014;See Supplement, page 376"
    
 </bibl>
 <p>
-<figure entity="v40p362" width="1281" height="872">
+<figure entity="v40p362" width="1281" height="872" ana="blue">
 <head>The Civil War in America: Federals Advancing on the Abandoned
 Confederate Positions at Centreville.&#x2014;From a Sketch by Our Special
 Artist.&#x2014;See Supplement, page 376</head>
@@ -8446,7 +8446,7 @@ Virginia) and the Monitor in Hampton Roads</head>
    
 </bibl>
 <p>
-<figure entity="v40p366-367">
+<figure entity="v40p366-367" ana="naval">
 <head>The Civil War in America: Action between the Merrimac (or
 Virginia) and the Monitor in Hampton Roads.</head>
 </figure>
@@ -8469,7 +8469,7 @@ Artist&#x2014;See Supplement, page 376.</head>
    
 </bibl>
 <p>
-<figure entity="v40p366" width="822" height="581">
+<figure entity="v40p366" width="822" height="581" ana="blue">
 <head>The Civil War in America: Federal Calvary Scouts Entering the
 Depot at Manassas Junction.&#x2014;From a Sketch by Our Special
 Artist&#x2014;See Supplement, page 376.</head>
@@ -8729,7 +8729,7 @@ subscription from the officers and ship's company, and the hearty
 wishes of all for their better fortune.</p>
 
 <p>
-<figure entity="v40p382" width="833" height="562">
+<figure entity="v40p382" width="833" height="562" ana="naval">
 <head>H.M.S. Diadem Taking Off the Crew of the Dismasted
 American Ship C.W. Connor, near Bermuda.&#x2014;See Preceding Page.</head>
 </figure>
@@ -9055,7 +9055,7 @@ the Navy's advertisement has been constituted.</p></div2>
 </bibl>
 
 <p>
-<figure entity="v40p403" width="1162" height="795">
+<figure entity="v40p403" width="1162" height="795" ana="blue">
 <head>The Civil War in America: Reconnaissance
       Made by General Stoneman, Accompanied by the Comte de Paris and
       the Duc de Chartres, to Cedar Run.&#x2014;From a Sketch by Our Special
@@ -9353,7 +9353,7 @@ to provide quarters for over 100,000 men.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p418" width="810" height="573">
+<figure entity="v40p418" width="810" height="573" ana="insta blue">
 
 <head>The Civil War in America: A Portion of
       the Abandoned Confederate Works and Camp at Centreville.&#x2014;From a
@@ -9763,7 +9763,7 @@ capital."</p>
    
 </bibl>
 <p>
-<figure entity="v40p458" width="1146" height="407">
+<figure entity="v40p458" width="1146" height="407" ana="blue">
 <head>The Civil War in America: Embarkation of
       a Portion of the Army of the Potomac at Alexandria, near
       Washington.&#x2014;From a Sketch by Our Special Artist.</head>
@@ -10346,7 +10346,7 @@ year.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p507" width="380" height="535">
+<figure entity="v40p507" width="380" height="535" ana="pic">
 <head>Captain William Wilson, of the Emily St. Pierre.</head>
 </figure>
 </p>
@@ -10753,7 +10753,7 @@ the steward and cook.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p531" width="538" height="396">
+<figure entity="v40p531" width="538" height="396" ana="pic">
 <head>The Cook and Steward of the Emily St. Pierre.</head>
 </figure>
 </p>
@@ -11336,7 +11336,7 @@ separate streams.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p547a" width="718" height="388">
+<figure entity="v40p547a" width="718" height="388" ana="rich">
 <head>The Civil War in America: General View of
       Richmond, Virginia.&#x2014;From a Sketch by G.H. Andrews.</head>
 </figure>
@@ -11356,7 +11356,7 @@ separate streams.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p547b" width="353" height="323">
+<figure entity="v40p547b" width="353" height="323" ana="rich">
 <head>The City Quay, Richmond.&#x2014;From a Sketch
       by G.H. Andrews.</head>
 </figure>
@@ -11376,7 +11376,7 @@ separate streams.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p547c" width="745" height="346">
+<figure entity="v40p547c" width="745" height="346" ana="rich money">
 <head>Railway Bridge Over the Rapids of James
       River.&#x2014;From a Sketch by G.H. Andrews.</head>
 </figure>
@@ -11475,7 +11475,7 @@ effect would meet with attention.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p554" width="1285" height="876">
+<figure entity="v40p554" width="1285" height="876" ana="blue">
 <head>The War in America: General Pope's
       Division at the Levee, Cairo, on its Way from New Madrid to
       Reinforce General Halleck, near Corinth.&#x2014;From a Sketch by Our
@@ -11820,7 +11820,7 @@ with success. It is no little matter for them that their line touches
 once more upon the Potomac, and that the important State of Virginia
 is as far as ever from being in the 
 
-<figure entity="v40p599" width="737" height="562">
+<figure entity="v40p599" width="737" height="562" ana="gray">
 <head>The Civil War in America: Jefferson
       Thompson's Guerrillas Shooting at Federal Boats on the
       Mississippi.&#x2014;From a Sketch by Our Special Artist.&#x2014;See page
@@ -12165,7 +12165,7 @@ means it employs to attain its ends."</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p607" width="1031" height="476">
+<figure entity="v40p607" width="1031" height="476" ana="naval">
 <head>Engagement off Fort Pillow, Mississippi
       River, between Federal and Confederate Gun-Boats.&#x2014;From a Sketch
       by Our Special Artist.</head>
@@ -12828,7 +12828,7 @@ besides shell for the entire fleet."</p></div2>
    
 </bibl>
 <p>
-<figure entity="v40p655" width="1020" height="545">
+<figure entity="v40p655" width="1020" height="545" ana="naval">
 <head>The Civil War in America: Midnight Storm
       on the Mississippi&#x2014;Federal Flotilla at Anchor off Fort
       Pillow.&#x2014;From a Sketch by Our Special Artist.</head>
