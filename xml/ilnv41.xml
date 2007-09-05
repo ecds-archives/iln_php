@@ -272,7 +272,7 @@ Victoria, Vancouver Island, for the United States of America.</p></div2>
 </bibl>
 
 <p>
-<figure entity="v41p24">
+<figure entity="v41p24" ana="pg blue">
 <head>The War in America: Refugees from Southern Cities on the Mississippi Flocking
       for Protection to the Federal Transports on their Advance down
       the River.&#x2014;From a Sketch by Our Special Artist.</head>
@@ -514,7 +514,7 @@ deeply-driven posts."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p37">
+<figure entity="v41p37" ana="insta blue">
 <head>Portion of the Water Batteries at Fort
       Pillow, On the Mississippi, After the Evacuation&#x2014;Looking Up The
       River.&#x2014;From a Sketch By Our Special Artist. and<lb/> Main Battery at Fort Pillow, On the
@@ -1197,7 +1197,7 @@ the civil war now being waged in America.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p77">
+<figure entity="v41p77" ana="naval">
 <head>Federal Gun-Boat.--See Supplement, Page 84.</head>
 </figure>
 </p>
@@ -1389,7 +1389,7 @@ has been taken up with sketching.
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p92">
+<figure entity="v41p92" ana="naval">
 <head>The Civil War in America: Destruction of
       the Confederate Flotilla Off Memphis.--From a Sketch By Our
       Special Artist.--See Page 84.</head>
@@ -1811,7 +1811,7 @@ peaceful times.</p>
 <date value="1862-07-26">July 26, 1862</date>
 <extent></extent>
 </bibl>
-<p><figure entity="v41p100">
+<p><figure entity="v41p100" ana="rich">
 <head>The Civil War in America: High Street, Richmond, Virginia.</head>
 </figure></p>
 </div2>
@@ -1860,7 +1860,7 @@ by the Federal Government.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p105">
+<figure entity="v41p105" ana="naval blue gray">
 <head>Position of the Federal Flotilla on the Mississippi, Off Fort Pillow, Shortly Before Its
 Evacuation. and <lb/>Colonel Fitch and the 46th Indiana
       Volunteers Taking at the Point of the Bayonet the Confederate
@@ -2387,7 +2387,7 @@ the James.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p125">
+<figure entity="v41p125" ana="map">
 <head>The Civil War in America: Scene of
       Operations in Eastern Virginia, Showing M'Clellan's Present
       Position.--See Page 128.</head>
@@ -5399,7 +5399,7 @@ of the war.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p368">
+<figure entity="v41p368" ana="gray">
 <head>The Civil War in America: General Stuart
       (Confederate) with his Cavalry Scouting in the Neighbourhood of
       Culpepper Courthouse.--From a Sketch by our Special Artist.--See
@@ -5448,7 +5448,7 @@ horse in the world.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p369">
+<figure entity="v41p369" ana="gray">
 <head>The Civil War in America: Colonel of the 4th Regiment European
 Brigade of the Confederate Army.--From a Photograph.</head>
 </figure>
@@ -7179,7 +7179,7 @@ paint."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p488">
+<figure entity="v41p488" ana="land money">
 <head>Oil-Springs at Tarr Farm, Oil Creek, Venango County, Pennsylvania--See Supplement,
       Page 506.</head>
 </figure>
@@ -7507,7 +7507,7 @@ the current has ever worked over."</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p513">
+<figure entity="v41p513" ana="naval">
 <head>The Confederate Sloop-of-War "290," or
       Alabama, Leaving the Merchant-Ship Tonowanda.--See Supplement,
       Page 535.</head>
@@ -7567,7 +7567,7 @@ the Spanish Government.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p513">
+<figure entity="v41p513" ana="battle blue gray">
 <head>The Civil War in America: The Last Stand
       Made by the Federals at Manassas.--From a Sketch by Our Special Artist.</head>
 </figure>
@@ -7585,7 +7585,7 @@ the Spanish Government.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p516-517">
+<figure entity="v41p516-517" ana="rich">
 <head>The Civil War in America: View, From the West, of Richmond,
 Virginia, Capital of the Confederate States.--From a Sketch by Our
 Special Artist.</head>
@@ -7605,7 +7605,7 @@ Special Artist.</head>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p520">
+<figure entity="v41p520" ana="camp gray">
 <head>The Civil War in America: Camp of the
       Confederate Marines at Drury's Bluff, on the James River.--From
       a Sketch by Our Special Artist.--See Next Page.</head>
@@ -7625,7 +7625,7 @@ Special Artist.</head>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p521">
+<figure entity="v41p521" ana="insta">
 <head>The Civil War in America: Drury's Bluff,
       A Confederate Position on the James River, Near Richmond.--From
       a Sketch by Our Special Artist.</head>
@@ -7758,7 +7758,7 @@ Majesty's Ministers.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p589">
+<figure entity="v41p589" ana="pic">
 <head>Captain Semmes, of the Confederate
       States' Sloop-of-War Alabama ('290'). Major-General "Stonewall"
       Jackson, of the Confederate Army.--See Page 606.</head>
@@ -9460,7 +9460,7 @@ succession to Mr. Lincoln.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p656">
+<figure entity="v41p656" ana="ps pg">
 <head>The Election of Mr. Horatio Seymour,
       Governor of the State of New York: Democratic Procession Passing
       the New York Hotel.</head>
@@ -9796,7 +9796,7 @@ York.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p696a">
+<figure entity="v41p696a" ana="pg blue">
 <head>Recruiting in New York: The Irish
       Zouaves.--See Preceding Page.</head>
 </figure>
@@ -9814,7 +9814,7 @@ York.</p></div2>
 <extent></extent>
 </bibl>
 <p>
-<figure entity="v41p696b">
+<figure entity="v41p696b" ana="prison">
 <head>Fort Lafayette, The American Bastille for
       Political Prisoners.</head>
 </figure>
