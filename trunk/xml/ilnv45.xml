@@ -69,7 +69,7 @@ London News Perspective</title>
 
 </bibl>
 <p>
-<figure entity="v45p1">
+<figure entity="v45p1" ana="naval">
 <head>THE DEERHOUND RESCUING A PORTION OF THE
       CREW OF THE ALABAMA.--FROM A SKETCH BY MR. ROBERT
       LANCASTER.--SEE NEXT PAGE.</head>
@@ -381,7 +381,7 @@ which his fellow-townsmen are about to erect...</p></div2>
 
 </bibl>
 <p>
-<figure entity="ILNv45p8">
+<figure entity="ILNv45p8" ana="street pg money">
 <head>KERBSTONE STOCKBROKERS IN NEW YORK.--SEE
       PAGE 11.</head>
 </figure>
@@ -399,7 +399,7 @@ which his fellow-townsmen are about to erect...</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p9">
+<figure entity="v45p9" ana="naval">
 <head>THE FIGHT BETWEEN THE ALABAMA AND THE
       KEARSARGE.--SEE PAGE 2.</head>
 </figure>
@@ -525,7 +525,7 @@ Cork.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p12">
+<figure entity="v45p12" ana="naval">
 <head>THE JACKAL TENDER AND BOATS GOING TO MEET
       THE AMERICAN MAIL STEAMER AT ROCHE'S POINT, NEAR QUEENSTOWN.</head>
 </figure>
@@ -785,7 +785,7 @@ before his death.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p41">
+<figure entity="v45p41" ana="pic">
 <head>THE LATE DAVID HERBERT LLEWELLYN, SURGEON
       OF THE ALABAMA.</head>
 </figure>
@@ -1066,7 +1066,7 @@ sunstroke had occurred.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p60">
+<figure entity="v45p60" ana="naval">
 <head>"OUR SPECIAL ARTIST," ON BOARD THE
       LILIAN, RUNNING THE BLOCKADE INTO WILMINGTON HARBOUR, NORTH
       CAROLINA.--SEE PAGE 70.</head>
@@ -1761,7 +1761,7 @@ thousand barrels yearly.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p100">
+<figure entity="v45p100" ana="money land">
 <head>THE PETROLEUM OIL WORKS AT FRANKLIN,
       PENNSYLVANIA.; RAILWAY STATION AT THE FRANKLIN PETROLEUM OIL
       WORKS.--SEE PRECEDING PAGE.</head>
@@ -2307,7 +2307,7 @@ enemy, but could not do it,"</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p128">
+<figure entity="v45p128" ana="battle gray">
 <head>THE WAR IN AMERICA: THE TEXANS OF
       LONGSTREET'S CORPS RETAKING THE OUTER LINE OF INTRENCHMENTS ON
       THE SOUTH SIDE OF THE JAMES RIVER. FROM A SKETCH BY OUR SPECIAL
@@ -2685,7 +2685,7 @@ Engraving is from a drawing by Mr. Hugh Aird.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p136">
+<figure entity="v45p136" ana="naval">
 <head>NEW BLOCKADE-RUNNER LIZZIE, BUILT IN THE
       CLYDE.</head>
 </figure>
@@ -3608,7 +3608,7 @@ population."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p185">
+<figure entity="v45p185" ana="peter">
 <head>THE WAR IN AMERICA: VIEW OF PETERSBURG,
       VIRGINIA.--SEE PAGE 191.</head>
 </figure>
@@ -4191,7 +4191,7 @@ Messrs. Henderson, Coulborn, and Co., of Renfrew.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p236-237">
+<figure entity="v45p236-237" ana="peter gray">
 <head>THE WAR IN AMERICA: VIEW OF PETERSBURG AND ITS SUBURBS FROM
       GENERAL LEE'S HEAD-QUARTERS.--FROM A SKETCH BY OUR SPECIAL
       ARTIST.--SEE NEXT PAGE.</head>
@@ -4741,7 +4741,7 @@ country.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p288">
+<figure entity="v45p288" ana="street ny">
 <head>ENLISTING IRISH AND GERMAN EMIGRANTS ON
       THE BATTERY AT NEW YORK.--SEE PAGE 285.</head>
 </figure>
@@ -5079,7 +5079,7 @@ result of the conflict now raging on the American continent....</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p345">
+<figure entity="v45p345" ana="ny ps pg street">
 <head>THE PRESIDENTIAL CAMPAIGN IN AMERICA:
       GREAT M'CLELLAN MEETING IN UNION-SQUARE, NEW YORK.--SEE NEXT PAGE.</head>
 </figure>
@@ -5778,7 +5778,7 @@ one of riot and confusion."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p389a">
+<figure entity="v45p389a" ana="ps">
 <head>PRESIDENTIAL ELECTIONEERING IN NEW
       YORK.--A STREET SCENE.</head>
 </figure>
@@ -5796,7 +5796,7 @@ one of riot and confusion."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p389b">
+<figure entity="v45p389b" ana="ny pg ps street">
 <head>PRESIDENTIAL ELECTIONEERING IN NEW
       YORK.--TORCHLIGHT PROCESSION OF THE M'CLELLAN PARTY.</head>
 </figure>
@@ -5973,7 +5973,7 @@ shots, as displayed in the present Illustration.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p408">
+<figure entity="v45p408" ana="land gray">
 <head>ILLUSTRATIONS OF THE WAR IN AMERICA, BY
       OUR SPECIAL ARTIST: PASSAGE OF THE SHENANDOAH RIVER AT FRONT
       ROYAL BY THE DIVISIONS SENT TO REINFORCE GENERAL EARLY; MARCH OF
@@ -5995,7 +5995,7 @@ shots, as displayed in the present Illustration.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p409">
+<figure entity="v45p409" ana="insta gray">
 <head>ILLUSTRATIONS OF THE WAR IN AMERICA, BY
       OUR SPECIAL ARTIST: HOWLETT'S BATTERY, ON THE JAMES RIVER,
       ENGAGING THE FEDERAL MONITORS.--SEE PAGE 407 .</head>
@@ -6821,7 +6821,7 @@ been over 16,000 dols., and expenses 3000 dols.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p517">
+<figure entity="v45p517" ana="naval">
 <head>THE LATE OUTRAGE ON THE NEUTRALITY OF
       BRAZIL: THE FLORIDA (CONFEDERATE) AND THE WACHUSETTS (FEDERAL)
       IN BAHIA HARBOUR.</head>
@@ -7329,7 +7329,7 @@ exhibitions.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p541">
+<figure entity="v45p541" ana="naval">
 <head>BURNING OF THE UNITED STATES'
       MAIL-STEAMER ROANOKE, OFF ST. GEORGE'S, BERMUDA, ON THE 9TH OF OCTOBER.</head>
 </figure>
@@ -7880,7 +7880,7 @@ in which the lager beer saloon, in some of its various forms, is not
 to be
 
 <p>
-<figure entity="v45p560">
+<figure entity="v45p560" ana="ny street ps pg">
 <head>ELECTION DAY IN NEW YORK: A POLLING-PLACE
       AMONG THE "UPPER TEN."; A POLLING-PLACE AMONG THE "LOWER
       TWENTY."--SEE PRECEDING PAGE.</head>
@@ -7945,7 +7945,7 @@ vintages of the Rhine."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p561a">
+<figure entity="v45p561a" ana="daily">
 <head>SKETCHES FROM NEW YORK: ENTERTAINMENT IN
       A LAGER BEER SALOON.</head>
 </figure>
@@ -7963,7 +7963,7 @@ vintages of the Rhine."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p561b">
+<figure entity="v45p561b" ana="land money">
 <head>SKETCHES FROM NEW YORK: A LAGER BEER
       BREWERY AT GUTTENBURG, ON THE HUDSON RIVER.</head>
 </figure>
@@ -7980,7 +7980,7 @@ vintages of the Rhine."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p561c">
+<figure entity="v45p561c" ana="daily pg">
 <head>SKETCHES FROM NEW YORK: A GARTEN WIRTHSCHAFT.</head>
 </figure>
 </p>
@@ -8250,7 +8250,7 @@ properties.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p576">
+<figure entity="v45p576" ana="land">
 <head>PEYTON FALLS, <sic>ALLEGHANY</sic> COUNTY, VIRGINIA.</head>
 </figure>
 </p>
@@ -8449,7 +8449,7 @@ more than 15 dols. for each child.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v45p592">
+<figure entity="v45p592" ana="np">
 <head>THE TOWN AND PORT OF NASSAU, NEW
       PROVIDENCE, BAHAMA ISLANDS.</head>
 </figure>
