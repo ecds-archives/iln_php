@@ -273,7 +273,7 @@ Pampero is from a sketch by Mr. Hugh Aird, of Glasgow.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p12">
+<figure entity="v44p12" ana="naval">
 <head>THE SUSPECTED CONFEDERATE CRUISER PAMPERO
       SEIZED AT GLASGOW.</head>
 </figure>
@@ -350,7 +350,7 @@ Mr. Edward L. Henry, of Tenth-street, New York.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p20">
+<figure entity="v44p20" ana="naval">
 <head>BURNING OF THE AMERICAN RIVER STEAMER
       ISAAC NEWTON ON HER WAY FROM NEW YORK TO ALBANY.</head>
 </figure>
@@ -530,7 +530,7 @@ labourers in the United States.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p29">
+<figure entity="v44p29" ana="texas ref">
 <head>THE WAR IN AMERICA: THE CONFEDERATES
       QUITTING BROWNSVILLE, TEXAS, ON HEARING OF THE APPROACH OF
       FEDERAL TRANSPORTS.--SEE NEXT PAGE.</head>
@@ -582,7 +582,7 @@ Mr. A. G. Wedge, of Matamoras.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p33">
+<figure entity="v44p33" ana="naval">
 <head>THE WAR IN AMERICA: THE FEDERAL STEAMER
       CHESAPEAKE, SEIZED BY CONFEDERATES, LANDING CREW AND PASSENGERS
       OFF MUSQUASH HARBOUR, BAY OF FUNDY.--SEE NEXT PAGE.</head>
@@ -994,7 +994,7 @@ may be preferred against him at the next Assizes.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p76">
+<figure entity="v44p76" ana="insta naval gray">
 <head>THE WAR IN AMERICA: FORT FISHER,
       COMMANDING THE NEW INLET ENTRANCE TO CAPE FEAR RIVER.--THE
       BRITISH STEAMER HANSA RUNNING THE BLOCKADE UNDER THE GUNS OF THE
@@ -2636,7 +2636,7 @@ Ireland. After some discussion the subject dropped.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p285">
+<figure entity="v44p285" ana="naval">
 <head>THE WRECK OF THE BOHEMIAN, MONTREAL OCEAN
       COMPANY'S STEAM-PACKET, OFF THE COAST OF MAINE.</head>
 </figure>
@@ -3018,7 +3018,7 @@ Sound Agricultural Companies, under the Treaty of 1846.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p313">
+<figure entity="v44p313" ana="land gray">
 <head>THE WAR IN AMERICA: WINTER QUARTERS OF
       THE LEFT WING OF THE CONFEDERATE ARMY ON THE RAPIDAN.--FROM A
       SKETCH BY OUR SPECIAL ARTIST.--SEE NEXT PAGE.</head>
@@ -3186,7 +3186,7 @@ warning to all Federal ships in those waters.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p320">
+<figure entity="v44p320" ana="naval">
 <head>THE ALABAMA DESTROYING THE TEXAN STAR, OR
       MARTABAN, IN THE MALACCA STRAITS--THE KWAN-TUNG, CHINESE
       WAR-STEAMER, IN THE DISTANCE. FROM A SKETCH BY COMMANDER ALLEN
@@ -3348,13 +3348,13 @@ there is still a chance of saving this fine ship.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p349a">
+<figure entity="v44p349a" ana="naval">
 <head>THE CITY OF NEW YORK STEAM-SHIP ON
       DAUNT'S ROCK, AT THE ENTRANCE OF QUEENSTOWN HARBOUR.</head>
 </figure>
 </p>
 <p>
-<figure entity="v44p349b">
+<figure entity="v44p349b" ana="naval">
 <head>THE MIDSHIPS SALOON OF THE CITY OF NEW YORK.</head>
 </figure>
 </p>
@@ -3372,7 +3372,7 @@ there is still a chance of saving this fine ship.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p353">
+<figure entity="v44p353" ana="rich prison gray">
 <head>THE WAR IN AMERICA: CAMP OF FEDERAL
       PRISONERS ON BELLE ISLE, RICHMOND.--FROM A SKETCH BY OUR SPECIAL
       ARTIST.--SEE NEXT PAGE.</head>
@@ -3582,7 +3582,7 @@ factory will be completely restored...</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p364-365">
+<figure entity="v44p364-365" ana="np naval">
 <head>THE WAR IN AMERICA: VIEW OF NASSAU, IN
       THE BRITISH WEST INDIES, THE DEPOT FOR THE BLOCKADE-RUNNING
       TRADE.--FROM A SKETCH BY OUR SPECIAL ARTIST.--SEE NEXT PAGE.</head>
@@ -4052,7 +4052,7 @@ the time our Artist's sketch was made.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p432">
+<figure entity="v44p432" ana="money naval land gray">
 <head>ILLUSTRATIONS OF THE WAR IN AMERICA, BY
       OUR SPECIAL ARTIST. UNLOADING COTTON FROM BLOCKADE-RUNNERS AT
       NASSAU, NEW PROVIDENCE.; GENERAL STUART'S HEAD-QUARTERS ON THE
@@ -5011,7 +5011,7 @@ itself up with such a topic....</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p521">
+<figure entity="v44p521" ana="naval">
 <head>THE CONFEDERATE CRUISER GEORGIA.</head>
 </figure>
 </p>
@@ -5125,7 +5125,7 @@ just for the want of a few hundreds....</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p533">
+<figure entity="v44p533" ana="pic">
 <head>GENERAL ROBERT <sic>EDMUND</sic> LEE,
       COMMANDER-IN-CHIEF OF THE ARMY OF THE CONFEDERATE STATES OF
       AMERICA. SEE NEXT PAGE.</head>
@@ -5831,7 +5831,7 @@ Lee.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p573">
+<figure entity="v44p573" ana="pic">
 <head>GENERAL LONGSTREET, OF THE ARMY OF THE CONFEDERATE STATES OF
       AMERICA.--FROM A PHOTOGRAPH.</head>
 </figure>
@@ -6092,7 +6092,7 @@ J. E. B. Stuart."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v44p585">
+<figure entity="v44p585" ana="pic">
 <head>THE LATE GENERAL J. E. B. STUART, OF THE ARMY OF THE CONFEDERATE STATES.</head>
 </figure>
 </p>
