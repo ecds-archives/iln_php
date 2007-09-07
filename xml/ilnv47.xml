@@ -674,7 +674,7 @@ Railroad into Pennsylvania "Oildom."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v47p48a">
+<figure entity="v47p48a" ana="rich">
 <head>RICHMOND, VIRGINIA: RUINS OF THE CARBINE
       FACTORY.; RUINS OF THE RAILWAY BRIDGE.</head>
 </figure>
@@ -720,7 +720,7 @@ into Georgia, will be published on a future occasion.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v47p48b">
+<figure entity="v47p48b" ana="pg">
 <head>DEDICATION OF THE MONUMENT ON THE
       BATTLE-FIELD OF BULL RUN, VIRGINIA.</head>
 </figure>
@@ -943,7 +943,7 @@ congratulated on their success.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v47p64">
+<figure entity="v47p64" ana="ps ref">
 <head>THE LAST DAYS OF THE CONFEDERATE
       GOVERNMENT.--FROM SKETCHES BY OUR SPECIAL ARTIST. THE FLIGHT OF
       THE CONFEDERATES: A SUDDEN ALARM AND STAMPEDE.; THE TRAIN OF THE
@@ -967,7 +967,7 @@ congratulated on their success.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v47p65">
+<figure entity="v47p65" ana="ps ref">
 <head>THE LAST DAYS OF THE CONFEDERATE
       GOVERNMENT.--FROM SKETCHES BY OUR SPECIAL ARTIST. MR. JEFFERSON
       DAVIS SIGNING ACTS OF GOVERNMENT BY THE ROADSIDE.;
@@ -1968,7 +1968,7 @@ d&#x00E9;p&#x00F4;t for troops.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v47p128">
+<figure entity="v47p128" ana="land insta">
 <head>HART ISLAND, NEAR NEW YORK, A STATION FOR
       THE DISBANDMENT OF THE FEDERAL ARMY.</head>
 </figure>
@@ -5823,7 +5823,7 @@ Ireland.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v47p380-381">
+<figure entity="v47p380-381" ana="rich">
 <head>PANORAMA OF RICHMOND, VIRGINIA AFTER
       CAPTURE BY THE FEDERALS.--SEE NEXT PAGE.</head>
 </figure>
@@ -6423,7 +6423,7 @@ destruction to shipping.</p></div2>
 
 </bibl>
 <p>
-<figure entity="v47p449">
+<figure entity="v47p449" ana="naval">
 <head>THE SHIP GLAD TIDINGS, WITH A CARGO OF
       AMERICAN COTTON, ENTERING THE PORT OF LIVERPOOL.--SEE NEXT PAGE.</head>
 </figure>
@@ -6798,7 +6798,7 @@ purpose of protecting themselves against assassination."</p></div2>
 
 </bibl>
 <p>
-<figure entity="v47p493">
+<figure entity="v47p493" ana="naval">
 <head>THE LATE CONFEDERATE CRUISER THE
       SHENANDOAH IN THE MERSEY.--SEE NEXT PAGE.</head>
 </figure>
@@ -8173,6 +8173,7 @@ detention for a single day.</p>
 <interp id="battle" value="Battles &#x0026; Battlefields"/>
 <interp id="camp" value="Camp Life"/>
 <interp id="insta" value="Installations"/>
+<interp id="prison" value="Prisons"/>
 <interp id="skirm" value="Skirmishes"/>
 <interp id="gray" value="Troops, Confederate"/>
 <interp id="red" value="Troops, British"/>
