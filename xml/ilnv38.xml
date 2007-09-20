@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader type="text">
       <fileDesc>
@@ -74,7 +75,7 @@ News</title>
                   <biblScope type="issue">no. 1068</biblScope> 
                   <biblScope type="pages">p. 2</biblScope> 
                   <date value="1861-01-05">January 5, 1861</date>
-               <extent>5 paragraphs</extent></bibl>
+               <extent>5 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/149</idno></bibl>
                <p>
                   <hi rend="center">UNITED STATES.</hi>
                </p>
@@ -124,7 +125,7 @@ News</title>
                   <biblScope type="issue">no. 1068</biblScope> 
                   <biblScope type="pages">p. 6</biblScope> 
                   <date value="1861-01-05">January 5, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/15c</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, JANUARY 5, 1861.</hi>
                </p>
@@ -165,7 +166,7 @@ had been warned.</p>
                   <biblScope type="issue">no. 1069</biblScope> 
                   <biblScope type="pages">pp. 25-26</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date>
-<extent>3 paragraphs</extent></bibl>
+<extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/16f</idno></bibl>
                <p><hi rend="smallcap">There</hi> never was a nation so calculated to solve a number
 of difficult political problems as that which we have hitherto known
 as the United States of America.  Descended as the people of that
@@ -325,7 +326,7 @@ recourse will not be had to that sharp remedy.</p>
                   <biblScope type="issue">no. 1069</biblScope> 
                   <biblScope type="pages">pp. 26-27</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date>
-<extent>15 paragraphs</extent></bibl>
+<extent>15 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/17h</idno></bibl>
                
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>
                   United States.<lb/>
@@ -436,7 +437,7 @@ alleged, contrived to embezzle nearly 1,000,000 dollars.</p>
                   <biblScope type="issue">no. 1069</biblScope> 
                   <biblScope type="pages">p. 27</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/18k</idno></bibl>
                <p>Advices had been
 received at Baltimore stating that the Dominican Government had taken
 forcible possession of the guano islands in the Caribbean Sea
@@ -453,7 +454,7 @@ News</title>
                   <biblScope type="issue">no. 1069 </biblScope> 
                   <biblScope type="pages">p. 27</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/19n</idno></bibl>
                <p>The friends of freedom in Canada are bestirring themselves on the
 fugitive slave extradition case.  They have held a great meeting at
 Toronto, at which there was a very strong expression of opinion
@@ -470,7 +471,7 @@ London News</title>
                   <biblScope type="pages">p. 27</biblScope> 
                   <date value="1861-01-12">January 12,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1bq</idno></bibl>
                <p>During the last quarter the general Government
 paid for the postal service of South Carolina 240,000 dol., while it
 collected in that State only 50,000, making a deficit at the rate of
@@ -487,7 +488,7 @@ News</title>
                   <biblScope type="issue">no. 1069</biblScope> 
                   <biblScope type="pages">p. 27</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date>
-               <extent>10 paragraphs</extent></bibl>
+               <extent>10 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1cs</idno></bibl>
                <p>
                   <hi rend="center">HISTORY OF AMERICAN SLAVERY.</hi>
                </p>
@@ -683,7 +684,7 @@ Illustrated London News</title>
                   <biblScope type="issue">no. 1069 </biblScope>
                   <biblScope type="pages">p. 30</biblScope> 
                   <date value="1861-01-12">January 12, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1dv</idno></bibl>
                <p>
                   <hi rend="center">London, Saturday, January 5, 1861.</hi>
                </p>
@@ -718,7 +719,7 @@ anti-slavery speeches could ever efface.</p>
 1070</biblScope> 
                   <biblScope type="pages">pp. 47-48 </biblScope> 
                   <date value="1861-01-19">January 19, 1861</date> 
-               <extent>7 paragraphs</extent></bibl>
+               <extent>7 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1fx</idno></bibl>
                <p>
                   THE SECESSION MOVEMENT IN AMERICA.
                </p>
@@ -890,7 +891,7 @@ London News</title>
                   <biblScope type="pages">p. 48-49</biblScope> 
                   <date value="1861-01-19">January 19,
 1861</date> 
-               <extent>28 paragraphs</extent></bibl>
+               <extent>28 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1g0</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi>
                   <lb/>United States.<lb/>
                   The Secession Movement.
@@ -1075,7 +1076,7 @@ independent nationality.</p>
 1070</biblScope> 
                   <biblScope type="pages">p. 49</biblScope> 
                   <date value="1861-01-19">January 19, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1h2</idno></bibl>
                <p>Ralph Farnham,
 the last survivor of the battle of Bunker's-hill (whose Portrait we
 gave in a recent Number), died on the 28th ult. in Acton, Maine, U.S.
@@ -1092,7 +1093,7 @@ London News</title>
                   <biblScope type="pages">p. 49</biblScope> 
                   <date value="1861-01-19">January 19,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1j4</idno></bibl>
                <p>Several cargoes of grain are now on their way
 from California to this country, which have been shipped at prices
 that, according to our present rates, will leave a large profit.</p>
@@ -1109,7 +1110,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 49</biblScope> 
                   <date value="1861-01-19">January 19,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1k6</idno></bibl>
                <p>The <title>New York Herald</title> says that there are 10,000
 tailors (men and women) out of employment at the present time in New
 York.  It estimates that the number depending upon those unemployed
@@ -1125,7 +1126,7 @@ for sustenance will swell the total up to 28,000.</p>
 1070</biblScope> 
                   <biblScope type="pages">p. 52 </biblScope> 
                   <date value="1861-01-19">January 19, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1m8</idno></bibl>
                <p>
                   <hi rend="center">Saturday, January 19, 1861.</hi>
                </p>
@@ -1189,7 +1190,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 52</biblScope> 
                   <date value="1861-01-19">January 19,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1nb</idno></bibl>
                <p>Two or three rifled cannon have been shipped
 from Liverpool for Charleston within the last few days.</p>
 
@@ -1203,7 +1204,7 @@ from Liverpool for Charleston within the last few days.</p>
 1070</biblScope> 
                   <biblScope type="pages">p. 68</biblScope> 
                   <date value="1861-01-19">January 19, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1pd</idno></bibl>
                <p><hi rend="smallcap">Forts in Charleston
                Harbour</hi>.&#x2014;Fort Moultrie is
 situated on Sullivan's Island, at the mouth of the harbour, and about
@@ -1277,7 +1278,7 @@ shell, and shot.&#x2014; <title>New York Tribune</title>.</p>
 1071</biblScope> 
                   <biblScope type="pages">pp. 71-72</biblScope> 
                   <date value="1861-01-26">January 26, 1861</date> 
-               <extent>19 paragraphs</extent></bibl>
+               <extent>19 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1qg</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>
                   United States.
                </p>
@@ -1347,17 +1348,17 @@ Harper's Ferry to protect the arsenal.</p>
 Washington of the 5th says that the committee of the Border States,
 including Delaware, Maryland, Virginia, Kentucky, Missouri, and North
 Carolina, from the South, and New Jersey, Pennsylvania, Ohio, Indiana,
-Illinois, &#x0026;c., from the North, had agreed upon propositions for an
+Illinois, &amp;c., from the North, had agreed upon propositions for an
 adjustment of pending difficulties, by amending the Constitution as
 follows:&#x2014;</p>
                <p>1. Recommending a repeal of all the Personal
 Liberty Eills [sic].  2. That the Fugitive Slave Law be amended for
 the preventing of kidnapping, and so as to provide for the
-equalisation of the Commissioners' fee, &#x0026;c.  3.  That the
+equalisation of the Commissioners' fee, &amp;c.  3.  That the
 Constitution be so amended as to prohibit any interference with
 slavery in any of the States where it now exists.  4.  That the
 Congress shall not abolish slavery in the Southern dockyards,
-arsenals, &#x0026;c., nor in the district of Columbia without the consent
+arsenals, &amp;c., nor in the district of Columbia without the consent
 of Maryland and the consent of the inhabitants of the district, nor
 without compensation.  5.  That Congress shall not interfere with the
 inter-State slave trade.  6.  That there shall be a perpetual
@@ -1465,7 +1466,7 @@ London News</title>
                   <biblScope type="pages">p. 73</biblScope> 
                   <date value="1861-01-26">January 26,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1rj</idno></bibl>
                <p><hi rend="smallcap">The Fugitive Slave Extradition Case</hi>.&#x2014;In pursuance of the judgment passed by the
 Court of Queen's Bench in the case of John Anderson, the fugitive
 slave, a messenger of the court proceeded last Saturday from Liverpool
@@ -1477,8 +1478,7 @@ Hamilton, Upper Canada, to protest against the extradition of the
 fugitive slave.</p>
 
             </div2>
-            <div2 id="iln38.1071.021" n="London, Saturday, January 26,
-					 1861." type="Article">
+            <div2 id="iln38.1071.021" n="London, Saturday, January 26,       1861." type="Article">
                <head>London, Saturday, January 26, 1861.</head>
                <bibl> 
                   <title>The Illustrated London
@@ -1487,7 +1487,7 @@ News</title>
                   <biblScope type="issue">no. 1071</biblScope> 
                   <biblScope type="pages">p. 76</biblScope> 
                   <date value="1861-01-26">January 26, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1sm</idno></bibl>
                <p>
                   <hi rend="center">London, Saturday, January 26, 1861.</hi>
                </p>
@@ -1517,7 +1517,7 @@ the seizure of Canada, but this he will now, being in a responsible
 position, be inclined speedily to forget, and we shall be happy to
 imitate him.  General Cameron will be the War Secretary.  The
 <title>New York Herald</title> sarcastically recommends Mr. Horace
-Greeley, its <hi rend="italic">b&#x00EA;te noir</hi> (whom it has called
+Greeley, its <hi rend="italic">b&#xEA;te noir</hi> (whom it has called
 Massa Greeley, in ridicule of his compassion for the slaves), to hurry
 to Mr. Lincoln and try and secure some "fat things;" adding, in the
 elegant language of American politicians, that he will otherwise be
@@ -1536,8 +1536,7 @@ should rejoice to hear that the presence of a large Federal force had
 made so fearful a revolt impossible.</p>
 
             </div2>
-            <div2 id="iln38.1071.022" n="The Secession Movement"
-		  type="Illustration">
+            <div2 id="iln38.1071.022" n="The Secession Movement" type="Illustration">
                <head>The Secession Movement</head>
                <bibl> 
                   <title>The Illustrated London
@@ -1546,10 +1545,9 @@ News</title>
                   <biblScope type="issue">no. 1072</biblScope> 
                   <biblScope type="pages">p. 87</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date>
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1tp</idno></bibl>
                <p>
-                  <figure entity="v38p87" width="914" height="610"
-			  ana="pg ps">
+                  <figure entity="v38p87" width="914" height="610" ana="pg ps">
                      <head>The Secession Movement.&#x2014;Entrance Hall to
 an Hotel at Charleston, South Carolina&#x2014;See Page 94.</head>
                   </figure>
@@ -1565,7 +1563,7 @@ an Hotel at Charleston, South Carolina&#x2014;See Page 94.</head>
 1072</biblScope> 
                   <biblScope type="pages">pp. 88-89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date> 
-               <extent>12 paragraphs</extent></bibl>
+               <extent>12 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1vr</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi>
                   <lb/>UNITED STATES.
                </p>
@@ -1666,7 +1664,7 @@ resolved to delay action until he should have received orders from
 Washington.  The British Consul at Charleston has written to the
 Secretary of the Admiralty to say that the <hi rend="italic">de
 facto</hi> Government of South Carolina had not only caused the
-lighthouse beacons, buoys, &#x0026;c, of that coast and harbour to be
+lighthouse beacons, buoys, &amp;c, of that coast and harbour to be
 removed, but that it had sunk vessels in all the channels excepting
 one.  This channel will only be navigable for vessels of light
 draught.  The South Carolina authorities have notified to Major
@@ -1677,8 +1675,7 @@ against coercing the Southern States was held in New York City on the
 evening of the 14th ult.</p>
 
             </div2>
-            <div2 id="iln38.1072.024" n="The New Flag of the State of
-		  South Carolina." type="Illustration">
+            <div2 id="iln38.1072.024" n="The New Flag of the State of     South Carolina." type="Illustration">
                <head>The New Flag of the State of South Carolina.</head>
                <bibl>
                   <title>The Illustrated London News</title> 
@@ -1687,7 +1684,7 @@ evening of the 14th ult.</p>
 1072</biblScope> 
                   <biblScope type="pages">p. 89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1wt</idno></bibl>
                <p>
                   <figure entity="v38p89" width="296" height="308" ana="flag">
                      <head>The New Flag of the State of South
@@ -1705,7 +1702,7 @@ flag]</head>
                   <biblScope type="issue">no. 1072</biblScope> 
                   <biblScope type="pages">p. 89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1xw</idno></bibl>
                <p><hi rend="smallcap">The</hi> particular flag known as the sovereignty flag of South
 Carolina which that State has recently adopted is represented in the
 annexed Engraving.  It is formed of a red ground, with a dark blue
@@ -1735,7 +1732,7 @@ of America</head>
                   <biblScope type="issue">no. 1072</biblScope> 
                   <biblScope type="pages">p. 89</biblScope> 
                   <date value="1861-02-02">February 2, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/1zz</idno></bibl>
                <p rend="center"><hi rend="smallcap">The Fortresses in the Southern States of
 America.</hi>
                </p>
@@ -1752,10 +1749,10 @@ Royal Roads, South Carolina; Typee Islands, Savannah; Galveston,
 Brazos, Santiago, and
 Matagorda Bay, Texas.  The guns which were lately stopped at Pittsburg
 [sic] were designed for those at Galveston and Ship Island.  Hampton
-roads is the great naval d&#x00E9;p&#x00F4;t station and rendezvous of the southern
+roads is the great naval d&#xE9;p&#xF4;t station and rendezvous of the southern
 coasts, and the only good roadstead on the Atlantic south of the
 Delaware.  Pensacola is very strong, and the only good harbour for
-vessels of war, and the only naval d&#x00E9;p&#x00F4;t on the Gulf.  The fortresses
+vessels of war, and the only naval d&#xE9;p&#xF4;t on the Gulf.  The fortresses
 at Key West and Tortugas, on the southern part of Florida, are among
 the most powerful in the world; and every vessel that crosses the Gulf
 passes within sight of both."</p>
@@ -1772,7 +1769,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 94</biblScope> 
                   <date value="1861-02-02">February 2,
 1861</date> 
-               <extent>7 paragraphs</extent></bibl>
+               <extent>7 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/202</idno></bibl>
                <p>
                   <figure entity="v38p94a" width="538" height="708" ana="land">
                      <head>The Charleston
@@ -1780,8 +1777,7 @@ Palmetto.</head>
                   </figure>
                </p>
                <p>
-                  <figure entity="v38p94b" width="614" height="381"
-			  ana="street slave">
+                  <figure entity="v38p94b" width="614" height="381" ana="street slave">
                      <head>Selling
 Sweet Potatoes in Charleston.</head>
                   </figure>
@@ -1838,7 +1834,7 @@ Queen</head>
                   <biblScope type="issue">no. 1073</biblScope> 
                   <biblScope type="pages">p. 112</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date>
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/214</idno></bibl>
 <p rend="center">OPENING OF PARLIAMENT BY THE QUEEN</p>
                <p>". . . Serious differences have arisen among the States of
 the North American Union.  It is impossible for me not to look with
@@ -1868,7 +1864,7 @@ News</title>
                   <biblScope type="issue">no. 1073</biblScope> 
                   <biblScope type="pages">p. 112</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/226</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>UNITED STATES.
                </p>
                <p>The
@@ -1913,7 +1909,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 113</biblScope> 
                   <date value="1861-02-09">February 9,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/238</idno></bibl>
                <p>Lola Montez, having previously had a severe
 attack of paralysis, died of pneumonia, at New York, on the 17th
 ult.</p>
@@ -1929,7 +1925,7 @@ News</title>
                   <biblScope type="issue">no. 1073</biblScope> 
                   <biblScope type="pages">p. 113</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date>
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/24b</idno></bibl>
                <p>The underwriters of London and Liverpool have raised their
 rate 1 per cent on cargoes from the southern ports of the United
 States to cover the war and other risks.</p>
@@ -1946,7 +1942,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 116</biblScope> 
                   <date value="1861-02-09">February 9,
 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/25d</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, FEBRUARY 9,
 1861.</hi>
@@ -1966,7 +1962,7 @@ World.</p>
 1073</biblScope> 
                   <biblScope type="pages">p. 129</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/26g</idno></bibl>
                <p>
                   <figure entity="v38p129" width="860" height="692" ana="map">
                      <head>Plan of Charleston (South Carolina) Harbour and
@@ -1984,7 +1980,7 @@ Vicinity</head>
 1073</biblScope> 
                   <biblScope type="pages">p. 129</biblScope> 
                   <date value="1861-02-09">February 9, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/27j</idno></bibl>
                <p>
                   <hi rend="center">CHARLESTON.</hi>
                </p>
@@ -2023,7 +2019,7 @@ obstruction of the entrances to the harbour at that place by the local
 Government:&#x2014;"British Consulate, Charleston, Jan. 11, 1861.&#x2014;Sir,&#x2014;In
 my letter of the 3rd inst. I had the honour to acquaint you that the
 <hi rend="italic">de facto</hi> Government of the State of South
-Carolina had caused the lighthouse, beacons, buoys, &#x0026;c., of this
+Carolina had caused the lighthouse, beacons, buoys, &amp;c., of this
 coast and harbour to be extinguished and removed.  I now have to
 state that, in addition to these very summary measures, the same
 authorities have seen fit to close all the channels leading into the
@@ -2044,7 +2040,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 136</biblScope> 
                   <date value="1861-02-16">February 16,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/28m</idno></bibl>
 <p rend="center">A BRITISH RAILWAY FROM THE ATLANTIC TO THE PACIFIC.</p>
                <p>.  . . . In the United States the project of a
 railway to the Pacific to cross the Rocky Mountains has ebbed and
@@ -2085,7 +2081,7 @@ hands of the United States.</p>
 1075</biblScope> 
                   <biblScope type="pages">p. 136</biblScope> 
                   <date value="1861-02-16">February 16, 1861</date> 
-               <extent>4 paragraphs</extent></bibl>
+               <extent>4 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/29p</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>UNITED STATES.
                </p>
                <p>Virginia has assumed the
@@ -2131,7 +2127,7 @@ London News</title>
                   <biblScope type="pages">p. 137</biblScope> 
                   <date value="1861-02-16">February 16,
 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2br</idno></bibl>
                <p>LATEST NEWS FROM ABROAD.
                </p>
                <p>The following telegrams were received at Mr.
@@ -2162,7 +2158,7 @@ failed to elect a President after seventy-two ballots.</p>
 1075</biblScope> 
                   <biblScope type="pages">pp. 138-40</biblScope> 
                   <date value="1861-02-16">February 16, 1861</date> 
-               <extent>23 paragraphs</extent></bibl>
+               <extent>23 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2ct</idno></bibl>
                <p>
                   <hi rend="center">SLAVE AUCTIONS IN RICHMOND, VIRGINIA.</hi>
                </p>
@@ -2522,7 +2518,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 140</biblScope> 
                   <date value="1861-02-16">February 16,
 1861</date> 
-               <extent>4 paragraphs</extent></bibl>
+               <extent>4 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2dw</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, FEBRUARY
 16, 1861.</hi>
@@ -2565,7 +2561,7 @@ News</title>
                   <biblScope type="issue">no. 1075</biblScope> 
                   <biblScope type="pages">p. 147</biblScope> 
                   <date value="1861-02-16">February 16, 1861</date>
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2fz</idno></bibl>
                <p>
                   <hi rend="center">CHURCH IN CHARLESTON.  </hi>
                </p>
@@ -2597,7 +2593,7 @@ Southern States, was founded in 1785, and has a president and six
 professors, with (in 1850) seventy students.  The medical college was
 founded in 1833, and in 1850 had eight professors and 158 students.
 The Literary and Philosophical Society has a fine collection of
-objects in natural history, &#x0026;c.; and the Academy of Fine Arts
+objects in natural history, &amp;c.; and the Academy of Fine Arts
 possesess [sic] some valuable paintings.  The city library contains
 about 2400 volumes.</p>
                <p>Our Engraving of the Church in Charleston
@@ -2613,7 +2609,7 @@ is from a Sketch by Mr. Eyre Crowe, Jun.</p>
 1076</biblScope> 
                   <biblScope type="pages">p. 160</biblScope> 
                   <date value="1861-02-23">February 23, 1861</date> 
-               <extent>8 paragraphs</extent></bibl>
+               <extent>8 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2g1</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>UNITED STATES.
                </p>
                <p>No progress seems to have
@@ -2654,8 +2650,7 @@ fifty thousand of her people are said to be on the verge of
 starvation.</p>
 
             </div2>
-            <div2 id="iln38.1076.042" n="London, Saturday, February
-					 23, 1861" type="Article">
+            <div2 id="iln38.1076.042" n="London, Saturday, February       23, 1861" type="Article">
                <head>London, Saturday, February
 					 23, 1861</head>
                <bibl> 
@@ -2665,7 +2660,7 @@ News</title>
                   <biblScope type="issue">no. 1076</biblScope> 
                   <biblScope type="pages">p. 164</biblScope> 
                   <date value="1861-02-23">February 23, 1861</date>
-               <extent>4 paragraphs</extent></bibl>
+               <extent>4 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2h3</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, FEBRUARY 23,
 1861.</hi>
@@ -2708,7 +2703,7 @@ Russia</head>
                   <biblScope type="issue">no. 1077</biblScope> 
                   <biblScope type="pages">pp. 183-84</biblScope> 
                   <date value="1861-03-02">March 2, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2j5</idno></bibl>
                <p>
                   <hi rend="center">EMANCIPATION OF THE SERFS IN
 RUSSIA.</hi>
@@ -2747,7 +2742,7 @@ fellow-man.</p>
                   <biblScope type="issue">no. 1077</biblScope> 
                   <biblScope type="pages">pp. 184-85</biblScope> 
                   <date value="1861-03-02">March 2, 1861</date>
-               <extent>10 paragraphs</extent></bibl>
+               <extent>10 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2k7</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL News</hi><lb/>UNITED STATES.
                </p>
                <p>In accordance
@@ -2845,7 +2840,7 @@ but the truth of the rumour seems very doubtful.</p>
                   <biblScope type="issue">no. 1077</biblScope> 
                   <biblScope type="pages">p. 188</biblScope> 
                   <date value="1861-03-02">March 2, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2m9</idno></bibl>
                <p rend="center"><hi rend="italic">SATURDAY, MARCH 2, 1861.</hi>
                </p>
                <p>. . .
@@ -2868,7 +2863,7 @@ the wisdom and forbearance of the new President.</p>
                   <biblScope type="issue">no. 1077</biblScope> 
                   <biblScope type="pages">p. 194</biblScope> 
                   <date value="1861-03-02">March 2, 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2nc</idno></bibl>
                <p>
                   <hi rend="center">FORT MOULTRIE.</hi>
                </p>
@@ -2941,7 +2936,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 194</biblScope> 
                   <date value="1861-03-02">March 2,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2pf</idno></bibl>
                <p>
                   <figure entity="v38p194" width="833" height="562" ana="insta">
                      <head>Fort Moultrie, in
@@ -2962,7 +2957,7 @@ London News</title>
                   <biblScope type="pages">p. 207</biblScope> 
                   <date value="1861-03-09">March 9,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2qh</idno></bibl>
                <p>
                   <figure entity="v38p207" width="864" height="615" ana="daily">
                      <head>"A Barber's Shop at
@@ -2982,7 +2977,7 @@ London News</title>
                   <biblScope type="pages">p. 209</biblScope> 
                   <date value="1861-03-09">March 9,
 1861</date> 
-               <extent>11 paragraphs</extent></bibl>
+               <extent>11 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2rk</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>UNITED STATES.
                </p>
                <p>Mr. Jefferson Davis, President of the Southern Confederacy,
@@ -3055,7 +3050,7 @@ London News</title>
                   <biblScope type="pages">p. 209</biblScope> 
                   <date value="1861-03-09">March 9,
 1861</date> 
-               <extent>9 paragraphs</extent></bibl>
+               <extent>9 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2sn</idno></bibl>
                <p>
                   <hi rend="center">THE FUGITIVE
 ANDERSON.</hi>
@@ -3196,7 +3191,7 @@ London News</title>
                   <biblScope type="pages">p. 212</biblScope> 
                   <date value="1861-03-09">March 9,
 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2tq</idno></bibl>
                <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH 9,
 1861.</hi>
                </p>
@@ -3213,8 +3208,7 @@ property on which the Secessionists have laid hands, is a problem for
 whose solution we shall wait with impatience.</p>
 
             </div2>
-	    <div2 id="iln38.1078.051a" n="British Institution"
-		  type="Article">
+	    <div2 id="iln38.1078.051a" n="British Institution" type="Article">
 	      <head>British Institution</head>
 	      <bibl>
 		<title>The Illustrated London News</title>
@@ -3223,7 +3217,7 @@ whose solution we shall wait with impatience.</p>
 		<biblScope type="pages">p. 216</biblScope>
 		<date value="1861-03-09">March 9, 1861</date>
 		<extent>2 paragraphs</extent>
-	      </bibl>
+	      <idno type="ark">http://pid.emory.edu/ark:/25593/2vs</idno></bibl>
 	      
 	      <p rend="center">BRITISH INSTITUTION</p>
 	      <p>Another picture which we engrave in our present
@@ -3243,7 +3237,7 @@ whose solution we shall wait with impatience.</p>
 1078</biblScope> 
                   <biblScope type="pages">p. 223</biblScope> 
                   <date value="1861-03-09">March 9, 1861</date> 
-               <extent>7 paragraphs</extent></bibl>
+               <extent>7 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2wv</idno></bibl>
                <p>
                   <hi rend="center">RELEASE OF ANDERSON, THE FUGITIVE SLAVE.</hi>
                </p>
@@ -3388,8 +3382,7 @@ individual stir in the matter?</p>
 painting in oil, life-size, taken by Mr. James Forbes, of Toronto,
 whilst Anderson lay in the Toronto gaol.</p>
                <p>
-                  <figure entity="v38p223" width="422" height="466"
-			  ana="pic slave">
+                  <figure entity="v38p223" width="422" height="466" ana="pic slave">
                      <head>John Anderson, the Fugitive Slave in
 Canada.</head>
                   </figure>
@@ -3405,7 +3398,7 @@ Davis</head>
                   <biblScope type="issue">no. 1079</biblScope> 
                   <biblScope type="pages">p. 231</biblScope> 
                   <date value="1861-03-16">March 16, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2xx</idno></bibl>
                <p>
                   <figure entity="v38p231" width="476" height="480" ana="pic">
                      <head>The Hon. Jefferson Davis, President of
@@ -3424,7 +3417,7 @@ News</title>
                   <biblScope type="issue">no. 1079</biblScope> 
                   <biblScope type="pages">p. 232</biblScope> 
                   <date value="1861-03-16">March 16, 1861</date> 
-               <extent>17 paragraphs</extent></bibl>
+               <extent>17 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/2z0</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.<lb/>
 THE UNITED STATES.
                </p>
@@ -3436,7 +3429,7 @@ that he hastened forward to escape the mob at Baltimore. The President
 elect had been waited upon by Lord Lyons and other foreign Ministers
 on the 25th.  General Scott, Mr. Seward, and several prominent
 Republican senators were closeted with him concerning the ceremonies
-connected with the inauguration.  At a general lev&#x00E9;e given by Mr.
+connected with the inauguration.  At a general lev&#xE9;e given by Mr.
 Lincoln several hundred gentlemen from all sections of the country
 paid their respects to him.  Mr. Lincoln visited the Senate and House
 of Representatives, and was well received.  The authorities at
@@ -3538,7 +3531,7 @@ future levies.</p>
 1079</biblScope> 
                   <biblScope type="pages">p. 236</biblScope> 
                   <date value="1861-03-16">March 16, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/303</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, MARCH 16, 1861.</hi>
                </p>
@@ -3580,7 +3573,7 @@ London News</title>
                   <biblScope type="pages">p. 247</biblScope> 
                   <date value="1861-03-16">March 16,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/315</idno></bibl>
                <p>
                   <figure entity="v38p247" width="1064" height="1465" ana="pic">
                      <head>General Winfield
@@ -3599,7 +3592,7 @@ Davis</head>
                   <biblScope type="issue">no. 1079</biblScope> 
                   <biblScope type="pages">p. 248</biblScope> 
                   <date value="1861-03-16">March 16, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/327</idno></bibl>
                <p>
                   <hi rend="center">THE HON. JEFFERSON DAVIS.</hi>
                </p>
@@ -3655,7 +3648,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 248</biblScope> 
                   <date value="1861-03-16">March 16,
 1861</date> 
-               <extent>6 paragraphs</extent></bibl>
+               <extent>6 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/339</idno></bibl>
                <p>
                   <hi rend="center">GENERAL SCOTT.</hi>
                </p>
@@ -3749,7 +3742,7 @@ Illustrated London News</title>
                   <biblScope type="issue">no. 1079</biblScope> 
                   <biblScope type="pages">p. 249</biblScope> 
                   <date value="1861-03-16">March 16, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/34c</idno></bibl>
                <p>
                   <hi rend="center">A RAILWAY STATION IN THE SOUTHERN STATES
 OF AMERICA.</hi>
@@ -3762,7 +3755,7 @@ from Charleston to Montgomery, as he jolts and thunders over the
 single track, will pass scores of these primeval Doric structures,
 isolated in some black swamp, where the protruding, charred pine
 stumps alone remind him of the forest long since felled by that brave
-old woodman, Caloric.  As the train approaches the d&#x00E9;p&#x00F4;t a person
+old woodman, Caloric.  As the train approaches the d&#xE9;p&#xF4;t a person
 rushes from somewhere with a blazing pineknot, which he brandishes
 high in air.  This dab of lurid light is the Southern substitute for
 all the complicated apparatus of red and green bulls-eyes, signs,
@@ -3781,7 +3774,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 250</biblScope> 
                   <date value="1861-03-16">March 16,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/35f</idno></bibl>
                <p>
                   <figure entity="v38p250" width="545" height="377" ana="money">
                      <head>Railway Station in
@@ -3798,7 +3791,7 @@ Georgia, America.&#x2014;See Preceding Page.</head>
                   <biblScope type="issue">no. 1080</biblScope> 
                   <biblScope type="pages">p. 256</biblScope> 
                   <date value="1861-03-23">March 23, 1861</date> 
-               <extent>18 paragraphs</extent></bibl>
+               <extent>18 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/36h</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>
                   AMERICA.<lb/>
 
@@ -3897,7 +3890,7 @@ News</title>
                   <biblScope type="issue">no. 1080</biblScope> 
                   <biblScope type="pages">p. 260</biblScope> 
                   <date value="1861-03-23">March 23, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/37k</idno></bibl>
                <p rend="center"><hi rend="italic">LONDON, SATURDAY, MARCH 23, 1861.</hi>
                </p>
                <p><hi rend="smallcap">If</hi>
@@ -3995,10 +3988,9 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 266</biblScope> 
                   <date value="1861-03-23">March 23,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/38n</idno></bibl>
                <p>
-                  <figure entity="v38p266" width="1169" height="845"
-			  ana="ps pg">
+                  <figure entity="v38p266" width="1169" height="845" ana="ps pg">
                      <head>The Crowd at
 Baltimore Waiting for Mr. Lincoln, President of the United
 States</head>
@@ -4018,7 +4010,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 267</biblScope> 
                   <date value="1861-03-23">March 23,
 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/39q</idno></bibl>
                <p>
                   <hi rend="center">THE CROWD WAITING FOR MR.
 LINCOLN AT BALTIMORE.</hi>
@@ -4033,7 +4025,7 @@ greater part of the day on the 23rd ult., to catch a glimpse of the
 new President.  At the Calvert Station, where he was expected from
 Harrisburg, there was an assemblage of persons such as had probably
 never before been seen in that city.  At one o'clock it was impossible
-to approach within a square of the d&#x00E9;p&#x00F4;t from any direction, and the
+to approach within a square of the d&#xE9;p&#xF4;t from any direction, and the
 ascent of Franklin-street was crowded up to Courtland-street.  We
 engrave on page 266 a lively sketch of the busy scene forwarded by a
 Correspondent.  The crowds were, however, doomed to disappointment.
@@ -4075,10 +4067,9 @@ London News</title>
                   <biblScope type="pages">p. 267</biblScope> 
                   <date value="1861-03-23">March 23,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3bs</idno></bibl>
                <p>
-                  <figure entity="v38p267" width="641" height="623"
-			  ana="ps pg">
+                  <figure entity="v38p267" width="641" height="623" ana="ps pg">
                      <head>The Inauguration of
 the Hon. Jefferson Davis as President of the Provisional Government of
 the New Southern Confederacy of America.</head>
@@ -4095,7 +4086,7 @@ the New Southern Confederacy of America.</head>
 1080</biblScope> 
                   <biblScope type="pages">p. 267</biblScope> 
                   <date value="1861-03-23">March 23, 1861</date> 
-               <extent>5 paragraphs</extent></bibl>
+               <extent>5 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3cv</idno></bibl>
                <p>
                   <hi rend="center">THE INAUGURATION OF PRESIDENT DAVIS.</hi>
                </p>
@@ -4109,7 +4100,7 @@ is sitting, and in which town the inaugural ceremony took place&#x2014;on
 Saturday, the 16th of February last. His trip from his home in
 Mississippi was one continuous ovation.  At twenty-four different
 places along his route he was called out, and made speeches in return
-for complimentary addresses.  At various d&#x00E9;p&#x00F4;ts, also, salutes were
+for complimentary addresses.  At various d&#xE9;p&#xF4;ts, also, salutes were
 fired by local military companies.  The Committee of Congress and the
 Montgomery authorities met the new President about eighty miles off,
 and formally received him.  Two fine military companies from Columbus,
@@ -4124,7 +4115,7 @@ was alive, from early morning, with delegations from the various
 States and people from the adjoining country, and the Capitol Hill was
 filled with the beauty and chivalry of the South.  A large number of
 military companies from this State, Mississippi, and Georgia were also
-present, and gave &#x00E9;clat to the occasion.  The oath of office was
+present, and gave &#xE9;clat to the occasion.  The oath of office was
 administered to the President by the Chief Justice of Alabama in the
 principal hall of the Capitol.  In his immediate presence were the
 members of the Southern Congress, now in session at Montgomery, the
@@ -4166,7 +4157,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 272</biblScope> 
                   <date value="1861-03-23">March 23,
 1861</date> 
-               <extent>27 paragraphs</extent></bibl>
+               <extent>27 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3dx</idno></bibl>
                <p rend="center">PRESIDENT LINCOLN'S INAUGURAL
 ADDRESS.<lb/>
 
@@ -4514,7 +4505,7 @@ as surely they will be, by the better angels of our nature.</p>
 1080</biblScope> 
                   <biblScope type="pages">p. 272</biblScope> 
                   <date value="1861-03-23">March 23, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3f0</idno></bibl>
                <p>THE UNITED STATES'
 NAVY.&#x2014;Mr. Dowes, of Massachusetts, from the Committee of the House of
 Representatives to whom was referred the President's message of Jan.
@@ -4549,7 +4540,7 @@ Camp Meeting]</head>
                   <biblScope type="issue">no. 1081</biblScope> 
                   <biblScope type="pages">p. 280</biblScope> 
                   <date value="1861-03-30">March 30, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3g2</idno></bibl>
                <p>An American paper states that at a camp meeting recently held near
 West Baltimore, Montgomery country, Ohio, Bishop Russell forbade any
 one with hoops on to partake of the sacrament, affirming that they
@@ -4565,7 +4556,7 @@ would not be welcome to the table of the Lord.</p>
 1081</biblScope> 
                   <biblScope type="pages">p. 280</biblScope> 
                   <date value="1861-03-30">March 30, 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3h4</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi>
                   <lb/>AMERICA.
                </p>
@@ -4612,7 +4603,7 @@ year."</p>
 1081</biblScope> 
                   <biblScope type="pages">p. 284</biblScope> 
                   <date value="1861-03-30">March 30, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3j6</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, MARCH 30, 1861.</hi>
                </p>
@@ -4653,10 +4644,9 @@ News</title>
                   <biblScope type="issue">no. 1081</biblScope> 
                   <biblScope type="pages">p. 299</biblScope> 
                   <date value="1861-03-30">March 30, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3k8</idno></bibl>
                <p>
-                  <figure entity="v38p299" width="1454" height="1029"
-			  ana="ps pg">
+                  <figure entity="v38p299" width="1454" height="1029" ana="ps pg">
                      <head>President Lincoln Delivering his
 Inaugural Address in Front of the Capitol at Washington.&#x2014;<hi rend="small">See next
 page</hi>.</head>
@@ -4675,7 +4665,7 @@ London News</title>
                   <biblScope type="pages">p. 300</biblScope> 
                   <date value="1861-03-30">March 30,
 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3mb</idno></bibl>
                <p>
                   <hi rend="center">THE INAUGURATION OF PRESIDENT
 LINCOLN.</hi>
@@ -4729,7 +4719,7 @@ London News</title>
                   <biblScope type="pages">p. 304</biblScope> 
                   <date value="1861-04-06">April 6,
 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3nd</idno></bibl>
                <p>
                   <hi rend="center">FINANCE-PAST AND
 EXPECTED.</hi>
@@ -4768,7 +4758,7 @@ News</title>
                   <biblScope type="issue">no. 1082</biblScope> 
                   <biblScope type="pages">p. 304</biblScope> 
                   <date value="1861-04-06">April 6, 1861</date> 
-               <extent>12 paragraphs</extent></bibl>
+               <extent>12 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3pg</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 	       NEWS.</hi><lb/>AMERICA.<lb/>THE UNITED STATES.
                </p>
@@ -4830,7 +4820,7 @@ London News</title>
                   <biblScope type="pages">pp. 306-307</biblScope> 
                   <date value="1861-04-06">April 6,
 1861</date> 
-               <extent>11 paragraphs</extent></bibl>
+               <extent>11 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3qj</idno></bibl>
                <p>
                   <hi rend="center">RAILWAY-CARS IN
 AMERICA.</hi>
@@ -4960,7 +4950,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 307</biblScope> 
                   <date value="1861-04-06">April 6,
 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3rm</idno></bibl>
                <p>
                   <hi rend="center">THE DANDY SLAVE.</hi>
                </p>
@@ -5005,7 +4995,7 @@ News</title>
                   <biblScope type="issue">no. 1082</biblScope> 
                   <biblScope type="pages">p. 307</biblScope> 
                   <date value="1861-04-06">April 6, 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3sp</idno></bibl>
                <p>
                   <hi rend="center">SLAVES FOR SALE.</hi>
                </p>
@@ -5041,7 +5031,7 @@ News</title>
                   <biblScope type="issue">no. 1082</biblScope> 
                   <biblScope type="pages">p. 310</biblScope> 
                   <date value="1861-04-06">April 6, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3tr</idno></bibl>
                <p>
                   <figure entity="v38p310" width="1185" height="860" ana="ps">
                      <head> A Scene in the Hall of Representatives
@@ -5059,7 +5049,7 @@ Washington.&#x2014;<hi rend="small">See supplement, page 320.</hi></head>
 1082</biblScope> 
                   <biblScope type="pages">p. 320</biblScope> 
                   <date value="1861-04-06">April 6, 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3vt</idno></bibl>
                <p>
                   <hi rend="center">THE HALL OF REPRESENTATIVES, WASHINGTON.</hi>
                </p>
@@ -5119,7 +5109,7 @@ London News</title>
                   <biblScope type="pages">p. 320</biblScope> 
                   <date value="1861-04-06">April 6,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3ww</idno></bibl>
                <p>REMARKABLE MARRIAGE CASE.&#x2014;A singular trial has
 just terminated in the United States, by which a lady named Gaines,
 after thirty years' litigation, has become the richest woman in
@@ -5127,7 +5117,7 @@ America.  One of the earliest settlers in Louisiana was Daniel Clark,
 who was at the head of the monetary and social circle of that State on
 account of his great business talents, wealth, and agreeable person
 and manners.   In 1802 he married secretly a beautiful Frenchwoman,
-named Zulime Carri&#x00E8;re.  She had been married to a Jerome de Grange,
+named Zulime Carri&#xE8;re.  She had been married to a Jerome de Grange,
 who had represented himself as a nobleman, but who turned out to be a
 confectioner, and likewise a bigamist.  In 1806 Zulime had a daughter
 by Clark, named Myra, the present Mrs. Gaines.  Zulime went to New
@@ -5135,7 +5125,7 @@ Orleans to obtain proofs of her first husband's rascality, in order to
 be enabled to have her marriage with Daniel Clark made public, and
 while she was gone Clark became enamoured with a Miss Caton, and was
 engaged to marry her.  She, however, heard of his marriage with Zulime
-Carri&#x00E8;re, and the engagement was broken off.  Miss Caton afterwards
+Carri&#xE8;re, and the engagement was broken off.  Miss Caton afterwards
 became Marchioness Wellesley.  Clark, in order to marry Miss Caton,
 had destroyed every documentary proof of his marriage with Zulime that
 he could lay hold of, and when she returned from New Orleans he
@@ -5144,7 +5134,7 @@ Gardette protected and married her.  Clark afterwards repented, and
 took his daughter, Mrs. Gaines, and had her educated.  He died in
 1813, and the immense fortune he amassed in Louisiana, Missouri,
 Kentucky, and Maryland, he left to his mother.  His wife, Zulime
-Carri&#x00E8;re, died a few years since at New Orleans, nearly eighty years
+Carri&#xE8;re, died a few years since at New Orleans, nearly eighty years
 of age.  Myra, her daughter, married a Mr. Whitney, and afterwards
 General Gaines, and her whole life has been devoted in establishing
 the legitimacy of her birth, the honour of her mother, and her claims
@@ -5160,7 +5150,7 @@ succeeded in doing this.</p>
                   <biblScope type="issue">no. 1083</biblScope> 
                   <biblScope type="pages">p. 328</biblScope> 
                   <date value="1861-04-13">April 13, 1861</date> 
-               <extent>4 paragraphs</extent></bibl>
+               <extent>4 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3xz</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.
                </p>
                <p>The latest news from America
@@ -5218,7 +5208,7 @@ London News</title>
                   <biblScope type="pages">p. 328</biblScope> 
                   <date value="1861-04-13">April 13,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/3z1</idno></bibl>
                <p>The report of the murder of the Secretary of
 the American Legation at Jeddo proves to be well founded.</p>
 
@@ -5232,7 +5222,7 @@ the American Legation at Jeddo proves to be well founded.</p>
 1083</biblScope> 
                   <biblScope type="pages">p. 328</biblScope> 
                   <date value="1861-04-13">April 13, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/404</idno></bibl>
                <p>The <title>New
 York Herald</title> devotes a column to a report of an international
 "dog fight" between the English dog Bess and the American dog Rosie.
@@ -5248,7 +5238,7 @@ The former was an easy victor.</p>
 1083</biblScope> 
                   <biblScope type="pages">p. 344</biblScope> 
                   <date value="1861-04-13">April 13, 1861</date> 
-               <extent>5 paragraphs</extent></bibl>
+               <extent>5 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/416</idno></bibl>
                <p>
                   <hi rend="center">THE FLAG ADOPTED BY THE NEW SOUTHERN </hi> 
                   <lb/>
@@ -5348,7 +5338,7 @@ London News</title>
                   <biblScope type="pages">p. 344</biblScope> 
                   <date value="1861-04-13">April 13,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/428</idno></bibl>
                <p>THE FLAG OF SOUTH CAROLINA.&#x2014;The
 <title>Charleston Mercury</title> of the 29th of January last
 says:&#x2014;"The Legislature last night again altered the design of the
@@ -5367,13 +5357,13 @@ Enterprise</head>
                   <biblScope type="issue">no. 1083</biblScope> 
                   <biblScope type="pages">p. 353</biblScope> 
                   <date value="1861-04-13">April 13, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/43b</idno></bibl>
                <p>NEW YORK NEWSPAPER ENTERPRISE.&#x2014;The leading New York daily papers
 sell all at two cents, or one penny, per copy.  This does not,
 however, prevent their taking advantage of the quickest, and therefore
 most expensive methods of obtaining the news from all parts of the
 world. The telegraphs are almost monopolised by the newspapers, and
-sometimes more than  &#x00A3;500 is paid for telegrams in a day by a single
+sometimes more than  &#xA3;500 is paid for telegrams in a day by a single
 journal. Notwithstanding the enormous daily cost of publishing a
 <title>Herald</title>, a <title>Tribune</title>, or a
 <title>Times</title>, these journals are yielding princely revenues to
@@ -5393,7 +5383,7 @@ plan for the weekly and semi-weekly several months ago.  The aggregate
 weekly circulation of the daily, weekly and semi-weekly
 <title>Tribune</title> is stated to be 640,000 copies.  The estimated
 profits of the <title>Herald</title> and <title>Tribune</title> are
-about 100,000 dollars, or  &#x00A3;21,000 each.  The <title>Evening
+about 100,000 dollars, or  &#xA3;21,000 each.  The <title>Evening
 Post</title> is, perhaps, the most profitable of the old style
 four-paged journals. It divided, we notice, 69,000 dollars profits
 last year between its proprietors.  Some of the purely weekly papers
@@ -5415,7 +5405,7 @@ issue.&#x2014;<title>London American</title>.</p>
                   <biblScope type="issue">no. 1085</biblScope> 
                   <biblScope type="pages">p. 361</biblScope> 
                   <date value="1861-04-20">April 20, 1861</date> 
-               <extent>8 paragraphs</extent></bibl>
+               <extent>8 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/44d</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 	       NEWS.</hi><lb/>AMERICA.
                </p>
@@ -5467,7 +5457,7 @@ the Southern States.</p>
 1085</biblScope> 
                   <biblScope type="pages">p. 361</biblScope> 
                   <date value="1861-04-20">April 20, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/45g</idno></bibl>
                <p>
                   <hi rend="center">CANADA.</hi>
                </p>
@@ -5486,7 +5476,7 @@ News</title>
                   <biblScope type="issue">no. 1085</biblScope> 
                   <biblScope type="pages">p. 361</biblScope> 
                   <date value="1861-04-20">April 20, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/46j</idno></bibl>
                <p>The city of Aurora, in Indiana, U.S., has been for some time
 brilliantly lighted with gas made from water.  The gas is almost
 odourless, very brilliant, and one-third cheaper than the gas from
@@ -5502,7 +5492,7 @@ coal and resin.</p>
 1085</biblScope> 
                   <biblScope type="pages">p. 368</biblScope> 
                   <date value="1861-04-20">April 20, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/47m</idno></bibl>
                <p>The United States'
 navy at the present time consists of 99 ships&#x2014;viz., 42 steamers and 57
 sailing-vessels.  About 20 out of the 99 are service men-of-war of the
@@ -5523,7 +5513,7 @@ London News</title>
                   <biblScope type="pages">p. 384</biblScope> 
                   <date value="1861-04-27">April 27,
 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/48p</idno></bibl>
                <p>
                   <hi rend="center">LATEST NEWS FROM
 ABROAD.</hi>
@@ -5568,7 +5558,7 @@ News</title>
                   <biblScope type="issue">no. 1086</biblScope> 
                   <biblScope type="pages">p. 384</biblScope> 
                   <date value="1861-04-27">April 27, 1861</date> 
-               <extent>5 paragraphs</extent></bibl>
+               <extent>5 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/49r</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>AMERICA.
                </p>
                <p>President Lincoln's
@@ -5605,7 +5595,7 @@ Illustrated London News</title>
                   <biblScope type="pages">p. 389</biblScope> 
                   <date value="1861-04-27">April 27,
 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4bt</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY APRIL 27,
 1861.</hi>
@@ -5630,7 +5620,7 @@ jury gave a verdict of 2000 dollars."</p>
 1087</biblScope> 
                   <biblScope type="pages">pp. 407-408</biblScope> 
                   <date value="1861-05-04">May, 4, 1861</date> 
-               <extent>6 paragraphs</extent></bibl>
+               <extent>6 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4cw</idno></bibl>
                <p>
                   <hi rend="center">THE STATE OF AFFAIRS IN AMERICA.</hi>
                </p>
@@ -5812,7 +5802,7 @@ thinking men in the old country.</p>
 1087</biblScope> 
                   <biblScope type="pages">p. 408</biblScope> 
                   <date value="1861-05-04">May 4, 1861</date> 
-               <extent>9 paragraphs</extent></bibl>
+               <extent>9 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4dz</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.
                </p>
                <p>The startling news was received
@@ -5938,7 +5928,7 @@ London News</title>
                   <biblScope type="pages">p. 412</biblScope> 
                   <date value="1861-05-04">May 4,
 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4f1</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, MAY 4,
 1861</hi>
@@ -5984,7 +5974,7 @@ Times</title>.</p>
 1087</biblScope> 
                   <biblScope type="pages">p. 414</biblScope> 
                   <date value="1861-05-04">May 4, 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4g3</idno></bibl>
                <p>
                   <hi rend="center">THE
 HON. A. DUDLEY MANN.</hi>
@@ -6032,7 +6022,7 @@ Photograph by John Watkins.</head>
 1087</biblScope> 
                   <biblScope type="pages">p. 423</biblScope> 
                   <date value="1861-05-04">May 4, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4h5</idno></bibl>
                <p>
                   <figure entity="v38p423" width="1029" height="1458" ana="money">
                      <head>Loading Cotton on the Alabama River.  (1)
@@ -6054,7 +6044,7 @@ London News</title>
                   <biblScope type="pages">p. 424</biblScope> 
                   <date value="1861-05-04">May 4,
 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4j7</idno></bibl>
                <p>
                   <hi rend="center">LOADING COTTON ON THE ALABAMA
 RIVER.</hi>
@@ -6136,7 +6126,7 @@ singers]</head>
                   <biblScope type="issue">no. 1087</biblScope> 
                   <biblScope type="pages">p. 424</biblScope> 
                   <date value="1861-05-04">May 4, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4k9</idno></bibl>
                <p>An American company of strolling singers, called the Alleghanians,
 gave in December last, in the Island of Hewey, one of Cook's
 Archipelago, a grand concert, which was attended by the King of the
@@ -6162,7 +6152,7 @@ News</title>
                   <biblScope type="issue">no. 1088</biblScope> 
                   <biblScope type="pages">p. 432</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
-               <extent>12 paragraphs</extent></bibl>
+               <extent>12 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4mc</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS.</hi><lb/>AMERICA.
                </p>
                <p>The latest news from America
@@ -6243,7 +6233,7 @@ Place]</head>
                   <biblScope type="issue">no. 1088</biblScope> 
                   <biblScope type="pages">p. 432</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4nf</idno></bibl>
                <p>A fearful explosion has taken place at the oil-wells in Buchanan
 Farm, Pennsylvania.  Fifteen persons were killed, and the oil-wells
 were on fire.</p>
@@ -6259,7 +6249,7 @@ New York Tribune Relates the Recovery of a Woman]</head>
 1088</biblScope> 
                   <biblScope type="pages">p. 432</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4ph</idno></bibl>
                <p>The <title>New York
 Tribune</title> relates the recovery of a woman from the Comanche
 tribe of Indians who had been stolen by them when nine years old, and
@@ -6277,7 +6267,7 @@ News</title>
                   <biblScope type="issue">no. 1088</biblScope> 
                   <biblScope type="pages">p. 433</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4qk</idno></bibl>
                <p>Agents have arrived from America in Europe to purchase rifled
 cannon of the Armstrong, Clay, and Blakely patterns, also nearly
 200,000 rifles and revolvers for immediate shipment.</p>
@@ -6293,7 +6283,7 @@ London News</title>
                   <biblScope type="pages">p. 433</biblScope> 
                   <date value="1861-05-11">May 11,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4rn</idno></bibl>
                <p>AN IMPORTANT CORRECTION.&#x2014;Governor Weller will
 probably be pleased with the following correction, which appears in
 the New York <title>Times</title> of the 21st ult., in the despatch of
@@ -6311,7 +6301,7 @@ Anderson</head>
                   <biblScope type="issue">no. 1088</biblScope> 
                   <biblScope type="pages">p. 433</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
-               <extent>6 paragraphs</extent></bibl>
+               <extent>6 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4sq</idno></bibl>
                <p>
                   <hi rend="center">MAJOR ANDERSON.</hi>
                </p>
@@ -6363,8 +6353,7 @@ General Beauregard, being the same offered by him on the 11th inst.,
 prior to the commencement of hostilities; and marched out of the fort
 on Sunday afternoon, the 14th inst., with colours flying and drums
 beating, bringing away the company and private property, and saluting
-my flag with fifty guns.   <lb/>(Signed),</p> 	<p
-rend="center">ROBERT ANDERSON,<lb/>Major, 1st Artillery.
+my flag with fifty guns.   <lb/>(Signed),</p> 	<p rend="center">ROBERT ANDERSON,<lb/>Major, 1st Artillery.
                </p>
                <p>Major Anderson landed at the Battery, New York,
 on the 18th ult., and was received by an immense crowd.  His carriage
@@ -6396,7 +6385,7 @@ and men of position, reside.</p>
 1088</biblScope> 
                   <biblScope type="pages">p. 434</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4ts</idno></bibl>
                <p>
                   <figure entity="v38p434" width="1018" height="1358" ana="pic">
                      <head>Major Anderson, Late Commandant of Fort Sumter
@@ -6414,10 +6403,9 @@ Charleston Harbour&#x2014;<hi rend="smallcap">See preceding page.</hi></head>
 1088</biblScope> 
                   <biblScope type="pages">p. 435</biblScope> 
                   <date value="1861-05-11">May 11, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4vv</idno></bibl>
                <p>
-                  <figure entity="v38p435" width="1458" height="1044"
-			  ana="insta naval">
+                  <figure entity="v38p435" width="1458" height="1044" ana="insta naval">
                      <head>The Main Battery at Fort Sumter   Guns Bearing on
 Fort Moultrie and the Channel During the Action of Friday April 12</head>
                   </figure>
@@ -6434,7 +6422,7 @@ London News</title>
                   <biblScope type="pages">p. 436</biblScope> 
                   <date value="1861-05-11">May 11,
 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4wx</idno></bibl>
                <p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY 11,
 1861.  </hi>
                </p>
@@ -6474,7 +6462,7 @@ speculation out of date.</p>
 1089</biblScope> 
                   <biblScope type="pages">pp. 455-456</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
-               <extent>6 paragraphs</extent></bibl>
+               <extent>6 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4x0</idno></bibl>
                <p>
                   <hi rend="center">THE SECESSION OF VIRGINIA, AND THE AMERICAN CIVIL
 WAR.</hi>
@@ -6704,7 +6692,7 @@ still passing before our eyes.</p>
                   <biblScope type="issue">no. 1089</biblScope> 
                   <biblScope type="pages">p. 456</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
-               <extent>6 paragraphs</extent></bibl>
+               <extent>6 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/4z2</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>THE CIVIL WAR IN AMERICA.
                </p>
                <p>No further
@@ -6773,7 +6761,7 @@ News</title>
                   <biblScope type="issue">no. 1089</biblScope> 
                   <biblScope type="pages">p. 456</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/505</idno></bibl>
                <p>Tuesday's <title>Gazette</title> contains the Royal proclamation
 enjoining the observance, on the part of British subjects, of a strict
 neutrality in regard to the hostilities which have broken out between
@@ -6796,7 +6784,7 @@ Sligo Journal States that Hundreds of Irish Families]</head>
 1089</biblScope> 
                   <biblScope type="pages">p. 456</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/517</idno></bibl>
                <p>The <title>Sligo
 Journal</title> states that hundreds of Irish families are selling off
 their property in the United States and returning home.</p>
@@ -6811,7 +6799,7 @@ Potomac</head>
                   <biblScope type="issue">no. 1089</biblScope> 
                   <biblScope type="pages">pp. 458-460</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date>
-               <extent>6 paragraphs</extent></bibl>
+               <extent>6 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/529</idno></bibl>
                <p>
                   <hi rend="center">THE POTOMAC.</hi>
                </p>
@@ -6839,8 +6827,7 @@ emerging from between the high and rocky banks which confine its
 channel above Georgetown, it begins to spread out in front <pb n="459"/>
                </p>
                <p>
-                  <figure entity="v38p459" width="1025" height="1458"
-			  ana="land insta">
+                  <figure entity="v38p459" width="1025" height="1458" ana="land insta">
                      <head>Views on the Potomac Below
 Washington.&#x2014;From Sketches by our Special Artist.  1. The Potomac at
 Washington.  2. Fort Washington.  3.  General View of the Potomac
@@ -6903,7 +6890,7 @@ higher.</p>
 1089</biblScope> 
                   <biblScope type="pages">pp. 466-467</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
-               <extent>5 paragraphs</extent></bibl>
+               <extent>5 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/53c</idno></bibl>
                <p>
                   <figure entity="v38p466" width="1358" height="1018" ana="money">
                      <head>The Baltimore and Ohio Railway: Tray Run
@@ -7017,7 +7004,7 @@ been passed over on one occasion in about twenty minutes.</p>
 1089</biblScope> 
                   <biblScope type="pages">p. 467</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/54f</idno></bibl>
                <p>
                   <hi rend="center">MASS MEETING IN UNION-SQUARE, NEW YORK.</hi>
                </p>
@@ -7050,7 +7037,7 @@ communication with the capital cut off.  At two o'clock the current
 began to move up town.  The great Union meeting took place in
 Union-square at three o'clock.  I have seen many large popular
 gatherings in Europe&#x2014;the opening of the Great Exhibition, its closing
-days; the funeral of the Duke of Wellington; the f&#x00EA;te of the Eagles in
+days; the funeral of the Duke of Wellington; the f&#xEA;te of the Eagles in
 Paris, for instance&#x2014;but I have never seen elsewhere so great, so
 orderly, or so earnest a crowd as that of Saturday in Union-square.
 The people of this great town were there in full force, realising the
@@ -7075,10 +7062,9 @@ could say."</p>
 1089</biblScope> 
                   <biblScope type="pages">p. 471</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/55h</idno></bibl>
                <p>
-                  <figure entity="v38p471" width="549" height="457"
-			  ana="ps pg">
+                  <figure entity="v38p471" width="549" height="457" ana="ps pg">
                      <head>The "Union" Mass Meeting held in Union-Square, New
 York on the 20th of April&#x2014;<hi rend="small">See page 467</hi>.</head>
                   </figure>
@@ -7094,7 +7080,7 @@ York on the 20th of April&#x2014;<hi rend="small">See page 467</hi>.</head>
 1089</biblScope> 
                   <biblScope type="pages">p. 476</biblScope> 
                   <date value="1861-05-18">May 18, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/56k</idno></bibl>
                <p>A large number of
 envelopes of letters now used in the Northern States of America have
 "God Bless the Union!" printed on them.  Many have on them also the
@@ -7114,7 +7100,7 @@ London News</title>
                   <biblScope type="pages">p. 479</biblScope> 
                   <date value="1861-05-25">May 25,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/57n</idno></bibl>
                <p>
                   <figure entity="v38p479" width="1458" height="1025" ana="land">
                      <head>Harper's Ferry,
@@ -7131,7 +7117,7 @@ Virginia.&#x2014;See supplement, page 496.</head>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">p. 480</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/58q</idno></bibl>
                <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>FRANCE.
                </p>
                <p>. . .On Monday Mr. William
@@ -7157,7 +7143,7 @@ News</title>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">p. 480</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/59s</idno></bibl>
                <p>It is stated in the American papers that arms have been smuggled
 into the Southern States in coffins.</p>
 
@@ -7172,7 +7158,7 @@ London News</title>
                   <biblScope type="pages">p. 481</biblScope> 
                   <date value="1861-05-25">May 25,
 1861</date> 
-               <extent>7 paragraphs</extent></bibl>
+               <extent>7 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5bv</idno></bibl>
                <p>
                   <hi rend="center">THE CIVIL WAR IN
 AMERICA.</hi>
@@ -7307,7 +7293,7 @@ subjugation of the rebels than the Republicans.</p>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">p. 484</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5cx</idno></bibl>
                <p rend="center"><hi rend="italic">LONDON, SATURDAY, MAY</hi> 25, 1861.
                </p>
                <p>. .
@@ -7349,7 +7335,7 @@ the war-cry before which Napoleon went down at Waterloo."</p>
 1090</biblScope> 
                   <biblScope type="pages">p. 485</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date>
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5d0</idno></bibl>
                <p>The post-office authorities of
 the United States have just enacted a law that packets of cards, blank
 or printed, not less than eight ounces in weight, and packets of seeds
@@ -7369,10 +7355,9 @@ News</title>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">pp. 486-487</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date>
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5f2</idno></bibl>
                <p>
-                  <figure entity="v38p486-487" width="983"
-			  height="669" ana="wash">
+                  <figure entity="v38p486-487" width="983" height="669" ana="wash">
                      <head>Birdseye View of the City of
 Washington, with the Capitol in the Foreground.&#x2014;<hi rend="small">See supplement, page
 496.</hi></head>
@@ -7389,7 +7374,7 @@ Virginia</head>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">p. 496</biblScope> 
                   <date value="1861-06-25"> May 25, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5g4</idno></bibl>
                <p>
                   <hi rend="center">HARPER'S FERRY, VIRGINIA.</hi>
                </p>
@@ -7437,7 +7422,7 @@ London News</title>
                   <biblScope type="pages">p. 496</biblScope> 
                   <date value="1861-05-25">May 25,
 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5h6</idno></bibl>
                <p>
                   <hi rend="center">THE CITY OF
 WASHINGTON.</hi>
@@ -7464,7 +7449,7 @@ marble, and is an immense mass of columns, pilasters, pediments, of
 the Corinthian order, all to be entirely crushed in effect by the huge
 dome now erecting over the centre portion.  The central portico and
 the left wings are portions of the old Capitol, above which was
-originally built a dome of dimensions in proportion with the fa&#x00E7;ade
+originally built a dome of dimensions in proportion with the fa&#xE7;ade
 below.  As great additions are now being made at each end of the
 original block, its length being doubled, the architects have thought
 that the same liberty might be taken in adding to the height of the
@@ -7515,7 +7500,7 @@ Illustrated London News</title>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">p. 496</biblScope> 
                   <date value="1861-05-25"> May 25, 1861</date>
-               <extent>14 paragraphs</extent></bibl>
+               <extent>14 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5j8</idno></bibl>
                <p rend="center">THE AMERICAN REVOLUTION.<lb/><hi rend="small">THE BORDER SLAVE
 STATES.</hi>
                </p>
@@ -7738,10 +7723,9 @@ forcing on the attention of mankind.</p>
 1090</biblScope> 
                   <biblScope type="pages">p. 498</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5kb</idno></bibl>
                <p>
-                  <figure entity="v38p498" width="2265" height="1662"
-			  ana="ps pg">
+                  <figure entity="v38p498" width="2265" height="1662" ana="ps pg">
                      <head>The War Excitement in New York: Scene in Front of a
 Fire-Engine House.&#x2014;<hi rend="small">See page 500.</hi></head>
                   </figure>
@@ -7758,7 +7742,7 @@ London News</title>
                   <biblScope type="pages">p. 499</biblScope> 
                   <date value="1861-05-25">May 25,
 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5md</idno></bibl>
                <p>
                   <figure entity="v38p499a" width="1392" height="991" ana="insta">
                      <head>The Civil War in
@@ -7777,7 +7761,7 @@ Arkansas</head>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">p. 499</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5ng</idno></bibl>
                <p>
                   <figure entity="v38p499b" width="983" height="1458" ana="insta">
                      <head>Fort Smith, Arkansas, recently captured
@@ -7796,7 +7780,7 @@ Virginia</head>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">pp. 499-500</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5pj</idno></bibl>
                <p>
                   <hi rend="center">FORT MONROE, VIRGINIA.</hi>
                </p>
@@ -7842,7 +7826,7 @@ in New York</head>
                   <biblScope type="issue">no. 1090</biblScope> 
                   <biblScope type="pages">p. 500</biblScope> 
                   <date value="1861-05-25">May 25, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5qm</idno></bibl>
                <p>
                   <hi rend="center">FRONT OF A FIRE-ENGINE HOUSE IN NEW
 YORK.</hi>
@@ -7873,7 +7857,7 @@ States</head>
                   <biblScope type="issue">no. 1091</biblScope> 
                   <biblScope type="pages">pp. 503-504</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date>
-               <extent>11 paragraphs</extent></bibl>
+               <extent>11 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5rp</idno></bibl>
                <p rend="center">THE GROWTH OF THE UNITED STATES
                   <lb/>
                   <hi rend="small">FROM 1780 TO 1860.</hi>
@@ -8038,7 +8022,7 @@ News</title>
                   <biblScope type="issue">no. 1091</biblScope> 
                   <biblScope type="pages">p. 504</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5sr</idno></bibl>
                <p>The San Francisco papers say that the richest gold-mines yet
 discovered are the Pino Alto mines, in the Arezona [sic] territory.
 They are located on the summit of the Sierra Madae [sic], and are
@@ -8056,7 +8040,7 @@ inhabitants.</p>
 1091</biblScope> 
                   <biblScope type="pages">pp. 504-505</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date> 
-               <extent>45 paragraphs</extent></bibl>
+               <extent>45 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5tt</idno></bibl>
                <p>
                   <hi rend="center">THE CIVIL WAR IN AMERICA.</hi>
                </p>
@@ -8452,7 +8436,7 @@ News</title>
                   <biblScope type="issue">no. 1091</biblScope> 
                   <biblScope type="pages">p. 509</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5vw</idno></bibl>
                <p>
                   <hi rend="center">LONDON, SATURDAY, JUNE 1, 1861.</hi>
                </p>
@@ -8474,7 +8458,7 @@ Flag]</head>
                   <biblScope type="issue">no. 1091</biblScope> 
                   <biblScope type="pages">p. 513</biblScope> 
                   <date value="1861-06-01">June 1, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5wz</idno></bibl>
                <p>A vessel displaying the flag of the Confederate States of America
 entered the Mersey one day last week.</p>
 
@@ -8489,7 +8473,7 @@ News</title>
                   <biblScope type="issue">no. 1092</biblScope> 
                   <biblScope type="pages">pp. 519-520</biblScope> 
                   <date value="1861-06-08">June 8, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5x1</idno></bibl>
                <p rend="center">THE FUTURE OF COTTON.
                </p>
                <p><hi rend="smallcap">That</hi>
@@ -8541,7 +8525,7 @@ a safe and early transition to a sounder social basis. . .
 1092</biblScope> 
                   <biblScope type="pages">pp. 520-521</biblScope> 
                   <date value="1861-06-08">June 6, 1861</date> 
-               <extent>40 paragraphs</extent></bibl>
+               <extent>40 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/5z3</idno></bibl>
                <p rend="center">THE CIVIL WAR IN AMERICA.<lb/>
                   <hi rend="small">OPERATIONS ON LAND.</hi>
                </p>
@@ -8602,7 +8586,7 @@ Confederate Army at Alexandria on board.</p>
 the blockade of Charleston has been raised almost as soon as
 instituted.  The blockading vessel, Niagara, has sped southward, and
 is supposed to be off Savannah.  Several British ships have arrived in
-port, and are obtaining cotton freights at the enormous rate of 2&#x00BC;d.
+port, and are obtaining cotton freights at the enormous rate of 2&#xBC;d.
 per pound.</p><!-- 00BC should display as 1/4, but print style -->
                <p>No new Southern seaport has been sealed up during
 the week; but a New York paper gives a list of thirty-nine vessels
@@ -8650,7 +8634,7 @@ passed.</p>
                <p>Fugitives from the far South describe business at
 Charleston as almost annihilated.  Coin was very scarce. Gold only to
 be had at the banks for the payment of duties, and there at 10 per
-cent premium.  Butter was fetching 75 cents per pound (3s. 1&#x00BD;d.);
+cent premium.  Butter was fetching 75 cents per pound (3s. 1&#xBD;d.);
 ham, beef, and mutton from 25 to 30 cents; and flour, 13 dollars per
 barrel.  From Savannah the reports are similar.  Bacon, usually at 11
 cents per pound, had risen to 18 cents.  Provisions were pouring
@@ -8823,7 +8807,7 @@ Great Eastern</head>
                   <biblScope type="issue">no. 1092</biblScope> 
                   <biblScope type="pages">p. 521</biblScope> 
                   <date value="1861-06-08">June 8, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/606</idno></bibl>
                <p><hi rend="smallcap">Return of the Great Eastern</hi>.&#x2014;The great ship, which sailed from the
 quarantine, New York, at six o'clock on the morning of May 25, arrived
 off the bar at the mouth of the Mersey about nine o'clock on Monday
@@ -8861,7 +8845,7 @@ families.</p>
 1092</biblScope> 
                   <biblScope type="pages">p. 541</biblScope> 
                   <date value="1861-06-08">June 8, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/618</idno></bibl>
                <p><hi rend="smallcap">American
 Privateering</hi>.&#x2014;The following letter from Lord John Russell to the
 Lords of the Admiralty was laid before the House of Commons on Monday
@@ -8879,7 +8863,7 @@ orders in conformity with the principles above stated forthwith be
 addressed to all proper authorities in the United Kingdom, and to her
 Majesty's naval and other authorities in all quarters beyond the
 United Kingdom, for their guidance in the circumstances.  I have,
-&#x0026;c., (Signed) <hi rend="smallcap">J. Russell</hi>."  Similar letters have been addressed to
+&amp;c., (Signed) <hi rend="smallcap">J. Russell</hi>."  Similar letters have been addressed to
 the Secretaries of State for India, War, and the Colonies.&#x2014;The French
 Government has determined to act on their old law, which is in
 substance that no privateers can sell their prizes in French ports, or
@@ -8895,7 +8879,7 @@ remain there for more than twenty-four hours.</p>
 1093</biblScope> 
                   <biblScope type="pages">p. 543</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/62b</idno></bibl>
                <p>
                   <figure entity="v38p543" width="630" height="885" ana="pic">
                      <head>His Excellency Charles Francis Adams, the United
@@ -8914,7 +8898,7 @@ Colonial News</head>
                   <biblScope type="issue">no. 1093</biblScope> 
                   <biblScope type="pages">p. 544</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
-               <extent>5 paragraphs</extent></bibl>
+               <extent>5 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/63d</idno></bibl>
                <p>
                   <hi rend="center">
                      <hi rend="italic">FOREIGN AND COLONIAL
@@ -8949,7 +8933,7 @@ America</head>
                   <biblScope type="issue">no. 1093</biblScope> 
                   <biblScope type="pages">pp. 544-545</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date>
-               <extent>36 paragraphs</extent></bibl>
+               <extent>36 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/64g</idno></bibl>
                <p>
                   <hi rend="center">THE CIVIL WAR IN AMERICA.</hi>
                </p>
@@ -9172,9 +9156,8 @@ England</head>
                   <biblScope type="issue">no. 1093</biblScope> 
                   <biblScope type="pages">p. 546</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
-               <extent>3 paragraphs</extent></bibl>
-	       <p rend="center">MR. ADAMS, UNITED STATES'<lb/> <hi
-	       rend="small">MINISTER TO ENGLAND.</hi>
+               <extent>3 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/65j</idno></bibl>
+	       <p rend="center">MR. ADAMS, UNITED STATES'<lb/> <hi rend="small">MINISTER TO ENGLAND.</hi>
                </p>
                <p><hi rend="smallcap">Mr. Charles Francis Adams</hi>, of Massachusetts, the
 newly-appointed Minister of the Federal States of America to this
@@ -9204,7 +9187,7 @@ Parliament-street.</p>
                   <biblScope type="issue">no. 1093</biblScope> 
                   <biblScope type="pages">p. 548</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/66m</idno></bibl>
                <p rend="center"><hi rend="italic">LONDON, SATURDAY, JUNE</hi> 15, 1861.
                </p>
                <p>...The Emperor of the French has issued a
@@ -9249,7 +9232,7 @@ America</head>
                   <biblScope type="issue">no. 1093</biblScope> 
                   <biblScope type="pages">pp. 563-564</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date>
-               <extent>14 paragraphs</extent></bibl>
+               <extent>14 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/67p</idno></bibl>
                <p rend="center">THE CIVIL WAR IN AMERICA.
                   <hi rend="italic">(From our Special Artist and Correspondent.)</hi>
                </p>
@@ -9330,16 +9313,14 @@ in the States, how long I contemplated staying, where I was going to,
 and a host of other matters I should never have dreamt of telling.
 Astounded at this in-</p>
                <p>
-                  <figure entity="v38p563a" width="1251" height="1470"
-			  ana="blue">
+                  <figure entity="v38p563a" width="1251" height="1470" ana="blue">
                      <head>Colonel
 Ellsworth's Volunteer Regiment (The New York Firemen Zouaves).&#x2014;See
 next page.</head>
                   </figure>
                </p>
                <p>
-                  <figure entity="v38p563b" width="1917" height="1356"
-			  ana="street">
+                  <figure entity="v38p563b" width="1917" height="1356" ana="street">
                      <head>Reading the War News in Broadway, New York.&#x2014;From a
 Sketch by our Special Artist.</head>
                   </figure>
@@ -9375,14 +9356,14 @@ Boys, the Empire City Guard, and hosts of corps too numerous or too
 eccentric in their names for me to recollect.  Verily, a cosmopolitan
 army is assembled here.  As one walks he is jostled by soldiers
 dressed in the uniforms of the Zouaves de la Garde, the Chasseurs
-&#x00E0; Pied, Infanterie de la Ligne, and other French regiments&#x2014;so great,
+&#xE0; Pied, Infanterie de la Ligne, and other French regiments&#x2014;so great,
 apparently, is the admiration of our cousins for everything Gallic.  I
 must confess I should prefer to see more nationality.  In justice,
 however, to the men, I cannot do otherwise than express my unqualified
 approval of the material out of which the North is to make her patriot
 army.  Many of those I have seen marching through the streets appear
 already to have served in the field, so admirably do they bear
-themselves in their new r&#x00F4;les.  The very children have become tainted
+themselves in their new r&#xF4;les.  The very children have become tainted
 with the military epidemic, and little toddling Zouaves, three and
 four years old, strut, armed to the teeth, at their nurses'
 apronstrings.  As I write I have a corps of chasseurs composed of all
@@ -9415,7 +9396,7 @@ Zouaves</head>
                   <biblScope type="issue">no. 1093</biblScope> 
                   <biblScope type="pages">p. 564</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/68r</idno></bibl>
                <p>
                   <hi rend="center">THE NEW YORK ZOUAVES.</hi>
                </p>
@@ -9450,7 +9431,7 @@ Slave]</head>
                   <biblScope type="issue">no. 1093</biblScope> 
                   <biblScope type="pages">p. 565</biblScope> 
                   <date value="1861-06-15">June 15, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/69t</idno></bibl>
                <p>Anderson, the fugitive slave, arrived at Liverpool on Thursday
 week, in the steamer Nova Scotian.</p>
 
@@ -9464,7 +9445,7 @@ week, in the steamer Nova Scotian.</p>
 1094</biblScope> 
                   <biblScope type="pages">p. 567</biblScope> 
                   <date value="1861-06-22">June 22, 1861</date> 
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6bw</idno></bibl>
                <p>
                   <figure entity="v38p567" width="1928" height="1400" ana="blue">
                      <head>The Civil War in America: The 4th Regiment of New
@@ -9483,7 +9464,7 @@ Monroe</head>
                   <biblScope type="issue">no. 1094</biblScope> 
                   <biblScope type="pages">p. 568</biblScope> 
                   <date value="1861-06-22">June 22, 1861</date> 
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6cz</idno></bibl>
                <p>
                   <hi rend="center">EMBARKATION OF NEW YORK ZOUAVES FOR FORT
 MONROE.</hi>
@@ -9524,7 +9505,7 @@ London News</title>
                   <biblScope type="issue">no. 1094</biblScope> 
                   <biblScope type="pages">p. 568</biblScope> 
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>26 paragraphs</extent></bibl>
+               <extent>26 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6d1</idno></bibl>
                <p>
                   <hi rend="center">THE CIVIL WAR IN AMERICA.</hi>
                </p>
@@ -9565,7 +9546,7 @@ forward two regiments from Grafton to Philippa, a little town in
 Barbour County, twenty miles south of Grafton, and surprised a camp of
 Confederates there, 200 strong.  The enemy were routed with a loss of
 fifteen killed and a large amount of arms, ammunition, horses, camp
-equipage, &#x0026;c.  The Federals were continuing the pursuit.  The only
+equipage, &amp;c.  The Federals were continuing the pursuit.  The only
 casualty on the part of the latter was the wounding, but not mortally,
 of Colonel Kelly, of the 1st Virginian Volunteers.  The Ohio regiments
 are received enthusiastically by the people of trans-Alleghanian [sic]
@@ -9697,7 +9678,7 @@ nation.</p>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">p. 569</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6f3</idno></bibl>
                <p>Spain has declared her intention to
 maintain a strict neutrality in the American civil war.</p>
 
@@ -9710,7 +9691,7 @@ maintain a strict neutrality in the American civil war.</p>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">pp. 571-572</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>9 paragraphs</extent></bibl>
+               <extent>9 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6g5</idno></bibl>
                <p rend="center">THE CIVIL WAR IN AMERICA
                   <hi rend="small">THE SOUTHERN STATES. </hi>
                </p>
@@ -9841,7 +9822,7 @@ friendly concert till morning.</p>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">p. 572</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6h7</idno></bibl>
                <p rend="center"><hi rend="italic">LONDON, SATURDAY, JUNE</hi> 22, 1861.
                </p>
                <p>...Though Fort Pickens is not to be
@@ -9889,10 +9870,9 @@ the trying times that have yet to come.</p>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">p. 574</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>7 paragraphs</extent></bibl>
+               <extent>7 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6j9</idno></bibl>
                <p>
-                  <figure entity="v38p574a" width="864" height="627"
-			  ana="blue skirm">
+                  <figure entity="v38p574a" width="864" height="627" ana="blue skirm">
                      <head>The Civil War in America. Gallant Charge of Federal
 Cavalry into Fairfax Courthouse, Virginia.&#x2014;From a Sketch by our
 Special Artist.</head>
@@ -9927,8 +9907,7 @@ situated on the north bank, James River, at its lower falls, 150 miles
 above its mouth.  Richmond lies on the opposite side of the river,
 with which it is</p>
                <p>
-                  <figure entity="v38p574b" width="856" height="558"
-			  ana="blue skirm">
+                  <figure entity="v38p574b" width="856" height="558" ana="blue skirm">
                      <head>New York
 Fireman Zouaves Turning out to Support Pickets between Alexandria and
 Fairfax Courthouse, Virginia.&#x2014;From a Sketch by our Special
@@ -9937,8 +9916,7 @@ Artist.</head>
                   <pb n="575"/>
                </p>
                <p>
-                  <figure entity="v38p575a" width="2770" height="1083"
-			  ana="rich">
+                  <figure entity="v38p575a" width="2770" height="1083" ana="rich">
                      <head>The Civil War in America: View
 of Richmond, the Capital of Virginia.</head>
                   </figure>
@@ -9946,7 +9924,7 @@ of Richmond, the Capital of Virginia.</head>
                <p>connected by two bridges.  Vessels drawing ten feet water come up to
 Rockets, one mile below the city; and the river above, by the aid of a
 canal, is navigable for boats for 220 miles.  The commerce of Richmond
-in ordinary times is considerable, it being the natural d&#x00E9;p&#x00F4;t of a
+in ordinary times is considerable, it being the natural d&#xE9;p&#xF4;t of a
 large extent of country.  It has manufactures of machinery, cotton
 stuffs, tobacco, and pepper; various forges, a cannon-foundry, and
 corn and saw mills.  Its principle edifices are the Capitol, in a
@@ -9965,7 +9943,7 @@ Richmond is about 30,000.</p>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">p. 575</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6kc</idno></bibl>
                <p rend="center">RAILROAD-BATTERY.
                </p>
                <p>A
@@ -9983,7 +9961,7 @@ angle, and from any one of the portholes in the sides and end of the
 car.  In place of shot or shell from the cannon, pieces of iron
 punched from locomotive boilers will be used as loads.  This car is to
 be placed in front of a locomotive, with fifty men inside, armed with
-Mini&#x00E9; rifles, and with seamen to work the cannon.</p>
+Mini&#xE9; rifles, and with seamen to work the cannon.</p>
 
             </div2>
             <div2 id="iln38.1094.160" n="Iron-Car Battery" type="Illustration">
@@ -9994,7 +9972,7 @@ Mini&#x00E9; rifles, and with seamen to work the cannon.</p>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">p. 575 </biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6mf</idno></bibl>
                <p>
                   <figure entity="v38p575b" width="1092" height="899" ana="money">
                      <head>Iron-Car Battery on the Philadelphia Railway.</head>
@@ -10010,7 +9988,7 @@ Mini&#x00E9; rifles, and with seamen to work the cannon.</p>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">p. 575</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>1 paragraph</extent></bibl>
+               <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6nh</idno></bibl>
                <p>
                   <figure entity="v38p575c" width="1131" height="906" ana="money">
                      <head>Winan's Steam-Battery, Invented
@@ -10027,7 +10005,7 @@ by Dickinson.</head>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">pp. 575-576</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>2 paragraphs</extent></bibl>
+               <extent>2 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6pk</idno></bibl>
                <p>
                   <hi rend="center">STEAM-BATTERY.</hi>
                </p>
@@ -10070,7 +10048,7 @@ management of a proportionate force of infantry."</p>
                   <biblScope type="issue">no. 1094</biblScope>
                   <biblScope type="pages">p. 583</biblScope>
                   <date value="1861-06-22">June 22, 1861</date>
-               <extent>4 paragraphs</extent></bibl>
+               <extent>4 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6qn</idno></bibl>
                <p rend="center">THE OHIO
                </p>
                <p><hi rend="smallcap">This</hi> river, the largest and most important of the
@@ -10122,7 +10100,7 @@ below, is from a sketch taken by Mr. L. J. Cranstone.</p>
                   <biblScope type="issue">no. 1096</biblScope>
                   <biblScope type="pages">pp. 599-600</biblScope>
                   <date value="1861-06-29">June 29, 1861</date>
-               <extent>11 paragraphs</extent></bibl>
+               <extent>11 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6rq</idno></bibl>
                <p>
                   <hi rend="center">AN AMERICAN STATESMAN.</hi>
                </p>
@@ -10186,7 +10164,7 @@ the age of twenty-two, he was elected to the office of
 Attorney-General of the State!  This manufacturing of an
 Attorney-General out of a law-student in the short space of eighteen
 months is a brilliant achievement, hardly possible under a tamer
-r&#x00E9;gime than that of manhood suffrage.  After this, and while yet under
+r&#xE9;gime than that of manhood suffrage.  After this, and while yet under
 the age of thirty, he became successively Secretary of State and Judge
 of the Supreme Court of the State of Illinois.  In 1843 he was elected
 to the lower branch of Congress, and twice re-elected.  In 1847, when
@@ -10196,8 +10174,7 @@ Senate of the United States&#x2014;which he retained, after two re-elections,
 until his death.  In Europe clever young demagogues do not become
 Attorney-Generals at</p>
                <p>
-                  <figure entity="v38p599" width="1014" height="693"
-			  ana="blue camp">
+                  <figure entity="v38p599" width="1014" height="693" ana="blue camp">
                      <head>The Civil
 War in America: "Our Kitchen in the Camp of the 2nd New York
 Regiment."-From a Sketch by our Special Artist.</head>
@@ -10346,7 +10323,7 @@ arbitrament of manhood suffrage, usually so perilous to the better
 cause, was in favour of Abraham Lincoln and against Stephen Arnold
 Douglas.</p>
                <p>*The Democratic party claimed that the United States'
-territory extended to 54&#x00B0; 40' N. lat.  Hence the watchword "fifty-four
+territory extended to 54&#xB0; 40' N. lat.  Hence the watchword "fifty-four
 forty or fight" became popular until the question was peaceably
 settled.</p>
 
@@ -10359,7 +10336,7 @@ settled.</p>
                   <biblScope type="issue">no. 1096</biblScope>
                   <biblScope type="pages">pp. 601-602</biblScope>
                   <date value="1861-06-29">June 29, 1861</date>
-               <extent>28 paragraphs</extent></bibl>
+               <extent>28 paragraphs</extent><idno type="ark">http://pid.emory.edu/ark:/25593/6ss</idno></bibl>
                <p>
                   <hi rend="center">THE CIVIL WAR IN AMERICA.</hi>
                </p>
@@ -10505,16 +10482,14 @@ Washington have been estimated at 60,000.  Scott has from 15,000 to
 Alexandria and Arlington Heights.<pb n="602"/>
                </p>
                <p>
-                  <figure entity="v38p602a" width="868" height="592"
-			  ana="blue camp">
+                  <figure entity="v38p602a" width="868" height="592" ana="blue camp">
                      <head>The Civil War in America. Some of "Wilson's Boys" in
 Wooden Camp at Staten Island.&#x2014;From a Sketch by our Special
 Artist.</head>
                   </figure>
                </p>
                <p>
-                  <figure entity="v38p602b" width="856" height="608"
-			  ana="blue camp">
+                  <figure entity="v38p602b" width="856" height="608" ana="blue camp">
                      <head>"My Head-Quarters in the Camp
 of the 2nd New York Regiment."&#x2014;From a Sketch by our Special Artist.</head>
                   </figure>
@@ -10568,7 +10543,7 @@ of the 2nd New York Regiment."&#x2014;From a Sketch by our Special Artist.</head
 <interp id="map" value="Maps"/>
 </interpGrp>
 <interpGrp type="Military">
-<interp id="battle" value="Battles &#x0026; Battlefields"/>
+<interp id="battle" value="Battles &amp; Battlefields"/>
 <interp id="camp" value="Camp Life"/>
 <interp id="insta" value="Installations"/>
 <interp id="prison" value="Prisons"/>
@@ -10577,8 +10552,8 @@ of the 2nd New York Regiment."&#x2014;From a Sketch by our Special Artist.</head
 <interp id="red" value="Troops, British"/>
 <interp id="blue" value="Troops, Union"/>
 </interpGrp>
-<interpGrp type="Naval Scenes &#x0026; Battles">
-<interp id="naval" value="Naval Scenes &#x0026; Battles"/>
+<interpGrp type="Naval Scenes &amp; Battles">
+<interp id="naval" value="Naval Scenes &amp; Battles"/>
 </interpGrp>
 <interpGrp type="Portraits">
 <interp id="pic" value="Portraits"/>
@@ -10586,9 +10561,8 @@ of the 2nd New York Regiment."&#x2014;From a Sketch by our Special Artist.</head
 <interpGrp type="Slave Life">
 <interp id="slave" value="Slave Life"/>
 </interpGrp>
-<interpGrp type="Transportation, Commerce, &#x0026; Industry">
-<interp id="money" value="Transportation, Commerce, &#x0026;
-	Industry"/>
+<interpGrp type="Transportation, Commerce, &amp; Industry">
+<interp id="money" value="Transportation, Commerce, &amp;  Industry"/>
 </interpGrp>
 </p>
 </div1>
