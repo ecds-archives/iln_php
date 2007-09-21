@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <TEI.2>
    <teiHeader>
       <fileDesc>
@@ -57,8 +58,7 @@ London News Perspective</title>
             <head>Illustrated London News: Volume 41</head>
             <docDate>July to Dec 1862</docDate>
 
-<div2 id="iln41.1152.001" n="Foreign and Colonial News"
-      type="article">
+<div2 id="iln41.1152.001" n="Foreign and Colonial News" type="article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -67,12 +67,12 @@ London News Perspective</title>
 <biblScope type="pages">p.2</biblScope>
 <date value="1862-07-05">July 5, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1w34</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
 <p>By the arrival of the steamer St. George we have telegrams from New
-York vi&#x00E0; Cape Race to the evening of the 23rd ult.</p>
+York vi&#xE0; Cape Race to the evening of the 23rd ult.</p>
 
 <p rend="center"> BELLIGERENT OPERATIONS.</p>
 
@@ -96,7 +96,7 @@ expresses apprehension for the safety of the city.</p>
 
 <p>The Confederates, 65,000 strong, were reported to be concentrated
 at Grenada, Mississippi. Some fighting had taken place in the
-neighbourhood of B&#x00e2;ton Rouge, but the result was
+neighbourhood of B&#xE2;ton Rouge, but the result was
 unknown. General Pope had discontinued his pursuit of Beauregard, who
 was last heard of at Montgomery, on his way to Richmond.</p>
 
@@ -120,7 +120,7 @@ follows:&#x2014;</p>
 <q>To the end that freedom may be and remain for ever the fundamental law
 of the land in all places whatsoever so far as it lies within the power or
 depends upon the action of the Government of the United States to make
-it so, therefore be it enacted, &#x0026;c., that from and after the
+it so, therefore be it enacted, &amp;c., that from and after the
 passage of this Act there shall be neither slavery nor involuntary
 servitude in any of the territories of the United States now existing,
 or which may at any time hereafter be formed or acquired by the United
@@ -135,12 +135,12 @@ tributaries are open for legitimate traffic as far as Memphis.</p>
 
 <p>Prior to the departure of Lord Lyons from Washington he presented
 Mr. Stewart, First Secretary of the Legation, to the State Department,
-where he was duly recognised as Charg&#x00e9; d'Affaires during his
+where he was duly recognised as Charg&#xE9; d'Affaires during his
 Lordship's absence.</p>
 
 <p rend="center">MISCELLANEOUS.</p>
 
-<p>M. Pierre Soul&#x00e9; had arrived in New York, and was
+<p>M. Pierre Soul&#xE9; had arrived in New York, and was
 incarcerated in Fort Lafayette.</p>
 
 <p>Mr. Appleton Oaksmith, after a trial of five days, had been found
@@ -152,8 +152,7 @@ additional imprisonment for each 1000 dollars.</p>
 <p>The export of specie to Europe continues, the steamer City of 
 Washington alone having taken 2,400,000 dollars.</p></div2>
 
-<div2 id="iln41.1152.002" n="London, Saturday, July 5, 1862"
-      type="article">
+<div2 id="iln41.1152.002" n="London, Saturday, July 5, 1862" type="article">
 <head>London, Saturday, July 5, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -162,12 +161,12 @@ Washington alone having taken 2,400,000 dollars.</p></div2>
 <biblScope type="pages">p.7</biblScope>
 <date value="1862-07-05">July 5, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1w47</idno></bibl>
 <p rend="center"><hi rend="italic">London, Saturday, July 5, 1862</hi>.<lb/></p>
 <p>...American news is full of incident, though the results of recent
 operations do not seem to be important. General Jackson defeated
 General Shields, the Federal, on the 9th of June, with much loss on
-both sides; but Jackson's man&#x0153;uvres were masterly, and he
+both sides; but Jackson's man&#x153;uvres were masterly, and he
 joined his chief near Richmond. From that quarter there had been a
 dash of Confederates, who had skirmished with the Unionists, and had
 taken a more menacing attitude. The Confederates also made a brilliant
@@ -204,19 +203,17 @@ war.</p></div2>
 <biblScope type="pages">p.10</biblScope>
 <date value="1862-07-05">July 5, 1862</date>
 
-</bibl>
-<p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi>.<lb/>HOUSE OF LORDS.&#2014;<hi rend="smallcap">MONDAY.</hi></p>
-<p><hi rend="smallcaps">...The Civil War in America.</hi>&#2014;Lord <hi
-rend="smallcaps">Brougham</hi> offered a few remarks on the American
+<idno type="ark">http://pid.emory.edu/ark:/25593/1w5b</idno></bibl>
+<p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi>.<lb/>HOUSE OF LORDS.&#x7DE;<hi rend="smallcap">MONDAY.</hi></p>
+<p><hi rend="smallcaps">...The Civil War in America.</hi>&#x7DE;Lord <hi rend="smallcaps">Brougham</hi> offered a few remarks on the American
 War. He felt it was impossible for her Majesty's Government to
 interfere, but expressed an earnest hope that the Americans themselves
 would recognise the suicidal character of the conflict and come to
 some arrangement before they entirely alienated from themselves the
 respect and affection of civilised Europe.</p></div2>
 
-<div2 id="iln41.1152.004" n="Imperial Parliament"
-      type="article">
-<head>Imperial Parliament<hi rend="smallcaps"></hi></head>
+<div2 id="iln41.1152.004" n="Imperial Parliament" type="article">
+<head>Imperial Parliament<hi rend="smallcaps"/></head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -224,11 +221,10 @@ respect and affection of civilised Europe.</p></div2>
 <biblScope type="pages">p.10</biblScope>
 <date value="1862-07-05">July 5, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1w6f</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi>.<lb/>HOUSE
 OF COMMONS. MONDAY</p>
-<p><hi rend="smallcaps">...The Civil War In America.</hi>&#x2014;Lord <hi
-rend="smallcaps">Palmerston</hi> (in reply to a question by
+<p><hi rend="smallcaps">...The Civil War In America.</hi>&#x2014;Lord <hi rend="smallcaps">Palmerston</hi> (in reply to a question by
 Mr. Hopwood, "Whether, on various considerations, Government intend to
 take any steps to endeavour to put an end to the civil war in
 America?"), paid a warm tribute to the heroic patience with which the
@@ -243,8 +239,7 @@ future time there should be a fair opening for friendly counsel, it
 would be the duty of the Government, as well as a great pleasure, to
 take advantage of it.</p></div2>
 
-<div2 id="iln41.1152.005" n="The Queeen has approved of Mr. Conyers"
-      type="article">
+<div2 id="iln41.1152.005" n="The Queeen has approved of Mr. Conyers" type="article">
 <head>[The Queen has approved of Mr. Conyers]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -253,15 +248,13 @@ take advantage of it.</p></div2>
 <biblScope type="pages">p.23</biblScope>
 <date value="1862-07-05">July 5, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1w7j</idno></bibl>
 
 <p>The Queen has approved of Mr. Conyers O. Leach as Consul as
 St. John's, Newfoundland; and of Mr. Alled Francis as Consul at
 Victoria, Vancouver Island, for the United States of America.</p></div2>
 
-<div2 id="iln41.1152.051" n="Refugees from Southern Cities Flocking
-      for Protection to the Federal Transports on their Advance down
-      the River.--From a Sketch by Our Special Artist" type="illustration">
+<div2 id="iln41.1152.051" n="Refugees from Southern Cities Flocking       for Protection to the Federal Transports on their Advance down       the River.--From a Sketch by Our Special Artist" type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -269,7 +262,7 @@ Victoria, Vancouver Island, for the United States of America.</p></div2>
 <biblScope type="pages">p.24</biblScope>
 <date value="1862-07-05">July 5, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1w8n</idno></bibl>
 
 <p>
 <figure entity="v41p24" ana="pg blue">
@@ -280,8 +273,7 @@ Victoria, Vancouver Island, for the United States of America.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1152.006" n="Illustration of the War in America"
-      type="article">
+<div2 id="iln41.1152.006" n="Illustration of the War in America" type="article">
 <head>Illustration of the War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -290,7 +282,7 @@ Victoria, Vancouver Island, for the United States of America.</p></div2>
 <biblScope type="pages">p.24</biblScope>
 <date value="1862-07-05">July 5, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1w9r</idno></bibl>
 <p rend="center"><hi rend="italic">Illustration of the War in America</hi>.</p>
 <p><hi rend="smallcaps">Our</hi> Special Artist and Correspondent, in
 his last letter from the Mississippi Flotilla, writes as follows
@@ -323,8 +315,7 @@ would fly from their homes and seek the protection of Uncle Sam had not their co
 undergone a change, and their confidence in Jeff Davis and his power to
 sustain his Government been greatly diminished."</p></div2>
 
-<div2 id="iln41.1153.001" n="Foreign and Colonial News"
-      type="article">
+<div2 id="iln41.1153.001" n="Foreign and Colonial News" type="article">
 <head><hi>Foreign and Colonial News</hi></head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -333,7 +324,7 @@ sustain his Government been greatly diminished."</p></div2>
 <biblScope type="pages">p.26</biblScope>
 <date value="1862-07-12">July 12, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wbv</idno></bibl>
 <p rend="center"><hi rend="italic">Foreign and Colonial News.</hi>.<lb/>AMERICA.</p>
 
 
@@ -446,10 +437,9 @@ of allegiance to the Federal Government martial law had been
 proclaimed.</p>
 
 <p>The people of Illinois, by direct popular vote, have adopted
-amendments to their Constitution which prevent negroes and<orig
-reg="mulattoes"> mulattos</orig> from settling in that State.</p>
+amendments to their Constitution which prevent negroes and<orig reg="mulattoes"> mulattos</orig> from settling in that State.</p>
 
-<p>Gold had risen to 9&#x00BD; premium.</p>
+<p>Gold had risen to 9&#xBD; premium.</p>
 </div2>
 
 <div2 id="iln41.1153.002" n="Fort Pillow" type="article">
@@ -461,14 +451,13 @@ reg="mulattoes"> mulattos</orig> from settling in that State.</p>
 <biblScope type="pages">p.27</biblScope>
 <date value="1862-07-12">July 12, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wcz</idno></bibl>
 <p rend="center">FORT PILLOW.</p>
 <p><hi rend="smallcaps">We</hi> give, at page 37, two Illustrations by
 our Special Artist of this important stronghold&#x2014;by some esteemed the
 strongest position on the Mississippi&#x2014;which the Confederates
 abandoned on the 5th ult. Some particulars of the strength and
-position of Pillow are given by the correspondent of the <hi
-rend="italic">New York Tribune.</hi> "The Bohemians," he says, "were
+position of Pillow are given by the correspondent of the <hi rend="italic">New York Tribune.</hi> "The Bohemians," he says, "were
 early on the ground, and began rambling up and down the Bluff, through
 ravines and over hills, examining the batteries, the deserted camps,
 and the ruined barracks, sketching the situation, entering magazines,
@@ -500,11 +489,7 @@ scientifically made, with broad parapets, heavy escarpments, and
 counterscarps neatly lined with timber and firmly secured by
 deeply-driven posts."</p></div2>
 
-<div2 id="iln41.1153.003" n="Portion of the Water Batteries at Fort
-      Pillow, On the Mississippi, After the Evacuation--Looking Up The
-      River.--From a Sketch By Our Special Artist.; Main Battery at Fort Pillow, On the
-      Mississippi, Evacuated by the Confederates on the 5th of
-      June.--From a Sketch by Our Special Artist." type="illustration">
+<div2 id="iln41.1153.003" n="Portion of the Water Batteries at Fort       Pillow, On the Mississippi, After the Evacuation--Looking Up The       River.--From a Sketch By Our Special Artist.; Main Battery at Fort Pillow, On the       Mississippi, Evacuated by the Confederates on the 5th of       June.--From a Sketch by Our Special Artist." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -512,7 +497,7 @@ deeply-driven posts."</p></div2>
 <biblScope type="pages">p.37</biblScope>
 <date value="1862-07-12">July 12, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wd2</idno></bibl>
 <p>
 <figure entity="v41p37" ana="insta blue">
 <head>Portion of the Water Batteries at Fort
@@ -524,8 +509,7 @@ deeply-driven posts."</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1153.008" n="London: Saturday, July 12, 1862"
-      type="article">
+<div2 id="iln41.1153.008" n="London: Saturday, July 12, 1862" type="article">
 <head>London: Saturday, July 12, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -534,7 +518,7 @@ deeply-driven posts."</p></div2>
 <biblScope type="pages">p.30</biblScope>
 <date value="1862-07-12">July 12, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wf5</idno></bibl>
 <p rend="center"><hi rend="italic">LONDON: SATURDAY, JULY</hi> 12, 1862.</p>
 
 <p><hi rend="smallcap">There</hi> has been fighting about five miles
@@ -561,9 +545,8 @@ there in a way that may make it necessary to interfere somewhat
 promptly with proceedings conceived in the united spirit of a low
 attorney and a brutal cateran.</p></div2>
 
-<div2 id="iln41.1153.004" n="Imperial Parliament"
-      type="article">
-<head>Imperial Parliament<hi rend="smallcaps"></hi></head>
+<div2 id="iln41.1153.004" n="Imperial Parliament" type="article">
+<head>Imperial Parliament<hi rend="smallcaps"/></head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -571,19 +554,17 @@ attorney and a brutal cateran.</p></div2>
 <biblScope type="pages">p.34</biblScope>
 <date value="1862-07-12">July 12, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wg8</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi>.<lb/>HOUSE
 OF LORDS.&#x2014;TUESDAY.</p>
-<p>...<hi rend="smallcaps">Slave Trade</hi>&#x2014;Earl <hi
-rend="smallcaps">Russell</hi> moved the second reading of the African
+<p>...<hi rend="smallcaps">Slave Trade</hi>&#x2014;Earl <hi rend="smallcaps">Russell</hi> moved the second reading of the African
 Slave Trade Treaty Bill, saying a few words in commendation of the
 conduct of the American Government in entering into the convention
 which the bill legalised.&#x2014;The Earl of <hi rend="smallcaps">Derby</hi> also eulogised the conduct pursued by
 the Unites States' Executive.&#x2014;The bill was read a second
 time.</p></div2>
 
-<div2 id="iln41.1153.005" n="The Textile Manufactures in the
-      International Exhibition--British and Foreign" type="article">
+<div2 id="iln41.1153.005" n="The Textile Manufactures in the       International Exhibition--British and Foreign" type="article">
 <head>The Textile Manufactures in the International Exhibition &#x2014; British and Foreign</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -592,7 +573,7 @@ time.</p></div2>
 <biblScope type="pages">p.47</biblScope>
 <date value="1862-07-12">July 12, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1whc</idno></bibl>
 <p rend="center"><hi>THE TEXTILE MANUFACTURES IN THE INTERNATIONAL
 EXHIBITION &#x2014; BRITISH AND FOREIGN.</hi>.<lb/></p>
 <p>...Have we not seen how the very anticipation of even a short supply
@@ -682,8 +663,7 @@ as short a period as we can expect, may elapse before this change can
 be effected, but it is as inevitable as Truth and as inexorable as
 Justice.</p></div2>
 
-<div2 id="iln41.1153.006" n="The Case of the Emily St. Pierre"
-      type="article">
+<div2 id="iln41.1153.006" n="The Case of the Emily St. Pierre" type="article">
 <head>The Case of the Emily St. Pierre.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -692,7 +672,7 @@ Justice.</p></div2>
 <biblScope type="pages">p.58</biblScope>
 <date value="1862-07-12">July 12, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wjg</idno></bibl>
 <p rend="center"><hi>THE CASE OF THE EMILY ST. PIERRE</hi>.</p>
 <p>The official correspondence respecting the above vessel has been published.</p>
 <p>On the 24th of April Mr. Adams wrote to Earl Russell on the
@@ -797,7 +777,7 @@ of the United States."</p></div2>
 <biblScope type="pages">p.63</biblScope>
 <date value="1862-07-12">July 12, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wkk</idno></bibl>
 
 <p>A letter from Jerusalem states that a young American gentleman,
 named Carter, a divinity student, was lately drowned in the Jordan. The
@@ -813,7 +793,7 @@ after sinking two or three times, disappeared.</p></div2>
 <biblScope type="pages">p.66</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wmp</idno></bibl>
 <p rend="center"><hi rend="italic">NORTHERN REVERSES</hi>.</p>
 <p><hi rend="smallcaps">Through</hi> the haze of the telegrams brought
 to this country by the China and the preceding packets from New York
@@ -986,8 +966,8 @@ proved the most calamitous event of modern times.</p>
 Francisco, from Hong-Kong, with 1000 Chinamen on  board.</p>
 
 <p>Colonel Colt, the inventor of the revolver, died worth about 
-&#x00a3;800,000. His manufactory at Hartford, United States, employs
-1100 hands, and the wages paid there amount to &#x00a3;10,000 per
+&#xA3;800,000. His manufactory at Hartford, United States, employs
+1100 hands, and the wages paid there amount to &#xA3;10,000 per
 month.</p></div2>
 
 <div2 id="iln41.1155.002" n="Foreign Intelligence: America." type="article">
@@ -999,7 +979,7 @@ month.</p></div2>
 <biblScope type="pages">p.67</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wns</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN INTELLIGENCE</hi>.<lb/>AMERICA.</p>
 <p>By the Jura we are in possession of telegrams from New York to the evening of the 7th inst.</p>
 
@@ -1031,8 +1011,7 @@ Confederate army for three months. Richmond, accordingly, has been
 illuminated.</p>
 
 <p>As no details have yet been allowed to appear, it is impossible to
-estimate the losses on either side, The Richmond <hi
-rend="italic">Examiner</hi> confesses that one division, which went
+estimate the losses on either side, The Richmond <hi rend="italic">Examiner</hi> confesses that one division, which went
 into the fight on Friday, the 27th, 14,000 strong, could only muster
 6000 for duty on the following Tuesday, and that the sacrifice of life
 exceeds that of any battle yet fought. M'Clellan's head-quarters were
@@ -1077,8 +1056,7 @@ were all captured.</p>
 conscription was necessary to ensuring the success of the
 Confederacy.</p>
 
-<p>General Beauregard had published a letter in the Mobile <hi
-rend="italic">News</hi> denying the capture by General Pope of 10,000
+<p>General Beauregard had published a letter in the Mobile <hi rend="italic">News</hi> denying the capture by General Pope of 10,000
 prisoners, as telegraphed by General Halleck. He says that 100 or 200
 stragglers would cover all the prisoners he took, and about 500
 damaged muskets to boot. All that the Confederates lost during the
@@ -1138,8 +1116,7 @@ on London had reached a higher quotation than at any period since
 1837. American stocks and bonds were being sent over for sale in large
 quantities by European holders.</p></div2>
 
-<div2 id="iln41.1155.003" n="London, Saturday, July 19, 1862"
-      type="article">
+<div2 id="iln41.1155.003" n="London, Saturday, July 19, 1862" type="article">
 <head>London, Saturday, July 19, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1148,7 +1125,7 @@ quantities by European holders.</p></div2>
 <biblScope type="pages">p.70</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wpw</idno></bibl>
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, JULY</hi> 19, 1862.</p>
 
 <p>We are menaced  with a prolongation of the Parliamentary 
@@ -1166,8 +1143,7 @@ interest has congregated in such dense swarms around its factories,
 and it is not impossible that ungraceful demonstrations may be made
 on both sides.</p></div2>
 
-<div2 id="iln41.1155.004" n="Imperial Parliament"
-      type="article">
+<div2 id="iln41.1155.004" n="Imperial Parliament" type="article">
 <head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1176,7 +1152,7 @@ on both sides.</p></div2>
 <biblScope type="pages">p.74</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wq0</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi>.<lb/>HOUSE OF COMMONS.&#x2014;TUESDAY.</p>
 <p>...<hi rend="smallcaps">The Civil War in America</hi>--At the evening
 sitting Mr. W. E. <hi rend="smallcap">Forster</hi> gave notice that,
@@ -1186,8 +1162,7 @@ he should propose, as an amendment, that the House would cordially
 support her Majesty's Government in the policy of non-intervention in
 the civil war now being waged in America.</p></div2>
 
-<div2 id="iln41.1155.041" n="Federal Gun-Boat.--See Supplement, Page
-      84." type="illustration">
+<div2 id="iln41.1155.041" n="Federal Gun-Boat.--See Supplement, Page       84." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -1195,7 +1170,7 @@ the civil war now being waged in America.</p></div2>
 <biblScope type="pages">p.77</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wr3</idno></bibl>
 <p>
 <figure entity="v41p77" ana="naval">
 <head>Federal Gun-Boat.--See Supplement, Page 84.</head>
@@ -1212,7 +1187,7 @@ the civil war now being waged in America.</p></div2>
 <biblScope type="pages">p.84</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1ws6</idno></bibl>
 <p rend="center"><hi>THE CIVIL WAR IN AMERICA</hi>.</p>
 <p rend="center"><hi rend="italic">(From our Special Artist and Correspondent.)</hi></p>
 <p rend="right">The Gayoso House, Memphis, Tennessee,</p>
@@ -1377,9 +1352,7 @@ present I can do no more than send you this brief letter, as my time
 has been taken up with sketching.
 <hi rend="right">F. V.</hi></p></div2>
 
-<div2 id="iln41.1155.051" n="The Civil War in America: Destruction of
-      the Confederate Flotilla Off Memphis.--From a Sketch By Our
-      Special Artist.--See Page 84.">
+<div2 id="iln41.1155.051" n="The Civil War in America: Destruction of       the Confederate Flotilla Off Memphis.--From a Sketch By Our       Special Artist.--See Page 84.">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -1387,7 +1360,7 @@ has been taken up with sketching.
 <biblScope type="pages">p.92</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wt9</idno></bibl>
 <p>
 <figure entity="v41p92" ana="naval">
 <head>The Civil War in America: Destruction of
@@ -1406,7 +1379,7 @@ has been taken up with sketching.
 <biblScope type="pages">p.85</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wvd</idno></bibl>
 
 <p><hi rend="smallcaps">Cotton Statistics</hi>.--In five months ending
 the 31st of May the total receipts from the United States were only
@@ -1430,7 +1403,7 @@ bales in 1861.</p></div2>
 <biblScope type="pages">p.89</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wwh</idno></bibl>
 <p><hi rend="smallcaps">American Ladies.</hi>--I confess that in the States I have
 sometimes been driven to think that chivalry has been carried too
 far--that there is an attempt to make women think more of the rights
@@ -1455,8 +1428,7 @@ care and her brother's sweat; but, when she has received these good
 things, I would have her proud of the one and by no means ashamed of
 the other.--<hi rend="italic">Trollope.</hi></p></div2>
 
-<div2 id="iln41.1155.008" n="The Prospects of California"
-      type="article">
+<div2 id="iln41.1155.008" n="The Prospects of California" type="article">
 <head>The Prospects of California</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1465,13 +1437,13 @@ the other.--<hi rend="italic">Trollope.</hi></p></div2>
 <biblScope type="pages">p.89</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wxm</idno></bibl>
 
 <p><hi rend="smallcaps">The Prospects of California</hi>.&#x2014;The Californians are anticipating the time when they shall be
 compelled to turn their attention to other pursuits than gold
 digging. Placer mining in some parts of California has already ceased
 to be profitable for white men. In 1852 gold diggers earned 10 dollars
-per day, and in 1862 they are obliged to be contented with 2&#x00bd;
+per day, and in 1862 they are obliged to be contented with 2&#xBD;
 dollars. It is estimated that if the fruitfulness of the gold mines
 continues to decrease in the same ratio as it has done for the last
 ten years, in 1872 no white men will be found at work in the gold
@@ -1508,7 +1480,7 @@ population."</p></div2>
 <biblScope type="pages">p.91</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1wzq</idno></bibl>
 <p><hi rend="smallcaps">American Silence</hi>.--I found no aptitude, no
 wish for conversation; nay, even a disinclination to converse. In the
 Western States I do not think that I was ever addressed first by an
@@ -1532,8 +1504,7 @@ but not the less did I ponder in my mind over the circumstances of
 their lives.--<hi rend="italic">North America. By Anthony
 Trollope.</hi></p></div2>
 
-<div2 id="iln41.1155.010" n="A Large Lump of Gold has been dug out"
-      type="article">
+<div2 id="iln41.1155.010" n="A Large Lump of Gold has been dug out" type="article">
 <head>[A Large Lump of Gold Has Been Dug Out]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1542,14 +1513,13 @@ Trollope.</hi></p></div2>
 <biblScope type="pages">p.91</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x0w</idno></bibl>
 
 <p>A large lump of gold has been dug out in the Siskiyou region, near
 the border line between Oregon and California. It weighs 190 oz. It is
-not quite pure, and is worth about &#x00a3;600.</p></div2>
+not quite pure, and is worth about &#xA3;600.</p></div2>
 
-<div2 id="iln41.1155.011" n="There are no Hungarians in the
-      Confederate Army" type="article">
+<div2 id="iln41.1155.011" n="There are no Hungarians in the       Confederate Army" type="article">
 <head>[There are no Hungarians in the Confederate Army]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1558,7 +1528,7 @@ not quite pure, and is worth about &#x00a3;600.</p></div2>
 <biblScope type="pages">p.91</biblScope>
 <date value="1862-07-19">July 19, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x10</idno></bibl>
 
 <p>There are no Hungarians in the Confederate army, while the number
 in the Union service is large. It is said that General Fremont, while
@@ -1566,8 +1536,7 @@ at the West, sent his secret dispatches to Washington in Magyar, which
 was as good as cipher, since no person in the Confederate service
 knows the tongue.</p></div2>
 
-<div2 id="iln41.1156.001" n="Foreign and Colonial News"
-      type="article">
+<div2 id="iln41.1156.001" n="Foreign and Colonial News" type="article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1576,17 +1545,17 @@ knows the tongue.</p></div2>
 <biblScope type="pages">p.94</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x23</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
 <p>By the arrival of the Montreal Company's steamer Anglo-Saxon we
-have newspapers to the 11th and telegrams vi&#x00e0; Cape Race to the
+have newspapers to the 11th and telegrams vi&#xE0; Cape Race to the
 14th instant.</p>
 
 <p rend="center"><hi rend="smallcap">Belligerent Operations.</hi></p>
 
 <p>The grand army on the James River, reinforced by the
-corps-d'arm&#x00e9;e under General Burnside, is safely intrenched
+corps-d'arm&#xE9;e under General Burnside, is safely intrenched
 around Harrison's Landing, about twenty-seven miles from
 Richmond. Beyond a slight skirmish on the 3rd, there had been no
 fighting since the 1st instant. It is admitted that all idea of
@@ -1658,8 +1627,7 @@ President to make arrangements with foreign Governments, especially
 with Denmark, for the colonisation of captured negroes.</p>
 
 <p>A meeting of the members of Congress for the Border States had been
-held to consider the President's emancipation scheme. The <hi
-rend="italic">New York Post</hi> says that the majority oppose the
+held to consider the President's emancipation scheme. The <hi rend="italic">New York Post</hi> says that the majority oppose the
 scheme and will decline to accept the proposal.</p>
 
 <p rend="center"><hi rend="smallcap">The Northern States.</hi></p>
@@ -1667,7 +1635,7 @@ scheme and will decline to accept the proposal.</p>
 <p>The great question of the hour is the means of raising the 300,000
 men called for by the President at the instance of eighteen
 Governors. Great efforts were being made by public meetings, patriotic
-addresses, gubernatorial proclamations, &#x0026;c., to promote
+addresses, gubernatorial proclamations, &amp;c., to promote
 volunteering. The Common Council of Buffalo had appropriated 80,000
 dollars to raise a new regiment in that city, giving 75 dollars bounty
 to each recruit in addition the 40 dollars granted by the Federal
@@ -1677,7 +1645,7 @@ rebellion but to repel with becoming spirit the first approach of
 foreign intervention.</p>
 
 <p>The eighty-sixth anniversary of the Independence of the nation was
-celebrated with less &#x00e9;clat and with greater gloom and
+celebrated with less &#xE9;clat and with greater gloom and
 depression of spirits than in any previous year during the course of
 their history.</p><pb n="95"/>
 
@@ -1696,14 +1664,13 @@ the use of postage-stamps for small change.</p></div2>
 <biblScope type="pages">p.95</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x36</idno></bibl>
 
 <p>Letters from Nassau say that the captain of the British steamer
 Greyhound had seized the Confederate steamer Ovieto. The cause is
 said to be an attachment of the vessel for wages due to the crew.</p></div2>
 
-<div2 id="iln41.1156.003" n="London, Saturday, July 26, 1862"
-      type="article">
+<div2 id="iln41.1156.003" n="London, Saturday, July 26, 1862" type="article">
 <head>London, Saturday, July 26, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1712,7 +1679,7 @@ said to be an attachment of the vessel for wages due to the crew.</p></div2>
 <biblScope type="pages">p.98</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x49</idno></bibl>
 
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, JULY 26,</hi> 1862.</p>
 
@@ -1740,10 +1707,9 @@ is afraid to trust a people with the truth, and compels a brave
 soldier to frame addresses in the style of Napoleon at Astley's
 Amphitheatre. The slaughter of those days should have made men grave
 and truthful; it is almost impossible to realise the fact that some
-five and twenty thousand men were either killed or <hi
-rend="italic">hors de combat</hi>, but so the estimates, now permitted
+five and twenty thousand men were either killed or <hi rend="italic">hors de combat</hi>, but so the estimates, now permitted
 to ooze out, represent the case to be. A new success gained by the
-Confederates in the South is reported, and we learn that B&#x00E2;ton Rouge
+Confederates in the South is reported, and we learn that B&#xE2;ton Rouge
 has fallen into their hands, with 1500 prisoners. The ruffian Butler
 may begin to tremble in New Orleans. A battle with Halleck was thought
 to be impending. Finally, all reports certify that "an uneasy feeling
@@ -1775,7 +1741,7 @@ of language.</p></div2>
 <biblScope type="pages">p.100</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x5d</idno></bibl>
 <p rend="center"><hi rend="italic">RICHMOND, VIRGINIA</hi>.</p>
 <p>We give below a View (from a by sketch by Eyre Crowe) of the
 High-street, Richmond, towards which city public attention is now
@@ -1810,14 +1776,13 @@ peaceful times.</p>
 <biblScope type="pages">p.100</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x6h</idno></bibl>
 <p><figure entity="v41p100" ana="rich">
 <head>The Civil War in America: High Street, Richmond, Virginia.</head>
 </figure></p>
 </div2>
 
-<div2 id="iln41.1156.005" n="Imperial Parliament"
-      type="article">
+<div2 id="iln41.1156.005" n="Imperial Parliament" type="article">
 <head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1826,7 +1791,7 @@ peaceful times.</p>
 <biblScope type="pages">p.102</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x7m</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT</hi>.<lb/>HOUSE OF COMMONS.&#x2014;MONDAY.</p>
 <p>...<hi rend="smallcaps">British Interests At New
 Orleans.</hi>--Mr. S. <hi rend="smallcaps">Fitzgerald</hi> complained
@@ -1845,12 +1810,7 @@ countermanded, as it was felt to be desirable to avoid any
 manifestation of power. He added that our Vice-Consul been recognised
 by the Federal Government.</p></div2>
 
-<div2 id="iln41.1156.008" n="Position of the Federal Flotilla on the
-      Mississippi, Off Fort Pillow, Shortly Before Its Evacuation. and Colonel Fitch and the 46th Indiana
-      Volunteers Taking at the Point of the Bayonet the Confederate
-      Battery of Fort St. Charles, On the White River, Arkansas. See
-      Supplement, Page 111."
-      type="illustration">
+<div2 id="iln41.1156.008" n="Position of the Federal Flotilla on the       Mississippi, Off Fort Pillow, Shortly Before Its Evacuation. and Colonel Fitch and the 46th Indiana       Volunteers Taking at the Point of the Bayonet the Confederate       Battery of Fort St. Charles, On the White River, Arkansas. See       Supplement, Page 111." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -1858,7 +1818,7 @@ by the Federal Government.</p></div2>
 <biblScope type="pages">p.105</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x8q</idno></bibl>
 <p>
 <figure entity="v41p105" ana="naval blue gray">
 <head>Position of the Federal Flotilla on the Mississippi, Off Fort Pillow, Shortly Before Its
@@ -1879,7 +1839,7 @@ Evacuation. and <lb/>Colonel Fitch and the 46th Indiana
 <biblScope type="pages">p.111</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1x9t</idno></bibl>
 <p rend="center"><hi rend="italic">THE CIVIL WAR IN AMERICA</hi>.</p>
 <p rend="center"><hi rend="italic">(From our Special Artist and Correspondent.)</hi></p>
 
@@ -2032,8 +1992,7 @@ and the Southern artillerymen were shot at their guns.</p>
 <p>The <hi rend="italic">Cincinnati Daily Times</hi>, in its number
 for June 28, has the following notice of the arrival in that city of
 our Special Artist:--"Among the recent arrivals at the Burnet House we
-are pleased to see the name of Frank Viztelly, Esq., artist and correspondent of the <hi
-rend="smallcaps">Illustrated London News</hi>. This paper, it will be
+are pleased to see the name of Frank Viztelly, Esq., artist and correspondent of the <hi rend="smallcaps">Illustrated London News</hi>. This paper, it will be
 remembered, is one of the few London journals that has taken an
 unbiased view of our political troubles, and has done not a little toward setting us right before the English people. The
 numerous life-like sketches and graphic letters from the Army of the
@@ -2044,8 +2003,7 @@ has just returned from Memphis, having been with the Mississippi
 flotilla for two months, and purposes joining the army before Richmond
 in a few days."</p></div2>
 
-<div2 id="iln41.1156.007" n="The Queen has appointed Mr. Edgar Leopold
-      Layard" type="article">
+<div2 id="iln41.1156.007" n="The Queen has appointed Mr. Edgar Leopold       Layard" type="article">
 <head>[The Queen has appointed Mr. Edgar Leopold Layard]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2054,7 +2012,7 @@ in a few days."</p></div2>
 <biblScope type="pages">p.114</biblScope>
 <date value="1862-07-26">July 26, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xbx</idno></bibl>
 
 <p>The Queen has appointed Mr. Edgar Leopold Layard, in the room of
 Mr. Richard Surtees, to be Arbitrator to the Mixed British and
@@ -2076,9 +2034,9 @@ colony of British Honduras.</p></div2>
 <biblScope type="pages">p.119</biblScope>
 <date value="1862-08-02">August 2, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xc1</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
-<p>By the Canadian mail-steamer Hibernian we have telegrams vi&#x00e2; Cape Race to the 22nd ult.</p>
+<p>By the Canadian mail-steamer Hibernian we have telegrams vi&#xE2; Cape Race to the 22nd ult.</p>
 
 <p rend="center"><hi rend="smallcap">War News.</hi></p>
 
@@ -2127,7 +2085,7 @@ service, advances towards completion. A Confederate ram had arrived at
 Vicksburg, and, after inflicting considerable damage upon the Federal
 fleet, had anchored under cover of the Confederate batteries.</p>
 
-<p>The story that B&#x00e2;ton Rouge had been recaptured by the Confederates is without foundation in fact.</p>
+<p>The story that B&#xE2;ton Rouge had been recaptured by the Confederates is without foundation in fact.</p>
 
 <p>General Curtis, by forced marches, had safely arrived at Helena,
 Arkansas, after worsting the Confederates in several small
@@ -2216,14 +2174,13 @@ houses were illuminated.</p></div2>
 <biblScope type="pages">p.119</biblScope>
 <date value="1862-08-02">August 2, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xd4</idno></bibl>
 
 <p>The American Patent Machine for milking cows has been tested at the
 exhibition with great success. It milked a cow in three
 minutes.</p></div2>
 
-<div2 id="iln41.1157.003" n="London, Saturday, August 2, 1862"
-      type="article">
+<div2 id="iln41.1157.003" n="London, Saturday, August 2, 1862" type="article">
 <head>London, Saturday, August 2, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2232,7 +2189,7 @@ minutes.</p></div2>
 <biblScope type="pages">p.122</biblScope>
 <date value="1862-08-02">August 2, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xf7</idno></bibl>
 
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, AUGUST</hi> 2, 1862.</p>
 
@@ -2263,7 +2220,7 @@ tender. Congress had adjourned, having during the Session appropriated
 days--</p>
 
 <p rend="center">When mighty Belshazzar brims high in the hall</p>
- <p rend="center">His cup full of <hi rend="italic">go&#x00fb;t</hi>
+ <p rend="center">His cup full of <hi rend="italic">go&#xFB;t</hi>
 to the Gaul's overthrow,</p>
 <p rend="center">Lo, "Eight Hundred Millions" I write on the wall,</p>
 <p rend="center">And the cup falls to earth and the gout to his
@@ -2302,8 +2259,7 @@ violated the Queen's orders had received tolerably courteous
 recognition at New York, and this is something in the present temper
 of the North.</p></div2>
 
-<div2 id="iln41.1157.004" n="The Wife of General Beauregard"
-      type="article">
+<div2 id="iln41.1157.004" n="The Wife of General Beauregard" type="article">
 <head>[The Wife of General Beauregard]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2312,11 +2268,10 @@ of the North.</p></div2>
 <biblScope type="pages">p.122</biblScope>
 <date value="1862-08-02">August 2, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xgb</idno></bibl>
 <p>The wife of General Beauregard has died at New Orleans.</p></div2>
 
-<div2 id="iln41.1157.005" n="Plan of the Seat of War in Eastern
-      Virginia" type="article">
+<div2 id="iln41.1157.005" n="Plan of the Seat of War in Eastern       Virginia" type="article">
 <head>Plan of the Seat of War in Eastern Virginia</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2325,7 +2280,7 @@ of the North.</p></div2>
 <biblScope type="pages">p.128</biblScope>
 <date value="1862-08-02">August 2, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xhf</idno></bibl>
 <p rend="center"><hi rend="italic">PLAN OF THE SEAT OF WAR IN EASTERN VIRGINIA.</hi>.</p>
 <p><hi rend="smallcaps">The</hi> Plan which we present to our readers
 on page 125 covers an area of about 20,000 square miles, and includes
@@ -2375,9 +2330,7 @@ opposite to Turkey Bend, is City Point, where the Federal flotilla is
 now anchored. This is also the point where the Appomattox flows into
 the James.</p></div2>
 
-<div2 id="iln41.1157.006" n="The Civil War in America: Scene of
-      Operations in Eastern Virginia, Showing M'Clellan's Present
-      Position.--See Page 128." type="illustration">
+<div2 id="iln41.1157.006" n="The Civil War in America: Scene of       Operations in Eastern Virginia, Showing M'Clellan's Present       Position.--See Page 128." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -2385,7 +2338,7 @@ the James.</p></div2>
 <biblScope type="pages">p.125</biblScope>
 <date value="1862-08-02">August 2, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xjj</idno></bibl>
 <p>
 <figure entity="v41p125" ana="map">
 <head>The Civil War in America: Scene of
@@ -2404,7 +2357,7 @@ the James.</p></div2>
 <biblScope type="pages">p.138</biblScope>
 <date value="1862-08-02">August 2, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xkn</idno></bibl>
 <p><hi rend="smallcaps">Atrocious Act Of Piracy</hi>.--The secretary at Lloyd's has
 received from the Board of Trade a copy of a despatch from the British
 Consul at Malaga relative to an atrocious act of piracy committed near
@@ -2429,8 +2382,7 @@ left on board and went down with the burning ship. The boat in which
 the pirates quitted the Reindeer has been found on the beach a few
 miles to the eastward of Malaga.</p></div2>
 
-<div2 id="iln41.1157.008" n="Textile Manufactures in the International
-      Exhibition. Cotton--Foreign Division." type="article">
+<div2 id="iln41.1157.008" n="Textile Manufactures in the International       Exhibition. Cotton--Foreign Division." type="article">
 <head>Textile Manufactures in the International Exhibition</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2439,7 +2391,7 @@ miles to the eastward of Malaga.</p></div2>
 <biblScope type="pages">p.142</biblScope>
 <date value="1862-08-02">August 2, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xmr</idno></bibl>
 <p rend="center"><hi rend="italic">TEXTILE MANUFACTURES IN THE
 INTERNAIONAL EXHIBITION.</hi>.</p>
 <p rend="center">COTTON--FOREIGN DIVISION.</p>
@@ -2469,8 +2421,7 @@ this is saying a great deal, when the prejudice in favour of American
 cotton, and, unfortunately, nothing but American cotton, is taken into
 account.</p></div2>
 
-<div2 id="iln41.1158.001" n="The Cotton of Various Climes"
-      type="article">
+<div2 id="iln41.1158.001" n="The Cotton of Various Climes" type="article">
 <head>The Cotton of Various Climes</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2479,7 +2430,7 @@ account.</p></div2>
 <biblScope type="pages">p.149</biblScope>
 <date value="1862-08-09">August 9, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xnv</idno></bibl>
 
 <p><hi rend="smallcaps">If</hi> the shade of one of those vigorous
 Englishmen who laid the foundations of our manufacturing prosperity--a
@@ -2570,7 +2521,7 @@ country we can reckon supplies. No less than sixteen prize medals have
 been awarded for Indian cotton, and the value thus suggested is still
 more directly confirmed by the market prices that have been affixed to
 them by the commissioners. The lowest price is 11d. per lb.; the
-highest (from Penang), 2s.; and the average 12&#x00bd;d. We would ask
+highest (from Penang), 2s.; and the average 12&#xBD;d. We would ask
 him to remember that India has already, in a single year (1861), sent
 us very nearly a third of the three million bales that we require; that
 the most popular of all the South American kinds, the New Orleans,
@@ -2590,13 +2541,13 @@ negro labour, as it has been grown in America by slaves. He will find
 among them samples of almost fabulous value, varying from 2s. 8d. to
 3s. 6d. per lb. And it is estimated that Jamaica alone could furnish
 half a million bales yearly. So again we shall find in the exhibition
-Barbadoes cotton, worth 2s. 10d. a pound; Bermuda, worth 11&#x00bd;d.;
+Barbadoes cotton, worth 2s. 10d. a pound; Bermuda, worth 11&#xBD;d.;
 Ceylon, worth from l0d. to 1s. 9d.; and Trinidad, worth 2s. 11d. Or
 yet again to pass to the samples from quite other parts of the world,
 but still keeping within our own dominions (where it is our
 fellow-subjects who ask us to trade with them by exchanging cotton for
 manufactures), there is Natal, which sends us samples ranging in value
-from l2&#x00bd;d. to 2s., and reminds us of the inexhaustible
+from l2&#xBD;d. to 2s., and reminds us of the inexhaustible
 cotton-fields of Africa on which Dr. Livingstone has been so wisely
 eloquent. The plant is indigenous there, and grows to wondrous
 profusion. What a blessing alike to us and to the benighted Africans
@@ -2645,7 +2596,7 @@ that she could give us next year 100,000 bales by merely devoting to
 the culture some of those southern districts that are now lying waste
 and breeding miasma instead of expanding their surplus heat and
 moisture in cotton. The prize samples of Italian cotton in the
-exhibition are valued generally at about 1s. 1&#x00bd;d. per lb.</p>
+exhibition are valued generally at about 1s. 1&#xBD;d. per lb.</p>
 
 <p>Why, then, are we in our present difficulty, and how are we to get
 out of it? These are the questions we ought to ask, and not rest till
@@ -2677,7 +2628,7 @@ there is something wrong. We won't grow more than we want for
 ourselves or our native merchants.' The manufacturer steadily declines
 to send out his agent; the Indian landholder as steadily declines to
 increase his cotton cultivation. The latter is no sufferer, for he
-continues to grow his indigo, sugar, cereals, &#x0026;c.; and will grow
+continues to grow his indigo, sugar, cereals, &amp;c.; and will grow
 cotton when a local demand arises for it, and is quite indifferent
 whether that demand comes in one year, or in ten years, or at all. And
 what is the position of the former? A ruined trade and a starving
@@ -2721,8 +2672,7 @@ with all the risks of political agitation; while no longer able to
 attribute our distress to a sudden and unforeseen cause, and still
 less to any lack of the Divine bounty.</p></div2>
 
-<div2 id="iln41.1158.002" n="Illustration of the War in America"
-      type="article">
+<div2 id="iln41.1158.002" n="Illustration of the War in America" type="article">
 <head>Illustration of the War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2731,7 +2681,7 @@ less to any lack of the Divine bounty.</p></div2>
 <biblScope type="pages">p.150</biblScope>
 <date value="1862-08-09">August 9, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xpz</idno></bibl>
 <p rend="center"><hi rend="italic">ILLUSTRATION OF THE WAR IN AMERICA</hi>.</p>
 <p rend="center"><hi rend="smallcap">Cottonburners Surprised By Federal Scouts.</hi></p>
 
@@ -2759,10 +2709,10 @@ surrounding timber."</p></div2>
 <biblScope type="pages">p.151</biblScope>
 <date value="1862-08-09">August 9, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xq2</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Montreal Company's steamer Norwegian we have
-telegrams, vi&#x00e2; Cape Race, until the 28th ult.</p>
+telegrams, vi&#xE2; Cape Race, until the 28th ult.</p>
 
 <p rend="center"><hi rend="smallcap">War News.</hi></p>
 
@@ -2789,7 +2739,7 @@ inhabitants who break the oath will be shot.</p>
 directions, made a descent upon the Virginia Central Railroad at
 Beaver Dam Creek, thirty-five miles from Richmond. They destroyed the
 railroad and telegraph lines for several miles, burned up the
-d&#x00e9;p&#x00f4;t, which contained 40,000 rounds of musket
+d&#xE9;p&#xF4;t, which contained 40,000 rounds of musket
 ammunition, 100 barrels of flour, and other valuable property. The
 Confederate General Jackson was in or near Gordonsville, and a
 collision between his army and that of General Pope was daily
@@ -2948,7 +2898,7 @@ Messrs. Fillmore, Pierce, said Buchanan.</p></div2>
 <biblScope type="pages">p.154</biblScope>
 <date value="1862-08-09">August 9, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xr5</idno></bibl>
 
 <p rend="center"><hi rend="italic"><hi rend="smallcap">London,
 Saturday, August 9, 1862.</hi></hi></p>
@@ -2978,8 +2928,7 @@ Majesty trusts that the co-operation of the United States' navy with
 her own may go far to extinguish the desolating crime against which
 that treaty is directed.</p></div2>
 
-<div2 id="iln41.1158.005" n="'Great Expectations' are the burden of
-      the American telegrams." type="article">
+<div2 id="iln41.1158.005" n="'Great Expectations' are the burden of       the American telegrams." type="article">
 <head>['Great Expectations' are the Burden of the American Telegrams]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2988,7 +2937,7 @@ that treaty is directed.</p></div2>
 <biblScope type="pages">p.154</biblScope>
 <date value="1862-08-09">August 9, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xs8</idno></bibl>
 
 <p><hi rend="smallcap">"Great</hi> expectations" are the burden of the
 American telegrams. We are also told of much "uneasiness," a word of
@@ -2998,8 +2947,7 @@ reluctance of the people to enlist in the armies, while the Generals
 appeared to be objectless and the incidents of the war were so
 disastrous, was represented as being unabated; and the President's
 proclamation calling on the South to take notice of the new law which
-made them liable to the penalties of treason was regarded as <hi
-rend="italic">brutum fulmen</hi>. The intention of employing the negro
+made them liable to the penalties of treason was regarded as <hi rend="italic">brutum fulmen</hi>. The intention of employing the negro
 in military and naval work was very unfavourably commented upon by
 many who grudge the "contraband" any of the gain of the war, but was
 approved by his friends as a new recognition of his status as a man
@@ -3046,7 +2994,7 @@ battles of the utmost importance.</p></div2>
 <biblScope type="pages">p.158</biblScope>
 <date value="1862-08-09">August 9, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xtc</idno></bibl>
 
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--MONDAY.</p>
@@ -3087,14 +3035,12 @@ agree.</p>
 <p rend="center">HOUSE OF COMMONS.--<hi rend="smallcap">Thursday.</hi></p>
 
 <p><hi rend="smallcap">England and America</hi>.--Some questions on
-important matters having been put and answered, Mr. <hi
-rend="smallcap">Seymour</hi> called attention to the conduct of the
+important matters having been put and answered, Mr. <hi rend="smallcap">Seymour</hi> called attention to the conduct of the
 United States in the immediate neighbourhood of Nassau, and hoped the
 Government would direct vigorous remonstrances to the United States on
 that subject. He also called attention to the the bonds required by
 the United States from British merchants that they would not send
-their goods to the Confederate States.--Lord <hi
-rend="smallcap">Palmerston</hi> said that, with regard to then first
+their goods to the Confederate States.--Lord <hi rend="smallcap">Palmerston</hi> said that, with regard to then first
 question, the House must be aware that there was no country more
 interested than Great Britain in the maintenance of belligerent rights
 at sea. It was the undoubted right of belligerents to search merchant
@@ -3120,13 +3066,13 @@ representations on the subject.</p></div2>
 <biblScope type="pages">p.174</biblScope>
 <date value="1862-08-16">August 16, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xvg</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN INTELLIGENCE.</hi></p>
 <p rend="center">AMERICA.</p>
 
 <p>By the arrival of the City of Washington, from New York, and the
-North American, from Quebec, we have received telegrams vi&#x00E2; Cape Race
+North American, from Quebec, we have received telegrams vi&#xE2; Cape Race
 to the 5th inst.</p>
 
 <p rend="center"><hi rend="smallcap">WAR NEWS.</hi></p>
@@ -3202,10 +3148,10 @@ resolutions denouncing the conduct of those of their countrymen who
 had appealed to British protection against the threatened
 conscription.</p>
 
-<p>Isabella Susini (ne&#x00E9; Hinckley), the American prima donna, had died
+<p>Isabella Susini (ne&#xE9; Hinckley), the American prima donna, had died
 after her accouchement.</p>
 
-<p>The premium on gold had fallen to 14 &#x00BD; per cent. The exports of
+<p>The premium on gold had fallen to 14 &#xBD; per cent. The exports of
 grain to Europe were very heavy, and the cereal crops of the present
 year were superabundant.</p></div2>
 
@@ -3218,7 +3164,7 @@ year were superabundant.</p></div2>
 <biblScope type="pages">p.174</biblScope>
 <date value="1862-08-16">August 16, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xwk</idno></bibl>
 
 <p>Despatches which had passed between the Government of this country
 and that of the United States have just been published. In a despatch
@@ -3238,7 +3184,7 @@ while heartily wishing for a speedy conclusion to the "unnecessary and injurious
 <biblScope type="pages">p.178</biblScope>
 <date value="1862-08-16">August 16, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xxp</idno></bibl>
 <p rend="center"><hi rend="italic">LONDON: SATURDAY, AUGUST 16, 1862.</hi>.</p>
 <p><hi rend="smallcap">Lord Palmerston</hi> had scarcely shaken hands
 with the Speaker, in congratulation upon the end of a dull Session,
@@ -3290,7 +3236,7 @@ flock to discontinue attendance on his ministry.</p></div2>
 <biblScope type="pages">p.198</biblScope>
 <date value="1862-08-23">August 23, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1xzs</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.</p>
 <p rend="center"><hi rend="smallcap">America.</hi></p>
 <p>By the arrival of the Etna from New York we have telegrams from Cape Race to the evening of the 12th inst.</p>
@@ -3426,7 +3372,7 @@ previous month.</p>
 <biblScope type="pages">p.202</biblScope>
 <date value="1862-08-23">August 23, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z0z</idno></bibl>
 
 <p rend="center"><hi rend="italic"><hi rend="smallcap">London:
 Saturday, August</hi></hi> 23, 1862.</p>
@@ -3477,7 +3423,7 @@ news is singularly unfavourable to the North.</p></div2>
 <biblScope type="pages">p.221</biblScope>
 <date value="1862-08-30">August 30, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z12</idno></bibl>
 
 <p rend="center">THE SITUATION IN AMERICA.</p>
 <p><hi rend="smallcap">The</hi> time seems to have come at last when
@@ -3526,8 +3472,7 @@ collected by the conscription which he has ordered--a new thing among
 a free people, and never before resorted to in any self-governed
 nation except to repel the invasion of a foreign foe--the aggregate
 armies of the North levied since the assault upon Fort Sumter until
-the present day will reach the frightful number of <hi
-rend="italic">one million three hundred thousand men</hi>. Of the first
+the present day will reach the frightful number of <hi rend="italic">one million three hundred thousand men</hi>. Of the first
 levies, composed wholly of volunteers, at least four hundred thousand
 have either perished on the battle-field or in the pestilential swamps
 of the South and South-West, been disabled by wounds and disease, or
@@ -3536,8 +3481,7 @@ it is not too much to say, if the conduct of the war for the future be
 neither more vigorous nor more successful than it has been in the
 past, that a similar doom will await the new levy of six hundred
 thousand men.</p>
-<p>But will the six hundred thousand be raised? <hi
-rend="italic">That</hi> is the vital question of the day in America,
+<p>But will the six hundred thousand be raised? <hi rend="italic">That</hi> is the vital question of the day in America,
 as well as in Europe, which looks on wondering at the suicidal
 conflict. It is as yet impossible to answer the question. The
 response lies in a dim but not remote future, of which no one can
@@ -3626,7 +3570,7 @@ humanity.</p></div2>
 <biblScope type="pages">p.222</biblScope>
 <date value="1862-08-30">August 30, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z25</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
 <p>By the arrival of the steamer Bohemian we have telegrams from New
@@ -3661,14 +3605,14 @@ under General Pope.</p>
 is south-west of Gordonsville with 60,000 men.</p>
 
 <p>General M'Clellan's army is supposed to have retired from
-Harrison's Landing down the Peninsula--one portion by land vi&#x00E0;
+Harrison's Landing down the Peninsula--one portion by land vi&#xE0;
 Williamsburg, and another portion on transports down the James
 River. Both routes of retreat were liable to an attack from the
 Confederates; but it is reported that the movements have been
 successfully performed.</p>
 
 <p>The Confederate journals report that their General Breckinridge had
-taken B&#x00E2;ton Rouge, the capital of Louisiana, on the 6th inst., after
+taken B&#xE2;ton Rouge, the capital of Louisiana, on the 6th inst., after
 defeating the Federal forces and capturing their camp equipage and
 stores. General Breckinridge reports that the Federal General Williams
 and other prominent officers were killed.</p>
@@ -3767,8 +3711,7 @@ emigrants arriving at Quebec up to the 15th ult. ware 14,434 against
 York has fallen off in about the same proportion.</p>
 
 <p>The immigration into Canada from the United States has, on the
-other hand, exceeded anticipations. The Montreal <hi
-rend="italic">Advertiser</hi> says, "Canada is at present invaded by
+other hand, exceeded anticipations. The Montreal <hi rend="italic">Advertiser</hi> says, "Canada is at present invaded by
 the Yankees; they are crossing the frontier in crowds--filling the
 railway cars, thronging the steamboats. A single train brought
 yesterday sixty young men from New York State. During the next ten
@@ -3793,7 +3736,7 @@ in addition to which there were several persons injured.</p>
 <biblScope type="pages">p.222</biblScope>
 <date value="1862-08-30">August 30, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z38</idno></bibl>
 <p>A New York paper states that a Brooklyn lady purchased an article
 in Fulton-street the other day, when she received the following as
 change for a one-dollar bill:&#x2014;Ferry tickets, shinplaster,
@@ -3812,7 +3755,7 @@ and ice-cream ticket.</p>
 <biblScope type="pages">p.230</biblScope>
 <date value="1862-08-30">August 30, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z4c</idno></bibl>
 
 <p>A New York letter just received states that more than fifty persons
 have died from sunstroke in that city within a few days.</p></div2>
@@ -3826,7 +3769,7 @@ have died from sunstroke in that city within a few days.</p></div2>
 <biblScope type="pages">p.255</biblScope>
 <date value="1862-09-06">September 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z5g</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
@@ -3905,7 +3848,7 @@ sense, enlistments have been more numerous of late, both among the
 Irish and native elements of the population.</p>
 
 <p>The new small-note and postage-stamp Federal currency was issued on
-the 21st ult. Gold was at l5 &#x00BD; premium.</p>
+the 21st ult. Gold was at l5 &#xBD; premium.</p>
 
 <p>The Indians in the north-west part of Minnesota, exasperated at the
 non-payment of the money due to them from the Federal Government,
@@ -3960,7 +3903,7 @@ seemed to prosper with him, his health failed.</p>
 <biblScope type="pages">p.255</biblScope>
 <date value="1862-09-06">September 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z6k</idno></bibl>
 
 <p><hi rend="smallcap">New Orleans A Hundred Years Ago.</hi>--The
 River Mississippi (says the <hi rend="italic">Post Boy</hi> of June 4,
@@ -4008,7 +3951,7 @@ on the English subjects as they have lately done there.</p></div2>
 <biblScope type="pages">p.258</biblScope>
 <date value="1862-09-06">September 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z7p</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London,
 Saturday, September</hi> 6, 1862.</hi></p>
@@ -4064,7 +4007,7 @@ war.</p></div2>
 <biblScope type="pages">p.259</biblScope>
 <date value="1862-09-06">September 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z8s</idno></bibl>
 
 <p>The Canada papers say that an extensive fur trade will centre this
 fall in Montreal in consequence of the troubles in the United States
@@ -4081,7 +4024,7 @@ over 12,000.</p></div2>
 <biblScope type="pages">p.259</biblScope>
 <date value="1862-09-06">September 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1z9w</idno></bibl>
 
 <p>The Peace Society has issued an address to the people of the United
 States. It says:--"Is the time not come, we repeat, friends and
@@ -4108,7 +4051,7 @@ with animosity and vengeance?"</p></div2>
 <biblScope type="pages">p.274</biblScope>
 <date value="1862-09-06">September 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zb0</idno></bibl>
 
 <p>A gentleman who has recently arrived from Mobile states that there
 is not a single carpet to be found in any house in that city, every
@@ -4124,7 +4067,7 @@ army.</p></div2>
 <biblScope type="pages">p.278</biblScope>
 <date value="1862-09-13">September 13, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zc3</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
@@ -4134,7 +4077,7 @@ of the 30th ult., and telegrams to the evening of the same day.</p>
 <p rend="center"><hi rend="smallcap">War News.</hi></p>
 <p>The week has been an eventful one in the Valley of Virginia, although the
 policy of excluding newspaper correspondents deprives us of the power
-of following the movements of the opposing corps-d'arm&#x00E8;e in detail.</p>
+of following the movements of the opposing corps-d'arm&#xE8;e in detail.</p>
 
 <p>On the 23rd ult. the Confederates attacked Rappahannock station,
 and compelled the Federals to abandon the line of the
@@ -4167,7 +4110,7 @@ routed him, killing and wounding 300, and capturing their camp.</p>
 
 <p>On the 28th Pope arrived at Manassas Junction, but the Confederates
 under Jackson had evacuated the place three hours before. Jackson
-retreated vi&#x00E2; Centreville. Six miles west of that place Jackson came
+retreated vi&#xE2; Centreville. Six miles west of that place Jackson came
 upon the divisions of M'Dowell and Siegel. The Federals report that
 in this fight, which lasted until dark, the Confederates were driven
 back at all points. General Pope claims to have captured from
@@ -4202,7 +4145,7 @@ few miles of the Potomac. The river was then fordable at all points
 above Washington.</p>
 <p>In the west the events of the war are chequered.</p>
 
-<p>The Federals had evacuated B&#x00E2;ton Rouge, and captured a steamer on
+<p>The Federals had evacuated B&#xE2;ton Rouge, and captured a steamer on
 the River Arkansas, laden with 500 stand of arms for General Hindman,
 stationed at Little Rock. The Confederate General Morgan had
 defeated 800 troops, under General Johnson, near Gallatin, in
@@ -4255,14 +4198,12 @@ leaving others alone I would also do that. What I do about slavery and
 the coloured race I do because I believe it helps to save this Union;
 and what I forbear I forbear because I do not believe it would be to
 save the Union. I shall do <hi rend="italic">less</hi> whenever I
-shall believe what I am doing hurts the cause, and I shall do <hi
-rend="italic">more</hi> whenever I shall believe doing more will help
+shall believe what I am doing hurts the cause, and I shall do <hi rend="italic">more</hi> whenever I shall believe doing more will help
 the cause. I shall try to correct errors when shown to be errors, and
 I shall adopt new views so fast as they shall appear to be true
 views. I have here stated my purpose according to my view of official
 duty, and I intend no modification of my oft-expressed personal wish
-that all men, everywhere, could be free.--Yours,<hi
-rend="smallcap"> A. LINCOLN.</hi></p></q></p>
+that all men, everywhere, could be free.--Yours,<hi rend="smallcap"> A. LINCOLN.</hi></p></q></p>
 
 <p rend="center"><hi rend="smallcap">Miscellaneous.</hi></p> <p>The
 appropriations made at the last Session of Congress reached the
@@ -4308,7 +4249,7 @@ lint, and is said to answer extremely well.</p></div2>
 <biblScope type="pages">p.279</biblScope>
 <date value="1862-09-13">September 13, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zd6</idno></bibl>
 
 <p>In Pennsylvania there is a law to prevent thistles from seeding.
 Any individual allowing thistles to ripen on his premises is liable to
@@ -4323,7 +4264,7 @@ a penalty of ten dollars.</p></div2>
 <biblScope type="pages">p.279</biblScope>
 <date value="1862-09-13">September 13, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zf9</idno></bibl>
 <p>During a recent storm in Iron Mountain, America, the lightning
 proved a good servant by striking a large ore bank in one of the
 furnace cuts, and throwing down from 2000 to 2500 tons of ore. To
@@ -4340,7 +4281,7 @@ hundred dollars.</p>
 <biblScope type="pages">p.282</biblScope>
 <date value="1862-09-13">September 13, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zgd</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London:
 Saturday, September</hi> 13, 1862.</hi></p>
@@ -4394,7 +4335,7 @@ permanent strength by the aid of such auxiliaries.</p></div2>
 <biblScope type="pages">p.301</biblScope>
 <date value="1862-09-20">September 20, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zhh</idno></bibl>
 
 <p rend="center">THE SITUATION IN AMERICA.</p>
 <p><hi rend="smallcap">Assuming</hi> that the intelligence received at
@@ -4465,7 +4406,7 @@ had speedily to abandon. The Federals were preparing to evacuate
 Cynthiana, while from 20,000 to 30,000 Confederates occupied
 Lexington. Frankfort had also been abandoned by the Federals, while
 Louisville was threatened. In Tennessee there has been continued
-fighting; in Louisiana the recapture of B&#x00E2;ton Rouge had encouraged the
+fighting; in Louisiana the recapture of B&#xE2;ton Rouge had encouraged the
 Confederates to attempt the recovery of New Orleans, which city was
 menaced by Generals Breckenridge and Van Dorn, with a force variously
 stated at 20,000 and 30,000 men. Thus it appears that while the
@@ -4573,11 +4514,11 @@ American nation.</p></div2>
 <biblScope type="pages">p.302</biblScope>
 <date value="1862-09-20">September 20, 1862</date>
 
-</bibl> 
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zjm</idno></bibl> 
 <p rend="center"><hi rend="italic">FOREIGN INTELLIGENCE</hi>.<lb/>AMERICA.</p>
 
 <p>By the arrival of the Hibernian and the City of Washington we have
-telegrams vi&#x00E2; Cape Race until the evening of the 8th inst.</p>
+telegrams vi&#xE2; Cape Race until the evening of the 8th inst.</p>
 
 <p rend="center"><hi rend="smallcap">War News.</hi></p>
 <p>On the 30th ult. the Confederates under Jackson, Longstreet, and
@@ -4681,7 +4622,7 @@ years of age, residing in the border counties, to repel invasion.</p>
 <p>Nashville, Tennessee, has also been evacuated by the Federals and
 occupied by the Confederate General Bragg.</p>
 
-<p>The Federals have fallen back from B&#x00E2;ton Rouge upon New
+<p>The Federals have fallen back from B&#xE2;ton Rouge upon New
 Orleans. General Butler has called out the Free Negro militia,
 organised under the Louisiana State Government. This city is
 threatened by Generals Van Dorn and Breckinridge.</p>
@@ -4707,7 +4648,7 @@ deducted without regard to the residence of the owner.</p>
 Island are holding council in Providence, with what object is
 unknown.</p>
 
-<p>H.P. Anderson, an attach&#x00E9; of the British Legation at Washington,
+<p>H.P. Anderson, an attach&#xE9; of the British Legation at Washington,
 had arrived at Memphis and recommended all British subjects to make
 declaration of their nationality within fourteen days before the
 Provost-Marshal.  By this means it is hoped that British subjects will
@@ -4727,7 +4668,7 @@ has risen to 19 per cent.</p></div2>
 <biblScope type="pages">p.302</biblScope>
 <date value="1862-09-20">September 20, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zkq</idno></bibl>
 
 <p>The <hi rend="italic">Memphis Bulletin</hi> publishes the
 particulars of the loss of the Acacia steam-boat on a "snag." There
@@ -4743,7 +4684,7 @@ all the women save one.</p></div2>
 <biblScope type="pages">p.326</biblScope>
 <date value="1862-09-27">September 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zmt</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
@@ -4838,7 +4779,7 @@ they were, could not be spared from the front.</q></p>
 <p>The Federal loss in artillery in the recent battles in Virginia,
 was more than thirty pieces. No batteries were taken from the
 Confederates.</p>
-<p>On evacuating B&#x00E2;ton Rouge, the Federals carried off the State
+<p>On evacuating B&#xE2;ton Rouge, the Federals carried off the State
 library, the State-house pictures, the statue of Washington, and a
 number of contrabands.</p>
 
@@ -4870,8 +4811,7 @@ Dakotah were in an unsettled state, and likely to rise against the
 whites.</p>
 
 <p>Notwithstanding that the new tariff been in operation for five
-weeks, the imports of dry goods and general merchandise at New York<pb
-n="327"/> are higher than at the corresponding period of 1860 and
+weeks, the imports of dry goods and general merchandise at New York<pb n="327"/> are higher than at the corresponding period of 1860 and
 1861. A commercial authority says:-- <q>People are consuming as many
 foreign goods as ever, notwithstanding the increase in the
 price. Buyers of imported goods--viz., silks, laces, French muslins,
@@ -4900,8 +4840,7 @@ kind.</p>
 suffering poor in Ireland. The elections have gone in favour of the
 Union Republicans and adversely to the Democrats.</p></div2>
 
-<div2 id="iln41.1166.002" n="Echoes of the Week, and the International
-      Exhibition" type="article">
+<div2 id="iln41.1166.002" n="Echoes of the Week, and the International       Exhibition" type="article">
 <head>Echoes of the Week, and the International Exhibition</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4910,7 +4849,7 @@ Union Republicans and adversely to the Democrats.</p></div2>
 <biblScope type="pages">p.334</biblScope>
 <date value="1862-09-27">September 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1znx</idno></bibl>
 <p rend="center"><hi rend="italic">ECHOES OF THE WEEK, AND THE
 INTERNATIONAL EXHIBITION</hi>.</p>
 
@@ -4934,7 +4873,7 @@ variety of "stampeding"?</p></div2>
 <biblScope type="pages">p.346</biblScope>
 <date value="1862-09-27">September 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zp1</idno></bibl>
 
 <p>A letter from New York has the following anecdote:--<q>"Among the
 prisoners in Fort M'Henry there was, up to the 28th of June last, a 
@@ -4958,7 +4897,7 @@ Norfolk."</q></p></div2>
 <biblScope type="pages">p.351</biblScope>
 <date value="1862-09-27">September 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zq4</idno></bibl>
 
 <p>Both in Demarara and Antigua the question of introducing black and
 coloured labourers from the United States is seriously under
@@ -4973,7 +4912,7 @@ consideration.</p></div2>
 <biblScope type="pages">p.357</biblScope>
 <date value="1862-10-04">October 4, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zr7</idno></bibl>
 
 <p rend="center">The Southern Nation and The</p>
 <p rend="center">Northern Union.</p>
@@ -5062,7 +5001,7 @@ fashion, the results are lamentably different. Though it offers the
 common soldier a rate of payment higher than that of a Lieutenant in
 the Austrian service, though it gladly accepts foreigners fresh from
 the emigrant-ship, though it piles bounty upon bounty, and offers in
-some districts as much as 500 dols., or &#x00A3;100 sterling, per man as an
+some districts as much as 500 dols., or &#xA3;100 sterling, per man as an
 inducement to serve even for nine months, it fails to get together the
 armies for which it calls. And, worse than all, these armies, even if
 obtained, would be insufficient to conquer the South if they were
@@ -5151,11 +5090,11 @@ both of the combatants.</p></div2>
 <biblScope type="pages">p.358</biblScope>
 <date value="1862-10-04">October 4, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zsb</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
-<p>By the arrival of the Norwegian we have received telegrams, vi&#x00E2; Cape
+<p>By the arrival of the Norwegian we have received telegrams, vi&#xE2; Cape
 Race, to the evening of the 22nd ult.</p>
 
 <p rend="center"><hi rend="smallcap">War News.</hi></p>
@@ -5296,7 +5235,7 @@ sons.</p></div2>
 <biblScope type="pages">p.362</biblScope>
 <date value="1862-10-04">October 4, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1ztf</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London;
 Saturday, October</hi> 4, 1862.</hi></p>
@@ -5349,7 +5288,7 @@ articles it was accustomed to apply for.</p></div2>
 <biblScope type="pages">p.363</biblScope>
 <date value="1862-10-04">October 4, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zvj</idno></bibl>
 
 <p>Mr. Story, the American sculptor, has sold his splendid statues of
 "Cleopatra" and "The African Sibyl" to Mr. Morrison for 3000
@@ -5364,7 +5303,7 @@ guineas.</p></div2>
 <biblScope type="pages">p.366</biblScope>
 <date value="1862-10-04">October 4, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zwn</idno></bibl>
 
 <p>The second telegraph line across the continent of America will run
 by way of Los Angelos and Fort Yuma, and thence nearly on the old
@@ -5373,10 +5312,7 @@ application is to be made to Congress to allow an extension of the
 time for erecting the telegraph, which has been delayed in consequence
 of the war.</p></div2>
 
-<div2 id="iln41.1167.006" n="The Civil War in America: General Stuart
-      (Confederate) with his Cavalry Scouting in the Nerighbourhood of
-      Culpepper Courthouse.--From a Sketch by our Special Artist.--See
-      Next Page." type="illustration">
+<div2 id="iln41.1167.006" n="The Civil War in America: General Stuart       (Confederate) with his Cavalry Scouting in the Nerighbourhood of       Culpepper Courthouse.--From a Sketch by our Special Artist.--See       Next Page." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -5384,7 +5320,7 @@ of the war.</p></div2>
 <biblScope type="pages">p.368</biblScope>
 <date value="1862-10-04">October 4, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zxr</idno></bibl>
 <p>
 <figure entity="v41p368" ana="gray">
 <head>The Civil War in America: General Stuart
@@ -5404,7 +5340,7 @@ of the war.</p></div2>
 <biblScope type="pages">p.369</biblScope>
 <date value="1862-10-04">October 4, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/1zzv</idno></bibl>
 
 <p rend="center">ILLUSTRATION OF THE WAR IN AMERICA.</p>
 
@@ -5424,8 +5360,7 @@ blockade, which shuts them out of the market of good carbines and
 fine-tempered blades. As it is, they are the finest irregular body of
 horse in the world.</p></div2>
 
-<div2 id="iln41.1167.008" n="The Civil War in America: Colonel of the
-      4th Regiment European Brigade of the Confederate Army.--From a Photograph." type="illustration">
+<div2 id="iln41.1167.008" n="The Civil War in America: Colonel of the       4th Regiment European Brigade of the Confederate Army.--From a Photograph." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -5433,7 +5368,7 @@ horse in the world.</p></div2>
 <biblScope type="pages">p.369</biblScope>
 <date value="1862-10-04">October 4, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2002</idno></bibl>
 <p>
 <figure entity="v41p369" ana="gray">
 <head>The Civil War in America: Colonel of the 4th Regiment European
@@ -5442,8 +5377,7 @@ Brigade of the Confederate Army.--From a Photograph.</head>
 </p>
 </div2>
 
-<div2 id="iln41.1168.001" n="President Lincoln's Proclamation."
-      type="article">
+<div2 id="iln41.1168.001" n="President Lincoln's Proclamation." type="article">
 <head>President Lincoln's Proclamation</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5452,7 +5386,7 @@ Brigade of the Confederate Army.--From a Photograph.</head>
 <biblScope type="pages">p.373</biblScope>
 <date value="1862-10-11">October 11, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2015</idno></bibl>
 
 <p rend="center">PRESIDENT LINCOLN'S PROCLAMATION.</p>
 <p><hi rend="smallcap">The</hi> Australasian, from New York on the
@@ -5637,12 +5571,12 @@ slavery.</p></div2>
 <biblScope type="pages">p.374</biblScope>
 <date value="1862-10-11">October 11, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2028</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
 <p> By the arrival of the Canadian steamer, Bohemian, we have received
-telegrams, vi&#x00E2; Cape Race, to the evening of Sept. 29.</p>
+telegrams, vi&#xE2; Cape Race, to the evening of Sept. 29.</p>
 
 <p rend="center"><hi rend="smallcap">President Lincoln's Proclamation
 of Emancipation.</hi></p>
@@ -5804,7 +5738,7 @@ corpus and declared martial law throughout the United States with
 respect to all persons arrested for aiding the rebellion or hindering
 the draught.</p>
 
-<p>In the money market gold has risen to the premium of 23 &#x00BD; per
+<p>In the money market gold has risen to the premium of 23 &#xBD; per
 cent.</p></div2>
 
 <div2 id="iln41.1168.003" n="London, Saturday, October 11, 1862" type="article">
@@ -5816,15 +5750,14 @@ cent.</p></div2>
 <biblScope type="pages">p.378</biblScope>
 <date value="1862-10-11">October 11, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/203c</idno></bibl>
 <p rend="center"><hi rend="italic">London, Saturday, October</hi> 11, 1862.</p>
 
 <p>...Mr. Gladstone's speech at Newcastle, where he created a "sensation"
 by saying that no doubt Jefferson Davis had made a nation of the
 South, is one of the Ministerial events of the week.</p></div2>
 
-<div2 id="iln41.1168.004" n="The Confederates have just Sustained a
-      Rather Serious Loss" type="article">
+<div2 id="iln41.1168.004" n="The Confederates have just Sustained a       Rather Serious Loss" type="article">
 <head>[The Confederates Have Just Sustained a Crather Serious Loss]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5833,7 +5766,7 @@ South, is one of the Ministerial events of the week.</p></div2>
 <biblScope type="pages">p.391</biblScope>
 <date value="1862-10-11">October 11, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/204g</idno></bibl>
 
 <p>The Confederates have just sustained a rather serious loss on our
 own shores.  The steam-ship Iona, which is said to have been purchased
@@ -5851,7 +5784,7 @@ The officers and crew were saved.</p></div2>
 <biblScope type="pages">p.398</biblScope>
 <date value="1862-10-18">October 18, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/205k</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the steamer Etna we have received New York
@@ -5866,8 +5799,7 @@ several days in visiting Harper's Ferry and the Antietam battle-field
 and reviewing the troops.</p>
 <p>General M'Clellan officially reports that the total Federal loss in
 the battles of Antietam Creek and South Mountain was 14,700 in killed,
-wounded, and missing. From the time when the Federals first<pb
-n="399"/> encountered the enemy in Maryland up to the time when the
+wounded, and missing. From the time when the Federals first<pb n="399"/> encountered the enemy in Maryland up to the time when the
 enemy was driven into Virginia the Federals have captured thirteen
 guns and thirty-nine colours--they losing neither guns nor
 colours. The Federals have collected 14,000 smallarms on the Antietam
@@ -5954,7 +5886,7 @@ looks forward to the result of this election with interest, as sure to
 indicate the predominant opinion of the people of the Middle States on
 the new policy recently announced by the President.</p>
 
-<p>Gold maintained itself at 22 &#x00BC; premium.</p>
+<p>Gold maintained itself at 22 &#xBC; premium.</p>
 
 <p rend="center"><hi rend="smallcap">Canada.</hi></p>
 <p>Lord Monck has been enthusiastically received by the people of
@@ -5972,10 +5904,10 @@ Scotia.</p></div2>
 <biblScope type="pages">p.399</biblScope>
 <date value="1862-10-18">October 18, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/206p</idno></bibl>
 
 <p>The Surgeon-General of the Federal army has declined to receive
-hom&#x0153;opathic physicians as surgeons in the army.</p>
+hom&#x153;opathic physicians as surgeons in the army.</p>
 <p>The expenditure of the Confederate Government up to the 1st of
 August last is declared by the Secessionist journals to be about
 seventy millions sterling.</p>
@@ -5993,7 +5925,7 @@ employed is estimated at 8,500,000 dols.</p></div2>
 <biblScope type="pages">p.403</biblScope>
 <date value="1862-10-18">October 18, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/207s</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London:
 Saturday, October</hi> 18, 1862.</hi></p>
@@ -6040,8 +5972,7 @@ must now await in meekness the storm that will follow their receipt of
 Mr. Gladstone's and Sir G. Lewis's speeches, in which the success of
 the South is described as all but certain.</p></div2>
 
-<div2 id="iln41.1169.004" n="Echoes of the Week, and the International
-      Exhibition." type="article">
+<div2 id="iln41.1169.004" n="Echoes of the Week, and the International       Exhibition." type="article">
 <head>Echoes of the Week, and the International Exhibition</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6050,7 +5981,7 @@ the South is described as all but certain.</p></div2>
 <biblScope type="pages">p.403</biblScope>
 <date value="1862-10-18">October 18, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/208w</idno></bibl>
 
 <p rend="center">ECHOES OF THE WEEK, AND THE INTERNATIONAL</p>
 <p rend="center">EXHIBITION.</p>
@@ -6095,8 +6026,7 @@ word which is to be found in all modern dictionaries, albeit generally
 inserted under protest as a superfluous innovation, but which
 Mr. Richard Rush, the accomplished Minister from the United States to
 this country, assured Mr. Canning, in 1818, was an American word
-devised by his ingenious countrymen to signify a thing being <hi
-rend="italic">tedious</hi> as well as <hi rend="italic">long.</hi></p></div2>
+devised by his ingenious countrymen to signify a thing being <hi rend="italic">tedious</hi> as well as <hi rend="italic">long.</hi></p></div2>
 
 <div2 id="iln41.1169.005" n="The Pacific Telegraph Company" type="article">
 <head>[The Pacific Telegraph COMPANY]</head>
@@ -6107,7 +6037,7 @@ rend="italic">tedious</hi> as well as <hi rend="italic">long.</hi></p></div2>
 <biblScope type="pages">p.418</biblScope>
 <date value="1862-10-18">October 18, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2090</idno></bibl>
 
 <p>The Pacific Telegraph Company have erected their wires between the
 Missouri and the Sierra Nevada, a distance of 1600 miles, and thus
@@ -6130,7 +6060,7 @@ of the Amoor, the Mississippi of Asiatic Russia.</p></div2>
 <biblScope type="pages">p.427</biblScope>
 <date value="1862-10-18">October 18, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20b3</idno></bibl>
 
 <p rend="center">THE DOWNFALL OF AMERICAN SLAVERY.</p>
 
@@ -6152,7 +6082,7 @@ the Provisional Government of the French Republic a similar
 measure. The emancipation of the Jews is always in progress in various
 quarters of the civilised world. In the Austrian empire, Poland, and
 Roumania the peasants have of late years been freed from the vestiges
-of medi&#x00E6;val servitude, the Christian Rayahs of the Turkish empire
+of medi&#xE6;val servitude, the Christian Rayahs of the Turkish empire
 have obtained concessions of which neither the conquering nor the
 conquered race dreamed a generation ago, while the crowning triumph of
 all is the manumission and endowment of 20,000,000 of Russian
@@ -6234,8 +6164,7 @@ but the Conservative Republican ones also regard the measure as a
 nauseous pill, which they gild and sweeten by the assurance, which
 they do not themselves credit, that the proclamation itself will
 remain a dead letter. Never were there more unwilling liberators than
-the Northern people, politicians, and army. There was an <hi
-rend="italic">&eacute;lan</hi> about the manner in which this undemocratic
+the Northern people, politicians, and army. There was an <hi rend="italic">&#xE9;lan</hi> about the manner in which this undemocratic
 British nation set about the work of slave emancipation, in which the
 Autocrat of all the Russias set himself to a similar duty, and in
 which the Emperor of the French proclaimed the liberation of Italy
@@ -6245,8 +6174,7 @@ into President Lincoln's manifesto, countersigned though it be by that
 deft master of rhetoric, William Henry Seward. In this feature of the
 proclamation, in its total absence of false pretences, and what in his
 mouth would savour of hypocritical cant, we may again admire the
-President's native candour. The emancipation of the slaves is <hi
-rend="italic">denounced</hi> as a penalty against the contumacious
+President's native candour. The emancipation of the slaves is <hi rend="italic">denounced</hi> as a penalty against the contumacious
 owners, who are informed in the same breath that they may avoid the
 penalty by an act of homage to the powers that be at Washington. The
 idea of bringing liberation to an oppressed race is as unwelcome to
@@ -6396,7 +6324,7 @@ occasioned by the war of the second American Revolution.</p></div2>
 <biblScope type="pages">p.430</biblScope>
 <date value="1862-10-25">October 25, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20c6</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
@@ -6540,7 +6468,7 @@ yield.</q></p>
 <biblScope type="pages">p.431</biblScope>
 <date value="1862-10-25">October 25, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20d9</idno></bibl>
 
 <p>Captain Semmes, who achieved such fame as the commander of the
 Confederate war-steamer Sumter, appears to be doing great havoc among
@@ -6558,7 +6486,7 @@ whalers.</p></div2>
 <biblScope type="pages">p.431</biblScope>
 <date value="1862-10-25">October 25, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20fd</idno></bibl>
 <p>The following is the form of pledge given by Federal prisoners when
 liberated on parole:--"We, the undersigned, solemnly pledge our sacred
 word of honour that we will not, during the existing war between the
@@ -6575,10 +6503,9 @@ otherwise, until exchanged or released."</p></div2>
 <biblScope type="pages">p.434</biblScope>
 <date value="1862-10-25">October 25, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20gh</idno></bibl>
 
-<p rend="center"><hi rend="smallcap"><hi
-rend="italic">London: Saturday, October</hi> 25, 1862.</hi></p>
+<p rend="center"><hi rend="smallcap"><hi rend="italic">London: Saturday, October</hi> 25, 1862.</hi></p>
 <p rend="center">----</p>
 
 <p><hi rend="smallcap">Another</hi> change of scene in the ever-shifting melodrama of the
@@ -6594,8 +6521,7 @@ invading body is represented to be small, not numbering more than
 3000; and it is therefore uncertain whether the movement is a mere
 demonstration or a feint, or whether it is to be followed up. New York
 is declared to be "in the greatest astonishment." As Mr. Disraeli has
-it in "Alarcos"--<q rend="center">The King's amazed?</q><q
-rend="center">Poor man!</q>
+it in "Alarcos"--<q rend="center">The King's amazed?</q><q rend="center">Poor man!</q>
 The Confederates had left Lexington and were moving towards Cumberland
 Gap. M'Clellan claims a decided victory at Antietam, and, unlike
 General Pope, is able to point to tangible witnesses of his success in
@@ -6635,11 +6561,11 @@ idea.</p></div2>
 <biblScope type="pages">p.454</biblScope>
 <date value="1862-11-01">November 1, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20hm</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Saxonia and City of Washington we have New
-York journals of the 18th and telegrams, vi&#x00E2; Cape Race, to the 21st
+York journals of the 18th and telegrams, vi&#xE2; Cape Race, to the 21st
 ult.</p>
 
 <p rend="center"><hi rend="smallcap">War News.</hi></p>
@@ -6736,8 +6662,7 @@ surrendering themselves to the Federal authorities.</p>
 
 <p>Gold had risen to a premium of 32 per cent.</p></div2>
 
-<div2 id="iln41.1172.002" n="Some of the Pennsylvanian Quakers and New
-      York Shakers" type="article">
+<div2 id="iln41.1172.002" n="Some of the Pennsylvanian Quakers and New       York Shakers" type="article">
 <head>[Some of the Pennsylvanian Quakers and New York Shakers]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6746,7 +6671,7 @@ surrendering themselves to the Federal authorities.</p>
 <biblScope type="pages">p.455</biblScope>
 <date value="1862-11-01">November 1, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20jq</idno></bibl>
 
 <p>Some of the Pennsylvanian Quakers and New York Shakers have pleaded
 exemption from the draught in both States on the ground of their
@@ -6762,7 +6687,7 @@ religious scruples against war. The plea has been allowed.</p>
 <biblScope type="pages">p.455</biblScope>
 <date value="1862-11-01">November 1, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20kt</idno></bibl>
 <p>Mr. Consul Bunch, of Charleston, has reported to the Foreign Office
 upon the quantity of cotton in the Southern States. His estimate is
 that there are at least 3,950,000 bales, any portion or the whole of
@@ -6778,7 +6703,7 @@ people.</p></div2>
 <biblScope type="pages">p.455</biblScope>
 <date value="1862-11-01">November 1, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20mx</idno></bibl>
 
 <p>The President of Hayti was on a tour in the North, and meeting with
 a hearty reception. The American coloured emigrants were doing well,
@@ -6796,7 +6721,7 @@ discussion.</p></div2>
 <biblScope type="pages">p.455</biblScope>
 <date value="1862-11-01">November 1, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20n1</idno></bibl>
 
 <p>Lord Lyons left Liverpool on Saturday last, in the mail steam-ship
 Scotia, for Washington, where he will resume his duties as British
@@ -6810,8 +6735,7 @@ Northern and Southern States, or that "Lord Lyons carries off in his
 pocket instructions likely to lead to a crisis on his landing." Our
 contemporary, indeed, has no doubt that "our intercourse with the
 President's Government will remain as peaceful and uninterrupted as
-the best friends of England and America could wish." The <hi
-rend="italic">Times</hi> says:--"It is understood that Lord Lyons
+the best friends of England and America could wish." The <hi rend="italic">Times</hi> says:--"It is understood that Lord Lyons
 takes out the most full assurance that, while England will be eager,
 in concert with other civilised nations, to adopt any step that may
 tend to promote a permanent return of peace, either through a
@@ -6829,7 +6753,7 @@ non-interference."</p></div2>
 <biblScope type="pages">p.455</biblScope>
 <date value="1862-11-01">November 1, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20p4</idno></bibl>
 
 <p>Mr. Cobden addressed a crowded meeting of his constituents at
 Rochdale on Wednesday evening. In the course of his speech he made
@@ -6850,7 +6774,7 @@ relieved.</p></div2>
 <biblScope type="pages">p.455</biblScope>
 <date value="1862-11-01">November 1, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20q7</idno></bibl>
 
 <p>Joe Balding, a coloured man, died in the Zanesville (Ohio)
 Infirmary last mouth, aged 121 years. He was a Virginian slave in the
@@ -6865,7 +6789,7 @@ days of Washington.</p></div2>
 <biblScope type="pages">p.459</biblScope>
 <date value="1862-11-01">November 1, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20rb</idno></bibl>
 <p rend="center">LONDON: SATURDAY, NOVEMBER 1, 1862.</p>
 <p>...American news is interesting, though as yet not very important. The
 "feat of arms" of the war has been General Stuart's ride round General
@@ -6901,7 +6825,7 @@ island a match for the world in arms.</p></div2>
 <biblScope type="pages">p.486</biblScope>
 <date value="1862-11-08">November 8, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20sf</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the City of New York we have received telegrams
@@ -7006,7 +6930,7 @@ her to sea. No date has been fixed for departure.</p></div2>
 <biblScope type="pages">p.487</biblScope>
 <date value="1862-11-08">November 8, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20tj</idno></bibl>
 
 <p rend="center">THE CONFEDERATE STATES OF AMERICA.</p>
 <p rend="center"><hi rend="italic">(From our Special Artist and
@@ -7075,8 +6999,7 @@ press in relation to the suppression of the rebellion. Mr. Seward's
 circulars to the United States' Ministers abroad have been marvellous
 specimens of promises on a promise to do something. At each additional
 disaster to the Federal arms he has paraphrased in his despatches the
-words of the popular song, "There's a good time coming, boys, <hi
-rend="italic"> only wait a little longer;</hi>" and for eighteen weary
+words of the popular song, "There's a good time coming, boys, <hi rend="italic"> only wait a little longer;</hi>" and for eighteen weary
 months of bloodshed he has been singing this refrain, and each month
 his voice has grown more uncertain and wavering in the notes. How long
 England and France will submit to be bamboozled by the hollow
@@ -7100,7 +7023,7 @@ assert the South can never be subjugated. There is not a mother with
 two sons, having lost one by a Northern bullet, who will not freely
 offer up the other on the altar of her country. As I have said before,
 there are men serving in the ranks of the Southern army worth a
-hundred thousand dollars (&#x00a3;20,000) submitting to every privation--and
+hundred thousand dollars (&#xA3;20,000) submitting to every privation--and
 such privations were never known--and, if need be, they will continue
 to bear with them and prolong the struggle for years. Never have I
 heard a doubtful word expressed as to the ultimate result of the war
@@ -7144,8 +7067,7 @@ invariably successful in their entrance to and exit from 'Dixie's
 Land,' there are occasional seizures effected by Federal vessels,
 which are made the most of by the New York press and in Mr. Seward's
 despatches. As an instance, it may be mentioned that Mr. Vizetelly, the
-well-known and popular correspondent of the <hi
-rend="smallcap">Illustrated London News</hi>, has been singularly
+well-known and popular correspondent of the <hi rend="smallcap">Illustrated London News</hi>, has been singularly
 unfortunate in the despatches which during the last six weeks he has
 addressed to England, and which have, without exception, been
 subjected to moving accidents by flood and field. But the fact remains
@@ -7154,9 +7076,7 @@ reached by vessels every day and every night, and that, consequently,
 there is no such scarcity as the Federal journals have loved to
 paint."</p></div2>
 
-<div2 id="iln41.1174.002a" n="Oil-Springs at Tarr Farm, Oil Creek,
-			      Venango County, Pennsylvania--See Supplement,
-      Page 506." type="illustration">
+<div2 id="iln41.1174.002a" n="Oil-Springs at Tarr Farm, Oil Creek,          Venango County, Pennsylvania--See Supplement,       Page 506." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7164,7 +7084,7 @@ paint."</p></div2>
 <biblScope type="pages">p.488</biblScope>
 <date value="1862-11-08">November 8, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20vn</idno></bibl>
 <p>
 <figure entity="v41p488" ana="land money">
 <head>Oil-Springs at Tarr Farm, Oil Creek, Venango County, Pennsylvania--See Supplement,
@@ -7182,7 +7102,7 @@ paint."</p></div2>
 <biblScope type="pages">p.490</biblScope>
 <date value="1862-11-08">November 8, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20wr</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London,
 Saturday, November</hi> 8, 1862.</hi></p>
@@ -7195,8 +7115,7 @@ situation," and which repudiates and denounces the so-called abolition
 proclamation. The members in course of election will have no
 constitutional position for a year, but the public opinion manifested
 by such a reaction as is alleged will have immediate and formidable
-operation. The war news is almost <hi
-rend="italic">nil</hi>. M'Clellan does not advance; there is a rumour
+operation. The war news is almost <hi rend="italic">nil</hi>. M'Clellan does not advance; there is a rumour
 that Halleck is to be removed from Washington to the west, and that
 M'Clellan is to be succeeded by one who may or may not deserve the
 title of "the judicious Hooker." The Confederate spoil in Kentucky has
@@ -7214,7 +7133,7 @@ re</hi> the terrible Alabama.</p></div2>
 <biblScope type="pages">p.495</biblScope>
 <date value="1862-11-08">November 8, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20xv</idno></bibl>
 
 <p rend="center">SCIENTIFIC NEWS.</p>
 
@@ -7233,7 +7152,7 @@ magnitude.</p></div2>
 <biblScope type="pages">p.506</biblScope>
 <date value="1862-11-08">November 8, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/20zz</idno></bibl>
 
 
 <p rend="center">THE AMERICAN OIL-WELLS.</p>
@@ -7307,7 +7226,7 @@ erected.</p></div2>
 <biblScope type="pages">p.510</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2104</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
@@ -7408,8 +7327,7 @@ by the collision of two trains carrying Federal soldiers. Thirty
 persons were killed, and nearly fifty wounded, many of them
 mortally.</p></div2>
 
-<div2 id="iln41.1174.002" n="Despatch of the French Government on
-      Mediation in America" type="article">
+<div2 id="iln41.1174.002" n="Despatch of the French Government on       Mediation in America" type="article">
 <head>Despatch of the French Government on Mediation in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7418,7 +7336,7 @@ mortally.</p></div2>
 <biblScope type="pages">p.511</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2117</idno></bibl>
 
 <p rend="center">DESPATCH OF THE FRENCH GOVERNMENT ON MEDIATION</p>
 <p rend="center">IN AMERICA.</p>
@@ -7457,8 +7375,7 @@ opinion a movement towards conciliatory ideas, and assist in hastening
 the moment when the return of peace might become possible."</p>
 
 <p>The question of European intervention in America is believed to
-have met with slight encouragement from Russia. The official <hi
-rend="italic">Journal of St. Petersburg</hi> publishes the following
+have met with slight encouragement from Russia. The official <hi rend="italic">Journal of St. Petersburg</hi> publishes the following
 statement:--"We believe that the foreign Powers have no right whatever
 to interfere in America. We also believe that no other intervention
 would be possible than one similar to the advice which Russia has
@@ -7474,7 +7391,7 @@ struggle."</p></div2>
 <biblScope type="pages">p.511</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/212b</idno></bibl>
 
 <p>The <hi rend="italic">Alta-California</hi> of Oct. 1 says:--"The
 despatches which we publish to-day were transmitted from Chicago,
@@ -7482,9 +7399,7 @@ Illinois, to Carson City, Nevada Territory, direct, a distance of over
 two thousand three hundred miles, the longest circuit overland that
 the current has ever worked over."</p></div2>
 
-<div2 id="iln41.1174.004" n="The Confederate Sloop-of-War '290,' or
-      Alabama, Leaving the Merchant-Ship Tonowanda.--See Supplement,
-      Page 535." type="illustration">
+<div2 id="iln41.1174.004" n="The Confederate Sloop-of-War '290,' or       Alabama, Leaving the Merchant-Ship Tonowanda.--See Supplement,       Page 535." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7492,7 +7407,7 @@ the current has ever worked over."</p></div2>
 <biblScope type="pages">p.513</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/213f</idno></bibl>
 <p>
 <figure entity="v41p513" ana="naval">
 <head>The Confederate Sloop-of-War "290," or
@@ -7511,7 +7426,7 @@ the current has ever worked over."</p></div2>
 <biblScope type="pages">p.515</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/214j</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London:
 Saturday, November</hi> 15, 1862.</hi></p>
@@ -7519,8 +7434,7 @@ Saturday, November</hi> 15, 1862.</hi></p>
 <p>...The Emperor of the French is desirous that England and Russia
 should join him in proposing a suspension of hostilities between the
 belligerent Powers in America. A despatch from M. Drouyn de Lhuys to
-these two Powers appears in Thursday's <hi
-rend="italic">Moniteur</hi>, in which he states that "the Emperor has
+these two Powers appears in Thursday's <hi rend="italic">Moniteur</hi>, in which he states that "the Emperor has
 charged him to propose to the Cabinets of London and St. Petersburg to
 come to an understanding to employ their influence at Washington and
 in the Confederate States in order to bring about a suspension of
@@ -7543,8 +7457,7 @@ disavow the naval feat which has given such justifiable offence to
 Spain, and the emulation of Wilkes is to be punished, on the demand of
 the Spanish Government.</p></div2>
 
-<div2 id="iln41.1174.006" n="The Civil War in America: The Last Stand
-      Made by the Federals at Manassas.--From a Sketch by Our Special Artist." type="illustration">
+<div2 id="iln41.1174.006" n="The Civil War in America: The Last Stand       Made by the Federals at Manassas.--From a Sketch by Our Special Artist." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7552,7 +7465,7 @@ the Spanish Government.</p></div2>
 <biblScope type="pages">p.516-517</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/215n</idno></bibl>
 <p>
 <figure entity="v41p513" ana="battle blue gray">
 <head>The Civil War in America: The Last Stand
@@ -7561,8 +7474,7 @@ the Spanish Government.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1174.007" n="The Civil War in America: View, From the
-      West, of Richmond, Virginia, Capital of the Confederate States.--From a Sketch by Our Special Artist." type="illustration">
+<div2 id="iln41.1174.007" n="The Civil War in America: View, From the       West, of Richmond, Virginia, Capital of the Confederate States.--From a Sketch by Our Special Artist." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7570,7 +7482,7 @@ the Spanish Government.</p></div2>
 <biblScope type="pages">p.516-517</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/216r</idno></bibl>
 <p>
 <figure entity="v41p516-517" ana="rich">
 <head>The Civil War in America: View, From the West, of Richmond,
@@ -7580,9 +7492,7 @@ Special Artist.</head>
 </p>
 </div2>
 
-<div2 id="iln41.1174.008" n="The Civil War in America: Camp of the
-      Confederate Marines at Drury's Bluff, on the James River.--From
-      a Sketch by Our Special Artist.--See Next Page." type="illustration">
+<div2 id="iln41.1174.008" n="The Civil War in America: Camp of the       Confederate Marines at Drury's Bluff, on the James River.--From       a Sketch by Our Special Artist.--See Next Page." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7590,7 +7500,7 @@ Special Artist.</head>
 <biblScope type="pages">p.520</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/217v</idno></bibl>
 <p>
 <figure entity="v41p520" ana="camp gray">
 <head>The Civil War in America: Camp of the
@@ -7600,9 +7510,7 @@ Special Artist.</head>
 </p>
 </div2>
 
-<div2 id="iln41.1174.009" n="The Civil War in America: Drury's Bluff,
-      A Confederate Position on the James River, Near Richmond.--From
-      a Sketch by Our Special Artist." type="illustration">
+<div2 id="iln41.1174.009" n="The Civil War in America: Drury's Bluff,       A Confederate Position on the James River, Near Richmond.--From       a Sketch by Our Special Artist." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7610,7 +7518,7 @@ Special Artist.</head>
 <biblScope type="pages">p.521</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/218z</idno></bibl>
 <p>
 <figure entity="v41p521" ana="insta">
 <head>The Civil War in America: Drury's Bluff,
@@ -7629,7 +7537,7 @@ Special Artist.</head>
 <biblScope type="pages">p.521</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2192</idno></bibl>
 
 <p rend="center">ILLUSTRATIONS OF THE WAR IN AMERICA.</p>
 
@@ -7677,7 +7585,7 @@ important posts of the Confederates.</p></div2>
 <biblScope type="pages">p.535</biblScope>
 <date value="1862-11-15">November 15, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21b5</idno></bibl>
 
 <p rend="center">THE ALABAMA ("290").</p>
 
@@ -7733,9 +7641,7 @@ Mr. Chilton has received a note stating that the communication of the
 chamber has been received and is under the consideration of her
 Majesty's Ministers.</p></div2>
 
-<div2 id="iln41.1175.001" n="Captain Semmes, of the Confederate
-      States' Sloop-of-War Alabama ('290'). Major-General 'Stonewall'
-      Jackson, of the Confederate Army.--See Page 606." type="illustration">
+<div2 id="iln41.1175.001" n="Captain Semmes, of the Confederate       States' Sloop-of-War Alabama ('290'). Major-General 'Stonewall'       Jackson, of the Confederate Army.--See Page 606." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7743,7 +7649,7 @@ Majesty's Ministers.</p></div2>
 <biblScope type="pages">p.589</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21c8</idno></bibl>
 <p>
 <figure entity="v41p589" ana="pic">
 <head>Captain Semmes, of the Confederate
@@ -7762,7 +7668,7 @@ Majesty's Ministers.</p></div2>
 <biblScope type="pages">p.542</biblScope>
 <date value="1862-11-22">November 22, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21dc</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 
@@ -7871,7 +7777,7 @@ distress in Lancashire.</p></div2>
 <biblScope type="pages">p.543</biblScope>
 <date value="1862-11-22">November 22, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21fg</idno></bibl>
 
 <p rend="center">THE PROPOSED MEDIATION IN AMERICA.</p>
 
@@ -7915,8 +7821,7 @@ question of mediation, based on the internal position of America, and
 expresses its belief that the hesitation of the two Cabinets has
 nearly reached its limit.</p></div2>
 
-<div2 id="iln41.1175.004" n="The Present Population of the City of San
-      Francisco" type="article">
+<div2 id="iln41.1175.004" n="The Present Population of the City of San       Francisco" type="article">
 <head>[The Present Population of the City of San Francisco]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7925,7 +7830,7 @@ nearly reached its limit.</p></div2>
 <biblScope type="pages">p.543</biblScope>
 <date value="1862-11-22">November 22, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21gk</idno></bibl>
 
 <p>The present population of the city of San Francisco is estimated as
 follows:--Men, 32,500; women, 18,000; children, 28,000; Chinese, 3000;
@@ -7940,7 +7845,7 @@ negroes, 1800; floating population, 7000: total, 90,300.</p></div2>
 <biblScope type="pages">p.543</biblScope>
 <date value="1862-11-22">November 22, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21hp</idno></bibl>
 
 <p>The British and Foreign Anti-Slavery Society have issued an address
 with a view of calling forth public sympathy in this country with the
@@ -7957,7 +7862,7 @@ founding a confederacy to perpetuate slavery.</p></div2>
 <biblScope type="pages">p.547</biblScope>
 <date value="1862-11-22">November 22, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21js</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London:
 Saturday, November</hi> 22, 1862.</hi></p>
@@ -7997,7 +7902,7 @@ trouble.</p></div2>
 <biblScope type="pages">p.565</biblScope>
 <date value="1862-11-29">November 29, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21kw</idno></bibl>
 
 <p rend="center">PRESIDENT LINCOLN'S COUP-D'ETAT.</p>
 <p><hi rend="smallcap">It</hi> is with some reason supposed that there
@@ -8184,7 +8089,7 @@ quarter--namely, from the majority of the American people themselves.</p></div2>
 <biblScope type="pages">p.567</biblScope>
 <date value="1862-11-29">November 29, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21m0</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the steamer Bohemian we are in receipt of
@@ -8304,7 +8209,7 @@ Island.</p></div2>
 <biblScope type="pages">p.567</biblScope>
 <date value="1862-11-29">November 29, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21n3</idno></bibl>
 
 <p>Captain Mullan, of the United States army, commander of the
 Columbia and Missouri overland route expedition, has returned home
@@ -8325,7 +8230,7 @@ along the road.</p></div2>
 <biblScope type="pages">p.587</biblScope>
 <date value="1862-11-29">November 29, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21p6</idno></bibl>
 
 <p>It is reported that Captain Maury, who arrived in the Arabia,
 proceeds to St. Petersburg, as Commissioner from the Confederate
@@ -8340,7 +8245,7 @@ States to Russia.</p></div2>
 <biblScope type="pages">p.590</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21q9</idno></bibl>
 
 <p rend="center">CAPTAIN SEMMES.</p>
 <p><hi rend="smallcap">The</hi> people of the Confederate States of
@@ -8366,7 +8271,7 @@ as his are.</p></div2>
 <biblScope type="pages">p.590</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21rd</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the steamer City of Baltimore we have telegrams
@@ -8423,8 +8328,7 @@ disease and battles, during the last ten months, at 75,000 men.</p>
 <p rend="center"><hi rend="smallcap">Emancipation In
 Louisiana.</hi></p>
 
-<p>A letter from New Orleans to the editor of the New York <hi
-rend="italic">Times</hi>, dated the 8th ult., writes thus of the state
+<p>A letter from New Orleans to the editor of the New York <hi rend="italic">Times</hi>, dated the 8th ult., writes thus of the state
 of the negro population in Louisiana:--<pb n="591"/><q>The appearance
 of the Federal troops has put an end to all work among the negroes,
 and sent a majority of the planters flying for their lives with
@@ -8500,7 +8404,7 @@ subject.</p></div2>
 <biblScope type="pages">p.594</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21sh</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London:
 Saturday, December</hi> 6, 1862.</hi></p>
@@ -8532,7 +8436,7 @@ Times</hi>, as the best cure for domestic dissensions.</p></div2>
 <biblScope type="pages">p.606</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21tm</idno></bibl>
 
 <p rend="center">GENERAL "STONEWALL" JACKSON.</p>
 <p><hi rend="smallcap">We</hi> give on the first page a Portrait of
@@ -8603,8 +8507,7 @@ military genius to stock two or three military schools of the size of
 West Point.</q></p>
 
 <p>The following sketch of the great Confederate General is given by
-the New York correspondent of the <hi
-rend="italic">Times</hi>:--<q>The interest excited by this strange man
+the New York correspondent of the <hi rend="italic">Times</hi>:--<q>The interest excited by this strange man
 is as curious as it is unprecedented. A classmate of M'Clellan at West
 Point, and there considered slow and heavy, unfavourably known in
 Washington as a hypochondriac and <hi rend="italic">malade
@@ -8648,13 +8551,12 @@ triumphantly, would have been utter impossibilities.</q></p></div2>
 <biblScope type="pages">p.606</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21vq</idno></bibl>
 
 <p>During the present war in America the Austrian Government has sold
 80,000 muskets to the Northerners.</p></div2>
 
-<div2 id="iln41.1177.006" n="In Reply to the Complaints sent to the
-      Foreign Office" type="article">
+<div2 id="iln41.1177.006" n="In Reply to the Complaints sent to the       Foreign Office" type="article">
 <head>[In Reply to the Complaints sent to the Foreign Office]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8663,7 +8565,7 @@ triumphantly, would have been utter impossibilities.</q></p></div2>
 <biblScope type="pages">p.606</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21wt</idno></bibl>
 
 <p>In reply to the complaints sent to the Foreign Office from
 Liverpool respecting the destruction of British property on board
@@ -8681,7 +8583,7 @@ war, of course--must seek compensation in a Southern Prize Court.</p>
 <biblScope type="pages">p.606</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21xx</idno></bibl>
 
 <p>At the Washington Post-office, among the contents of the mail from
 the camp there recently came to light on article quite unexpected--a
@@ -8701,7 +8603,7 @@ Office is not stated.</p></div2>
 <biblScope type="pages">p.614</biblScope>
 <date value="1862-12-06">December 6, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/21z1</idno></bibl>
 
 <p>The newly-formed Emancipation Society has issued an address, with
 the object of evoking an unequivocal expression of English feeling in
@@ -8722,7 +8624,7 @@ abolition in America by all the means in their power.</p></div2>
 <biblScope type="pages">p.622</biblScope>
 <date value="1862-12-13">December 13, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2206</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p>By the arrival of the Etna we are in receipt of news to the 29th
@@ -8827,8 +8729,7 @@ Milne is in pursuit of the Confederate Steamer Alabama.</p>
 
 <p>The Boston newspaper proprietors have raised the price of their
 journals 50 per cent, in consequence of the rise in the price of every
-article that enters into the composition of a newspaper. The <hi
-rend="italic">New York Times</hi> predicts that the New York press
+article that enters into the composition of a newspaper. The <hi rend="italic">New York Times</hi> predicts that the New York press
 will have to do the same, as they are now giving to the public for two
 cents what costs them four or five to produce.</p>
 
@@ -8855,10 +8756,10 @@ cities for the Lancashire operatives.</p></div2>
 <biblScope type="pages">p.623</biblScope>
 <date value="1862-12-13">December 13, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2219</idno></bibl>
 
 <p><hi rend="smallcap">The Hibiscus Mosheutos</hi>, a North American
-perennial plant of the order Malvace&#x00E6;, has received the name of
+perennial plant of the order Malvace&#xE6;, has received the name of
 American jute, from the nature of its fibre, although it belongs to a
 different order. Specimens of this fibre in various stages of
 manufacture have been recently laid before the Franklin Institute,
@@ -8885,7 +8786,7 @@ the simplest character, &amp;c.</p></div2>
 <biblScope type="pages">p.626</biblScope>
 <date value="1862-12-13">December 13, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/222d</idno></bibl>
 
 <p rend="center"><hi rend="smallcap"><hi rend="italic">London,
 Saturday, December</hi> 13, l862.</hi></p>
@@ -8941,7 +8842,7 @@ news.</p></div2>
 <biblScope type="pages">p.639</biblScope>
 <date value="1862-12-13">December 13, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/223h</idno></bibl>
 <p>In Freeport, Illinois, there is an insurance company for the
 purpose of insuring people against damage of property by
 tornadoes.</p></div2>
@@ -8955,7 +8856,7 @@ tornadoes.</p></div2>
 <biblScope type="pages">p.646</biblScope>
 <date value="1862-12-20">December 20, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/224m</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi>.<lb/>AMERICA.</p>
 <p rend="center"><hi rend="smallcaps">President Lincoln's
@@ -9289,7 +9190,7 @@ ordnance department are stated to have been 1926 field and siege and
 travelling forges and battery-waggons. 1,276,686 smallarms, 987,291
 sets of equipments and accoutrements, and 2l3,991,127 rounds of
 ammunition for artillery and smallarms, still leaving large supplies
-of ordnance stores at the arsenals and d&#x00E9;p&#x00F4;ts. He acknowledges the
+of ordnance stores at the arsenals and d&#xE9;p&#xF4;ts. He acknowledges the
 benefit the army has derived from negro labour in Louisiana and South
 Carolina, and on the James and Potomac Rivers. The demand for their
 labour has exceeded the supply available.</p>
@@ -9341,7 +9242,7 @@ the suppression of this offence are recommended.</p></div2>
 <biblScope type="pages">p.650</biblScope>
 <date value="1862-12-20">December 20, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/225q</idno></bibl>
 
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">LONDON:
 SATURDAY, DECEMBER</hi> 20, 1862.</hi></p>
@@ -9406,7 +9307,7 @@ Englishmen who suffer by the American War.</p></div2>
 <biblScope type="pages">p.655</biblScope>
 <date value="1862-12-20">December 20, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/226t</idno></bibl>
 <p rend="center">DEMOCRATIC PROCESSION IN NEW YORK.</p>
 <p><hi rend="smallcaps">OUR</hi> Engraving represents a procession of
 the Democratic party, with flags, transparencies, and bands of music,
@@ -9435,9 +9336,7 @@ current of Federal politics, and which clearly foreshadows that the
 Republican party has no chance of electing another President in
 succession to Mr. Lincoln.</p></div2>
 
-<div2 id="iln41.1179.004" n="The Election of Mr. Horatio Seymour,
-      Governor of the State of New York: Democratic Procession Passing
-      the New York Hotel." type="illustration">
+<div2 id="iln41.1179.004" n="The Election of Mr. Horatio Seymour,       Governor of the State of New York: Democratic Procession Passing       the New York Hotel." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -9445,7 +9344,7 @@ succession to Mr. Lincoln.</p></div2>
 <biblScope type="pages">p.656</biblScope>
 <date value="1862-12-20">December 20, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/227x</idno></bibl>
 <p>
 <figure entity="v41p656" ana="ps pg">
 <head>The Election of Mr. Horatio Seymour,
@@ -9464,7 +9363,7 @@ succession to Mr. Lincoln.</p></div2>
 <biblScope type="pages">p.686</biblScope>
 <date value="1862-12-27">December 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2281</idno></bibl>
 
 <p rend="center"><hi rend="italic">FOREIGN INTELLIGENCE.</hi></p>
 <p rend="center">AMERICA.</p>
@@ -9587,7 +9486,7 @@ commencement of the war.</p></div2>
 <biblScope type="pages">p.690</biblScope>
 <date value="1862-12-27">December 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/2294</idno></bibl>
 
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London,
 Saturday, December</hi> 27, 1862.</hi></p>
@@ -9634,7 +9533,7 @@ operatives.</p></div2>
 <biblScope type="pages">p.691</biblScope>
 <date value="1862-12-27">December 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/22b7</idno></bibl>
 
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...There is a paper panic in New York. Rags, so it seems, are no
@@ -9644,8 +9543,7 @@ the supply of three million pounds of paper, to be paid for--in
 paper--on delivery; but there are no bidders. Meanwhile, with ruin
 staring them in the face, according to the veracious "Manhattan," all
 the New York papers have increased their prices fifty per cent, and
-the astute Mr. James Gordon Bennett, of the <hi
-rend="italic">Herald</hi>, wishing to preserve intact the fortune he
+the astute Mr. James Gordon Bennett, of the <hi rend="italic">Herald</hi>, wishing to preserve intact the fortune he
 has accumulated, and not caring to cope with evil days, has retired
 from business altogether.</p></div2>
 
@@ -9658,7 +9556,7 @@ from business altogether.</p></div2>
 <biblScope type="pages">p.695</biblScope>
 <date value="1862-12-27">December 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/22cb</idno></bibl>
 
 <p rend="center">ILLUSTRATIONS OF THE WAR IN AMERICA.</p>
 <p rend="center"><hi rend="smallcaps">An Irish Recruiting-Office In
@@ -9772,8 +9670,7 @@ Tompkins, now in process of construction on the point of Staten
 Island, will effectually command the approaches to New
 York.</p></div2>
 
-<div2 id="iln41.1180.005" n="Recruiting in New York: The Irish
-      Zouaves.--See Preceding Page." type="illustration">
+<div2 id="iln41.1180.005" n="Recruiting in New York: The Irish       Zouaves.--See Preceding Page." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -9781,7 +9678,7 @@ York.</p></div2>
 <biblScope type="pages">p.696</biblScope>
 <date value="1862-12-27">December 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/22df</idno></bibl>
 <p>
 <figure entity="v41p696a" ana="pg blue">
 <head>Recruiting in New York: The Irish
@@ -9790,8 +9687,7 @@ York.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1180.006" n="Fort Lafayette, The American Bastille for
-      Political Prisoners." type="illustration">
+<div2 id="iln41.1180.006" n="Fort Lafayette, The American Bastille for       Political Prisoners." type="illustration">
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -9799,7 +9695,7 @@ York.</p></div2>
 <biblScope type="pages">p.696</biblScope>
 <date value="1862-12-27">December 27, 1862</date>
 
-</bibl>
+<idno type="ark">http://pid.emory.edu/ark:/25593/22fj</idno></bibl>
 <p>
 <figure entity="v41p696b" ana="prison">
 <head>Fort Lafayette, The American Bastille for
@@ -9852,7 +9748,7 @@ York.</p></div2>
 <interp id="map" value="Maps"/>
 </interpGrp>
 <interpGrp type="Military">
-<interp id="battle" value="Battles &#x0026; Battlefields"/>
+<interp id="battle" value="Battles &amp; Battlefields"/>
 <interp id="camp" value="Camp Life"/>
 <interp id="insta" value="Installations"/>
 <interp id="prison" value="Prisons"/>
@@ -9861,8 +9757,8 @@ York.</p></div2>
 <interp id="red" value="Troops, British"/>
 <interp id="blue" value="Troops, Union"/>
 </interpGrp>
-<interpGrp type="Naval Scenes &#x0026; Battles">
-<interp id="naval" value="Naval Scenes &#x0026; Battles"/>
+<interpGrp type="Naval Scenes &amp; Battles">
+<interp id="naval" value="Naval Scenes &amp; Battles"/>
 </interpGrp>
 <interpGrp type="Portraits">
 <interp id="pic" value="Portraits"/>
@@ -9870,12 +9766,9 @@ York.</p></div2>
 <interpGrp type="Slave Life">
 <interp id="slave" value="Slave Life"/>
 </interpGrp>
-<interpGrp type="Transportation, Commerce, &#x0026; Industry">
-<interp id="money" value="Transportation, Commerce, &#x0026;
-	Industry"/>
+<interpGrp type="Transportation, Commerce, &amp; Industry">
+<interp id="money" value="Transportation, Commerce, &amp;  Industry"/>
 </interpGrp>
 </p>
 </div1>
 </back></text></TEI.2>
-
-
