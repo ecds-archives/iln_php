@@ -37,7 +37,7 @@ London News Perspective</title>
                <title>The Illustrated London News</title>
                <biblScope type="volume">Volume 40</biblScope> 
                <date>Jan to June 1862</date>
-<extent># paragraph</extent>    
+
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -2000,7 +2000,7 @@ from a sketch by our Special Artist, is given at page 61.</p></div2>
    
 	<idno type="ark">http://pid.emory.edu/ark:/25593/gv6</idno></bibl>
 <p>
-<figure entity="v40p64-65" ana="money">
+<figure entity="v40p64-65" ana="money" width="2487" height="1869">
 <head>The Great International Railway
       Suspension-Bridge over the Niagara River, Connecting the New
       York Central and the Great Western of Canada Railways.</head>
@@ -4837,7 +4837,6 @@ or shell interfere with my pen or pencil.</p>
            <biblScope type="pages">p. 209</biblScope> 
            <date value="1862-03-01">March 1,1862</date>
          
-<extent># paragraph</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/jgh</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL NEWS</hi><lb/>
 AMERICA.</p>
@@ -8315,7 +8314,7 @@ Virginia) and the Monitor in Hampton Roads</head>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/mcc</idno></bibl>
 <p>
-<figure entity="v40p366-367" ana="naval">
+<figure entity="v40p366-367" ana="naval" width="2341" height="877">
 <head>The Civil War in America: Action between the Merrimac (or
 Virginia) and the Monitor in Hampton Roads.</head>
 </figure>
@@ -8610,7 +8609,6 @@ American Ship C.W. Connor, near Bermuda.&#x2014;See Preceding Page.</head>
            <biblScope type="pages">p. 383</biblScope> 
            <date value="1862-04-19">April 19, 1862</date>
          
-<extent># paragraph</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/mmv</idno></bibl>
 <p rend="center">OUR AMERICAN BROTHERS.</p>
 <p><hi rend="smallcaps">If</hi> any two nations in the world ought
@@ -12392,7 +12390,6 @@ premium of gold had risen to 4&#xBD; per cent.</p></div2>
            <biblScope type="pages">p. 628</biblScope> 
            <date value="1862-06-21">June 21, 1862</date>
          
-<extent># paragraph</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/ps8</idno></bibl>
 
 <p rend="center"><hi rend="italic">LONDON, SATURDAY, JUNE</hi> 21, 1862.</p>

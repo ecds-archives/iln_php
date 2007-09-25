@@ -37,7 +37,7 @@ London News Perspective</title>
 <title>The Illustrated London News</title>
                <biblScope type="volume">Volume 46</biblScope> 
  <date>January to June 1865</date>
-</bibl>
+	    </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -67,6 +67,8 @@ London News Perspective</title>
 <biblScope type="pages">p. 2</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n0b</idno></bibl>
 <p rend="center">THE YEAR BEFORE US.</p>
 <p>...The prospect westerly is not so auspicious. Would that it were
@@ -104,6 +106,8 @@ improbable....</p></div2>
 <biblScope type="pages">p. 2</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>17 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n1f</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -193,7 +197,7 @@ setting forth their desire that a fair and honest neutrality should be
 maintained between the belligerent States of America....</p></div2>
 
 <div2 id="iln46.1296.003" n="The Sinking of the Confederate Steamer       Florida, in the James River." type="Article">
-<head>THE SINKING OF THE CONFEDERATE STEAMER FLORIDA, IN THE JAMES RIVER</head>
+<head>The Sinking of the Confederate Steamer Florida, in the James River</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 46</biblScope>
@@ -201,6 +205,8 @@ maintained between the belligerent States of America....</p></div2>
 <biblScope type="pages">p. 5-6</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n2j</idno></bibl>
 <p rend="center">THE SINKING OF THE <hi rend="smallcaps">Confederate Steamer Florida, In The
 James River.</hi></p>
@@ -243,9 +249,9 @@ ashore. In a few minutes after sending the two boats to the Florida,
 Captain Woodward, of the Atlanta, came himself on
 
 <p>
-<figure entity="v46p5" ana="naval">
-<head>THE CONFEDERATE STEAMER FLORIDA SUNK IN
-      THE JAMES RIVER.</head>
+<figure entity="v46p5" ana="naval" width="895" height="415">
+<head>The Confederate Steamer Florida Sunk in
+      the James River.</head>
 </figure>
 </p>
 <pb n="6"/> board to
@@ -283,6 +289,8 @@ accompany her."</p></div2>
 <biblScope type="pages">p. 7</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n3n</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...But they are saying at the clubs, too, that Lord Lyons will not
@@ -312,6 +320,8 @@ exceedingly popular....</p></div2>
 <biblScope type="pages">p. 18</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n4r</idno></bibl>
 
 <p>An Atlas of America, illustrating the physical and political
@@ -334,6 +344,8 @@ want.</p></div2>
 <biblScope type="pages">p. 22</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n5v</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...The opening paper in <hi rend="italic">Fraser</hi>, "President
@@ -382,6 +394,8 @@ Missionary Ridge....</p></div2>
 <biblScope type="pages">p. 23</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n6z</idno></bibl>
 <p>A company has been formed in New York, styled "The American and
 British West India Cotton Company," which has leased for a term of
@@ -397,6 +411,8 @@ Bahamas.</p></div2>
 <biblScope type="pages">p. 23</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n72</idno></bibl>
 <p>The seal of the Confederate States of America, the composition of
 which is by J. H. Foley, R. A., contains as a centre a representation
@@ -419,6 +435,8 @@ its diameter is from three to four inches.</p>
 <biblScope type="pages">p. 23</biblScope>
 <date value="1865-01-07">January 7, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n85</idno></bibl>
 <p>There appears to be as large an amount of carelessness on the part
 of the letter-writing community in America as in the Old Country. The
@@ -439,6 +457,8 @@ writers, but the great majority had to be destroyed.</p></div2>
 <biblScope type="pages">p. 26</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
 
+<extent>18 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1n98</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -602,6 +622,8 @@ recognised and arrested.</p></div2>
 <biblScope type="pages">p. 30-31</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nbc</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, January</hi> 14, 1865.</hi></p>
@@ -724,6 +746,8 @@ prove.</p></div2>
 <biblScope type="pages">p. 42</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ncg</idno></bibl>
 <p rend="center">THE TOWN AND PORT OF SAVANNAH.</p>
 <p><hi rend="smallcaps">The</hi> town and port of Savannah, which
@@ -763,10 +787,12 @@ capabilities of the place for military fortification.</p></div2>
 <biblScope type="pages">p. 42</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ndk</idno></bibl>
 <p>
-<figure entity="v46p42" ana="map">
-<head>THE ENVIRONS OF SAVANNAH.</head>
+<figure entity="v46p42" ana="map" width="845" height="931">
+<head>The Environs of Savannah.</head>
 </figure>
 </p>
 </div2>
@@ -780,6 +806,8 @@ capabilities of the place for military fortification.</p></div2>
 <biblScope type="pages">p. 43</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nfp</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">The</hi> explosion of fifty-five tons of
@@ -852,6 +880,8 @@ mouth.</p></div2>
 <biblScope type="pages">p. 43</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ngs</idno></bibl>
 <p>A fisherman recently hauled up a silver fork, marked "Atlantic,"
 near the spot in Long Island Sound where the steamer Atlantic 
@@ -868,6 +898,8 @@ water.</p></div2>
 <biblScope type="pages">p. 43</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nhw</idno></bibl>
 <p>Mr. Edward Watkin, M.P., president of the Grand Trunk Railway of
 Canada, had an interview yesterday week with Mr. Cardwell, at the
@@ -886,6 +918,8 @@ North American Provinces.</p></div2>
 <biblScope type="pages">p. 47</biblScope>
 <date value="1865-01-14">January 14, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nj0</idno></bibl>
 <p>A son of Dr. Livingstone, who enlisted in the Federal service
 after the war broke out, was, in the latter part of last year, taken
@@ -900,6 +934,8 @@ prisoner by the Confederates.</p></div2>
 <biblScope type="pages">p. 51</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>21 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nk3</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -1007,6 +1043,8 @@ merchant-ships.</p></div2>
 <biblScope type="pages">p. 51</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nm6</idno></bibl>
 <p>The Queen has approved of M. Henri Du Chesne as Consul at Hong-Kong
 for the Emperor of the French. Her Majesty has also approved of
@@ -1027,6 +1065,8 @@ Malta for the Queen of Spain.</p></div2>
 <biblScope type="pages">p. 51</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nn9</idno></bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegrams have been received through Mr. Reuter's
@@ -1048,12 +1088,14 @@ St. Albans raiders.</p>
 <biblScope type="pages">p. 56</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1npd</idno></bibl>
 <p>
-<figure entity="v46p56" ana="land gray">
-<head>THE WAR IN AMERICA: RENDEZVOUS OF
-      MOSBY'S MEN IN THE PASS OF THE BLUE RIDGE, SHENANDOAH
-      VALLEY.--FROM A SKETCH BY OUR SPECIAL ARTIST.--SEE PAGE 66.</head>
+<figure entity="v46p56" ana="land gray" width="1289" height="876">
+<head>The War in America: Rendezvous of
+      Mosby's Men in the Pass of the Blue Ridge, Shenandoah
+      Valley.--From a Sketch by Our Special Artist.--See Page 66.</head>
 </figure>
 </p>
 </div2>
@@ -1067,6 +1109,8 @@ St. Albans raiders.</p>
 <biblScope type="pages">p. 58</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nqh</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...We met the other day a gentleman who has made several millions
@@ -1102,6 +1146,8 @@ Wales in Canada is inimitably funny.</p></div2>
 <biblScope type="pages">p. 59</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nrm</idno></bibl>
 <p rend="center">WINTER SKETCHES IN NEW YORK.</p>
 <p><hi rend="smallcaps">A Correspondent</hi> in New York, to whose
@@ -1153,12 +1199,14 @@ brace."</p></div2>
 <biblScope type="pages">p. 60</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nsq</idno></bibl>
 <p>
-<figure entity="v46p60" ana="daily street pg">
-<head>WINTER SKETCHES FROM NEW YORK: AN
-      OMNIBUS SLEIGH.; SKATING BY NIGHT IN THE CENTRAL PARK.--SEE
-      PRECEDING PAGE.</head>
+<figure entity="v46p60" ana="daily street pg" width="833" height="1230">
+<head>Winter Sketches from New York: An
+      Omnibus Sleigh.; Skating by Night in the Central Park.--See
+      Preceding Page.</head>
 </figure>
 </p>
 </div2>
@@ -1172,6 +1220,8 @@ brace."</p></div2>
 <biblScope type="pages">p. 65</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ntt</idno></bibl>
 <p rend="center"><hi rend="smallcaps">Illustrations Of</hi>THE
 WAR IN AMERICA.<lb/><hi rend="smallcaps">General Sherman.</hi></p>
@@ -1209,10 +1259,12 @@ in the military service of the Federal Government.</p></div2>
 <biblScope type="pages">p. 65</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nvx</idno></bibl>
 <p>
-<figure entity="v46p65" ana="pic">
-<head>GENERAL SHERMAN, OF THE FEDERAL ARMY.</head>
+<figure entity="v46p65" ana="pic" width="546" height="643">
+<head>General Sherman, of the Federal Army.</head>
 </figure>
 </p>
 </div2>
@@ -1225,11 +1277,13 @@ in the military service of the Federal Government.</p></div2>
 <biblScope type="pages">p. 66</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nw1</idno></bibl>
 <p>
-<figure entity="v46p66" ana="map">
-<head>MAP ILLUSTRATING GEN<hi rend="superscript">L</hi>. SHERMAN'S MARCH
-      THROUGH GEORGIA FROM ATLANTA TO SAVANNAH, NOV<hi rend="superscript">R</hi>. &amp; DEC<hi rend="superscript">R</hi>. 1864.</head>
+<figure entity="v46p66" ana="map" width="768" height="861">
+<head>Map Illustrating Gen<hi rend="superscript">l</hi>. Sherman's March
+      through Georgia from Atlanta to Savannah, Nov<hi rend="superscript">r</hi>. &amp; Dec<hi rend="superscript">r</hi>. 1864.</head>
 </figure>
 </p>
 </div2>
@@ -1243,6 +1297,8 @@ in the military service of the Federal Government.</p></div2>
 <biblScope type="pages">p. 66</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nx4</idno></bibl>
 <p rend="center">GENERAL SHERMAN'S MARCH THROUGH GEORGIA.</p>
 <p>The map of General Sherman's route from Atlanta to Savannah, which
@@ -1349,6 +1405,8 @@ Mr. Lincoln "as a Christmas-box."</p></div2>
 <biblScope type="pages">p. 66-67</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1nz7</idno></bibl>
 <p rend="center">RENDEZVOUS OF MOSBY'S MEN IN THE PASS OF THE<lb/><hi rend="smallcaps">Blue Ridge, Shenandoah Valley.</hi></p>
 <p>Our Special Artist and Correspondent now at the head-quarters of
@@ -1411,6 +1469,8 @@ Virginia."</p></div2>
 <biblScope type="pages">p. 67</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p0d</idno></bibl>
 <p>A New York paper states that a man named Colley, who died recently
 at Lockport in that State, kept his money in an old boiler buried in
@@ -1426,6 +1486,8 @@ three-cent pieces.</p></div2>
 <biblScope type="pages">p. 70</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p1h</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p>...<hi rend="italic">The War in America</hi>--1863-64. By Edward
@@ -1463,6 +1525,8 @@ preparation....</p></div2>
 <biblScope type="pages">p. 71</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p2m</idno></bibl>
 <p>A hopeful miner, writing from Nevada territory, the land of silver
 bricks, says:--"It is estimated that the silver mines of Nevada will
@@ -1480,6 +1544,8 @@ nearly doubled after the 1st of next January."</p></div2>
 <biblScope type="pages">p. 74</biblScope>
 <date value="1865-01-21">January 21, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p3q</idno></bibl>
 <p>A New York paper states that Professor Silliman examined part of
 Southern California in the summer, and found oil equal in quality to
@@ -1497,6 +1563,8 @@ of a fine agricultural district.</p></div2>
 <biblScope type="pages">p. 77-78</biblScope>
 <date value="1865-01-28">January 28, 1865</date>
 
+<extent>6 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p4t</idno></bibl>
 <p rend="center">CANADA AND THE UNITED STATES.</p>
 <p><hi rend="smallcaps">The</hi> relations of our chief Transatlantic
@@ -1663,6 +1731,8 @@ of forbearing to add fuel to the flame.</p></div2>
 <biblScope type="pages">p. 79</biblScope>
 <date value="1865-01-28">January 28, 1865</date>
 
+<extent>17 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p5x</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi></p>
@@ -1780,6 +1850,8 @@ empty west of Toronto.</p></div2>
 <biblScope type="pages">p. 86</biblScope>
 <date value="1865-01-28">January 28, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p61</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...Talking of companies (limited), we hear that a body of
@@ -1820,6 +1892,8 @@ may not be tried in London the stupendous?</p></div2>
 <biblScope type="pages">p. 102-103</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
 
+<extent>15 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p74</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -1962,6 +2036,8 @@ writ of habeas corpus had been demanded on his behalf.</p></div2>
 <biblScope type="pages">p. 107</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p87</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...The Hon. Edward Everett is dead. He was one of the best of
@@ -2018,6 +2094,8 @@ Greek roots and Congress water....</p></div2>
 <biblScope type="pages">p. 107</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1p9b</idno></bibl>
 <p>The Right Rev. Thomas Church Brownell, D.D., Bishop of the American
 Episcopalian Church at Hartford, Connecticut, died a few weeks since,
@@ -2034,6 +2112,8 @@ Connecticut.</p></div2>
 <biblScope type="pages">p. 110</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pbf</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...<hi rend="italic">Macmillan</hi>, as usual, aspires to and
@@ -2065,6 +2145,8 @@ circumspect...</p></div2>
 <biblScope type="pages">p. 118</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
 
+<extent>8 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pcj</idno></bibl>
 <p>...It is precisely because we are sincerely solicitous for the
 abiding welfare of the projected Confederation that we cannot join
@@ -2195,6 +2277,8 @@ Stock Exchange....</p></div2>
 <biblScope type="pages">p. 118</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pdn</idno></bibl>
 
 <p>The mail from Sherman's army, by the Arago, reached the New York
@@ -2215,6 +2299,8 @@ largest mail that the New York post office ever received.</p></div2>
 <biblScope type="pages">p. 119</biblScope>
 <date value="1865-02-04">February 4, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pfr</idno></bibl>
 <p>The Rev. Mr. Greene's congregation in Hatfield, Massachusetts, made
 their pastor "surprise visits" on Christmas evening and on New-Year's
@@ -2234,6 +2320,7 @@ clergymen in this country.</p></div2>
 <biblScope type="pages">p. 126-127</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
 
+<extent>14 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pgv</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -2329,6 +2416,7 @@ agitating for the extension of the project to those colonies.</p>
 <biblScope type="pages">p. 134</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
 
+<extent>13 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1phz</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi rend="smallcaps">TUESDAY</hi>.</p>
@@ -2437,6 +2525,8 @@ were not founded on justice.</p>
 <biblScope type="pages">p. 142</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pj2</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">My Diary in America in the Midst of War.</hi> By
@@ -2532,6 +2622,8 @@ and passion.</p></div2>
 <biblScope type="pages">p. 143</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pk5</idno></bibl>
 <p rend="center">THE NEGRO IN AMERICA.</p>
 <p>"<hi rend="italic">The coloured man</hi>," said Mr. Frederick
@@ -2665,6 +2757,8 @@ were exterminated.</p></div2>
 <biblScope type="pages">p. 147</biblScope>
 <date value="1865-02-11">February 11, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pm8</idno></bibl>
 <p>A pleasant hit at the neck-and-neck race of extravagance which the
 two powers Shoddy and Petroleum are running in the States is thus made
@@ -2692,6 +2786,8 @@ lose her chance of a better match.</p></div2>
 <biblScope type="pages">p. 150-151</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
 
+<extent>14 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pnc</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -2836,6 +2932,8 @@ not effectual, resistance to an enemy.</p></div2>
 <biblScope type="pages">p. 151</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ppg</idno></bibl>
 <p>The Cape papers contain voluminous accounts of the cruiser
 Shenandoah, formerly the Sea King, and her doings. She is commanded
@@ -2855,6 +2953,8 @@ friend of the captain.</p></div2>
 <biblScope type="pages">p. 151</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pqk</idno></bibl>
 <p>An American journal asserts that in the annual report of the chief
 of the bureau of ordnance of the United States Navy department, it is
@@ -2875,6 +2975,8 @@ quantity of powder were all mixed up together."</p></div2>
 <biblScope type="pages">p. 151</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1prp</idno></bibl>
 <p rend="center">WILMINGTON AND THE CAPE FEAR RIVER,<lb/><hi rend="smallcaps">North Carolina.</hi></p>
 <p><hi rend="smallcaps">The</hi> Map of Wilmington and the Cape Fear
@@ -2951,10 +3053,12 @@ lengthened resistance.</p></div2>
 <biblScope type="pages">p. 152</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pss</idno></bibl>
 <p>
-<figure entity="v46p152" ana="map">
-<head>WILMINGTON AND CAPE FEAR RIVER, NORTH CAROLINA.--SEE PRECEDING PAGE.</head>
+<figure entity="v46p152" ana="map" width="837" height="1242">
+<head>Wilmington and Cape Fear River, North Carolina.--See Preceding Page.</head>
 </figure>
 </p>
 </div2>
@@ -2968,6 +3072,8 @@ lengthened resistance.</p></div2>
 <biblScope type="pages">p. 154</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ptw</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, February</hi> 18, 1865.</hi></p>
@@ -3068,6 +3174,7 @@ again, and to better purpose.</p></div2>
 <biblScope type="pages">p. 158</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
 
+<extent>2 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pv0</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">...HOUSE OF COMMONS.--<hi rend="smallcaps">Friday,
@@ -3106,6 +3213,8 @@ elapsed....</p>
 <biblScope type="pages">p. 158</biblScope>
 <date value="1865-02-18">February 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pw3</idno></bibl>
 <p>Immediately before the outbreak of the American civil war Mr. John
 E. Fuller, of New York, one of the oldest members of the Abolitionist
@@ -3141,6 +3250,8 @@ South had been disposed to adjust their dispute by a sum thus easily worked.
 <biblScope type="pages">p. 174-175</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
 
+<extent>18 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1px6</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -3284,6 +3395,8 @@ the Government, was adopted by a large majority.</p></div2>
 <biblScope type="pages">p. 179</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1pz9</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...That famous Amazon of Secessia, Belle Boyd, now Mrs. Hardinge,&#x2014;and whose marriage to the gallant but susceptible lieutenant whom she
@@ -3327,6 +3440,8 @@ Assaye, and Napoleon at Arcola?</p></div2>
 <biblScope type="pages">p. 183</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q0g</idno></bibl>
 <p>Seven hundred and eighty-two national banks are in operation in
 the Federal States, with a capital of 183,093,000 dols.</p></div2>
@@ -3340,6 +3455,8 @@ the Federal States, with a capital of 183,093,000 dols.</p></div2>
 <biblScope type="pages">p. 183-184</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q1k</idno></bibl>
 <p rend="center">THE PRONG-HORNED ANTELOPE.</p>
 <p><hi rend="smallcaps">The</hi> Zoological Society of London have
@@ -3380,6 +3497,8 @@ re-exported to England.</p></div2>
 <biblScope type="pages">p. 190</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q2p</idno></bibl>
 <p>A physician, occupying a high official position in Massachusetts,
 says that since the beginning of the war there has been a remarkable
@@ -3397,6 +3516,8 @@ women.</p></div2>
 <biblScope type="pages">p. 195</biblScope>
 <date value="1865-02-25">February 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q3s</idno></bibl>
 <p>The crew of the Confederate cruiser Florida, captured at Bahia by
 the war-steamer Wachusett, were released from Fort Warren, in Boston
@@ -3412,6 +3533,8 @@ from which they were duly landed at Liverpool.</p></div2>
 <biblScope type="pages">p. 198</biblScope>
 <date value="1865-03-04">March 4, 1865</date>
 
+<extent>16 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q4w</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -3505,6 +3628,8 @@ being every week struck.</p></div2>
 <biblScope type="pages">p. 199</biblScope>
 <date value="1865-03-04">March 4, 1865</date>
 
+<extent>10 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q50</idno></bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegrams have been received through Mr. Reuter's
@@ -3565,6 +3690,8 @@ United States in the case of the St. Albans raiders.</p></div2>
 <biblScope type="pages">p. 221-222</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
 
+<extent>7 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q63</idno></bibl>
 <p rend="center">THE FEDERAL OCCUPATION OF<lb/><hi rend="smallcaps">CHARLESTON.</hi></p>
 <p><hi rend="smallcaps">The</hi> evacuation of Charleston, South
@@ -3703,6 +3830,8 @@ bury her first in forgetfulness.</p></div2>
 <biblScope type="pages">p. 222-223</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
 
+<extent>11 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q76</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi></p>
@@ -3803,6 +3932,8 @@ raiders.</p></div2>
 <biblScope type="pages">p. 239</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q89</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...Anything by the Dean of St. Paul's is sure to be read with
@@ -3837,6 +3968,8 @@ breach between the allies on this account....</p></div2>
 <biblScope type="pages">p. 242</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1q9d</idno></bibl>
 <p>The shipments of treasure from San Francisco last year amounted to
 nearly 56,000,000 dols. the largest amount, a San Francisco paper
@@ -3851,6 +3984,8 @@ states, ever shipped in a like period.</p></div2>
 <biblScope type="pages">p. 243</biblScope>
 <date value="1865-03-11">March 11, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qbh</idno></bibl>
 <p>The <hi rend="italic">Gazette</hi> of yesterday se'nnight contains
 the official announcement that Sir Frederick Bruce, who lately
@@ -3866,11 +4001,13 @@ in place of Lord Lyons, resigned.</p></div2>
 <biblScope type="pages">p. 245</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qcm</idno></bibl>
 <p>
-<figure entity="v46p245" ana="prison insta">
-<head>THE WAR IN AMERICA: PRISON IN CASEMATE
-      NO. 2, FORT LAFAYETTE, NEW YORK HARBOUR.--SEE PAGE 262.</head>
+<figure entity="v46p245" ana="prison insta" width="868" height="635">
+<head>The War in America: Prison in Casemate
+      No. 2, Fort Lafayette, New York Harbour.--See Page 262.</head>
 </figure>
 </p>
 </div2>
@@ -3884,6 +4021,8 @@ in place of Lord Lyons, resigned.</p></div2>
 <biblScope type="pages">p. 246</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>19 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qdq</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -4044,6 +4183,8 @@ carrying on the inquiry according to law.</p></div2>
 <biblScope type="pages">p. 247</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qft</idno></bibl>
 <p rend="center">PRESIDENT LINCOLN'S INAUGURAL ADDRESS.</p>
 <p>The following is the full text of President Lincoln's inaugural
@@ -4113,12 +4254,14 @@ and a lasting peace among ourselves and with all nations.</p></div2>
 <biblScope type="pages">p. 248</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qgx</idno></bibl>
 <p>
-<figure entity="v46p248" ana="insta prison">
-<head>THE WAR IN AMERICA: INTERIOR OF FORT
-      LAFAYETTE, NEW YORK HARBOUR.; CAMP OF CONFEDERATE PRISONERS AT
-      ELMIRA, NEW YORK.--SEE PAGE 262.</head>
+<figure entity="v46p248" ana="insta prison" width="964" height="1415">
+<head>The War in America: Interior of Fort
+      Lafayette, New York Harbour.; Camp of Confederate Prisoners at
+      Elmira, New York.--See Page 262.</head>
 </figure>
 </p>
 </div2>
@@ -4131,11 +4274,13 @@ and a lasting peace among ourselves and with all nations.</p></div2>
 <biblScope type="pages">p. 249</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qh1</idno></bibl>
 <p>
-<figure entity="v46p249" ana="insta battle gray">
-<head>THE WAR IN AMERICA: INTERIOR OF FORT FISHER, NEAR WILMINGTON, DURING THE SECOND BOMBARDMENT.--FROM A
-      SKETCH BY OUR SPECIAL ARTIST.--SEE PAGE 262.</head>
+<figure entity="v46p249" ana="insta battle gray" width="1355" height="934">
+<head>The War in America: Interior of Fort Fisher, near Wilmington, During the Second Bombardment.--From a
+      Sketch by Our Special Artist.--See Page 262.</head>
 </figure>
 </p>
 </div2>
@@ -4149,6 +4294,8 @@ and a lasting peace among ourselves and with all nations.</p></div2>
 <biblScope type="pages">p. 250</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qj4</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, March</hi> 18, 1865.</hi></p>
@@ -4254,6 +4401,8 @@ towards better things than can be gained by war.</p></div2>
 <biblScope type="pages">p. 254</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qk7</idno></bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
 <p>...It was not to be taken as a necessity that a great debate on
@@ -4281,6 +4430,7 @@ cherished and, if possible, expanded....</p></div2>
 <biblScope type="pages">p. 254</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>17 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qmb</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">...HOUSE OF COMMONS.--<hi rend="smallcaps">Monday.</hi></p>
@@ -4454,6 +4604,8 @@ be adjusted without difficulty.</p>
 <biblScope type="pages">p. 262</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qnf</idno></bibl>
 <p rend="center">ILLUSTRATIONS OF THE WAR IN AMERICA.</p>
 <p rend="center"><hi rend="smallcaps">The Bombardment Of Fort
@@ -4577,6 +4729,8 @@ was in the service of his country.</p></div2>
 <biblScope type="pages">p. 266</biblScope>
 <date value="1865-03-18">March 18, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qpj</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">Artemus Ward His Book</hi>. (John Camden Hotten.)
@@ -4671,6 +4825,8 @@ Mr. Artemus Ward and his American humour....</p></div2>
 <biblScope type="pages">p. 269-270</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>7 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qqn</idno></bibl>
 <p rend="center">DEFENCE OF CANADA.</p>
 <p><hi rend="smallcaps">Public</hi> questions involving a known
@@ -4827,6 +4983,8 @@ blow where it will most painfully tell home upon her.</p></div2>
 <biblScope type="pages">p. 270</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>13 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qrr</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -4909,6 +5067,8 @@ being returned prisoners.</p></div2>
 <biblScope type="pages">p. 271</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qsv</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...Chang, otherwise Sing-woo-bah, the great Chinese giant, is
@@ -4958,6 +5118,8 @@ what I mean. Bring me some of it."...</p></div2>
 <biblScope type="pages">p. 278</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qtz</idno></bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
 <p>...Some member should move for a return of the number of times the
@@ -4989,6 +5151,7 @@ be of the responsibility which lies upon him....</p></div2>
 <biblScope type="pages">p. 278</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>21 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qv2</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">...HOUSE OF COMMONS.--<hi rend="smallcaps">Monday.</hi></p>
@@ -5183,6 +5346,8 @@ majority of 275 to 40.</p>
 <biblScope type="pages">p. 286</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qw5</idno></bibl>
 <p>On the 5th inst. messages were sent direct from New York to San
 Francisco, a distance of nearly four thousand miles; the largest
@@ -5199,6 +5364,8 @@ though it rained at several points on the line.</p>
 <biblScope type="pages">p. 286</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qx8</idno></bibl>
 <p>A Canadian journal states, on information which it has reason to
 believe is correct, that the number of Canadians who have enlisted in
@@ -5215,6 +5382,8 @@ have died on the battle-field.</p></div2>
 <biblScope type="pages">p. 287</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1qzc</idno></bibl>
 <p>Idaho is the largest territory in the United States yet
 organised. It is 700 miles long and 450 miles broad, and has an area
@@ -5229,6 +5398,8 @@ of 326,373 square miles.</p></div2>
 <biblScope type="pages">p. 291</biblScope>
 <date value="1865-03-25">March 25, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r0j</idno></bibl>
 <p>An oil-well in Jackson, Michigan, has been sunk 2000 ft. It is
 intended to sink it to the depth of 3000 ft. The deepest oil-well at
@@ -5243,6 +5414,8 @@ present is 2600 ft.</p></div2>
 <biblScope type="pages">p. 294</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
 
+<extent>16 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r1n</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -5346,6 +5519,8 @@ States.</p></div2>
 <biblScope type="pages">p. 295</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r2r</idno></bibl>
 <p>A Confederate ram, the Stonewall (late Olinda) is in great straits
 cruising about the Spanish and Portuguese coast. The first we heard of
@@ -5385,6 +5560,8 @@ Sacramento is about twelve knots.</p></div2>
 <biblScope type="pages">p. 305</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r3v</idno></bibl>
 <p rend="center">AMERICAN VETERANS OF THE WAR<lb/><hi rend="smallcaps">Of 1812.</hi></p>
 <p><hi rend="smallcaps">Our</hi> New York Correspondent has furnished the
@@ -5410,11 +5587,13 @@ battles of the present civil war.</p></div2>
 <biblScope type="pages">p. 305</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r4z</idno></bibl>
 <p>
-<figure entity="v46p305" ana="pic">
-<head>VETERANS OF THE WAR OF 1812 IN THE
-      STREETS OF NEW YORK.</head>
+<figure entity="v46p305" ana="pic" width="407" height="577">
+<head>Veterans of the War of 1812 in the
+      Streets of New York.</head>
 </figure>
 </p>
 </div2>
@@ -5428,6 +5607,8 @@ battles of the present civil war.</p></div2>
 <biblScope type="pages">p. 310</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r52</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">A New Atmosphere</hi>. By Gail Hamilton. (Sampson
@@ -5491,6 +5672,8 @@ restrictions....</p></div2>
 <biblScope type="pages">p. 311</biblScope>
 <date value="1865-04-01">April 1, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r65</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...Private letters from New York bring me two or three
@@ -5542,11 +5725,13 @@ Avenue....</p></div2>
 <biblScope type="pages">p. 317</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r78</idno></bibl>
 <p>
-<figure entity="v46p317" ana="daily pg">
-<head>THE WAR IN AMERICA: THE CONSCRIPTION IN
-      NEW YORK.--SEE NEXT PAGE.</head>
+<figure entity="v46p317" ana="daily pg" width="861" height="643">
+<head>The War in America: The Conscription in
+      New York.--See Next Page.</head>
 </figure>
 </p>
 </div2>
@@ -5560,6 +5745,8 @@ Avenue....</p></div2>
 <biblScope type="pages">p. 318</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r8c</idno></bibl>
 <p rend="center">THE CONSCRIPTION IN NEW YORK.</p>
 <p><hi rend="smallcaps">Our</hi> New York correspondent, by whom we
@@ -5602,6 +5789,8 @@ Times</hi>."</p></div2>
 <biblScope type="pages">p. 318</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>14 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1r9g</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -5684,11 +5873,13 @@ Buffalo, and fifteen at Chicago.</p></div2>
 <biblScope type="pages">p. 320</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rbk</idno></bibl>
 <p>
-<figure entity="v46p320" ana="ps pg pb">
-<head>THE SECOND INAUGURATION OF PRESIDENT
-      LINCOLN IN FRONT OF THE CAPITOL AT WASHINGTON.--SEE PAGE 334.</head>
+<figure entity="v46p320" ana="ps pg pb" width="971" height="1419">
+<head>The Second Inauguration of President
+      Lincoln in Front of the Capitol at Washington.--See Page 334.</head>
 </figure>
 </p>
 </div2>
@@ -5701,9 +5892,11 @@ Buffalo, and fifteen at Chicago.</p></div2>
 <biblScope type="pages">p. 321</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rcp</idno></bibl>
 <p>
-<figure entity="v46p321" ana="ps pg">
+<figure entity="v46p321" ana="ps pg" width="1339" height="922">
 <head><sic>FALL</sic> IN HONOUR OF PRESIDENT LINCOLN IN
       THE GREAT HALL OF THE PATENT OFFICE AT WASHINGTON.--SEE PAGE 334.</head>
 </figure>
@@ -5719,6 +5912,8 @@ Buffalo, and fifteen at Chicago.</p></div2>
 <biblScope type="pages">p. 326</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rds</idno></bibl>
 <p>The Confederate cruiser Shenandoah has been in Australian
 waters. On the 23rd of February she was anchored off Kings Island, not
@@ -5733,6 +5928,8 @@ far from Melbourne.</p></div2>
 <biblScope type="pages">p. 326</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rfw</idno></bibl>
 <p>We learn by telegram from Lisbon that the American Minister has
 demanded satisfaction for the firing upon the Niagara and Sacramento
@@ -5751,6 +5948,8 @@ Government has complied with these demands.</p></div2>
 <biblScope type="pages">p. 327</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rg0</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...The most remarkable paper in a very good number of <hi rend="italic">Fraser</hi> is that entitled "The Court of Rome, its
@@ -5777,6 +5976,8 @@ army. It is highly interesting....</p></div2>
 <biblScope type="pages">p. 334</biblScope>
 <date value="1865-04-08">April 8, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rh3</idno></bibl>
 <p rend="center">THE SECOND INAUGURATION OF PRESIDENT<lb/><hi rend="smallcaps">LINCOLN.</hi></p>
 <p><hi rend="smallcaps">We</hi> present two illustrations of the
@@ -5875,6 +6076,8 @@ wounded of the Federal army.</p></div2>
 <biblScope type="pages">p. 343</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
 
+<extent>8 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rj6</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -6015,6 +6218,8 @@ and South.</p></div2>
 <biblScope type="pages">p. 343</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rk9</idno></bibl>
 <p>The quarterly and monthly returns of the emigration from Liverpool show
 an enormous decrease, as compared with the corresponding period of
@@ -6043,6 +6248,8 @@ corresponding quarter of 1864 the number was 26,547.</p></div2>
 <biblScope type="pages">p. 351</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rmd</idno></bibl>
 <p rend="center">THE CONFEDERATE STEAM-RAM STONEWALL IN<lb/><hi rend="smallcaps">Lisbon Harbour.</hi></p>
 <p><hi rend="smallcaps">It</hi> has been mentioned that the Portuguese
@@ -6101,11 +6308,13 @@ View.</p></div2>
 <biblScope type="pages">p. 353</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rnh</idno></bibl>
 <p>
-<figure entity="v46p353" ana="naval">
-<head>THE CONFEDERATE STEAM-RAM STONEWALL
-      LEAVING THE HARBOUR OF LISBON.--SEE PAGE 351.</head>
+<figure entity="v46p353" ana="naval" width="849" height="581">
+<head>The Confederate Steam-Ram Stonewall
+      Leaving the Harbour of Lisbon.--See Page 351.</head>
 </figure>
 </p>
 </div2>
@@ -6119,6 +6328,8 @@ View.</p></div2>
 <biblScope type="pages">p. 358</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rpm</idno></bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
 <p>...It is probably not within the memory of many experienced
@@ -6161,6 +6372,8 @@ invasion of Canada...</p></div2>
 <biblScope type="pages">p. 362</biblScope>
 <date value="1865-04-15">April 15, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rqq</idno></bibl>
 <p>The Consul-General for the negro republic of Liberia, Mr. Gerard
 Ralston, and the Portuguese Ambassador, Count Lavradio, have just
@@ -6204,6 +6417,8 @@ for the negro race.</p></div2>
 <biblScope type="pages">p. 365</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>6 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rrt</idno></bibl>
 <p rend="center">THE DEFEAT OF GENERAL LEE.</p>
 <p><hi rend="smallcaps">The</hi> gallant Generalissimo of the
@@ -6371,11 +6586,13 @@ welcomed.</p></div2>
 <biblScope type="pages">p. 365</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rsx</idno></bibl>
 <p>
-<figure entity="v46p365" ana="pic">
-<head>LIEUTENANT-GENERAL ULYSSES S. GRANT,
-      COMMANDER-IN-CHIEF OF THE FEDERAL ARMIES.--SEE NEXT PAGE.</head>
+<figure entity="v46p365" ana="pic" width="530" height="627">
+<head>Lieutenant-General Ulysses S. Grant,
+      Commander-in-Chief of the Federal Armies.--See Next Page.</head>
 </figure>
 </p>
 </div2>
@@ -6389,6 +6606,8 @@ welcomed.</p></div2>
 <biblScope type="pages">p. 366</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rt1</idno></bibl>
 <p rend="center">GENERAL GRANT.</p>
 <p><hi rend="smallcaps">Lieutenant-General Ulysses S. Grant</hi>, the
@@ -6481,6 +6700,8 @@ York.</p></div2>
 <biblScope type="pages">p. 366-367</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>35 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rv4</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi></p>
@@ -6961,6 +7182,8 @@ consequence of the action of the Canadian Executive.</p></div2>
 <biblScope type="pages">p. 382</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rw7</idno></bibl>
 
 <p>The <hi rend="italic">Boston Traveller</hi> states that Professor
@@ -6983,6 +7206,8 @@ expedition, proceed to your work, and send your bills to me."</p></div2>
 <biblScope type="pages">p. 382</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rxb</idno></bibl>
 <p>The memorial to the memory of David Herbert Llewellyn, late surgeon
 of the Confederate Alabama, was last week erected in the parish
@@ -7005,6 +7230,8 @@ entablature with the inscription.</p></div2>
 <biblScope type="pages">p. 382</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1rzf</idno></bibl>
 <p>The tide of emigration from Ireland shows no sign of ebbing. Last
 week hundreds of people, from the grey-headed grandfather to the child
@@ -7026,6 +7253,8 @@ throng."</p></div2>
 <biblScope type="pages">p. 383</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s0m</idno></bibl>
 <p>The <hi rend="italic">Boston</hi> (U.S.) <hi rend="italic">Chronicle</hi> states that the University of Chicago
 possesses the largest, and it is believed the finest, telescope in
@@ -7044,6 +7273,8 @@ telescope is 23 ft.</p></div2>
 <biblScope type="pages">p. 383</biblScope>
 <date value="1865-04-22">April 22, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s1q</idno></bibl>
 <p>The Russian Government has contracted with Messrs. Collins and
 Sibley, two American gentlemen, for an electric telegraph to be laid
@@ -7062,6 +7293,8 @@ promised by the three Cabinets concerned.</p></div2>
 <biblScope type="pages">p. 390-391</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>21 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s2t</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -7230,6 +7463,8 @@ restrictions.</p></div2>
 <biblScope type="pages">p. 391</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s3x</idno></bibl>
 <p>The Toronto Court has discharged all the St. Albans raiders except
 Lieutenant Young, who has been committed for trial.</p></div2>
@@ -7242,11 +7477,13 @@ Lieutenant Young, who has been committed for trial.</p></div2>
 <biblScope type="pages">p. 393</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s41</idno></bibl>
 <p>
-<figure entity="v46p393" ana="insta">
-<head>THE NEW FORT NEAR SANDY HOOK, AT THE
-      ENTRANCE TO THE BAY OF NEW YORK.--SEE NEXT PAGE.</head>
+<figure entity="v46p393" ana="insta" width="857" height="389">
+<head>The New Fort Near Sandy Hook, at the
+      Entrance to the Bay of New York.--See Next Page.</head>
 </figure>
 </p>
 </div2>
@@ -7260,6 +7497,8 @@ Lieutenant Young, who has been committed for trial.</p></div2>
 <biblScope type="pages">p. 394</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s54</idno></bibl>
 <p rend="center">THE NEW FORT AT SANDY HOOK IN THE BAY OF<lb/><hi rend="smallcaps">New York.</hi></p>
 <p><hi rend="smallcaps">We</hi> present a View of the new fort lately
@@ -7283,6 +7522,8 @@ Federal army.</p></div2>
 <biblScope type="pages">p. 395</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s67</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, April</hi> 29, 1865.</hi></p>
@@ -7373,6 +7614,8 @@ tranquillity.</p></div2>
 <biblScope type="pages">p. 395</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s7b</idno></bibl>
 <p>Master Willie Pape has received an invitation to appear before Lord
 Wodehouse at Dublin Castle during the Exhibition.</p></div2>
@@ -7386,6 +7629,8 @@ Wodehouse at Dublin Castle during the Exhibition.</p></div2>
 <biblScope type="pages">p. 395</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s8f</idno></bibl>
 <p>The Queen has approved of Mr. W. Clifford Knight as Consul at the
 Cape of Good Hope for the King of the Belgians. The Queen has also
@@ -7402,6 +7647,8 @@ America.</p></div2>
 <biblScope type="pages">p. 395</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1s9j</idno></bibl>
 <p>Mr. Bright, M.P., has received a communication from Boston, U.S.,
 with reference to the probable supply of American cotton this
@@ -7422,6 +7669,8 @@ cotton."</p></div2>
 <biblScope type="pages">p. 398</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sbn</idno></bibl>
 <p>It is impossible to speak with exaggeration of the intense grief
 and indignation with which the news of the assassination of
@@ -7448,6 +7697,8 @@ calling a public meeting.</p></div2>
 <biblScope type="pages">p. 398</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1scr</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">...HOUSE OF LORDS.--<hi rend="smallcaps">Thursday.</hi></p>
@@ -7491,11 +7742,13 @@ United States.</p></div2>
 <biblScope type="pages">p. 405</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sdv</idno></bibl>
 <p>
-<figure entity="v46p405" ana="naval">
-<head>THE FEDERAL IRONCLAD MONADNOCK TOWING A
-      DISABLED GUN-BOAT IN A STORM OFF CAPE HATTERAS.--SEE NEXT PAGE.</head>
+<figure entity="v46p405" ana="naval" width="861" height="438">
+<head>The Federal Ironclad Monadnock Towing a
+      Disabled Gun-Boat in a Storm Off Cape Hatteras.--See Next Page.</head>
 </figure>
 </p>
 </div2>
@@ -7509,6 +7762,8 @@ United States.</p></div2>
 <biblScope type="pages">p. 406</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sfz</idno></bibl>
 
 <p rend="center">THE AMERICAN IRONCLAD MONADNOCK.</p>
@@ -7546,6 +7801,8 @@ Americans as a model for their future navy.</p></div2>
 <biblScope type="pages">p. 406</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sg2</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...And so, in spite of Mosby and his mosstroopers, in spite of
@@ -7590,6 +7847,8 @@ fair to come true....</p></div2>
 <biblScope type="pages">p. 411</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sh5</idno></bibl>
 <p rend="center">THE LATE CONFEDERATE WAR-STEAMER<lb/><hi rend="smallcaps">Tallahassee.</hi></p>
 <p><hi rend="smallcaps">In</hi> our Journal of the 2nd of April, last
@@ -7635,11 +7894,13 @@ last year, and which has been lately published.</p></div2>
 <biblScope type="pages">p. 412</biblScope>
 <date value="1865-04-29">April 29, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sj8</idno></bibl>
 <p>
-<figure entity="v46p412" ana="naval">
-<head>THE LATE CONFEDERATE WAR-STEAMER
-      TALLAHASSEE, NOW AT LIVERPOOL.--SEE PRECEDING PAGE.</head>
+<figure entity="v46p412" ana="naval" width="894" height="492">
+<head>The Late Confederate War-Steamer
+      Tallahassee, Now at Liverpool.--See Preceding Page.</head>
 </figure>
 </p>
 </div2>
@@ -7653,6 +7914,8 @@ last year, and which has been lately published.</p></div2>
 <biblScope type="pages">p. 422-423</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>19 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1skc</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -7800,6 +8063,8 @@ and the closing of the public buildings.</p></div2>
 <biblScope type="pages">p. 423</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1smg</idno></bibl>
 <p>The detectives at Queenstown arrested one of the passengers by the
 Edinburgh who bore a resemblance to Booth, the assassin of
@@ -7818,6 +8083,8 @@ has, of course, been set at liberty.</p></div2>
 <biblScope type="pages">p. 423</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1snk</idno></bibl>
 <p>The horror which the murder of Mr. Lincoln has excited in England
 is being daily expressed in one form or another. The Queen has written
@@ -7846,6 +8113,8 @@ under that calamity.</p></div2>
 <biblScope type="pages">p. 428</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1spp</idno></bibl>
 <p rend="center">THE NEW SECRETARY TO<lb/><hi rend="smallcaps">The
 Treasury of the United States.</hi></p>
@@ -7895,11 +8164,13 @@ hands.</p></div2>
 <biblScope type="pages">p. 428</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sqs</idno></bibl>
 <p>
-<figure entity="v46p428" ana="pic">
-<head>MR. HUGH M'CULLOCH, THE NEW FINANCE
-      MINISTER OF THE UNITED STATES.</head>
+<figure entity="v46p428" ana="pic" width="576" height="657">
+<head>Mr. Hugh M'Culloch, the New Finance
+      Minister of the United States.</head>
 </figure>
 </p>
 </div2>
@@ -7913,6 +8184,8 @@ hands.</p></div2>
 <biblScope type="pages">p. 430</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1srw</idno></bibl>
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
 <p>...It so happened that the moving of the address to the Crown
@@ -7987,6 +8260,8 @@ better understand their quality....</p></div2>
 <biblScope type="pages">p. 430-431</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>11 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ss0</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi rend="smallcaps">Monday.</hi></p>
@@ -8198,6 +8473,8 @@ read by Lord Sydney to the House of Lords.]</p></div2>
 <biblScope type="pages">p. 431</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1st3</idno></bibl>
 <p>With reference to the late Confederate war-steamer Tallahassee
 (built, under the name of the Atalanta, for the London, Chatham, and
@@ -8217,6 +8494,8 @@ and Captain Symonds, as his representative.</p></div2>
 <biblScope type="pages">p. 433</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sv6</idno></bibl>
 <p rend="center">GOVERNOR'S ISLAND AND FORT, NEW YORK<lb/><hi rend="smallcaps">Harbour.</hi></p>
 <p><hi rend="smallcaps">In</hi> the last number of our Journal was a
@@ -8240,10 +8519,12 @@ which the new fort at Sandy Hook is an example.</p></div2>
 <biblScope type="pages">p. 433</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sw9</idno></bibl>
 <p>
-<figure entity="v46p433" ana="insta">
-<head>GOVERNOR'S ISLAND AND FORT, NEW YORK HARBOUR.</head>
+<figure entity="v46p433" ana="insta" width="853" height="485">
+<head>Governor's Island and Fort, New York Harbour.</head>
 </figure>
 </p>
 </div2>
@@ -8257,6 +8538,8 @@ which the new fort at Sandy Hook is an example.</p></div2>
 <biblScope type="pages">p. 437-438</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1sxd</idno></bibl>
 <p rend="center">THE NEW PRESIDENT OF<lb/><hi rend="smallcaps">The
 United States.</hi></p>
@@ -8336,11 +8619,13 @@ Se-<pb n="438"/>nator for a full term, ending March 3, 1863. At the last Preside
 <biblScope type="pages">p. 437</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1szh</idno></bibl>
 <p>
-<figure entity="v46p437a" ana="pic">
-<head>MR. ANDREW JOHNSON, THE NEW PRESIDENT OF
-      THE UNITED STATES.</head>
+<figure entity="v46p437a" ana="pic" width="523" height="566">
+<head>Mr. Andrew Johnson, the New President of
+      the United States.</head>
 </figure>
 </p>
 </div2>
@@ -8353,11 +8638,13 @@ Se-<pb n="438"/>nator for a full term, ending March 3, 1863. At the last Preside
 <biblScope type="pages">p. 437</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t0p</idno></bibl>
 <p>
-<figure entity="v46p437b" ana="ps pg">
-<head>THE ASSASSINATION OF PRESIDENT LINCOLN:
-      MEETING OF AMERICANS ON MONDAY IN ST. JAMES'S  HALL.--SEE NEXT PAGE.</head>
+<figure entity="v46p437b" ana="ps pg" width="845" height="623">
+<head>The Assassination of President Lincoln:
+      Meeting of Americans on Monday in St. James's  Hall.--See Next Page.</head>
 </figure>
 </p>
 </div2>
@@ -8371,6 +8658,8 @@ Se-<pb n="438"/>nator for a full term, ending March 3, 1863. At the last Preside
 <biblScope type="pages">p. 438</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t1s</idno></bibl>
 <p rend="center">MEETINGS OF CONDOLENCE ON THE DEATH OF<lb/><hi rend="smallcaps">President Lincoln.</hi></p>
 <p><hi rend="smallcaps">A Public</hi> meeting was called upon very
@@ -8418,6 +8707,8 @@ Hon. W. H. Seward."</p></div2>
 <biblScope type="pages">p. 438</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t2w</idno></bibl>
 <p rend="center">MEETING OF AMERICANS IN LONDON.</p>
 <p>A meeting of Americans in London was held at St. James's Hall, on
@@ -8503,6 +8794,8 @@ people of this country.</p></div2>
 <biblScope type="pages">p. 438</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t30</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...Of the assassination of President Lincoln little can be said
@@ -8532,6 +8825,8 @@ Brutus, but the lean, hungry, and envious Cassius....</p></div2>
 <biblScope type="pages">p. 442</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t43</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...<hi rend="italic">Fraser</hi> opens with one of Mr. Conway's
@@ -8560,6 +8855,8 @@ consequences....</p></div2>
 <biblScope type="pages">p. 443</biblScope>
 <date value="1865-05-06">May 6, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t56</idno></bibl>
 <p rend="center">OBITUARY OF EMINENT PERSONS.</p>
 <p rend="center"><hi rend="smallcaps">President Lincoln.</hi></p> 
@@ -8695,6 +8992,8 @@ previous evening. The President leaves a widow and family.</p></div2>
 <biblScope type="pages">p. 446</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
 
+<extent>16 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t69</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -8811,6 +9110,8 @@ prisoners," released by the Confederates, 1400 perished.</p></div2>
 <biblScope type="pages">p. 450</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t7d</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, May</hi> 13, 1865.</hi></p>
@@ -8922,6 +9223,8 @@ thank God.</p></div2>
 <biblScope type="pages">p. 455</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t8h</idno></bibl>
 <p>The New York Emigration Commissioners have issued their report for
 1864. They state that in the course of the year there landed at New
@@ -8941,11 +9244,13 @@ did the service of burying them.</p></div2>
 <biblScope type="pages">p. 456</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1t9m</idno></bibl>
 <p>
-<figure entity="v46p456" ana="ny street">
-<head>THE NATIONAL MOURNING IN BROADWAY, NEW
-      YORK, FOR THE DEATH OF PRESIDENT LINCOLN.--SEE PAGE 462.</head>
+<figure entity="v46p456" ana="ny street" width="929" height="642">
+<head>The National Mourning in Broadway, New
+      York, for the Death of President Lincoln.--See Page 462.</head>
 </figure>
 </p>
 </div2>
@@ -8959,6 +9264,8 @@ did the service of burying them.</p></div2>
 <biblScope type="pages">p. 462</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tbq</idno></bibl>
 <p rend="center">THE MOURNING FOR PRESIDENT LINCOLN IN<lb/><hi rend="smallcaps">BROADWAY, NEW YORK.</hi></p>
 <p><hi rend="smallcaps">The</hi> aspect of the principal streets in
@@ -9012,6 +9319,8 @@ impressive ever witnessed."</p></div2>
 <biblScope type="pages">p. 466</biblScope>
 <date value="1865-05-13">May 13, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tct</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...And Mr. Wilkes Booth, what of him? A struggle, a summons, a
@@ -9045,6 +9354,8 @@ a purposeless, noisy ambition....</p></div2>
 <biblScope type="pages">p. 470</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>13 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tdx</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -9111,6 +9422,8 @@ plots to take it.</p></div2>
 <biblScope type="pages">p. 471</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tf1</idno></bibl>
 <p>Mr. and Mrs. Charles Kean are at New York, attracting brilliant
 audiences at the Broadway Theatre.</p></div2>
@@ -9123,11 +9436,13 @@ audiences at the Broadway Theatre.</p></div2>
 <biblScope type="pages">p. 472</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tg4</idno></bibl>
 <p>
-<figure entity="v46p472" ana="wash street">
-<head>PROCESSION THROUGH WASHINGTON WITH THE
-      BODY OF PRESIDENT LINCOLN.--SEE PAGE 486.</head>
+<figure entity="v46p472" ana="wash street" width="891" height="673">
+<head>Procession through Washington with the
+      Body of President Lincoln.--See Page 486.</head>
 </figure>
 </p>
 </div2>
@@ -9140,11 +9455,13 @@ audiences at the Broadway Theatre.</p></div2>
 <biblScope type="pages">p. 473</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1th7</idno></bibl>
 <p>
-<figure entity="v46p473" ana="ny street pb">
-<head>ARRIVAL OF THE BODY OF PRESIDENT LINCOLN
-      AT THE CITY HALL, NEW YORK.--SEE PAGE 486.</head>
+<figure entity="v46p473" ana="ny street pb" width="1309" height="903">
+<head>Arrival of the Body of President Lincoln
+      at the City Hall, New York.--See Page 486.</head>
 </figure>
 </p>
 </div2>
@@ -9158,6 +9475,8 @@ audiences at the Broadway Theatre.</p></div2>
 <biblScope type="pages">p. 478</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tjb</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi rend="smallcaps">Monday.</hi></p>
@@ -9229,6 +9548,8 @@ by the whole civilised world....</p></div2>
 <biblScope type="pages">p. 479-481</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tkf</idno></bibl>
 <p rend="center">RICHMOND AFTER THE DEPARTURE OF THE<lb/><hi rend="smallcaps">Confederates.</hi></p>
 <p><hi rend="smallcaps">The</hi> first vessel that went up the James
@@ -9355,12 +9676,14 @@ Mr. Kennard's sketches.</p></div2>
 <biblScope type="pages">p. 481</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tmj</idno></bibl>
 <p>
-<figure entity="v46p481a" ana="rich insta naval">
-<head>RICHMOND, VIRGINIA, AFTER ITS CONQUEST.
-      THE LATE RESIDENCE OF PRESIDENT DAVIS.; FORT POWHATTAN, AND THE
-      RIGHT OF THE FEDERAL LINES.</head>
+<figure entity="v46p481a" ana="rich insta naval" width="841" height="385">
+<head>Richmond, Virginia, after Its Conquest.
+      The Late Residence of President Davis.; Fort Powhattan, and the
+      Right of the Federal Lines.</head>
 </figure>
 </p>
 </div2>
@@ -9373,10 +9696,12 @@ Mr. Kennard's sketches.</p></div2>
 <biblScope type="pages">p. 481</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tnn</idno></bibl>
 <p>
-<figure entity="v46p481b" ana="rich">
-<head>RICHMOND, VIRGINIA, AFTER ITS CONQUEST. THE CITY OF RICHMOND, FROM THE JAMES RIVER.</head>
+<figure entity="v46p481b" ana="rich" width="822" height="612">
+<head>Richmond, Virginia, after Its Conquest. The City of Richmond, from the James River.</head>
 </figure>
 </p>
 </div2>
@@ -9391,6 +9716,8 @@ Mr. Kennard's sketches.</p></div2>
 <biblScope type="pages">p. 486</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tpr</idno></bibl>
 <p rend="center">OBSEQUIES OF PRESIDENT LINCOLN<lb/><hi rend="smallcaps">At Washington And New York.</hi></p>
 <p><hi rend="smallcaps">The</hi> funeral of the late President
@@ -9481,6 +9808,8 @@ honours."</p></div2>
 <biblScope type="pages">p. 487</biblScope>
 <date value="1865-05-20">May 20, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tqv</idno></bibl>
 
 <p rend="center">ECHOES OF THE WEEK.</p>
@@ -9530,6 +9859,8 @@ success is.</p></div2>
 <biblScope type="pages">p. 494</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
 
+<extent>9 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1trz</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -9597,6 +9928,8 @@ numbers.</p></div2>
 <biblScope type="pages">p. 499</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ts2</idno></bibl>
 <p>The <hi rend="italic">Gazette</hi> of yesterday week contained a
 notice from Earl Russell that, in the existing state of the civil war
@@ -9616,6 +9949,8 @@ port within twenty-four hours after having obtained them.</p></div2>
 <biblScope type="pages">p. 502</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tt5</idno></bibl>
 <p>According to the "American National Almanac" 1100 vessels of all
 kinds were captured by Federal cruisers in attempting to run the
@@ -9630,6 +9965,8 @@ blockade during the war.</p></div2>
 <biblScope type="pages">p. 510</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tv8</idno></bibl>
 <p>An American journal states that in the United States there are
 fifty-three religious sects. Amongst them are ten different kinds of
@@ -9651,6 +9988,8 @@ hicksite.</p></div2>
 <biblScope type="pages">p. 514</biblScope>
 <date value="1865-05-27">May 27, 1865</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1twc</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">Mr. Simon Tappertit</hi>, to whom Mr. Dickens
@@ -9729,6 +10068,8 @@ very prettily turned!</p></div2>
 <biblScope type="pages">p. 517</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
 
+<extent>7 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1txg</idno></bibl>
 <p rend="center">THE CAPTURE OF JEFFERSON DAVIS.</p>
 <p><hi rend="smallcaps">One</hi> of the instincts which a high state
@@ -9873,6 +10214,8 @@ When mercy seasons justice.</p></q></div2>
 <biblScope type="pages">p. 518</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
 
+<extent>11 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1tzk</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -9963,6 +10306,8 @@ a pirate.</p></div2>
 <biblScope type="pages">p. 523</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v0r</idno></bibl>
 <p>The ascent of the great volcano of Popocatepetl, the highest point
 of land on the North American continent, has recently been made by two
@@ -9977,6 +10322,8 @@ Americans--one a Californian, the other from Pennsylvania.</p></div2>
 <biblScope type="pages">p. 526</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v1v</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">...HOUSE OF COMMONS.--<hi rend="smallcaps">Tuesday.</hi></p>
@@ -10000,6 +10347,8 @@ President Johnson he could not say....</p></div2>
 <biblScope type="pages">p. 534</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v2z</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...America and England are soon to be again linked together, the
@@ -10060,6 +10409,8 @@ refused to defend the accused.</p></div2>
 <biblScope type="pages">p. 534</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v32</idno></bibl>
 <p>A Pacific Pearl Company has been formed at New York, the capital of
 which is 1,000,000 dols. The company purpose fishing for pearls and
@@ -10077,6 +10428,8 @@ years.</p></div2>
 <biblScope type="pages">p. 537</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v45</idno></bibl>
 <p rend="center">THE CITY OF RICHMOND, VIRGINIA, AFTER ITS
 SURRENDER.</p>
@@ -10106,11 +10459,13 @@ the armoury and arsenal, appropriated to warlike uses.</p></div2>
 <biblScope type="pages">p. 456</biblScope>
 <date value="1865-06-03">June 3, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v58</idno></bibl>
 <p>
-<figure entity="v46p537" ana="rich">
-<head>THE CITY OF RICHMOND, VIRGINIA, AFTER ITS
-      SURRENDER. RUINS OF THE ARMOURY.; RUINS OF THE ARSENAL.</head>
+<figure entity="v46p537" ana="rich" width="884" height="1309">
+<head>The City of Richmond, Virginia, after Its
+      Surrender. Ruins of the Armoury.; Ruins of the Arsenal.</head>
 </figure>
 </p>
 </div2>
@@ -10124,6 +10479,8 @@ the armoury and arsenal, appropriated to warlike uses.</p></div2>
 <biblScope type="pages">p. 542</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>19 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v6c</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -10238,6 +10595,8 @@ of Commerce is also to be represented at the convention.</p></div2>
 <biblScope type="pages">p. 546</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v7g</idno></bibl>
 <p>The following specimen of mixed metaphor is, according to the <hi rend="italic">Reader</hi>, taken from an American journal:--"The apple
 of discord is now fairly in our midst, and, if not nipped in the bud,
@@ -10253,6 +10612,8 @@ politics with an earthquake of heresies."</p></div2>
 <biblScope type="pages">p. 550</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v8k</idno></bibl>
 <p>There are 236 educational colleges in the United States,
 eighty-seven theological seminaries, and fifty medical
@@ -10267,6 +10628,8 @@ colleges.</p></div2>
 <biblScope type="pages">p. 551</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1v9p</idno></bibl>
 <p>Tuesday's <hi rend="italic">Gazette</hi> contains an official
 letter from Earl Russell, formally withdrawing belligerent rights from
@@ -10286,6 +10649,8 @@ character they may do so, but at their own risk.</p></div2>
 <biblScope type="pages">p. 551</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vbs</idno></bibl>
 <p>President Johnson commences his presidential career with an
 intimation that he declines to receive any presents. To some wealthy
@@ -10314,6 +10679,8 @@ yours truly, <hi rend="smallcaps">Andrew Johnson.</hi>"</p></div2>
 <biblScope type="pages">p. 551</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vcw</idno></bibl>
 <p>The friends of General Grant in Philadelphia have presented him
 with a new house, completely  furnished. The arrival of the General,
@@ -10351,6 +10718,8 @@ cost, with the furniture, not far from 50,000 dols.</p></div2>
 <biblScope type="pages">p. 558</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vd0</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...If the stories about the treatment of Mr. Davis at Fortress
@@ -10383,6 +10752,8 @@ before he be slain....</p></div2>
 <biblScope type="pages">p. 558</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vf3</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...<hi rend="italic">Macmillan</hi> commits the mistake of giving
@@ -10399,6 +10770,8 @@ completed by a very poor copy of verses....</p></div2>
 <biblScope type="pages">p. 559</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vg6</idno></bibl>
 <p>Three of the principal New York hotels breakfasted one morning
 2500 persons.</p></div2>
@@ -10412,6 +10785,8 @@ completed by a very poor copy of verses....</p></div2>
 <biblScope type="pages">p. 562</biblScope>
 <date value="1865-06-10">June 10, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vh9</idno></bibl>
 <p>An American paper says that the New York police uniform is made of
 blue flannel, and blouses are worn instead of coats.</p></div2>
@@ -10425,6 +10800,8 @@ blue flannel, and blouses are worn instead of coats.</p></div2>
 <biblScope type="pages">p. 567</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
 
+<extent>19 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vjd</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -10570,6 +10947,8 @@ destroyed and 300 persons killed.</p></div2>
 <biblScope type="pages">p. 574</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vkh</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">HOUSE OF LORDS.--<hi rend="smallcaps">Monday.</hi></p>
@@ -10615,11 +10994,13 @@ Hope some time ago....</p></div2>
 <biblScope type="pages">p. 576</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vmm</idno></bibl>
 <p>
-<figure entity="v46p576" ana="blue">
-<head>GRAND REVIEW OF THE ARMY OF THE POTOMAC
-      BEFORE PRESIDENT JOHNSON AT WASHINGTON.--SEE PAGE 596.</head>
+<figure entity="v46p576" ana="blue" width="921" height="627">
+<head>Grand Review of the Army of the Potomac
+      before President Johnson at Washington.--See Page 596.</head>
 </figure>
 </p>
 </div2>
@@ -10633,6 +11014,8 @@ Hope some time ago....</p></div2>
 <biblScope type="pages">p. 590</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vnq</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...This column of June 3 having, it would seem, unduly reflected
@@ -10687,6 +11070,8 @@ no doubt would have done effective justice to all. I am, &amp;c.,
 <biblScope type="pages">p. 596</biblScope>
 <date value="1865-06-17">June 17, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vpt</idno></bibl>
 <p rend="center">REVIEW OF FEDERAL ARMIES AT WASHINGTON.</p>
 <p><hi rend="smallcaps">A grand</hi> review of the Federal armies
@@ -10724,6 +11109,8 @@ afternoon.</p></div2>
 <biblScope type="pages">p. 598</biblScope>
 <date value="1865-06-24">June 24, 1865</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vqx</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -10768,6 +11155,8 @@ Secretary of Legation, was to leave New York, for France, to-day (June
 <biblScope type="pages">p. 614</biblScope>
 <date value="1865-06-24">June 24, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vr1</idno></bibl>
 <p>...And so Spiritualism is, in the person of
 Dr. J. B. Ferguson, about to bid us farewell. At the Spiritual Lyceum,
@@ -10827,6 +11216,8 @@ meeting was held of a "snug and social character."</p></div2>
 <biblScope type="pages">p. 618</biblScope>
 <date value="1865-06-24">June 24, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vs4</idno></bibl>
 <p>The Queen has approved of Mr. W. H. F. Gurley as Consul at Quebec
 for the United States of America.</p></div2>
@@ -10840,6 +11231,8 @@ for the United States of America.</p></div2>
 <biblScope type="pages">p. 618</biblScope>
 <date value="1865-06-24">June 24, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vt7</idno></bibl>
 <p>A Canada paper states that there are twice as many Jews in New York
 as there are in all Palestine.</p></div2>
@@ -10853,6 +11246,8 @@ as there are in all Palestine.</p></div2>
 <biblScope type="pages">p. 621</biblScope>
 <date value="1865-07-01">July 01, 1865</date>
 
+<extent>6 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vvb</idno></bibl>
 <p rend="center">THE ATLANTIC TELEGRAPH CABLE.</p>
 <p><hi rend="smallcaps">Once</hi> more we are upon the threshold of an
@@ -11017,6 +11412,8 @@ conceive!</p></div2>
 <biblScope type="pages">p. 622</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
 
+<extent>14 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vwf</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -11108,6 +11505,8 @@ River, Louisiana, on the 3rd ult.</p></div2>
 <biblScope type="pages">p. 623</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vxj</idno></bibl>
 <p rend="center">THE FLIGHT OF MR. JEFFERSON DAVIS INTO<lb/><hi rend="smallcaps">Georgia.</hi></p>
 <p><hi rend="smallcaps">Our</hi> Special Artist and Correspondent who
@@ -11146,12 +11545,14 @@ publication.</p></div2>
 <biblScope type="pages">p. 625</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1vzn</idno></bibl>
 <p>
-<figure entity="v46p625" ana="ps ref">
-<head>FLIGHT OF PRESIDENT JEFFERSON DAVIS AND HIS
-      MINISTERS OVER THE GEORGIA RIDGE, FIVE DAYS BEFORE HIS
-      CAPTURE.--FROM A SKETCH BY OUR SPECIAL ARTIST.--SEE PAGE 623.</head>
+<figure entity="v46p625" ana="ps ref" width="1293" height="876">
+<head>Flight of President Jefferson Davis and His
+      Ministers over the Georgia Ridge, Five Days before His
+      Capture.--From a Sketch by Our Special Artist.--See Page 623.</head>
 </figure>
 </p>
 </div2>
@@ -11165,6 +11566,8 @@ publication.</p></div2>
 <biblScope type="pages">p. 631</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
 
+<extent>7 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1w0t</idno></bibl>
 <p rend="center">THE ATLANTIC TELEGRAPH.</p>
 <p><hi rend="smallcaps">All</hi> the preparations connected with the
@@ -11292,6 +11695,8 @@ inst.</p></div2>
 <biblScope type="pages">p. 639</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1w1x</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">...Life of Abraham Lincoln</hi>. Compiled by
@@ -11325,6 +11730,8 @@ during the late War of Secession....</p></div2>
 <biblScope type="pages">p. 643</biblScope>
 <date value="1865-07-01">July 1, 1865</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1w21</idno></bibl>
 <p rend="center">OBITUARY OF EMINENT PERSONS.</p>
 <p rend="center"><hi rend="smallcaps">...Mrs. Sigourney.</hi></p>

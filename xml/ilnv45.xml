@@ -37,7 +37,7 @@ London News Perspective</title>
 <title>The Illustrated London News</title>
                <biblScope type="volume">Volume 45</biblScope> 
                <date>July to December 1864</date>
-</bibl>
+	    </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -66,12 +66,14 @@ London News Perspective</title>
 <biblScope type="pages">p. 1</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1dtb</idno></bibl>
 <p>
-<figure entity="v45p1" ana="naval">
-<head>THE DEERHOUND RESCUING A PORTION OF THE
-      CREW OF THE ALABAMA.--FROM A SKETCH BY MR. ROBERT
-      LANCASTER.--SEE NEXT PAGE.</head>
+<figure entity="v45p1" ana="naval" width="811" height="619">
+<head>The Deerhound Rescuing a Portion of the
+      Crew of the Alabama.--From a Sketch by Mr. Robert
+      Lancaster.--See Next Page.</head>
 </figure>
 </p>
 </div2>
@@ -85,6 +87,8 @@ London News Perspective</title>
 <biblScope type="pages">p. 2</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>10 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1dvf</idno></bibl>
 <p rend="center">THE FIGHT BETWEEN THE ALABAMA AND THE<lb/><hi rend="smallcaps">Kearsarge.</hi></p>
 <p><hi rend="smallcaps">We </hi>published last week an Engraving from
@@ -267,6 +271,8 @@ prisoners within the territory of the French empire.</p></div2>
 <biblScope type="pages">p. 3</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>9 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1dwj</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -345,6 +351,8 @@ was quoted at 95&#xBE; per cent premium.</p></div2>
 <biblScope type="pages">p. 7</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1dxn</idno></bibl>
 <p>...Our redoubtable "Manhattan," common-councilman of New York and
 correspondent of the <hi rend="italic">Morning Herald</hi>, has been
@@ -376,11 +384,13 @@ which his fellow-townsmen are about to erect...</p></div2>
 <biblScope type="pages">p. 8</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1dzr</idno></bibl>
 <p>
-<figure entity="ILNv45p8" ana="street pg money">
-<head>KERBSTONE STOCKBROKERS IN NEW YORK.--SEE
-      PAGE 11.</head>
+<figure entity="ILNv45p8" ana="street pg money" width="" height="">
+<head>Kerbstone Stockbrokers in New York.--See
+      Page 11.</head>
 </figure>
 </p>
 </div2>
@@ -393,11 +403,13 @@ which his fellow-townsmen are about to erect...</p></div2>
 <biblScope type="pages">p. 9</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f0x</idno></bibl>
 <p>
-<figure entity="v45p9" ana="naval">
-<head>THE FIGHT BETWEEN THE ALABAMA AND THE
-      KEARSARGE.--SEE PAGE 2.</head>
+<figure entity="v45p9" ana="naval" width="1332" height="903">
+<head>The Fight between the Alabama and the
+      Kearsarge.--See Page 2.</head>
 </figure>
 </p>
 </div2>
@@ -411,6 +423,8 @@ which his fellow-townsmen are about to erect...</p></div2>
 <biblScope type="pages">p. 11-12</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f11</idno></bibl>
 <p rend="center">KERBSTONE STOCKBROKERS IN NEW YORK.</p>
 <p><hi rend="smallcaps">The </hi>prevailing mania just now in the city
@@ -490,6 +504,8 @@ and extend to the wharves along the southern and eastern sides of the city.</p><
 <biblScope type="pages">p. 12</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f24</idno></bibl>
 <p rend="center">THE AMERICAN MAIL STEAMER AT<lb/><hi rend="smallcaps">Roche's Point.</hi></p>
 <p><hi rend="smallcaps">Every </hi>reader of the London morning papers
@@ -517,11 +533,13 @@ Cork.</p></div2>
 <biblScope type="pages">p. 12</biblScope>
 <date value="1864-07-02">July 2, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f37</idno></bibl>
 <p>
-<figure entity="v45p12" ana="naval">
-<head>THE JACKAL TENDER AND BOATS GOING TO MEET
-      THE AMERICAN MAIL STEAMER AT ROCHE'S POINT, NEAR QUEENSTOWN.</head>
+<figure entity="v45p12" ana="naval" width="830" height="535">
+<head>The Jackal Tender and Boats Going to Meet
+      the American Mail Steamer at Roche's Point, Near Queenstown.</head>
 </figure>
 </p>
 </div2>
@@ -535,6 +553,8 @@ Cork.</p></div2>
 <biblScope type="pages">p. 26-27</biblScope>
 <date value="1864-07-09">July 9, 1864</date>
 
+<extent>14 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f4b</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -664,6 +684,8 @@ the 25th ult.</p></div2>
 <biblScope type="pages">p. 27</biblScope>
 <date value="1864-07-09">July 9, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f5f</idno></bibl>
 <p>The American war-steamer Kearsarge arrived in Dover Road on
 Wednesday evening.</p></div2>
@@ -677,6 +699,8 @@ Wednesday evening.</p></div2>
 <biblScope type="pages">p. 27</biblScope>
 <date value="1864-07-09">July 9, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f6j</idno></bibl>
 <p>Messrs. Sampson Low, Son, and Co., of Ludgate-hill, have on view a
 fine impression of a steel engraving by T. Barlow, of London, from a
@@ -696,6 +720,8 @@ engraving is in the style known as "the line and stipple."</p></div2>
 <biblScope type="pages">p. 27</biblScope>
 <date value="1864-07-09">July 9, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f7n</idno></bibl>
 <p>The returns compiled by the emigration agent at Liverpool for the
 month of June last, shows the following results:--Vessels under the
@@ -727,6 +753,8 @@ from Liverpool for the quarter ending the 30th of June last was
 <biblScope type="pages">p. 41</biblScope>
 <date value="1864-07-09">July 9, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f8r</idno></bibl>
 <p rend="center">THE SURGEON OF THE<lb/> ALABAMA.</p>
 <p><hi rend="smallcaps">Mr. </hi>David Herbert Llewellyn, who was the
@@ -776,11 +804,13 @@ before his death.</p></div2>
 <biblScope type="pages">p. 41</biblScope>
 <date value="1864-07-09">July 9, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f9v</idno></bibl>
 <p>
-<figure entity="v45p41" ana="pic">
-<head>THE LATE DAVID HERBERT LLEWELLYN, SURGEON
-      OF THE ALABAMA.</head>
+<figure entity="v45p41" ana="pic" width="526" height="585">
+<head>The Late David Herbert Llewellyn, Surgeon
+      of the Alabama.</head>
 </figure>
 </p>
 </div2>
@@ -794,6 +824,8 @@ before his death.</p></div2>
 <biblScope type="pages">p. 42</biblScope>
 <date value="1864-07-09">July 9, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fbz</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...Another of England's many admirers, Mr. George Francis Train,
@@ -823,6 +855,8 @@ recruit "in the front."...</p></div2>
 <biblScope type="pages">p. 46</biblScope>
 <date value="1864-07-09">July 9, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fc2</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...<hi rend="italic">Macmillan </hi>proffers a very good
@@ -871,6 +905,8 @@ of all success in art....</p></div2>
 <biblScope type="pages">p. 50-51</biblScope>
 <date value="1864-07-16">July 16, 1864</date>
 
+<extent>23 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fd5</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -1054,9 +1090,11 @@ sunstroke had occurred.</p></div2>
 <biblScope type="pages">p. 60</biblScope>
 <date value="1864-07-16">July 16, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ff8</idno></bibl>
 <p>
-<figure entity="v45p60" ana="naval">
+<figure entity="v45p60" ana="naval" width="818" height="612">
 <head>"OUR SPECIAL ARTIST," ON BOARD THE
       LILIAN, RUNNING THE BLOCKADE INTO WILMINGTON HARBOUR, NORTH
       CAROLINA.--SEE PAGE 70.</head>
@@ -1073,6 +1111,8 @@ sunstroke had occurred.</p></div2>
 <biblScope type="pages">p. 62</biblScope>
 <date value="1864-07-16">July 16, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fgc</idno></bibl>
 
 <p>The steamer Wonder, which arrived at Southampton, on Thursday from
@@ -1091,6 +1131,8 @@ engagement.</p></div2>
 <biblScope type="pages">p. 62</biblScope>
 <date value="1864-07-16">July 16, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fhg</idno></bibl>
 
 <p>A letter from Calais states that the Confederate vessel the
@@ -1110,6 +1152,8 @@ up a <hi rend="italic">proces-verbal</hi>.</p></div2>
 <biblScope type="pages">p. 70</biblScope>
 <date value="1864-07-16">July 16, 1864</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fjk</idno></bibl>
 <p rend="center">RUNNING THE BLOCKADE INTO THE PORT OF<lb/><hi rend="smallcaps">WILMINGTON, NORTH CAROLINA.</hi></p>
 <p><hi rend="smallcaps">We </hi>have received from our Special Artist,
@@ -1242,6 +1286,8 @@ lost."</p></div2>
 <biblScope type="pages">p. 71</biblScope>
 <date value="1864-07-16">July 16, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fkp</idno></bibl>
 <p>The New York <hi rend="italic">Sun</hi> states that M. Gouraud,
 Vice-Consul of France for Rhode Island, has made application for a
@@ -1259,6 +1305,8 @@ cities.</p></div2>
 <biblScope type="pages">p. 71</biblScope>
 <date value="1864-07-16">July 16, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fms</idno></bibl>
 <p><hi rend="smallcaps">RICHMOND</hi>.--The city of Richmond, by the
 last census, had a population of 38,000 souls, but the great influx of
@@ -1315,6 +1363,8 @@ cry.--<hi rend="italic">New York Tribune.</hi></p></div2>
 <biblScope type="pages">p. 74</biblScope>
 <date value="1864-07-16">July 16, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fnw</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...In America, History notes not so much the failure of Grant's
@@ -1359,6 +1409,8 @@ to let the "wayward sisters go in peace."</p></div2>
 <biblScope type="pages">p. 82</biblScope>
 <date value="1864-07-23">July 23, 1864</date>
 
+<extent>18 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fp0</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -1514,6 +1566,8 @@ States is most distinctly disclaimed.</p></q></div2>
 <biblScope type="pages">p. 83</biblScope>
 <date value="1864-07-23">July 23, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fq3</idno></bibl>
 <p><hi rend="smallcaps">Newspaper Correspondents At The Seat Of
 War.</hi>--I was writing in my tent yesterday when a Mini&#xE9;
@@ -1540,6 +1594,8 @@ York Paper.</hi></p></div2>
 <biblScope type="pages">p. 90</biblScope>
 <date value="1864-07-23">July 23, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fr6</idno></bibl>
 <p>A Baltimore paper says:--"Our harbour has been on fire for the last
 twenty-four hours: literally on fire. The surface of the water for
@@ -1560,6 +1616,8 @@ over the water in a flame."</p>
 <biblScope type="pages">p. 90</biblScope>
 <date value="1864-07-23">July 23, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fs9</idno></bibl>
 <p>A New York paper relates the following singular occurrence at the
 scene of war. A sergeant had been engaged placing upon a number of
@@ -1582,6 +1640,8 @@ date, correctly marks his resting-place.</p></div2>
 <biblScope type="pages">p. 91</biblScope>
 <date value="1864-07-23">July 23, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ftd</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...A trial between two publishers reveals an unwholesome feeling
@@ -1625,6 +1685,8 @@ extremity do without it?</p></div2>
 <biblScope type="pages">p. 99</biblScope>
 <date value="1864-07-23">July 23, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fvh</idno></bibl>
 
 <p rend="center">THE PETROLEUM OIL-FIELDS AT FRANKLIN,<lb/><hi rend="smallcaps">PENNSYLVANIA.</hi></p>
@@ -1739,12 +1801,14 @@ thousand barrels yearly.</p></div2>
 <biblScope type="pages">p. 100</biblScope>
 <date value="1864-07-23">July 23, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fwm</idno></bibl>
 <p>
-<figure entity="v45p100" ana="money land">
-<head>THE PETROLEUM OIL WORKS AT FRANKLIN,
-      PENNSYLVANIA.; RAILWAY STATION AT THE FRANKLIN PETROLEUM OIL
-      WORKS.--SEE PRECEDING PAGE.</head>
+<figure entity="v45p100" ana="money land" width="887" height="1293">
+<head>The Petroleum Oil Works at Franklin,
+      Pennsylvania.; Railway Station at the Franklin Petroleum Oil
+      Works.--See Preceding Page.</head>
 </figure>
 </p>
 </div2>
@@ -1758,6 +1822,8 @@ thousand barrels yearly.</p></div2>
 <biblScope type="pages">p. 107</biblScope>
 <date value="1864-07-23">July 23, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fxq</idno></bibl>
 <p>The report brought by the steamer Wonder of an engagement between
 the Kearsarge and the Florida, off Jersey, is false, as we were able
@@ -1773,6 +1839,8 @@ week.</p></div2>
 <biblScope type="pages">p. 110-111</biblScope>
 <date value="1864-07-30">July 30, 1864</date>
 
+<extent>23 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fzt</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi></p>
@@ -2014,6 +2082,8 @@ wounded.</p></div2>
 <biblScope type="pages">p. 119</biblScope>
 <date value="1864-07-30">July 30, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g00</idno></bibl>
 <p rend="center"><hi rend="italic">IMPERIAL PARLIAMENT.</hi></p>
 <p rend="center">...HOUSE OF COMMONS.--<hi rend="smallcaps">Thursday.</hi></p>
@@ -2084,6 +2154,8 @@ motion was agreed to.</p></div2>
 <biblScope type="pages">p. 122</biblScope>
 <date value="1864-07-30">July 30, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g13</idno></bibl>
 <p>A story of almost unexampled horror is given in the American
 papers, being the substance of a deposition by a survivor of the wreck
@@ -2136,6 +2208,8 @@ and dispatched a boat to their assistance.</p></div2>
 <biblScope type="pages">p. 127</biblScope>
 <date value="1864-07-30">July 30, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g26</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">When </hi>Mr. Gideon Welles goes out of his
@@ -2171,6 +2245,8 @@ Tower of London."...</p></div2>
 <biblScope type="pages">p. 127</biblScope>
 <date value="1864-07-30">July 30, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g39</idno></bibl>
 <p rend="center">THE CONSTITUTIONAL CRISIS IN CANADA.</p>
 <p>...The Conservative party of Canada West, led by the Hon. John
@@ -2215,6 +2291,8 @@ extended and exposed frontier of Canada....</p></div2>
 <biblScope type="pages">p. 127</biblScope>
 <date value="1864-07-30">July 30, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g4d</idno></bibl>
 <p rend="center"> THE WAR IN AMERICA.--FIELD'S TEXANS<lb/><hi rend="smallcaps">"STRAGGLING TO THE FRONT."</hi></p>
 <p><hi rend="smallcaps">Our </hi>Special Artist and Correspondent with
@@ -2275,13 +2353,15 @@ enemy, but could not do it,"</p></div2>
 <biblScope type="pages">p. 128</biblScope>
 <date value="1864-07-30">July 30, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g5h</idno></bibl>
 <p>
-<figure entity="v45p128" ana="battle gray">
-<head>THE WAR IN AMERICA: THE TEXANS OF
-      LONGSTREET'S CORPS RETAKING THE OUTER LINE OF INTRENCHMENTS ON
-      THE SOUTH SIDE OF THE JAMES RIVER. FROM A SKETCH BY OUR SPECIAL
-      ARTIST.--SEE PRECEDING PAGE.</head>
+<figure entity="v45p128" ana="battle gray" width="822" height="577">
+<head>The War in America: The Texans of
+      Longstreet's Corps Retaking the Outer Line of Intrenchments on
+      the South Side of the James River. From a Sketch by Our Special
+      Artist.--See Preceding Page.</head>
 </figure>
 </p>
 </div2>
@@ -2295,6 +2375,8 @@ enemy, but could not do it,"</p></div2>
 <biblScope type="pages">p. 128-129</biblScope>
 <date value="1864-07-30">July 30, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g6m</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p>...<hi rend="italic">Rambles in the Rocky Mountains.</hi> By
@@ -2332,6 +2414,8 @@ gold-fields of the Rocky Mountains.</p></div2>
 <biblScope type="pages">p. 133-134</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g7q</idno></bibl>
 <p rend="center">EMIGRATION TO AMERICA.</p>
 <p><hi rend="smallcaps">Within </hi>twenty-four hours of the closing
@@ -2509,12 +2593,14 @@ do much. Why should it not be tried?</p></div2>
 <biblScope type="pages">p. 133</biblScope>
 <date value="1864-07-30">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g8t</idno></bibl>
 <p>
-<figure entity="v45p133">
-<head>THE WAR IN AMERICA: A CORPS OF THE CONFEDERATE ARMY MARCHING BY
-NIGHT THROUGH BURNING WOODS. &#x2014;FROM A SKETCH BY OUR SPECIAL
-ARTIST &#x2014;SEE PAGE 137.</head>
+<figure entity="v45p133" width="837" height="581" ana="skirm gray">
+<head>The War in America: A Corps of the Confederate Army Marching by
+Night through Burning Woods. &#x2014;From a Sketch by Our Special
+Artist &#x2014;See Page 137.</head>
 </figure>
 </p>
 </div2> 
@@ -2528,6 +2614,8 @@ ARTIST &#x2014;SEE PAGE 137.</head>
 <biblScope type="pages">p. 134</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>12 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g9x</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -2614,6 +2702,8 @@ to 251. The last quotation was 254&#xBE; Exchange 271.</p></div2>
 <biblScope type="pages">p. 136</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gb1</idno></bibl>
 <p rend="center">THE BLOCKADE-RUNNER<lb/><hi rend="smallcaps">Lizzie.</hi></p>
 <p><hi rend="smallcaps">This </hi>steamer has been built, in the
@@ -2649,11 +2739,13 @@ Engraving is from a drawing by Mr. Hugh Aird.</p></div2>
 <biblScope type="pages">p. 136</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gc4</idno></bibl>
 <p>
-<figure entity="v45p136" ana="naval">
-<head>NEW BLOCKADE-RUNNER LIZZIE, BUILT IN THE
-      CLYDE.</head>
+<figure entity="v45p136" ana="naval" width="822" height="435">
+<head>New Blockade-Runner Lizzie, Built in the
+      Clyde.</head>
 </figure>
 </p>
 </div2>
@@ -2667,6 +2759,8 @@ Engraving is from a drawing by Mr. Hugh Aird.</p></div2>
 <biblScope type="pages">p. 137-138</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gd7</idno></bibl>
 <p rend="center">THE WAR IN AMERICA.--NIGHT MARCH THROUGH<lb/><hi rend="smallcaps">BURNING WOODS.</hi></p>
 <p><hi rend="smallcaps">The </hi>Engraving on our front page is from a
@@ -2698,6 +2792,8 @@ Confederate lines."</p></div2>
 <biblScope type="pages">p. 138</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>6 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gfb</idno></bibl>
 
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
@@ -2826,6 +2922,8 @@ peace. May we soon have to record such a consummation.</p></div2>
 <biblScope type="pages">p. 139</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ggf</idno></bibl>
 
 <p rend="center">ECHOES OF THE WEEK.</p>
@@ -2869,6 +2967,8 @@ the gloom and horror of disaster and defeat....</p></div2>
 <biblScope type="pages">p. 142</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ghj</idno></bibl>
 
 <p rend="center">SKETCHES IN PARLIAMENT.</p>
@@ -2910,6 +3010,8 @@ ignored....</p></div2>
 <biblScope type="pages">p. 142</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gjn</idno></bibl>
 
 <p rend="center">PROROGATION OF PARLIAMENT.<lb/><hi rend="smallcaps">The Queen's Message.</hi></p>
@@ -2927,6 +3029,8 @@ friendly reconciliation between the contending parties.</p></div2>
 <biblScope type="pages">p. 149-150</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gkr</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...<hi rend="italic">Fraser </hi>contains one paper of singular
@@ -2960,6 +3064,8 @@ Agassiz with the theory that tigers and snakes were created by man
 <biblScope type="pages">p. 151</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gmv</idno></bibl>
 
 <p>According to the monthly emigration returns from Liverpool, which
@@ -3000,6 +3106,8 @@ passengers.</p></div2>
 <biblScope type="pages">p. 154</biblScope>
 <date value="1864-08-06">August 6, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gnz</idno></bibl>
 <p>Immigration of unknown amount would modify the effect of
 emigration; but the return of the Emigration Commissioners show that
@@ -3021,6 +3129,8 @@ emigrants left for the United States.</p></div2>
 <biblScope type="pages">p. 158-159</biblScope>
 <date value="1864-08-13">August 13, 1864</date>
 
+<extent>6 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gp2</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -3086,6 +3196,8 @@ Government had approved the decision.</p></div2>
 <biblScope type="pages">p. 159</biblScope>
 <date value="1864-08-13">August 13, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gq5</idno></bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegram has been received through Mr. Reuter's
@@ -3105,6 +3217,8 @@ progressing on Saturday at noon.</p></div2>
 <biblScope type="pages">p. 166</biblScope>
 <date value="1864-08-13">August 13, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gr8</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...As usual many of the accounts of the drought have been
@@ -3136,6 +3250,8 @@ picking....</p></div2>
 <biblScope type="pages">p. 174</biblScope>
 <date value="1864-08-13">August 13, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gsc</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p><hi rend="italic">Cruise of the Alabama and Sumter.</hi> (2
@@ -3235,6 +3351,8 @@ justification....</p></div2>
 <biblScope type="pages">p. 175</biblScope>
 <date value="1864-08-13">August 13, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gtg</idno></bibl>
 
 <p>The custom-house authorities at San Francisco discovered a Chinese
@@ -3254,6 +3372,8 @@ opium. Each egg is worth 300 dols.</p></div2>
 <biblScope type="pages">p. 178</biblScope>
 <date value="1864-08-13">August 13, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gvk</idno></bibl>
 <p>The Government Emigration Commissioners have issued a notice, as
 follows, warning emigrants to the United States against the traps laid
@@ -3292,6 +3412,8 @@ Park-street, Westminster, August, 1864."</p></div2>
 <biblScope type="pages">p. 179</biblScope>
 <date value="1864-08-13">August 13, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gwp</idno></bibl>
 <p>Mr. Antrobus, Third Secretary to her Majesty's Embassy at Paris,
 has been appointed a Second Secretary of Legation at
@@ -3314,6 +3436,8 @@ of America.</p></div2>
 <biblScope type="pages">p. 181-182</biblScope>
 <date value="1864-08-20">August 20, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gxs</idno></bibl>
 <p rend="center">AMERICA--NORTH AND SOUTH.</p>
 <p><hi rend="smallcaps">Into </hi>that spirit of partisanship which has
@@ -3464,6 +3588,7 @@ to deplore.</p></div2>
 <biblScope type="pages">p. 182</biblScope>
 <date value="1864-08-20">August 20, 1864</date>
 
+<extent>7 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gzw</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -3550,6 +3675,8 @@ of North Carolina of the policy of the Richmond Government.</p>
 <biblScope type="pages">p. 183</biblScope>
 <date value="1864-08-20">August 20, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h02</idno></bibl>
 <p>A California journal thus states the two great wants under which
 that State suffers:--"What she needs most to-day is rain; what she
@@ -3564,11 +3691,13 @@ population."</p></div2>
 <biblScope type="pages">p. 185</biblScope>
 <date value="1864-08-20">August 20, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h15</idno></bibl>
 <p>
-<figure entity="v45p185" ana="peter">
-<head>THE WAR IN AMERICA: VIEW OF PETERSBURG,
-      VIRGINIA.--SEE PAGE 191.</head>
+<figure entity="v45p185" ana="peter" width="857" height="596">
+<head>The War in America: View of Petersburg,
+      Virginia.--See Page 191.</head>
 </figure>
 </p>
 </div2>
@@ -3582,6 +3711,7 @@ population."</p></div2>
 <biblScope type="pages">p. 191-193</biblScope>
 <date value="1864-08-20">August 20, 1864</date>
 
+<extent>3 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h28</idno></bibl>
 <p rend="center">THE WAR IN AMERICA.<lb/><hi rend="smallcaps">The Town
 Of Petersburg, Virginia.</hi></p>
@@ -3643,6 +3773,8 @@ much exposed to the fire from neighbouring hills.</p>
 <biblScope type="pages">p. 206</biblScope>
 <date value="1864-08-27">August 27, 1864</date>
 
+<extent>18 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h3c</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -3779,6 +3911,7 @@ her prize's men at Dover.</p></div2>
 <biblScope type="pages">p. 207</biblScope>
 <date value="1864-08-27">August 27, 1864</date>
 
+<extent>11 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h4g</idno></bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegram has been received through Mr. Reuter's
@@ -3832,6 +3965,8 @@ Hook. She has captured a pilot-boat.</p>
 <biblScope type="pages">p. 207</biblScope>
 <date value="1864-08-27">August 27, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h5k</idno></bibl>
 <p>The differences between the American Consul and the Egyptian
 Government have been settled, and the former has resumed his
@@ -3846,6 +3981,8 @@ relations with the Government.</p></div2>
 <biblScope type="pages">p. 210</biblScope>
 <date value="1864-08-27">August 27, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h6p</idno></bibl>
 <p rend="center"><hi rend="italic">LONDON: SATURDAY, AUGUST 27, 1864.</hi></p>
 <p>....A topic has arisen, and it will be welcomed. A Federal frigate
@@ -3870,6 +4007,8 @@ and be thankful" for a new topic in this dreary season.</p></div2>
 <biblScope type="pages">p. 211</biblScope>
 <date value="1864-08-27">August 27, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h7s</idno></bibl>
 <p>On Thursday a marriage of considerable interest took place at the
 Church of St. James, Piccadilly. The bridegroom, Lieutenant Samuel
@@ -3906,6 +4045,8 @@ support for the South.</p></div2>
 <biblScope type="pages">p. 222</biblScope>
 <date value="1864-08-27">August 27, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h8w</idno></bibl>
 <p>The Commissioners of Customs have issued a general order to the
 collectors at the various ports that, in pursuance of instructions
@@ -3924,6 +4065,8 @@ sold."</p>
 <biblScope type="pages">p. 222</biblScope>
 <date value="1864-08-27">August 27, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h90</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">That</hi> "half a loaf is better than no bread
@@ -3985,6 +4128,8 @@ vigorous writers....</p></div2>
 <biblScope type="pages">p. 230-231</biblScope>
 <date value="1864-09-03">September 3, 1864</date>
 
+<extent>15 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hb3</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi></p>
@@ -4124,6 +4269,8 @@ are a hard-looking set.</p></q></div2>
 <biblScope type="pages">p. 235</biblScope>
 <date value="1864-09-03">September 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hc6</idno></bibl>
 <p>The Engraving of the Lizzie, blockade-runner, built on the Clyde,
 which appeared in our Journal of the 6th of August, was made from a
@@ -4139,12 +4286,14 @@ Messrs. Henderson, Coulborn, and Co., of Renfrew.</p></div2>
 <biblScope type="pages">p. 236-237</biblScope>
 <date value="1864-09-03">September 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hd9</idno></bibl>
 <p>
-<figure entity="v45p236-237" ana="peter gray">
-<head>THE WAR IN AMERICA: VIEW OF PETERSBURG AND ITS SUBURBS FROM
-      GENERAL LEE'S HEAD-QUARTERS.--FROM A SKETCH BY OUR SPECIAL
-      ARTIST.--SEE NEXT PAGE.</head>
+<figure entity="v45p236-237" ana="peter gray" width="2466" height="1840">
+<head>The War in America: View of Petersburg and Its Suburbs from
+      General Lee's Head-Quarters.--From a Sketch by Our Special
+      Artist.--See Next Page.</head>
 </figure>
 </p>
 </div2>
@@ -4158,6 +4307,8 @@ Messrs. Henderson, Coulborn, and Co., of Renfrew.</p></div2>
 <biblScope type="pages">p. 238</biblScope>
 <date value="1864-09-03">September 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hfd</idno></bibl>
 <p rend="center">VIEW OF PETERSBURG, VIRGINIA, FROM GENERAL<lb/><hi rend="smallcaps">Lee's Head-Quarters.</hi></p>
 <p><hi rend="smallcaps">Our </hi>Special Artist in the camp of
@@ -4194,6 +4345,8 @@ forward, and have a friendly talk.</p></div2>
 <biblScope type="pages">p. 246</biblScope>
 <date value="1864-09-03">September 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hgh</idno></bibl>
 <p>A prisoner of war advertises from Johnson's Island, in a New York
 journal, for a substitute to take his place in the military prison
@@ -4215,6 +4368,8 @@ postage-stamps.--<hi rend="smallcaps">Asa Hartz</hi>."</p></div2>
 <biblScope type="pages">p. 254</biblScope>
 <date value="1864-09-10">September 10, 1864</date>
 
+<extent>9 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hhm</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -4283,6 +4438,8 @@ in England were progressing on the 27th ult.</p></div2>
 <biblScope type="pages">p. 255</biblScope>
 <date value="1864-09-10">September 10, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hjq</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>....The New Yorkers are, as we have said, busy in their election,
@@ -4324,6 +4481,8 @@ photographic truth....</p></div2>
 <biblScope type="pages">p. 258</biblScope>
 <date value="1864-09-10">September 10, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hkt</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London,
 Saturday, September</hi> 10.</hi></p>
@@ -4419,6 +4578,8 @@ high-wrought notion of abstract principle.</p></div2>
 <biblScope type="pages">p. 263</biblScope>
 <date value="1864-09-10">September 10, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hmx</idno></bibl>
 <p>A room just completed for the open board of brokers in New York is
 richly frescoed, the centre-piece representing the Goddess of Fortune
@@ -4435,6 +4596,8 @@ in the air.</p></div2>
 <biblScope type="pages">p. 278</biblScope>
 <date value="1864-09-17">September 17, 1864</date>
 
+<extent>11 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hn1</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -4514,6 +4677,8 @@ hands.</p></div2>
 <biblScope type="pages">p. 283</biblScope>
 <date value="1864-09-17">September 17, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hp4</idno></bibl>
 <p>For the future no ship belonging to either the Federal or the
 Confederate States of America will be permitted to enter a British
@@ -4532,6 +4697,8 @@ prepared to defend his interests in that court.</p></div2>
 <biblScope type="pages">p. 283</biblScope>
 <date value="1864-09-17">September 17, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hq7</idno></bibl>
 
 <p rend="center">ECHOES OF THE WEEK.</p>
@@ -4591,6 +4758,8 @@ them....</p></div2>
 <biblScope type="pages">p. 285</biblScope>
 <date value="1864-09-17">September 17, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hrb</idno></bibl>
 <p rend="center">ENLISTMENT OF IRISH AND GERMAN EMIGRANTS ON
 THE<lb/><hi rend="smallcaps">Battery, At New York.</hi></p>
@@ -4641,6 +4810,8 @@ and the Presidential chair at the White House.</p></div2>
 <biblScope type="pages">p. 286</biblScope>
 <date value="1864-09-17">September 17, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hsf</idno></bibl>
 <p>Master Willie Pape, who has had the honour of again appearing
 before members of the Royal family, has just returned from a tour
@@ -4657,6 +4828,8 @@ success. Master Pape appears at Scarborough and Whitby on the 21st and
 <biblScope type="pages">p. 287</biblScope>
 <date value="1864-09-17">September 17, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1htj</idno></bibl>
 <p>In the year 1830 there were only seventy souls in Chicago. In 1835
 Chicago was incorporated into a city, and in 1840 the population had
@@ -4671,6 +4844,8 @@ increased to 4853. It now numbers not far from 170,000.</p></div2>
 <biblScope type="pages">p. 287</biblScope>
 <date value="1864-09-17">September 17, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hvn</idno></bibl>
 <p>Upwards of fifty Cornish miners have written to their families in
 the course of the past month announcing their return from America on
@@ -4685,11 +4860,13 @@ country.</p></div2>
 <biblScope type="pages">p. 288</biblScope>
 <date value="1864-09-17">September 17, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hwr</idno></bibl>
 <p>
-<figure entity="v45p288" ana="street ny">
-<head>ENLISTING IRISH AND GERMAN EMIGRANTS ON
-      THE BATTERY AT NEW YORK.--SEE PAGE 285.</head>
+<figure entity="v45p288" ana="street ny" width="1308" height="922">
+<head>Enlisting Irish and German Emigrants on
+      the Battery at New York.--See Page 285.</head>
 </figure>
 </p>
 </div2>
@@ -4703,6 +4880,8 @@ country.</p></div2>
 <biblScope type="pages">p. 302</biblScope>
 <date value="1864-09-24">September 24, 1864</date>
 
+<extent>12 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hxv</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -4788,6 +4967,8 @@ the premium on gold at New York; and the last quotation was
 <biblScope type="pages">p. 302</biblScope>
 <date value="1864-09-24">September 24, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hzz</idno></bibl>
 
 <p>As the Mayor of New York was on a water excursion, one of his
@@ -4805,6 +4986,8 @@ check for 1000 dollars, another of the party giving 250.</p></div2>
 <biblScope type="pages">p. 303</biblScope>
 <date value="1864-09-24">September 24, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j04</idno></bibl>
 <p>The railway journey between New York and St. Louis--a distance of
 1200 miles--may now be made without change of carriage.</p></div2>
@@ -4818,6 +5001,8 @@ check for 1000 dollars, another of the party giving 250.</p></div2>
 <biblScope type="pages">p. 326</biblScope>
 <date value="1864-10-01">October 1, 1864</date>
 
+<extent>11 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j17</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -4894,6 +5079,8 @@ petitioned by nearly 40,000 votes to vacate the benches.</p></div2>
 <biblScope type="pages">p. 331</biblScope>
 <date value="1864-10-01">October 1, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j2b</idno></bibl>
 <p>The steam-boat Washoe exploded her boiler in the Sacramento River
 on the 6th ult. Her upper works were shattered and her stern blown
@@ -4908,6 +5095,8 @@ off; 150 passengers were either killed or wounded.</p></div2>
 <biblScope type="pages">p. 342</biblScope>
 <date value="1864-10-01">October 1, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j3f</idno></bibl>
 <p><hi rend="smallcaps">The Pickets Before Petersburg.</hi>--The
 special correspondent of the <hi rend="italic">New York Tribune</hi>,
@@ -4974,6 +5163,8 @@ the more intelligent soldiers on picket."</p></div2>
 <biblScope type="pages">p. 343</biblScope>
 <date value="1864-10-01">October 1, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j4j</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p>...<hi rend="italic">Testimonies Concerning Slavery</hi>. By M. D,
@@ -5022,11 +5213,13 @@ result of the conflict now raging on the American continent....</p></div2>
 <biblScope type="pages">p. 345</biblScope>
 <date value="1864-10-01">October 1, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j5n</idno></bibl>
 <p>
-<figure entity="v45p345" ana="ny ps pg street">
-<head>THE PRESIDENTIAL CAMPAIGN IN AMERICA:
-      GREAT M'CLELLAN MEETING IN UNION-SQUARE, NEW YORK.--SEE NEXT PAGE.</head>
+<figure entity="v45p345" ana="ny ps pg street" width="1316" height="914">
+<head>The Presidential Campaign in America:
+      Great M'Clellan Meeting in Union-Square, New York.--See Next Page.</head>
 </figure>
 </p>
 </div2>
@@ -5040,6 +5233,8 @@ result of the conflict now raging on the American continent....</p></div2>
 <biblScope type="pages">p. 346</biblScope>
 <date value="1864-10-01">October 1, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j6r</idno></bibl>
 <p rend="center">THE PRESIDENTIAL ELECTION IN AMERICA.<lb/><hi rend="smallcaps">Great M'Clellan Meeting In Union-Square, New
 York.</hi></p>
@@ -5082,6 +5277,8 @@ fearfully scorching and maiming several others."</p></div2>
 <biblScope type="pages">p. 346</biblScope>
 <date value="1864-10-01">October 1, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j7v</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">In </hi>a little brown and somewhat scandalous
@@ -5124,6 +5321,8 @@ ago looked so hopeful....</p></div2>
 <biblScope type="pages">p. 350-351</biblScope>
 <date value="1864-10-08">October 8, 1864</date>
 
+<extent>9 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j8z</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -5237,6 +5436,8 @@ manifested.</p></div2>
 <biblScope type="pages">p. 351</biblScope>
 <date value="1864-10-08">October 8, 1864</date>
 
+<extent>9 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j92</idno></bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegram has been received through Mr. Reuter's
@@ -5289,6 +5490,8 @@ current.</p></div2>
 <biblScope type="pages">p. 354-355</biblScope>
 <date value="1864-10-08">October 8, 1864</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jb5</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, October</hi> 8, 1864.</hi></p>
@@ -5428,6 +5631,8 @@ strike!</p></div2>
 <biblScope type="pages">p. 355</biblScope>
 <date value="1864-10-08">October 8, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jc8</idno></bibl>
 <p>A splendid album of oil and water coloured sketches by American
 artists, valued at &#xA3;300, has been presented to Miss Charlotte
@@ -5445,6 +5650,8 @@ sanitary commission.</p></div2>
 <biblScope type="pages">p. 358</biblScope>
 <date value="1864-10-08">October 8, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jdc</idno></bibl>
 <p>Twelve live crocodiles, averaging nine feet in length, have been
 received at Havre, from America.</p></div2>
@@ -5458,6 +5665,8 @@ received at Havre, from America.</p></div2>
 <biblScope type="pages">p. 370</biblScope>
 <date value="1864-10-08">October 8, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jfg</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...Captain Chesney's history of General Lee's Virginian campaigns
@@ -5473,6 +5682,8 @@ also a good memoir of General Grant....</p></div2>
 <biblScope type="pages">p. 374</biblScope>
 <date value="1864-10-15">October 15, 1864</date>
 
+<extent>10 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jgk</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -5562,6 +5773,8 @@ one time the premium was as low as 83.</p></div2>
 <biblScope type="pages">p. 379</biblScope>
 <date value="1864-10-15">October 15, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jhp</idno></bibl>
 <p>The Secret, a splendid iron paddle-steamer, has been launched from
 the ship-building yard of Messrs. Bowdler, Chaffer, and Co., on the
@@ -5578,6 +5791,8 @@ burden, with engines nominally of 180-horse power.</p></div2>
 <biblScope type="pages">p. 379</biblScope>
 <date value="1864-10-15">October 15, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jjs</idno></bibl>
 <p>The <hi rend="italic">Manchester Guardian</hi> states that Captain
 Semmes, who commanded the Alabama during her eventful career, left
@@ -5600,6 +5815,8 @@ the stores which she takes out with her.</p></div2>
 <biblScope type="pages">p. 389</biblScope>
 <date value="1864-10-15">October 15, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jkw</idno></bibl>
 <p rend="center">PRESIDENTIAL ELECTIONEERING IN<lb/>NEW YORK.</p>
 <p><hi rend="smallcaps">We </hi>have engraved two sketches by
@@ -5715,11 +5932,13 @@ one of riot and confusion."</p></div2>
 <biblScope type="pages">p. 389</biblScope>
 <date value="1864-10-15">October 15, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jm0</idno></bibl>
 <p>
-<figure entity="v45p389a" ana="ps">
-<head>PRESIDENTIAL ELECTIONEERING IN NEW
-      YORK.--A STREET SCENE.</head>
+<figure entity="v45p389a" ana="ps" width="403" height="604">
+<head>Presidential Electioneering in New
+      York.--A Street Scene.</head>
 </figure>
 </p>
 </div2>
@@ -5732,11 +5951,13 @@ one of riot and confusion."</p></div2>
 <biblScope type="pages">p. 389</biblScope>
 <date value="1864-10-15">October 15, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jn3</idno></bibl>
 <p>
-<figure entity="v45p389b" ana="ny pg ps street">
-<head>PRESIDENTIAL ELECTIONEERING IN NEW
-      YORK.--TORCHLIGHT PROCESSION OF THE M'CLELLAN PARTY.</head>
+<figure entity="v45p389b" ana="ny pg ps street" width="853" height="589">
+<head>Presidential Electioneering in New
+      York.--Torchlight Procession of the M'Clellan Party.</head>
 </figure>
 </p>
 </div2>
@@ -5750,6 +5971,8 @@ one of riot and confusion."</p></div2>
 <biblScope type="pages">p. 406</biblScope>
 <date value="1864-10-22">October 22, 1864</date>
 
+<extent>10 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jp6</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 News.</hi></p>
@@ -5861,6 +6084,8 @@ prem.</p></div2>
 <biblScope type="pages">p. 407</biblScope>
 <date value="1864-10-22">October 22, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jq9</idno></bibl>
 <p rend="center">ILLUSTRATIONS OF THE WAR IN AMERICA.</p>
 <p><hi rend="smallcaps">We </hi>have received, from our Special Artist
@@ -5905,14 +6130,16 @@ shots, as displayed in the present Illustration.</p></div2>
 <biblScope type="pages">p. 408</biblScope>
 <date value="1864-10-22">October 22, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jrd</idno></bibl>
 <p>
-<figure entity="v45p408" ana="land gray">
-<head>ILLUSTRATIONS OF THE WAR IN AMERICA, BY
-      OUR SPECIAL ARTIST: PASSAGE OF THE SHENANDOAH RIVER AT FRONT
-      ROYAL BY THE DIVISIONS SENT TO REINFORCE GENERAL EARLY; MARCH OF
-      KERSHAW'S AND FITZ LEE'S DIVISIONS OF THE CONFEDERATE ARMY UP
-      THE VALLEY OF VIRGINIA.--SEE PRECEDING PAGE.</head>
+<figure entity="v45p408" ana="land gray" width="926" height="1343">
+<head>Illustrations of the War in America, by
+      Our Special Artist: Passage of the Shenandoah River at Front
+      Royal by the Divisions Sent to Reinforce General Early; March of
+      Kershaw's and Fitz Lee's Divisions of the Confederate Army up
+      the Valley of Virginia.--See Preceding Page.</head>
 </figure>
 </p>
 </div2>
@@ -5925,12 +6152,14 @@ shots, as displayed in the present Illustration.</p></div2>
 <biblScope type="pages">p. 409</biblScope>
 <date value="1864-10-22">October 22, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jsh</idno></bibl>
 <p>
-<figure entity="v45p409" ana="insta gray">
-<head>ILLUSTRATIONS OF THE WAR IN AMERICA, BY
-      OUR SPECIAL ARTIST: HOWLETT'S BATTERY, ON THE JAMES RIVER,
-      ENGAGING THE FEDERAL MONITORS.--SEE PAGE 407 .</head>
+<figure entity="v45p409" ana="insta gray" width="1324" height="903">
+<head>Illustrations of the War in America, by
+      Our Special Artist: Howlett's Battery, on the James River,
+      Engaging the Federal Monitors.--See Page 407 .</head>
 </figure>
 </p>
 </div2>
@@ -5944,6 +6173,8 @@ shots, as displayed in the present Illustration.</p></div2>
 <biblScope type="pages">p. 426</biblScope>
 <date value="1864-10-22">October 22, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jtm</idno></bibl>
 <p>The death of the Rev. S. W. Bonney, of Canton, an American
 missionary of great eminence, is announced.</p></div2>
@@ -5957,6 +6188,8 @@ missionary of great eminence, is announced.</p></div2>
 <biblScope type="pages">p. 430</biblScope>
 <date value="1864-10-29">October 29, 1864</date>
 
+<extent>17 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jvq</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -6058,6 +6291,8 @@ corresponding period of 1863, the number was only 119,512.</p></div2>
 <biblScope type="pages">p. 430</biblScope>
 <date value="1864-10-29">October 29, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jwt</idno></bibl>
 <p>The Solicitor-General and Mr. Morrison, M.P., addressed their
 constituents, at Plymouth, on Thursday week. The Solicitor-General
@@ -6079,6 +6314,8 @@ speeches.</p></div2>
 <biblScope type="pages">p. 438</biblScope>
 <date value="1864-10-29">October 29, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jxx</idno></bibl>
 <p>William Pape, the celebrated violinist [i.e., pianist], having made the tour of
 Scotland and the north of England, began on Wednesday a second tour,
@@ -6094,6 +6331,8 @@ Plymouth, Truro, and other towns.</p></div2>
 <biblScope type="pages">p. 447</biblScope>
 <date value="1864-10-29">October 29, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jz1</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...A contemporary tells us that a wrong report is abroad
@@ -6147,6 +6386,8 @@ inevitable....</p></div2>
 <biblScope type="pages">p. 454</biblScope>
 <date value="1864-11-05">November 5, 1864</date>
 
+<extent>18 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k06</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -6247,6 +6488,8 @@ Magdalena, bound for Southampton."</p></div2>
 <biblScope type="pages">p. 454</biblScope>
 <date value="1864-11-05">November 5, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k19</idno></bibl>
 <p><hi rend="smallcaps">The Water Of Saratoga Springs.</hi>--I took a
 glass. What was it like? Well, let me see. Say half a pint of very
@@ -6275,6 +6518,8 @@ first and last spring in Saratoga was like.--<hi rend="italic">G. A. Sala.</hi><
 <biblScope type="pages">p. 462</biblScope>
 <date value="1864-10-29">October 29, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k2d</idno></bibl>
 
 <p>A sharper took passage in an emigrant-ship from Bremen to
@@ -6293,6 +6538,8 @@ rascality.</p></div2>
 <biblScope type="pages">p. 477</biblScope>
 <date value="1864-11-12">November 12, 1864</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k3h</idno></bibl>
 <p rend="center">SLAVE-SOLDIERS.</p>
 <p><hi rend="smallcaps">There </hi>is no more revolutionary agency in
@@ -6447,6 +6694,8 @@ England.</p></div2>
 <biblScope type="pages">p. 478</biblScope>
 <date value="1864-11-12">November 12, 1864</date>
 
+<extent>14 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k4m</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -6532,6 +6781,8 @@ of the 1st inst., the date of the latest telegrams, it was quoted at
 <biblScope type="pages">p. 494</biblScope>
 <date value="1864-11-12">November 12, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k5q</idno></bibl>
 <p>A statement was published some time ago to the effect that Captain
 Semmes and about 100 of his men had sailed from Liverpool in a vessel
@@ -6552,6 +6803,8 @@ is, of course, alleged to be a new Alabama.</p></div2>
 <biblScope type="pages">p. 495</biblScope>
 <date value="1864-11-12">November 12, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k6t</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...What has become of that large peace memorial which went over
@@ -6586,6 +6839,8 @@ war....</p></div2>
 <biblScope type="pages">p. 502</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k7x</idno></bibl>
 <p><hi rend="italic">La France </hi>announces that Brazil has broken
 off friendly relations with the United States on account of the
@@ -6600,6 +6855,8 @@ seizure of the Florida.</p></div2>
 <biblScope type="pages">p. 503</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>18 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k81</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -6701,6 +6958,8 @@ per cent premium.</p></div2>
 <biblScope type="pages">p. 503</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1k94</idno></bibl>
 <p>The Great Western, a vessel bound from the Mersey for New York,
 was, on Wednesday, stopped when about to take her departure by order
@@ -6718,6 +6977,8 @@ investigation.</p></div2>
 <biblScope type="pages">p. 510</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kb7</idno></bibl>
 <p>Mr. Lafone, of Liverpool, the owner of the Laurel, states that
 Captain Semmes did not leave Liverpool in the Laurel, and that he is
@@ -6733,6 +6994,8 @@ Madeira.</p></div2>
 <biblScope type="pages">p. 510</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kcb</idno></bibl>
 <p>The Central Pacific Railway Company state in their annual report
 that they have thirty-one miles of railroad and telegraph in
@@ -6747,12 +7010,14 @@ been over 16,000 dols., and expenses 3000 dols.</p></div2>
 <biblScope type="pages">p. 517</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kdf</idno></bibl>
 <p>
-<figure entity="v45p517" ana="naval">
-<head>THE LATE OUTRAGE ON THE NEUTRALITY OF
-      BRAZIL: THE FLORIDA (CONFEDERATE) AND THE WACHUSETTS (FEDERAL)
-      IN BAHIA HARBOUR.</head>
+<figure entity="v45p517" ana="naval" width="830" height="589">
+<head>The Late Outrage on the Neutrality of
+      Brazil: The Florida (Confederate) and the Wachusetts (Federal)
+      in Bahia Harbour.</head>
 </figure>
 </p>
 </div2>
@@ -6766,6 +7031,8 @@ been over 16,000 dols., and expenses 3000 dols.</p></div2>
 <biblScope type="pages">p. 517</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kfj</idno></bibl>
 <p rend="center">THE LATE OUTRAGE ON THE NEUTRALITY OF BRAZIL.</p>
 <p><hi rend="smallcaps">Our </hi>readers will not have forgotten the
@@ -6794,6 +7061,8 @@ Fort do Mar, and is unquestionably within the accustomed harbour...</p></div2>
 <biblScope type="pages">p. 518</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kgn</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">If </hi>any one following on the track of
@@ -6875,6 +7144,8 @@ of the equality of the races....</p></div2>
 <biblScope type="pages">p. 518-519</biblScope>
 <date value="1864-11-19">November 19, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1khr</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p>...<hi rend="italic">Down in Tennessee</hi>. By Edmund Kirke. (1
@@ -6904,6 +7175,8 @@ seems still as distant as it was then....</p></div2>
 <biblScope type="pages">p. 525-526</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kjv</idno></bibl>
 <p rend="center">THE AMERICAN PRESIDENCY.</p>
 <p><hi rend="smallcaps">In </hi>itself, the election of a President of
@@ -7073,6 +7346,8 @@ saviour of his country.</p></div2>
 <biblScope type="pages">p. 526-527</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>19 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kkz</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -7202,6 +7477,8 @@ proceeding slowly in Montreal.</p></div2>
 <biblScope type="pages">p. 534</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1km2</idno></bibl>
 <p>Master Willie Pape, the young pianist from Alabama, having made a
 successful tour in the West of England, is about to proceed to
@@ -7216,6 +7493,8 @@ Ireland.</p></div2>
 <biblScope type="pages">p. 534</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kn5</idno></bibl>
 <p>The Californian papers give an excellent report of Mr. and
 Mrs. C. Kean's reception in San Francisco, to which place they went
@@ -7254,11 +7533,13 @@ exhibitions.</p></div2>
 <biblScope type="pages">p. 541</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kp8</idno></bibl>
 <p>
-<figure entity="v45p541" ana="naval">
-<head>BURNING OF THE UNITED STATES'
-      MAIL-STEAMER ROANOKE, OFF ST. GEORGE'S, BERMUDA, ON THE 9TH OF OCTOBER.</head>
+<figure entity="v45p541" ana="naval" width="837" height="531">
+<head>Burning of the United States'
+      Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October.</head>
 </figure>
 </p>
 </div2>
@@ -7272,6 +7553,8 @@ exhibitions.</p></div2>
 <biblScope type="pages">p. 541-542</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kqc</idno></bibl>
 <p rend="center">DESTRUCTION OF THE<lb/><hi rend="smallcaps">Steam-Packet Roanoke.</hi></p>
 <p><hi rend="smallcaps">The </hi>magistrates in session at the
@@ -7348,6 +7631,8 @@ owners; her dimensions being in length 218 ft.; breadth, 32ft.; depth,
 <biblScope type="pages">p. 543</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>7 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1krg</idno></bibl>
 <p rend="center">THE PRESIDENTIAL CONTEST IN AMERICA.<lb/>(<hi rend="italic">From a Correspondent.</hi>)</p>
 <p rend="right"><hi rend="smallcaps">New York</hi>, Nov. 3.</p>
@@ -7501,6 +7786,8 @@ orders from Washington.</p></div2>
 <biblScope type="pages">p. 546</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ksk</idno></bibl>
 <p>...Across the wide Atlantic "Uncle Abe," or "Father
 Abraham"--for the President stands in a double relationship to his
@@ -7579,6 +7866,8 @@ illusion....</p></div2>
 <biblScope type="pages">p. 547</biblScope>
 <date value="1864-11-26">November 26, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ktp</idno></bibl>
 <p>One pleasing and hopeful feature in our Canadian colony is the
 rapid and steady strides with which education is advancing
@@ -7608,6 +7897,8 @@ S. P. Day.</hi></p></div2>
 <biblScope type="pages">p. 551</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>14 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kvs</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -7689,6 +7980,8 @@ the usual course, during Lord Lyons's absence.</p></div2>
 <biblScope type="pages">p. 559</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kww</idno></bibl>
 <p>The cable of the Victoria extension of the Oregon and Washington
 Territory line of telegraph, which it was intended to lay across the
@@ -7704,6 +7997,8 @@ Cape Horn, on her voyage from London.</p></div2>
 <biblScope type="pages">p. 559</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kx0</idno></bibl>
 <p rend="center">ELECTION DAY IN NEW YORK.</p>
 <p><hi rend="smallcaps">Our </hi>New York Correspondent has supplied a
@@ -7751,6 +8046,8 @@ dangerous classes."</p></div2>
 <biblScope type="pages">p. 559-561</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>5 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kz3</idno></bibl>
 <p rend="center">LAGER BEER IN NEW YORK.</p>
 <p><hi rend="smallcaps">"To </hi>appreciate the great German element
@@ -7804,10 +8101,10 @@ in which the lager beer saloon, in some of its various forms, is not
 to be
 
 <p>
-<figure entity="v45p560" ana="ny street ps pg">
-<head>ELECTION DAY IN NEW YORK: A POLLING-PLACE
-      AMONG THE "UPPER TEN."; A POLLING-PLACE AMONG THE "LOWER
-      TWENTY."--SEE PRECEDING PAGE.</head>
+<figure entity="v45p560" ana="ny street ps pg" width="953" height="1370">
+<head>Election Day in New York: A Polling-Place
+      among the "Upper Ten."; A Polling-Place Among the "Lower
+      Twenty."--See Preceding Page.</head>
 </figure>
 </p>
 <pb n="561"/> found. The Garten Wirthschaft, a tavern with a
@@ -7866,11 +8163,13 @@ vintages of the Rhine."</p></div2>
 <biblScope type="pages">p. 561</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m08</idno></bibl>
 <p>
-<figure entity="v45p561a" ana="daily">
-<head>SKETCHES FROM NEW YORK: ENTERTAINMENT IN
-      A LAGER BEER SALOON.</head>
+<figure entity="v45p561a" ana="daily" width="411" height="427">
+<head>Sketches from New York: Entertainment in
+      a Lager Beer Saloon.</head>
 </figure>
 </p>
 </div2>
@@ -7883,11 +8182,13 @@ vintages of the Rhine."</p></div2>
 <biblScope type="pages">p. 561</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m1c</idno></bibl>
 <p>
-<figure entity="v45p561b" ana="land money">
-<head>SKETCHES FROM NEW YORK: A LAGER BEER
-      BREWERY AT GUTTENBURG, ON THE HUDSON RIVER.</head>
+<figure entity="v45p561b" ana="land money" width="396" height="427">
+<head>Sketches from New York: A Lager Beer
+      Brewery at Guttenburg, on the Hudson River.</head>
 </figure>
 </p>
 </div2>
@@ -7900,10 +8201,12 @@ vintages of the Rhine."</p></div2>
 <biblScope type="pages">p. 561</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m2g</idno></bibl>
 <p>
-<figure entity="v45p561c" ana="daily pg">
-<head>SKETCHES FROM NEW YORK: A GARTEN WIRTHSCHAFT.</head>
+<figure entity="v45p561c" ana="daily pg" width="818" height="577">
+<head>Sketches from New York: A Garten Wirthschaft.</head>
 </figure>
 </p>
 </div2>
@@ -7917,6 +8220,8 @@ vintages of the Rhine."</p></div2>
 <biblScope type="pages">p. 566</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m3k</idno></bibl>
 <p rend="center">THE PRESIDENTIAL CONTEST IN AMERICA.<lb/>(<hi rend="italic">From a Correspondent.</hi>)</p>
 <p rend="right"><hi rend="smallcaps">New York</hi>, Nov. 10.</p>
@@ -8031,6 +8336,8 @@ be magnanimous enough to do so.</p></div2>
 <biblScope type="pages">p. 567</biblScope>
 <date value="1864-12-03">December 3, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m4p</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...While Mr. Lincoln is getting up a proclamation, hinted at by
@@ -8063,6 +8370,8 @@ fetters....</p></div2>
 <biblScope type="pages">p. 574</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>10 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m5s</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 NEWS.</hi></p>
@@ -8135,6 +8444,8 @@ exportation of arms.</p></div2>
 <biblScope type="pages">p. 575</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m6w</idno></bibl>
 <p rend="center">PEYTON FALLS, IN VIRGINIA.</p>
 <p><hi rend="smallcaps">We </hi>have engraved on another page a
@@ -8168,10 +8479,12 @@ properties.</p></div2>
 <biblScope type="pages">p. 576</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m70</idno></bibl>
 <p>
-<figure entity="v45p576" ana="land">
-<head>PEYTON FALLS, <sic>ALLEGHANY</sic> COUNTY, VIRGINIA.</head>
+<figure entity="v45p576" ana="land" width="585" height="807">
+<head>Peyton Falls, <sic>Alleghany</sic> County, Virginia.</head>
 </figure>
 </p>
 </div2>
@@ -8185,6 +8498,8 @@ properties.</p></div2>
 <biblScope type="pages">p. 579</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m83</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, December</hi> 10, 1864.</hi></p>
@@ -8278,6 +8593,8 @@ have a right to the peaceful enjoyment of the feast.</p></div2>
 <biblScope type="pages">p. 582</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m96</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...On Saturday night twenty-five gentlemen, some on the press and
@@ -8314,6 +8631,8 @@ satisfaction of your very worst enemies."...</p></div2>
 <biblScope type="pages">p. 582</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mb9</idno></bibl>
 <p rend="center">THE MAGAZINES.</p>
 <p>...<hi rend="italic">Blackwood's</hi> valuable series of papers on
@@ -8350,6 +8669,8 @@ leg, immediately proceeded to barter the useless boot....</p></div2>
 <biblScope type="pages">p. 583</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mcd</idno></bibl>
 <p>It is stated that more than a hundred vagrant children are every
 month rescued from the streets of New York and sent to the west, where
@@ -8365,11 +8686,13 @@ more than 15 dols. for each child.</p></div2>
 <biblScope type="pages">p. 592</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mdh</idno></bibl>
 <p>
-<figure entity="v45p592" ana="np">
-<head>THE TOWN AND PORT OF NASSAU, NEW
-      PROVIDENCE, BAHAMA ISLANDS.</head>
+<figure entity="v45p592" ana="np" width="1231" height="661">
+<head>The Town and Port of Nassau, New
+      Providence, Bahama Islands.</head>
 </figure>
 </p>
 </div2>
@@ -8383,6 +8706,8 @@ more than 15 dols. for each child.</p></div2>
 <biblScope type="pages">p. 592</biblScope>
 <date value="1864-12-10">December 10, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mfm</idno></bibl>
 <p rend="center">THE TOWN AND PORT OF NASSAU.</p>
 <p><hi rend="smallcaps">The </hi>Bahama Islands, though smaller and
@@ -8440,6 +8765,8 @@ supply the Confederate army.</p></div2>
 <biblScope type="pages">p. 598-599</biblScope>
 <date value="1864-12-17">December 17, 1864</date>
 
+<extent>12 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mgq</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -8532,6 +8859,8 @@ propositions laid before it.</p></div2>
 <biblScope type="pages">p. 614</biblScope>
 <date value="1864-12-17">December 17, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mht</idno></bibl>
 <p>The largest church in the American States, St. Paul's and
 St. Peter's Cathedral at Philadelphia, was consecrated on the 20th
@@ -8550,6 +8879,8 @@ by about 8000 people.</p></div2>
 <biblScope type="pages">p. 614</biblScope>
 <date value="1864-12-17">December 17, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mjx</idno></bibl>
 <p rend="center"><hi rend="italic">CURRENT LITERATURE.</hi></p>
 <p>...<hi rend="italic">The American Angler's Book</hi>. By
@@ -8573,6 +8904,8 @@ most "jolly fishermen."...</p></div2>
 <biblScope type="pages">p. 618</biblScope>
 <date value="1864-12-17">December 17, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mk1</idno></bibl>
 <p><hi rend="smallcaps">The Action of Oil Wells</hi> has been examined
 by Professor E. W. Evans, of Marietta College, Ohio, U.S., and the
@@ -8634,6 +8967,8 @@ unproductive till the water can be reduced.</p></div2>
 <biblScope type="pages">p. 622</biblScope>
 <date value="1864-12-24">December 24, 1864</date>
 
+<extent>13 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mm4</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -8728,6 +9063,8 @@ Florida.</p></div2>
 <biblScope type="pages">p. 627</biblScope>
 <date value="1864-12-24">December 24, 1864</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mn7</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, December</hi> 24, 1864.</hi></p>
@@ -8823,6 +9160,8 @@ Christmas prayers in England.</p></div2>
 <biblScope type="pages">p. 630</biblScope>
 <date value="1864-12-24">December 24, 1864</date>
 
+<extent>2 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mpb</idno></bibl>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p><hi rend="smallcaps">It </hi>seems but a week since we heard a
@@ -8892,6 +9231,8 @@ to the article they supply....</p></div2>
 <biblScope type="pages">p. 630</biblScope>
 <date value="1864-12-24">December 24, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mqf</idno></bibl>
 <p>Among the curiosities at the recent Mechanics' Fair in San
 Francisco were:--"A ten-toed ox, a three-legged calf, a three-legged
@@ -8907,6 +9248,8 @@ extraordinary creatures in the State."</p></div2>
 <biblScope type="pages">p. 630</biblScope>
 <date value="1864-12-24">December 24, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mrj</idno></bibl>
 <p>By the last American mail a letter, which is remarkable both as a
 documentary curiosity and as a specimen of manufacturing skill, was
@@ -8941,6 +9284,8 @@ part of an inch.</p></div2>
 <biblScope type="pages">p. 631</biblScope>
 <date value="1864-12-24">December 24, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1msn</idno></bibl>
 <p>The American papers say that there is a New York regiment which,
 during their three years' service, has travelled by sea and land more
@@ -8957,6 +9302,8 @@ M'Dowell, Meade, Sherman, and Grant.</p></div2>
 <biblScope type="pages">p. 661</biblScope>
 <date value="1864-12-31">December 31, 1864</date>
 
+<extent>3 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mtr</idno></bibl>
 <p rend="center">THE LAST DAY OF THE YEAR.</p>
 <p><hi rend="smallcaps">To-night </hi>the year 1864 will come to an
@@ -9044,6 +9391,8 @@ occasioned....</p></div2>
 <biblScope type="pages">p. 662-663</biblScope>
 <date value="1864-12-31">December 31, 1864</date>
 
+<extent>10 paragraphs</extent>
+ 
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mvv</idno></bibl>
 <p rend="center"><hi rend="italic">FOREIGN AND COLONIAL
 INTELLIGENCE.</hi></p>
@@ -9122,6 +9471,8 @@ premium.</p></div2>
 <biblScope type="pages">p. 663</biblScope>
 <date value="1864-12-31">December 31, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mwz</idno></bibl>
 <p>During the last fifteen months over 5,000,000 dols. have been paid
 over to the treasurer of the United States by Marshal Keyes, of
@@ -9137,6 +9488,8 @@ whose cases have been adjudicated at Boston.</p></div2>
 <biblScope type="pages">p. 666-667</biblScope>
 <date value="1864-12-31">December 31, 1864</date>
 
+<extent>4 paragraphs</extent>
+  
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mx2</idno></bibl>
 <p rend="center"><hi rend="smallcaps"><hi rend="italic">London:
 Saturday, December</hi> 31, 1864.</hi></p>
@@ -9264,6 +9617,8 @@ superintending Providence to believe.</p></div2>
 <biblScope type="pages">p. 683</biblScope>
 <date value="1864-12-31">December 31, 1864</date>
 
+<extent>1 paragraph</extent>
+   
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mz5</idno></bibl>
 <p>Lord Wharncliffe writes that the refusal of the Federal Government
 to distribute the money raised for the Confederate prisoners will not
