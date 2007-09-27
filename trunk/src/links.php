@@ -4,8 +4,8 @@ include_once ("lib/linkCollection.class.php");
 
 html_head("Links");
 
-include("xml/head.xml");
-include("xml/sidebar.xml");
+include("web/xml/head.xml");
+include("web/xml/sidebar.xml");
 
 
 print '<div class="content"> 
@@ -15,15 +15,16 @@ print "<hr>";
 $sort = $_GET["sort"]; // options: title|contrib|date
 $subject = $_GET['subj'];
 
-
-$args = array('host' => $tamino_server,
+$exist_args{"debug"} = true;
+$xmldb = new xmlDbConnection($exist_args);
+/*$args = array('host' => $tamino_server,
 	      'db' => $tamino_db, 
 	      'coll' => $link_coll,  
 	      'limit_subject' => $subject[0], 
 	      'sort' => $sort,  
-	      'debug' => false);  
+	      'debug' => false);  */
 
-$linkset = new LinkCollection($args);
+$linkset = new LinkCollection($exist_args);
 
 $linkset->printSortOptions("links.php");
 $linkset->printSubjectOptions("links.php", $subject);
@@ -32,7 +33,7 @@ $linkset->printSummary();
 
 print "<hr>";  
 print "</div>";  
-include("xml/foot.xml"); 
+include("web/xml/foot.xml"); 
 ?>
 </body>
 </html>

@@ -14,15 +14,12 @@ $term = $_GET["term"];
 $term2 = $_GET["term2"];
 $term3 = $_GET["term3"];
 
-$args = array('host' => $tamino_server,
-	      'db' => $tamino_db,
-	      'coll' => $tamino_coll,
-	      'debug' => false);
-$tamino = new xmlDbConnection($args);
+$exist_args{"debug"} = true;
+$xmldb = new xmlDbConnection($exist_args);
 $xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
  
 // addition to the query for next/previous links (only in contents/browse mode, not searches) 
-$sibling_query = '<siblings> {for $b in input()/TEI.2//div1/div2 
+$sibling_query = '<siblings> {for $b in /TEI.2//div1/div2 
   return <div2>  
           {$b/@id}  
           {$b/@n}  
@@ -32,38 +29,38 @@ $sibling_query = '<siblings> {for $b in input()/TEI.2//div1/div2
          </div2> } 
 </siblings>';  
 
-$query ="for \$a in input()/TEI.2//div1/div2 where \$a/@id='$id' return <div1> {\$a}"; 
+$query ="for \$a in /TEI.2//div1/div2 where \$a/@id='$id' return <div1> {\$a}"; 
 // if there is no search term, this is browse mode - use sibling query 
 if (!(isset($term))) { $query .= $sibling_query; } 
 $query .= "</div1>";   
 
-$xsl_file = "browse.xsl"; 
+$xsl_file = "xslt/browse.xsl"; 
 
 html_head("Browse - Article");
 
-include("xml/head.xml");
-include("xml/sidebar.xml");
+include("web/xml/head.xml");
+include("web/xml/sidebar.xml");
 print '<div class="content">';
 
 if ($id) {
   // run the query 
-  $tamino->xquery($query);
+  $xmldb->xquery($query);
 
   // convert the terms into an array to pass to tamino functions
   $myterms = array($term, $term2, $term3);
   // transform xml with xslt
-  $tamino->xslTransform($xsl_file);
+  $xmldb->xslTransform($xsl_file);
   // print out info about highlighted terms
-  $tamino->highlightInfo($myterms);
+  $xmldb->highlightInfo($myterms);
   // print transformed result
-  $tamino->printResult($myterms);
+  $xmldb->printResult($myterms);
 } else {
   print "<p class='error'>Error: No article specified!</p>";
 }
 
 print "</div>"; 
 
-include("xml/foot.xml"); 
+include("web/xml/foot.xml"); 
 ?>
 
 </body>

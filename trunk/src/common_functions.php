@@ -16,12 +16,12 @@ function getCSS () {
   if (eregi ("mac",  $HTTP_USER_AGENT)) { $os = "mac"; }
   else if (eregi ("win",  $HTTP_USER_AGENT)) { $os = "win"; }
   
-  $css = "iln.css"; 
+  $css = "web/css/iln.css"; 
   if ($browser == "MSIE") {
     if ($os == "mac") {
-      $css = "iln-iemac.css";
+      $css = "web/css/iln-iemac.css";
     } else if ($os == "win") {
-      $css = "iln-iewin.css";
+      $css = "web/css/iln-iewin.css";
     }
   }
   //  return "$base_url/$css";
@@ -45,11 +45,11 @@ print "<html>
 
 // only load content-list javascript if needed
  if ($contentlist) {
-   print "<script language=\"Javascript\" src=\"cookies.js\"></script>
-<script language=\"Javascript\" src=\"content-list.js\"></script>
-<link rel=\"stylesheet\" type=\"text/css\" href=\"contents.css\">\n";
+   print "<script language=\"Javascript\" src=\"web/js/cookies.js\"></script>
+<script language=\"Javascript\" src=\"web/js/content-list.js\"></script>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"web/css/contents.css\">\n";
  }
-print "<script language=\"Javascript\" src=\"image_viewer/launchViewer.js\"></script>
+print "<script language=\"Javascript\" src=\"web/image_viewer/launchViewer.js\"></script>
  </head>";
 }
 
