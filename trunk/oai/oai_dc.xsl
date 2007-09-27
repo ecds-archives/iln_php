@@ -36,7 +36,6 @@
         <oai_dc:dc>
           <xsl:apply-templates/>
 
-          <!--        <dc:identifier>PURL</dc:identifier> -->
           <dc:type>Text</dc:type>
           <dc:format>text/xml</dc:format>
         </oai_dc:dc>
@@ -97,6 +96,10 @@
     select="biblScope[@type='pages']"/>.</xsl:element>
     <!-- pick up the date -->
     <xsl:apply-templates select="date"/> 
+
+    <!-- pick up the ark -->
+    <xsl:apply-templates select="idno"/> 
+
   </xsl:template>
 
 
@@ -151,6 +154,13 @@
   <xsl:element
     name="dc:identifier">http://beckptolemy.library.emory.edu/iln/browse.php?id=<xsl:value-of
   select="@id"/></xsl:element>
+</xsl:template>
+
+  <!-- ark identifier -->
+<xsl:template match="idno[@type='ark']">
+  <xsl:element name="dc:identifier">
+    <xsl:value-of select="."/>
+  </xsl:element>
 </xsl:template>
 
 
