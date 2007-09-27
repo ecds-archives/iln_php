@@ -4,29 +4,26 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$args = array('host' => $tamino_server,
-	      'db' => $tamino_db,
-	      'coll' => $tamino_coll,
-	      'debug' => false);
-$xmldb = new xmlDbConnection($args);
+$exist_args{"debug"} = true;
+$xmldb = new xmlDbConnection($exist_args);
 
-$query = 'for $b in input()/TEI.2/:text/body/div1
-sort by (@id)
+$query = 'for $b in /TEI.2/:text/body/div1
+order by $b/@id
 let $fig := $b//figure
 return <div1 type="{$b/@type}">
  {$b/head}
  {$b/docDate}
  {$fig}
 </div1>';
-$xsl_file = "contents.xsl";
+$xsl_file = "xslt/contents.xsl";
 $xsl_params = array('mode' => "figure");
 $xmldb->xquery($query);
 
 
 html_head("Browse - Illustrations", true);
 
-include("xml/head.xml");
-include("xml/sidebar.xml");
+include("web/xml/head.xml");
+include("web/xml/sidebar.xml");
 
 print '<div class="content"> 
       <h2>Illustrations</h2>';
@@ -36,7 +33,7 @@ $xmldb->printResult();
 
 print '</div>';
    
-include("xml/foot.xml");
+include("web/xml/foot.xml");
 
 print '</body>
 </html>';
