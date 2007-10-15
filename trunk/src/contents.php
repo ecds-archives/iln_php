@@ -27,7 +27,6 @@ return <div1 type="{$vol/@type}">
 $tamino_query = 'for $b in input()/TEI.2//div1
 return <div1>
  {$b/@type}
->>>>>>> 1.4.2.6
  {$b/head}
  {$b/docDate}
  { for $c in $b/div2 return
@@ -48,12 +47,12 @@ $xmldb->xquery($query);
 
 html_head("Browse", true);
 
-include("xml/head.xml");
-include("xml/sidebar.xml");
+include("web/xml/head.xml");
+include("web/xml/sidebar.xml");
 
 print '<div class="content"> 
           <h2>Browse</h2>';
-$xsl_file = "contents.xsl";
+$xsl_file = "xslt/contents.xsl";
 $xmldb->xslTransform($xsl_file);
 $xmldb->printResult();
 

@@ -11,16 +11,19 @@ print "<div class='content'>
   <h2>Bibliography</h2>";   
 print "<hr>"; 
 
-$sort = $_GET["sort"]; // options: title|contrib|date 
-$subject = $_GET['subj'];  
+$sort = $_REQUEST["sort"]; // options: title|contrib|date 
+$subject = $_REQUEST['subj'];  
 
+/*
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db, 
 	      'coll' => $bibl_coll,  
 	      'limit_subject' => $subject[0], 
 	      'sort' => $sort,  
 	      'debug' => false);  
-
+*/
+$exist_args{"debug"} = true;
+$xmldb = new xmlDbConnection($exist_args);
 $linkset = new biblCollection($args);  
 
 $linkset->printSortOptions("bib.php");  

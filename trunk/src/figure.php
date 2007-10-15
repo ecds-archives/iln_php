@@ -7,8 +7,8 @@ include("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$id = $_GET["id"];
-$js = $_GET["js"]; 
+$id = $_REQUEST["id"];
+$js = $_REQUEST["js"]; 
 
 if ($js == 'no') {
   //javascript disabled
@@ -17,16 +17,16 @@ if ($js == 'no') {
   $mode="";
 }
 
-html_head("Illustration");
+html_head("Illustration", true);
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
-$xql = "/TEI.2//figure[@entity='" . $id . "']"; 
+$xquery = "/TEI.2//figure[@entity='" . $id . "']"; 
 
 if ($id) {
   // run the query 
-  $xmldb->xql($xql);
+  $xmldb->xquery($xquery);
 } else {
   print "<p class='error'>Error: No figure specified!</p>";
 }
@@ -35,9 +35,8 @@ if ($id) {
 $head = $xmldb->findNode("head");
 $head = urlencode($head);
 
-$fig = $xmldb->xpath->query("//figure");
-$width = $fig->item(0)->getAttribute("width");
-$height = $fig->item(0)->getAttribute("height");
+$width = $xmldb->findNode("//figure/@width");
+$height = $xmldb->findNode("//figure/@height");
 
 //$width  = $tamino->xml->getTagAttribute("width", "ino:response/xql:result/figure");
 //$height = $tamino->xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
@@ -46,7 +45,7 @@ $height = $fig->item(0)->getAttribute("height");
 //$url = "http://vip.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
 
 // Now, create the frameset with controller & image window
-print "<frameset rows='90,*' border='0' >
+print "<frameset rows='150,*' border='0' >
  <frame noresize='true' marginwidth='0' framespacing='0' frameborder='no'
        border='0'
        marginheight='0' scrolling='no' name='control'

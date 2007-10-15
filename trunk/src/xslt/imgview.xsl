@@ -30,8 +30,7 @@
 
   <xsl:element name="script">
     <xsl:attribute name="language">Javascript</xsl:attribute>
- 	window.imagename ="http://chaucer.library.emory.edu/iln/images/ILN<xsl:value-of
-							      select="./@entity" />.jpg";
+ 	window.imagename="http://beck.library.emory.edu/iln/image-content/ILN<xsl:value-of select="./@entity" />.jpg";
 	window.imagex = <xsl:value-of select="./@width" />;
 	window.imagey = <xsl:value-of select="./@height" />;
      <xsl:choose>

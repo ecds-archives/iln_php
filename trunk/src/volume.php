@@ -4,16 +4,9 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$id = $_GET["id"];
+$id = $_REQUEST["id"];
 
-/*
-$args = array('host' => $tamino_server,
-	      'db' => $tamino_db,
-	      'coll' => $tamino_coll,
-	      'debug' => false);
-$tamino = new xmlDbConnection($args);
-*/
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 // query for all volumes 
@@ -43,17 +36,13 @@ return <div1 id="{$b/@id}" type="{$b/@type}">
 $query = isset($id) ? $idquery : $allquery;
 $vol = isset($id) ? "single" : "all";
 
-$rval = $xmldb->xquery($query);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-} 
+
+$xmldb->xquery($query);
 
 html_head("Browse Volumes", true);
 
-include("xml/head.xml");
-include("xml/sidebar.xml");
+include("web/xml/head.xml");
+include("web/xml/sidebar.xml");
 
 
 print '<div class="content">';
@@ -72,7 +61,7 @@ $xmldb->printResult();
 </div>
    
 <?php
-  include("xml/foot.xml");
+  include("web/xml/foot.xml");
 ?>
 
 

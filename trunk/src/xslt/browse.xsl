@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>  
-
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
 	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
@@ -19,11 +18,10 @@
  <xsl:output method="xml"/>  
 
 <xsl:template match="/"> 
-  <xsl:apply-templates select="//div1/div2" />
-
+DEBUG: in root template
+  <xsl:apply-templates select="//result/div2" /> 
    <!-- links to next & previous titles (if present) -->
   <xsl:call-template name="next-prev" />
-
 </xsl:template> 
 
 
@@ -137,28 +135,20 @@
 
 
 <!-- generate next & previous links (if present) -->
-<!-- note: all div2s, with id, head, and bibl are retrieved in a <siblings> node -->
+<!-- note: all div2s, with id, head, and bibl are retrieved in a <result> node -->
 <xsl:template name="next-prev">
-<xsl:variable name="main_id"><xsl:value-of select="//div1/div2/@id"/></xsl:variable>
-<!-- get the position of the current document in the siblings list -->
-<xsl:variable name="position">
-  <xsl:for-each select="//siblings/div2">
-    <xsl:if test="@id = $main_id">
-      <xsl:value-of select="position()"/>
-    </xsl:if>
-  </xsl:for-each> 
-</xsl:variable>
+DEBUG: in next-prev template
 
 <xsl:element name="table">
   <xsl:attribute name="width">100%</xsl:attribute>
 
 <!-- display articles relative to position of current article -->
 
-  <xsl:apply-templates select="//siblings/div2[$position - 1]">
+  <xsl:apply-templates select="//prev">
     <xsl:with-param name="mode">Previous</xsl:with-param>
   </xsl:apply-templates>
 
-  <xsl:apply-templates select="//siblings/div2[$position + 1]">
+  <xsl:apply-templates select="//next">
     <xsl:with-param name="mode">Next</xsl:with-param>
   </xsl:apply-templates>
 
@@ -166,6 +156,7 @@
 </xsl:template>
 
 <!-- print next/previous link with title & summary information -->
+<!-- <xsl:template match="siblings/div2 | siblings/next | siblings/prev"> -->
 <xsl:template match="siblings/div2">
 <xsl:param name="mode"/>
 
@@ -192,7 +183,7 @@
   <xsl:attribute name="valign">top</xsl:attribute>
   <xsl:element name="a">
    <xsl:attribute name="href">browse.php?id=<xsl:value-of
-		select="@id"/></xsl:attribute>
+		select="$linkrel/@id"/></xsl:attribute>
     <!-- use rel attribute to give next / previous information -->
     <xsl:attribute name="rel"><xsl:value-of select="$linkrel"/></xsl:attribute>
     <xsl:call-template name="cleantitle"/>

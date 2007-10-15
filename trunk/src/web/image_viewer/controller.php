@@ -6,10 +6,10 @@
 
 <?php
 
-$head = $_GET["head"];
-$id = $_GET["id"];
-$width = $_GET["width"];
-$height = $_GET["height"];
+$head = $_REQUEST["head"];
+$id = $_REQUEST["id"];
+$width = $_REQUEST["width"];
+$height = $_REQUEST["height"];
 
 
 print "<h3>$head</h3>"; 
