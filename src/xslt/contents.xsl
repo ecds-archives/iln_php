@@ -234,7 +234,7 @@ select="./@entity"/>')</xsl:attribute>
 <!--  <xsl:attribute name="href"><xsl:value-of
 select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
 	<xsl:attribute name="href">figure.php?id=<xsl:value-of select="./@entity"/></xsl:attribute>
-        <xsl:attribute name="target">image_viewer</xsl:attribute>
+        <xsl:attribute name="target">web/image_viewer</xsl:attribute>
         <!-- open a new window without javascript -->
   <xsl:element name="img"> 
 

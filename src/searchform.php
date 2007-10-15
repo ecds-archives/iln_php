@@ -1,90 +1,42 @@
-<html>
-<head>
-<title>Search - The Civil War in America from The Illustrated London News</title>
-<meta http-equiv="Content-Type" content="text/html;
-      charset=iso-8859-1">
-<script language="Javascript" 
-	src="http://beck.library.emory.edu/iln/browser-css.js"></script> 
-<link rel="stylesheet" type="text/css" href="iln.css" />  
-
-</head>
-
-<body>
-
 <?php
-include("xml/head.xml");
-include("xml/sidebar.xml");
+
+include_once("config.php");
+include_once("lib/xmlDbConnection.class.php");
+include("common_functions.php");
+
+html_head("Search", true);
+include("web/xml/head.xml");
+include("web/xml/sidebar.xml");
 ?>
 
 <div class="content">
-<table><tr>
-  <td>Search for:</td>
-  <td>in:</td>
-  </tr>
-<tr>
-<form name="ilnquery" id="ilnquery"
-      action="search.php" method="get">
-<td><input type="text" size="30" name="term"></td>
-<td>
-<select name="region">
-<!-- FIXME: is this a useful option? -->
-  <option selected value="document">Entire Document</option> 
-  <option value="article">Article </option>
-  <option value="title">Article title</option>
-  <option value="date">Date</option>
-  <option value="illustration">Illustrations</option>
-</select> 
-</td>
-<td>
- <select name="op">
-   <option value="and">and</option>
-   <option value="or">or</option>
- </select>
-</td>
-<tr>
-<tr>
-<td><input type="text" size="30" name="term2"></td>
-<td>
-<select name="region2">
-  <option selected value="document">Entire Document</option> 
-  <option value="article">Article </option>
-  <option value="title">Article title</option>
-  <option value="date">Date</option>
-  <option value="illustration">Illustrations</option>
-</select> 
-</td>
 
+
+<h2>Search Entire Text</h2>
+
+<form name="ilnquery" action="search.php" method="get">
+<table class="searchform" border="0">
+<tr><th>Keyword</th><td class="input"><input type="text" size="40" name="keyword" value="<?php print $kw ?>"></td></tr>
+<tr><th>Title</th><td class="input"><input type="text" size="40" name="doctitle" value="<?php print $doctitle ?>"></td></tr>
+<tr><th>Article Date</th><td class="input"><input type="text" size="40" name="date" value="<?php print $date ?>"></td></tr>
+<tr><td></td><td><input type="submit" value="Submit"> <input type="reset" value="Reset"></td></tr>
 </table>
-
-<table cellspacing="8" border=0>
-<tr><td>Sort by:</td>
-<td>
-  <input type="radio" name="sort" value="match" checked> Relevance</td>
-<td>
-  <input type="radio" name="sort" value="date"> Date</td>
-<td>
-  <input type="radio" name="sort" value="type"> Article Type</td>
-<td> 
-  <input type="radio" name="sort" value="title"> Title</td>
-</tr></table>
-
-<p align="left">
-Results to display per page:
-<select name="max">
-  <option value="10">10</option>
-  <option selected value="20">20</option>
-  <option value="50">50</option>
-  <option value="100">100</option>
-</select>
-</p>
-
-<p align="left">
-<input type="submit" value="Submit">
-<input type="reset" value="Reset">
-</p>
-
 </form>
+
+
+
+<h2>Search Illustrations</h2>
+
+<form name="iln-illus-query" action="search-illus.php" method="get"> 
+<table name="illus-searchtable">
+<tr><th>Keyword</th><td class="input"><input type="text" size="40" name="keyword" value="<?php print $kw ?>"></td></tr>
+<tr><th>Subject</th><td class="input"><input type="text" size="40" name="subj" value="<?php print $subj ?>"></td></tr>
+<tr><th>Illustration Date</th><td class="input"><input type="text" size="40" name="date" value="<?php print $date ?>"></td></tr>
+<tr><td></td><td><input type="submit" value="Submit"> <input type="reset" value="Reset"></td></tr>
 </table>
+</form>
+
+
 
 <hr width="60%" align="left">
 

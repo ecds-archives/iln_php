@@ -75,11 +75,12 @@ img { border: 0 }
 a.toggle { text-decoration:none;margin:2px; }
 
 div.heading img { border-top: double medium black; padding: 15px 0.5in 0 0.5in;
-	text-align: middle;}
+	vertical-align: middle;}
 
 span.term1 { background-color: #d1e1f9; font-weight: bold;}
 span.term2 { background-color: #fffc7f; font-weight: bold;}
 span.term3 { background-color: #b4f7aa; font-weight: bold;}
+span.match { font-weight:bold; background-color:#B5D5FF; }
 
 /* Horizontal lists -- display inline, with lines between */
 li.horiz { 
@@ -112,3 +113,37 @@ hr.pb {width: 5em;
 table.searchresults { width:90%;  border-collapse: collapse;}
 table.searchresults td { border-bottom: 1px solid #cccccc;}
 table.searchresults td.count { width:15%; text-align: center; }
+
+/* next/prev/etc. navigation */
+div.searchnav {
+  background:#cccccc; 
+  margin-bottom:10px; 
+  height:20px;
+  text-align:center;
+}
+/* for first/next/last links spacing to be consistent,
+   all links should always be present with no link text if there is no url */
+div.searchnav a, table.searchnav a {
+  color:#000000; 
+  line-height:20px;
+  padding-left:20px;
+  padding-right:20px;
+  text-align:center;
+}
+div.searchnav a:hover, table.searchnav a:hover {
+  color: #666666;
+}
+
+table.searchnav { 
+  background:#cccccc; 
+  margin-bottom:10px; 
+  height:20px;
+  text-align:center;
+  width:100%;
+  clear:both;
+}
+table.searchnav td { 
+  width:25%; 
+}
+
+form#jumpnav { float:right; }

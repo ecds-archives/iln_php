@@ -4,12 +4,12 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} =false;
 $xmldb = new xmlDbConnection($exist_args);
 
-$query = 'for $b in /TEI.2/:text/body/div1
-order by $b/@id
+$query = 'for $b in /TEI.2/text/body/div1
 let $fig := $b//figure
+order by $b/@id
 return <div1 type="{$b/@type}">
  {$b/head}
  {$b/docDate}

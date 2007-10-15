@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?> 
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-	xmlns:html="http://www.w3.org/TR/REC-html40" version="1.0"
-   	xmlns:xalan="http://xml.apache.org/xalan"
-	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
-	xmlns:xql="http://metalab.unc.edu/xql/" 
-        xmlns:tf="http://namespaces.softwareag.com/tamino/TaminoFunction" 
+	xmlns:html="http://www.w3.org/TR/REC-html40" 
+	xmlns:xql="http://metalab.unc.edu/xql/"
+	xmlns:exist="http://exist.sourceforge.net/NS/exist"
+	exclude-result-prefixes="exist" version="1.0"
         xmlns:js="javascript:code"
   	extension-element-prefixes="js">
 
 
-<xsl:variable name="query"><xsl:value-of select="ino:response/xql:query"/></xsl:variable>
-<xsl:variable
-name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN</xsl:variable>
+<!-- <xsl:variable name="query"><xsl:value-of
+select="ino:response/xql:query"/></xsl:variable> -->
+<!-- <xsl:variable
+name="base_url">http://tamino.library.emory.edu/passthru/servlet/transform/tamino/BECKCTR/ILN</xsl:variable>  -->
 <xsl:variable name="image_url">http://beck.library.emory.edu/iln/image-content/</xsl:variable>
 
 <!-- define variables for all xsl files -->
@@ -67,7 +67,7 @@ select="./@entity"/>')</xsl:attribute>
 
 
 <!-- print out div titles in table of contents style -->
-<xsl:template match="div2"> 
+ <xsl:template match="div2"> 
  <xsl:element name="p">
   <xsl:element name="a">
     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/><xsl:if test="$term_string"><xsl:value-of select="$term_string"/></xsl:if></xsl:attribute>
@@ -88,13 +88,13 @@ select="./@entity"/>')</xsl:attribute>
       - (<xsl:value-of select="bibl/extent" />)
   </xsl:if>
   </xsl:element> <!-- end font -->
-</xsl:element> <!-- end p -->
+ </xsl:element> <!-- end p -->
 
 </xsl:template>
 
-
+<!--
 <xsl:template match="@*|node()" name="default"> 
   <xsl:value-of select="."/>
 </xsl:template>
-
+-->
 </xsl:stylesheet>

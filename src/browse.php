@@ -10,33 +10,47 @@ include("common_functions.php");
 include_once("lib/xmlDbConnection.class.php");
 
 $id = $_GET["id"];
-$term = $_GET["term"];
-$term2 = $_GET["term2"];
-$term3 = $_GET["term3"];
+$kw = $_GET["keyword"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
-$xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
+//$xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
  
+$query = 'for $art in /TEI.2//div1/div2[@id = "' . "$id" . '"]';
+if ($kw != '') {$query .= "[. |= \"$kw\"]";}
+$query .= 'let $previd := $art/preceding-sibling::div2[1]
+let $nextid := $art/following-sibling::div2[1]
+let $issue := $art/..
+return <result>
+{$art}
+<issueid>
+{$issue/@id}
+{$issue/head}
+</issueid>
+<siblings>
+    <prev>
+    {$previd/@id}
+    {$previd/@type}
+    {$previd/@n}
+    {$previd/bibl}
+</prev>
+<next>
+ {$nextid/@id}
+ {$nextid/@type}
+ {$nextid/@n}
+ {$nextid/bibl}
+</next>
+</siblings>
+</result>
+';
+
 // addition to the query for next/previous links (only in contents/browse mode, not searches) 
-$sibling_query = '<siblings> {for $b in /TEI.2//div1/div2 
-  return <div2>  
-          {$b/@id}  
-          {$b/@n}  
-          {$b/@type}  
-          {$b/head}  
-          {$b/bibl}  
-         </div2> } 
-</siblings>';  
 
-$query ="for \$a in /TEI.2//div1/div2 where \$a/@id='$id' return <div1> {\$a}"; 
-// if there is no search term, this is browse mode - use sibling query 
-if (!(isset($term))) { $query .= $sibling_query; } 
-$query .= "</div1>";   
+//use @n in nextid-previd because head is in figure element for Illustrations.
 
-$xsl_file = "xslt/browse.xsl"; 
+$xsl_file = "xslt/article.xsl"; 
 
-html_head("Browse - Article");
+html_head("Browse - Article", true);
 
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
@@ -47,7 +61,7 @@ if ($id) {
   $xmldb->xquery($query);
 
   // convert the terms into an array to pass to tamino functions
-  $myterms = array($term, $term2, $term3);
+  //  $myterms = array($term, $term2, $term3);
   // transform xml with xslt
   $xmldb->xslTransform($xsl_file);
   // print out info about highlighted terms
@@ -59,7 +73,6 @@ if ($id) {
 }
 
 print "</div>"; 
-
 include("web/xml/foot.xml"); 
 ?>
 
