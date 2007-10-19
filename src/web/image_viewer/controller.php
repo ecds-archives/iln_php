@@ -5,7 +5,7 @@
 <center>
 
 <?php
-
+include_once("../../config.php");
 $head = $_REQUEST["head"];
 $id = $_REQUEST["id"];
 $width = $_REQUEST["width"];

@@ -18,7 +18,7 @@
  <xsl:output method="xml"/>  
 
 <xsl:template match="/"> 
-DEBUG: in root template
+
   <xsl:apply-templates select="//result/div2" /> 
    <!-- links to next & previous titles (if present) -->
   <xsl:call-template name="next-prev" />

@@ -23,17 +23,17 @@ if ($max == '') $max = 20;
 
 $options = array();
 if ($kw) 
-  array_push($options, ". &= '$kw' and ./@type=\"Article\"");
+  array_push($options, ". &= '$kw'");
 if ($doctitle)
-  array_push($options, "head &= '$doctitle' and ./@type=\"Article\"");
+  array_push($options, "head &= '$doctitle'");
 if ($date)
-  array_push($options, "(bibl/date &= '$date' or bibl/date/@value &= '$date') and ./@type=\"Article\"");
+  array_push($options, "(bibl/date &= '$date' or bibl/date/@value &= '$date')");
 
 
 // there must be at least one search parameter for this to work
 if (count($options)) {
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
-  print("DEBUG: Searchfilter is $searchfilter\n");
+  //  print("DEBUG: Searchfilter is $searchfilter\n");
 
 // construct xquery
 //$declare = 'declare namespace xs="http://www.w3.org/2001/XMLSchema"; '; //Don't need?
@@ -44,7 +44,8 @@ return <div2>
 {\$a/@id}
 {\$a/@type}
 {\$a/head}
-{\$a/bibl}";
+{\$a/bibl}
+<figure>{\$a//figure/head}</figure>";
 if ($kw)
   $xquery .= "<hits>{\$matchcount}</hits>";
 $xquery .= "</div2>";
