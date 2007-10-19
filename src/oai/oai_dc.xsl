@@ -127,9 +127,11 @@
     <xsl:element name="dc:rights"><xsl:value-of select="p"/></xsl:element>
   </xsl:template>
 
-  <!-- subject -->
+  <!-- series : is part of / relation -->
   <xsl:template match="seriesStmt/title">
-    <xsl:element name="dc:subject"><xsl:value-of select="."/></xsl:element>
+    <xsl:element name="dc:relation"><xsl:value-of select="."/></xsl:element>
+
+    <xsl:element name="dc:relation">http://beck.library.emory.edu/iln/</xsl:element>
   </xsl:template>
 
   <!-- description -->
