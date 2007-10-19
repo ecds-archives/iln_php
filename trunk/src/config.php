@@ -3,8 +3,8 @@
 /* Configuration settings for entire site */
 
 // set level of php error reporting -- turn off warnings when in production
-error_reporting(E_ERROR | E_PARSE);
-//error_reporting(E_ERROR);	// for production
+  error_reporting(E_ERROR | E_PARSE);
+//error_reporting(E_ERROR);	// for production
 
 // root directory and url where the website resides
 $server = "wilson.library.emory.edu";

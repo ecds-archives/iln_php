@@ -94,49 +94,28 @@ function highlight ($string, $term1, $term2 = NULL, $term3 = NULL) {
   return $string;
 }
 
+
+// transform function added from newer version
 // param arg is optional - defaults to null
-function transform ($xml, $xsl_file, $xsl_params = NULL) {
-  //      print "in function transform, xml is <pre>$xml</pre>, xsl is $xsl_file<br>"; 
-
-//   print "in function transform, xsl is $xsl_file<br>";
-//   if ($xml) {
-//     print "is true/defined<br>";
-//     print "<pre>$xml</pre>";
-//   } else {    print "xml is not true/defined<br>"; }
-
-
-  // create xslt handler
-  $xh = xslt_create();
-
-  // specify file base so that xsl includes will work
-  // Note: last / on end of fileBase is important!
-  $fileBase = 'file://' . getcwd () . '/xsl/';
-  //  print "file base is $fileBase<br>";
-  xslt_set_base($xh, $fileBase);
-
-  // get xml contents from url
-  //  $xmlContent = file_get_contents($url);
-  //$xslContent = file_get_contents("xsl/$xsl_file");
-
-  $args = array(
-  		'/_xml'    =>    $xml
-		//  		'/_xsl'    =>    $xslContent
-  		);
-  
-  //  $result = xslt_process($xh, "xml/browse.xml", "xsl/browse.xsl");
-  // $result = xslt_process($xh, 'arg:/_xml', 'arg:/_xsl', NULL, $args);
-  //$result = xslt_process($xh, 'arg:/_xml', $xsl_file, NULL, $args);
-  $result = xslt_process($xh, 'arg:/_xml', $xsl_file, NULL, $args, $xsl_params);
-
-  if ($result) {
-    // Successful transformation
-  } else {
-    print "Transformation failed.<br>";
-    print "Error: " . xslt_error($xh) . " (error code " . xslt_errno($xh) . ")<br>";
-  }
-  xslt_free($xh);
-
-  return $result;
+function transform ($xml_file, $xsl_file, $xsl_params = NULL) {
+        $xsl = new DomDocument();
+        $xsl->load($xsl_file);
+        
+        $xml = new DOMDocument();
+        $xml->load($xml_file);
+        
+        /* create processor & import stylesheet */
+        $proc = new XsltProcessor();
+        $proc->importStylesheet($xsl);
+        if ($xsl_params) {
+                foreach ($xsl_params as $name => $val) {
+                        $proc->setParameter(null, $name, $val);
+                }
+        }
+        /* transform the xml document and store the result */
+        $xsl_result = $proc->transformToDoc($xml);
+        
+        return $xsl_result->saveXML();
 }
 
 

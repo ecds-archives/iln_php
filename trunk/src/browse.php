@@ -63,7 +63,7 @@ if ($id) {
   // convert the terms into an array to pass to tamino functions
   //  $myterms = array($term, $term2, $term3);
   // transform xml with xslt
-  $xmldb->xslTransform($xsl_file);
+
   // print out info about highlighted terms
   $xmldb->highlightInfo($myterms);
   // print transformed result

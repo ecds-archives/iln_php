@@ -3,14 +3,8 @@
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
-
-$args = array('host' => "bohr.library.emory.edu",
-	      'port' => "8080",
-	      'db' => "ILN",
-	      //	      'coll' => $tamino_coll,
-	      'dbtype' => "exist",
-	      'debug' => false);
-$xmldb = new xmlDbConnection($args);
+$exist_args{"debug"} =false;
+$xmldb = new xmlDbConnection($exist_args);
 
 
 $query = 'for $vol in //div1
@@ -23,7 +17,7 @@ return <div1 type="{$vol/@type}">
   {for $fig in $art//figure return $fig} 
 </div2>} 
 </div1>';
-
+/*
 $tamino_query = 'for $b in input()/TEI.2//div1
 return <div1>
  {$b/@type}
@@ -36,7 +30,7 @@ return <div1>
      {for $d in $c/p/figure return $d}
    </div2>
 }
-</div1>';
+ </div1>';*/
 /*
 added this to query to test taminoConnection class
 <total>{count(input()/TEI.2//div1/div2)}</total>

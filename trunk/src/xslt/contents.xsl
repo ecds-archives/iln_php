@@ -95,7 +95,7 @@
       - 
       <xsl:choose>
         <xsl:when test="$mode = 'figure'">
-           (<xsl:value-of select="count(figure)"/> Illustrations) <!-- number of figures -->
+           (<xsl:value-of select="count(.//figure)"/> Illustrations) <!-- number of figures -->
         </xsl:when>
     	<xsl:otherwise>
            (<xsl:value-of select="count(div2)"/> Articles,  <!-- number of articles -->
@@ -111,7 +111,7 @@
    <xsl:choose>
      <xsl:when test="$mode = 'figure'">
        <xsl:element name="table">
-         <xsl:apply-templates select="figure"/>
+         <xsl:apply-templates select=".//figure"/>
        </xsl:element> <!-- table -->
      </xsl:when>
      <xsl:otherwise>
@@ -251,8 +251,9 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
      <xsl:element name="p">
 	<xsl:attribute name="class">caption</xsl:attribute>
       <xsl:value-of select="head"/>
+    <xsl:element name="br"/>
+    <xsl:call-template name="fig-bibl"/>
     </xsl:element> <!-- end p -->
-
   </xsl:element> <!-- end td -->
   </xsl:element> <!-- end tr --> 
 </xsl:template>
@@ -325,5 +326,14 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
     </xsl:element> <!-- end font -->
 </xsl:template>
 
+<xsl:template name="fig-bibl">
+   <xsl:element name="font">
+     <xsl:attribute name="size">-1</xsl:attribute>
+     <xsl:value-of select="../bibl/biblScope[@type='volume']" />,
+  <xsl:value-of select="../bibl/biblScope[@type='issue']" />,  
+  <xsl:value-of select="../bibl/biblScope[@type='pages']" />.  
+  <xsl:value-of select="../bibl/date" /> 
+    </xsl:element> <!-- end font -->
+</xsl:template>
 
 </xsl:stylesheet>
