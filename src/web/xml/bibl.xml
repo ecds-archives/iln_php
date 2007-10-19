@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblCollection ino:id="1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ino="http://namespaces.softwareag.com/tamino/response2">
+  <subjectList>
+    <dc:subject>United States--History--Civil War, 1861-1865.</dc:subject>
+    <dc:subject>United States--History--Civil War, 1861-1865--Foreign Public Opinion.</dc:subject>
+    <dc:subject>Illustrated London News</dc:subject>
+    </subjectList>
+
+  <biblRecord id="2005-02-09%Rebecca Sutton Koeser">
+        <dc:title>The civil war images of Mathew Brady : in the wake of battle</dc:title>
+        <dc:date>2004</dc:date>
+	<dc:creator>Sullivan, George E.</dc:creator>
+	<dc:publisher>Prestel</dc:publisher>
+        <dc:description>445 p. : numerous photos ; 15 x 20 cm</dc:description>
+        <dc:identifier>ISBN: 3791329294</dc:identifier>
+        <dc:contributor>Rebecca Sutton Koeser</dc:contributor>
+        <dc:subject>United States--History--Civil War, 1861-1865.</dc:subject>
+  </biblRecord>
+
+</biblCollection>
