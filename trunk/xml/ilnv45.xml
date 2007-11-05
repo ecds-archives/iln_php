@@ -1,6 +1,4 @@
-
-
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -59,7 +57,7 @@ London News Perspective</title>
             <head>Illustrated London News: Volume 45</head>
 <docDate>July to December 1864</docDate>
 
-<div2 id="iln45.1266.001" n="The Deerhound Rescuing a Portion of the       Crew of the Alabama.--From a Sketch by Mr. Robert       Lancaster.--See Next Page." type="illustration">
+<div2 id="iln45.1266.001" n="The Deerhound Rescuing a Portion of the       Crew of the Alabama.--From a Sketch by Mr. Robert       Lancaster.--See Next Page." type="Illustration"><head>The Deerhound Rescuing a Portion of the       Crew of the Alabama.--From a Sketch by Mr. Robert       Lancaster.--See Next Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -377,7 +375,7 @@ do it in two places, by either subscribing to the memorial at
 Charing-cross or to the one at the little church of his native place
 which his fellow-townsmen are about to erect...</p></div2>
 
-<div2 id="iln45.1266.005" n="Kerbstone Stockbrokers in New York.--See       Page 11." type="illustration">
+<div2 id="iln45.1266.005" n="Kerbstone Stockbrokers in New York.--See       Page 11." type="Illustration"><head>Kerbstone Stockbrokers in New York.--See       Page 11.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -396,7 +394,7 @@ which his fellow-townsmen are about to erect...</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1266.006" n="The Fight Between the Alabama and the       Kearsarge.--See Page 2." type="illustration">
+<div2 id="iln45.1266.006" n="The Fight Between the Alabama and the       Kearsarge.--See Page 2." type="Illustration"><head>The Fight Between the Alabama and the       Kearsarge.--See Page 2.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -526,7 +524,7 @@ taken by the Jackal tender, which is also shown in our Engraving, and
 conveyed up the harbour to be forwarded by railway from
 Cork.</p></div2>
 
-<div2 id="iln45.1266.009" n="The Jackal Tender and Boats Going to Meet       the American Mail Steamer at Roche's Point, Near Queenstown." type="illustration">
+<div2 id="iln45.1266.009" n="The Jackal Tender and Boats Going to Meet       the American Mail Steamer at Roche's Point, Near Queenstown." type="Illustration"><head>The Jackal Tender and Boats Going to Meet       the American Mail Steamer at Roche's Point, Near Queenstown.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -797,7 +795,7 @@ he was born. The Portrait of him which we have engraved is from a
 photograph taken at the Maison Rideau, Cherbourg, on the Thursday
 before his death.</p></div2>
 
-<div2 id="iln45.1267.006" n="The Late David Herbert Llewellyn, Surgeon       Of The Alabama." type="illustration">
+<div2 id="iln45.1267.006" n="The Late David Herbert Llewellyn, Surgeon       Of The Alabama." type="Illustration"><head>The Late David Herbert Llewellyn, Surgeon       Of The Alabama.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -1083,7 +1081,7 @@ will go into Missouri, the other portion left for Minnesota.</p>
 ult. the mercury mounted to 97 deg. in the shade. Several cases of
 sunstroke had occurred.</p></div2>
 
-<div2 id="iln45.1268.002" n="'Our Special Artist,' On Board the       Lilian, Running the Blockade into Wilmington Harbour, North       Carolina.--See Page 70." type="illustration">
+<div2 id="iln45.1268.002" n="'Our Special Artist,' On Board the       Lilian, Running the Blockade into Wilmington Harbour, North       Carolina.--See Page 70." type="Illustration"><head>'Our Special Artist,' On Board the       Lilian, Running the Blockade into Wilmington Harbour, North       Carolina.--See Page 70.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -1794,7 +1792,7 @@ introduction of this portable fuel will have a great effect upon the
 development of steam navigation. The Southall works alone can refine fifty
 thousand barrels yearly.</p></div2>
 
-<div2 id="iln45.1270.006" n="The Petroleum Oil Works at Franklin,       Pennsylvania.; Railway Station at the Franklin Petroleum Oil       Works.--See Preceding Page." type="illustration">
+<div2 id="iln45.1270.006" n="The Petroleum Oil Works at Franklin,       Pennsylvania.; Railway Station at the Franklin Petroleum Oil       Works.--See Preceding Page." type="Illustration"><head>The Petroleum Oil Works at Franklin,       Pennsylvania.; Railway Station at the Franklin Petroleum Oil       Works.--See Preceding Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -2346,7 +2344,7 @@ believe they will carry anything they are put against. We tried very
 hard to stop Pickett's men from capturing the breastworks of the
 enemy, but could not do it,"</p></div2>
 
-<div2 id="iln45.1271.007" n="The War in America: The Texans of       Longstreet's Corps Retaking the Outer Line of Intrenchments on       the South Side of the James River. From a Sketch by Our Special       Artist.--See Preceding Page." type="illustration">
+<div2 id="iln45.1271.007" n="The War in America: The Texans of       Longstreet's Corps Retaking the Outer Line of Intrenchments on       the South Side of the James River. From a Sketch by Our Special       Artist.--See Preceding Page." type="Illustration"><head>The War in America: The Texans of       Longstreet's Corps Retaking the Outer Line of Intrenchments on       the South Side of the James River. From a Sketch by Our Special       Artist.--See Preceding Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -2586,7 +2584,7 @@ small association for the dissemination in a readable form of the
 facts which Lord Edward Howard laid before the House of Commons might
 do much. Why should it not be tried?</p></div2>
 
-<div2 id="iln45.1272.107" n="The War in America: A Corps of the Confederate Army Marching by Night Through Burning Woods. &#x2014;From a Sketch by our Special Artist &#x2014;See Page 137." type="illustration">
+<div2 id="iln45.1272.107" n="The War in America: A Corps of the Confederate Army Marching by Night Through Burning Woods. &#x2014;From a Sketch by our Special Artist &#x2014;See Page 137." type="Illustration"><head>The War in America: A Corps of the Confederate Army Marching by Night Through Burning Woods. &#x2014;From a Sketch by our Special Artist &#x2014;See Page 137.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -2732,7 +2730,7 @@ builders have several steamers on the stocks, intended for the same
 trade, and all of them calculated for a high rate of speed. Our
 Engraving is from a drawing by Mr. Hugh Aird.</p></div2>
 
-<div2 id="iln45.1272.004" n="New Blockade-Runner Lizzie, Built in the       Clyde." type="illustration">
+<div2 id="iln45.1272.004" n="New Blockade-Runner Lizzie, Built in the       Clyde." type="Illustration"><head>New Blockade-Runner Lizzie, Built in the       Clyde.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -3684,7 +3682,7 @@ that State suffers:--"What she needs most to-day is rain; what she
 wants to-morrow is 75,000 women to mate off the extra male
 population."</p></div2>
 
-<div2 id="iln45.1274.004" n="The War in America: View of Petersburg,       Virginia.--See Page 191." type="illustration">
+<div2 id="iln45.1274.004" n="The War in America: View of Petersburg,       Virginia.--See Page 191." type="Illustration"><head>The War in America: View of Petersburg,       Virginia.--See Page 191.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -4279,7 +4277,7 @@ photograph of the oil painting executed by Mr. Samuel H. Fyfe, of 127,
 Paisley-road, Glasgow, for the builders of the vessel,
 Messrs. Henderson, Coulborn, and Co., of Renfrew.</p></div2>
 
-<div2 id="iln45.1276.003" n="The War in America: View of Petersburg and its Suburbs from       General Lee's Head-Quarters.--From a Sketch by our Special       Artist.--See Next Page." type="illustration">
+<div2 id="iln45.1276.003" n="The War in America: View of Petersburg and its Suburbs from       General Lee's Head-Quarters.--From a Sketch by our Special       Artist.--See Next Page." type="Illustration"><head>The War in America: View of Petersburg and its Suburbs from       General Lee's Head-Quarters.--From a Sketch by our Special       Artist.--See Next Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -4853,7 +4851,7 @@ the course of the past month announcing their return from America on
 account of the great depreciation in the currency of that
 country.</p></div2>
 
-<div2 id="iln45.1278.008" n="Enlisting Irish and German Emigrants on       the Battery at New York.--See Page 285." type="illustration">
+<div2 id="iln45.1278.008" n="Enlisting Irish and German Emigrants on       the Battery at New York.--See Page 285." type="Illustration"><head>Enlisting Irish and German Emigrants on       the Battery at New York.--See Page 285.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -5206,7 +5204,7 @@ that it is the production of a heretofore Secessionist from Virginia,
 who boldly announces his views concerning the origin and probable
 result of the conflict now raging on the American continent....</p></div2>
 
-<div2 id="iln45.1280.005" n="The Presidential Campaign in America:       Great M'Clellan Meeting in Union-Square, New York.--See Next Page." type="illustration">
+<div2 id="iln45.1280.005" n="The Presidential Campaign in America:       Great M'Clellan Meeting in Union-Square, New York.--See Next Page." type="Illustration"><head>The Presidential Campaign in America:       Great M'Clellan Meeting in Union-Square, New York.--See Next Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -5925,7 +5923,7 @@ mistake into which foreigners are more likely to fall than that which
 assumes that the normal condition of American popular assemblages is
 one of riot and confusion."</p></div2>
 
-<div2 id="iln45.1282.005" n="Presidential Electioneering in New       York.--A Street Scene." type="illustration">
+<div2 id="iln45.1282.005" n="Presidential Electioneering in New       York.--A Street Scene." type="Illustration"><head>Presidential Electioneering in New       York.--A Street Scene.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -5944,7 +5942,7 @@ one of riot and confusion."</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1282.006" n="Presidential Electioneering in New       York.--Torchlight Procession of the M'Clellan Party." type="illustration">
+<div2 id="iln45.1282.006" n="Presidential Electioneering in New       York.--Torchlight Procession of the M'Clellan Party." type="Illustration"><head>Presidential Electioneering in New       York.--Torchlight Procession of the M'Clellan Party.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -6123,7 +6121,7 @@ navigation of the river is so effectually closed that neither party
 can get at the other by water, but they frequently exchange long
 shots, as displayed in the present Illustration.</p></div2>
 
-<div2 id="iln45.1284.003" n="Illustrations of the War in America, By       Our Special Artist: Passage of the Shenandoah River at Front       Royal By The Divisions Sent To Reinforce General Early; March of       Kershaw's and Fitz Lee's Divisions of the Confederate Army Up       the Valley of Virginia.--See Preceding Page." type="illustration">
+<div2 id="iln45.1284.003" n="Illustrations of the War in America, By       Our Special Artist: Passage of the Shenandoah River at Front       Royal By The Divisions Sent To Reinforce General Early; March of       Kershaw's and Fitz Lee's Divisions of the Confederate Army Up       the Valley of Virginia.--See Preceding Page." type="Illustration"><head>Illustrations of the War in America, By       Our Special Artist: Passage of the Shenandoah River at Front       Royal By The Divisions Sent To Reinforce General Early; March of       Kershaw's and Fitz Lee's Divisions of the Confederate Army Up       the Valley of Virginia.--See Preceding Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -6145,7 +6143,7 @@ shots, as displayed in the present Illustration.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1284.004" n="Illustrations of the War in America, By       Our Special Artist: Howlett's Battery, on the James River,       Engaging the Federal Monitors.--See Page 407." type="illustration">
+<div2 id="iln45.1284.004" n="Illustrations of the War in America, By       Our Special Artist: Howlett's Battery, on the James River,       Engaging the Federal Monitors.--See Page 407." type="Illustration"><head>Illustrations of the War in America, By       Our Special Artist: Howlett's Battery, on the James River,       Engaging the Federal Monitors.--See Page 407.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -7003,7 +7001,7 @@ that they have thirty-one miles of railroad and telegraph in
 operation, and their average monthly receipts since June last have
 been over 16,000 dols., and expenses 3000 dols.</p></div2>
 
-<div2 id="iln45.1288.007" n="The Late Outrage on the Neutrality of       Brazil: The Florida (Confederate) and the Wachusetts (Federal)       in Bahia Harbour." type="illustration">
+<div2 id="iln45.1288.007" n="The Late Outrage on the Neutrality of       Brazil: The Florida (Confederate) and the Wachusetts (Federal)       in Bahia Harbour." type="Illustration"><head>The Late Outrage on the Neutrality of       Brazil: The Florida (Confederate) and the Wachusetts (Federal)       in Bahia Harbour.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -7526,7 +7524,7 @@ colonial critic should lead theatrical conductors and their supporters
 to reflect on the mischief they are perpetrating by such improper
 exhibitions.</p></div2>
 
-<div2 id="iln45.1289.006" n="Burning of the United States'       Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October." type="illustration">
+<div2 id="iln45.1289.006" n="Burning of the United States'       Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October." type="Illustration"><head>Burning of the United States'       Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -8156,7 +8154,7 @@ vintages of the Rhine."</p></div2>
 
 
 
-<div2 id="iln45.1290.006" n="Sketches from New York: Entertainment in       a Lager Beer Saloon." type="illustration">
+<div2 id="iln45.1290.006" n="Sketches from New York: Entertainment in       a Lager Beer Saloon." type="Illustration"><head>Sketches from New York: Entertainment in       a Lager Beer Saloon.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -8175,7 +8173,7 @@ vintages of the Rhine."</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1290.007" n="Sketches from New York: A Lager Beer       Brewery at Guttenburg, on the Hudson River." type="illustration">
+<div2 id="iln45.1290.007" n="Sketches from New York: A Lager Beer       Brewery at Guttenburg, on the Hudson River." type="Illustration"><head>Sketches from New York: A Lager Beer       Brewery at Guttenburg, on the Hudson River.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -8194,7 +8192,7 @@ vintages of the Rhine."</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1290.008" n="Sketches from New York: A Garten Wirthschaft." type="illustration">
+<div2 id="iln45.1290.008" n="Sketches from New York: A Garten Wirthschaft." type="Illustration"><head>Sketches from New York: A Garten Wirthschaft.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -8472,7 +8470,7 @@ bright and sparkling, and the stream in other parts is full of
 trout. Near the cascade there is a mineral spring of rare curative
 properties.</p></div2>
 
-<div2 id="iln45.1291.003" n="Peyton Falls, Alleghany county, Virginia." type="illustration">
+<div2 id="iln45.1291.003" n="Peyton Falls, Alleghany county, Virginia." type="Illustration"><head>Peyton Falls, Alleghany county, Virginia.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
@@ -8679,7 +8677,7 @@ the farmers are glad to receive them. This is done by an association,
 styled the Children's Aid Society. The whole expense does not average
 more than 15 dols. for each child.</p></div2>
 
-<div2 id="iln45.1291.008" n="The Town and Port of Nassau, New       Providence, Bahama Islands." type="illustration">
+<div2 id="iln45.1291.008" n="The Town and Port of Nassau, New       Providence, Bahama Islands." type="Illustration"><head>The Town and Port of Nassau, New       Providence, Bahama Islands.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
