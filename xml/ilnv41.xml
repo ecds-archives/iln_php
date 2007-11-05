@@ -1,6 +1,4 @@
-
-
-<TEI.2>
+<?xml version="1.0" encoding="utf-8"?><TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -59,7 +57,7 @@ London News Perspective</title>
             <head>Illustrated London News: Volume 41</head>
             <docDate>July to December 1862</docDate>
 
-<div2 id="iln41.1152.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1152.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -155,7 +153,7 @@ additional imprisonment for each 1000 dollars.</p>
 <p>The export of specie to Europe continues, the steamer City of 
 Washington alone having taken 2,400,000 dollars.</p></div2>
 
-<div2 id="iln41.1152.002" n="London, Saturday, July 5, 1862" type="article">
+<div2 id="iln41.1152.002" n="London, Saturday, July 5, 1862" type="Article">
 <head>London, Saturday, July 5, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -199,8 +197,8 @@ converted into hospitals, and whose friends return, when they return
 at all, fearfully mutilated by the newer and deadlier engines of
 war.</p></div2>
 
-<div2 id="iln41.1152.003" n="Imperial Parliament" type="article">
-<head>Imperial Parliament<hi rend="smallcaps">ONDAY</hi></head>
+<div2 id="iln41.1152.003" n="Imperial Parliament" type="Article">
+<head>Imperial Parliament <hi rend="smallcaps">Monday</hi></head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -219,7 +217,7 @@ would recognise the suicidal character of the conflict and come to
 some arrangement before they entirely alienated from themselves the
 respect and affection of civilised Europe.</p></div2>
 
-<div2 id="iln41.1152.004" n="Imperial Parliament" type="article">
+<div2 id="iln41.1152.004" n="Imperial Parliament" type="Article">
 <head>Imperial Parliament<hi rend="smallcaps"/></head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -248,7 +246,7 @@ future time there should be a fair opening for friendly counsel, it
 would be the duty of the Government, as well as a great pleasure, to
 take advantage of it.</p></div2>
 
-<div2 id="iln41.1152.005" n="The Queeen has approved of Mr. Conyers" type="article">
+<div2 id="iln41.1152.005" n="The Queeen has approved of Mr. Conyers" type="Article">
 <head>[The Queen has approved of Mr. Conyers]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -265,7 +263,7 @@ take advantage of it.</p></div2>
 St. John's, Newfoundland; and of Mr. Alled Francis as Consul at
 Victoria, Vancouver Island, for the United States of America.</p></div2>
 
-<div2 id="iln41.1152.051" n="Refugees from Southern Cities Flocking       for Protection to the Federal Transports on their Advance down       the River.--From a Sketch by Our Special Artist" type="illustration">
+<div2 id="iln41.1152.051" n="Refugees from Southern Cities Flocking       for Protection to the Federal Transports on their Advance down       the River.--From a Sketch by Our Special Artist" type="Illustration"><head>Refugees from Southern Cities Flocking       for Protection to the Federal Transports on their Advance down       the River.--From a Sketch by Our Special Artist</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -286,7 +284,7 @@ Victoria, Vancouver Island, for the United States of America.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1152.006" n="Illustration of the War in America" type="article">
+<div2 id="iln41.1152.006" n="Illustration of the War in America" type="Article">
 <head>Illustration of the War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -330,7 +328,7 @@ would fly from their homes and seek the protection of Uncle Sam had not their co
 undergone a change, and their confidence in Jeff Davis and his power to
 sustain his Government been greatly diminished."</p></div2>
 
-<div2 id="iln41.1153.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1153.001" n="Foreign and Colonial News" type="Article">
 <head><hi>Foreign and Colonial News</hi></head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -459,8 +457,8 @@ amendments to their Constitution which prevent negroes and<orig reg="mulattoes">
 <p>Gold had risen to 9&#xBD; premium.</p>
 </div2>
 
-<div2 id="iln41.1153.002" n="Fort Pillow" type="article">
-<head rend="center">Fort Pillow</head>
+<div2 id="iln41.1153.002" n="Fort Pillow" type="Article">
+<head>Fort Pillow</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -508,7 +506,7 @@ scientifically made, with broad parapets, heavy escarpments, and
 counterscarps neatly lined with timber and firmly secured by
 deeply-driven posts."</p></div2>
 
-<div2 id="iln41.1153.003" n="Portion of the Water Batteries at Fort       Pillow, On the Mississippi, After the Evacuation--Looking Up The       River.--From a Sketch By Our Special Artist.; Main Battery at Fort Pillow, On the       Mississippi, Evacuated by the Confederates on the 5th of       June.--From a Sketch by Our Special Artist." type="illustration">
+<div2 id="iln41.1153.003" n="Portion of the Water Batteries at Fort       Pillow, On the Mississippi, After the Evacuation--Looking Up The       River.--From a Sketch By Our Special Artist.; Main Battery at Fort Pillow, On the       Mississippi, Evacuated by the Confederates on the 5th of       June.--From a Sketch by Our Special Artist." type="Illustration"><head>Portion of the Water Batteries at Fort       Pillow, On the Mississippi, After the Evacuation--Looking Up The       River.--From a Sketch By Our Special Artist.; Main Battery at Fort Pillow, On the       Mississippi, Evacuated by the Confederates on the 5th of       June.--From a Sketch by Our Special Artist.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -530,7 +528,7 @@ deeply-driven posts."</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1153.008" n="London: Saturday, July 12, 1862" type="article">
+<div2 id="iln41.1153.008" n="London: Saturday, July 12, 1862" type="Article">
 <head>London: Saturday, July 12, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -568,7 +566,7 @@ there in a way that may make it necessary to interfere somewhat
 promptly with proceedings conceived in the united spirit of a low
 attorney and a brutal cateran.</p></div2>
 
-<div2 id="iln41.1153.004" n="Imperial Parliament" type="article">
+<div2 id="iln41.1153.004" n="Imperial Parliament" type="Article">
 <head>Imperial Parliament<hi rend="smallcaps"/></head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -589,7 +587,7 @@ which the bill legalised.&#x2014;The Earl of <hi rend="smallcaps">Derby</hi> als
 the Unites States' Executive.&#x2014;The bill was read a second
 time.</p></div2>
 
-<div2 id="iln41.1153.005" n="The Textile Manufactures in the       International Exhibition--British and Foreign" type="article">
+<div2 id="iln41.1153.005" n="The Textile Manufactures in the       International Exhibition--British and Foreign" type="Article">
 <head>The Textile Manufactures in the International Exhibition &#x2014; British and Foreign</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -690,7 +688,7 @@ as short a period as we can expect, may elapse before this change can
 be effected, but it is as inevitable as Truth and as inexorable as
 Justice.</p></div2>
 
-<div2 id="iln41.1153.006" n="The Case of the Emily St. Pierre" type="article">
+<div2 id="iln41.1153.006" n="The Case of the Emily St. Pierre" type="Article">
 <head>The Case of the Emily St. Pierre.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -797,7 +795,7 @@ already made up, I shall content myself with the transmission of a
 copy, to complete the correspondence on the subject, to the Government
 of the United States."</p></div2>
 
-<div2 id="iln41.1153.007" n="A letter from Jerusalem" type="article">
+<div2 id="iln41.1153.007" n="A letter from Jerusalem" type="Article">
 <head>[A Letter from Jerusalem]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -815,7 +813,7 @@ named Carter, a divinity student, was lately drowned in the Jordan. The
 young man, when bathing, was carried away by the rapid current, and,
 after sinking two or three times, disappeared.</p></div2>
 
-<div2 id="iln41.1155.001" n="Northern Reverses" type="article">
+<div2 id="iln41.1155.001" n="Northern Reverses" type="Article">
 <head>Northern Reverses.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1003,7 +1001,7 @@ Francisco, from Hong-Kong, with 1000 Chinamen on  board.</p>
 1100 hands, and the wages paid there amount to &#xA3;10,000 per
 month.</p></div2>
 
-<div2 id="iln41.1155.002" n="Foreign Intelligence: America." type="article">
+<div2 id="iln41.1155.002" n="Foreign Intelligence: America." type="Article">
 <head>Foreign Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1151,7 +1149,7 @@ on London had reached a higher quotation than at any period since
 1837. American stocks and bonds were being sent over for sale in large
 quantities by European holders.</p></div2>
 
-<div2 id="iln41.1155.003" n="London, Saturday, July 19, 1862" type="article">
+<div2 id="iln41.1155.003" n="London, Saturday, July 19, 1862" type="Article">
 <head>London, Saturday, July 19, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1180,7 +1178,7 @@ interest has congregated in such dense swarms around its factories,
 and it is not impossible that ungraceful demonstrations may be made
 on both sides.</p></div2>
 
-<div2 id="iln41.1155.004" n="Imperial Parliament" type="article">
+<div2 id="iln41.1155.004" n="Imperial Parliament" type="Article">
 <head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1201,7 +1199,7 @@ he should propose, as an amendment, that the House would cordially
 support her Majesty's Government in the policy of non-intervention in
 the civil war now being waged in America.</p></div2>
 
-<div2 id="iln41.1155.041" n="Federal Gun-Boat.--See Supplement, Page       84." type="illustration">
+<div2 id="iln41.1155.041" n="Federal Gun-Boat.--See Supplement, Page       84." type="Illustration"><head>Federal Gun-Boat.--See Supplement, Page       84.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -1219,7 +1217,7 @@ the civil war now being waged in America.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1155.005" n="The Civil War in America" type="article">
+<div2 id="iln41.1155.005" n="The Civil War in America" type="Article">
 <head>The Civil War In America.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1415,7 +1413,7 @@ has been taken up with sketching.
 </p>
 </div2>
 
-<div2 id="iln41.1155.006" n="Cotton Statistics" type="article">
+<div2 id="iln41.1155.006" n="Cotton Statistics" type="Article">
 <head>Cotton Statistics</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1441,7 +1439,7 @@ of last year. Our miscellaneous receipts from various places not
 specially distinguished have reached 11,959 bales, against 27,996
 bales in 1861.</p></div2>
 
-<div2 id="iln41.1155.007" n="American Ladies" type="article">
+<div2 id="iln41.1155.007" n="American Ladies" type="Article">
 <head>American Ladies</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1477,7 +1475,7 @@ care and her brother's sweat; but, when she has received these good
 things, I would have her proud of the one and by no means ashamed of
 the other.--<hi rend="italic">Trollope.</hi></p></div2>
 
-<div2 id="iln41.1155.008" n="The Prospects of California" type="article">
+<div2 id="iln41.1155.008" n="The Prospects of California" type="Article">
 <head>The Prospects of California</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1522,7 +1520,7 @@ spare to aged China the surplus of their forests for the produce of
 her plains, made bare of wood by the wants of centuries of a dense
 population."</p></div2>
 
-<div2 id="iln41.1155.009" n="American Silence" type="article">
+<div2 id="iln41.1155.009" n="American Silence" type="Article">
 <head>American Silence</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1557,7 +1555,7 @@ but not the less did I ponder in my mind over the circumstances of
 their lives.--<hi rend="italic">North America. By Anthony
 Trollope.</hi></p></div2>
 
-<div2 id="iln41.1155.010" n="A Large Lump of Gold has been dug out" type="article">
+<div2 id="iln41.1155.010" n="A Large Lump of Gold has been dug out" type="Article">
 <head>[A Large Lump of Gold Has Been Dug Out]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1574,7 +1572,7 @@ Trollope.</hi></p></div2>
 the border line between Oregon and California. It weighs 190 oz. It is
 not quite pure, and is worth about &#xA3;600.</p></div2>
 
-<div2 id="iln41.1155.011" n="There are no Hungarians in the       Confederate Army" type="article">
+<div2 id="iln41.1155.011" n="There are no Hungarians in the       Confederate Army" type="Article">
 <head>[There are no Hungarians in the Confederate Army]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1593,7 +1591,7 @@ at the West, sent his secret dispatches to Washington in Magyar, which
 was as good as cipher, since no person in the Confederate service
 knows the tongue.</p></div2>
 
-<div2 id="iln41.1156.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1156.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1714,7 +1712,7 @@ par. The greatest inconvenience existed among retail dealers for small
 change, and "shinplasters" were freely used. Some journals advocated
 the use of postage-stamps for small change.</p></div2>
 
-<div2 id="iln41.1156.002" n="Letters from Nassau" type="article">
+<div2 id="iln41.1156.002" n="Letters from Nassau" type="Article">
 <head>[Letters from Nassau]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1731,7 +1729,7 @@ the use of postage-stamps for small change.</p></div2>
 Greyhound had seized the Confederate steamer Ovieto. The cause is
 said to be an attachment of the vessel for wages due to the crew.</p></div2>
 
-<div2 id="iln41.1156.003" n="London, Saturday, July 26, 1862" type="article">
+<div2 id="iln41.1156.003" n="London, Saturday, July 26, 1862" type="Article">
 <head>London, Saturday, July 26, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1795,7 +1793,7 @@ which disturbs the dullness of the House, but is nobody when heads
 are counted. The other speakers displayed the most laudable moderation
 of language.</p></div2>
 
-<div2 id="iln41.1156.004" n="Richmond Virginia" type="article">
+<div2 id="iln41.1156.004" n="Richmond Virginia" type="Article">
 <head>Richmond, Virginia</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1832,8 +1830,8 @@ the High-street is thronged with soldiery seldom seen there in more
 peaceful times.</p>
 </div2>
 
-<div2 id="iln41.1156.004a" n="Richmond Virginia" type="illustration">
-<head>RICHMOND, VIRGINIA.</head>
+<div2 id="iln41.1156.004a" n="Richmond Virginia" type="Illustration">
+<head>Richmond, Virginia.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -1849,7 +1847,7 @@ peaceful times.</p>
 </figure></p>
 </div2>
 
-<div2 id="iln41.1156.005" n="Imperial Parliament" type="article">
+<div2 id="iln41.1156.005" n="Imperial Parliament" type="Article">
 <head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -1879,7 +1877,7 @@ countermanded, as it was felt to be desirable to avoid any
 manifestation of power. He added that our Vice-Consul been recognised
 by the Federal Government.</p></div2>
 
-<div2 id="iln41.1156.008" n="Position of the Federal Flotilla on the       Mississippi, Off Fort Pillow, Shortly Before Its Evacuation. and Colonel Fitch and the 46th Indiana       Volunteers Taking at the Point of the Bayonet the Confederate       Battery of Fort St. Charles, On the White River, Arkansas. See       Supplement, Page 111." type="illustration">
+<div2 id="iln41.1156.008" n="Position of the Federal Flotilla on the       Mississippi, Off Fort Pillow, Shortly Before Its Evacuation. and Colonel Fitch and the 46th Indiana       Volunteers Taking at the Point of the Bayonet the Confederate       Battery of Fort St. Charles, On the White River, Arkansas. See       Supplement, Page 111." type="Illustration"><head>Position of the Federal Flotilla on the       Mississippi, Off Fort Pillow, Shortly Before Its Evacuation. and Colonel Fitch and the 46th Indiana       Volunteers Taking at the Point of the Bayonet the Confederate       Battery of Fort St. Charles, On the White River, Arkansas. See       Supplement, Page 111.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -1901,7 +1899,7 @@ Evacuation. and <lb/>Colonel Fitch and the 46th Indiana
 </p>
 </div2>
 
-<div2 id="iln41.1156.006" n="The Civil War in America" type="article">
+<div2 id="iln41.1156.006" n="The Civil War in America" type="Article">
 <head>The Civil War In America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2076,7 +2074,7 @@ has just returned from Memphis, having been with the Mississippi
 flotilla for two months, and purposes joining the army before Richmond
 in a few days."</p></div2>
 
-<div2 id="iln41.1156.007" n="The Queen has appointed Mr. Edgar Leopold       Layard" type="article">
+<div2 id="iln41.1156.007" n="The Queen has appointed Mr. Edgar Leopold       Layard" type="Article">
 <head>[The Queen has appointed Mr. Edgar Leopold Layard]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2100,7 +2098,7 @@ appointed Frederick Seymour, Esq., late Superintendent of the
 settlement of British Honduras, to be Lieutenant-Governor of the
 colony of British Honduras.</p></div2>
 
-<div2 id="iln41.1157.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1157.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2242,7 +2240,7 @@ most flourishing department of the export trade of the States.</p>
 Francisco in honour of the passage of the Pacific Railroad Bill. Many
 houses were illuminated.</p></div2>
 
-<div2 id="iln41.1157.002" n="The American Patent Machine" type="article">
+<div2 id="iln41.1157.002" n="The American Patent Machine" type="Article">
 <head>[The American Patent Machine]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2259,7 +2257,7 @@ houses were illuminated.</p></div2>
 exhibition with great success. It milked a cow in three
 minutes.</p></div2>
 
-<div2 id="iln41.1157.003" n="London, Saturday, August 2, 1862" type="article">
+<div2 id="iln41.1157.003" n="London, Saturday, August 2, 1862" type="Article">
 <head>London, Saturday, August 2, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2340,7 +2338,7 @@ violated the Queen's orders had received tolerably courteous
 recognition at New York, and this is something in the present temper
 of the North.</p></div2>
 
-<div2 id="iln41.1157.004" n="The Wife of General Beauregard" type="article">
+<div2 id="iln41.1157.004" n="The Wife of General Beauregard" type="Article">
 <head>[The Wife of General Beauregard]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2353,7 +2351,7 @@ of the North.</p></div2>
 <idno type="ark">http://pid.emory.edu/ark:/25593/1xgb</idno></bibl>
 <p>The wife of General Beauregard has died at New Orleans.</p></div2>
 
-<div2 id="iln41.1157.005" n="Plan of the Seat of War in Eastern       Virginia" type="article">
+<div2 id="iln41.1157.005" n="Plan of the Seat of War in Eastern       Virginia" type="Article">
 <head>Plan of the Seat of War in Eastern Virginia</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2414,7 +2412,7 @@ opposite to Turkey Bend, is City Point, where the Federal flotilla is
 now anchored. This is also the point where the Appomattox flows into
 the James.</p></div2>
 
-<div2 id="iln41.1157.006" n="The Civil War in America: Scene of       Operations in Eastern Virginia, Showing M'Clellan's Present       Position.--See Page 128." type="illustration">
+<div2 id="iln41.1157.006" n="The Civil War in America: Scene of       Operations in Eastern Virginia, Showing M'Clellan's Present       Position.--See Page 128." type="Illustration"><head>The Civil War in America: Scene of       Operations in Eastern Virginia, Showing M'Clellan's Present       Position.--See Page 128.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -2434,7 +2432,7 @@ the James.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1157.007" n="Atrocious Act of Piracy" type="article">
+<div2 id="iln41.1157.007" n="Atrocious Act of Piracy" type="Article">
 <head>Atrocious Act of Piracy</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2470,7 +2468,7 @@ left on board and went down with the burning ship. The boat in which
 the pirates quitted the Reindeer has been found on the beach a few
 miles to the eastward of Malaga.</p></div2>
 
-<div2 id="iln41.1157.008" n="Textile Manufactures in the International       Exhibition. Cotton--Foreign Division." type="article">
+<div2 id="iln41.1157.008" n="Textile Manufactures in the International       Exhibition. Cotton--Foreign Division." type="Article">
 <head>Textile Manufactures in the International Exhibition</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2511,7 +2509,7 @@ this is saying a great deal, when the prejudice in favour of American
 cotton, and, unfortunately, nothing but American cotton, is taken into
 account.</p></div2>
 
-<div2 id="iln41.1158.001" n="The Cotton of Various Climes" type="article">
+<div2 id="iln41.1158.001" n="The Cotton of Various Climes" type="Article">
 <head>The Cotton of Various Climes</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2764,7 +2762,7 @@ with all the risks of political agitation; while no longer able to
 attribute our distress to a sudden and unforeseen cause, and still
 less to any lack of the Divine bounty.</p></div2>
 
-<div2 id="iln41.1158.002" n="Illustration of the War in America" type="article">
+<div2 id="iln41.1158.002" n="Illustration of the War in America" type="Article">
 <head>Illustration of the War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2794,7 +2792,7 @@ negroes are assembled under the porch of the house. We took two or
 three of the guerrilla band; the rest scattered and made for the
 surrounding timber."</p></div2>
 
-<div2 id="iln41.1158.003" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1158.003" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -2985,7 +2983,7 @@ deceased took no active part in American politics. His death leaves
 but three surviving ex-Presidents of the United States--viz.,
 Messrs. Fillmore, Pierce, said Buchanan.</p></div2> 
 
-<div2 id="iln41.1158.004" n="London, Saturday, August 9, 1862" type="article">
+<div2 id="iln41.1158.004" n="London, Saturday, August 9, 1862" type="Article">
 <head>London, saturday, August 9, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3026,7 +3024,7 @@ Majesty trusts that the co-operation of the United States' navy with
 her own may go far to extinguish the desolating crime against which
 that treaty is directed.</p></div2>
 
-<div2 id="iln41.1158.005" n="'Great Expectations' are the burden of       the American telegrams." type="article">
+<div2 id="iln41.1158.005" n="'Great Expectations' are the burden of       the American telegrams." type="Article">
 <head>['Great Expectations' are the Burden of the American Telegrams]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3085,7 +3083,7 @@ awful carnage, is considered a small matter compared to the recent
 engagements. The latest mail tells us to expect early news of new
 battles of the utmost importance.</p></div2>
 
-<div2 id="iln41.1158.006" n="Imperial Parliament" type="article">
+<div2 id="iln41.1158.006" n="Imperial Parliament" type="Article">
 <head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3159,7 +3157,7 @@ merchants not to send their goods to the Confederate States. Her
 Majesty's Government, believing such bonds to be illegal, had made
 representations on the subject.</p></div2>
 
-<div2 id="iln41.1159.004" n="Foreign Intelligence: America" type="article">
+<div2 id="iln41.1159.004" n="Foreign Intelligence: America" type="Article">
 <head>Foreign Intelligence: America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3259,7 +3257,7 @@ after her accouchement.</p>
 grain to Europe were very heavy, and the cereal crops of the present
 year were superabundant.</p></div2>
 
-<div2 id="iln41.1159.002" n="Despatches which had passed" type="article">
+<div2 id="iln41.1159.002" n="Despatches which had passed" type="Article">
 <head>[Despatches Which Had Passed]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3281,7 +3279,7 @@ answered, after a considerable lapse of time, by Earl Russell, who
 announced that England would still preserve an impartial neutrality,
 while heartily wishing for a speedy conclusion to the "unnecessary and injurious civil war."</p></div2>
 
-<div2 id="iln41.1159.003" n="London: Saturday, August 16, 1862" type="article">
+<div2 id="iln41.1159.003" n="London: Saturday, August 16, 1862" type="Article">
 <head>London: Saturday, August 16, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3335,7 +3333,7 @@ the suppression of the "rebellion"--a course which, in the present
 divided state of feeling in this country, might induce a moiety of his
 flock to discontinue attendance on his ministry.</p></div2>
 
-<div2 id="iln41.1160.001" n="Foreign and Colonial News: America" type="article">
+<div2 id="iln41.1160.001" n="Foreign and Colonial News: America" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3473,7 +3471,7 @@ conveyed several soldiers of the 30th Regiment to Oswego during the
 previous month.</p>
 </div2>
 
-<div2 id="iln41.1160.002" n="London: Saturday, August 23, 1862" type="article">
+<div2 id="iln41.1160.002" n="London: Saturday, August 23, 1862" type="Article">
 <head>London: Saturday, August 23, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3526,7 +3524,7 @@ army. M'Clellan is reported as <hi rend="italic">in statu
 quo</hi>. Taken as a whole, the latest budget of American
 news is singularly unfavourable to the North.</p></div2>
 
-<div2 id="iln41.1161.001" n="The Situation in America" type="article">
+<div2 id="iln41.1161.001" n="The Situation in America" type="Article">
 <head>The Situation in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3675,7 +3673,7 @@ the Powers of Europe to offer their friendly mediation to end a strife
 that is alike repugnant to constitutional government and scandalous to
 humanity.</p></div2>
 
-<div2 id="iln41.1161.002" n="Foreign and Colonial News: America and Canada" type="article">
+<div2 id="iln41.1161.002" n="Foreign and Colonial News: America and Canada" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3843,7 +3841,7 @@ Upwards of a dozen lives were lost, one half of whom were Americans;
 in addition to which there were several persons injured.</p>
 </div2>
 
-<div2 id="iln41.1161.101" n="A New York Paper" type="article">
+<div2 id="iln41.1161.101" n="A New York Paper" type="Article">
 <head>[A New York Paper]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3864,7 +3862,7 @@ and ice-cream ticket.</p>
 </div2>
 
 
-<div2 id="iln41.1161.003" n="A New York Letter" type="article">
+<div2 id="iln41.1161.003" n="A New York Letter" type="Article">
 <head>[A New York Letter]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -3880,7 +3878,7 @@ and ice-cream ticket.</p>
 <p>A New York letter just received states that more than fifty persons
 have died from sunstroke in that city within a few days.</p></div2>
 
-<div2 id="iln41.1162.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1162.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4016,7 +4014,7 @@ succeeded in making some important repairs; but, when everything
 seemed to prosper with him, his health failed.</p>
 </div2>
 
-<div2 id="iln41.1162.002" n="New Orleans A Hundred Years Ago" type="article">
+<div2 id="iln41.1162.002" n="New Orleans A Hundred Years Ago" type="Article">
 <head>New Orleans a Hundred Years Ago</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4066,7 +4064,7 @@ other Indian nations to fall upon the remote western parts of
 Virginia, Carolina, and Georgia, and commit so many barbarous murders
 on the English subjects as they have lately done there.</p></div2>
 
-<div2 id="iln41.1162.003" n="London, Saturday, September 6, 1862" type="article">
+<div2 id="iln41.1162.003" n="London, Saturday, September 6, 1862" type="Article">
 <head>London, Saturday, September 6, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4124,7 +4122,7 @@ the necessity of utterly annihilating the South, and recolonising it,
 if necessary, we have no news of interest from the Western scene of
 war.</p></div2>
 
-<div2 id="iln41.1162.004" n="The Canada Papers" type="article">
+<div2 id="iln41.1162.004" n="The Canada Papers" type="Article">
 <head>[The Canada Papers]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4143,7 +4141,7 @@ preventing traders from going to New York and Boston. The season's
 supply of robes from the Hudson's Bay Company will, it is expected, be
 over 12,000.</p></div2>
 
-<div2 id="iln41.1162.005" n="The Peace Society Has Issued An Address" type="article">
+<div2 id="iln41.1162.005" n="The Peace Society Has Issued An Address" type="Article">
 <head>[The Peace Society Has Issued an Address]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4172,7 +4170,7 @@ better at once to have recourse to the latter before further blood is
 shed and the feelings on both sides shall become hopelessly inflamed
 with animosity and vengeance?"</p></div2>
 
-<div2 id="iln41.1162.006" n="A gentleman who has recently arrived" type="article">
+<div2 id="iln41.1162.006" n="A gentleman who has recently arrived" type="Article">
 <head>[A Gentleman Who Has Recently Arrived]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4190,7 +4188,7 @@ is not a single carpet to be found in any house in that city, every
 one having been given up last winter to be used as blankets by the
 army.</p></div2>
 
-<div2 id="iln41.1164.001" n="Foreign and Colonial News: America" type="article">
+<div2 id="iln41.1164.001" n="Foreign and Colonial News: America" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4374,7 +4372,7 @@ twenty-five miles of Havannah.</p>
 <p>Oakum is being used by the surgeons of the Federal army in lieu of
 lint, and is said to answer extremely well.</p></div2>
 
-<div2 id="iln41.1164.002" n="In Pennsylvania" type="article">
+<div2 id="iln41.1164.002" n="In Pennsylvania" type="Article">
 <head>[In Pennsylvania]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4391,7 +4389,7 @@ lint, and is said to answer extremely well.</p></div2>
 Any individual allowing thistles to ripen on his premises is liable to
 a penalty of ten dollars.</p></div2>
 
-<div2 id="iln41.1164.102" n="During a Recent Storm in Iron Mountain" type="article">
+<div2 id="iln41.1164.102" n="During a Recent Storm in Iron Mountain" type="Article">
 <head>[During a Recent Storm in Iron Mountain]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4410,7 +4408,7 @@ have dislodged the same by powder would have cost the company several
 hundred dollars.</p>
 </div2>
 
-<div2 id="iln41.1164.003" n="London: Saturday, September 13, 1862" type="article">
+<div2 id="iln41.1164.003" n="London: Saturday, September 13, 1862" type="Article">
 <head>London: Saturday, September 13, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4466,7 +4464,7 @@ relies in no small degree upon the swords of Hibernian mercenaries. It
 will be a novelty in history should a State be found to have gained
 permanent strength by the aid of such auxiliaries.</p></div2>
 
-<div2 id="iln41.1165.001" n="The Situation in America" type="article">
+<div2 id="iln41.1165.001" n="The Situation in America" type="Article">
 <head>The Situation in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4647,7 +4645,7 @@ irrespective of party, we bear to that which has hitherto been the
 American nation.</p></div2>
 
 
-<div2 id="iln41.1165.002" n="Foreign Intelligence" type="article">
+<div2 id="iln41.1165.002" n="Foreign Intelligence" type="Article">
 <head>Foreign Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4803,7 +4801,7 @@ send in their names.</p>
 <p>Under the influence of the Federal disasters the premium on gold
 has risen to 19 per cent.</p></div2>
 
-<div2 id="iln41.1165.003" n="The Memphis Bulletin Publishes" type="article">
+<div2 id="iln41.1165.003" n="The Memphis Bulletin Publishes" type="Article">
 <head>[The Memphis Bulletin Publishes]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4821,7 +4819,7 @@ particulars of the loss of the Acacia steam-boat on a "snag." There
 were 150 persons on board, of whom seventy-five were lost, including
 all the women save one.</p></div2>
 
-<div2 id="iln41.1166.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1166.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -4988,7 +4986,7 @@ kind.</p>
 suffering poor in Ireland. The elections have gone in favour of the
 Union Republicans and adversely to the Democrats.</p></div2>
 
-<div2 id="iln41.1166.002" n="Echoes of the Week, and the International       Exhibition" type="article">
+<div2 id="iln41.1166.002" n="Echoes of the Week, and the International       Exhibition" type="Article">
 <head>Echoes of the Week, and the International Exhibition</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5014,7 +5012,7 @@ less a person than General Halleck, is described as having "wilted."
 Now, what is "wilting"? Is it another form of "skedaddling," or a
 variety of "stampeding"?</p></div2>
 
-<div2 id="iln41.1166.003" n="A Letter From New York" type="article">
+<div2 id="iln41.1166.003" n="A Letter From New York" type="Article">
 <head>[A Letter From New York]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5040,7 +5038,7 @@ also an hour's exercise round the ramparts, accompanied by the officer
 on duty. On her release she returned to her family, near
 Norfolk."</q></p></div2>
 
-<div2 id="iln41.1166.004" n="Both in Demarara and Antigua" type="article">
+<div2 id="iln41.1166.004" n="Both in Demarara and Antigua" type="Article">
 <head>[Both in Demarara and in Antigua]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5057,8 +5055,8 @@ Norfolk."</q></p></div2>
 coloured labourers from the United States is seriously under
 consideration.</p></div2>
 
-<div2 id="iln41.1167.001" n="The Southern Nation and the Northern Union" type="article">
-<head>THE SOUTHERN NATION AND THE NORTHERN UNION</head>
+<div2 id="iln41.1167.001" n="The Southern Nation and the Northern Union" type="Article">
+<head>The Southern Nation and the Northern Union</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -5237,8 +5235,8 @@ sake of the North as for that of the South, and as much for the sake
 of the suffering industry of Great Britain and France as for that of
 both of the combatants.</p></div2>
 
-<div2 id="iln41.1167.002" n="Foreign and Colonial News" type="article">
-<head>FOREIGN AND COLONIAL NEWS: AMERICA</head>
+<div2 id="iln41.1167.002" n="Foreign and Colonial News" type="Article">
+<head>Foreign and Colonial News: America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -5384,7 +5382,7 @@ provided with implements of husbandry and a full outfit of domestic
 utensils. Among the advance party are two of Frederick Douglass's
 sons.</p></div2>
 
-<div2 id="iln41.1167.003" n="London: Saturday, October 4, 1862" type="article">
+<div2 id="iln41.1167.003" n="London: Saturday, October 4, 1862" type="Article">
 <head>London: Saturday, October 4, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5439,7 +5437,7 @@ has injured us in one way, it has largely benefited us in another; and
 that the North has come as an excellent customer, though not for the
 articles it was accustomed to apply for.</p></div2>
 
-<div2 id="iln41.1167.004" n="Mr. Story, the American Sculptor" type="article">
+<div2 id="iln41.1167.004" n="Mr. Story, the American Sculptor" type="Article">
 <head>[Mr. Story, The American Sculptor]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5456,7 +5454,7 @@ articles it was accustomed to apply for.</p></div2>
 "Cleopatra" and "The African Sibyl" to Mr. Morrison for 3000
 guineas.</p></div2>
 
-<div2 id="iln41.1167.005" n="The Second Telegraph Line" type="article">
+<div2 id="iln41.1167.005" n="The Second Telegraph Line" type="Article">
 <head>[The Second Telegraph Line]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5476,7 +5474,7 @@ application is to be made to Congress to allow an extension of the
 time for erecting the telegraph, which has been delayed in consequence
 of the war.</p></div2>
 
-<div2 id="iln41.1167.006" n="The Civil War in America: General Stuart       (Confederate) with his Cavalry Scouting in the Nerighbourhood of       Culpepper Courthouse.--From a Sketch by our Special Artist.--See       Next Page." type="illustration">
+<div2 id="iln41.1167.006" n="The Civil War in America: General Stuart       (Confederate) with his Cavalry Scouting in the Nerighbourhood of       Culpepper Courthouse.--From a Sketch by our Special Artist.--See       Next Page." type="Illustration"><head>The Civil War in America: General Stuart       (Confederate) with his Cavalry Scouting in the Nerighbourhood of       Culpepper Courthouse.--From a Sketch by our Special Artist.--See       Next Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -5497,7 +5495,7 @@ of the war.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1167.007" n="Illustration of the War in America" type="article">
+<div2 id="iln41.1167.007" n="Illustration of the War in America" type="Article">
 <head>Illustration of the War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5528,7 +5526,7 @@ blockade, which shuts them out of the market of good carbines and
 fine-tempered blades. As it is, they are the finest irregular body of
 horse in the world.</p></div2>
 
-<div2 id="iln41.1167.008" n="The Civil War in America: Colonel of the       4th Regiment European Brigade of the Confederate Army.--From a Photograph." type="illustration">
+<div2 id="iln41.1167.008" n="The Civil War in America: Colonel of the       4th Regiment European Brigade of the Confederate Army.--From a Photograph." type="Illustration"><head>The Civil War in America: Colonel of the       4th Regiment European Brigade of the Confederate Army.--From a Photograph.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -5547,7 +5545,7 @@ Brigade of the Confederate Army.--From a Photograph.</head>
 </p>
 </div2>
 
-<div2 id="iln41.1168.001" n="President Lincoln's Proclamation." type="article">
+<div2 id="iln41.1168.001" n="President Lincoln's Proclamation." type="Article">
 <head>President Lincoln's Proclamation</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5734,7 +5732,7 @@ remain) have at length removed from their political programme that
 fruitful source of national demoralisation--connivance with
 slavery.</p></div2>
 
-<div2 id="iln41.1168.002" n="Foreign and Colonial News: America." type="article">
+<div2 id="iln41.1168.002" n="Foreign and Colonial News: America." type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5915,7 +5913,7 @@ the draught.</p>
 <p>In the money market gold has risen to the premium of 23 &#xBD; per
 cent.</p></div2>
 
-<div2 id="iln41.1168.003" n="London, Saturday, October 11, 1862" type="article">
+<div2 id="iln41.1168.003" n="London, Saturday, October 11, 1862" type="Article">
 <head>London, Saturday, October 11, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5933,7 +5931,7 @@ cent.</p></div2>
 by saying that no doubt Jefferson Davis had made a nation of the
 South, is one of the Ministerial events of the week.</p></div2>
 
-<div2 id="iln41.1168.004" n="The Confederates have just Sustained a       Rather Serious Loss" type="article">
+<div2 id="iln41.1168.004" n="The Confederates have just Sustained a       Rather Serious Loss" type="Article">
 <head>[The Confederates Have Just Sustained a Crather Serious Loss]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -5953,7 +5951,7 @@ Confederate ports with a heavy cargo of warlike stores on Thursday
 week when she was run down by another vessel and sent to the bottom.
 The officers and crew were saved.</p></div2>
 
-<div2 id="iln41.1169.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1169.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6075,7 +6073,7 @@ last heard of at Chicago, en route for the prairies of Illinois for a
 few days' shooting. He was accompanied by the Governor of Nova
 Scotia.</p></div2>
 
-<div2 id="iln41.1169.002" n="The Surgeon-General of the Federal Army" type="article">
+<div2 id="iln41.1169.002" n="The Surgeon-General of the Federal Army" type="Article">
 <head>[The Surgeon-General of the Federal Army]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6098,7 +6096,7 @@ trade.  They use every year 5,000,000 dols. worth of paper, ink,
 &#x0026;c., and produce 11,000,000 dols. worth of books.  The capital
 employed is estimated at 8,500,000 dols.</p></div2>
 
-<div2 id="iln41.1169.003" n="London: Saturday, October 18, 1862" type="article">
+<div2 id="iln41.1169.003" n="London: Saturday, October 18, 1862" type="Article">
 <head>London: Saturday, October 18, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6156,7 +6154,7 @@ must now await in meekness the storm that will follow their receipt of
 Mr. Gladstone's and Sir G. Lewis's speeches, in which the success of
 the South is described as all but certain.</p></div2>
 
-<div2 id="iln41.1169.004" n="Echoes of the Week, and the International       Exhibition." type="article">
+<div2 id="iln41.1169.004" n="Echoes of the Week, and the International       Exhibition." type="Article">
 <head>Echoes of the Week, and the International Exhibition</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6214,8 +6212,8 @@ Mr. Richard Rush, the accomplished Minister from the United States to
 this country, assured Mr. Canning, in 1818, was an American word
 devised by his ingenious countrymen to signify a thing being <hi rend="italic">tedious</hi> as well as <hi rend="italic">long.</hi></p></div2>
 
-<div2 id="iln41.1169.005" n="The Pacific Telegraph Company" type="article">
-<head>[The Pacific Telegraph COMPANY]</head>
+<div2 id="iln41.1169.005" n="The Pacific Telegraph Company" type="Article">
+<head>[The Pacific Telegraph Company]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -6239,7 +6237,7 @@ be 14,000 miles in length. Russia has already completed 3500 miles and
 collected materials for extending the wires from Siberia to the mouth
 of the Amoor, the Mississippi of Asiatic Russia.</p></div2>
 
-<div2 id="iln41.1169.006" n="The Downfall of American Slavery" type="article">
+<div2 id="iln41.1169.006" n="The Downfall of American Slavery" type="Article">
 <head>The Downfall of American Slavery</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6505,7 +6503,7 @@ whole civilised world. Should this be so, civilisation will receive a
 solid permanent gain in compensation for some severe temporary losses
 occasioned by the war of the second American Revolution.</p></div2>
 
-<div2 id="iln41.1171.001" n="Foreign Intelligence" type="article">
+<div2 id="iln41.1171.001" n="Foreign Intelligence" type="Article">
 <head>Foreign Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6650,7 +6648,7 @@ yield.</q></p>
 
 <p>Gold has risen to 29 per cent premium.</p></div2>
 
-<div2 id="iln41.1171.002" n="Captain Semmes" type="article">
+<div2 id="iln41.1171.002" n="Captain Semmes" type="Article">
 <head>[Captain Semmes]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6670,7 +6668,7 @@ According to intelligence received in Liverpool, he has recently
 captured and destroyed sixteen Northern vessels, including ten
 whalers.</p></div2>
 
-<div2 id="iln41.1171.103" n="The following is the Form of Pledge" type="article">
+<div2 id="iln41.1171.103" n="The following is the Form of Pledge" type="Article">
 <head>[The following is the Form of Pledge]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6689,7 +6687,7 @@ United States and the Confederate States of America, bear arms, or aid
 or abet the enemies of the Confederate States, by information or
 otherwise, until exchanged or released."</p></div2>
 
-<div2 id="iln41.1171.003" n="London: Saturday, October 25, 1862" type="article">
+<div2 id="iln41.1171.003" n="London: Saturday, October 25, 1862" type="Article">
 <head>London: Saturday, October 25, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6749,7 +6747,7 @@ this as an intimation that the Confederates have had enough of
 fighting; but the general tone of the South by no means favours this
 idea.</p></div2>
 
-<div2 id="iln41.1172.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1172.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6860,7 +6858,7 @@ surrendering themselves to the Federal authorities.</p>
 
 <p>Gold had risen to a premium of 32 per cent.</p></div2>
 
-<div2 id="iln41.1172.002" n="Some of the Pennsylvanian Quakers and New       York Shakers" type="article">
+<div2 id="iln41.1172.002" n="Some of the Pennsylvanian Quakers and New       York Shakers" type="Article">
 <head>[Some of the Pennsylvanian Quakers and New York Shakers]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6878,7 +6876,7 @@ exemption from the draught in both States on the ground of their
 religious scruples against war. The plea has been allowed.</p>
 </div2>
 
-<div2 id="iln41.1172.102" n="Mr. Consul Bunch" type="article">
+<div2 id="iln41.1172.102" n="Mr. Consul Bunch" type="Article">
 <head>[Mr. Consul Bunch]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6896,7 +6894,7 @@ that there are at least 3,950,000 bales, any portion or the whole of
 which, however, might at any time be destroyed by the
 people.</p></div2>
 
-<div2 id="iln41.1172.003" n="The President of Hayti" type="article">
+<div2 id="iln41.1172.003" n="The President of Hayti" type="Article">
 <head>[The President of Hayti]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6916,7 +6914,7 @@ with their new position and hopeful of success. The cultivation of
 cotton was extending. Immigration was the topic of general
 discussion.</p></div2>
 
-<div2 id="iln41.1172.004" n="Lord Lyons" type="article">
+<div2 id="iln41.1172.004" n="Lord Lyons" type="Article">
 <head>[Lord Lyons]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6950,7 +6948,7 @@ for a friendly separation, she will meanwhile individually refuse to
 depart one hairsbreadth from her course of
 non-interference."</p></div2>
 
-<div2 id="iln41.1172.005" n="Mr. Cobden Addressed a Crowded Meeting" type="article">
+<div2 id="iln41.1172.005" n="Mr. Cobden Addressed a Crowded Meeting" type="Article">
 <head>[Mr. Cobden Addressed a Crowded Meeting]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6973,7 +6971,7 @@ country were assenting parties to those principles, and therefore the
 distress caused by them was a national matter to be nationally
 relieved.</p></div2>
 
-<div2 id="iln41.1172.006" n="Joe Balding" type="article">
+<div2 id="iln41.1172.006" n="Joe Balding" type="Article">
 <head>[Joe Balding]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -6990,7 +6988,7 @@ relieved.</p></div2>
 Infirmary last mouth, aged 121 years. He was a Virginian slave in the
 days of Washington.</p></div2>
 
-<div2 id="iln41.1172.007" n="London: Saturday, November 1, 1862" type="article">
+<div2 id="iln41.1172.007" n="London: Saturday, November 1, 1862" type="Article">
 <head>London, Saturday, November 1, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7028,7 +7026,7 @@ abandonment of the present maritime laws--that is to say, that England
 should throw away the one terrible weapon which makes this little
 island a match for the world in arms.</p></div2>
 
-<div2 id="iln41.1173.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1173.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign And Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7135,7 +7133,7 @@ emancipation policy of the President grows in strength.</p>
 advisable to make a thorough examination of her bottom before sending
 her to sea. No date has been fixed for departure.</p></div2>
 
-<div2 id="iln41.1173.002" n="The Confederate States of America" type="article">
+<div2 id="iln41.1173.002" n="The Confederate States of America" type="Article">
 <head>The Confederate States of America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7292,7 +7290,7 @@ reached by vessels every day and every night, and that, consequently,
 there is no such scarcity as the Federal journals have loved to
 paint."</p></div2>
 
-<div2 id="iln41.1174.002a" n="Oil-Springs at Tarr Farm, Oil Creek,          Venango County, Pennsylvania--See Supplement,       Page 506." type="illustration">
+<div2 id="iln41.1174.002a" n="Oil-Springs at Tarr Farm, Oil Creek,          Venango County, Pennsylvania--See Supplement,       Page 506." type="Illustration"><head>Oil-Springs at Tarr Farm, Oil Creek,          Venango County, Pennsylvania--See Supplement,       Page 506.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7311,7 +7309,7 @@ paint."</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1173.003" n="London, Saturday, November 8, 1862" type="article">
+<div2 id="iln41.1173.003" n="London, Saturday, November 8, 1862" type="Article">
 <head>London, Saturday, November 8, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7344,7 +7342,7 @@ onslaught. Nashville is stated to be cut off by the Confederates, and
 the North is still occupied with scolding England <hi rend="italic">in
 re</hi> the terrible Alabama.</p></div2>
 
-<div2 id="iln41.1173.004" n="Scientific News" type="article">
+<div2 id="iln41.1173.004" n="Scientific News" type="Article">
 <head>Scientific News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7365,7 +7363,7 @@ published the elements of this the 75th Asteroid, first seen by him on
 Sept. 22, when it appeared as a star of the eleventh
 magnitude.</p></div2>
 
-<div2 id="iln41.1173.005" n="The American Oil-Wells." type="article">
+<div2 id="iln41.1173.005" n="The American Oil-Wells." type="Article">
 <head>The American Oil-Wells</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7441,7 +7439,7 @@ extracted from it, and wax also in great quantities. In the United
 States and Canada more than one hundred refineries have been
 erected.</p></div2>
 
-<div2 id="iln41.1174.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1174.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign And Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7553,7 +7551,7 @@ by the collision of two trains carrying Federal soldiers. Thirty
 persons were killed, and nearly fifty wounded, many of them
 mortally.</p></div2>
 
-<div2 id="iln41.1174.002" n="Despatch of the French Government on       Mediation in America" type="article">
+<div2 id="iln41.1174.002" n="Despatch of the French Government on       Mediation in America" type="Article">
 <head>Despatch of the French Government on Mediation in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7610,7 +7608,7 @@ would be possible than one similar to the advice which Russia has
 constantly tendered in a friendly spirit since the commencement of the
 struggle."</p></div2>
 
-<div2 id="iln41.1174.003" n="The Alta-California of Oct. 1" type="article">
+<div2 id="iln41.1174.003" n="The Alta-California of Oct. 1" type="Article">
 <head>[The Alta-California of Oct. 1]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7629,7 +7627,7 @@ Illinois, to Carson City, Nevada Territory, direct, a distance of over
 two thousand three hundred miles, the longest circuit overland that
 the current has ever worked over."</p></div2>
 
-<div2 id="iln41.1174.004" n="The Confederate Sloop-of-War '290,' or       Alabama, Leaving the Merchant-Ship Tonowanda.--See Supplement,       Page 535." type="illustration">
+<div2 id="iln41.1174.004" n="The Confederate Sloop-of-War '290,' or       Alabama, Leaving the Merchant-Ship Tonowanda.--See Supplement,       Page 535." type="Illustration"><head>The Confederate Sloop-of-War '290,' or       Alabama, Leaving the Merchant-Ship Tonowanda.--See Supplement,       Page 535.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7649,7 +7647,7 @@ the current has ever worked over."</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1174.005" n="London, Saturday, November 15, 1862" type="article">
+<div2 id="iln41.1174.005" n="London, Saturday, November 15, 1862" type="Article">
 <head>London, Saturdya, November 15, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7691,7 +7689,7 @@ disavow the naval feat which has given such justifiable offence to
 Spain, and the emulation of Wilkes is to be punished, on the demand of
 the Spanish Government.</p></div2>
 
-<div2 id="iln41.1174.006" n="The Civil War in America: The Last Stand       Made by the Federals at Manassas.--From a Sketch by Our Special Artist." type="illustration">
+<div2 id="iln41.1174.006" n="The Civil War in America: The Last Stand       Made by the Federals at Manassas.--From a Sketch by Our Special Artist." type="Illustration"><head>The Civil War in America: The Last Stand       Made by the Federals at Manassas.--From a Sketch by Our Special Artist.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7710,7 +7708,7 @@ the Spanish Government.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1174.007" n="The Civil War in America: View, From the       West, of Richmond, Virginia, Capital of the Confederate States.--From a Sketch by Our Special Artist." type="illustration">
+<div2 id="iln41.1174.007" n="The Civil War in America: View, From the       West, of Richmond, Virginia, Capital of the Confederate States.--From a Sketch by Our Special Artist." type="Illustration"><head>The Civil War in America: View, From the       West, of Richmond, Virginia, Capital of the Confederate States.--From a Sketch by Our Special Artist.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7730,7 +7728,7 @@ Special Artist.</head>
 </p>
 </div2>
 
-<div2 id="iln41.1174.008" n="The Civil War in America: Camp of the Confederate Marines at Drury's Bluff, on the James River.--From a Sketch by Our Special Artist.--See Next Page." type="illustration">
+<div2 id="iln41.1174.008" n="The Civil War in America: Camp of the Confederate Marines at Drury's Bluff, on the James River.--From a Sketch by Our Special Artist.--See Next Page." type="Illustration"><head>The Civil War in America: Camp of the Confederate Marines at Drury's Bluff, on the James River.--From a Sketch by Our Special Artist.--See Next Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7750,7 +7748,7 @@ Special Artist.</head>
 </p>
 </div2>
 
-<div2 id="iln41.1174.009" n="The Civil War in America: Drury's Bluff,       A Confederate Position on the James River, Near Richmond.--From       a Sketch by Our Special Artist." type="illustration">
+<div2 id="iln41.1174.009" n="The Civil War in America: Drury's Bluff,       A Confederate Position on the James River, Near Richmond.--From       a Sketch by Our Special Artist." type="Illustration"><head>The Civil War in America: Drury's Bluff,       A Confederate Position on the James River, Near Richmond.--From       a Sketch by Our Special Artist.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7770,7 +7768,7 @@ Special Artist.</head>
 </p>
 </div2>
 
-<div2 id="iln41.1174.010" n="Illustrations of the War in America." type="article">
+<div2 id="iln41.1174.010" n="Illustrations of the War in America." type="Article">
 <head>Illustrations of the War in America.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7820,7 +7818,7 @@ engineers have covered the approach to Richmond by water.</p>
 Marines at Drury's Bluff," stated by our Artist to be one of the most
 important posts of the Confederates.</p></div2>
 
-<div2 id="iln41.1174.011" n="The Alabama ('290')." type="article">
+<div2 id="iln41.1174.011" n="The Alabama ('290')." type="Article">
 <head>The Alabama ("290").</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -7887,7 +7885,7 @@ Mr. Chilton has received a note stating that the communication of the
 chamber has been received and is under the consideration of her
 Majesty's Ministers.</p></div2>
 
-<div2 id="iln41.1175.001" n="Captain Semmes, of the Confederate       States' Sloop-of-War Alabama ('290'). Major-General 'Stonewall'       Jackson, of the Confederate Army.--See Page 606." type="illustration">
+<div2 id="iln41.1175.001" n="Captain Semmes, of the Confederate       States' Sloop-of-War Alabama ('290'). Major-General 'Stonewall'       Jackson, of the Confederate Army.--See Page 606." type="Illustration"><head>Captain Semmes, of the Confederate       States' Sloop-of-War Alabama ('290'). Major-General 'Stonewall'       Jackson, of the Confederate Army.--See Page 606.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -7907,7 +7905,7 @@ Majesty's Ministers.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1175.002" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1175.002" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8018,7 +8016,7 @@ rostrum.</p>
 voluntary contributions, in cargoes of grain, for the relief of
 distress in Lancashire.</p></div2>
 
-<div2 id="iln41.1175.003" n="The Proposed Mediation in America" type="article">
+<div2 id="iln41.1175.003" n="The Proposed Mediation in America" type="Article">
 <head>The Proposed Mediation in America</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8073,7 +8071,7 @@ question of mediation, based on the internal position of America, and
 expresses its belief that the hesitation of the two Cabinets has
 nearly reached its limit.</p></div2>
 
-<div2 id="iln41.1175.004" n="The Present Population of the City of San       Francisco" type="article">
+<div2 id="iln41.1175.004" n="The Present Population of the City of San       Francisco" type="Article">
 <head>[The Present Population of the City of San Francisco]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8090,7 +8088,7 @@ nearly reached its limit.</p></div2>
 follows:--Men, 32,500; women, 18,000; children, 28,000; Chinese, 3000;
 negroes, 1800; floating population, 7000: total, 90,300.</p></div2>
 
-<div2 id="iln41.1175.005" n="The British and Foreign Anti-Slavery Society" type="article">
+<div2 id="iln41.1175.005" n="The British and Foreign Anti-Slavery Society" type="Article">
 <head>[The British and Foreign Anti-Slavery Society]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8109,7 +8107,7 @@ emancipation party in the Federal States of America. The South is
 charged with having designedly provoked war for the sole purpose of
 founding a confederacy to perpetuate slavery.</p></div2>
 
-<div2 id="iln41.1175.006" n="London, Saturday, November 22, 1862" type="article">
+<div2 id="iln41.1175.006" n="London, Saturday, November 22, 1862" type="Article">
 <head>London, Saturday, November 22, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8151,7 +8149,7 @@ is reported, she has been burning an English vessel, it is not
 improbable that orders to our own squadron may save Mr. Lincoln some
 trouble.</p></div2>
 
-<div2 id="iln41.1176.001" n="President Lincoln's Coup-D'Etat" type="article">
+<div2 id="iln41.1176.001" n="President Lincoln's Coup-D'Etat" type="Article">
 <head>President Lincoln's Coup-D'Etat</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8340,7 +8338,7 @@ the war as to allow the suggestions of reason and common sense to be
 listened to, coming, as they will, from an unlooked for
 quarter--namely, from the majority of the American people themselves.</p></div2>
 
-<div2 id="iln41.1176.002" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1176.002" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8462,7 +8460,7 @@ conversation in the same contemptuous language that Americans might
 employ towards the inhabitants of the Sandwich Islands or Vancouver
 Island.</p></div2>
 
-<div2 id="iln41.1176.003" n="Captain Mullan, of the United States Army" type="article">
+<div2 id="iln41.1176.003" n="Captain Mullan, of the United States Army" type="Article">
 <head>[Captain Mullan, of the United States Army]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8485,7 +8483,7 @@ tracts of rich agricultural land. Extensive deposits of gold were
 discovered in the valleys, and iron, copper, lead, and coal were found
 along the road.</p></div2>
 
-<div2 id="iln41.1176.004" n="It is Reported that Captain Maury" type="article">
+<div2 id="iln41.1176.004" n="It is Reported that Captain Maury" type="Article">
 <head>[It is Reported that Captain Maury]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8502,7 +8500,7 @@ along the road.</p></div2>
 proceeds to St. Petersburg, as Commissioner from the Confederate
 States to Russia.</p></div2>
 
-<div2 id="iln41.1177.001" n="Captain Semmes." type="article">
+<div2 id="iln41.1177.001" n="Captain Semmes." type="Article">
 <head>Captain Semmes.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8530,7 +8528,7 @@ years of age, spare in person, and possessed of a large share of
 activity, so essential for one engaged in hazardous enterprises such
 as his are.</p></div2>
 
-<div2 id="iln41.1177.002" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1177.002" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8665,7 +8663,7 @@ partisans succeeded in terminating, he was allowed to conclude in
 peace, on condition that he steered clear of the dangerous
 subject.</p></div2>
 
-<div2 id="iln41.1177.003" n="London, Saturday, December 6, 1862" type="article">
+<div2 id="iln41.1177.003" n="London, Saturday, December 6, 1862" type="Article">
 <head>London, Saturday, December 6, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8699,7 +8697,7 @@ the rebellion shall be put down; and a foreign war is deliberately
 pointed out by Mr. Raymond, of the <hi rend="italic">New York
 Times</hi>, as the best cure for domestic dissensions.</p></div2>
 
-<div2 id="iln41.1177.004" n="General 'Stonewall' Jackson." type="article">
+<div2 id="iln41.1177.004" n="General 'Stonewall' Jackson." type="Article">
 <head>General "Stonewall" Jackson.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8816,7 +8814,7 @@ faith in his conduct, otherwise the bold and daring steps which he has
 frequently taken, and from which he has never failed to come off
 triumphantly, would have been utter impossibilities.</q></p></div2>
 
-<div2 id="iln41.1177.005" n="During the Present War in America" type="article">
+<div2 id="iln41.1177.005" n="During the Present War in America" type="Article">
 <head>[During the Present War in America]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8832,7 +8830,7 @@ triumphantly, would have been utter impossibilities.</q></p></div2>
 <p>During the present war in America the Austrian Government has sold
 80,000 muskets to the Northerners.</p></div2>
 
-<div2 id="iln41.1177.006" n="In Reply to the Complaints sent to the       Foreign Office" type="article">
+<div2 id="iln41.1177.006" n="In Reply to the Complaints sent to the       Foreign Office" type="Article">
 <head>[In Reply to the Complaints sent to the Foreign Office]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8852,7 +8850,7 @@ Russell states that the owners of such property--not contraband of
 war, of course--must seek compensation in a Southern Prize Court.</p>
 </div2>
 
-<div2 id="iln41.1177.106" n="At the Washington Post-office" type="article">
+<div2 id="iln41.1177.106" n="At the Washington Post-office" type="Article">
 <head>[At the Washington Post-office]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8874,7 +8872,7 @@ being liable to letter postage, and was opened at Washington, and the
 finger fell out, whether to be restored or sent to the Dead Letter
 Office is not stated.</p></div2>
 
-<div2 id="iln41.1177.007" n="The Newly-formed Emancipation Society" type="article">
+<div2 id="iln41.1177.007" n="The Newly-formed Emancipation Society" type="Article">
 <head>[The Newly-formed Emancipation Society]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -8897,7 +8895,7 @@ is fully committed to the destruction of the inhuman system; and they
 therefore urge that Englishmen should encourage the friends of
 abolition in America by all the means in their power.</p></div2>
 
-<div2 id="iln41.1178.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1178.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9031,7 +9029,7 @@ divorce from her husband on the charge of adultery.</p><pb n="623"/>
 ult. Contributions were received in the churches of the Atlantic
 cities for the Lancashire operatives.</p></div2>
 
-<div2 id="iln41.1178.002" n="The Hibiscus Mosheutos." type="article">
+<div2 id="iln41.1178.002" n="The Hibiscus Mosheutos." type="Article">
 <head>[The Hibiscus Mosheutos]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9063,7 +9061,7 @@ planting, that the ground they grow on is worthless for all
 agricultural pursuits, that the machinery required to work it is of
 the simplest character, &#x0026;c.</p></div2>
 
-<div2 id="iln41.1178.003" n="London, Saturday, December 13, 1862" type="article">
+<div2 id="iln41.1178.003" n="London, Saturday, December 13, 1862" type="Article">
 <head>London, Saturday, December 13, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9121,7 +9119,7 @@ minds in America do not seem very great gains, and the liberation of
 political prisoners, complete the tale of Transatlantic
 news.</p></div2>
 
-<div2 id="iln41.1178.004" n="In Freeport, Illinois" type="article">
+<div2 id="iln41.1178.004" n="In Freeport, Illinois" type="Article">
 <head>[In Freeport, Illinois]</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9137,7 +9135,7 @@ news.</p></div2>
 purpose of insuring people against damage of property by
 tornadoes.</p></div2>
 
-<div2 id="iln41.1179.001" n="Foreign and Colonial News" type="article">
+<div2 id="iln41.1179.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9525,7 +9523,7 @@ speedily moved. The practice of absenteeism, fearfully prevalent among
 officers and men, is reprobated, and more stringent military laws for
 the suppression of this offence are recommended.</p></div2>
 
-<div2 id="iln41.1179.002" n="London: Saturday, Cecember 20, 1862" type="article">
+<div2 id="iln41.1179.002" n="London: Saturday, Cecember 20, 1862" type="Article">
 <head>London: Saturday, December 20, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9592,7 +9590,7 @@ in fault because she terrifies New York. It is more pleasant to add
 that the American merchants are raising a subscription in aid of the
 Englishmen who suffer by the American War.</p></div2>
 
-<div2 id="iln41.1179.003" n="Democratic Procession in New York." type="article">
+<div2 id="iln41.1179.003" n="Democratic Procession in New York." type="Article">
 <head>Democratic Procession in New York.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9632,7 +9630,7 @@ current of Federal politics, and which clearly foreshadows that the
 Republican party has no chance of electing another President in
 succession to Mr. Lincoln.</p></div2>
 
-<div2 id="iln41.1179.004" n="The Election of Mr. Horatio Seymour,       Governor of the State of New York: Democratic Procession Passing       the New York Hotel." type="illustration">
+<div2 id="iln41.1179.004" n="The Election of Mr. Horatio Seymour,       Governor of the State of New York: Democratic Procession Passing       the New York Hotel." type="Illustration"><head>The Election of Mr. Horatio Seymour,       Governor of the State of New York: Democratic Procession Passing       the New York Hotel.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -9652,7 +9650,7 @@ succession to Mr. Lincoln.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1180.001" n="Foreign Intelligence" type="article">
+<div2 id="iln41.1180.001" n="Foreign Intelligence" type="Article">
 <head>Foreign Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9777,7 +9775,7 @@ Atlantic cities, the young, the middle-aged, and the ladies were
 enjoying the amusement of skating with as much abandon as before the
 commencement of the war.</p></div2>
 
-<div2 id="iln41.1180.002" n="London, Saturday, December 27, 1862" type="article">
+<div2 id="iln41.1180.002" n="London, Saturday, December 27, 1862" type="Article">
 <head>London, Saturday, December 27, 1862</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9826,7 +9824,7 @@ angry abuse of us. Meantime we cannot but own the Americans are doing
 a very handsome act in contributing so largely to the wants of our
 operatives.</p></div2>
 
-<div2 id="iln41.1180.003" n="Echoes of the Week" type="article">
+<div2 id="iln41.1180.003" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9851,7 +9849,7 @@ the astute Mr. James Gordon Bennett, of the <hi rend="italic">Herald</hi>, wishi
 has accumulated, and not caring to cope with evil days, has retired
 from business altogether.</p></div2>
 
-<div2 id="iln41.1180.004" n="Illustrations of the War in America." type="article">
+<div2 id="iln41.1180.004" n="Illustrations of the War in America." type="Article">
 <head>Illustrations of the War in America.</head>
 <bibl>
 <title>The Illustrated London News</title>
@@ -9976,7 +9974,7 @@ Tompkins, now in process of construction on the point of Staten
 Island, will effectually command the approaches to New
 York.</p></div2>
 
-<div2 id="iln41.1180.005" n="Recruiting in New York: The Irish       Zouaves.--See Preceding Page." type="illustration">
+<div2 id="iln41.1180.005" n="Recruiting in New York: The Irish       Zouaves.--See Preceding Page." type="Illustration"><head>Recruiting in New York: The Irish       Zouaves.--See Preceding Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
@@ -9995,7 +9993,7 @@ York.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln41.1180.006" n="Fort Lafayette, The American Bastille for       Political Prisoners." type="illustration">
+<div2 id="iln41.1180.006" n="Fort Lafayette, The American Bastille for       Political Prisoners." type="Illustration"><head>Fort Lafayette, The American Bastille for       Political Prisoners.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.41</biblScope>
