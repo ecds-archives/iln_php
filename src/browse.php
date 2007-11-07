@@ -60,17 +60,14 @@ if ($id) {
   // run the query 
   $xmldb->xquery($query);
 
-  // convert the terms into an array to pass to tamino functions
-  //  $myterms = array($term, $term2, $term3);
   // transform xml with xslt
-
-  // print out info about highlighted terms
-  $xmldb->highlightInfo($myterms);
-  // print transformed result
-  $xmldb->printResult($myterms);
+  $xmldb->xslTransform($xsl_file);
+  $xmldb->printResult();
 } else {
   print "<p class='error'>Error: No article specified!</p>";
 }
+
+include("searchformart.php");
 
 print "</div>"; 
 include("web/xml/foot.xml"); 

@@ -56,6 +56,9 @@ $xsl_file = "xslt/contents.xsl";
 $xsl_params = array('mode' => "flat", "vol" => $vol);
 $xmldb->xslTransform($xsl_file, $xsl_params);
 $xmldb->printResult();
+
+include("searchformart.php");
+
 ?> 
    
 </div>
