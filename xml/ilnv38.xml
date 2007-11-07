@@ -3988,7 +3988,8 @@ Illustrated London News</title>
 1861</date> 
                <extent>1 paragraph</extent><idno type="ark">http://pid.emory.edu/ark:/25593/38n</idno></bibl>
                <p>
-                  <figure entity="v38p266" width="1169" height="845" ana="ps pg">
+                  <figure entity="v38p266" width="1169" height="845"
+			  ana="balt ps pg">
                      <head>The Crowd at
 Baltimore Waiting for Mr. Lincoln, President of the United
 States</head>
@@ -4977,7 +4978,8 @@ with the old lady, and pay her homage by waiting at table in his
 highest style, and perhaps, as our Artist saw him, escort her to and
 from the "meetin'-house."</p>
                <p>
-                  <figure entity="v38p307a" width="534" height="711" ana="slave">
+                  <figure entity="v38p307a" width="534" height="711"
+			  ana="balt slave">
                      <head>The Dandy
 Slave: a Scene in Baltimore, Maryland. [p. 307]</head>
                   </figure>
