@@ -38,7 +38,7 @@ div.right { text-align: right;
 	 } 
 
 p.head  { text-align: center;
-	  font-family: Conga;
+	  font-family: Arial;
 	  color: black
 	}
 
@@ -50,17 +50,19 @@ p.error {  font-size: 125%; color: red }
 /* Display all image captions in small caps (as in original) */
 p.caption { font-variant: small-caps; }
 
-h1 { font-family:Conga }
+h1 { font-family: Arial;
+    text-align: center;
+    font-variant: small-caps;}
 
 h2 { color: black; 
-     font-family: Conga; 
+     font-family: Arial; 
      font-size: 1.5em;
      font-weight: normal;
      text-align: center;
      border-bottom: double medium black;
    }
 
-a	  { text-decoration:underline; font-family:Conga }
+a	  { text-decoration:underline; font-family:Arial }
 a:link 	  { color:#333333 }
 a:visited { color:#666666 } 
 a:active  { color:#333333 }

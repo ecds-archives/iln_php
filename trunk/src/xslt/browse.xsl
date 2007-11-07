@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>  
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
-	xmlns:html="http://www.w3.org/TR/REC-html40" 
-	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
+	xmlns:html="http://www.w3.org/TR/REC-html40"  
 	xmlns:xql="http://metalab.unc.edu/xql/">
 
 <xsl:include href="ilnshared.xsl"/>
@@ -137,7 +136,7 @@
 <!-- generate next & previous links (if present) -->
 <!-- note: all div2s, with id, head, and bibl are retrieved in a <result> node -->
 <xsl:template name="next-prev">
-DEBUG: in next-prev template
+
 
 <xsl:element name="table">
   <xsl:attribute name="width">100%</xsl:attribute>
@@ -223,6 +222,15 @@ DEBUG: in next-prev template
   </xsl:choose>
 </xsl:template>
 
+<!-- sic : show 'sic' as an editorial comment -->
+<xsl:template match="sic">
+  <xsl:apply-templates select="text()"/>
+  <!-- show the text between the sic tags -->
+  <xsl:element name="span">
+    <xsl:attribute name="class">editorial</xsl:attribute>
+	[sic]
+  </xsl:element>
+</xsl:template>
 
 
 </xsl:stylesheet>
