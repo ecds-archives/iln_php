@@ -2,10 +2,21 @@
 <!-- <p class="head"><img src="http://cti.library.emory.edu/iln/images/hline2.jpg" 
 	width="417" height="3" /></p> -->
 <p class="head"><a href="http://www.emory.edu/LIBRARIES/">University Libraries</a> |
-<a href="http://beck.library.emory.edu/">Beck Center</a> | 
+<a href="http://beck.library.emory.edu/">Beck Center</a> | <script language="javascript">
+<!--
+var username = "beckctr";
+var hostname = "emory.edu";
+var linktext = "Contact the Beck Center";
+document.write("<a href=" + "mail" + "to:" + username +
+"@" + hostname + ">" + linktext + "</a>")
+//-->
+</script>
+<noscript>Contact the Beck Center: beckctr<img src="web/images/at.gif"
+alt=" at "/>emory.edu</noscript> | 
 <a href="http://www.emory.edu">Emory University</a> <br />
 <font face="Book Antiqua" size="2" color="#000000"><i>A 
           Joint Project by Sandra J. Still, Emily E. Katt, Collection Management, 
           and the Beck Center.</i></font></p>
+
 </div>
 
