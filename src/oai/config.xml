@@ -51,7 +51,7 @@
     </set>
     <set name="Illustrations" setSpec="Illustrations">
         <description>Illustrations from the Illustrated London News</description>
-    </set>            
+    </set> <!-- not using these sets yet           
     <set name="Volume 38" setSpec="vol38">
        <description>Volume 38, 1861</description>
     </set>
@@ -81,7 +81,7 @@
     </set>
     <set name="Volume 47" setSpec="vol47">
        <description>Volume 47</description>
-    </set>
+    </set> -->
   </sets>
 
   <metadataFormats>

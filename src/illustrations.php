@@ -27,7 +27,7 @@ $xmldb->xquery($query);
 
 
 html_head("Browse - Illustrations", true);
-
+print '</head>';
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 

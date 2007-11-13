@@ -49,8 +49,7 @@ print "<html>
 <script language=\"Javascript\" src=\"web/js/content-list.js\"></script>
 <link rel=\"stylesheet\" type=\"text/css\" href=\"web/css/contents.css\">\n";
  }
-print "<script language=\"Javascript\" src=\"web/image_viewer/launchViewer.js\"></script>
- </head>";
+print "<script language=\"Javascript\" src=\"web/image_viewer/launchViewer.js\"></script>";
 }
 
 

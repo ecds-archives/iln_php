@@ -22,7 +22,7 @@ return
 </div2>";
 
 html_head("Illustrations by Subject");
-
+print '</head>';
 
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");

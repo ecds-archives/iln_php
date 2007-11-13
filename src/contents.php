@@ -40,7 +40,7 @@ added this to query to test taminoConnection class
 $xmldb->xquery($query);
 
 html_head("Browse", true);
-
+print '</head>';
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 

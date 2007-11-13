@@ -1,6 +1,6 @@
 <?php
 include("common_functions.php");
-html_head("Introduction");
+html_head("About This site");
 ?>
 </head>
 <body>
@@ -10,7 +10,7 @@ include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 
 //actual introduction content 
-include("web/xml/intro.xml");
+include("web/xml/about.xml");
 
 include("web/xml/foot.xml");
 ?> 
