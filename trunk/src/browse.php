@@ -18,10 +18,12 @@ $xmldb = new xmlDbConnection($exist_args);
  
 $query = 'for $art in /TEI.2//div1/div2[@id = "' . "$id" . '"]';
 if ($kw != '') {$query .= "[. |= \"$kw\"]";}
-$query .= 'let $previd := $art/preceding-sibling::div2[1]
+$query .= 'let $hdr := root($art)/TEI.2/teiHeader
+let $previd := $art/preceding-sibling::div2[1]
 let $nextid := $art/following-sibling::div2[1]
 let $issue := $art/..
-return <result>
+return <TEI>
+{$hdr}
 {$art}
 <issueid>
 {$issue/@id}
@@ -41,7 +43,7 @@ return <result>
  {$nextid/bibl}
 </next>
 </siblings>
-</result>
+</TEI>
 ';
 
 // addition to the query for next/previous links (only in contents/browse mode, not searches) 
@@ -50,15 +52,25 @@ return <result>
 
 $xsl_file = "xslt/article.xsl"; 
 
-html_head("Browse - Article", true);
+if ($id) {
+  // run the query 
+  $xmldb->xquery($query);
 
+
+$header_xsl1 = "xslt/teiheader-dc.xsl";
+$header_xsl2 = "xslt/dc-htmldc.xsl";
+$xmldb->xslTransform($header_xsl1);
+$xmldb->xslTransformResult($header_xsl2);
+
+html_head("Browse - Article", true);
+  $xmldb->printResult();
+print '</head>';
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 print '<div class="content">';
 
-if ($id) {
-  // run the query 
-  $xmldb->xquery($query);
+
+
 
   // transform xml with xslt
   $xmldb->xslTransform($xsl_file);

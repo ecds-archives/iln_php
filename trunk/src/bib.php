@@ -4,7 +4,7 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
 html_head("Bibliography");
-
+print '</head>';
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 

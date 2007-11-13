@@ -18,7 +18,7 @@ if ($js == 'no') {
 }
 
 html_head("Illustration", true);
-
+print '</head>';
 $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 

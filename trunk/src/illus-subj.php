@@ -11,7 +11,7 @@ $query = 'for $b in /TEI.2/text/back/div1//interpGrp return $b';
 $xsl_file = "xslt/illus-subj.xsl";
 
 html_head("Browse - Illustrations", true);
-
+print '</head>';
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 print '<div class="content">';

@@ -12,12 +12,12 @@
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
-    <xsl:apply-templates select="//result"/>
+    <xsl:apply-templates select="//TEI"/>
 </xsl:template>
 
 
 <xsl:template match="/"> 
-<xsl:apply-templates select="//result//div2" />
+<xsl:apply-templates select="//TEI//div2" />
 <!-- links to next & previous titles (if present) -->
   <xsl:call-template name="next-prev" />
 </xsl:template>

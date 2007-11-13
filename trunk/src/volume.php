@@ -40,7 +40,7 @@ $vol = isset($id) ? "single" : "all";
 $xmldb->xquery($query);
 
 html_head("Browse Volumes", true);
-
+print '</head>';
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 

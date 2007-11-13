@@ -5,6 +5,7 @@ include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
 html_head("Search", true);
+print '</head>';
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 ?>

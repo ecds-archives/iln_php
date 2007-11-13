@@ -5,7 +5,7 @@ include_once("lib/xmlDbConnection.class.php");
 
 
 html_head("Links");
-
+print '</head>';
 include("web/xml/head.xml");
 include("web/xml/sidebar.xml");
 
