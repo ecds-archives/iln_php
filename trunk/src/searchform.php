@@ -37,7 +37,7 @@ include("web/xml/sidebar.xml");
 </table>
 </form>
 
-
+<p><a href="illus-subj.php"><h4>View Illustrations by Subject</h4></a></p>
 
 <hr width="60%" align="left">
 
