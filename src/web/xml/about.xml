@@ -28,15 +28,15 @@ alt=" at "/>emory.edu</noscript></p>
 Emily Katt, many members of the staff of the Beck Center have
 contributed to this project, digitizing, proofreading, encoding, spell
 checking and designing the site. Thanks are also due to the staff of
-the Manuscripts, Archive and Rare Books Library for support in copying
+the Manuscript, Archives, and Rare Book Library for support in copying
 the articles for digitizing.</p>
 <ul>
 <li>Project Managers: Chuck Spornick, Alice Hickcox</li>
 <li>Site Design: Katherine Ellison</li>
 <li>Programming Support: Rebecca Sutton Koeser, Tavishi Bhasin</li>
-<li>Image Capture: Jeff Massey</li>
+<li>Image Capture: Jeff Massey and Sandra Still</li>
 <li>Digitizing, proofing and encoding: Scott Ellis, Britney Cooper,
-Stacy Brook, Robin Conner, Brendan Corcoran, Ahmed Abdel Meguid</li>
+Stacy Brook, Robin Conner, Brendan Corcoran, Ahmed Abdel Meguid, Sprice Dean</li>
 </ul>
 
 <h3>Digitization Details</h3>
@@ -44,7 +44,7 @@ Stacy Brook, Robin Conner, Brendan Corcoran, Ahmed Abdel Meguid</li>
 FX camera. The images are stored as 300 dpi tiffs, and displayed as
 jpeg images and gif thumbnails.</p>
 <p>The text is stored in an eXist database, and retrieved using
-queries managed by PHP, XSLT and CSS. The site is harvest by an OAI
+queries managed by PHP, XSLT and CSS. The site is harvested by an OAI
 harvester to produce Dublin Core records for each article.</p>
 
 </div>

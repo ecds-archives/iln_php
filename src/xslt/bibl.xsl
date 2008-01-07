@@ -7,27 +7,45 @@
   <!-- brief listing of link records (in Dublin Core format) -->
 
   <xsl:template match="/">
-    <xsl:apply-templates select="//biblRecord"/>
+    <xsl:apply-templates select="//biblRecord">
+      <xsl:sort select="dc:creator"/>
+      <xsl:sort select="dc:title"/>
+    </xsl:apply-templates>
   </xsl:template>
-  
+    
   <xsl:template match="biblRecord">
+     
     <xsl:element name="p">
-        <xsl:value-of select="dc:creator"/><xsl:text>,
-	</xsl:text><xsl:value-of
-	select="dc:title"/><xsl:text>. </xsl:text>
-	<xsl:value-of select="dc:publisher"/>
-
-      
-      <xsl:element name="br"/>
-      <xsl:element name="font">
-        <xsl:attribute name="size">-1</xsl:attribute>
-        (<xsl:value-of select="dc:identifier"/>)
-      </xsl:element> <!-- font -->
-      
+        <xsl:apply-templates select="dc:creator"/><xsl:text>.
+	</xsl:text><xsl:element name="i"><xsl:value-of select="dc:title"/></xsl:element><xsl:text>. </xsl:text>
+	<xsl:value-of select="dc:publisher"/><xsl:text>, </xsl:text><xsl:value-of select="dc:date"/><xsl:text>.</xsl:text>
+<xsl:apply-templates select="dc:identifier"/>
       <xsl:element name="br"/>
       
       <xsl:value-of select="dc:description"/>
     </xsl:element> <!-- p -->
   </xsl:template>  <!-- end record -->
+  
+  <xsl:template match="dc:creator">
+    <xsl:choose>
+      <xsl:when test="position() = 1"/>
+      <xsl:when test="position() = last()">
+        <xsl:text> and </xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text>, </xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+      <xsl:apply-templates />
+  </xsl:template>
+  
+  <xsl:template match="dc:identifier">
+    <xsl:element name="br"/>
+    <xsl:element name="font">
+      <xsl:attribute name="size">-1</xsl:attribute>
+      (<xsl:value-of select="."/>)
+    </xsl:element> <!-- font -->
+  </xsl:template>
+  
   
 </xsl:stylesheet>

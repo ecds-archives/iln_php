@@ -5,7 +5,7 @@ include_once("lib/xmlDbConnection.class.php");
 include_once("common_functions.php");
 
 
-$exist_args{"debug"} =  true;
+$exist_args{"debug"} =  false;
 $xmldb = new xmlDbConnection($exist_args);
 $xsl    = "xslt/iln-exist-search.xsl";
 
@@ -26,17 +26,19 @@ if ($kw)
   array_push($options, ". &= '$kw'");
 if ($subj)
  array_push($options, "./@ana &= '$subj'");
-if ($date)
-  array_push($options, "((.) and (bibl/date &= '$date' or bibl/date/@value &= '$date'))");
 
 // there must be at least one search parameter for this to work
 if (count($options)) {
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
-  //  print("DEBUG: Searchfilter is $searchfilter\n");
+   // print("DEBUG: Searchfilter is $searchfilter\n");
+
+if ($date)
+  $searchfilter2 = "[(bibl/date &= '$date' or bibl/date/@value &= '$date')]";
+
 
 // construct xquery
 //$declare = 'declare namespace xs="http://www.w3.org/2001/XMLSchema"; '; //Don't need?
-$xquery = "for \$a in /TEI.2/text/body/div1/div2//figure$searchfilter
+$xquery = "for \$a in /TEI.2/text/body/div1/div2$searchfilter2//figure$searchfilter
 let \$matchcount := text:match-count(\$a)
 let \$div2 := \$a/ancestor::div2
 return <div2>
@@ -80,7 +82,7 @@ $xmldb->xquery($xquery, $pos, $max);
 You may want to broaden your search or consult the search tips for suggestions.</p>\n";
     include("searchform.php");
   }
-  $xsl_params = array ('mode' => "search-illus", 'keyword' => $kw, 'subject' => $subj, 'date' => $date,  'type' => "illustration", 'max' => $max);
+  $xsl_params = array ('mode' => "search-illus", 'keyword' => $kw, 'date' => $date,  'type' => "illustration", 'max' => $max);
   $xmldb->xslTransform($xsl, $xsl_params);
   $xmldb->printResult();
   

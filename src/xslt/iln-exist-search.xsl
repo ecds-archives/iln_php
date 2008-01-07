@@ -20,7 +20,7 @@
 
   <!-- information about current set of results  -->
   <xsl:variable name="position"><xsl:value-of select="//@exist:start"/></xsl:variable>
-  <xsl:param name="max"/>
+
   <xsl:variable name="total"><xsl:value-of select="//@exist:hits"/></xsl:variable>
 <xsl:variable name="image_url">http://beck.library.emory.edu/iln/image-content/</xsl:variable>
  <!--   <xsl:include href="utils.xsl"/> -->

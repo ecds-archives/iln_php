@@ -62,6 +62,10 @@ $header_xsl2 = "xslt/dc-htmldc.xsl";
 $xmldb->xslTransform($header_xsl1);
 $xmldb->xslTransformResult($header_xsl2);
 
+/*$xmldb->xslBind($header_xsl1);
+$xmldb->xslBind($header_xsl2);
+$xmldb->transform();*/
+
 html_head("Browse - Article", true);
   $xmldb->printResult();
 print '</head>';
