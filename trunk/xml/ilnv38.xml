@@ -4,8 +4,7 @@
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
-            <title>The Civil War: The Illustrated London News
-Perspective</title>
+            <title>The Civil War: The Illustrated London News Perspective</title>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Sandra Still</name>
@@ -20,7 +19,7 @@ Perspective</title>
 Georgia</addrLine>
             </address>
             <availability>
-               <p>1996 Emory University.
+               <p>2000 Emory University.
 Permission is granted to download, transmit, or otherwise reproduce,
 distribute or display the contributions to the work claimed by Emory
 University for non-profit educational purposes, provided this header
@@ -31,8 +30,7 @@ Atlanta, Georgia 30322</p>
             <date>2000</date>
          </publicationStmt>
          <seriesStmt>
-            <title>The Civil War: The Illustrated
-London News Perspective</title>
+            <title>The Civil War: The Illustrated London News Perspective</title>
          </seriesStmt>
          <sourceDesc>
             <bibl>
@@ -10525,7 +10523,7 @@ of the 2nd New York Regiment."&#x2014;From a Sketch by our Special Artist.</head
 <interpGrp type="Civilian Life">
 <interp id="church" value="Churches"/>
 <interp id="daily" value="Daily Living"/>
-<interp id="gov" value="Government Buildings"/>
+<!--<interp id="gov" value="Government Buildings"/>-->
 <interp id="ps" value="Political Scenes"/>
 <interp id="pb" value="Political Buildings"/>
 <interp id="pg" value="Political Gatherings"/>
