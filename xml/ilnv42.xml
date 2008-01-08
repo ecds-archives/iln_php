@@ -17,7 +17,7 @@ Perspective</title>
                <addrLine>Atlanta, Georgia</addrLine>
             </address>
             <availability>
-               <p>2005 Emory University.
+               <p>2000 Emory University.
 Permission is granted to download, transmit, or otherwise reproduce,
 distribute or display the contributions to the work claimed by Emory
 University for non-profit educational purposes, provided this header
@@ -11723,7 +11723,7 @@ distant.</p></div2></div1></body>
 <interpGrp type="Civilian Life">
 <interp id="church" value="Churches"/>
 <interp id="daily" value="Daily Living"/>
-<interp id="gov" value="Government Buildings"/>
+      <!--<interp id="gov" value="Government Buildings"/>-->
 <interp id="ps" value="Political Scenes"/>
 <interp id="pb" value="Political Buildings"/>
 <interp id="pg" value="Political Gatherings"/>

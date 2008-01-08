@@ -17,7 +17,7 @@ Perspective</title>
                <addrLine>Atlanta, Georgia</addrLine>
             </address>
             <availability>
-               <p>2005 Emory University.
+               <p>2000 Emory University.
 Permission is granted to download, transmit, or otherwise reproduce,
 distribute or display the contributions to the work claimed by Emory
 University for non-profit educational purposes, provided this header
@@ -6745,7 +6745,7 @@ though it is nothing new to find the "doctor" the bravest of the
 brave. When the tale of the fate of the Alabama is told, its story
 will be ill related if the hearers do not feel that the true hero of
 the day was Llewellyn, the surgeon.</p></div2>
-<!-- image not captured
+
 <div2 id="iln44.1265.006" n="The Duel off Cherbourg between the
       Alabama and the Kearsarge; the Alabama Sinking. See Page 607." type="Illustration">
 <bibl>
@@ -6759,13 +6759,13 @@ the day was Llewellyn, the surgeon.</p></div2>
    
 </bibl>
 <p>
-<figure entity="v44p625" width="" height="">
+<figure entity="v44p625" width="2194" height="1544" ana="naval">
 <head>The Duel off Cherbourg between the
       Alabama and the Kearsarge; the Alabama Sinking. See Page 607.</head>
 </figure>
 </p>
 </div2>
--->
+
 </div1></body>
 <back>
 <div1>
@@ -6794,7 +6794,7 @@ the day was Llewellyn, the surgeon.</p></div2>
 <interpGrp type="Civilian Life">
 <interp id="church" value="Churches"/>
 <interp id="daily" value="Daily Living"/>
-<interp id="gov" value="Government Buildings"/>
+      <!--<interp id="gov" value="Government Buildings"/>-->
 <interp id="ps" value="Political Scenes"/>
 <interp id="pb" value="Political Buildings"/>
 <interp id="pg" value="Political Gatherings"/>
