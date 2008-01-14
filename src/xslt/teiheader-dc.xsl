@@ -51,18 +51,18 @@
 
   <xsl:template name="article-info">
     <xsl:element name="dc:title">
-      <xsl:apply-templates select="//div2/head"/>
+      <xsl:apply-templates select=".//div2/head"/>
     </xsl:element>
     <xsl:element name="dc:source">
       <!-- process all elements, in this order. -->
-      <xsl:apply-templates select="//div2/bibl/title"/>
-      <xsl:apply-templates select="//div2/bibl/biblScope[@type='volume']"/>
-      <xsl:apply-templates select="//div2/bibl/biblScope[@type='issue']"/>
-      <xsl:apply-templates select="//div2/bibl/biblScope[@type='pages']"/>
-      <xsl:apply-templates select="//div2/bibl/date"/>
+      <xsl:apply-templates select=".//div2/bibl/title"/>
+      <xsl:apply-templates select=".//div2/bibl/biblScope[@type='volume']"/>
+      <xsl:apply-templates select=".//div2/bibl/biblScope[@type='issue']"/>
+      <xsl:apply-templates select=".//div2/bibl/biblScope[@type='pages']"/>
+      <xsl:apply-templates select=".//div2/bibl/date"/>
     </xsl:element>
      <xsl:element name="dc:identifier">
-      <xsl:apply-templates select="//div2/bibl/idno[@type='ark']"/>
+      <xsl:apply-templates select=".//div2/bibl/idno[@type='ark']"/>
     </xsl:element>
   </xsl:template>
 
@@ -80,29 +80,29 @@
   <!-- <xsl:apply-templates select="TEI/teiHeader"/> -->
   <!-- specific to ILN : Sandra Still's name should show up -->
     <xsl:element name="dc:contributor">
-      <xsl:apply-templates select="//titleStmt/respStmt/resp"/><xsl:text> </xsl:text><xsl:apply-templates select="//titleStmt/respStmt/name"/>
+      <xsl:apply-templates select=".//titleStmt/respStmt/resp"/><xsl:text> </xsl:text><xsl:apply-templates select=".//titleStmt/respStmt/name"/>
     </xsl:element>
   <!-- publisher -->
-    <xsl:element name="dc:publisher">  <xsl:apply-templates select="//publicationStmt/publisher"/>, <xsl:value-of select="//publicationStmt/pubPlace"/>. <xsl:apply-templates select="//publicationStmt/date"/>: <xsl:apply-templates select="//publicationStmt/address/addrLine"/>.</xsl:element> 
+    <xsl:element name="dc:publisher">  <xsl:apply-templates select=".//publicationStmt/publisher"/>, <xsl:value-of select=".//publicationStmt/pubPlace"/>. <xsl:apply-templates select=".//publicationStmt/date"/>: <xsl:apply-templates select=".//publicationStmt/address/addrLine"/>.</xsl:element> 
     <!-- pick up rights statement --> 
-    <xsl:apply-templates select="//availability"/>
+    <xsl:apply-templates select=".//availability"/>
 
     <xsl:choose>
       <xsl:when test="$qualified = 'true'">
         <xsl:element name="dcterms:issued">
-          <xsl:apply-templates select="//publicationStmt/date"/>
+          <xsl:apply-templates select=".//publicationStmt/date"/>
         </xsl:element>
       </xsl:when>
       <xsl:otherwise>
         <xsl:element name="dc:date">
-          <xsl:apply-templates select="//publicationStmt/date"/>
+          <xsl:apply-templates select=".//publicationStmt/date"/>
         </xsl:element>
       </xsl:otherwise>
     </xsl:choose>
   
   <xsl:choose>
     <xsl:when test="$qualified = 'true'">
-      <xsl:element name="dcterms:isPartOf"><xsl:apply-templates select="//seriesStmt/title"/></xsl:element>
+      <xsl:element name="dcterms:isPartOf"><xsl:apply-templates select=".//seriesStmt/title"/></xsl:element>
       
       <xsl:element name="dcterms:isPartOf">
         <xsl:attribute name="scheme">URI</xsl:attribute>
@@ -111,7 +111,7 @@
     </xsl:when>
     <xsl:otherwise>
       <!-- FIXME: should both be included for unqualified dublin core? -->
-      <xsl:element name="dc:relation"><xsl:value-of select="//seriesStmt/title"/></xsl:element>
+      <xsl:element name="dc:relation"><xsl:value-of select=".//seriesStmt/title"/></xsl:element>
       <xsl:element name="dc:relation">http://beck.library.emory.edu/iln/</xsl:element>
     </xsl:otherwise>
   </xsl:choose>
