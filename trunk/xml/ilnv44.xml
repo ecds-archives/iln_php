@@ -6748,6 +6748,8 @@ the day was Llewellyn, the surgeon.</p></div2>
 
 <div2 id="iln44.1265.006" n="The Duel off Cherbourg between the
       Alabama and the Kearsarge; the Alabama Sinking. See Page 607." type="Illustration">
+      <head>The Duel off Cherbourg between the
+            Alabama and the Kearsarge; the Alabama Sinking. See Page 607.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.44</biblScope>
@@ -6756,7 +6758,7 @@ the day was Llewellyn, the surgeon.</p></div2>
 <date value="1864-06-25">June 25, 1864</date>
 
 <extent>1 paragraph</extent>
-   
+<idno type="ark">http://pid.emory.edu/ark:/25593/1252z</idno>   
 </bibl>
 <p>
 <figure entity="v44p625" width="2194" height="1544" ana="naval">
@@ -6794,10 +6796,10 @@ the day was Llewellyn, the surgeon.</p></div2>
 <interpGrp type="Civilian Life">
 <interp id="church" value="Churches"/>
 <interp id="daily" value="Daily Living"/>
-      <!--<interp id="gov" value="Government Buildings"/>-->
+<!--<interp id="gov" value="Government Buildings"/>-->
 <interp id="ps" value="Political Scenes"/>
-<interp id="pb" value="Political Buildings"/>
-<interp id="pg" value="Political Gatherings"/>
+<interp id="pb" value="Public Buildings"/>
+<interp id="pg" value="Public Gatherings"/>
 <interp id="ref" value="Refugees"/>
 <interp id="street" value="Street Scenes"/>
 <interp id="protest" value="War Protest / Rioting"/>
@@ -6817,8 +6819,8 @@ the day was Llewellyn, the surgeon.</p></div2>
 <interp id="insta" value="Installations"/>
 <interp id="prison" value="Prisons"/>
 <interp id="skirm" value="Skirmishes"/>
-<interp id="gray" value="Troops, Confederate"/>
 <interp id="red" value="Troops, British"/>
+<interp id="gray" value="Troops, Confederate"/>
 <interp id="blue" value="Troops, Union"/>
 </interpGrp>
 <interpGrp type="Naval Scenes &#x0026; Battles">
