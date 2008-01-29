@@ -12695,8 +12695,8 @@ annually allotted for recreation.</p></div2></div1>
 <interp id="daily" value="Daily Living"/>
 <!--<interp id="gov" value="Government Buildings"/>-->
 <interp id="ps" value="Political Scenes"/>
-<interp id="pb" value="Political Buildings"/>
-<interp id="pg" value="Political Gatherings"/>
+<interp id="pb" value="Public Buildings"/>
+<interp id="pg" value="Public Gatherings"/>
 <interp id="ref" value="Refugees"/>
 <interp id="street" value="Street Scenes"/>
 <interp id="protest" value="War Protest / Rioting"/>
@@ -12716,8 +12716,8 @@ annually allotted for recreation.</p></div2></div1>
 <interp id="insta" value="Installations"/>
 <interp id="prison" value="Prisons"/>
 <interp id="skirm" value="Skirmishes"/>
-<interp id="gray" value="Troops, Confederate"/>
 <interp id="red" value="Troops, British"/>
+<interp id="gray" value="Troops, Confederate"/>
 <interp id="blue" value="Troops, Union"/>
 </interpGrp>
 <interpGrp type="Naval Scenes &#x0026; Battles">
