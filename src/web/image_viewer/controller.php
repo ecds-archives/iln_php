@@ -6,14 +6,21 @@
 
 <?php
 include_once("../../config.php");
-$head = $_REQUEST["head"];
+include("../../common_functions.php");
+include_once("../../lib/xmlDbConnection.class.php");
+
 $id = $_REQUEST["id"];
-$width = $_REQUEST["width"];
-$height = $_REQUEST["height"];
+
+$exist_args{"debug"} = false;
+$xmldb = new xmlDbConnection($exist_args);
+$query = '//figure[@entity = "' . "$id" . '"]';
+$xmldb->xquery($query);
+$head = $xmldb->findNode("head");
+$width = $xmldb->findNode("@width");
+$height = $xmldb->findNode("@height");
 
 
 print "<h3>$head</h3>"; 
-
 
 // calculate image dimensions for each setting
 $dim_25 = "width=" . ($width*0.25) . "&height=" . ($height*0.25);
