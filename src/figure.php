@@ -22,7 +22,7 @@ print '</head>';
 $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
-$xquery = "/TEI.2//figure[@entity='" . $id . "']"; 
+$xquery = "//figure[@entity='" . $id . "']"; 
 
 if ($id) {
   // run the query 
@@ -31,25 +31,17 @@ if ($id) {
   print "<p class='error'>Error: No figure specified!</p>";
 }
 
-// retrieve values for head, width, & height
-$head = $xmldb->findNode("head");
-$head = urlencode($head);
-
+// retrieve values for width, & height
 $width = $xmldb->findNode("//figure/@width");
 $height = $xmldb->findNode("//figure/@height");
 
-//$width  = $tamino->xml->getTagAttribute("width", "ino:response/xql:result/figure");
-//$height = $tamino->xml->getTagAttribute("height", "ino:response/xql:result/figure"); 
-
-
-//$url = "http://vip.library.emory.edu/tamino/BECKCTR/ILN?_xql=/TEI.2//figure[@entity='" . $id ."']";
 
 // Now, create the frameset with controller & image window
 print "<frameset rows='150,*' border='0' >
  <frame noresize='true' marginwidth='0' framespacing='0' frameborder='no'
        border='0'
        marginheight='0' scrolling='no' name='control'
-       src='web/image_viewer/controller.php?head=$head&id=$id&width=$width&height=$height' />
+       src='web/image_viewer/controller.php?id=$id' />
 <frame noresize='true' marginwidth='0' framespacing='0' frameborder='no'
        border='0'
        marginheight='0'	name='image'
