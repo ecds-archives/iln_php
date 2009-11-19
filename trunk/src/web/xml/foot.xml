@@ -17,6 +17,19 @@ alt=" at "/>emory.edu</noscript> |
 <font face="Book Antiqua" size="2" color="#000000"><i>A 
           Joint Project by Sandra J. Still, Emily E. Katt, Collection Management, 
           and the Beck Center.</i></font></p>
-
+<p class="head">
+<a href="http://www.tei-c.org/"><img src="http://www.tei-c.org/About/Badges/powered-by-TEI.png" alt="Powered by TEI" border="0"/></a>
+</p>
+</div>
+<div class="tracking">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11023816-6");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 </div>
 

@@ -70,7 +70,7 @@ Staff</a>.</p>
 </div>
 
 <?php
-  include("xml/foot.xml");
+  include("web/xml/foot.xml");
 ?>
 
 </body>
