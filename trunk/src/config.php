@@ -1,12 +1,13 @@
 <?php
 
 /* Configuration settings for entire site */
-
-// set level of php error reporting -- turn off warnings when in production
-  error_reporting(E_ERROR | E_PARSE);
-//error_reporting(E_ERROR);	// for production
 $in_production = true;
-
+// set level of php error reporting -- turn off warnings when in production
+if($in_production) {
+  error_reporting(E_ERROR);	// for production
+ } else {
+  error_reporting(E_ERROR | E_PARSE);
+ }
 
 if($in_production) {
 // root directory and url where the website resides
