@@ -38,7 +38,8 @@ if ($date)
 
 // construct xquery
 //$declare = 'declare namespace xs="http://www.w3.org/2001/XMLSchema"; '; //Don't need?
-$xquery = "for \$a in /TEI.2/text/body/div1/div2$searchfilter2//figure$searchfilter
+ $xquery = "declare option exist:serialize 'highlight-matches=all';";
+$xquery .= "for \$a in /TEI.2/text/body/div1/div2$searchfilter2//figure$searchfilter
 let \$matchcount := text:match-count(\$a)
 let \$div2 := \$a/ancestor::div2
 return <div2>

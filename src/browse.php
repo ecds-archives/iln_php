@@ -15,8 +15,9 @@ $kw = $_GET["keyword"];
 $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 //$xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
- 
-$query = 'for $art in /TEI.2//div1/div2[@id = "' . "$id" . '"]';
+
+$query = "declare option exist:serialize 'highlight-matches=all';"; 
+$query .= 'for $art in /TEI.2//div1/div2[@id = "' . "$id" . '"]';
 if ($kw != '') {$query .= "[. |= \"$kw\"]";}
 $query .= 'let $hdr := root($art)/TEI.2/teiHeader
 let $previd := $art/preceding-sibling::div2[1]
