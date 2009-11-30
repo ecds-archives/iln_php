@@ -5,21 +5,25 @@
 // set level of php error reporting -- turn off warnings when in production
   error_reporting(E_ERROR | E_PARSE);
 //error_reporting(E_ERROR);	// for production
+$in_production = true;
 
+
+if($in_production) {
 // root directory and url where the website resides
+// production version
+$basedir = "/home/httpd/html/beck/iln";
+$server = "beck.library.emory.edu";
+$base_path = "/iln";
+$base_url = "http://$server$base_path/";
+$port = "7080";
+ } else {
+
 $server = "wilson.library.emory.edu";
 $base_path = "/~ahickco/iln";
 $basedir = "/home/ahickco/public_html/iln"; 
 $base_url = "http://$server$base_path"; 
-
-// root directory and url where the website resides
-// production version
-/* $basedir = "/home/httpd/html/beck/iln";
-$server = "beck.library.emory.edu";
-$base_path = "/iln";
-$base_url = "http://$server$base_path/";
-*/
-
+$port = "8080";
+ }
 // add basedir to the php include path (for header/footer files and lib directory)
 //set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib");
 
@@ -28,7 +32,7 @@ $base_url = "http://$server$base_path/";
 $cssfile = "web/css/schanges.css";
 $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 
-$port = "8080";
+
 $db = "iln";
 
 /*exist settings*/
