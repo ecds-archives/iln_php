@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>The Civil War: The Illustrated London News
 Perspective</title>
@@ -10,13 +9,9 @@ Perspective</title>
             </respStmt>
          </titleStmt>
          <extent/>         
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>2000 Emory University.
 Permission is granted to download, transmit, or otherwise reproduce,
 distribute or display the contributions to the work claimed by Emory
@@ -24,9 +19,7 @@ University for non-profit educational purposes, provided this header
 is included in its entirety.  For inquiries about commercial uses,
 contact the Lewis H. Beck Center, Woodruff Library, Emory University,
 Atlanta, Georgia 30322</p>
-            </availability>
-            <date>2005</date>
-         </publicationStmt>
+            </availability><date>2005</date></publicationStmt>
          <seriesStmt>
             <title>The Civil War: The Illustrated
 London News Perspective</title>
@@ -38,38 +31,30 @@ London News Perspective</title>
                <date>July to December 1864</date>
 	    </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p/>
          </projectDesc>
-      </encodingDesc>
-      <revisionDesc>
-	<change><date>October 2005</date>
-          <respStmt><name>Robin Conner, </name><resp>Beck Center Staff.</resp></respStmt>
-          <item>Encoded text according to TEI guidelines.</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+      </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>October 2005</date><label>Beck Center Staff.</label><name>Robin Conner, </name>Encoded text according to TEI guidelines.</change></revisionDesc></teiHeader>
 <text>
 <body>
-<div1 id="iln45.001" n="Illustrated London News: Volume 45" type="Volume"> 
+<div1 xml:id="iln45.001" n="Illustrated London News: Volume 45" type="Volume"> 
             <head>Illustrated London News: Volume 45</head>
 <docDate>July to December 1864</docDate>
 
-<div2 id="iln45.1266.001" n="The Deerhound Rescuing a Portion of the       Crew of the Alabama.--From a Sketch by Mr. Robert       Lancaster.--See Next Page." type="Illustration"><head>The Deerhound Rescuing a Portion of the       Crew of the Alabama.--From a Sketch by Mr. Robert       Lancaster.--See Next Page.</head>
+<div2 xml:id="iln45.1266.001" n="The Deerhound Rescuing a Portion of the       Crew of the Alabama.--From a Sketch by Mr. Robert       Lancaster.--See Next Page." type="Illustration"><head>The Deerhound Rescuing a Portion of the       Crew of the Alabama.--From a Sketch by Mr. Robert       Lancaster.--See Next Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1266</biblScope>
 <biblScope type="pages">p. 1</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1dtb</idno></bibl>
 <p>
-<figure entity="v45p1" ana="naval" width="811" height="619">
+<figure><graphic url="" ana="#naval" width="811px" height="619px"/>
 <head>The Deerhound Rescuing a Portion of the
       Crew of the Alabama.--From a Sketch by Mr. Robert
       Lancaster.--See Next Page.</head>
@@ -77,14 +62,14 @@ London News Perspective</title>
 </p>
 </div2>
 
-<div2 id="iln45.1266.002" n="The Fight Between the Alabama and the Kearsarge" type="Article">
+<div2 xml:id="iln45.1266.002" n="The Fight Between the Alabama and the Kearsarge" type="Article">
 <head>The Fight Between the Alabama and the Kearsarge</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1266</biblScope>
 <biblScope type="pages">p. 2</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>10 paragraphs</extent>
  
@@ -178,7 +163,7 @@ and would have raked had she not surrendered, which she had done, and
 was trying to get her flags down and showing a white flag over the
 stern. The officers of the Alabama on board the Kearsarge say that she
 was a complete slaughter-house, and was completely torn to
-pieces. This is all I know of the Alabama. Yours, &#x0026;c.,</p>
+pieces. This is all I know of the Alabama. Yours, &amp;c.,</p>
 <p rend="right"><hi rend="smallcaps">John A. Winslow</hi>,
 Captain.</p></q>
 <p>It may be observed that Captain Winslow does not mention the way in
@@ -261,14 +246,14 @@ as a go-between between Captain Winslow and persons he does not even
 name; nor can he understand how Captain Winslow can claim to hold
 prisoners within the territory of the French empire.</p></div2>
 
-<div2 id="iln45.1266.003" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1266.003" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1266</biblScope>
 <biblScope type="pages">p. 3</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>9 paragraphs</extent>
   
@@ -339,16 +324,16 @@ June 23, was adopted.</p>
 <p>More than 10,000 emigrants arrived at the port of New York in the
 week ending June 4.</p>
 <p>There had been a fall in the price of gold. At last accounts it
-was quoted at 95&#xBE; per cent premium.</p></div2>
+was quoted at 95¾ per cent premium.</p></div2>
 
-<div2 id="iln45.1266.004" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1266.004" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1266</biblScope>
 <biblScope type="pages">p. 7</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -375,52 +360,52 @@ do it in two places, by either subscribing to the memorial at
 Charing-cross or to the one at the little church of his native place
 which his fellow-townsmen are about to erect...</p></div2>
 
-<div2 id="iln45.1266.005" n="Kerbstone Stockbrokers in New York.--See       Page 11." type="Illustration"><head>Kerbstone Stockbrokers in New York.--See       Page 11.</head>
+<div2 xml:id="iln45.1266.005" n="Kerbstone Stockbrokers in New York.--See       Page 11." type="Illustration"><head>Kerbstone Stockbrokers in New York.--See       Page 11.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1266</biblScope>
 <biblScope type="pages">p. 8</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1dzr</idno></bibl>
 <p>
-<figure entity="v45p8" ana="street pg money" width="1289" height="891">
+<figure><graphic url="" ana="#street #pg #money" width="1289px" height="891px"/>
 <head>Kerbstone Stockbrokers in New York.--See
       Page 11.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1266.006" n="The Fight Between the Alabama and the       Kearsarge.--See Page 2." type="Illustration"><head>The Fight Between the Alabama and the       Kearsarge.--See Page 2.</head>
+<div2 xml:id="iln45.1266.006" n="The Fight Between the Alabama and the       Kearsarge.--See Page 2." type="Illustration"><head>The Fight Between the Alabama and the       Kearsarge.--See Page 2.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1266</biblScope>
 <biblScope type="pages">p. 9</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f0x</idno></bibl>
 <p>
-<figure entity="v45p9" ana="naval" width="1332" height="903">
+<figure><graphic url="" ana="#naval" width="1332px" height="903px"/>
 <head>The Fight between the Alabama and the
       Kearsarge.--See Page 2.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1266.007" n="Kerbstone Stockbrokers in New York" type="Article">
+<div2 xml:id="iln45.1266.007" n="Kerbstone Stockbrokers in New York" type="Article">
 <head>Kerbstone Stockbrokers in New York</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1266</biblScope>
 <biblScope type="pages">p. 11-12</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -475,7 +460,7 @@ throng of all varieties of character and grades of rank, from the
 the doors of the sale-rooms; and the first person who comes out is
 assailed with frantic shrieks of "What's Erie?" "How's Rock Island?"
 and, more than all, "Where's Gold?" These points having been
-ascertained, there is a furious mel&#xE9;e of pecuniary
+ascertained, there is a furious melée of pecuniary
 propositions; purchases and sales are transacted between individuals
 who, up to that moment, have never seen each other, and who may never
 meet again; for the gainer in the bargain does not always succeed next
@@ -494,14 +479,14 @@ whose joint enterprise has rendered the edifice a wonder of lettered
 iridescence. Warehouses of different descriptions continue the vista,
 and extend to the wharves along the southern and eastern sides of the city.</p></div2>
 
-<div2 id="iln45.1266.008" n="The American Mail Steamer at Roche's Point" type="Article">
+<div2 xml:id="iln45.1266.008" n="The American Mail Steamer at Roche's Point" type="Article">
 <head>The American Mail Steamer at Roche's Point</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1266</biblScope>
 <biblScope type="pages">p. 12</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -510,7 +495,7 @@ and extend to the wharves along the southern and eastern sides of the city.</p><
 <p><hi rend="smallcaps">Every </hi>reader of the London morning papers
 is accustomed at the present time to look for some exciting news of
 the American war in that column of large type and short paragraphs
-which is headed "By Electric and International Telegraph, vi&#xE2;
+which is headed "By Electric and International Telegraph, viâ
 Roche's Point," with the name, perhaps, of one of the Cunard line of
 steamers, which may be half way up St. George's Channel, on her way to
 Liverpool, at the moment when this intelligence meets the reader's
@@ -524,33 +509,33 @@ taken by the Jackal tender, which is also shown in our Engraving, and
 conveyed up the harbour to be forwarded by railway from
 Cork.</p></div2>
 
-<div2 id="iln45.1266.009" n="The Jackal Tender and Boats Going to Meet       the American Mail Steamer at Roche's Point, Near Queenstown." type="Illustration"><head>The Jackal Tender and Boats Going to Meet       the American Mail Steamer at Roche's Point, Near Queenstown.</head>
+<div2 xml:id="iln45.1266.009" n="The Jackal Tender and Boats Going to Meet       the American Mail Steamer at Roche's Point, Near Queenstown." type="Illustration"><head>The Jackal Tender and Boats Going to Meet       the American Mail Steamer at Roche's Point, Near Queenstown.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1266</biblScope>
 <biblScope type="pages">p. 12</biblScope>
-<date value="1864-07-02">July 2, 1864</date>
+<date when="1864-07-02">July 2, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f37</idno></bibl>
 <p>
-<figure entity="v45p12" ana="naval" width="830" height="535">
+<figure><graphic url="" ana="#naval" width="830px" height="535px"/>
 <head>The Jackal Tender and Boats Going to Meet
       the American Mail Steamer at Roche's Point, Near Queenstown.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1267.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1267.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1267</biblScope>
 <biblScope type="pages">p. 26-27</biblScope>
-<date value="1864-07-09">July 9, 1864</date>
+<date when="1864-07-09">July 9, 1864</date>
 
 <extent>14 paragraphs</extent>
  
@@ -615,7 +600,7 @@ Petersburg and Norfolk Railway. The ostensible motive was to cover
 this line of railway and more completely invest the city of
 Petersburg, but the ultimate object was to enable the Federal army to
 attack the Confederate position at a point almost due south of the
-town of Petersburg. For this man&#x153;uvre, however, the
+town of Petersburg. For this manœuvre, however, the
 Confederates were fully prepared. A strong force under Hill
 intercepted the advancing columns of the Federal right wing and
 repulsed them with heavy loss both of men and artillery. The following
@@ -671,17 +656,17 @@ oppressed go free.' A new prosperity will, in due season, follow that
 obedience, and her children rejoice that the curse that has rested so
 long upon her labour and hindered her growth is removed for ever.</q>
 <p>Since the passing of the Gold Bill gold had gone up to 230, but
-had declined again to 210. It stood at 219&#xBE; on the evening of
+had declined again to 210. It stood at 219¾ on the evening of
 the 25th ult.</p></div2>
 
-<div2 id="iln45.1267.002" n="The American war-steamer Kearsarge" type="Article">
+<div2 xml:id="iln45.1267.002" n="The American war-steamer Kearsarge" type="Article">
 <head>[The American War-Steamer Kearsarge]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1267</biblScope>
 <biblScope type="pages">p. 27</biblScope>
-<date value="1864-07-09">July 9, 1864</date>
+<date when="1864-07-09">July 9, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -689,14 +674,14 @@ the 25th ult.</p></div2>
 <p>The American war-steamer Kearsarge arrived in Dover Road on
 Wednesday evening.</p></div2>
 
-<div2 id="iln45.1267.003" n="Messrs. Sampson Low, Son, and Co." type="Article">
+<div2 xml:id="iln45.1267.003" n="Messrs. Sampson Low, Son, and Co." type="Article">
 <head>[Messrs. Sampson Low, Son, and Co.]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1267</biblScope>
 <biblScope type="pages">p. 27</biblScope>
-<date value="1864-07-09">July 9, 1864</date>
+<date when="1864-07-09">July 9, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -710,14 +695,14 @@ Cooper, Bancroft, Longfellow, Emerson, Kennedy, Bryant, Paulding,
 Hawthorne, Halleck, Holmes, Simms, Tuckerman, and Willis. The
 engraving is in the style known as "the line and stipple."</p></div2>
 
-<div2 id="iln45.1267.004" n="The returns compiled by the emigration agent" type="Article">
+<div2 xml:id="iln45.1267.004" n="The returns compiled by the emigration agent" type="Article">
 <head>[The Returns Compiled by the Emigration Agent]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1267</biblScope>
 <biblScope type="pages">p. 27</biblScope>
-<date value="1864-07-09">July 9, 1864</date>
+<date when="1864-07-09">July 9, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -743,14 +728,14 @@ corresponding month of the previous year of 2292. The total emigration
 from Liverpool for the quarter ending the 30th of June last was
 53,586; for the corresponding quarter of 1863, 54,044.</p></div2>
 
-<div2 id="iln45.1267.005" n="The Surgeon of the Alabama" type="Article">
+<div2 xml:id="iln45.1267.005" n="The Surgeon of the Alabama" type="Article">
 <head>The Surgeon of the Alabama</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1267</biblScope>
 <biblScope type="pages">p. 41</biblScope>
-<date value="1864-07-09">July 9, 1864</date>
+<date when="1864-07-09">July 9, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -795,33 +780,33 @@ he was born. The Portrait of him which we have engraved is from a
 photograph taken at the Maison Rideau, Cherbourg, on the Thursday
 before his death.</p></div2>
 
-<div2 id="iln45.1267.006" n="The Late David Herbert Llewellyn, Surgeon       Of The Alabama." type="Illustration"><head>The Late David Herbert Llewellyn, Surgeon       Of The Alabama.</head>
+<div2 xml:id="iln45.1267.006" n="The Late David Herbert Llewellyn, Surgeon       Of The Alabama." type="Illustration"><head>The Late David Herbert Llewellyn, Surgeon       Of The Alabama.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1267</biblScope>
 <biblScope type="pages">p. 41</biblScope>
-<date value="1864-07-09">July 9, 1864</date>
+<date when="1864-07-09">July 9, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1f9v</idno></bibl>
 <p>
-<figure entity="v45p41" ana="pic" width="526" height="585">
+<figure><graphic url="" ana="#pic" width="526px" height="585px"/>
 <head>The Late David Herbert Llewellyn, Surgeon
       of the Alabama.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1267.007" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1267.007" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1267</biblScope>
 <biblScope type="pages">p. 42</biblScope>
-<date value="1864-07-09">July 9, 1864</date>
+<date when="1864-07-09">July 9, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -835,7 +820,7 @@ champagne to subside; for the great author of "Spread Eagledom" is as
 wild as ever. "England," he says, and his subject was chosen by his
 audience, "is only a little province of France, and a revolution is
 coming there. When the Fenian brotherhood rises and fires its guns on
-the tops of the mountains," &#x0026;c. Silly brotherhood! why on the
+the tops of the mountains," &amp;c. Silly brotherhood! why on the
 tops of the mountains? Had they not better come down, and listen to
 the good sense of Mr. Justice Keogh and those true friends who would
 try to regenerate Ireland. The Roman Catholic clergy are beginning to
@@ -845,14 +830,14 @@ character of the Fenians is to quote the approval of them by Mr. Train
 and the Americans, who in their own battles invariably put the Irish
 recruit "in the front."...</p></div2>
 
-<div2 id="iln45.1267.008" n="The Magazines" type="Article">
+<div2 xml:id="iln45.1267.008" n="The Magazines" type="Article">
 <head>The Magazines</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1267</biblScope>
 <biblScope type="pages">p. 46</biblScope>
-<date value="1864-07-09">July 9, 1864</date>
+<date when="1864-07-09">July 9, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -895,14 +880,14 @@ of inspiration from a higher source as the indispensable condition
 of all success in art....</p></div2>
 
 
-<div2 id="iln45.1268.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1268.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1268</biblScope>
 <biblScope type="pages">p. 50-51</biblScope>
-<date value="1864-07-16">July 16, 1864</date>
+<date when="1864-07-16">July 16, 1864</date>
 
 <extent>23 paragraphs</extent>
  
@@ -1046,7 +1031,7 @@ fixed upon, the tax on whisky will be one dollar and a half per
 gallon after the 1st of July till the 1st of February next, after
 which it will be two dollars per gallon. On incomes the tax is 5 per
 cent on all over 600 dols. and not exceeding 5000 dols.; on incomes
-from 5000 dols. to 10,000 dols., 7&#xBD; per cent; exceeding 10,000
+from 5000 dols. to 10,000 dols., 7½ per cent; exceeding 10,000
 dollars, 10 per cent.</p>
 <p>In the House of Representatives the session was an excited one. The
 bill amendatory of the Enrolment Act was taken up. The principal point
@@ -1081,19 +1066,19 @@ will go into Missouri, the other portion left for Minnesota.</p>
 ult. the mercury mounted to 97 deg. in the shade. Several cases of
 sunstroke had occurred.</p></div2>
 
-<div2 id="iln45.1268.002" n="'Our Special Artist,' On Board the       Lilian, Running the Blockade into Wilmington Harbour, North       Carolina.--See Page 70." type="Illustration"><head>'Our Special Artist,' On Board the       Lilian, Running the Blockade into Wilmington Harbour, North       Carolina.--See Page 70.</head>
+<div2 xml:id="iln45.1268.002" n="'Our Special Artist,' On Board the       Lilian, Running the Blockade into Wilmington Harbour, North       Carolina.--See Page 70." type="Illustration"><head>'Our Special Artist,' On Board the       Lilian, Running the Blockade into Wilmington Harbour, North       Carolina.--See Page 70.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1268</biblScope>
 <biblScope type="pages">p. 60</biblScope>
-<date value="1864-07-16">July 16, 1864</date>
+<date when="1864-07-16">July 16, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1ff8</idno></bibl>
 <p>
-<figure entity="v45p60" ana="naval" width="818" height="612">
+<figure><graphic url="" ana="#naval" width="818px" height="612px"/>
 <head>"Our Special Artist," on Board the
       Lilian, Running the Blockade into Wilmington Harbour, North
       Carolina.--See Page 70.</head>
@@ -1101,14 +1086,14 @@ sunstroke had occurred.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1268.003" n="The steamer Wonder" type="Article">
+<div2 xml:id="iln45.1268.003" n="The steamer Wonder" type="Article">
 <head>[The Steamer Wonder]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1268</biblScope>
 <biblScope type="pages">p. 62</biblScope>
-<date value="1864-07-16">July 16, 1864</date>
+<date when="1864-07-16">July 16, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -1121,14 +1106,14 @@ Wednesday, in which the Kearsarge was disabled and put into Gorey. The
 Florida was brought up off Gorey, waiting to renew the
 engagement.</p></div2>
 
-<div2 id="iln45.1268.004" n="A letter from Calais" type="Article">
+<div2 xml:id="iln45.1268.004" n="A letter from Calais" type="Article">
 <head>[A Letter from Calais]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1268</biblScope>
 <biblScope type="pages">p. 62</biblScope>
-<date value="1864-07-16">July 16, 1864</date>
+<date when="1864-07-16">July 16, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -1142,14 +1127,14 @@ his appearance on board the vessel the captain warned him off without
 delay, as no such errand should be performed there. The <hi rend="italic">huissier</hi> had nothing else to do but retire and draw
 up a <hi rend="italic">proces-verbal</hi>.</p></div2>
 
-<div2 id="iln45.1268.005" n="Running the Blockade into the Port of       Wilmington, North Carolina" type="Article">
+<div2 xml:id="iln45.1268.005" n="Running the Blockade into the Port of       Wilmington, North Carolina" type="Article">
 <head>Running the Blockade into the Port of Wilmington, North Carolina</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1268</biblScope>
 <biblScope type="pages">p. 70</biblScope>
-<date value="1864-07-16">July 16, 1864</date>
+<date when="1864-07-16">July 16, 1864</date>
 
 <extent>4 paragraphs</extent>
   
@@ -1276,14 +1261,14 @@ had sent an average of three mails per month from Bermuda and Nassau
 into Secessia, and that in the whole time only two mails had been
 lost."</p></div2>
 
-<div2 id="iln45.1268.006" n="The New York Sun States" type="Article">
+<div2 xml:id="iln45.1268.006" n="The New York Sun States" type="Article">
 <head>[The New York Sun States]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1268</biblScope>
 <biblScope type="pages">p. 71</biblScope>
-<date value="1864-07-16">July 16, 1864</date>
+<date when="1864-07-16">July 16, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -1295,14 +1280,14 @@ upon inclined planes of wire suspended in the air. It is proposed to
 apply it to street railways, for crowded thoroughfares in populous
 cities.</p></div2>
 
-<div2 id="iln45.1268.007" n="Richmond" type="Article">
+<div2 xml:id="iln45.1268.007" n="Richmond" type="Article">
 <head>Richmond</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1268</biblScope>
 <biblScope type="pages">p. 71</biblScope>
-<date value="1864-07-16">July 16, 1864</date>
+<date when="1864-07-16">July 16, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -1327,7 +1312,7 @@ twenty-three churches. In one of the three Presbyterian churches
 Jefferson Davis worships. The falls of James River afford immense
 water-power, and there are very extensive factories, including four
 cotton and about fifty tobacco factories, flour mills, rolling mills,
-forges, furnaces, machine shops, &#x0026;c., the latter of which, and
+forges, furnaces, machine shops, &amp;c., the latter of which, and
 particularly the Tredegar Ironworks, have been of immense service to
 the rebels in turning out ordnance and material of war. The annual
 exports of Richmond before the rebellion reached nearly 7,000,000
@@ -1353,14 +1338,14 @@ extending a great distance, on the most important of which
 fortifications were erected in the days of the "On to Richmond"
 cry.--<hi rend="italic">New York Tribune.</hi></p></div2>
 
-<div2 id="iln45.1268.008" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1268.008" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1268</biblScope>
 <biblScope type="pages">p. 74</biblScope>
-<date value="1864-07-16">July 16, 1864</date>
+<date when="1864-07-16">July 16, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -1399,14 +1384,14 @@ them. Peace be to his ashes! A rabid Northerner at one time, he had
 honestly thought himself round to General Scott's opinion, and wanted
 to let the "wayward sisters go in peace."</p></div2>
 
-<div2 id="iln45.1270.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1270.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1270</biblScope>
 <biblScope type="pages">p. 82</biblScope>
-<date value="1864-07-23">July 23, 1864</date>
+<date when="1864-07-23">July 23, 1864</date>
 
 <extent>18 paragraphs</extent>
  
@@ -1505,7 +1490,7 @@ communication with the capital.</p>
 troops which the North in its present denuded condition could oppose
 to it, and it was believed that as soon as the offensive movement of
 the Confederates became developed in its true proportions the Federal
-Government would <sic corr="recall">recal</sic> Grant's whole army. No corps of observation
+Government would <choice><sic>recal</sic><corr>recall</corr></choice> Grant's whole army. No corps of observation
 which Grant might leave behind on embarking could hold its ground
 against a combined land and naval attack from Richmond.</p>
 <p>Nearly 3000 prisoners had been brought in from Wilson's corps, so
@@ -1556,20 +1541,20 @@ declared to be one only of self-preservation, and all intentions of
 conquest or of impeding the happiness and development of the Northern
 States is most distinctly disclaimed.</p></q></div2>
 
-<div2 id="iln45.1270.002" n="Newspaper Correspondents at the Seat of       War" type="Article">
+<div2 xml:id="iln45.1270.002" n="Newspaper Correspondents at the Seat of       War" type="Article">
 <head>Newspaper Correspondents at the Seat of War</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1270</biblScope>
 <biblScope type="pages">p. 83</biblScope>
-<date value="1864-07-23">July 23, 1864</date>
+<date when="1864-07-23">July 23, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fq3</idno></bibl>
 <p><hi rend="smallcaps">Newspaper Correspondents At The Seat Of
-War.</hi>--I was writing in my tent yesterday when a Mini&#xE9;
+War.</hi>--I was writing in my tent yesterday when a Minié
 bullet came whizzing through the canvas, passing just by Captain
 Bradly, Captain Zaft, and Lieutenant Dawkens, of General Wood's Staff,
 who were sitting inside. It completely disturbed my reflective powers
@@ -1584,14 +1569,14 @@ unceremonious shell came and took away his candle, leaving him a dark
 subject. Here we get accustomed to such things.--<hi rend="italic">New
 York Paper.</hi></p></div2>
 
-<div2 id="iln45.1270.003" n="A Baltimore paper says" type="Article">
+<div2 xml:id="iln45.1270.003" n="A Baltimore paper says" type="Article">
 <head>[A Baltimore Paper Says]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1270</biblScope>
 <biblScope type="pages">p. 90</biblScope>
-<date value="1864-07-23">July 23, 1864</date>
+<date when="1864-07-23">July 23, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -1606,14 +1591,14 @@ save the surrounding property. As the barrels burst, the oil spread
 over the water in a flame."</p>
 </div2>
 
-<div2 id="iln45.1270.103" n="A New York paper relates" type="Article">
+<div2 xml:id="iln45.1270.103" n="A New York paper relates" type="Article">
 <head>[A New York Paper Relates]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1270</biblScope>
 <biblScope type="pages">p. 90</biblScope>
-<date value="1864-07-23">July 23, 1864</date>
+<date when="1864-07-23">July 23, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -1630,14 +1615,14 @@ Parrott, and instantly killed. The very headboard he had unthinkingly
 inscribed with his own name was placed ever his grave, which, with
 date, correctly marks his resting-place.</p></div2>
 
-<div2 id="iln45.1270.004" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1270.004" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1270</biblScope>
 <biblScope type="pages">p. 91</biblScope>
-<date value="1864-07-23">July 23, 1864</date>
+<date when="1864-07-23">July 23, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -1675,14 +1660,14 @@ insult, and might form a basis for the peace party in America to work
 upon. There is nothing so heartless as red tape; could we not in this
 extremity do without it?</p></div2>
 
-<div2 id="iln45.1270.005" n="The Petroleum Oil-fields at Franklin, Pennsylvania." type="Article">
+<div2 xml:id="iln45.1270.005" n="The Petroleum Oil-fields at Franklin, Pennsylvania." type="Article">
 <head>The Petroleum Oil-Fields at Franklin, Pennsylvania</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1270</biblScope>
 <biblScope type="pages">p. 99</biblScope>
-<date value="1864-07-23">July 23, 1864</date>
+<date when="1864-07-23">July 23, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -1792,19 +1777,19 @@ introduction of this portable fuel will have a great effect upon the
 development of steam navigation. The Southall works alone can refine fifty
 thousand barrels yearly.</p></div2>
 
-<div2 id="iln45.1270.006" n="The Petroleum Oil Works at Franklin,       Pennsylvania.; Railway Station at the Franklin Petroleum Oil       Works.--See Preceding Page." type="Illustration"><head>The Petroleum Oil Works at Franklin,       Pennsylvania.; Railway Station at the Franklin Petroleum Oil       Works.--See Preceding Page.</head>
+<div2 xml:id="iln45.1270.006" n="The Petroleum Oil Works at Franklin,       Pennsylvania.; Railway Station at the Franklin Petroleum Oil       Works.--See Preceding Page." type="Illustration"><head>The Petroleum Oil Works at Franklin,       Pennsylvania.; Railway Station at the Franklin Petroleum Oil       Works.--See Preceding Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1270</biblScope>
 <biblScope type="pages">p. 100</biblScope>
-<date value="1864-07-23">July 23, 1864</date>
+<date when="1864-07-23">July 23, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1fwm</idno></bibl>
 <p>
-<figure entity="v45p100" ana="money land" width="887" height="1293">
+<figure><graphic url="" ana="#money #land" width="887px" height="1293px"/>
 <head>The Petroleum Oil Works at Franklin,
       Pennsylvania.; Railway Station at the Franklin Petroleum Oil
       Works.--See Preceding Page.</head>
@@ -1812,14 +1797,14 @@ thousand barrels yearly.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1270.007" n="The report brought by the steamer Wonder" type="Article">
+<div2 xml:id="iln45.1270.007" n="The report brought by the steamer Wonder" type="Article">
 <head>[The Report Brought by the Steamer Wonder]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1270</biblScope>
 <biblScope type="pages">p. 107</biblScope>
-<date value="1864-07-23">July 23, 1864</date>
+<date when="1864-07-23">July 23, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -1829,14 +1814,14 @@ the Kearsarge and the Florida, off Jersey, is false, as we were able
 to announce in a considerable part of our Impression last
 week.</p></div2>
 
-<div2 id="iln45.1271.001" n="Foreign and Colonial News" type="Article">
+<div2 xml:id="iln45.1271.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1271</biblScope>
 <biblScope type="pages">p. 110-111</biblScope>
-<date value="1864-07-30">July 30, 1864</date>
+<date when="1864-07-30">July 30, 1864</date>
 
 <extent>23 paragraphs</extent>
  
@@ -2058,8 +2043,8 @@ Excellent.</p></q>
 loan of 50,000,000 dols. until Sept. 1, to meet the immediate wants
 of Government; and it is stated that the bankers will accept the
 loan.</p>
-<p>Gold, after advancing to 280&#xBD;, closed on the 16th at
-254&#xBD;.</p>
+<p>Gold, after advancing to 280½, closed on the 16th at
+254½.</p>
 <p>The State Convention of Maryland, now in session at Annapolis, has
 adopted, by a large majority, a constitutional amendment declaring
 that "hereafter in this State there shall be neither slavery nor
@@ -2072,14 +2057,14 @@ hundred persons--principally Confederate prisoners, who were being
 conveyed to the camp at Elmira, New York--were killed or
 wounded.</p></div2>
 
-<div2 id="iln45.1271.002" n="Imperial Parliament" type="Article">
+<div2 xml:id="iln45.1271.002" n="Imperial Parliament" type="Article">
 <head>Imperial Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1271</biblScope>
 <biblScope type="pages">p. 119</biblScope>
-<date value="1864-07-30">July 30, 1864</date>
+<date when="1864-07-30">July 30, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -2144,14 +2129,14 @@ Commissioners should issue a warning, stating that it was not safe for
 the humbler people of England to go to America to find a home.--The
 motion was agreed to.</p></div2>
 
-<div2 id="iln45.1271.003" n="A story of almost unexampled horror" type="Article">
+<div2 xml:id="iln45.1271.003" n="A story of almost unexampled horror" type="Article">
 <head>[A Story of Almost Unexampled Horror]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1271</biblScope>
 <biblScope type="pages">p. 122</biblScope>
-<date value="1864-07-30">July 30, 1864</date>
+<date when="1864-07-30">July 30, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -2198,14 +2183,14 @@ upon them. At the last moment relief came. The French barque Claire,
 Robert master, discovered the raft, their signal fortunately flying,
 and dispatched a boat to their assistance.</p></div2>
 
-<div2 id="iln45.1271.004" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1271.004" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1271</biblScope>
 <biblScope type="pages">p. 127</biblScope>
-<date value="1864-07-30">July 30, 1864</date>
+<date when="1864-07-30">July 30, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -2235,14 +2220,14 @@ like Mr. Jeaffreson Brick, the war correspondent of the New York <hi rend="itali
 Victoria, seated, in the midst of her Guards, at her palace in the
 Tower of London."...</p></div2>
 
-<div2 id="iln45.1271.005" n="The Constitutional Crisis in Canada" type="Article">
+<div2 xml:id="iln45.1271.005" n="The Constitutional Crisis in Canada" type="Article">
 <head>The Constitutional Crisis in Canada</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1271</biblScope>
 <biblScope type="pages">p. 127</biblScope>
-<date value="1864-07-30">July 30, 1864</date>
+<date when="1864-07-30">July 30, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -2281,14 +2266,14 @@ fallen upon unheeding ears; nor do we fail to perceive that our most
 vulnerable point of contact with the United States is precisely the
 extended and exposed frontier of Canada....</p></div2>
 
-<div2 id="iln45.1271.006" n="The War In America.--Field's Texans       'Straggling to the Front.'" type="Article">
+<div2 xml:id="iln45.1271.006" n="The War In America.--Field's Texans       'Straggling to the Front.'" type="Article">
 <head>The War in America.--Field's Texans "Straggling to the Front"</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1271</biblScope>
 <biblScope type="pages">p. 127</biblScope>
-<date value="1864-07-30">July 30, 1864</date>
+<date when="1864-07-30">July 30, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -2344,19 +2329,19 @@ believe they will carry anything they are put against. We tried very
 hard to stop Pickett's men from capturing the breastworks of the
 enemy, but could not do it,"</p></div2>
 
-<div2 id="iln45.1271.007" n="The War in America: The Texans of       Longstreet's Corps Retaking the Outer Line of Intrenchments on       the South Side of the James River. From a Sketch by Our Special       Artist.--See Preceding Page." type="Illustration"><head>The War in America: The Texans of       Longstreet's Corps Retaking the Outer Line of Intrenchments on       the South Side of the James River. From a Sketch by Our Special       Artist.--See Preceding Page.</head>
+<div2 xml:id="iln45.1271.007" n="The War in America: The Texans of       Longstreet's Corps Retaking the Outer Line of Intrenchments on       the South Side of the James River. From a Sketch by Our Special       Artist.--See Preceding Page." type="Illustration"><head>The War in America: The Texans of       Longstreet's Corps Retaking the Outer Line of Intrenchments on       the South Side of the James River. From a Sketch by Our Special       Artist.--See Preceding Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1271</biblScope>
 <biblScope type="pages">p. 128</biblScope>
-<date value="1864-07-30">July 30, 1864</date>
+<date when="1864-07-30">July 30, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g5h</idno></bibl>
 <p>
-<figure entity="v45p128" ana="battle gray" width="822" height="577">
+<figure><graphic url="" ana="#battle #gray" width="822px" height="577px"/>
 <head>The War in America: The Texans of
       Longstreet's Corps Retaking the Outer Line of Intrenchments on
       the South Side of the James River. From a Sketch by Our Special
@@ -2365,14 +2350,14 @@ enemy, but could not do it,"</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1271.008" n="Current Literature" type="Article">
+<div2 xml:id="iln45.1271.008" n="Current Literature" type="Article">
 <head>Current Literature</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1271</biblScope>
 <biblScope type="pages">p. 128-129</biblScope>
-<date value="1864-07-30">July 30, 1864</date>
+<date when="1864-07-30">July 30, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -2392,7 +2377,7 @@ route in 1845," who could even put their finger upon the spot marked
 Colorado." Nevertheless, Colorado has certainly not yet been explored
 by travelling Englishmen, and the traveller should prick up his ears
 and snuff adventure or novelty from afar when Mr. Morris assures him
-"that if any <hi rend="italic">fl&#xFB;neur</hi> in London who is
+"that if any <hi rend="italic">flûneur</hi> in London who is
 weary of the perfumed airs of Bond-street, and has lost his taste for
 moors and stubbles, will cross the plains and pay <pb n="129"/>the
 Rocky Mountains a visit, he will return with a keener zest for the
@@ -2404,14 +2389,14 @@ will find Mr. Morris a very agreeable companion and guide "across the
 green prairies of Kansas and the sandy saharas of Nebraska" to the
 gold-fields of the Rocky Mountains.</p></div2>
 
-<div2 id="iln45.1272.001" n="Emigration to America" type="Article">
+<div2 xml:id="iln45.1272.001" n="Emigration to America" type="Article">
 <head>Emigration to America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 133-134</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>5 paragraphs</extent>
   
@@ -2473,7 +2458,7 @@ supply. Still, the Federal authorities fully acknowledge the injustice
 and the oppression of the practices of the recruiting which is going
 on, which, in the very nature of things, has fallen into the hands of
 agents of the vilest and most unscrupulous character. The military
-commandant of New York, the chief recruiting d&#xE9;p&#xF4;t, in
+commandant of New York, the chief recruiting dépôt, in
 his reports, has spoken of the circumstances under which men are
 obtained for service in the field in no measured terms. He says "that
 almost every imaginable form of outrage and deception has been
@@ -2493,7 +2478,7 @@ America, who, immediately on reaching that land of promise, of
 freedom, and of comparative wealth, are decoyed, cajoled, threatened,
 and, as the last resort, drugged, until they find themselves enlisted
 in the Federal army. They are at once conveyed to the
-d&#xE9;p&#xF4;t at Long Island, where they are, under the pretext
+dépôt at Long Island, where they are, under the pretext
 of undergoing the training which is indispensable to military
 discipline and the making of a soldier, subjected to cruelties,
 privations, and outrages which no one has yet ventured to chronicle in
@@ -2584,34 +2569,34 @@ small association for the dissemination in a readable form of the
 facts which Lord Edward Howard laid before the House of Commons might
 do much. Why should it not be tried?</p></div2>
 
-<div2 id="iln45.1272.107" n="The War in America: A Corps of the Confederate Army Marching by Night Through Burning Woods. &#x2014;From a Sketch by our Special Artist &#x2014;See Page 137." type="Illustration"><head>The War in America: A Corps of the Confederate Army Marching by Night Through Burning Woods. &#x2014;From a Sketch by our Special Artist &#x2014;See Page 137.</head>
+<div2 xml:id="iln45.1272.107" n="The War in America: A Corps of the Confederate Army Marching by Night Through Burning Woods. —From a Sketch by our Special Artist —See Page 137." type="Illustration"><head>The War in America: A Corps of the Confederate Army Marching by Night Through Burning Woods. —From a Sketch by our Special Artist —See Page 137.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1272</biblScope>
 <biblScope type="pages">p. 133</biblScope>
-<date value="1864-07-30">August 6, 1864</date>
+<date when="1864-07-30">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1g8t</idno></bibl>
 <p>
-<figure entity="v45p133" width="837" height="581" ana="skirm gray">
+<figure><graphic url="" width="837px" height="581px" ana="#skirm #gray"/>
 <head>The War in America: A Corps of the Confederate Army Marching by
-Night through Burning Woods. &#x2014;From a Sketch by Our Special
-Artist &#x2014;See Page 137.</head>
+Night through Burning Woods. —From a Sketch by Our Special
+Artist —See Page 137.</head>
 </figure>
 </p>
 </div2> 
 
-<div2 id="iln45.1272.002" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1272.002" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 134</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>12 paragraphs</extent>
  
@@ -2649,7 +2634,7 @@ however, without having somewhat harassed them, and capturing four
 guns and some stores. The militia called out in the midst of the alarm
 have been dismissed.</p>
 <p>There were rumours when the last mail left of a new Confederate
-invasion of Maryland vi&#xE2; Muddy Branch and Rockville. A Southern
+invasion of Maryland viâ Muddy Branch and Rockville. A Southern
 force of 5000 men was said to have again crossed the Potomac.</p>
 <p>The latest despatches also report the discovery of a conspiracy for
 the formation of a North-western Confederacy, embracing all the States
@@ -2690,16 +2675,16 @@ terms required by the New York banks for the proposed loan of fifty
 million dollars, and determined to offer a popular loan, the interest
 of which is to be paid in gold.</p>
 <p>Gold, upon the announcement of the occupation of Atlanta, declined
-to 251. The last quotation was 254&#xBE; Exchange 271.</p></div2>
+to 251. The last quotation was 254¾ Exchange 271.</p></div2>
 
-<div2 id="iln45.1272.003" n="The Blockade-Runner Lizzie" type="Article">
+<div2 xml:id="iln45.1272.003" n="The Blockade-Runner Lizzie" type="Article">
 <head>The Blockade-Runner Lizzie</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 136</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -2730,33 +2715,33 @@ builders have several steamers on the stocks, intended for the same
 trade, and all of them calculated for a high rate of speed. Our
 Engraving is from a drawing by Mr. Hugh Aird.</p></div2>
 
-<div2 id="iln45.1272.004" n="New Blockade-Runner Lizzie, Built in the       Clyde." type="Illustration"><head>New Blockade-Runner Lizzie, Built in the       Clyde.</head>
+<div2 xml:id="iln45.1272.004" n="New Blockade-Runner Lizzie, Built in the       Clyde." type="Illustration"><head>New Blockade-Runner Lizzie, Built in the       Clyde.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1272</biblScope>
 <biblScope type="pages">p. 136</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gc4</idno></bibl>
 <p>
-<figure entity="v45p136" ana="naval" width="822" height="435">
+<figure><graphic url="" ana="#naval" width="822px" height="435px"/>
 <head>New Blockade-Runner Lizzie, Built in the
       Clyde.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1272.005" n="The War in America: Night March Through       Burning Woods" type="Article">
+<div2 xml:id="iln45.1272.005" n="The War in America: Night March Through       Burning Woods" type="Article">
 <head>The War in America: Night March through Burning Woods</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 137-138</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -2782,14 +2767,14 @@ Richmond you meet with such fearful traces of the slaughter which the
 Federals suffered in their unsuccessful efforts to break through the
 Confederate lines."</p></div2>
 
-<div2 id="iln45.1272.006" n="London: Saturday, August 6, 1864" type="Article">
+<div2 xml:id="iln45.1272.006" n="London: Saturday, August 6, 1864" type="Article">
 <head>London: Saturday, August 6, 1864</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 138</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>6 paragraphs</extent>
   
@@ -2912,14 +2897,14 @@ of such disappointing tidings as have just arrived, we should not
 learn with hearty satisfaction that North and South had arranged a
 peace. May we soon have to record such a consummation.</p></div2>
 
-<div2 id="iln45.1272.007" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1272.007" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 139</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -2957,14 +2942,14 @@ successes to-day which either fade away into nothing, or, like those
 brilliant sunny landscapes in a magic lantern, suddenly change to all
 the gloom and horror of disaster and defeat....</p></div2>
 
-<div2 id="iln45.1272.008" n="Sketches in Parliament" type="Article">
+<div2 xml:id="iln45.1272.008" n="Sketches in Parliament" type="Article">
 <head>Sketches in Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 142</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3000,14 +2985,14 @@ first time, perhaps, in the annals of Parliament the Reporter's
 Gallery was directly addressed, the Speaker being for the time
 ignored....</p></div2>
 
-<div2 id="iln45.1272.009" n="Prorogation of Parliament" type="Article">
+<div2 xml:id="iln45.1272.009" n="Prorogation of Parliament" type="Article">
 <head>Prorogation of Parliament</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 142</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3019,14 +3004,14 @@ has not been brought to a close. Her Majesty will continue to observe
 a strict neutrality between the belligerents, and would rejoice at a
 friendly reconciliation between the contending parties.</p></div2>
 
-<div2 id="iln45.1272.010" n="The Magazines" type="Article">
+<div2 xml:id="iln45.1272.010" n="The Magazines" type="Article">
 <head>The Magazines</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 149-150</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3046,7 +3031,7 @@ to the groves of the Academy. Secluded amid woods and lakes, Emerson's
 friends enjoy whatever advantages flow from intercourse with Nature,
 while Boston is near enough for the collision of new ideas and the
 stimulus of the busy world. We are indebted to Mr. Conway for some
-delightful sketches &#x2014;of Emerson floating in his skiff on Lake Walden;
+delightful sketches —of Emerson floating in his skiff on Lake Walden;
 of the negroes welcoming Theodore Parkes with grateful tears as he
 passed amid their poor dwellings in Boston; of Hawthorne escaped from
 the party assembled to do him honour to a remote room, and there
@@ -3054,14 +3039,14 @@ discovered reading Defoe's "Ghost Stories;" of Alcott startling
 Agassiz with the theory that tigers and snakes were created by man
 "before he appeared in his present form."...</p></div2>
 
-<div2 id="iln45.1272.011" n="According to the monthly emigration returns" type="Article">
+<div2 xml:id="iln45.1272.011" n="According to the monthly emigration returns" type="Article">
 <head>[According to the Monthly Emigration Returns]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 151</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3096,14 +3081,14 @@ two ships and 34 passengers; and to Africa, one ship and 25
 passengers--making a total of twenty ships and 714
 passengers.</p></div2>
 
-<div2 id="iln45.1272.012" n="Immigration of unknown amount" type="Article">
+<div2 xml:id="iln45.1272.012" n="Immigration of unknown amount" type="Article">
 <head>[Immigration of Unknown Amount]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1272</biblScope>
 <biblScope type="pages">p. 154</biblScope>
-<date value="1864-08-06">August 6, 1864</date>
+<date when="1864-08-06">August 6, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3119,14 +3104,14 @@ United States. The emigration to that part of America has not been so
 great in the June quarter since 1854. Almost nine tenths of the Irish
 emigrants left for the United States.</p></div2>
 
-<div2 id="iln45.1273.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1273.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1273</biblScope>
 <biblScope type="pages">p. 158-159</biblScope>
-<date value="1864-08-13">August 13, 1864</date>
+<date when="1864-08-13">August 13, 1864</date>
 
 <extent>6 paragraphs</extent>
   
@@ -3181,19 +3166,19 @@ had, it as stated, been armed by the Federal authorities.</p>
 200,000,000 dols. in Treasury notes, bearing 7 3-tenths per cent
 interest in "greenbacks," and convertible at the end of three years
 into bonds bearing six per cent interest, payable in gold.</p>
-<p>Gold at New York on July 30 was 255&#xBE;.</p>
+<p>Gold at New York on July 30 was 255¾.</p>
 <p>A board of naval officers had decided that the men rescued from the
 Alabama by the Deerhound were prisoners of war, and the Washington
 Government had approved the decision.</p></div2>
 
-<div2 id="iln45.1273.002" n="Latest News from Abroad" type="Article">
+<div2 xml:id="iln45.1273.002" n="Latest News from Abroad" type="Article">
 <head>Latest News from Abroad</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1273</biblScope>
 <biblScope type="pages">p. 159</biblScope>
-<date value="1864-08-13">August 13, 1864</date>
+<date when="1864-08-13">August 13, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -3207,14 +3192,14 @@ assaulted and carried a line of Confederate intrenchments. An entire
 regiment was destroyed, together with the fort. The battle was still
 progressing on Saturday at noon.</p></div2>
 
-<div2 id="iln45.1273.003" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1273.003" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1273</biblScope>
 <biblScope type="pages">p. 166</biblScope>
-<date value="1864-08-13">August 13, 1864</date>
+<date when="1864-08-13">August 13, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3240,14 +3225,14 @@ Britain to the United States. Here, then, is a very pretty little bone
 for John Bull and Uncle Sam to amuse themselves in
 picking....</p></div2>
 
-<div2 id="iln45.1273.004" n="Current Literature" type="Article">
+<div2 xml:id="iln45.1273.004" n="Current Literature" type="Article">
 <head>Current Literature</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1273</biblScope>
 <biblScope type="pages">p. 174</biblScope>
-<date value="1864-08-13">August 13, 1864</date>
+<date when="1864-08-13">August 13, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3341,14 +3326,14 @@ human labour--so much subsistence for human beings--should have been
 ruthlessly sunk in the barren sea, Captain Semmes is ready with a
 justification....</p></div2>
 
-<div2 id="iln45.1273.005" n="The custom-house authorities" type="Article">
+<div2 xml:id="iln45.1273.005" n="The custom-house authorities" type="Article">
 <head>[The Custom-House Authorities]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1273</biblScope>
 <biblScope type="pages">p. 175</biblScope>
-<date value="1864-08-13">August 13, 1864</date>
+<date when="1864-08-13">August 13, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3362,14 +3347,14 @@ them. One of the officers, in examining the eggs, scraped off a little
 varnish and disclosed a metallic case, egg-shaped, filed with
 opium. Each egg is worth 300 dols.</p></div2>
 
-<div2 id="iln45.1273.006" n="The Government Emigration Commissioners" type="Article">
+<div2 xml:id="iln45.1273.006" n="The Government Emigration Commissioners" type="Article">
 <head>[The Government Emigration Commissioners]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1273</biblScope>
 <biblScope type="pages">p. 178</biblScope>
-<date value="1864-08-13">August 13, 1864</date>
+<date when="1864-08-13">August 13, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3389,7 +3374,7 @@ in buying in this country, or on board ship, 'Inland passage-tickets'
 for travelling in the United States, as you may find them useless on
 your arrival in America. You will obtain them cheaper, and run no risk
 of imposition, by getting them at Castle Garden, New York. Do not
-trust to strangers, whose <sic corr="object">sbject</sic> in offering you assistance is either
+trust to strangers, whose <choice><sic>sbject</sic><corr>object</corr></choice> in offering you assistance is either
 to entrap you into enlisting, or to gain your confidence for the
 purpose of defrauding you of your money. Do not accept invitations
 from strangers to drink, and be especially careful not to get drunk,
@@ -3402,14 +3387,14 @@ necessaries of life as they would formerly buy. By order of her
 Majesty's Emigration Commissioners, S. <hi rend="smallcaps">Walcott.</hi>--Government Emigration Board, 8,
 Park-street, Westminster, August, 1864."</p></div2>
 
-<div2 id="iln45.1273.007" n="Mr. Antrobus" type="Article">
+<div2 xml:id="iln45.1273.007" n="Mr. Antrobus" type="Article">
 <head>[Mr. Antrobus]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1273</biblScope>
 <biblScope type="pages">p. 179</biblScope>
-<date value="1864-08-13">August 13, 1864</date>
+<date when="1864-08-13">August 13, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3426,14 +3411,14 @@ Port Louis, Island of Mauritius, for the King of the Belgians; and
 Mr. Nicholas L. Humphrey as Consul at Trinidad for the United States
 of America.</p></div2>
 
-<div2 id="iln45.1274.001" n="America--North and South" type="Article">
+<div2 xml:id="iln45.1274.001" n="America--North and South" type="Article">
 <head>America--North and South</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1274</biblScope>
 <biblScope type="pages">p. 181-182</biblScope>
-<date value="1864-08-20">August 20, 1864</date>
+<date when="1864-08-20">August 20, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -3569,7 +3554,7 @@ never been sufficient to carry out the only strategy which could have
 been successful. If hostilities continue, the war must resolve itself
 into one of extermination. A time must come when men must be wanting
 to carry on so sanguinary a contest--nay, a time must come when the
-means of obtaining men and mat&#xE9;riel must fail; and the moment of
+means of obtaining men and matériel must fail; and the moment of
 exhaustion is not that when negotiation can be carried on upon terms
 consistent either with mutual fairness or mutual dignity. As we have
 said, we think the present juncture one when the voice of reason, of
@@ -3578,14 +3563,14 @@ putting an end to a struggle such as the world never yet saw, and
 which, whatever may be its issue, generations yet to come will have
 to deplore.</p></div2>
 
-<div2 id="iln45.1274.002" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1274.002" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1274</biblScope>
 <biblScope type="pages">p. 182</biblScope>
-<date value="1864-08-20">August 20, 1864</date>
+<date when="1864-08-20">August 20, 1864</date>
 
 <extent>7 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1gzw</idno></bibl>
@@ -3599,7 +3584,7 @@ and captured.</p>
 considered the key of the Confederate intrenchments. The works were
 begun on the 28th of June, under the direction of Colonel Pleasants, a
 Pennsylvanian engineer of repute; and on the 28th of July all was
-ready. A tunnel 500 ft. in length, 5&#xBD; ft. in height, and 4 ft. in width
+ready. A tunnel 500 ft. in length, 5½ ft. in height, and 4 ft. in width
 at the bottom, had been bored. The mine under the fort was charged
 with six tons of gunpowder. When the work was finished, Grant, in
 order to distract the attention of the enemy, transferred a portion of
@@ -3665,14 +3650,14 @@ Southern papers regard Vance's election as an endorsement by he people
 of North Carolina of the policy of the Richmond Government.</p>
 <p>Gold has gone up to 260.</p></div2>
 
-<div2 id="iln45.1274.003" n="A California journal thus states" type="Article">
+<div2 xml:id="iln45.1274.003" n="A California journal thus states" type="Article">
 <head>[A California Journal thus States]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1274</biblScope>
 <biblScope type="pages">p. 183</biblScope>
-<date value="1864-08-20">August 20, 1864</date>
+<date when="1864-08-20">August 20, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3682,33 +3667,33 @@ that State suffers:--"What she needs most to-day is rain; what she
 wants to-morrow is 75,000 women to mate off the extra male
 population."</p></div2>
 
-<div2 id="iln45.1274.004" n="The War in America: View of Petersburg,       Virginia.--See Page 191." type="Illustration"><head>The War in America: View of Petersburg,       Virginia.--See Page 191.</head>
+<div2 xml:id="iln45.1274.004" n="The War in America: View of Petersburg,       Virginia.--See Page 191." type="Illustration"><head>The War in America: View of Petersburg,       Virginia.--See Page 191.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1274</biblScope>
 <biblScope type="pages">p. 185</biblScope>
-<date value="1864-08-20">August 20, 1864</date>
+<date when="1864-08-20">August 20, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h15</idno></bibl>
 <p>
-<figure entity="v45p185" ana="peter" width="857" height="596">
+<figure><graphic url="" ana="#peter" width="857px" height="596px"/>
 <head>The War in America: View of Petersburg,
       Virginia.--See Page 191.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1274.005" n="The War in America: The Town of       Petersburg, Virginia" type="Article">
+<div2 xml:id="iln45.1274.005" n="The War in America: The Town of       Petersburg, Virginia" type="Article">
 <head>The War in America: The Town of Petersburg, Virginia</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1274</biblScope>
 <biblScope type="pages">p. 191-193</biblScope>
-<date value="1864-08-20">August 20, 1864</date>
+<date when="1864-08-20">August 20, 1864</date>
 
 <extent>3 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h28</idno></bibl>
@@ -3763,14 +3748,14 @@ Bolingbroke House. A great part of Petersburg stands on high ground,
 much exposed to the fire from neighbouring hills.</p>
 <p>General Winfield Scott is a native of Petersburg.</p></div2>
 
-<div2 id="iln45.1275.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1275.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1275</biblScope>
 <biblScope type="pages">p. 206</biblScope>
-<date value="1864-08-27">August 27, 1864</date>
+<date when="1864-08-27">August 27, 1864</date>
 
 <extent>18 paragraphs</extent>
  
@@ -3874,7 +3859,7 @@ Canal.</p>
 <p>It is also asserted that Mr. Stanton, the Secretary for War, has
 tendered his resignation.</p>
 <p>The New York police, in conjunction with the English detectives,
-have made every arrangement to arrest M&#xFC;ller on his
+have made every arrangement to arrest Müller on his
 arrival.</p>
 <p>The Southern papers announce the appointment of the Hon. George
 A. Trenholm as Secretary of the Treasury, in the place of the
@@ -3901,21 +3886,21 @@ by the Niagara. A prize crew was put on board, and she was sent to New
 York, while the Niagara steered for the British Channel, and has landed
 her prize's men at Dover.</p></div2>
 
-<div2 id="iln45.1275.002" n="Latest News from Abroad" type="Article">
+<div2 xml:id="iln45.1275.002" n="Latest News from Abroad" type="Article">
 <head>Latest News from Abroad</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1275</biblScope>
 <biblScope type="pages">p. 207</biblScope>
-<date value="1864-08-27">August 27, 1864</date>
+<date when="1864-08-27">August 27, 1864</date>
 
 <extent>11 paragraphs</extent>    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1h4g</idno></bibl>
 <p rend="center">LATEST NEWS FROM ABROAD.</p>
 <p>The following telegram has been received through Mr. Reuter's
 office:--</p>
-<p rend="center">AMERICA.<lb/>(Per the St. David, vi&#xE2;
+<p rend="center">AMERICA.<lb/>(Per the St. David, viâ
 Greencastle.)</p>
 <p rend="right"><hi rend="smallcaps">New York</hi>, Aug. 12,
 Evening.</p>
@@ -3955,14 +3940,14 @@ Hook. She has captured a pilot-boat.</p>
 <p>The Persia has arrived out.</p>
 <p>Gold, 155 per cent premium.</p></div2>
 
-<div2 id="iln45.1275.003" n="The differences" type="Article">
+<div2 xml:id="iln45.1275.003" n="The differences" type="Article">
 <head>[The Differences]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1275</biblScope>
 <biblScope type="pages">p. 207</biblScope>
-<date value="1864-08-27">August 27, 1864</date>
+<date when="1864-08-27">August 27, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3971,14 +3956,14 @@ Hook. She has captured a pilot-boat.</p>
 Government have been settled, and the former has resumed his
 relations with the Government.</p></div2>
 
-<div2 id="iln45.1275.004" n="London: Saturday, August 27, 1864" type="Article">
+<div2 xml:id="iln45.1275.004" n="London: Saturday, August 27, 1864" type="Article">
 <head>London: Saturday, August 27, 1864</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1275</biblScope>
 <biblScope type="pages">p. 210</biblScope>
-<date value="1864-08-27">August 27, 1864</date>
+<date when="1864-08-27">August 27, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -3997,14 +3982,14 @@ South, and rush into the affray out of which we have kept so long? The
 future will decide all these questions; our present duty is to "write
 and be thankful" for a new topic in this dreary season.</p></div2>
 
-<div2 id="iln45.1275.005" n="On Thursday a marriage of considerable interest" type="Article">
+<div2 xml:id="iln45.1275.005" n="On Thursday a marriage of considerable interest" type="Article">
 <head>[On Thursday a Marriage of Considerable Interest]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1275</biblScope>
 <biblScope type="pages">p. 211</biblScope>
-<date value="1864-08-27">August 27, 1864</date>
+<date when="1864-08-27">August 27, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4035,14 +4020,14 @@ the bride having succeeded in withdrawing her lover from his
 allegiance to the United States flag, and enlisted his sympathies and
 support for the South.</p></div2>
 
-<div2 id="iln45.1275.006" n="The Commissioners of Customs" type="Article">
+<div2 xml:id="iln45.1275.006" n="The Commissioners of Customs" type="Article">
 <head>[The Commissioners of Customs]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1275</biblScope>
 <biblScope type="pages">p. 222</biblScope>
-<date value="1864-08-27">August 27, 1864</date>
+<date when="1864-08-27">August 27, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4055,14 +4040,14 @@ of her Majesty's ports for the purpose of being dismantled or
 sold."</p>
 </div2>
 
-<div2 id="iln45.1275.007" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1275.007" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1275</biblScope>
 <biblScope type="pages">p. 222</biblScope>
-<date value="1864-08-27">August 27, 1864</date>
+<date when="1864-08-27">August 27, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -4118,14 +4103,14 @@ mild and popular series of essays are to be carefully removed. Let us
 hope that this will not be the case with all our outspoken and
 vigorous writers....</p></div2>
 
-<div2 id="iln45.1276.001" n="Foreign and Colonial News" type="Article">
+<div2 xml:id="iln45.1276.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1276</biblScope>
 <biblScope type="pages">p. 230-231</biblScope>
-<date value="1864-09-03">September 3, 1864</date>
+<date when="1864-09-03">September 3, 1864</date>
 
 <extent>15 paragraphs</extent>
  
@@ -4170,7 +4155,7 @@ Merritt's cavalry was attacked by a Confederate force, and that
 after<pb n="231"/> a sharp fight the latter was routed, leaving 300
 prisoners. It having subsequently been ascertained that heavy
 reinforcements had reached General Early, and that the Confederates
-were man&#x153;uvring to get in the Federal rear, General Sheridan
+were manœuvring to get in the Federal rear, General Sheridan
 fell back from Strasburg to Berryville. While the retrograde movement
 was being executed, Sheridan's rear-guard was overtaken near
 Winchester by the Confederate advance, under Breckenridge, and
@@ -4259,14 +4244,14 @@ the boarding officer. The crew are dressed in rags and tatters. Some
 of them wear their pistols tied to them with Manilla rope yarns. They
 are a hard-looking set.</p></q></div2>
 
-<div2 id="iln45.1276.002" n="The Engraving of the Lizzie" type="Article">
+<div2 xml:id="iln45.1276.002" n="The Engraving of the Lizzie" type="Article">
 <head>[The Engraving of the Lizzie]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1276</biblScope>
 <biblScope type="pages">p. 235</biblScope>
-<date value="1864-09-03">September 3, 1864</date>
+<date when="1864-09-03">September 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4277,19 +4262,19 @@ photograph of the oil painting executed by Mr. Samuel H. Fyfe, of 127,
 Paisley-road, Glasgow, for the builders of the vessel,
 Messrs. Henderson, Coulborn, and Co., of Renfrew.</p></div2>
 
-<div2 id="iln45.1276.003" n="The War in America: View of Petersburg and its Suburbs from       General Lee's Head-Quarters.--From a Sketch by our Special       Artist.--See Next Page." type="Illustration"><head>The War in America: View of Petersburg and its Suburbs from       General Lee's Head-Quarters.--From a Sketch by our Special       Artist.--See Next Page.</head>
+<div2 xml:id="iln45.1276.003" n="The War in America: View of Petersburg and its Suburbs from       General Lee's Head-Quarters.--From a Sketch by our Special       Artist.--See Next Page." type="Illustration"><head>The War in America: View of Petersburg and its Suburbs from       General Lee's Head-Quarters.--From a Sketch by our Special       Artist.--See Next Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1276</biblScope>
 <biblScope type="pages">p. 236-237</biblScope>
-<date value="1864-09-03">September 3, 1864</date>
+<date when="1864-09-03">September 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hd9</idno></bibl>
 <p>
-<figure entity="v45p236-237" ana="peter gray" width="2466" height="1840">
+<figure><graphic url="" ana="#peter #gray" width="2466px" height="1840px"/>
 <head>The War in America: View of Petersburg and Its Suburbs from
       General Lee's Head-Quarters.--From a Sketch by Our Special
       Artist.--See Next Page.</head>
@@ -4297,14 +4282,14 @@ Messrs. Henderson, Coulborn, and Co., of Renfrew.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1276.004" n="View of Petersburg, Virginia, from       General Lee's Head-Quarters" type="Article">
+<div2 xml:id="iln45.1276.004" n="View of Petersburg, Virginia, from       General Lee's Head-Quarters" type="Article">
 <head>View of Petersburg, Virginia, from General Lee's Head-Quarters</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1276</biblScope>
 <biblScope type="pages">p. 238</biblScope>
-<date value="1864-09-03">September 3, 1864</date>
+<date when="1864-09-03">September 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4335,14 +4320,14 @@ of wood which surrounds Petersburg. The men of the advanced posts on
 both sides would sometimes leave off shooting at each other, come
 forward, and have a friendly talk.</p></div2>
 
-<div2 id="iln45.1276.005" n="A prisoner of war advertises" type="Article">
+<div2 xml:id="iln45.1276.005" n="A prisoner of war advertises" type="Article">
 <head>[A Prisoner of War Advertises]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1276</biblScope>
 <biblScope type="pages">p. 246</biblScope>
-<date value="1864-09-03">September 3, 1864</date>
+<date when="1864-09-03">September 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4358,14 +4343,14 @@ period. Address me at Block 1, Room 12. Johnson's Island Military
 Prison, at any time for the next three years, inclosing half a dozen
 postage-stamps.--<hi rend="smallcaps">Asa Hartz</hi>."</p></div2>
 
-<div2 id="iln45.1277.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1277.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1277</biblScope>
 <biblScope type="pages">p. 254</biblScope>
-<date value="1864-09-10">September 10, 1864</date>
+<date when="1864-09-10">September 10, 1864</date>
 
 <extent>9 paragraphs</extent>
   
@@ -4418,24 +4403,24 @@ President Lincoln and General Fremont to withdraw their names as
 presidential candidates, and to call a convention to nominate a fresh
 Republican candidate. General Fremont has consented to withdraw if
 President Lincoln will do so also.</p>
-<p>The Victoria, the London packet-ship which had Franz M&#xFC;ller,
+<p>The Victoria, the London packet-ship which had Franz Müller,
 the suspected murderer of Mr. Briggs, on board, arrived at New York
-on the 24th ult. M&#xFC;ller was apprehended, and the hat and watch
+on the 24th ult. Müller was apprehended, and the hat and watch
 of Mr. Briggs were found in his possession. Nevertheless, he protested
 his innocence. Mr. Death, of Cheapside, jeweller, identified
-M&#xFC;ller positively as being the man who bartered Mr. Brigg's
+Müller positively as being the man who bartered Mr. Brigg's
 chain with him; and the cabman, Matthews, also swore to his
 identity. The legal proceedings precedent to his extradition for trial
 in England were progressing on the 27th ult.</p></div2>
 
-<div2 id="iln45.1277.002" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1277.002" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1277</biblScope>
 <biblScope type="pages">p. 255</biblScope>
-<date value="1864-09-10">September 10, 1864</date>
+<date when="1864-09-10">September 10, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -4471,14 +4456,14 @@ reference to depth of view or method of treatment, we have heard
 dwellers in America--nay, Americans themselves--attest their
 photographic truth....</p></div2>
 
-<div2 id="iln45.1277.003" n="London: Saturday, September 10" type="Article">
+<div2 xml:id="iln45.1277.003" n="London: Saturday, September 10" type="Article">
 <head>London: Saturday, September 10</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1277</biblScope>
 <biblScope type="pages">p. 258</biblScope>
-<date value="1864-09-10">September 10, 1864</date>
+<date when="1864-09-10">September 10, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -4568,14 +4553,14 @@ of the world will forgive them any deficiency in dignity which may
 seem to attach to them because they have not been influenced by some
 high-wrought notion of abstract principle.</p></div2>
 
-<div2 id="iln45.1277.004" n="A room just completed" type="Article">
+<div2 xml:id="iln45.1277.004" n="A room just completed" type="Article">
 <head>[A Room Just Completed]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1277</biblScope>
 <biblScope type="pages">p. 263</biblScope>
-<date value="1864-09-10">September 10, 1864</date>
+<date when="1864-09-10">September 10, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4586,14 +4571,14 @@ emptying a salver of coin upon the heads of a bull and a bear--the
 latter hugging the pieces to the earth, while the former tosses them
 in the air.</p></div2>
 
-<div2 id="iln45.1278.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1278.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1278</biblScope>
 <biblScope type="pages">p. 278</biblScope>
-<date value="1864-09-17">September 17, 1864</date>
+<date when="1864-09-17">September 17, 1864</date>
 
 <extent>11 paragraphs</extent>
  
@@ -4644,37 +4629,37 @@ called the Thayer Professorship, and that of Political Economy the
 Tileston Professorship.</p>
 <p rend="center"><hi rend="smallcaps">Extradition Of Muller.</hi></p>
 <p>On the 27th ult., the hearing of the extradition case of
-M&#xFC;ller, charged with the murder of Mr. Briggs, was resumed
+Müller, charged with the murder of Mr. Briggs, was resumed
 before the United States Commissioner Newton. The British Government
 was represented by Mr. F. F. Marbury, as on the previous day; while
 Messrs. Chauncey Schaffer and E. Blankman appeared for the
 prisoner. The court was thronged with spectators anxious to obtain a
 view of the accused, who sat with an unmoved
 countenance. Mr. Schaffer, for the defence, maintained that as yet
-there was nothing to justify M&#xFC;ller's committal. The accused
+there was nothing to justify Müller's committal. The accused
 being a foreigner, he contended that the treaty under which the
 extradition was demanded had been suspended, and he also adverted to
 the Florida as being a pirate sent out by English subjects. Inspector
 Tanner having been re-examined as to the height of the prisoner,
-Mr. Schaffer endeavoured to show that M&#xFC;ller could not be one
+Mr. Schaffer endeavoured to show that Müller could not be one
 of the two men seen in the compartment with Mr. Briggs on the night of
 the murder. Commissioner Newton then delivered his decision, stating
 that, under the circumstances, he was constrained to grant a
 certificate, and commit the prisoner, being satisfied as to his
 guilt.</p>
-<p>M&#xFC;ller was given into the custody of Inspector Tanner, and
+<p>Müller was given into the custody of Inspector Tanner, and
 left New York on the 3rd inst., in the Etna, which will, no doubt,
 arrive in England before this Number is in our readers'
 hands.</p></div2>
 
-<div2 id="iln45.1278.002" n="For the future" type="Article">
+<div2 xml:id="iln45.1278.002" n="For the future" type="Article">
 <head>[For the Future]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1278</biblScope>
 <biblScope type="pages">p. 283</biblScope>
-<date value="1864-09-17">September 17, 1864</date>
+<date when="1864-09-17">September 17, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -4687,14 +4672,14 @@ Foreign Office intimating that the case of the seizure of that vessel
 must go before the American prize-court, and that the owner must be
 prepared to defend his interests in that court.</p></div2>
 
-<div2 id="iln45.1278.003" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1278.003" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1278</biblScope>
 <biblScope type="pages">p. 283</biblScope>
-<date value="1864-09-17">September 17, 1864</date>
+<date when="1864-09-17">September 17, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -4702,7 +4687,7 @@ prepared to defend his interests in that court.</p></div2>
 
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...Talking about oratory, what a display was that in New York the
-other day on the extradition case of Herr Franz M&#xFC;ller! How
+other day on the extradition case of Herr Franz Müller! How
 admirably logical was Mr. Chauncey Shaffer, who, we are told, once
 drew and discharged a pistol at the presiding Judge, just to bring him
 to a speedy and pleasant decision on the side of the irate counsel!
@@ -4748,14 +4733,14 @@ come; and the worst of it is that the expenses are still running on,
 and, so far as we can see, there is little, if anything, done to stop
 them....</p></div2>
 
-<div2 id="iln45.1278.004" n="Enlistment of Irish and German Emigrants       on the Battery, at New York" type="Article">
+<div2 xml:id="iln45.1278.004" n="Enlistment of Irish and German Emigrants       on the Battery, at New York" type="Article">
 <head>Enlistment of Irish and German Emigrants on the Battery, at New York</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1278</biblScope>
 <biblScope type="pages">p. 285</biblScope>
-<date value="1864-09-17">September 17, 1864</date>
+<date when="1864-09-17">September 17, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4800,14 +4785,14 @@ nude, but always provided with the contingent remainder of a cigar,
 and evidently quite aware that there is no legal barrier between him
 and the Presidential chair at the White House.</p></div2>
 
-<div2 id="iln45.1278.005" n="Master Willie Pape" type="Article">
+<div2 xml:id="iln45.1278.005" n="Master Willie Pape" type="Article">
 <head>[Master Willie Pape]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1278</biblScope>
 <biblScope type="pages">p. 286</biblScope>
-<date value="1864-09-17">September 17, 1864</date>
+<date when="1864-09-17">September 17, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4818,14 +4803,14 @@ through the seacoast towns, where he has met with the most marked
 success. Master Pape appears at Scarborough and Whitby on the 21st and
 23rd inst.</p></div2>
 
-<div2 id="iln45.1278.006" n="In the year 1830" type="Article">
+<div2 xml:id="iln45.1278.006" n="In the year 1830" type="Article">
 <head>[In the Year 1830]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1278</biblScope>
 <biblScope type="pages">p. 287</biblScope>
-<date value="1864-09-17">September 17, 1864</date>
+<date when="1864-09-17">September 17, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4834,14 +4819,14 @@ success. Master Pape appears at Scarborough and Whitby on the 21st and
 Chicago was incorporated into a city, and in 1840 the population had
 increased to 4853. It now numbers not far from 170,000.</p></div2>
 
-<div2 id="iln45.1278.007" n="Upwards of fifty Cornish miners" type="Article">
+<div2 xml:id="iln45.1278.007" n="Upwards of fifty Cornish miners" type="Article">
 <head>[Upwards of Fifty Cornish Miners]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1278</biblScope>
 <biblScope type="pages">p. 287</biblScope>
-<date value="1864-09-17">September 17, 1864</date>
+<date when="1864-09-17">September 17, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4851,33 +4836,33 @@ the course of the past month announcing their return from America on
 account of the great depreciation in the currency of that
 country.</p></div2>
 
-<div2 id="iln45.1278.008" n="Enlisting Irish and German Emigrants on       the Battery at New York.--See Page 285." type="Illustration"><head>Enlisting Irish and German Emigrants on       the Battery at New York.--See Page 285.</head>
+<div2 xml:id="iln45.1278.008" n="Enlisting Irish and German Emigrants on       the Battery at New York.--See Page 285." type="Illustration"><head>Enlisting Irish and German Emigrants on       the Battery at New York.--See Page 285.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1278</biblScope>
 <biblScope type="pages">p. 288</biblScope>
-<date value="1864-09-17">September 17, 1864</date>
+<date when="1864-09-17">September 17, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1hwr</idno></bibl>
 <p>
-<figure entity="v45p288" ana="street ny" width="1308" height="922">
+<figure><graphic url="" ana="#street #ny" width="1308px" height="922px"/>
 <head>Enlisting Irish and German Emigrants on
       the Battery at New York.--See Page 285.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1279.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1279.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1279</biblScope>
 <biblScope type="pages">p. 302</biblScope>
-<date value="1864-09-24">September 24, 1864</date>
+<date when="1864-09-24">September 24, 1864</date>
 
 <extent>12 paragraphs</extent>
  
@@ -4957,14 +4942,14 @@ presidential candidate.</p>
 the premium on gold at New York; and the last quotation was
 228.</p></div2>
 
-<div2 id="iln45.1279.002" n="As the Mayor of New York" type="Article">
+<div2 xml:id="iln45.1279.002" n="As the Mayor of New York" type="Article">
 <head>[As the Mayor of New York]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1279</biblScope>
 <biblScope type="pages">p. 302</biblScope>
-<date value="1864-09-24">September 24, 1864</date>
+<date when="1864-09-24">September 24, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4976,14 +4961,14 @@ master, who jumped overboard, and sustained her until the arrival of
 the boat. The Mayor presented Mr. J. Munson, her preserver, with a
 check for 1000 dollars, another of the party giving 250.</p></div2>
 
-<div2 id="iln45.1279.003" n="The railway journey" type="Article">
+<div2 xml:id="iln45.1279.003" n="The railway journey" type="Article">
 <head>[The Railway Journey]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1279</biblScope>
 <biblScope type="pages">p. 303</biblScope>
-<date value="1864-09-24">September 24, 1864</date>
+<date when="1864-09-24">September 24, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -4991,14 +4976,14 @@ check for 1000 dollars, another of the party giving 250.</p></div2>
 <p>The railway journey between New York and St. Louis--a distance of
 1200 miles--may now be made without change of carriage.</p></div2>
 
-<div2 id="iln45.1280.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1280.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1280</biblScope>
 <biblScope type="pages">p. 326</biblScope>
-<date value="1864-10-01">October 1, 1864</date>
+<date when="1864-10-01">October 1, 1864</date>
 
 <extent>11 paragraphs</extent>
  
@@ -5069,14 +5054,14 @@ domestic affairs.</p>
 resigned, after being charged with corruption by the press, and
 petitioned by nearly 40,000 votes to vacate the benches.</p></div2>
 
-<div2 id="iln45.1280.002" n="The steam-boat Washoe" type="Article">
+<div2 xml:id="iln45.1280.002" n="The steam-boat Washoe" type="Article">
 <head>[The Steam-Boat Washoe]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1280</biblScope>
 <biblScope type="pages">p. 331</biblScope>
-<date value="1864-10-01">October 1, 1864</date>
+<date when="1864-10-01">October 1, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5085,14 +5070,14 @@ petitioned by nearly 40,000 votes to vacate the benches.</p></div2>
 on the 6th ult. Her upper works were shattered and her stern blown
 off; 150 passengers were either killed or wounded.</p></div2>
 
-<div2 id="iln45.1280.003" n="The Pickets before Petersburg" type="Article">
+<div2 xml:id="iln45.1280.003" n="The Pickets before Petersburg" type="Article">
 <head>The Pickets Before Petersburg</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1280</biblScope>
 <biblScope type="pages">p. 342</biblScope>
-<date value="1864-10-01">October 1, 1864</date>
+<date when="1864-10-01">October 1, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5149,18 +5134,18 @@ exchange are made in person, without the trouble of notes. One of the
 pickets told me that during one of the fiercest of the Weldon Railroad
 fights the pickets on a portion of the lines near by, not immediately
 engaged, were driving a brisk trade in tobacco, note-paper,
-&#x0026;c. Besides this petty trafficking, not a little frank
+&amp;c. Besides this petty trafficking, not a little frank
 conversation on the state of affairs is known to be carried on between
 the more intelligent soldiers on picket."</p></div2>
 
-<div2 id="iln45.1280.004" n="Current Literature" type="Article">
+<div2 xml:id="iln45.1280.004" n="Current Literature" type="Article">
 <head>Current Literature</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1280</biblScope>
 <biblScope type="pages">p. 343</biblScope>
-<date value="1864-10-01">October 1, 1864</date>
+<date when="1864-10-01">October 1, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5204,33 +5189,33 @@ that it is the production of a heretofore Secessionist from Virginia,
 who boldly announces his views concerning the origin and probable
 result of the conflict now raging on the American continent....</p></div2>
 
-<div2 id="iln45.1280.005" n="The Presidential Campaign in America:       Great M'Clellan Meeting in Union-Square, New York.--See Next Page." type="Illustration"><head>The Presidential Campaign in America:       Great M'Clellan Meeting in Union-Square, New York.--See Next Page.</head>
+<div2 xml:id="iln45.1280.005" n="The Presidential Campaign in America:       Great M'Clellan Meeting in Union-Square, New York.--See Next Page." type="Illustration"><head>The Presidential Campaign in America:       Great M'Clellan Meeting in Union-Square, New York.--See Next Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1280</biblScope>
 <biblScope type="pages">p. 345</biblScope>
-<date value="1864-10-01">October 1, 1864</date>
+<date when="1864-10-01">October 1, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1j5n</idno></bibl>
 <p>
-<figure entity="v45p345" ana="ny ps pg street" width="1316" height="914">
+<figure><graphic url="" ana="#ny #ps #pg #street" width="1316px" height="914px"/>
 <head>The Presidential Campaign in America:
       Great M'Clellan Meeting in Union-Square, New York.--See Next Page.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1280.006" n="The Presidential Election in America" type="Article">
+<div2 xml:id="iln45.1280.006" n="The Presidential Election in America" type="Article">
 <head>The Presidential Election in America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1280</biblScope>
 <biblScope type="pages">p. 346</biblScope>
-<date value="1864-10-01">October 1, 1864</date>
+<date when="1864-10-01">October 1, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5242,7 +5227,7 @@ sketch of an open-air political meeting in that city we have this week
 engraved, writes, under date of Sept. 9, as follows:--"The nomination
 of General M'Clellan by the Chicago Convention for the office of
 President of the United States was ratified last evening in this city
-by an immense <sic corr="Democratic">Democatic</sic> 'mass meeting' in Union-square. This meeting
+by an immense <choice><sic>Democatic</sic><corr>Democratic</corr></choice> 'mass meeting' in Union-square. This meeting
 was called in the name of 'the friends of M'Clellan, in favour of free
 speech, a free press, and the rights of the people, and all who hope
 in peace and reunion.' Five large stands were erected on the south
@@ -5267,14 +5252,14 @@ occurred in the course of the evening, by the bursting of one of the
 calcium lights, which caused the death of at least two persons,
 fearfully scorching and maiming several others."</p></div2>
 
-<div2 id="iln45.1280.007" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1280.007" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1280</biblScope>
 <biblScope type="pages">p. 346</biblScope>
-<date value="1864-10-01">October 1, 1864</date>
+<date when="1864-10-01">October 1, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5311,14 +5296,14 @@ crown the Federal cause have probably completed the defeat, not of the
 Confederate cause, but of that of General M'Clellan which some time
 ago looked so hopeful....</p></div2>
 
-<div2 id="iln45.1281.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1281.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1281</biblScope>
 <biblScope type="pages">p. 350-351</biblScope>
-<date value="1864-10-08">October 8, 1864</date>
+<date when="1864-10-08">October 8, 1864</date>
 
 <extent>9 paragraphs</extent>
   
@@ -5426,14 +5411,14 @@ these rifles, which are used in their skirmish line.</p>
 throughout the North, have been great successes. Great enthusiasm was
 manifested.</p></div2>
 
-<div2 id="iln45.1281.002" n="Latest News From Abroad" type="Article">
+<div2 xml:id="iln45.1281.002" n="Latest News From Abroad" type="Article">
 <head>Latest News from Abroad</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1281</biblScope>
 <biblScope type="pages">p. 351</biblScope>
-<date value="1864-10-08">October 8, 1864</date>
+<date when="1864-10-08">October 8, 1864</date>
 
 <extent>9 paragraphs</extent>
   
@@ -5449,7 +5434,7 @@ again attacked him at Fisher's Hill. Sheridan's report states that the
 right of the Confederate army rested on the north fork of the
 Shenandoah, extending across Strasburg Valley westward to the North
 Mountain, and occupying apparently an impregnable position. After much
-man&#x153;uvering, Crook's command was transferred to the extreme
+manœuvering, Crook's command was transferred to the extreme
 right of the line of the North Mountain and attacked the enemy's left,
 carrying everything before him. Whilst Crook drove away the enemy and
 swept down behind their breastworks, the 6th and 19th Corps attacked
@@ -5480,14 +5465,14 @@ Sherman has proposed an informal peace conference with the Governor of
 Georgia and Vice-President Stephens. Numerous other peace rumours are
 current.</p></div2>
 
-<div2 id="iln45.1281.003" n="London: Saturday, October 8, 1864" type="Article">
+<div2 xml:id="iln45.1281.003" n="London: Saturday, October 8, 1864" type="Article">
 <head>London: Saturday, October 8, 1864</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1281</biblScope>
 <biblScope type="pages">p. 354-355</biblScope>
-<date value="1864-10-08">October 8, 1864</date>
+<date when="1864-10-08">October 8, 1864</date>
 
 <extent>5 paragraphs</extent>
   
@@ -5621,33 +5606,33 @@ fratricidal war, and let us write nothing in the hour of strife which
 we shall regret to read in the hour of peace. Soon may it
 strike!</p></div2>
 
-<div2 id="iln45.1281.004" n="A splendid album" type="Article">
+<div2 xml:id="iln45.1281.004" n="A splendid album" type="Article">
 <head>[A Splendid Album]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1281</biblScope>
 <biblScope type="pages">p. 355</biblScope>
-<date value="1864-10-08">October 8, 1864</date>
+<date when="1864-10-08">October 8, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jc8</idno></bibl>
 <p>A splendid album of oil and water coloured sketches by American
-artists, valued at &#xA3;300, has been presented to Miss Charlotte
+artists, valued at £300, has been presented to Miss Charlotte
 Cushman, by the ladies of Philadelphia, as a token of respect and
 admiration for her talent, but especially as their recognition of the
 great service rendered by her to the cause of the United States
 sanitary commission.</p></div2>
 
-<div2 id="iln45.1281.005" n="Twelve live crocodiles" type="Article">
+<div2 xml:id="iln45.1281.005" n="Twelve live crocodiles" type="Article">
 <head>[Twelve Live Crocodiles]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1281</biblScope>
 <biblScope type="pages">p. 358</biblScope>
-<date value="1864-10-08">October 8, 1864</date>
+<date when="1864-10-08">October 8, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5655,14 +5640,14 @@ sanitary commission.</p></div2>
 <p>Twelve live crocodiles, averaging nine feet in length, have been
 received at Havre, from America.</p></div2>
 
-<div2 id="iln45.1281.006" n="The Magazines" type="Article">
+<div2 xml:id="iln45.1281.006" n="The Magazines" type="Article">
 <head>The Magazines</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1281</biblScope>
 <biblScope type="pages">p. 370</biblScope>
-<date value="1864-10-08">October 8, 1864</date>
+<date when="1864-10-08">October 8, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5672,14 +5657,14 @@ received at Havre, from America.</p></div2>
 is of itself worth more than the shilling demanded for the <hi rend="italic">British Army and Navy Review</hi>. This periodical has
 also a good memoir of General Grant....</p></div2>
 
-<div2 id="iln45.1282.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1282.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1282</biblScope>
 <biblScope type="pages">p. 374</biblScope>
-<date value="1864-10-15">October 15, 1864</date>
+<date when="1864-10-15">October 15, 1864</date>
 
 <extent>10 paragraphs</extent>
  
@@ -5760,17 +5745,17 @@ man who shirked the duties of a soldier.</p>
 of 6000 warriors in a desperate battle in Nebraska, inflicting upon
 them terrible punishment.</p>
 <p>After violent fluctuations, gold was quoted on the 1st inst. at
-90&#xBD; premium, showing a great decline from previous prices. At
+90½ premium, showing a great decline from previous prices. At
 one time the premium was as low as 83.</p></div2>
 
-<div2 id="iln45.1282.002" n="The Secret" type="Article">
+<div2 xml:id="iln45.1282.002" n="The Secret" type="Article">
 <head>[The Secret]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1282</biblScope>
 <biblScope type="pages">p. 379</biblScope>
-<date value="1864-10-15">October 15, 1864</date>
+<date when="1864-10-15">October 15, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5781,14 +5766,14 @@ Mersey. The Secret is intended for the blockade-running business, and
 is 230 ft. in length, 26 ft. beam, 11 ft. depth of hold, and 800 tons
 burden, with engines nominally of 180-horse power.</p></div2>
 
-<div2 id="iln45.1282.003" n="The Manchester Guardian states" type="Article">
+<div2 xml:id="iln45.1282.003" n="The Manchester Guardian states" type="Article">
 <head>[The Manchester Guardian States]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1282</biblScope>
 <biblScope type="pages">p. 379</biblScope>
-<date value="1864-10-15">October 15, 1864</date>
+<date when="1864-10-15">October 15, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -5805,14 +5790,14 @@ convenient point, a new and powerful steamer, called the Ranger, to
 which she will transfer Captain Semmes and his companions, as well as
 the stores which she takes out with her.</p></div2>
 
-<div2 id="iln45.1282.004" n="Presidential Electioneering in New York" type="Article">
+<div2 xml:id="iln45.1282.004" n="Presidential Electioneering in New York" type="Article">
 <head>Presidential Electioneering in New York</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1282</biblScope>
 <biblScope type="pages">p. 389</biblScope>
-<date value="1864-10-15">October 15, 1864</date>
+<date when="1864-10-15">October 15, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -5876,7 +5861,7 @@ whisky and sobering himself on lager beer; the impulsiveness of the
 Yankee neutralised by the stolidity of the Dutchman. I happened to
 pass through Union-square in the afternoon, and watched with great
 interest the preparations for the meeting. You might have fancied that
-a Cremorne f&#xEA;te was about to come off. Platforms and firework
+a Cremorne fête was about to come off. Platforms and firework
 galleries had sprung up as if by magic, horizontal beams were hung
 with festoons of parti-coloured Chinese lanterns, and banners, and
 transparencies, and flowery devices, as yet unlit, abounded. I came
@@ -5894,7 +5879,7 @@ in the United States is everywhere. At eight o'clock artillery began
 to roar from the inclosures of the square. Many brass bands then began
 to bray. The 'Star-spangled Banner' blended with the waltz from
 'Faust.' A big eagle in gas suddenly spread his dazzling wings over
-the portal of the Maison Dor&#xE9;e. Delmonico's, which is not fifty
+the portal of the Maison Dorée. Delmonico's, which is not fifty
 yards from the square, was illumined from roof to basement. The
 waiters rushed about nervously. They had a heavy night before
 them. The orators 'change their breath' before they speak, and sup
@@ -5923,52 +5908,52 @@ mistake into which foreigners are more likely to fall than that which
 assumes that the normal condition of American popular assemblages is
 one of riot and confusion."</p></div2>
 
-<div2 id="iln45.1282.005" n="Presidential Electioneering in New       York.--A Street Scene." type="Illustration"><head>Presidential Electioneering in New       York.--A Street Scene.</head>
+<div2 xml:id="iln45.1282.005" n="Presidential Electioneering in New       York.--A Street Scene." type="Illustration"><head>Presidential Electioneering in New       York.--A Street Scene.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1282</biblScope>
 <biblScope type="pages">p. 389</biblScope>
-<date value="1864-10-15">October 15, 1864</date>
+<date when="1864-10-15">October 15, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jm0</idno></bibl>
 <p>
-<figure entity="v45p389a" ana="ps" width="403" height="604">
+<figure><graphic url="" ana="#ps" width="403px" height="604px"/>
 <head>Presidential Electioneering in New
       York.--A Street Scene.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1282.006" n="Presidential Electioneering in New       York.--Torchlight Procession of the M'Clellan Party." type="Illustration"><head>Presidential Electioneering in New       York.--Torchlight Procession of the M'Clellan Party.</head>
+<div2 xml:id="iln45.1282.006" n="Presidential Electioneering in New       York.--Torchlight Procession of the M'Clellan Party." type="Illustration"><head>Presidential Electioneering in New       York.--Torchlight Procession of the M'Clellan Party.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1282</biblScope>
 <biblScope type="pages">p. 389</biblScope>
-<date value="1864-10-15">October 15, 1864</date>
+<date when="1864-10-15">October 15, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jn3</idno></bibl>
 <p>
-<figure entity="v45p389b" ana="ny pg ps street" width="853" height="589">
+<figure><graphic url="" ana="#ny #pg #ps #street" width="853px" height="589px"/>
 <head>Presidential Electioneering in New
       York.--Torchlight Procession of the M'Clellan Party.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1284.001" n="Foreign and Colonial News" type="Article">
+<div2 xml:id="iln45.1284.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1284</biblScope>
 <biblScope type="pages">p. 406</biblScope>
-<date value="1864-10-22">October 22, 1864</date>
+<date when="1864-10-22">October 22, 1864</date>
 
 <extent>10 paragraphs</extent>
  
@@ -6074,14 +6059,14 @@ amount of the public debt announced on Sept. 30 is 1960 million
 dollars. The latest quotation of gold at New York was 99
 prem.</p></div2>
 
-<div2 id="iln45.1284.002" n="Illustrations of the War in America" type="Article">
+<div2 xml:id="iln45.1284.002" n="Illustrations of the War in America" type="Article">
 <head>Illustrations of the War in America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1284</biblScope>
 <biblScope type="pages">p. 407</biblScope>
-<date value="1864-10-22">October 22, 1864</date>
+<date when="1864-10-22">October 22, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6121,19 +6106,19 @@ navigation of the river is so effectually closed that neither party
 can get at the other by water, but they frequently exchange long
 shots, as displayed in the present Illustration.</p></div2>
 
-<div2 id="iln45.1284.003" n="Illustrations of the War in America, By       Our Special Artist: Passage of the Shenandoah River at Front       Royal By The Divisions Sent To Reinforce General Early; March of       Kershaw's and Fitz Lee's Divisions of the Confederate Army Up       the Valley of Virginia.--See Preceding Page." type="Illustration"><head>Illustrations of the War in America, By       Our Special Artist: Passage of the Shenandoah River at Front       Royal By The Divisions Sent To Reinforce General Early; March of       Kershaw's and Fitz Lee's Divisions of the Confederate Army Up       the Valley of Virginia.--See Preceding Page.</head>
+<div2 xml:id="iln45.1284.003" n="Illustrations of the War in America, By       Our Special Artist: Passage of the Shenandoah River at Front       Royal By The Divisions Sent To Reinforce General Early; March of       Kershaw's and Fitz Lee's Divisions of the Confederate Army Up       the Valley of Virginia.--See Preceding Page." type="Illustration"><head>Illustrations of the War in America, By       Our Special Artist: Passage of the Shenandoah River at Front       Royal By The Divisions Sent To Reinforce General Early; March of       Kershaw's and Fitz Lee's Divisions of the Confederate Army Up       the Valley of Virginia.--See Preceding Page.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1284</biblScope>
 <biblScope type="pages">p. 408</biblScope>
-<date value="1864-10-22">October 22, 1864</date>
+<date when="1864-10-22">October 22, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jrd</idno></bibl>
 <p>
-<figure entity="v45p408" ana="land gray" width="926" height="1343">
+<figure><graphic url="" ana="#land #gray" width="926px" height="1343px"/>
 <head>Illustrations of the War in America, by
       Our Special Artist: Passage of the Shenandoah River at Front
       Royal by the Divisions Sent to Reinforce General Early; March of
@@ -6143,19 +6128,19 @@ shots, as displayed in the present Illustration.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1284.004" n="Illustrations of the War in America, By       Our Special Artist: Howlett's Battery, on the James River,       Engaging the Federal Monitors.--See Page 407." type="Illustration"><head>Illustrations of the War in America, By       Our Special Artist: Howlett's Battery, on the James River,       Engaging the Federal Monitors.--See Page 407.</head>
+<div2 xml:id="iln45.1284.004" n="Illustrations of the War in America, By       Our Special Artist: Howlett's Battery, on the James River,       Engaging the Federal Monitors.--See Page 407." type="Illustration"><head>Illustrations of the War in America, By       Our Special Artist: Howlett's Battery, on the James River,       Engaging the Federal Monitors.--See Page 407.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1284</biblScope>
 <biblScope type="pages">p. 409</biblScope>
-<date value="1864-10-22">October 22, 1864</date>
+<date when="1864-10-22">October 22, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1jsh</idno></bibl>
 <p>
-<figure entity="v45p409" ana="insta gray" width="1324" height="903">
+<figure><graphic url="" ana="#insta #gray" width="1324px" height="903px"/>
 <head>Illustrations of the War in America, by
       Our Special Artist: Howlett's Battery, on the James River,
       Engaging the Federal Monitors.--See Page 407 .</head>
@@ -6163,14 +6148,14 @@ shots, as displayed in the present Illustration.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1284.005" n="The death of the Rev. S. W. Bonney" type="Article">
+<div2 xml:id="iln45.1284.005" n="The death of the Rev. S. W. Bonney" type="Article">
 <head>[The Death of the Rev. S. W. Bonney]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1284</biblScope>
 <biblScope type="pages">p. 426</biblScope>
-<date value="1864-10-22">October 22, 1864</date>
+<date when="1864-10-22">October 22, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6178,14 +6163,14 @@ shots, as displayed in the present Illustration.</p></div2>
 <p>The death of the Rev. S. W. Bonney, of Canton, an American
 missionary of great eminence, is announced.</p></div2>
 
-<div2 id="iln45.1285.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1285.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1285</biblScope>
 <biblScope type="pages">p. 430</biblScope>
-<date value="1864-10-29">October 29, 1864</date>
+<date when="1864-10-29">October 29, 1864</date>
 
 <extent>17 paragraphs</extent>
  
@@ -6281,14 +6266,14 @@ in favour of the Government.</p>
 1864, up to Oct. 5, 151,393 immigrants had arrived; in the
 corresponding period of 1863, the number was only 119,512.</p></div2>
 
-<div2 id="iln45.1285.002" n="The Solicitor-General and Mr. Morrison, M.P." type="Article">
+<div2 xml:id="iln45.1285.002" n="The Solicitor-General and Mr. Morrison, M.P." type="Article">
 <head>[The Solicitor-General and Mr. Morrison, M.P.]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1285</biblScope>
 <biblScope type="pages">p. 430</biblScope>
-<date value="1864-10-29">October 29, 1864</date>
+<date when="1864-10-29">October 29, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6304,14 +6289,14 @@ church rates were unchanged. A vote of confidence in the learned
 gentleman and his colleague was agreed to at the close of their
 speeches.</p></div2>
 
-<div2 id="iln45.1285.003" n="William Pape" type="Article">
+<div2 xml:id="iln45.1285.003" n="William Pape" type="Article">
 <head>[William Pape]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1285</biblScope>
 <biblScope type="pages">p. 438</biblScope>
-<date value="1864-10-29">October 29, 1864</date>
+<date when="1864-10-29">October 29, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6321,14 +6306,14 @@ Scotland and the north of England, began on Wednesday a second tour,
 taking Leamington, Banbury, Lynn, Norwich, Clifton, Exeter, Torquay,
 Plymouth, Truro, and other towns.</p></div2>
 
-<div2 id="iln45.1285.004" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1285.004" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1285</biblScope>
 <biblScope type="pages">p. 447</biblScope>
-<date value="1864-10-29">October 29, 1864</date>
+<date when="1864-10-29">October 29, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -6376,14 +6361,14 @@ Confederation is accomplished there will be a good thing done, and
 one, too, which, if many regret, all will own was
 inevitable....</p></div2>
 
-<div2 id="iln45.1286.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1286.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1286</biblScope>
 <biblScope type="pages">p. 454</biblScope>
-<date value="1864-11-05">November 5, 1864</date>
+<date when="1864-11-05">November 5, 1864</date>
 
 <extent>18 paragraphs</extent>
  
@@ -6417,7 +6402,7 @@ loss.</p>
 <p>Stanton reports that the telegraph is working to Atlanta. Southern
 despatches indicate that Hood is about to change his base of
 operations to North Alabama, where he will be joined by Beauregard, for
-the prosecution of the campaign against <sic corr="Huntsville">Hautsville</sic>, Alabama. Walker's
+the prosecution of the campaign against <choice><sic>Hautsville</sic><corr>Huntsville</corr></choice>, Alabama. Walker's
 Trans-Mississippi division has crossed the river to reinforce General
 Hood. Southern journals continue to represent Sherman's position such
 that the evacuation of Atlanta may daily be expected.</p>
@@ -6478,14 +6463,14 @@ was lying under the guns of the Brazilian forts and of the Brazilian
 fleet, and Captain Morris was on shore. Captain Morris is on board the
 Magdalena, bound for Southampton."</p></div2>
 
-<div2 id="iln45.1286.002" n="The Water of Saratoga Springs" type="Article">
+<div2 xml:id="iln45.1286.002" n="The Water of Saratoga Springs" type="Article">
 <head>The Water of Saratoga Springs</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1286</biblScope>
 <biblScope type="pages">p. 454</biblScope>
-<date value="1864-11-05">November 5, 1864</date>
+<date when="1864-11-05">November 5, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6503,19 +6488,19 @@ carefully collected in a hog tub, racked through a cask of turpentine
 (that came over in a ship otherwise laden with guano and Monte Videan
 hides, with the horns and hoofs on), mingled with the refuse of a
 dyeworks, filtered through a gaspipe, to make it sweet and clean,
-just freshened up--to give it a head--with assaf&#x153;tida and
+just freshened up--to give it a head--with assafœtida and
 jalap, and well stirred up with a brass candlestick, far gone in
 verdigris. This may give you an imperfect idea of what the water of my
 first and last spring in Saratoga was like.--<hi rend="italic">G. A. Sala.</hi></p></div2>
 
-<div2 id="iln45.1286.003" n="A sharper took passage" type="Article">
+<div2 xml:id="iln45.1286.003" n="A sharper took passage" type="Article">
 <head>[A Sharper took Passage]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1286</biblScope>
 <biblScope type="pages">p. 462</biblScope>
-<date value="1864-10-29">October 29, 1864</date>
+<date when="1864-10-29">October 29, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6528,14 +6513,14 @@ gold in the possession of the passengers, at a discount of 30
 percent. The sharper cleared upwards of 3000 dollars by his
 rascality.</p></div2>
 
-<div2 id="iln45.1287.001" n="Slave Soldiers" type="Article">
+<div2 xml:id="iln45.1287.001" n="Slave Soldiers" type="Article">
 <head>Slave Soldiers</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1287</biblScope>
 <biblScope type="pages">p. 477</biblScope>
-<date value="1864-11-12">November 12, 1864</date>
+<date when="1864-11-12">November 12, 1864</date>
 
 <extent>4 paragraphs</extent>
   
@@ -6684,14 +6669,14 @@ nowhere in the world would there be more sincere rejoicing at such a
 circumstance than amongst the peaceful and free people of
 England.</p></div2>
 
-<div2 id="iln45.1287.002" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1287.002" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1287</biblScope>
 <biblScope type="pages">p. 478</biblScope>
-<date value="1864-11-12">November 12, 1864</date>
+<date when="1864-11-12">November 12, 1864</date>
 
 <extent>14 paragraphs</extent>
  
@@ -6771,14 +6756,14 @@ of Maryland to throw out the soldiers' vote.</p>
 of the 1st inst., the date of the latest telegrams, it was quoted at
 137 7/8 per cent premium.</p></div2>
 
-<div2 id="iln45.1287.003" n="A statement was published" type="Article">
+<div2 xml:id="iln45.1287.003" n="A statement was published" type="Article">
 <head>[A Statement was Published]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1287</biblScope>
 <biblScope type="pages">p. 494</biblScope>
-<date value="1864-11-12">November 12, 1864</date>
+<date when="1864-11-12">November 12, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6793,14 +6778,14 @@ and that that officer and his men, together with the stores taken out
 by the Laurel, had been transferred to a large screw-steamer, which
 is, of course, alleged to be a new Alabama.</p></div2>
 
-<div2 id="iln45.1287.004" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1287.004" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1287</biblScope>
 <biblScope type="pages">p. 495</biblScope>
-<date value="1864-11-12">November 12, 1864</date>
+<date when="1864-11-12">November 12, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6812,7 +6797,7 @@ thrown overboard; or has Columbia received Britannia's little letter
 and put it away with a memorandum, "Not to be answered"? Alas for
 human consistency! Mr. John Bright has illustrated his principles of
 peace like Cromwell, who took for his motto "<hi rend="italic">Pax
-qu&#x153;ritur bello</hi>," by patting Brother Jonathan on his back
+quœritur bello</hi>," by patting Brother Jonathan on his back
 and telling him to keep pegging away. Well, a man may do that if he
 likes; but Mr. Bright has no "call" to insinuate that effete
 aristocracies and lovers of tyrannical Governments wish the South to
@@ -6829,14 +6814,14 @@ one word, and it will bear the truth of a prophecy:--</p>
 <p rend="center">When black joins black then is the tug of
 war....</p></div2>
 
-<div2 id="iln45.1288.001" n="La France announces" type="Article">
+<div2 xml:id="iln45.1288.001" n="La France announces" type="Article">
 <head>[La France Announces]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1288</biblScope>
 <biblScope type="pages">p. 502</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6845,14 +6830,14 @@ war....</p></div2>
 off friendly relations with the United States on account of the
 seizure of the Florida.</p></div2>
  
-<div2 id="iln45.1288.002" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1288.002" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1288</biblScope>
 <biblScope type="pages">p. 503</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>18 paragraphs</extent>
  
@@ -6948,14 +6933,14 @@ imprisonment for life.</p>
 <p>The price of gold has again risen--the latest quotation being 146
 per cent premium.</p></div2>
 
-<div2 id="iln45.1288.003" n="The Great Western" type="Article">
+<div2 xml:id="iln45.1288.003" n="The Great Western" type="Article">
 <head>[The Great Western]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1288</biblScope>
 <biblScope type="pages">p. 503</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6967,14 +6952,14 @@ several passengers who had been kidnapped under various pretences to
 serve in the Federal army. The matter will undergo
 investigation.</p></div2>
 
-<div2 id="iln45.1288.004" n="Mr. Lafone, of Liverpool" type="Article">
+<div2 xml:id="iln45.1288.004" n="Mr. Lafone, of Liverpool" type="Article">
 <head>[Mr. Lafone, of Liverpool]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1288</biblScope>
 <biblScope type="pages">p. 510</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -6984,14 +6969,14 @@ Captain Semmes did not leave Liverpool in the Laurel, and that he is
 positively assured that no men from the Laurel joined the Sea King at
 Madeira.</p></div2>
 
-<div2 id="iln45.1288.005" n="The Central Pacific Railway Company state" type="Article">
+<div2 xml:id="iln45.1288.005" n="The Central Pacific Railway Company state" type="Article">
 <head>[The Central Pacific Railway Company State]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1288</biblScope>
 <biblScope type="pages">p. 510</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -7001,19 +6986,19 @@ that they have thirty-one miles of railroad and telegraph in
 operation, and their average monthly receipts since June last have
 been over 16,000 dols., and expenses 3000 dols.</p></div2>
 
-<div2 id="iln45.1288.007" n="The Late Outrage on the Neutrality of       Brazil: The Florida (Confederate) and the Wachusetts (Federal)       in Bahia Harbour." type="Illustration"><head>The Late Outrage on the Neutrality of       Brazil: The Florida (Confederate) and the Wachusetts (Federal)       in Bahia Harbour.</head>
+<div2 xml:id="iln45.1288.007" n="The Late Outrage on the Neutrality of       Brazil: The Florida (Confederate) and the Wachusetts (Federal)       in Bahia Harbour." type="Illustration"><head>The Late Outrage on the Neutrality of       Brazil: The Florida (Confederate) and the Wachusetts (Federal)       in Bahia Harbour.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1288</biblScope>
 <biblScope type="pages">p. 517</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kdf</idno></bibl>
 <p>
-<figure entity="v45p517" ana="naval" width="830" height="589">
+<figure><graphic url="" ana="#naval" width="830px" height="589px"/>
 <head>The Late Outrage on the Neutrality of
       Brazil: The Florida (Confederate) and the Wachusetts (Federal)
       in Bahia Harbour.</head>
@@ -7021,14 +7006,14 @@ been over 16,000 dols., and expenses 3000 dols.</p></div2>
 </p>
 </div2>
 
-<div2 id="iln45.1288.006" n="The Late Outrage on the Neutrality of Brazil" type="Article">
+<div2 xml:id="iln45.1288.006" n="The Late Outrage on the Neutrality of Brazil" type="Article">
 <head>The Late Outrage on the Neutrality of Brazil</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1288</biblScope>
 <biblScope type="pages">p. 517</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -7051,14 +7036,14 @@ Fort do Mar, and is unquestionably within the accustomed harbour...</p></div2>
 
 
 
-<div2 id="iln45.1288.008" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1288.008" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1288</biblScope>
 <biblScope type="pages">p. 518</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -7069,7 +7054,7 @@ Dr. Thompson, in his exploration of the "sensational" in literature,
 were to ask for the tap root of this gigantic growth, he might find it
 in that natural curiosity which attaches to the perpetration and
 perpetrators of all great crimes. Have not two big books, "Les Crimes
-C&#xE9;l&#xE8;bres" and "Les Causes C&#xE9;l&#xE8;bres," upon
+Célèbres" and "Les Causes Célèbres," upon
 this absorbing topic, reached England from France, two amongst
 hundreds? Do not the "Newgate Calendar" and the twenty-seven volumes
 of "State Trials" find their purchasers; and have we not had
@@ -7123,25 +7108,25 @@ letters on American affairs are always read with interest, has again
 favoured the public with his views on the "fratricidal war," and, like
 most Englishmen, is hopeful of the effect of the slave soldier of the
 South. Everybody's vaticination of a servile war seems to be
-wrong. Pompey or C&#xE6;sar, the bone of contention, may in the long
+wrong. Pompey or Cæsar, the bone of contention, may in the long
 run remain master of the situation; certainly we believe that the
 negro race will be the only one which will benefit by the contest. If
 great situations produce great men, and man is the creature of the
-creative circumstance, now is C&#xE6;sar's time. If he do not come
+creative circumstance, now is Cæsar's time. If he do not come
 forward, he must be content to remain <hi rend="italic">nullus</hi>
 for the next generation. A black Hannibal, on the part of in North,
 contending with a Scipio Africanus from Alabama, or somewhere else
 south of Mason and Dixie's line, would go far to settle the question
 of the equality of the races....</p></div2>
 
-<div2 id="iln45.1288.009" n="Current Literature" type="Article">
+<div2 xml:id="iln45.1288.009" n="Current Literature" type="Article">
 <head>Current Literature</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1288</biblScope>
 <biblScope type="pages">p. 518-519</biblScope>
-<date value="1864-11-19">November 19, 1864</date>
+<date when="1864-11-19">November 19, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -7165,14 +7150,14 @@ the writer and Colonel Jaques had audience of Mr. Davis, and peace
 seems still as distant as it was then....</p></div2>
 
 
-<div2 id="iln45.1289.001" n="The American Presidency" type="Article">
+<div2 xml:id="iln45.1289.001" n="The American Presidency" type="Article">
 <head>The American Presidency</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1289</biblScope>
 <biblScope type="pages">p. 525-526</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>5 paragraphs</extent>
   
@@ -7336,14 +7321,14 @@ years; and that, by means which he never intended and the concurrence
 of events which he never contemplated, he may become the involuntary
 saviour of his country.</p></div2>
 
-<div2 id="iln45.1289.003" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1289.003" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1289</biblScope>
 <biblScope type="pages">p. 526-527</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>19 paragraphs</extent>
  
@@ -7456,8 +7441,8 @@ latter quotation.</p>
 <p>New York advices state that Mr. Charles Windsor, for fourteen years
 one of the principal cashiers of the Mercantile Bank in that city, has
 absconded, leaving a deficiency in his accounts of nearly
-&#xA3;50,000. The Mercantile Bank, after deducting this loss, has
-still a reserve of about &#xA3;90,000.</p>
+£50,000. The Mercantile Bank, after deducting this loss, has
+still a reserve of about £90,000.</p>
 <p rend="center">BRITISH NORTH AMERICA.</p>
 <p>...A Quebec telegram says:--"Prominent men from the Northern
 States are here urging the Canadian Government to energetic
@@ -7467,14 +7452,14 @@ Government have been taken."</p>
 <p>The examination of the witnesses in the St. Alban's raid was
 proceeding slowly in Montreal.</p></div2>
 
-<div2 id="iln45.1289.004" n="Master Willie Pape" type="Article">
+<div2 xml:id="iln45.1289.004" n="Master Willie Pape" type="Article">
 <head>[Master Willie Pape]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1289</biblScope>
 <biblScope type="pages">p. 534</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -7483,21 +7468,21 @@ proceeding slowly in Montreal.</p></div2>
 successful tour in the West of England, is about to proceed to
 Ireland.</p></div2>
 
-<div2 id="iln45.1289.005" n="The Californian papers" type="Article">
+<div2 xml:id="iln45.1289.005" n="The Californian papers" type="Article">
 <head>[The Californian Papers]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1289</biblScope>
 <biblScope type="pages">p. 534</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kn5</idno></bibl>
 <p>The Californian papers give an excellent report of Mr. and
 Mrs. C. Kean's reception in San Francisco, to which place they went
-direct from Melbourne. They made their d&#xE9;but at Maguire's Opera
+direct from Melbourne. They made their début at Maguire's Opera
 House, on Oct. 8, in "Henry VIII." and "The Jealous Wife." On the 10th
 they appeared in "Louis XI." Their appearance has been accepted by the
 critics as the revival of taste in relation to the drama. We quote
@@ -7524,33 +7509,33 @@ colonial critic should lead theatrical conductors and their supporters
 to reflect on the mischief they are perpetrating by such improper
 exhibitions.</p></div2>
 
-<div2 id="iln45.1289.006" n="Burning of the United States'       Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October." type="Illustration"><head>Burning of the United States'       Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October.</head>
+<div2 xml:id="iln45.1289.006" n="Burning of the United States'       Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October." type="Illustration"><head>Burning of the United States'       Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1289</biblScope>
 <biblScope type="pages">p. 541</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1kp8</idno></bibl>
 <p>
-<figure entity="v45p541" ana="naval" width="837" height="531">
+<figure><graphic url="" ana="#naval" width="837px" height="531px"/>
 <head>Burning of the United States'
       Mail-Steamer Roanoke, off St. George's, Bermuda, on the 9th of October.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1289.007" n="Destruction of the Steam-Packet Roanoke" type="Article">
+<div2 xml:id="iln45.1289.007" n="Destruction of the Steam-Packet Roanoke" type="Article">
 <head>Destruction of the Steam-Packet Roanoke</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1289</biblScope>
 <biblScope type="pages">p. 541-542</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -7621,14 +7606,14 @@ by the New York and Virginia Navigation Company, who were her sole
 owners; her dimensions being in length 218 ft.; breadth, 32ft.; depth,
 10 ft. 6 in.; and measuring 1071 tons.</p></div2>
 
-<div2 id="iln45.1289.008" n="The Presidential Contest in America" type="Article">
+<div2 xml:id="iln45.1289.008" n="The Presidential Contest in America" type="Article">
 <head>The Presidential Contest in America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1289</biblScope>
 <biblScope type="pages">p. 543</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>7 paragraphs</extent>
   
@@ -7776,14 +7761,14 @@ which, the Federal troops hold temporary possession.</p>
 Mr. Lincoln that it has been withdrawn; it is asserted by express
 orders from Washington.</p></div2>
 
-<div2 id="iln45.1289.009" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1289.009" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1289</biblScope>
 <biblScope type="pages">p. 546</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>4 paragraphs</extent>
   
@@ -7799,8 +7784,8 @@ were fully prepared.</p>
 <p>England does not know exactly whether to congratulate herself or
 not on the result of the American election. So thoroughly had people
 made up their mind that he would be re-elected that even the
-"sperrits" at a s&#xE9;ance of a vulgar Medium foretold it, in
-conjunction, also, with the due execution of M&#xFC;ller; so that
+"sperrits" at a séance of a vulgar Medium foretold it, in
+conjunction, also, with the due execution of Müller; so that
 the ghosts were right on the double event. As the <hi rend="italic">Times</hi> puts it, perhaps we are better off than with
 General M'Clellan, because Lincoln has passed through the rabies
 against England which is always demanded of a fresh President. What we
@@ -7856,14 +7841,14 @@ from the faith, giving heed to seducing spirits and doctrines of
 devils," an a text expressly referring to this curious
 illusion....</p></div2>
 
-<div2 id="iln45.1289.010" n="One pleasing and hopeful feature" type="Article">
+<div2 xml:id="iln45.1289.010" n="One pleasing and hopeful feature" type="Article">
 <head>[One Pleasing and Hopeful Feature]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1289</biblScope>
 <biblScope type="pages">p. 547</biblScope>
-<date value="1864-11-26">November 26, 1864</date>
+<date when="1864-11-26">November 26, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -7887,14 +7872,14 @@ cent; State of New York, 145 per cent; Massachusetts, 68 per cent; and
 Canada West, 222 per cent.--<hi rend="italic">English America, by
 S. P. Day.</hi></p></div2>
 
-<div2 id="iln45.1290.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1290.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1290</biblScope>
 <biblScope type="pages">p. 551</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>14 paragraphs</extent>
  
@@ -7967,17 +7952,17 @@ the latest quotation on the 19th ult. was 121 per cent premium.</p>
 <p>Lord Lyons is about to return from Washington on six months' leave,
 necessitated by ill-health. The statement that his Lordship has
 resigned his post is, however, erroneous. Mr. J. Hume Burnley,
-Secretary of Legation, has been appointed Charg&#xE9; d'Affaires, in
+Secretary of Legation, has been appointed Chargé d'Affaires, in
 the usual course, during Lord Lyons's absence.</p></div2>
 
-<div2 id="iln45.1290.002" n="The cable of the Victoria extension" type="Article">
+<div2 xml:id="iln45.1290.002" n="The cable of the Victoria extension" type="Article">
 <head>[The Cable of the Victoria Extension]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1290</biblScope>
 <biblScope type="pages">p. 559</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -7987,14 +7972,14 @@ Territory line of telegraph, which it was intended to lay across the
 Strait of San Juan de Fuca, has been lost on board the Thebes, off
 Cape Horn, on her voyage from London.</p></div2>
 
-<div2 id="iln45.1290.003" n="Election day in New York" type="Article">
+<div2 xml:id="iln45.1290.003" n="Election day in New York" type="Article">
 <head>Election Day in New York</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1290</biblScope>
 <biblScope type="pages">p. 559</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8036,14 +8021,14 @@ Points--the head-quarters of the thieves, bullies, organ-grinders, and
 all other such types of ruffianism as go to the making up of the
 dangerous classes."</p></div2>
 
-<div2 id="iln45.1290.004" n="Lager beer in New York" type="Article">
+<div2 xml:id="iln45.1290.004" n="Lager beer in New York" type="Article">
 <head>Lager Beer in New York</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1290</biblScope>
 <biblScope type="pages">p. 559-561</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>5 paragraphs</extent>
   
@@ -8100,7 +8085,7 @@ in which the lager beer saloon, in some of its various forms, is not
 to be
 
 
-<figure entity="v45p560" ana="ny street ps pg" width="953" height="1370">
+<figure><graphic url="" ana="#ny #street #ps #pg" width="953px" height="1370px"/>
 <head>Election Day in New York: A Polling-Place
       among the "Upper Ten."; A Polling-Place Among the "Lower
       Twenty."--See Preceding Page.</head>
@@ -8154,70 +8139,70 @@ vintages of the Rhine."</p></div2>
 
 
 
-<div2 id="iln45.1290.006" n="Sketches from New York: Entertainment in       a Lager Beer Saloon." type="Illustration"><head>Sketches from New York: Entertainment in       a Lager Beer Saloon.</head>
+<div2 xml:id="iln45.1290.006" n="Sketches from New York: Entertainment in       a Lager Beer Saloon." type="Illustration"><head>Sketches from New York: Entertainment in       a Lager Beer Saloon.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1290</biblScope>
 <biblScope type="pages">p. 561</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m08</idno></bibl>
 <p>
-<figure entity="v45p561a" ana="daily" width="411" height="427">
+<figure><graphic url="" ana="#daily" width="411px" height="427px"/>
 <head>Sketches from New York: Entertainment in
       a Lager Beer Saloon.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1290.007" n="Sketches from New York: A Lager Beer       Brewery at Guttenburg, on the Hudson River." type="Illustration"><head>Sketches from New York: A Lager Beer       Brewery at Guttenburg, on the Hudson River.</head>
+<div2 xml:id="iln45.1290.007" n="Sketches from New York: A Lager Beer       Brewery at Guttenburg, on the Hudson River." type="Illustration"><head>Sketches from New York: A Lager Beer       Brewery at Guttenburg, on the Hudson River.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1290</biblScope>
 <biblScope type="pages">p. 561</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m1c</idno></bibl>
 <p>
-<figure entity="v45p561b" ana="land money" width="396" height="427">
+<figure><graphic url="" ana="#land #money" width="396px" height="427px"/>
 <head>Sketches from New York: A Lager Beer
       Brewery at Guttenburg, on the Hudson River.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1290.008" n="Sketches from New York: A Garten Wirthschaft." type="Illustration"><head>Sketches from New York: A Garten Wirthschaft.</head>
+<div2 xml:id="iln45.1290.008" n="Sketches from New York: A Garten Wirthschaft." type="Illustration"><head>Sketches from New York: A Garten Wirthschaft.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1290</biblScope>
 <biblScope type="pages">p. 561</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m2g</idno></bibl>
 <p>
-<figure entity="v45p561c" ana="daily pg" width="818" height="577">
+<figure><graphic url="" ana="#daily #pg" width="818px" height="577px"/>
 <head>Sketches from New York: A Garten Wirthschaft.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1290.009" n="The Presidential Contest In America" type="Article">
+<div2 xml:id="iln45.1290.009" n="The Presidential Contest In America" type="Article">
 <head>The Presidential Contest in America</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1290</biblScope>
 <biblScope type="pages">p. 566</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8326,14 +8311,14 @@ warrant the President in giving and the General in accepting, he will
 effect a masterstroke of policy. It remains to be seen whether he will
 be magnanimous enough to do so.</p></div2>
 
-<div2 id="iln45.1290.010" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1290.010" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1290</biblScope>
 <biblScope type="pages">p. 567</biblScope>
-<date value="1864-12-03">December 3, 1864</date>
+<date when="1864-12-03">December 3, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8360,14 +8345,14 @@ the bonds which bind them in allegiance to the mother country, though
 as strong as steel, are, as they wear them, as light as silken
 fetters....</p></div2>
 
-<div2 id="iln45.1291.001" n="Foreign and Colonial News" type="Article">
+<div2 xml:id="iln45.1291.001" n="Foreign and Colonial News" type="Article">
 <head>Foreign and Colonial News</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1291</biblScope>
 <biblScope type="pages">p. 574</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>10 paragraphs</extent>
  
@@ -8428,27 +8413,27 @@ and public buildings of New York; but it is added that little damage
 was done. Two of the alleged incendiaries had been apprehended, and it
 was supposed that Confederate emissaries were connected with the
 plot.</p>
-<p>The latest quotation of gold at New York was 122&#xBD; per cent
+<p>The latest quotation of gold at New York was 122½ per cent
 premium.</p>
 <p>The Canadian authorities, finding that the Southerners were
 collecting munitions of war at various points, had prohibited the
 exportation of arms.</p></div2>
 
-<div2 id="iln45.1291.002" n="Peyton Falls, in Virginia" type="Article">
+<div2 xml:id="iln45.1291.002" n="Peyton Falls, in Virginia" type="Article">
 <head>Peyton Falls, in Virginia</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1291</biblScope>
 <biblScope type="pages">p. 575</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m6w</idno></bibl>
 <p rend="center">PEYTON FALLS, IN VIRGINIA.</p>
 <p><hi rend="smallcaps">We </hi>have engraved on another page a
-sketch, by an amateur artist, of Peyton Falls, in the <sic corr="Allegheny">Alleghany</sic>
+sketch, by an amateur artist, of Peyton Falls, in the <choice><sic>Alleghany</sic><corr>Allegheny</corr></choice>
 Mountains, Western Virginia. This romantic and beautiful cascade is on
 the Falling Spring, a brook tributary to Jackson's River. It is
 situated in the district or township which was once known as West
@@ -8470,32 +8455,32 @@ bright and sparkling, and the stream in other parts is full of
 trout. Near the cascade there is a mineral spring of rare curative
 properties.</p></div2>
 
-<div2 id="iln45.1291.003" n="Peyton Falls, Alleghany county, Virginia." type="Illustration"><head>Peyton Falls, Alleghany county, Virginia.</head>
+<div2 xml:id="iln45.1291.003" n="Peyton Falls, Alleghany county, Virginia." type="Illustration"><head>Peyton Falls, Alleghany county, Virginia.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1291</biblScope>
 <biblScope type="pages">p. 576</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1m70</idno></bibl>
 <p>
-<figure entity="v45p576" ana="land" width="585" height="807">
+<figure><graphic url="" ana="#land" width="585px" height="807px"/>
 <head>Peyton Falls, <sic>Alleghany</sic> County, Virginia.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1291.004" n="London: Saturday, December 10, 1864" type="Article">
+<div2 xml:id="iln45.1291.004" n="London: Saturday, December 10, 1864" type="Article">
 <head>London: Saturday, December 10, 1864</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1291</biblScope>
 <biblScope type="pages">p. 579</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -8583,14 +8568,14 @@ beyond this England, as a nation, is not called upon to make her
 Christmas sad with American memories. We have done our duty, and we
 have a right to the peaceful enjoyment of the feast.</p></div2>
 
-<div2 id="iln45.1291.005" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1291.005" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1291</biblScope>
 <biblScope type="pages">p. 582</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8598,7 +8583,7 @@ have a right to the peaceful enjoyment of the feast.</p></div2>
 <p rend="center">ECHOES OF THE WEEK.</p>
 <p>...On Saturday night twenty-five gentlemen, some on the press and
 others gathered from the different classes of society, witnessed an
-especial s&#xE9;ance with especially provided tests of the Davenport
+especial séance with especially provided tests of the Davenport
 Brothers. The head of these gentlemen, Mr. Edmund Yates, wrote an
 account of this meeting, from which it would appear that the
 spiritualists were not quite so successful with these sceptics as with
@@ -8613,7 +8598,7 @@ belief, the great African traveller, who surely is sceptical enough on
 most points and who has seen most systems of Indian jugglery, deposes
 to hearing strange voices, feeling rough hands, seeing drops of fire
 from the ceiling, and beholding all those strange doings in the dark
-s&#xE9;ance which have puzzled most of us. Mr. Howitt, in a
+séance which have puzzled most of us. Mr. Howitt, in a
 recently-published letter, proclaims the ultimate triumph of
 spiritualism over the ignorant opposition of a ribald press, to the
 writers on which he calls out, "Go ahead, gentlemen, and in a very
@@ -8621,14 +8606,14 @@ short time you will have pilloried yourselves amongst the opponents of
 vaccination, electricity, steam, and railroads to the amplest
 satisfaction of your very worst enemies."...</p></div2>
 
-<div2 id="iln45.1291.006" n="The Magazines" type="Article">
+<div2 xml:id="iln45.1291.006" n="The Magazines" type="Article">
 <head>The Magazines</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1291</biblScope>
 <biblScope type="pages">p. 582</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8659,14 +8644,14 @@ generally they leave out the Amster." There is also a good story of a
 wounded Confederate soldier, who, finding he would have to lose his
 leg, immediately proceeded to barter the useless boot....</p></div2>
 
-<div2 id="iln45.1291.007" n="It is stated" type="Article">
+<div2 xml:id="iln45.1291.007" n="It is stated" type="Article">
 <head>[It is Stated]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1291</biblScope>
 <biblScope type="pages">p. 583</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8677,33 +8662,33 @@ the farmers are glad to receive them. This is done by an association,
 styled the Children's Aid Society. The whole expense does not average
 more than 15 dols. for each child.</p></div2>
 
-<div2 id="iln45.1291.008" n="The Town and Port of Nassau, New       Providence, Bahama Islands." type="Illustration"><head>The Town and Port of Nassau, New       Providence, Bahama Islands.</head>
+<div2 xml:id="iln45.1291.008" n="The Town and Port of Nassau, New       Providence, Bahama Islands." type="Illustration"><head>The Town and Port of Nassau, New       Providence, Bahama Islands.</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol.45</biblScope>
 <biblScope type="issue">no.1291</biblScope>
 <biblScope type="pages">p. 592</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>1 paragraph</extent>
    
 <idno type="ark">http://pid.emory.edu/ark:/25593/1mdh</idno></bibl>
 <p>
-<figure entity="v45p592" ana="np" width="1231" height="661">
+<figure><graphic url="" ana="#np" width="1231px" height="661px"/>
 <head>The Town and Port of Nassau, New
       Providence, Bahama Islands.</head>
 </figure>
 </p>
 </div2>
 
-<div2 id="iln45.1291.009" n="The Town and Port of Nassau." type="Article">
+<div2 xml:id="iln45.1291.009" n="The Town and Port of Nassau." type="Article">
 <head>The Town and Port of Nassau</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1291</biblScope>
 <biblScope type="pages">p. 592</biblScope>
-<date value="1864-12-10">December 10, 1864</date>
+<date when="1864-12-10">December 10, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8717,7 +8702,7 @@ the Federal navy. The port of Nassau, in the island of New Providence,
 being at no great distance from the coast of Florida, and commanding
 the nearest entrance to the navigation of the Gulf of Mexico; with an
 easy run, moreover, to Bermuda on the one hand, or to Wilmington,
-South <sic>Carolina</sic>, on the other, has become a great entrep&#xF4;t for
+South <sic>Carolina</sic>, on the other, has become a great entrepôt for
 the blockade-breaking trade. We are indebted to an officer of the 1st
 West India Regiment, stationed at this place, for a View of the town
 and harbour, which we have engraved. It is taken from the verandah of
@@ -8727,7 +8712,7 @@ foreground is the entrance to the grounds of Government House. The
 cathedral is in the centre of the View. The two long buildings seen
 beyond the cottages in the foreground are the barracks. The harbour is
 very spacious, and formed by the long strip of rocky ground called
-"Hog Island," on which coal d&#xE9;p&#xF4;ts have recently been
+"Hog Island," on which coal dépôts have recently been
 formed, so as to prevent the quays being occupied by the vast store of
 coal required for the steamers. There is also a dock, in which a
 "blockader" is seen undergoing repair. The vessel seen beyond the
@@ -8755,14 +8740,14 @@ chiefly imported from home, since their export from New York is
 prohibited, lest they should be sent into the Southern States to
 supply the Confederate army.</p></div2>
 
-<div2 id="iln45.1292.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1292.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1292</biblScope>
 <biblScope type="pages">p. 598-599</biblScope>
-<date value="1864-12-17">December 17, 1864</date>
+<date when="1864-12-17">December 17, 1864</date>
 
 <extent>12 paragraphs</extent>
  
@@ -8849,14 +8834,14 @@ of 150 bales of cotton.</p>
 <p>The Confederate Congress had unanimously rejected the peace
 propositions laid before it.</p></div2>
 
-<div2 id="iln45.1292.002" n="The largest church in the American States" type="Article">
+<div2 xml:id="iln45.1292.002" n="The largest church in the American States" type="Article">
 <head>[The Largest Church in the American States]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1292</biblScope>
 <biblScope type="pages">p. 614</biblScope>
-<date value="1864-12-17">December 17, 1864</date>
+<date when="1864-12-17">December 17, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8869,14 +8854,14 @@ of St. Vincent's at Latrobe, and more than 200 priests entered the
 cathedral during the processional chant. The ceremonies were attended
 by about 8000 people.</p></div2>
 
-<div2 id="iln45.1292.003" n="Current Literature" type="Article">
+<div2 xml:id="iln45.1292.003" n="Current Literature" type="Article">
 <head>Current Literature</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1292</biblScope>
 <biblScope type="pages">p. 614</biblScope>
-<date value="1864-12-17">December 17, 1864</date>
+<date when="1864-12-17">December 17, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8894,14 +8879,14 @@ welcome. He is both grave and gay, both business-like and playful,
 mingling the humorous with the scientific, after the cheery manner of
 most "jolly fishermen."...</p></div2>
 
-<div2 id="iln45.1292.004" n="The Action of Oil Wells" type="Article">
+<div2 xml:id="iln45.1292.004" n="The Action of Oil Wells" type="Article">
 <head>The Action of Oil Wells</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1292</biblScope>
 <biblScope type="pages">p. 618</biblScope>
-<date value="1864-12-17">December 17, 1864</date>
+<date when="1864-12-17">December 17, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -8957,14 +8942,14 @@ to its connection with higher columns of water. The activity of some
 wells is increased by rains; others, with less gas, are rendered
 unproductive till the water can be reduced.</p></div2>
 
-<div2 id="iln45.1293.001" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1293.001" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1293</biblScope>
 <biblScope type="pages">p. 622</biblScope>
-<date value="1864-12-24">December 24, 1864</date>
+<date when="1864-12-24">December 24, 1864</date>
 
 <extent>13 paragraphs</extent>
  
@@ -9053,14 +9038,14 @@ capturing many prisoners.</p>
 offered a reward of any kind for the destruction of the
 Florida.</p></div2>
 
-<div2 id="iln45.1293.002" n="London: Saturday, December 24, 1864" type="Article">
+<div2 xml:id="iln45.1293.002" n="London: Saturday, December 24, 1864" type="Article">
 <head>London: Saturday, December 24, 1864</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1293</biblScope>
 <biblScope type="pages">p. 627</biblScope>
-<date value="1864-12-24">December 24, 1864</date>
+<date when="1864-12-24">December 24, 1864</date>
 
 <extent>4 paragraphs</extent>
   
@@ -9150,14 +9135,14 @@ South. May we have a far different record for our next Christmas
 Number! "Give peace in our time" will not be the least earnest of the
 Christmas prayers in England.</p></div2>
 
-<div2 id="iln45.1293.003" n="Echoes of the Week" type="Article">
+<div2 xml:id="iln45.1293.003" n="Echoes of the Week" type="Article">
 <head>Echoes of the Week</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1293</biblScope>
 <biblScope type="pages">p. 630</biblScope>
-<date value="1864-12-24">December 24, 1864</date>
+<date when="1864-12-24">December 24, 1864</date>
 
 <extent>2 paragraphs</extent>
   
@@ -9197,7 +9182,7 @@ time, and under any penalty, to prove what they assert--that the
 manifestations in their presence are not the result of trick,
 confederacy, or any kind of imposture. They are prepared, they say, to
 meet a select committee fairly chosen, at any place, except
-St. James's Hall or the Hanover-square Rooms, and to place &#xA3;250
+St. James's Hall or the Hanover-square Rooms, and to place £250
 at its disposal for any charitable purpose if the verdict be against
 them. This is all very well as far as it goes; but the agents of the
 brethren have resorted to the somewhat indecorous proceeding of
@@ -9212,7 +9197,7 @@ purposes by the proprietors of a show. Let those who choose puzzle
 themselves with "spiritual investigations." The material exigencies of
 attempting to earn an honest living are quite enough for us. The
 Davenports are, we dare say, very wonderful people; but we are rather
-<hi rend="italic">blas&#xE9; </hi>with wonders. We have seen
+<hi rend="italic">blasé </hi>with wonders. We have seen
 Simmonds cut off his own head, and Heller devour his own hat. We have
 listened to the pythoness, Cora Hatch. We have heard of a young man in
 the State of Indiana who can jump down his own throat; and if we gave
@@ -9221,14 +9206,14 @@ could tell us how to prevent the pipes freezing, or who could bring
 the chartered gas companies to a sense of common honesty with regard
 to the article they supply....</p></div2>
 
-<div2 id="iln45.1293.004" n="Among the curiosities" type="Article">
+<div2 xml:id="iln45.1293.004" n="Among the curiosities" type="Article">
 <head>[Among the Curiosities]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1293</biblScope>
 <biblScope type="pages">p. 630</biblScope>
-<date value="1864-12-24">December 24, 1864</date>
+<date when="1864-12-24">December 24, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -9238,14 +9223,14 @@ Francisco were:--"A ten-toed ox, a three-legged calf, a three-legged
 dog, and the celebrated upright game-cock--four of the most
 extraordinary creatures in the State."</p></div2>
 
-<div2 id="iln45.1293.005" n="By the last American mail" type="Article">
+<div2 xml:id="iln45.1293.005" n="By the last American mail" type="Article">
 <head>[By the Last American Mail]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1293</biblScope>
 <biblScope type="pages">p. 630</biblScope>
-<date value="1864-12-24">December 24, 1864</date>
+<date when="1864-12-24">December 24, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -9258,13 +9243,13 @@ weight of a similar sheet of ordinary notepaper. The letter is dated
 "South Pittsburg (Pennsylvania), Nov. 6, 1864," and says, "In the
 number of your paper dated Oct. 1, 1864, there is an article setting
 forth that John Brown and Co., of the Atlas Works, Sheffield, had
-succeeded in rolling a plate of iron 13&#xBD;in. thick. I believe
+succeeded in rolling a plate of iron 13½in. thick. I believe
 that to be the thickest plate ever rolled. I send you this specimen of
 iron made at the Sligo ironworks, Pittsburg, Pennsylvania, as the
 thinnest iron ever rolled in the world up to this time, which iron I
 challenge all England to surpass for strength and tenuity. This, I
 believe, will be the first iron letter that ever crossed the Atlantic
-Ocean.--Yours, &#x0026;c., <hi rend="smallcaps">John C. Evans</hi>." The
+Ocean.--Yours, &amp;c., <hi rend="smallcaps">John C. Evans</hi>." The
 iron is said to be of exceedingly fine quality, and the sheet is by
 far the thinnest ever seen in this country. The letter will be
 deposited in the museum of the Midland Institute. Tested by one of
@@ -9274,14 +9259,14 @@ be the thinnest yet rolled, is the 666th part of an inch thick, and
 the thickness of an ordinary sheet of notepaper is about the 400th
 part of an inch.</p></div2>
 
-<div2 id="iln45.1293.006" n="The American papers say" type="Article">
+<div2 xml:id="iln45.1293.006" n="The American papers say" type="Article">
 <head>[The American Papers Say]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1293</biblScope>
 <biblScope type="pages">p. 631</biblScope>
-<date value="1864-12-24">December 24, 1864</date>
+<date when="1864-12-24">December 24, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -9292,14 +9277,14 @@ than 12,000 miles, fought twenty general engagements, marched through
 fifteen States, and has been under Burnside, Pope, M'Clellan,
 M'Dowell, Meade, Sherman, and Grant.</p></div2>
 
-<div2 id="iln45.1295.001" n="The Last Day of the Year" type="Article">
+<div2 xml:id="iln45.1295.001" n="The Last Day of the Year" type="Article">
 <head>The Last Day of the Year</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1295</biblScope>
 <biblScope type="pages">p. 661</biblScope>
-<date value="1864-12-31">December 31, 1864</date>
+<date when="1864-12-31">December 31, 1864</date>
 
 <extent>3 paragraphs</extent>
   
@@ -9381,14 +9366,14 @@ whatever may be the final issue of the pending conflict, the "peculiar
 domestic institution" will perish in the awful struggle which it has
 occasioned....</p></div2>
 
-<div2 id="iln45.1295.002" n="Foreign and Colonial Intelligence" type="Article">
+<div2 xml:id="iln45.1295.002" n="Foreign and Colonial Intelligence" type="Article">
 <head>Foreign and Colonial Intelligence</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1295</biblScope>
 <biblScope type="pages">p. 662-663</biblScope>
-<date value="1864-12-31">December 31, 1864</date>
+<date when="1864-12-31">December 31, 1864</date>
 
 <extent>10 paragraphs</extent>
  
@@ -9461,14 +9446,14 @@ amendment to abolish slavery.</p>
 <p>The latest quotation of gold at New York was 128 per cent
 premium.</p></div2>
 
-<div2 id="iln45.1295.003" n="During the last fifteen months" type="Article">
+<div2 xml:id="iln45.1295.003" n="During the last fifteen months" type="Article">
 <head>[During the Last Fifteen Months]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1295</biblScope>
 <biblScope type="pages">p. 663</biblScope>
-<date value="1864-12-31">December 31, 1864</date>
+<date when="1864-12-31">December 31, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -9478,14 +9463,14 @@ over to the treasurer of the United States by Marshal Keyes, of
 Massachusetts, as the proceeds of sales of captured blockade-runners
 whose cases have been adjudicated at Boston.</p></div2>
 
-<div2 id="iln45.1295.004" n="London: Saturday, December 31, 1864" type="Article">
+<div2 xml:id="iln45.1295.004" n="London: Saturday, December 31, 1864" type="Article">
 <head>London: Saturday, December 31, 1864</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1295</biblScope>
 <biblScope type="pages">p. 666-667</biblScope>
-<date value="1864-12-31">December 31, 1864</date>
+<date when="1864-12-31">December 31, 1864</date>
 
 <extent>4 paragraphs</extent>
   
@@ -9607,14 +9592,14 @@ war hitherto noticed in history. That a still more hideous and
 irrational war will succeed it we have too much faith in a
 superintending Providence to believe.</p></div2>
 
-<div2 id="iln45.1295.005" n="Lord Wharncliffe writes" type="Article">
+<div2 xml:id="iln45.1295.005" n="Lord Wharncliffe writes" type="Article">
 <head>[Lord Wharncliffe Writes0]</head>
 <bibl>
 <title>The Illustrated London News</title>
 <biblScope type="volume">vol. 45</biblScope>
 <biblScope type="issue">no. 1295</biblScope>
 <biblScope type="pages">p. 683</biblScope>
-<date value="1864-12-31">December 31, 1864</date>
+<date when="1864-12-31">December 31, 1864</date>
 
 <extent>1 paragraph</extent>
    
@@ -9627,69 +9612,69 @@ recipients."</p></div2></div1></body>
 <back>
 <div1>
 <p>
-<interpGrp type="City Views">
-<interp id="balt" value="Baltimore"/>
-<interp id="texas" value="Brownsville, Texas"/>
-<interp id="char" value="Charleston"/>
-<interp id="chi" value="Chicago"/>
-<interp id="fair" value="Fairfax Courthouse"/>
-<interp id="fred" value="Fredericksburg"/>
-<interp id="slc" value="Great Salt Lake City"/>
-<interp id="ms" value="Jackson, Mississippi"/>
-<interp id="ga" value="Macon, Georgia"/>
-<interp id="np" value="Nassau, New Providence"/>
-<interp id="ny" value="New York"/>
-<interp id="falls" value="Niagara Falls"/>
-<interp id="peter" value="Petersburg"/>
-<interp id="rich" value="Richmond"/>
-<interp id="sac" value="Sacramento City"/>
-<interp id="joe" value="St. Joe"/>
-<interp id="sav" value="Savannah"/>
-<interp id="wash" value="Washington"/>
-<interp id="york" value="Yorktown"/>
+<interpGrp type="CityViews">
+<interp xml:id="balt">Baltimore</interp>
+<interp xml:id="texas">Brownsville, Texas</interp>
+<interp xml:id="char">Charleston</interp>
+<interp xml:id="chi">Chicago</interp>
+<interp xml:id="fair">Fairfax Courthouse</interp>
+<interp xml:id="fred">Fredericksburg</interp>
+<interp xml:id="slc">Great Salt Lake City</interp>
+<interp xml:id="ms">Jackson, Mississippi</interp>
+<interp xml:id="ga">Macon, Georgia</interp>
+<interp xml:id="np">Nassau, New Providence</interp>
+<interp xml:id="ny">New York</interp>
+<interp xml:id="falls">Niagara Falls</interp>
+<interp xml:id="peter">Petersburg</interp>
+<interp xml:id="rich">Richmond</interp>
+<interp xml:id="sac">Sacramento City</interp>
+<interp xml:id="joe">St. Joe</interp>
+<interp xml:id="sav">Savannah</interp>
+<interp xml:id="wash">Washington</interp>
+<interp xml:id="york">Yorktown</interp>
 </interpGrp>
-<interpGrp type="Civilian Life">
-<interp id="church" value="Churches"/>
-<interp id="daily" value="Daily Living"/>
+<interpGrp type="CivilianLife">
+<interp xml:id="church">Churches</interp>
+<interp xml:id="daily">Daily Living</interp>
 <!--<interp id="gov" value="Government Buildings"/>-->
-<interp id="ps" value="Political Scenes"/>
-<interp id="pb" value="Public Buildings"/>
-<interp id="pg" value="Public Gatherings"/>
-<interp id="ref" value="Refugees"/>
-<interp id="street" value="Street Scenes"/>
-<interp id="protest" value="War Protest / Rioting"/>
+<interp xml:id="ps">Political Scenes</interp>
+<interp xml:id="pb">Public Buildings</interp>
+<interp xml:id="pg">Public Gatherings</interp>
+<interp xml:id="ref">Refugees</interp>
+<interp xml:id="street">Street Scenes</interp>
+<interp xml:id="protest">War Protest Rioting</interp>
 </interpGrp>
 <interpGrp type="Flags">
-<interp id="flag" value="Flags"/>
+<interp xml:id="flag">Flags</interp>
 </interpGrp>
 <interpGrp type="Landscapes">
-<interp id="land" value="Landscapes"/>
+<interp xml:id="land">Landscapes</interp>
 </interpGrp>
 <interpGrp type="Maps">
-<interp id="map" value="Maps"/>
+<interp xml:id="map">Maps</interp>
 </interpGrp>
 <interpGrp type="Military">
-<interp id="battle" value="Battles &#x0026; Battlefields"/>
-<interp id="camp" value="Camp Life"/>
-<interp id="insta" value="Installations"/>
-<interp id="prison" value="Prisons"/>
-<interp id="skirm" value="Skirmishes"/>
-<interp id="red" value="Troops, British"/>
-<interp id="gray" value="Troops, Confederate"/>
-<interp id="blue" value="Troops, Union"/>
+<interp xml:id="battle">Battles &amp; Battlefields</interp>
+<interp xml:id="camp">Camp Life</interp>
+<interp xml:id="insta">Installations</interp>
+<interp xml:id="prison">Prisons</interp>
+<interp xml:id="skirm">Skirmishes</interp>
+<interp xml:id="red">Troops, British</interp>
+<interp xml:id="gray">Troops, Confederate</interp>
+<interp xml:id="blue">Troops, Union</interp>
 </interpGrp>
-<interpGrp type="Naval Scenes &#x0026; Battles">
-<interp id="naval" value="Naval Scenes &#x0026; Battles"/>
+<interpGrp type="Naval_Scenes_and_Battles">
+<interp xml:id="naval">Naval Scenes &amp; Battles</interp>
 </interpGrp>
 <interpGrp type="Portraits">
-<interp id="pic" value="Portraits"/>
+<interp xml:id="pic">Portraits</interp>
 </interpGrp>
-<interpGrp type="Slave Life">
-<interp id="slave" value="Slave Life"/>
+<interpGrp type="SlaveLife">
+<interp xml:id="slave">Slave Life</interp>
 </interpGrp>
-<interpGrp type="Transportation, Commerce, &#x0026; Industry">
-<interp id="money" value="Transportation, Commerce, &#x0026;  Industry"/>
+<interpGrp type="Transportation_Commerce_and_Industry">
+<interp xml:id="money">Transportation, Commerce, &amp; Industry</interp>
 </interpGrp>
 </p>
 </div1>
-</back></text></TEI.2>
+</back></text></TEI>
