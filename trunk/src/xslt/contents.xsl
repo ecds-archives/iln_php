@@ -2,7 +2,8 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:html="http://www.w3.org/TR/REC-html40" version="1.0"
-	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
+	xmlns:tei="http://www.tei-c.org/ns/1.0" 
+	xmlns:exist="http://exist.sourceforge.net/NS/exist"
 	xmlns:xq="http://metalab.unc.edu/xq/">
 
 <xsl:param name="mode">article</xsl:param>
@@ -12,7 +13,6 @@
 <xsl:variable name="mode_name">Browse</xsl:variable> 
 <xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
 <xsl:variable name="xsl_imgview">imgview.xsl</xsl:variable>
-<xsl:variable name="query"><xsl:value-of select="ino:response/xq:query"/></xsl:variable>
 <xsl:variable name="total_count" select="count(//div1 | //div2[figure])" />
 
 <xsl:variable name="cookie_name"><xsl:value-of select="concat('ILN-', $mode)"/></xsl:variable>
@@ -85,13 +85,13 @@
    <!-- make volume title clickable also -->
    <xsl:element name="a">
      <xsl:attribute name="onclick">toggle_ul('list<xsl:value-of select="$num"/>')</xsl:attribute>
-     <xsl:apply-templates select="head"/> <!-- title -->
+     <xsl:apply-templates select="tei:head"/> <!-- title -->
    </xsl:element> <!-- a -->
    <xsl:element name="font">
      <xsl:attribute name="size">-1</xsl:attribute>
      <!-- type information is redundant at volume level -->
      <!--  - <xsl:value-of select="./@type"/> -->   <!-- type (volume) -->
-      - <xsl:value-of select="docDate" />  <!-- date -->
+      - <xsl:value-of select="tei:docDate" />  <!-- date -->
       - 
       <xsl:choose>
         <xsl:when test="$mode = 'figure'">
@@ -111,7 +111,7 @@
    <xsl:choose>
      <xsl:when test="$mode = 'figure'">
        <xsl:element name="table">
-         <xsl:apply-templates select=".//figure"/>
+         <xsl:apply-templates select=".//tei:figure"/>
        </xsl:element> <!-- table -->
      </xsl:when>
      <xsl:otherwise>
@@ -133,7 +133,7 @@
  <xsl:apply-templates select="following-sibling::div1[1]">
  <!-- count all figures in current div, number before current div1,
       plus one for current div -->
-   <xsl:with-param name="num" select="count(div2[figure]) + $num + 1"/>
+   <xsl:with-param name="num" select="count(div2[tei:figure]) + $num + 1"/>
  </xsl:apply-templates>
 
 </xsl:template>  <!-- div1 -->
@@ -170,7 +170,7 @@
 select="$num"/></xsl:attribute>
    <xsl:attribute name="class">contents</xsl:attribute>
    <xsl:element name="table">
-    <xsl:apply-templates select="figure"/>
+    <xsl:apply-templates select="tei:figure"/>
    </xsl:element> <!-- table -->
 </xsl:element>
 
@@ -250,7 +250,7 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
    <xsl:element name="td">
      <xsl:element name="p">
 	<xsl:attribute name="class">caption</xsl:attribute>
-      <xsl:value-of select="head"/>
+      <xsl:value-of select="tei:head"/>
     <xsl:element name="br"/>
     <xsl:call-template name="fig-bibl"/>
     </xsl:element> <!-- end p -->
@@ -264,13 +264,13 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
      <!-- make volume title clickable also -->
    <xsl:element name="a">
      <xsl:attribute name="href">volume.php?id=<xsl:value-of select="@id"/></xsl:attribute>
-     <xsl:apply-templates select="head"/> <!-- title -->
+     <xsl:apply-templates select="tei:head"/> <!-- title -->
    </xsl:element> <!-- a -->
    <xsl:element name="font">
      <xsl:attribute name="size">-1</xsl:attribute>
      <!-- type information is redundant at volume level -->
      <!--  - <xsl:value-of select="./@type"/> -->   <!-- type (volume) -->
-      - <xsl:value-of select="docDate" />  <!-- date -->
+      - <xsl:value-of select="tei:docDate" />  <!-- date -->
      - (<xsl:value-of select="count[@type='article']"/> Articles,  <!-- number of articles -->
 	 <xsl:value-of select="count[@type='figure']"/> Illustrations)
     </xsl:element> <!-- end font -->
@@ -284,16 +284,16 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
  <xsl:element name="li">
    <xsl:attribute name="class">contents</xsl:attribute>
    <xsl:element name="a">
-     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/></xsl:attribute>  
+     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@xml:id"/></xsl:attribute>  
      <xsl:call-template name="cleantitle"/>
    </xsl:element> <!-- a -->
 
    <xsl:call-template name="div2-bibl"/>
 
-   <xsl:if test=".//figure">
+   <xsl:if test=".//tei:figure">
      <xsl:element name="ul">
        <xsl:element name="table">
-          <xsl:apply-templates select="figure"/>
+          <xsl:apply-templates select="tei:figure"/>
       </xsl:element> <!-- table -->
      </xsl:element>
    </xsl:if>
@@ -319,9 +319,9 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
    <xsl:element name="font">
      <xsl:attribute name="size">-1</xsl:attribute>
      - <xsl:value-of select="./@type"/>
-     - <xsl:value-of select="bibl/date" /> 
-     <xsl:if test="bibl/extent">
-       - (<xsl:value-of select="bibl/extent" />)
+     - <xsl:value-of select="tei:bibl/tei:date" /> 
+     <xsl:if test="tei:bibl/tei:extent">
+       - (<xsl:value-of select="tei:bibl/tei:extent" />)
      </xsl:if>
     </xsl:element> <!-- end font -->
 </xsl:template>
@@ -329,10 +329,10 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
 <xsl:template name="fig-bibl">
    <xsl:element name="font">
      <xsl:attribute name="size">-1</xsl:attribute>
-     <xsl:value-of select="../bibl/biblScope[@type='volume']" />,
-  <xsl:value-of select="../bibl/biblScope[@type='issue']" />,  
-  <xsl:value-of select="../bibl/biblScope[@type='pages']" />.  
-  <xsl:value-of select="../bibl/date" /> 
+     <xsl:value-of select="../tei:bibl/tei:biblScope[@type='volume']" />,
+     <xsl:value-of select="../tei:bibl/tei:biblScope[@type='issue']" />,  
+     <xsl:value-of select="../tei:bibl/tei:biblScope[@type='pages']" />.  
+     <xsl:value-of select="../tei:bibl/tei:date" /> 
     </xsl:element> <!-- end font -->
 </xsl:template>
 
