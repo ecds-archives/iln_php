@@ -6,35 +6,45 @@ include("common_functions.php");
 
 $id = $_REQUEST["id"];
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
 // query for all volumes 
-$allquery = 'for $b in /TEI.2/text/body/div1
-order by $b/head
-return <div1 id="{$b/@id}" type="{$b/@type}">
- {$b/head}
- {$b/docDate}
- <count type="article">{count($b/div2)}</count>
- <count type="figure">{count($b//figure)}</count>
+$allquery = 'declare namespace tei="http://www.tei-c.org/ns/1.0";
+for $b in /tei:TEI/tei:text/tei:body/tei:div1
+order by $b/tei:head
+return <div1 id="{$b/@xml:id}" type="{$b/@type}">
+ {$b/tei:head}
+ {$b/tei:docDate}
+ <count type="article">{count($b/tei:div2)}</count>
+ <count type="figure">{count($b//tei:figure)}</count>
 </div1>';
 
 //query for single volume by id
-$idquery = 'for $b in /TEI.2/text/body/div1
-where $b/@id = "' . $id  . '"
-return <div1 id="{$b/@id}" type="{$b/@type}">
- {$b/head}
- {$b/docDate}
- { for $c in $b/div2 return
-   <div2 id="{$c/@id}" type="{$c/@type}" n="{$c/@n}">
-     {$c/head}
-     {$c/bibl}
-     {for $d in $c/p/figure return $d}
+$idquery = 'declare namespace tei="http://www.tei-c.org/ns/1.0"; 
+for $b in /tei:TEI/tei:text/tei:body/tei:div1
+where $b/@xml:id = "' . $id  . '"
+return <div1 id="{$b/@xml:id}" type="{$b/@type}">
+ {$b/tei:head}
+ {$b/tei:docDate}
+ { for $c in $b/tei:div2 return
+   <div2 id="{$c/@xml:id}" type="{$c/@type}" n="{$c/@n}">
+     {$c/tei:head}
+     {$c/tei:bibl}
+     {for $d in $c/tei:p/tei:figure return $d}
    </div2>}
 </div1>';
 
-$query = isset($id) ? $idquery : $allquery;
-$vol = isset($id) ? "single" : "all";
+if (isset($id)) {
+    $query = $idquery;
+  } else {
+    $query = $allquery;
+    }
+if (isset($id)) {
+    $vol = "single";
+    } else {
+    $vol = "all";
+    }
 
 
 $xmldb->xquery($query);
@@ -47,7 +57,7 @@ include("web/xml/sidebar.xml");
 
 print '<div class="content">';
 if (isset($id)) {
-  $voltitle = $xmldb->findNode("head");
+  $voltitle = $xmldb->findNode("tei:head");
   print "<h2>$voltitle</h2>";
 } else {
   print '<h2>Volumes</h2>';
