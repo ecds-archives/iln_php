@@ -3,7 +3,7 @@
 /* Configuration settings for entire site */
 $in_production = false;
 // set level of php error reporting -- turn off warnings when in production
-if($in_production) {
+if($in_production==true) {
   error_reporting(E_ERROR);	// for production
  } else {
   error_reporting(E_ERROR | E_PARSE);
@@ -19,10 +19,11 @@ $base_url = "http://$server$base_path/";
 $port = "7080";
  } else {
 
+$webserver = "beck.library.emory.edu";
 $server = "kamina.library.emory.edu";
-$base_path = "/~lshanna/iln";
-$basedir = "/home/lshanna/public_html/iln"; 
-$base_url = "http://$server$base_path"; 
+$base_path = "/~alice/iln";
+$basedir = "/Users/alice/Sites/iln"; 
+$base_url = "http://$webserver$base_path"; 
 $port = "8080";
  }
 // add basedir to the php include path (for header/footer files and lib directory)

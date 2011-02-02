@@ -11,13 +11,14 @@ include_once("../../lib/xmlDbConnection.class.php");
 
 $id = $_REQUEST["id"];
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
-$query = '//figure[@entity = "' . "$id" . '"]';
+$query = 'declare namespace tei="http://www.tei-c.org/ns/1.0";
+//tei:figure[tei:graphic/@url = "' . "$id" . '"]';
 $xmldb->xquery($query);
-$head = $xmldb->findNode("head");
-$width = $xmldb->findNode("@width");
-$height = $xmldb->findNode("@height");
+$head = $xmldb->findNode("tei:head");
+$width = $xmldb->findNode("tei:graphic/@width");
+$height = $xmldb->findNode("tei:graphic/@height");
 
 
 print "<h3>$head</h3>"; 
