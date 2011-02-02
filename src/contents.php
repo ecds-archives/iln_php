@@ -7,14 +7,15 @@ $exist_args{"debug"} =false;
 $xmldb = new xmlDbConnection($exist_args);
 
 
-$query = 'for $vol in //div1
-order by $vol/@id
+$query = 'declare namespace tei="http://www.tei-c.org/ns/1.0";
+for $vol in //tei:div1
+order by $vol/@xml:id
 return <div1 type="{$vol/@type}"> 
-{$vol/head} {$vol/docDate}
-{for $art in $vol//div2 return 
-<div2 id="{$art/@id}" type="{$art/@type}"> 
-  {$art/head}{$art/bibl} 
-  {for $fig in $art//figure return $fig} 
+{$vol/tei:head} {$vol/tei:docDate}
+{for $art in $vol//tei:div2 return 
+<div2 id="{$art/@xml:id}" type="{$art/@type}"> 
+  {$art/tei:head}{$art/tei:bibl} 
+  {for $fig in $art//tei:figure return $fig} 
 </div2>} 
 </div1>';
 /*

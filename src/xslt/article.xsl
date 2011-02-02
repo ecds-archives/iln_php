@@ -3,6 +3,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
 	xmlns:xql="http://metalab.unc.edu/xql/"
+	xmlns:tei="http://www.tei-c.org/ns/1.0"
 	xmlns:exist="http://exist.sourceforge.net/NS/exist"
 	exclude-result-prefixes="exist" version="1.0">
 
@@ -12,73 +13,73 @@
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
-    <xsl:apply-templates select="//TEI"/>
+    <xsl:apply-templates select="//tei:TEI"/>
 </xsl:template>
 
 
 <xsl:template match="/"> 
-<xsl:apply-templates select="//TEI//div2" />
+<xsl:apply-templates select="//tei:TEI//tei:div2" />
 <!-- links to next & previous titles (if present) -->
   <xsl:call-template name="next-prev" />
 </xsl:template>
 
 
 <!-- print out the content-->
-<xsl:template match="div2">
+<xsl:template match="tei:div2">
 <!-- get everything under this node -->
   <xsl:apply-templates/> 
 </xsl:template>
 
 <!-- display the title -->
-<xsl:template match="div2/head">
+<xsl:template match="tei:div2/tei:head">
   <xsl:element name="h1">
    <xsl:apply-templates />
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="head/@type['sub']">
+<xsl:template match="tei:head/@type['sub']">
   <xsl:element name="h2">
    <xsl:apply-templates />
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="bibl">
+<xsl:template match="tei:bibl">
   <xsl:element name="i">
-    <xsl:value-of select="title"/>,
+    <xsl:value-of select="tei:title"/>,
   </xsl:element>
-  <xsl:value-of select="biblScope[@type='volume']"/>,
-  <xsl:value-of select="biblScope[@type='issue']"/>,
-  <xsl:value-of select="biblScope[@type='pages']"/>.<br/>
+  <xsl:value-of select="tei:biblScope[@type='volume']"/>,
+  <xsl:value-of select="tei:biblScope[@type='issue']"/>,
+  <xsl:value-of select="tei:biblScope[@type='pages']"/>.<br/>
 <!-- date information seems redundant for some articles... -->
    <p><xsl:value-of select="date"/></p>
 </xsl:template>
 
-<xsl:template match="p/title">
+<xsl:template match="tei:p/tei:title">
   <xsl:element name="i">
     <xsl:apply-templates />
   </xsl:element>
 </xsl:template>  
 
-<xsl:template match="p">
+<xsl:template match="tei:p">
   <xsl:element name="p">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="q">
+<xsl:template match="tei:q">
   <xsl:element name="blockquote">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
-<xsl:template match="q/@rend['blockquote']">
+<xsl:template match="tei:q/@rend['blockquote']">
   <xsl:element name="blockquote">
     <xsl:apply-templates /> 
   </xsl:element>
 </xsl:template>
 
 <!-- show page breaks -->
-<xsl:template match="pb">
+<xsl:template match="tei:pb">
   <hr class="pb"/>
     <p class="pagebreak">
       Page <xsl:value-of select="@n"/>
@@ -127,12 +128,12 @@
   </xsl:choose>
 </xsl:template>
 
-<xsl:template match="lb">
+<xsl:template match="tei:lb">
   <xsl:element name="br" />
 </xsl:template>
 
 <!-- sic : show 'sic' as an editorial comment -->
-<xsl:template match="sic">
+<xsl:template match="tei:sic">
   <xsl:apply-templates select="text()"/>
   <!-- show the text between the sic tags -->
   <xsl:element name="span">
@@ -143,7 +144,7 @@
 
 
 <!-- line group -->
-<xsl:template match="lg">
+<xsl:template match="tei:lg">
   <xsl:element name="p">
      <xsl:attribute name="class"><xsl:value-of select="@type"/></xsl:attribute>
     <xsl:apply-templates />
@@ -153,7 +154,7 @@
 <!-- line  -->
 <!--   Indentation should be specified in format rend="indent#", where # is
        number of spaces to indent.  --> 
-<xsl:template match="l">
+<xsl:template match="tei:l">
   <!-- retrieve any specified indentation -->
   <xsl:if test="@rend">
   <xsl:variable name="rend">
@@ -187,14 +188,14 @@
 
 <!-- display articles relative to position of current article -->
 <xsl:element name="tr">
-<xsl:if test="//prev/@id">
+<xsl:if test="//prev/@xml:id">
 <xsl:element name="th">
     <xsl:text>Previous: </xsl:text>
 </xsl:element>
 <xsl:element name="td">
  <xsl:element name="a">
    <xsl:attribute name="href">browse.php?id=<xsl:value-of
-		select="//prev/@id"/></xsl:attribute>
+		select="//prev/@xml:id"/></xsl:attribute>
    <xsl:apply-templates select="//prev/@n"/>
  </xsl:element><!-- end a -->
 </xsl:element> <!-- end td -->
@@ -202,24 +203,24 @@
 <xsl:element name="td"> <xsl:attribute name="valign">top</xsl:attribute>
   <xsl:element name="font">
    <xsl:attribute name="size">-1</xsl:attribute> 
-  <xsl:value-of select="//prev/bibl/biblScope[@type='volume']"/>,
-  <xsl:value-of select="//prev/bibl/biblScope[@type='issue']"/>,
-  <xsl:value-of select="//prev/bibl/biblScope[@type='pages']"/>.
-  (<xsl:value-of select="//prev/bibl/extent"/>) 
+  <xsl:value-of select="//prev/tei:bibl/tei:biblScope[@type='volume']"/>,
+  <xsl:value-of select="//prev/tei:bibl/tei:biblScope[@type='issue']"/>,
+  <xsl:value-of select="//prev/tei:bibl/tei:biblScope[@type='pages']"/>.
+  (<xsl:value-of select="//prev/tei:bibl/tei:extent"/>) 
   </xsl:element> <!-- font -->
 </xsl:element><!-- end td -->
 </xsl:if>
 </xsl:element><!-- end  prev row --> 
 
 <xsl:element name="tr">
-<xsl:if test="//next/@id">
+<xsl:if test="//next/@xml:id">
 <xsl:element name="th">
     <xsl:text>Next: </xsl:text>
 </xsl:element>
 <xsl:element name="td">
  <xsl:element name="a">
    <xsl:attribute name="href">browse.php?id=<xsl:value-of
-		select="//next/@id"/></xsl:attribute>
+		select="//next/@xml:id"/></xsl:attribute>
    <xsl:apply-templates select="//next/@n"/>
  </xsl:element><!-- end a -->
 </xsl:element>
@@ -227,10 +228,10 @@
 <xsl:element name="td"> <xsl:attribute name="valign">top</xsl:attribute>
   <xsl:element name="font">
    <xsl:attribute name="size">-1</xsl:attribute> 
-  <xsl:value-of select="//next/bibl/biblScope[@type='volume']"/>,
-  <xsl:value-of select="//next/bibl/biblScope[@type='issue']"/>,
-  <xsl:value-of select="//next/bibl/biblScope[@type='pages']"/>.
-  (<xsl:value-of select="//next/bibl/extent"/>) 
+  <xsl:value-of select="//next/tei:bibl/tei:biblScope[@type='volume']"/>,
+  <xsl:value-of select="//next/tei:bibl/tei:biblScope[@type='issue']"/>,
+  <xsl:value-of select="//next/tei:bibl/tei:biblScope[@type='pages']"/>.
+  (<xsl:value-of select="//next/tei:bibl/tei:extent"/>) 
   </xsl:element> <!-- font -->
 </xsl:element><!-- end td -->
 </xsl:if>
@@ -240,8 +241,8 @@
   <xsl:element name="td"><xsl:element name="a">
 	  <xsl:attribute
 	      name="href">volume.php?id=<xsl:value-of
-	      select="//issueid/@id"/></xsl:attribute><xsl:value-of
-	      select="//issueid/head"/> </xsl:element><!-- end a -->
+	      select="//issueid/@xml:id"/></xsl:attribute><xsl:value-of
+	      select="//issueid/tei:head"/> </xsl:element><!-- end a -->
   </xsl:element> <!-- end td -->
   <xsl:element name="td"/> <!-- empty td -->
 </xsl:element> <!-- end tr -->

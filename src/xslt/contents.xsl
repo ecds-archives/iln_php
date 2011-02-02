@@ -158,7 +158,7 @@
    </xsl:element> <!-- a -->
    
   <xsl:element name="a">
-   <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@xml:id"/></xsl:attribute>  
+   <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/></xsl:attribute>  
    <xsl:call-template name="cleantitle"/>
   </xsl:element> <!-- a -->
 
@@ -188,7 +188,7 @@
  <xsl:element name="li">
    <xsl:attribute name="class">contents</xsl:attribute>
    <xsl:element name="a">
-     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@xml:id"/></xsl:attribute>  
+     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/></xsl:attribute>  
      <xsl:call-template name="cleantitle"/>
    </xsl:element> <!-- a -->
 
@@ -282,7 +282,7 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
  <xsl:element name="li">
    <xsl:attribute name="class">contents</xsl:attribute>
    <xsl:element name="a">
-     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@xml:id"/></xsl:attribute>  
+     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/></xsl:attribute>  
      <xsl:call-template name="cleantitle"/>
    </xsl:element> <!-- a -->
 
