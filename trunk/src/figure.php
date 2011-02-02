@@ -22,7 +22,8 @@ print '</head>';
 $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
-$xquery = "//figure[@entity='" . $id . "']"; 
+$xquery = "declare namespace  tei='http://www.tei-c.org/ns/1.0';
+//tei:figure[tei:graphic/@url='" . $id . "']"; 
 
 if ($id) {
   // run the query 
@@ -32,8 +33,8 @@ if ($id) {
 }
 
 // retrieve values for width, & height
-$width = $xmldb->findNode("//figure/@width");
-$height = $xmldb->findNode("//figure/@height");
+$width = $xmldb->findNode("//tei:figure/tei:graphic/@width");
+$height = $xmldb->findNode("//tei:figure/tei:graphic/@height");
 
 
 // Now, create the frameset with controller & image window

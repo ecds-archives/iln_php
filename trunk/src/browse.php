@@ -16,32 +16,33 @@ $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 //$xql = "TEI.2//div1/div2[@id='" . $id . "']"; 
 
-$query = "declare option exist:serialize 'highlight-matches=all';"; 
-$query .= 'for $art in /TEI.2//div1/div2[@id = "' . "$id" . '"]';
+$query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
+declare option exist:serialize 'highlight-matches=all';"; 
+$query .= 'for $art in /tei:TEI//tei:div1/tei:div2[@xml:id = "' . "$id" . '"]';
 if ($kw != '') {$query .= "[. |= \"$kw\"]";}
-$query .= 'let $hdr := root($art)/TEI.2/teiHeader
-let $previd := $art/preceding-sibling::div2[1]
-let $nextid := $art/following-sibling::div2[1]
+$query .= 'let $hdr := root($art)/tei:TEI/tei:teiHeader
+let $previd := $art/preceding-sibling::tei:div2[1]
+let $nextid := $art/following-sibling::tei:div2[1]
 let $issue := $art/..
 return <TEI>
 {$hdr}
 {$art}
 <issueid>
 {$issue/@id}
-{$issue/head}
+{$issue/tei:head}
 </issueid>
 <siblings>
     <prev>
-    {$previd/@id}
+{$previd/@xml:id}
     {$previd/@type}
     {$previd/@n}
-    {$previd/bibl}
+    {$previd/tei:bibl}
 </prev>
 <next>
- {$nextid/@id}
+{$nextid/@xml:id}
  {$nextid/@type}
  {$nextid/@n}
- {$nextid/bibl}
+ {$nextid/tei:bibl}
 </next>
 </siblings>
 </TEI>

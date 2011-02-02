@@ -11,7 +11,7 @@ include_once("../../lib/xmlDbConnection.class.php");
 
 $id = $_REQUEST["id"];
 
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 $query = 'declare namespace tei="http://www.tei-c.org/ns/1.0";
 //tei:figure[tei:graphic/@url = "' . "$id" . '"]';
