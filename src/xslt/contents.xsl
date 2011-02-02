@@ -158,7 +158,7 @@
    </xsl:element> <!-- a -->
    
   <xsl:element name="a">
-   <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/></xsl:attribute>  
+   <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@xml:id"/></xsl:attribute>  
    <xsl:call-template name="cleantitle"/>
   </xsl:element> <!-- a -->
 
@@ -166,8 +166,7 @@
 </xsl:element> <!-- end li -->
 
 <xsl:element name="ul">
-  <xsl:attribute name="id">list<xsl:value-of
-select="$num"/></xsl:attribute>
+  <xsl:attribute name="id">list<xsl:value-of select="$num"/></xsl:attribute>
    <xsl:attribute name="class">contents</xsl:attribute>
    <xsl:element name="table">
     <xsl:apply-templates select="tei:figure"/>
@@ -189,7 +188,7 @@ select="$num"/></xsl:attribute>
  <xsl:element name="li">
    <xsl:attribute name="class">contents</xsl:attribute>
    <xsl:element name="a">
-     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@id"/></xsl:attribute>  
+     <xsl:attribute name="href">browse.php?id=<xsl:value-of select="@xml:id"/></xsl:attribute>  
      <xsl:call-template name="cleantitle"/>
    </xsl:element> <!-- a -->
 
@@ -205,7 +204,7 @@ select="$num"/></xsl:attribute>
 
 
 <!--display figure & link to image-viewer  (slightly different than ilnshared) -->
-<xsl:template match="figure">
+<xsl:template match="tei:figure/tei:graphic">
       <xsl:element name="tr">
         <xsl:element name="td">
           <xsl:attribute name="class">figure</xsl:attribute>
@@ -214,14 +213,13 @@ select="$num"/></xsl:attribute>
 
       <xsl:element name="a">
 	<xsl:attribute
-name="href">javascript:launchViewer('figure.php?id=<xsl:value-of
-select="./@entity"/>')</xsl:attribute>
+name="href">javascript:launchViewer('figure.php?id=<xsl:value-of select="./@url"/>')</xsl:attribute>
 
 <xsl:element name="img">
   <xsl:attribute name="class">javascript</xsl:attribute>
-  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', @entity, '.gif')"/></xsl:attribute>
+  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', @url, '.gif')"/></xsl:attribute>
   <xsl:attribute name="alt">view image</xsl:attribute>
-  <xsl:attribute name="title"><xsl:value-of select="normalize-space(head)"/></xsl:attribute>
+  <xsl:attribute name="title"><xsl:value-of select="normalize-space(tei:head)"/></xsl:attribute>
   </xsl:element> <!-- end img -->
   </xsl:element> <!-- end a --> 
 
@@ -239,7 +237,7 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
   <xsl:element name="img"> 
 
 
-  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', @entity, '.gif')"/></xsl:attribute>
+  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', @url, '.gif')"/></xsl:attribute>
   <xsl:attribute name="alt">view image</xsl:attribute>
   </xsl:element> <!-- end img -->
   </xsl:element> <!-- end a --> 
@@ -329,10 +327,10 @@ select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
 <xsl:template name="fig-bibl">
    <xsl:element name="font">
      <xsl:attribute name="size">-1</xsl:attribute>
-     <xsl:value-of select="../tei:bibl/tei:biblScope[@type='volume']" />,
-     <xsl:value-of select="../tei:bibl/tei:biblScope[@type='issue']" />,  
-     <xsl:value-of select="../tei:bibl/tei:biblScope[@type='pages']" />.  
-     <xsl:value-of select="../tei:bibl/tei:date" /> 
+     <xsl:value-of select="../../tei:bibl/tei:biblScope[@type='volume']" />,
+     <xsl:value-of select="../../tei:bibl/tei:biblScope[@type='issue']" />,  
+     <xsl:value-of select="../../tei:bibl/tei:biblScope[@type='pages']" />.  
+     <xsl:value-of select="../../tei:bibl/tei:date" /> 
     </xsl:element> <!-- end font -->
 </xsl:template>
 
