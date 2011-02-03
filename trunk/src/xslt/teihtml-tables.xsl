@@ -26,7 +26,10 @@ XSL stylesheet to format TEI XML documents to HTML or XSL FO
 --> 
 <xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
-  version="1.0">
+  version="1.0"
+  xmlns:tei="http://www.tei-c.org/ns/1.0"
+  xmlns:exist="http://exist.sourceforge.net/NS/exist"
+  exclude-result-prefixes="exist">
 
 
 <!-- parameters added by Rebecca Sutton Koeser, November 19, 2003 -->
@@ -36,7 +39,7 @@ XSL stylesheet to format TEI XML documents to HTML or XSL FO
    <xsl:param name="cellAlign">left</xsl:param>
 
 
-<xsl:template match="table[@rend='simple']">
+<xsl:template match="tei:table[@rend='simple']">
   <table>
  <xsl:for-each select="@*">
   <xsl:if test="name(.)='summary'
@@ -53,7 +56,7 @@ or name(.) = 'cellpadding'">
 <xsl:apply-templates/></table>
 </xsl:template>
 
-<xsl:template match='table'>
+<xsl:template match='tei:table'>
  <div>
  <xsl:attribute name="align">
  <xsl:choose>
@@ -86,7 +89,7 @@ or name(.) = 'cellpadding'">
  </div>
 </xsl:template>
 
-<xsl:template match='row'>
+<xsl:template match='tei:row'>
  <tr>
 <xsl:if test="@rend and starts-with(@rend,'class:')">
  <xsl:attribute name="class">
@@ -100,9 +103,9 @@ or name(.) = 'cellpadding'">
  </tr>
 </xsl:template>
 
-<xsl:template match='cell'>
+<xsl:template match='tei:cell'>
  <td valign="top">
-   <xsl:if test="@id"><a name="{@id}"/></xsl:if>
+   <xsl:if test="@xml:id"><a name="{@xml:id}"/></xsl:if>
 <xsl:choose>
 <xsl:when test="@rend and starts-with(@rend,'width:')">
  <xsl:attribute name="width">

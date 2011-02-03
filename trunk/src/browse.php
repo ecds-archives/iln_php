@@ -28,7 +28,7 @@ return <TEI>
 {$hdr}
 {$art}
 <issueid>
-{$issue/@id}
+{$issue/@xml:id}
 {$issue/tei:head}
 </issueid>
 <siblings>
