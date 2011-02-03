@@ -23,11 +23,12 @@ if ($max == '') $max = 20;
 
 $options = array();
 if ($kw) 
-  array_push($options, ". &= '$kw'");
+  //array_push($options, ". &= '$kw'");
+  array_push($options, "[ft:query(., '$kw')]"
 if ($doctitle)
-  array_push($options, "head &= '$doctitle'");
+  array_push($options, "[ft:query(./tei:head, '$doctitle')]");
 if ($date)
-  array_push($options, "(bibl/date &= '$date' or bibl/date/@value &= '$date')");
+  array_push($options, "[ft:query(./tei:bibl/tei:date, '$date') or (tei:bibl/tei:date/@when,'$date')]");
 
 
 // there must be at least one search parameter for this to work
@@ -36,9 +37,9 @@ if (count($options)) {
   //  print("DEBUG: Searchfilter is $searchfilter\n");
 
 // construct xquery
-//$declare = 'declare namespace xs="http://www.w3.org/2001/XMLSchema"; '; //Don't need?
+  $declare = "declare namespace tei='http://www.tei-c.org/ns/1.0'; "; 
   $xquery = "declare option exist:serialize 'highlight-matches=all';";
-$xquery .= "for \$a in /TEI.2/text/body/div1/div2$searchfilter
+$xquery .= "for \$a in /tei:TEI//tei:div2$searchfilter
 let \$matchcount := text:match-count(\$a)
 order by \$matchcount descending
 return <div2>

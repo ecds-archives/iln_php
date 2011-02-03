@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>  
-
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
 	xmlns:xql="http://metalab.unc.edu/xql/"
@@ -10,15 +8,22 @@
 <xsl:include href="teihtml-tables.xsl"/>
 <xsl:include href="ilnshared.xsl"/>
 
-<xsl:output method="html"/>  
+  <xsl:param name="term">0</xsl:param>
+  <xsl:param name="term2">0</xsl:param>
+  <xsl:param name="term3">0</xsl:param>
+  <xsl:param name="defaultindent">5</xsl:param>
 
-<xsl:template match="/"> 
-    <xsl:apply-templates select="//tei:TEI"/>
+  <xsl:variable name="term_string"><xsl:if test="$term != 0">&amp;term=<xsl:value-of select="$term"/></xsl:if><xsl:if test="$term2 != 0">&amp;term2=<xsl:value-of select="$term2"/></xsl:if><xsl:if test="$term3 != 0">&amp;term3=<xsl:value-of select="$term3"/></xsl:if></xsl:variable>
+
+  <xsl:output method="html"/>  
+
+<xsl:template match="/"> <xsl:text>DEBUG: root template matched!</xsl:text>
+    <xsl:apply-templates select="//TEI"/>
 </xsl:template>
 
 
 <xsl:template match="/"> 
-<xsl:apply-templates select="//tei:TEI//tei:div2" />
+<xsl:apply-templates select="//TEI//tei:div2" />
 <!-- links to next & previous titles (if present) -->
   <xsl:call-template name="next-prev" />
 </xsl:template>
@@ -51,7 +56,7 @@
   <xsl:value-of select="tei:biblScope[@type='issue']"/>,
   <xsl:value-of select="tei:biblScope[@type='pages']"/>.<br/>
 <!-- date information seems redundant for some articles... -->
-   <p><xsl:value-of select="date"/></p>
+   <p><xsl:value-of select="tei:date"/></p>
 </xsl:template>
 
 <xsl:template match="tei:p/tei:title">
@@ -266,6 +271,18 @@
     <span class="match"><xsl:apply-templates/></span>
   </xsl:template>
 
-
+  <!-- recursive template to indent by inserting non-breaking spaces -->
+  <xsl:template name="indent">
+    <xsl:param name="num">0</xsl:param>
+    <xsl:variable name="space">&#160;</xsl:variable>
+    
+    <xsl:value-of select="$space"/>
+    
+    <xsl:if test="$num > 1">
+      <xsl:call-template name="indent">
+        <xsl:with-param name="num" select="$num - 1"/>
+      </xsl:call-template>
+    </xsl:if>
+  </xsl:template>
 
 </xsl:stylesheet>
