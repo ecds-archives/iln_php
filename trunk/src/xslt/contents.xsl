@@ -8,12 +8,12 @@
 
 <xsl:param name="mode">article</xsl:param>
 <!-- param for flat mode: all volumes or single volume -->
-<xsl:param name="vol">all</xsl:param>
+<xsl:param name="vol">flat</xsl:param> <!-- default is all; testing with flat -->
 <xsl:variable name="image_url">http://beck.library.emory.edu/iln/image-content/</xsl:variable>
 <xsl:variable name="mode_name">Browse</xsl:variable> 
 <xsl:variable name="xslurl">&#x0026;_xslsrc=xsl:stylesheet/</xsl:variable>
 <xsl:variable name="xsl_imgview">imgview.xsl</xsl:variable>
-<xsl:variable name="total_count" select="count(//div1 | //div2[figure])" />
+<xsl:variable name="total_count" select="count(//div1 | //div2[tei:figure])" />
 
 <xsl:variable name="cookie_name"><xsl:value-of select="concat('ILN-', $mode)"/></xsl:variable>
 
@@ -95,11 +95,11 @@
       - 
       <xsl:choose>
         <xsl:when test="$mode = 'figure'">
-           (<xsl:value-of select="count(.//figure)"/> Illustrations) <!-- number of figures -->
+           (<xsl:value-of select="count(.//tei:figure)"/> Illustrations) <!-- number of figures -->
         </xsl:when>
     	<xsl:otherwise>
            (<xsl:value-of select="count(div2)"/> Articles,  <!-- number of articles -->
-	   <xsl:value-of select="count(.//figure)"/> Illustrations)
+	   <xsl:value-of select="count(.//tei:figure)"/> Illustrations)
         </xsl:otherwise>
       </xsl:choose> 
     </xsl:element> <!-- end font -->
@@ -141,7 +141,7 @@
 
 
 <!-- articles with figures - creates a collapsible sublist with thumbnails -->
-<xsl:template match="div2[figure]"> 
+<xsl:template match="div2[tei:figure]"> 
   <xsl:param name="num"/>	<!-- collapsible list id -->
 
  <xsl:element name="li">

@@ -5,7 +5,7 @@ include_once("lib/xmlDbConnection.class.php");
 include_once("common_functions.php");
 
 
-$exist_args{"debug"} =  false;
+$exist_args{"debug"} =  true;
 $xmldb = new xmlDbConnection($exist_args);
 $xsl    = "xslt/iln-exist-search.xsl";
 
@@ -24,7 +24,7 @@ if ($max == '') $max = 20;
 $options = array();
 if ($kw) 
   //array_push($options, ". &= '$kw'");
-  array_push($options, "[ft:query(., '$kw')]"
+  array_push($options, "[ft:query(., '$kw')]");
 if ($doctitle)
   array_push($options, "[ft:query(./tei:head, '$doctitle')]");
 if ($date)
@@ -37,8 +37,8 @@ if (count($options)) {
   //  print("DEBUG: Searchfilter is $searchfilter\n");
 
 // construct xquery
-  $declare = "declare namespace tei='http://www.tei-c.org/ns/1.0'; "; 
-  $xquery = "declare option exist:serialize 'highlight-matches=all';";
+  $xquery = "declare namespace tei='http://www.tei-c.org/ns/1.0';"; 
+  $xquery .= "declare option exist:serialize 'highlight-matches=all';";
 $xquery .= "for \$a in /tei:TEI//tei:div2$searchfilter
 let \$matchcount := text:match-count(\$a)
 order by \$matchcount descending

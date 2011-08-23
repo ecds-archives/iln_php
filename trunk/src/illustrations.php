@@ -4,10 +4,12 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$exist_args{"debug"} =false;
+$exist_args{"debug"} =true;
 $xmldb = new xmlDbConnection($exist_args);
 
-$query = 'for $b in /tei:TEI/tei:text/tei:body/tei:div1
+$query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
+declare option exist:serialize 'highlight-matches=all';"; 
+$query .= 'for $b in /tei:TEI/tei:text/tei:body/tei:div1
 order by $b/@id
 return <div1 type="{$b/@type}">
  {$b/tei:head}
