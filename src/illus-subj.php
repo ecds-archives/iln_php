@@ -3,10 +3,12 @@
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
-$query = 'for $b in /TEI.2/text/back/div1//interpGrp return $b';
+$query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
+declare option exist:serialize 'highlight-matches=all';"; 
+$query .= 'for $b in /tei:TEI/tei:text/tei:back/tei:div1//tei:interpGrp return $b';
 
 $xsl_file = "xslt/illus-subj.xsl";
 

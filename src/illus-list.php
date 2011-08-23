@@ -14,15 +14,17 @@ $max = $_REQUEST["max"];
 if ($pos == '') $pos = 1;
 if ($max == '') $max = 20;
 
-$query = "for \$fig in /TEI.2/text/body//div2//figure[@ana &= '$id']
-let \$a:= \$fig/ancestor::div2
+$query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
+declare option exist:serialize 'highlight-matches=all';"; 
+$query .= "for \$fig in /tei:TEI/tei:text/tei:body//tei:div2//tei:figure/tei:graphic[@ana &= '$id']
+let \$a:= \$fig/ancestor::tei:div2
 return
 <div2>
 {\$a/@id}
 {\$a/@type}
-{\$a/head}
-{\$a/bibl}
-<figure>{\$fig/@entity}{\$fig/head}</figure>
+{\$a/tei:head}
+{\$a/tei:bibl}
+<figure>{\$fig/tei:graphic/@url}{\$fig/tei:head}</figure>
 </div2>";
 
 html_head("Illustrations by Subject");
