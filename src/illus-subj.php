@@ -3,7 +3,7 @@
 include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
-$exist_args{"debug"} = true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 $query = "declare namespace tei='http://www.tei-c.org/ns/1.0';

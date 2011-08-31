@@ -29,7 +29,7 @@
 </xsl:text></xsl:variable>
   
 <xsl:template match="/">
-<xsl:comment>DEBUG: root template matched!</xsl:comment>
+<!-- <xsl:text>DEBUG: root template matched!</xsl:text> -->
   <xsl:call-template name="itemlist"/>
 <!--  <xsl:element name="table">  
     <xsl:apply-templates/>
@@ -38,20 +38,10 @@
 
   <xsl:template name="itemlist">
     
-    <xsl:if test="count(//div2) > 0">
-            <p class="info">Click on the title to view the whole
-        article.<br/>
-        Click on the thumbnail
-        to view the image.</p>      
-      <xsl:call-template name="total-jumplist"/>
-      
-<!--      <xsl:if test="//div2/hits">
-        <p class="info">Click on the title to view the whole
-          article.<br/>
-          <xsl:if test='$mode="illus-list"'>Click on the thumbnail
-            to view the image.</xsl:if></p>
-     </xsl:if> -->
-      
+    <xsl:if test="$total > 0">
+            <p class="info">Click on the title to view the whole article.<br/>
+        Click on the thumbnail to view the image.</p>      
+      <xsl:call-template name="total-jumplist"/>     
       <table class="browse">
         <thead style="font-size:small;">
           <tr>
@@ -87,12 +77,12 @@
     <xsl:attribute name="class">title</xsl:attribute>
     <xsl:element name="a">
 	  <xsl:attribute name="href">browse.php?id=<xsl:value-of
-	select="@id"/></xsl:attribute>
+	select="@xml:id"/></xsl:attribute>
 	      <xsl:if test="@type='Article'">
-	      <xsl:apply-templates select="head" mode="table"/>
+	      <xsl:apply-templates select="tei:head" mode="table"/>
 	      </xsl:if>
 	      <xsl:if test="@type='Illustration'">
-	  <xsl:apply-templates select="tei:figure/tei:head" mode="table"/>
+	  <xsl:apply-templates select="figure/tei:head" mode="table"/>
 	      </xsl:if>
     </xsl:element> <!-- end a -->
       
@@ -118,7 +108,19 @@
 
 <!--display figure & link to image-viewer  (slightly different than ilnshared) -->
 <xsl:template name="thumb">
+<xsl:variable name="fig_value" select="figure/@url"/>
+<xsl:variable name="fig_id">
+  <xsl:choose>
+    <xsl:when test="contains($fig_value, '.jpg')">
+      <xsl:value-of select="substring-before($fig_value, '.jpg')"/>
+      <!-- <xsl:text>DEBUG: url contains .jpg </xsl:text> -->
+    </xsl:when>
+    <xsl:otherwise><xsl:value-of select="$fig_value"/>
+    </xsl:otherwise>
+  </xsl:choose>
+</xsl:variable>
       <!-- <xsl:element name="tr"> -->
+      <!-- <xsl:variable name="image_id"><xsl:value-of select="$fig_id"/></xsl:variable> -->
         <xsl:element name="td">
           <xsl:attribute name="class">figure</xsl:attribute>
 
@@ -126,14 +128,13 @@
 
       <xsl:element name="a">
 	<xsl:attribute
-name="href">javascript:launchViewer('figure.php?id=<xsl:value-of
-select="tei:figure/@entity"/>')</xsl:attribute>
+name="href">javascript:launchViewer('figure.php?id=<xsl:value-of select="$fig_value"/>')</xsl:attribute>
 
 <xsl:element name="img">
   <xsl:attribute name="class">javascript</xsl:attribute>
-  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', figure/@entity, '.gif')"/></xsl:attribute>
+  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', $fig_id, '.gif')"/></xsl:attribute>
   <xsl:attribute name="alt">view image</xsl:attribute>
-  <xsl:attribute name="title"><xsl:value-of select="normalize-space(head)"/></xsl:attribute>
+  <xsl:attribute name="title"><xsl:value-of select="normalize-space(tei:head)"/></xsl:attribute>
   </xsl:element> <!-- end img -->
   </xsl:element> <!-- end a --> 
 
@@ -145,13 +146,13 @@ select="tei:figure/@entity"/>')</xsl:attribute>
       <xsl:element name="a">
 <!--  <xsl:attribute name="href"><xsl:value-of
 select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
-	<xsl:attribute name="href">figure.php?id=<xsl:value-of select="tei:figure/@entity"/></xsl:attribute>
+	<xsl:attribute name="href">figure.php?id=<xsl:value-of select="$fig_value"/></xsl:attribute>
         <xsl:attribute name="target">web/image_viewer</xsl:attribute>
         <!-- open a new window without javascript -->
   <xsl:element name="img"> 
 
 
-  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', tei:figure/@entity, '.gif')"/></xsl:attribute>
+  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', $fig_id, '.gif')"/></xsl:attribute>
   <xsl:attribute name="alt">view image</xsl:attribute>
   </xsl:element> <!-- end img -->
   </xsl:element> <!-- end a --> 

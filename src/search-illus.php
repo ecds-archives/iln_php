@@ -5,7 +5,7 @@ include_once("lib/xmlDbConnection.class.php");
 include_once("common_functions.php");
 
 
-$exist_args{"debug"} =  false;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 $xsl    = "xslt/iln-exist-search.xsl";
 
@@ -23,30 +23,31 @@ if ($max == '') $max = 20;
 
 $options = array();
 if ($kw)
-  array_push($options, ". &= '$kw'");
+  array_push($options, "ft:query(., '$kw')");
 if ($subj)
- array_push($options, "./@ana &= '$subj'");
+ array_push($options, "ft:query(./@ana, '$subj')");
 
 // there must be at least one search parameter for this to work
 if (count($options)) {
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
-   // print("DEBUG: Searchfilter is $searchfilter\n");
+  // print("DEBUG: Searchfilter is $searchfilter\n");
 
 if ($date)
-  $searchfilter2 = "[(bibl/date &= '$date' or bibl/date/@value &= '$date')]";
+  $searchfilter2 = "[ft:query(tei:bibl/tei:date, '$date' or tei:bibl/tei:date/@when, '$date')]";
 
 
 // construct xquery
 //$declare = 'declare namespace xs="http://www.w3.org/2001/XMLSchema"; '; //Don't need?
- $xquery = "declare option exist:serialize 'highlight-matches=all';";
-$xquery .= "for \$a in /TEI.2/text/body/div1/div2$searchfilter2//figure$searchfilter
-let \$matchcount := text:match-count(\$a)
-let \$div2 := \$a/ancestor::div2
+ $xquery = "declare namespace tei='http://www.tei-c.org/ns/1.0';
+declare option exist:serialize 'highlight-matches=all';";
+$xquery .= "for \$a in /tei:TEI//tei:div2$searchfilter2//tei:figure$searchfilter
+let \$matchcount := ft:score(\$a)
+let \$div2 := \$a/ancestor::tei:div2
 return <div2>
-{\$div2/@id}
+{\$div2/@xml:id}
 {\$div2/@type}
-{\$div2/head}
-{\$div2/bibl}
+{\$div2/tei:head}
+{\$div2/tei:bibl}
 {\$a}";
 if ($kw || $subj)
   $xquery .= "<hits>{\$matchcount}</hits>";

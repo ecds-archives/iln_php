@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:exist="http://exist.sourceforge.net/NS/exist"
+  xmlns:tei="http://www.tei-c.org/ns/1.0"
   version="1.0" exclude-result-prefixes="exist">
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
@@ -96,7 +97,7 @@
 
 
   <xsl:template match="div2/*" mode="table">
-    <xsl:if test="name() != 'id'">
+    <xsl:if test="name() != 'xml:id'"> <!-- ? -->
       <xsl:apply-templates select="."/>
     </xsl:if>
   </xsl:template>
@@ -343,18 +344,18 @@
 <xsl:template name="biblio">
 <td class="title"><xsl:element name="a">
 	  <xsl:attribute name="href">browse.php?id=<xsl:value-of
-	select="@id"/>&amp;keyword=<xsl:value-of
+	select="@xml:id"/>&amp;keyword=<xsl:value-of
 	select="$keyword"/></xsl:attribute>
 	  <xsl:choose>
 	    <xsl:when test="$mode='search-illus'">
-	  <xsl:apply-templates select="figure/head" mode="table"/>
+	  <xsl:apply-templates select="tei:figure/tei:head" mode="table"/>
 	    </xsl:when>
 	    <xsl:when test="$mode='search'">
 	      <xsl:if test="@type='Article'">
-	      <xsl:apply-templates select="head" mode="table"/>
+	      <xsl:apply-templates select="tei:head" mode="table"/>
 	      </xsl:if>
 	      <xsl:if test="@type='Illustration'">
-	  <xsl:apply-templates select="figure/head" mode="table"/>
+	  <xsl:apply-templates select="figure/tei:head" mode="table"/>
 	      </xsl:if>
 	    </xsl:when>
 	  </xsl:choose>
@@ -363,19 +364,19 @@
         <xsl:element name="br"/> 
 	<xsl:element name="font">
  <xsl:attribute name="size">-1</xsl:attribute>
-  <xsl:value-of select="bibl/biblScope[@type='volume']" />,
-  <xsl:value-of select="bibl/biblScope[@type='issue']" />,  
-  <xsl:value-of select="bibl/biblScope[@type='pages']" />.  
-  <xsl:value-of select="bibl/date" /> 
+  <xsl:value-of select="tei:bibl/tei:biblScope[@type='volume']" />,
+  <xsl:value-of select="tei:bibl/tei:biblScope[@type='issue']" />,  
+  <xsl:value-of select="tei:bibl/tei:biblScope[@type='pages']" />.  
+  <xsl:value-of select="tei:bibl/tei:date" /> 
   - <xsl:value-of select="./@type"/>
-  <xsl:if test="bibl/extent">
-      - (<xsl:value-of select="bibl/extent" />)
+  <xsl:if test="tei:bibl/tei:extent">
+      - (<xsl:value-of select="tei:bibl/tei:extent" />)
   </xsl:if>
         <xsl:element name="br"/> 
 	<xsl:if test="$mode='search-illus'">
 	  <xsl:if test="@type='Article'">
 	    <xsl:text>Article title: </xsl:text>
-	    <xsl:apply-templates select="head"/>
+	    <xsl:apply-templates select="tei:head"/>
 	  </xsl:if>
 	</xsl:if>
   </xsl:element> <!-- end font --></td>
@@ -392,12 +393,11 @@
 
       <xsl:element name="a">
 	<xsl:attribute
-name="href">javascript:launchViewer('figure.php?id=<xsl:value-of
-select="figure/@entity"/>')</xsl:attribute>
+name="href">javascript:launchViewer('figure.php?id=<xsl:value-of select="tei:figure/tei:graphic/@url"/>')</xsl:attribute>
 
 <xsl:element name="img">
   <xsl:attribute name="class">javascript</xsl:attribute>
-  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', figure/@entity, '.gif')"/></xsl:attribute>
+  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', tei:figure/tei:graphic/@url, '.gif')"/></xsl:attribute>
   <xsl:attribute name="alt">view image</xsl:attribute>
   <xsl:attribute name="title"><xsl:value-of select="normalize-space(head)"/></xsl:attribute>
   </xsl:element> <!-- end img -->
@@ -411,13 +411,13 @@ select="figure/@entity"/>')</xsl:attribute>
       <xsl:element name="a">
 <!--  <xsl:attribute name="href"><xsl:value-of
 select="concat($image_url, 'ILN', @entity, '.jpg')"/></xsl:attribute> -->
-	<xsl:attribute name="href">figure.php?id=<xsl:value-of select="figure/@entity"/></xsl:attribute>
+	<xsl:attribute name="href">figure.php?id=<xsl:value-of select="tei:figure/tei:graphic/@url"/></xsl:attribute>
         <xsl:attribute name="target">web/image_viewer</xsl:attribute>
         <!-- open a new window without javascript -->
   <xsl:element name="img"> 
 
 
-  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', figure/@entity, '.gif')"/></xsl:attribute>
+  <xsl:attribute name="src"><xsl:value-of select="concat($image_url, 'ILN', tei:figure/tei:graphic/@url, '.gif')"/></xsl:attribute>
   <xsl:attribute name="alt">view image</xsl:attribute>
   </xsl:element> <!-- end img -->
   </xsl:element> <!-- end a --> 

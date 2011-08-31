@@ -16,15 +16,15 @@ if ($max == '') $max = 20;
 
 $query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
 declare option exist:serialize 'highlight-matches=all';"; 
-$query .= "for \$fig in /tei:TEI/tei:text/tei:body//tei:div2//tei:figure/tei:graphic[@ana &= '$id']
+$query .= "for \$fig in /tei:TEI//tei:graphic[ft:query(./@ana, '$id')]
 let \$a:= \$fig/ancestor::tei:div2
 return
 <div2>
-{\$a/@id}
+{\$a/@xml:id}
 {\$a/@type}
 {\$a/tei:head}
 {\$a/tei:bibl}
-<figure>{\$fig/tei:graphic/@url}{\$fig/tei:head}</figure>
+<figure>{\$fig/@url}{\$fig/../tei:head}</figure>
 </div2>";
 
 html_head("Illustrations by Subject");
