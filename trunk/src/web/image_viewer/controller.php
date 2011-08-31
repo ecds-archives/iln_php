@@ -20,6 +20,7 @@ $head = $xmldb->findNode("tei:head");
 $width = $xmldb->findNode("tei:graphic/@width");
 $height = $xmldb->findNode("tei:graphic/@height");
 
+//$head = utf8_decode($head);
 
 print "<h3>$head</h3>"; 
 

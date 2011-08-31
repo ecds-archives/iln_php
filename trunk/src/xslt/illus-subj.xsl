@@ -27,7 +27,7 @@
       <xsl:when test="count(tei:interp) = 1">
 	<xsl:element name="a">
 	  <xsl:attribute name="href">illus-list.php?id=<xsl:value-of
-	  select="interp/@xml:id"/></xsl:attribute>
+	  select="tei:interp/@xml:id"/></xsl:attribute>
     <xsl:element name="h4">
 	<xsl:value-of select="@type"/>
     </xsl:element>

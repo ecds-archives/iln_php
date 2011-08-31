@@ -4,13 +4,13 @@ include_once("config.php");
 include_once("lib/xmlDbConnection.class.php");
 include("common_functions.php");
 
-$exist_args{"debug"} =true;
+$exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
 $query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
 declare option exist:serialize 'highlight-matches=all';"; 
 $query .= 'for $b in /tei:TEI/tei:text/tei:body/tei:div1
-order by $b/@id
+order by $b/@xml:id
 return <div1 type="{$b/@type}">
  {$b/tei:head}
  {$b/tei:docDate}
@@ -29,9 +29,9 @@ $xmldb->xquery($query);
 
 
 html_head("Browse - Illustrations", true);
-print '</tei:head>';
-include("web/xml/tei:head.xml");
-include("web/xml/tei:sidebar.xml");
+print '</head>';
+include("web/xml/head.xml");
+include("web/xml/sidebar.xml");
 
 print '<div class="content"> 
       <h2>Illustrations</h2>';

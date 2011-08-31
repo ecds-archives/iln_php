@@ -17,7 +17,7 @@
 
   <xsl:output method="html"/>  
 
-<xsl:template match="/"> <xsl:text>DEBUG: root template matched!</xsl:text>
+<xsl:template match="/"> <!-- <xsl:text>DEBUG: root template matched!</xsl:text> -->
     <xsl:apply-templates select="//TEI"/>
 </xsl:template>
 

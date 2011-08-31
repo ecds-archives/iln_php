@@ -39,7 +39,7 @@ function html_head ($mode, $contentlist = false) {
 print "<html>
  <head>
  <title>$mode - The Civil War in America from The Illustrated London News</title>
-<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">
 <meta name=\"robots\" content=\"index,follow\">
 <link rel=\"stylesheet\" type=\"text/css\" href=\"$mycss\">\n";
 

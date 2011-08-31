@@ -19,7 +19,7 @@ $xmldb = new xmlDbConnection($exist_args);
 $query = "declare namespace tei='http://www.tei-c.org/ns/1.0';
 declare option exist:serialize 'highlight-matches=all';"; 
 $query .= 'for $art in /tei:TEI//tei:div1/tei:div2[@xml:id = "' . "$id" . '"]';
-if ($kw != '') {$query .= "[. |= \"$kw\"]";}
+if ($kw != '') {$query .= "[ft:query(., \"$kw\")]";}
 $query .= 'let $hdr := root($art)/tei:TEI/tei:teiHeader
 let $previd := $art/preceding-sibling::tei:div2[1]
 let $nextid := $art/following-sibling::tei:div2[1]
