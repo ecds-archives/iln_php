@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns="http://www.openarchives.org/OAI/2.0/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:xq="http://metalab.unc.edu/xql"
-  xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
-  version="1.0">
+		xmlns:tei="http://www.tei-c.org/ns/1.0"
+		xmlns="http://www.openarchives.org/OAI/2.0/"
+		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:xq="http://metalab.unc.edu/xql"
+		xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+		version="1.0">
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:param name="prefix"/>
@@ -41,7 +42,7 @@
     <xsl:element name="header">            
     <xsl:element name="identifier">
       <!-- identifier prefix is passed in as a parameter; should be defined in config file -->
-      <xsl:value-of select="concat($prefix, .//div2/.//@id)" /> 
+      <xsl:value-of select="concat($prefix, .//tei:div2/.//@xml:id)" /> 
     </xsl:element>
     <xsl:element name="datestamp">
       <xsl:value-of select=".//LastModified"/>

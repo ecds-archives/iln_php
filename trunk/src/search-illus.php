@@ -26,15 +26,17 @@ if ($kw)
   array_push($options, "ft:query(., '$kw')");
 if ($subj)
  array_push($options, "ft:query(./@ana, '$subj')");
+if ($date)
+  array_push($options, "ft:query(tei:bibl/tei:date | tei:bibl/tei:date/@when, '$date')");
 
 // there must be at least one search parameter for this to work
 if (count($options)) {
   $searchfilter = "[" . implode(" and ", $options) . "]"; 
   // print("DEBUG: Searchfilter is $searchfilter\n");
 
-if ($date)
-  $searchfilter2 = "[ft:query(tei:bibl/tei:date, '$date' or tei:bibl/tei:date/@when, '$date')]";
-
+  if ($date)
+  $searchfilter2 = "[ft:query(tei:bibl/tei:date | tei:bibl/tei:date/@when, '$date')]";
+  //print("DEBUG: Searchfilter is $searchfilter2\n");
 
 // construct xquery
 //$declare = 'declare namespace xs="http://www.w3.org/2001/XMLSchema"; '; //Don't need?
@@ -43,6 +45,7 @@ declare option exist:serialize 'highlight-matches=all';";
 $xquery .= "for \$a in /tei:TEI//tei:div2$searchfilter2//tei:figure$searchfilter
 let \$matchcount := ft:score(\$a)
 let \$div2 := \$a/ancestor::tei:div2
+order by \$div2/tei:bibl/tei:date/@when
 return <div2>
 {\$div2/@xml:id}
 {\$div2/@type}

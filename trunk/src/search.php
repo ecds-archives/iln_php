@@ -28,7 +28,7 @@ if ($kw)
 if ($doctitle)
   array_push($options, "ft:query(./tei:head, '$doctitle')");
 if ($date)
-  array_push($options, "ft:query(.//tei:date, '$date') or (.//tei:date/@when,'$date')");
+  array_push($options, "ft:query(.//tei:date |.//tei:date/@when, '$date')");
 
 
 // there must be at least one search parameter for this to work
