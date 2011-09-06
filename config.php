@@ -1,7 +1,7 @@
 <?php
 
 /* Configuration settings for entire site */
-$in_production = false;
+$in_production = true;
 // set level of php error reporting -- turn off warnings when in production
 if($in_production==true) {
   error_reporting(E_ERROR);	// for production
@@ -13,10 +13,11 @@ if($in_production==true) {
 // root directory and url where the website resides
 // production version
 $basedir = "/home/httpd/html/beck/iln";
-$server = "beck.library.emory.edu";
+$server = "rossiu.library.emory.edu";
+$webserver = "beck.library.emory.edu";
 $base_path = "/iln";
-$base_url = "http://$server$base_path/";
-$port = "7080";
+$base_url = "http://$webserver$base_path/";
+$port = "8080";
  } else {
 
 $webserver = "beck.library.emory.edu";
