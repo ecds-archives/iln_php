@@ -78,12 +78,7 @@
     <xsl:element name="a">
 	  <xsl:attribute name="href">browse.php?id=<xsl:value-of
 	select="@xml:id"/></xsl:attribute>
-	      <xsl:if test="@type='Article'">
-	      <xsl:apply-templates select="tei:head" mode="table"/>
-	      </xsl:if>
-	      <xsl:if test="@type='Illustration'">
-	  <xsl:apply-templates select="figure/tei:head" mode="table"/>
-	      </xsl:if>
+	      <xsl:apply-templates select="figure/tei:head" mode="table"/>
     </xsl:element> <!-- end a -->
       
         <xsl:element name="br"/> 
