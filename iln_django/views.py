@@ -135,7 +135,6 @@ def illustrations(request):
     for fig in volume.figs:
       figname = str(fig.img_url).rstrip(".jpg")
       fig_list.append(figname)
-      #fig_list = fig_list.sort
       fig_url_dict[figname] = (volume.id)  
        
     fig_count = len(fig_list)
