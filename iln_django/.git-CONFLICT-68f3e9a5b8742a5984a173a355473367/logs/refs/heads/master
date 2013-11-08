@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 892443a9ea27bd0c7e3c15067d01543993e79669 Sara Palmer <sepalme@emory.edu> 1382564908 -0400	commit (initial): index, about, bibliography, and links pages all functional
+892443a9ea27bd0c7e3c15067d01543993e79669 7488a8e58d4cc07015cd6c9dbc133e33b4b9e554 Sara Palmer <sepalme@emory.edu> 1382650640 -0400	commit: built search form and template, still working out issues with the model but access to exist is a go
+7488a8e58d4cc07015cd6c9dbc133e33b4b9e554 81bd5101205e3fa819eb65620448fb489c6bf7c9 Sara Palmer <sepalme@emory.edu> 1383169857 -0400	commit: search page and search results functional, needs term highlighting; volumes list functional, count of articles/illustrations nonfunctional
