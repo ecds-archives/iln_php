@@ -23,11 +23,11 @@
      - ({% for key, value in fig_count_dict.items %}{% if key == volume.id %}{{value}}{% endif %}{% endfor %} Illustrations)</font></p>
 
   <table>
-  {% for key, value in fig_url_dict.items %}
-  {% if value == volume.id %}
+  {% for key, values in fig_url_dict.iteritems %}
+  {% if values.0 == volume.id %}
   <tr><td class="figure"><img
   src="http://beck.library.emory.edu/iln/image-content/ILN{{key}}.gif"
-  alt="view image" title="NEED FIGURE HEAD VALUE"/><b>{{key}}</b></p>{% endif %}{% endfor %}</td></tr>
+  alt="view image" title="{{values.1}}"/><b>{{values.1}}</b></p>{% endif %}{% endfor %}</td></tr>
 
 </table>
 </ul>

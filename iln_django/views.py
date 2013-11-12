@@ -1,6 +1,6 @@
 import os
 import re
-from collections import Counter
+import operator
 from urllib import urlencode
 import logging
 
@@ -10,8 +10,8 @@ from django.http import HttpResponse, Http404
 from django.core.paginator import Paginator, InvalidPage, EmptyPage
 from django.template import RequestContext
 
-from iln.models import Volume_List, Volume, Article, Fields, Topics
-from iln.forms import ArticleSearchForm, IllustrationSearchForm
+from iln_django.models import Volume_List, Volume, Article, Fields, Topics
+from iln_django.forms import ArticleSearchForm, IllustrationSearchForm
 
 from eulxml.xmlmap.core import load_xmlobject_from_file
 from eulxml.xmlmap.teimap import Tei, TeiDiv, _TeiBase, TEI_NAMESPACE, xmlmap
@@ -133,10 +133,12 @@ def illustrations(request):
     div_count = len(div_list)
     div_count_dict[volume.id] = (div_count)
     for fig in volume.figs:
-      figname = str(fig.img_url).rstrip(".jpg")
+      figname = fig.img_url.rstrip(".jpg")
+      figpage = re.sub(r'v\d\dp', '', figname)
+      fighead = fig.head
       fig_list.append(figname)
-      fig_url_dict[figname] = (volume.id)  
-       
+      fig_url_dict[figname] = (volume.id, fighead, figpage)
+      #fig_url_dict = sorted(fig_url_dict.iteritems, key=operator.itemgetter(2)) 
     fig_count = len(fig_list)
     fig_count_dict[volume.id] = (fig_count)
   
