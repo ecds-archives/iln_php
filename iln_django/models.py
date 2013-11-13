@@ -22,22 +22,21 @@ class Fields(_TeiBase):
     date = StringField('tei:bibl/tei:date')
     type = StringField("@type")
     extent = StringField('tei:bibl/tei:extent')
-    img_url = StringField('tei:graphic/@url')
-    img_ana = StringField('tei:graphic/@ana')
-    img_w = StringField('tei:graphic/@width')
-    img_h = StringField('tei:graphic/@height')
     
 class Volume_List(XmlModel, Tei):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('/tei:TEI')
     divs = NodeListField('//tei:div2', Fields)
+    div_heads = NodeListField('//tei:div2/tei:head', 'self')
     figs = NodeListField('//tei:figure', Fields)
     id = StringField('//tei:div1/@xml:id')
     head = StringField('//tei:div1/tei:head')
     docDate = StringField('//tei:div1/tei:docDate')
 
 class Volume(XmlModel, Tei):
-    ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
+    ROOT_NAMESPACES = {
+        'tei' : TEI_NAMESPACE,
+        'xml' : 'http://www.w3.org/XML/1998/namespace'}
     objects = Manager('//tei:div1')
     divs = NodeListField('//tei:div2', Fields)
     head = StringField('tei:head')
@@ -79,8 +78,13 @@ class Article(XmlModel, TeiDiv):
     prevdiv_type = NodeField("preceding::tei:div2[1]/@type", "self")
     ana = StringField("@ana", "self") 
    
-class Topics(XmlModel):
-    objects = Manager("//interp")
-    id = StringField('@xml:id')
-    name = StringField("//interp", "self")
-    
+class Figure(XmlModel, Tei):
+    ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
+    objects = Manager('//tei:figure')
+    figure = NodeField("//tei:figure", "self")
+    head = StringField('tei:head')
+    url = StringField('tei:graphic/@url')
+    ana = StringField('tei:graphic/@ana')
+    width = StringField('tei:graphic/@width')
+    height = StringField('tei:graphic/@height')
+    volume_id = StringField('ancestor::tei:div1/@xml:id', Volume)

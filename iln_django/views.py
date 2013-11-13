@@ -1,6 +1,6 @@
 import os
 import re
-import operator
+import collections
 from urllib import urlencode
 import logging
 
@@ -10,7 +10,7 @@ from django.http import HttpResponse, Http404
 from django.core.paginator import Paginator, InvalidPage, EmptyPage
 from django.template import RequestContext
 
-from iln_django.models import Volume_List, Volume, Article, Fields, Topics
+from iln_django.models import Volume_List, Volume, Article, Fields, Figure
 from iln_django.forms import ArticleSearchForm, IllustrationSearchForm
 
 from eulxml.xmlmap.core import load_xmlobject_from_file
@@ -121,25 +121,16 @@ def volume_display(request, vol_id):
   return render_to_response('volume_display.html', {'volume': volume,}, context_instance=RequestContext(request))
 
 def illustrations(request):
-  volumes = Volume_List.objects.only('id', 'head', 'docDate', 'divs', 'figs').order_by('id')
-  div_count_dict = {}
+  volumes = Volume_List.objects.only('id', 'head', 'docDate', 'figs').order_by('id')
   fig_count_dict = {}
-  fig_url_dict = {}
+  fig_dict = {}
   for volume in volumes:
-    div_list = []
     fig_list = []
-    for div in volume.divs:
-      div_list.append("n")
-    div_count = len(div_list)
-    div_count_dict[volume.id] = (div_count)
     for fig in volume.figs:
-      figname = fig.img_url.rstrip(".jpg")
-      figpage = re.sub(r'v\d\dp', '', figname)
-      fighead = fig.head
-      fig_list.append(figname)
-      fig_url_dict[figname] = (volume.id, fighead, figpage)
-      #fig_url_dict = sorted(fig_url_dict.iteritems, key=operator.itemgetter(2)) 
+      fig_list.append(fig)      
     fig_count = len(fig_list)
     fig_count_dict[volume.id] = (fig_count)
+
+  figures = Figure.objects.all()
   
-  return render_to_response('illustrations.html', {'volumes': volumes, 'div_count_dict': div_count_dict, 'fig_count_dict': fig_count_dict, 'fig_url_dict': fig_url_dict}, context_instance=RequestContext(request))
+  return render_to_response('illustrations.html', {'volumes': volumes, 'fig_count_dict': fig_count_dict, 'fig_dict': fig_dict, 'figures': figures}, context_instance=RequestContext(request))
