@@ -19,6 +19,7 @@ class Fields(_TeiBase):
     vol = StringField('tei:bibl/tei:biblScope[@type="volume"]')
     issue = StringField('tei:bibl/tei:biblScope[@type="issue"]')
     pages = StringField('tei:bibl/tei:biblScope[@type="pages"]')
+    url = StringField('tei:graphic/@url')
     date = StringField('tei:bibl/tei:date')
     type = StringField("@type")
     extent = StringField('tei:bibl/tei:extent')

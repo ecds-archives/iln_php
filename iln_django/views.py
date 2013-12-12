@@ -121,16 +121,23 @@ def volume_display(request, vol_id):
   return render_to_response('volume_display.html', {'volume': volume,}, context_instance=RequestContext(request))
 
 def illustrations(request):
-  volumes = Volume_List.objects.only('id', 'head', 'docDate', 'figs').order_by('id')
+  volumes = Volume_List.objects.only('id', 'head', 'docDate', 'divs', 'figs').order_by('id')
+  div_count_dict = {}
   fig_count_dict = {}
-  fig_dict = {}
+  fig_url_dict = {}
   for volume in volumes:
+    div_list = []
     fig_list = []
+    for div in volume.divs:
+      div_list.append("n")
+    div_count = len(div_list)
+    div_count_dict[volume.id] = (div_count)
     for fig in volume.figs:
-      fig_list.append(fig)      
+      figname = str(fig.url).rstrip(".jpg")
+      fighead = fig.head
+      fig_list.append(figname)
+      fig_url_dict[figname] = (volume.id, fighead)
     fig_count = len(fig_list)
     fig_count_dict[volume.id] = (fig_count)
-
-  figures = Figure.objects.all()
-  
-  return render_to_response('illustrations.html', {'volumes': volumes, 'fig_count_dict': fig_count_dict, 'fig_dict': fig_dict, 'figures': figures}, context_instance=RequestContext(request))
+ 
+  return render_to_response('illustrations.html', {'volumes': volumes, 'div_count_dict': div_count_dict, 'fig_count_dict': fig_count_dict, 'fig_url_dict': fig_url_dict}, context_instance=RequestContext(request))

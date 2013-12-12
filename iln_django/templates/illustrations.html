@@ -16,9 +16,6 @@
         img.javascript { display: none }
       </style><p>Because you do not have Javascript running, you may prefer to browse <a href="volume.php" rel="alternate">volumes</a> separately.</p></noscript>
 
-  {% for figure in figures %}
-  {{ figure.url}}
-  {% endfor %}
   
 {% for volume in volumes %}
   <p>{{volume.head}}</a><font size="-1">
@@ -26,12 +23,11 @@
      - ({% for key, value in fig_count_dict.items %}{% if key == volume.id %}{{value}}{% endif %}{% endfor %} Illustrations)</font></p>
 
   <table>
-  {% for figure in figures %}
-  {% if figure.volume_id == volume.id %}
-    <p>found</p>
+  {% for key, values in fig_url_dict.items %}
+  {% if values.0 == volume.id %}
   <tr><td class="figure"><img
-  src="http://beck.library.emory.edu/iln/image-content/ILN{{values.0}}.gif"
-  alt="view image" title="{{values.2}}"/><b>{{values.2}}***{{key}}</b></p>{% endif %}{% endfor %}</td></tr>
+  src="http://beck.library.emory.edu/iln/image-content/ILN{{key}}.gif"
+  alt="view image" title="{{values.1}}"/><b>{{values.1}}</b></p>{% endif %}{% endfor %}</td></tr>
 
 </table>
 </ul>
